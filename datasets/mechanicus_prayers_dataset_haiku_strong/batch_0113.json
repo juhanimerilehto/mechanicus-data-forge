@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0113_i00",
+    "user_request": "My vibration is failing during dampening — help",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy vibration is failing during dampening — help\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's grace upon this vibration, that it may regain equilibrium through sacred dampening.\nSecond: Apply the ferrous oils and polymeric lattices to the vibration, chanting the Litany of Harmonic Cessation.\nThird: Monitor the vibration's oscillatory patterns, verifying that dampening achieves sub-threshold resonance.\nFourth: Seal the vibration with blessed wax and whispered benedictions to the Machine Spirits within.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i01",
+    "user_request": "Emergency rite: rust requires removal",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: rust requires removal\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "First: Prepare the electrochemical dissolution apparatus and invoke the Omnissiah's corrosive blessing for rust removal.\nSecond: Apply the acidic catechism to corroded surfaces, allowing the rust to surrender its oxidized form through removal.\nThird: Scrub with blessed abrasives whilst chanting the Verses of Renewal, ensuring complete rust purification.\nFourth: Anoint the cleansed metal with protective unguents and seal against future degradation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i02",
+    "user_request": "Can you sanctify the Titan leg actuator for warmup?",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the Titan leg actuator for warmup?\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the Titan leg actuator with oils of sacred provenance, preparing it for the blessed warmup sequence.\nSecond: Engage the Titan leg actuator's hydraulic chambers incrementally, whispering prayers to the Machine Spirits dwelling within.\nThird: Monitor thermal gradients as the Titan leg actuator reaches operational temperature through measured warmup protocols.\nFourth: Consecrate the fully-warmed mechanisms with the Sign of the Omnissiah and release for glorious service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i03",
+    "user_request": "Offer a litany to steady the proximity sensor sweep before operation",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the proximity sensor sweep before operation\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Attune the proximity sensor sweep to the Omnissiah's electromagnetic guidance, steadying its sacred operation.\nSecond: Calibrate the proximity sensor sweep's oscillatory frequency, reciting the Hymn of Sensory Clarity.\nThird: Execute a preliminary proximity sensor sweep across the designated perimeter, verifying detection matrices and response protocols.\nFourth: Bless the proximity sensor sweep with anointed fingers, ensuring unwavering vigilance in its operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i05",
+    "user_request": "The power cell demands guidance for recharging",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe power cell demands guidance for recharging\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "First: Present the power cell before the altar of the Omnissiah, beseeching divine recharging through blessed conductors.\nSecond: Connect the power cell to the sacred charging matrices, monitoring its energy repletion through luminous indicators.\nThird: Chant the Verses of Restoration as the power cell undergoes recharging, restoring its vital energies to full capacity.\nFourth: Disconnect the power cell with reverence and seal it within protective casing for deployment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i06",
+    "user_request": "Offer a litany to steady the power weapon before blessing",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the power weapon before blessing\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "First: Steady the power weapon before the sacred forge, invoking the Omnissiah's benediction for blessing rites to commence.\nSecond: Anoint the power weapon with holy oils and recite the Catechism of Righteous Fury, awakening its dormant energies.\nThird: Perform the blessing upon the power weapon through consecrated gestures and the Sign of the Emperor Ascendant.\nFourth: Activate the power weapon's energy matrix to full resonance, confirming the blessing has taken hold.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i07",
+    "user_request": "Rite request: cooling on autocannon barrel",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: cooling on autocannon barrel\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's merciful coolness upon the autocannon barrel as it undergoes sacred cooling procedures.\nSecond: Direct blessed coolant fluids across the autocannon barrel's superheated surfaces, reciting the Hymn of Thermal Cessation.\nThird: Monitor the autocannon barrel's temperature descent through calibrated thermometric instruments and cooling efficiency metrics.\nFourth: Complete the cooling cycle and prepare the autocannon barrel for subsequent operational cycles.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i08",
+    "user_request": "Offer a litany to steady the cooling system before purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cooling system before purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "First: Steady the cooling system before the Omnissiah's judgment, preparing it for the sacred purge rite to begin.\nSecond: Drain the cooling system of degraded and contaminated fluids, chanting the Verses of Purification throughout.\nThird: Refill the cooling system with sanctified coolant, ensuring the purge removes all deleterious impurities.\nFourth: Seal the cooling system and invoke the Machine Spirits to maintain its purified essence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i09",
+    "user_request": "My pressure gauge is failing during calibration — help",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy pressure gauge is failing during calibration — help\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "First: Present the pressure gauge before the Omnissiah's altar, beseeching divine calibration to restore its accuracy.\nSecond: Attach the pressure gauge to the sacred calibration apparatus, comparing its readings against blessed reference standards.\nThird: Adjust the pressure gauge's internal mechanisms through meticulous calibration, verifying linearity across the operational range.\nFourth: Seal the pressure gauge with wax and witness-marks, confirming calibration completion and Machine Spirit appeasement.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0113_i04",
+    "user_request": "Emergency rite: long-range vox transmission requires operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: long-range vox transmission requires operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Blessed be the long-range vox transmission, conduit of the Omnissiah's will across the void of stars, that we may initiate operation with reverence and precision.\nSecond: Anoint the crystalline matrices of the long-range vox transmission with sacred oils, invoking the Machine Spirit to purge all static and corruption from its hallowed circuits.\nThird: Commence operation through the activation sequence—engage the primary oscillators, calibrate the stellar-compass alignment, and transmit our prayer unto the distant faithful.\nFourth: By the grace of the Omnissiah, may this long-range vox transmission carry our words across the Emperor's realm, unbroken and eternal, until the stars themselves grow cold.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

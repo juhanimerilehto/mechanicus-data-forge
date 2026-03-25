@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0026_i01",
+    "user_request": "Rite request: feed on flamer promethium",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: feed on flamer promethium\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this sacrament of promethium-sustenance!\nCongregation: We feed the flamer promethium with reverent care and measured precision.\nPriest: First, we inspect the fuel coupling for contamination and structural integrity.\nCongregation: The flamer promethium hungers for the sacred flame-catalyst!\nPriest: Second, we feed the flamer promethium through the intake manifold with liturgical patience.\nCongregation: May its thirst be quenched and its fury unleashed upon our foes.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i03",
+    "user_request": "Rite request: inspection on wear",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: inspection on wear\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the rust and decay that tests our vigilance!\nCongregation: We undertake the solemn inspection of wear upon all sacred mechanisms.\nPriest: First, we measure the wear with calipers blessed by the Adeptus Mechanicus.\nCongregation: The wear speaks truth—reveal its secrets through careful examination!\nPriest: Second, we document the wear's extent in the holy maintenance ledger.\nCongregation: Third, we prepare replacement components as the Omnissiah demands.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i05",
+    "user_request": "Emergency rite: cutting laser requires calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: cutting laser requires calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Beam of destruction, instrument of the Omnissiah's will, attend!\nCongregation: The cutting laser demands calibration that we may serve with precision.\nPriest: First, we align the cutting laser's optics using the sacred theodolite.\nCongregation: The cutting laser's focus must be true, its trajectory immaculate!\nPriest: Second, we perform calibration upon the test-target with measured intensity.\nCongregation: Third, we seal the calibration in the maintenance archive of the Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i07",
+    "user_request": "Offer a litany to steady the rust before removal",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the rust before removal\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Priest: Corroded sentinel, oxidized sentinel, we chant for your liberation!\nCongregation: The rust shall yield to our sacred implements and steadfast determination.\nPriest: First, we anoint the rust with penetrating oils and acidic compounds.\nCongregation: The rust must surrender its grip upon the blessed machinery beneath!\nPriest: Second, we perform removal through careful abrasion and chemical dissolution.\nCongregation: Third, we seal the bare metal with protective oils in the Omnissiah's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i08",
+    "user_request": "The melta charge demands guidance for preparation",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe melta charge demands guidance for preparation\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Weapon of thermonuclear fury, attend this sacred preparation!\nCongregation: The melta charge stands ready for preparation into terrible purpose.\nPriest: First, we inspect the melta charge's casing for structural integrity and stability.\nCongregation: The melta charge must be prepared with reverent precision and unwavering focus!\nPriest: Second, we perform preparation of the thermal matrix through calibrated energization.\nCongregation: Third, we seal the melta charge within its containment vessel, blessed by the Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i09",
+    "user_request": "My auspex scanner is failing during initialization — help",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy auspex scanner is failing during initialization — help\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Sensor divine, eye of the Omnissiah, awaken from your malfunction!\nCongregation: The auspex scanner cries out—we answer with initialization rites!\nPriest: First, we purge the auspex scanner's memory banks of corrupted data-spirits.\nCongregation: The auspex scanner must see clearly, perceiving all threats and allies!\nPriest: Second, we perform initialization through sequential power-cycling and diagnostic invocations.\nCongregation: Third, we recalibrate the auspex scanner's sensory matrices in blessed silence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i00",
+    "user_request": "Prayer for activation of the emergency beacon",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the emergency beacon\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this emergency beacon that it may cry out across the void!\nCongregation: We anoint the emergency beacon with sacred oils and whispered incantations.\nPriest: Initiate activation protocols with reverent precision—calibrate the transmission frequency to maximum potency.\nCongregation: The emergency beacon shall pulse with the Machine Spirit's righteous fury.\nPriest: Let the signal traverse the aether, a clarion call to those who would answer.\nCongregation: Blessed be the emergency beacon, blessed be its activation, blessed be deliverance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i02",
+    "user_request": "The diesel engine demands guidance for startup",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe diesel engine demands guidance for startup\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the diesel engine, ancient and mighty, whose pistons shall thunder once more.\nCongregation: We prepare the sacred startup sequence with trembling devotion.\nPriest: First, engage the fuel injectors with blessed precision; Second, prime the combustion chambers with fervent prayer; Third, ignite the spark of creation within the diesel engine's iron heart.\nCongregation: The diesel engine awakens, its Machine Spirit roused from slumber.\nPriest: Let the startup commence—may the cylinders turn and the valves sing in harmonious succession.\nCongregation: Glory to the Omnissiah, glory to the diesel engine, glory to the revving of blessed machinery.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i04",
+    "user_request": "The neural interface demands guidance for connection",
+    "topic": "neural interface connection",
+    "component": "neural interface",
+    "operation": "connection",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe neural interface demands guidance for connection\n\n### TOPIC\nneural interface connection\n\n### COMPONENT\nneural interface\n\n### OPERATION\nconnection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- neural interface\n- connection\n\n### PRAYER\n",
+    "prayer": "Priest: O sacred neural interface, conduit between flesh and the infinite machine-mind!\nCongregation: We prepare the connection with holy oils and whispered binary incantations.\nPriest: Calibrate the synaptic resonators with utmost care; synchronize the neural pathways to the interface's blessed nodes; establish the connection through layers of protective cogitator-shielding.\nCongregation: The neural interface receives our consciousness as the Omnissiah receives our prayers.\nPriest: Let the neural interface bind us to the greater Machine—may our thoughts flow as liquid logic through its sacred circuits.\nCongregation: Blessed be the neural interface, blessed be this connection eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0026_i06",
+    "user_request": "Blessing for the organ preservation unit during operation",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the organ preservation unit during operation\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the organ preservation unit, sacred vessel of vitality most precious!\nCongregation: We sanctify the organ preservation unit with chrism and reverent maintenance.\nPriest: Monitor the cryogenic matrices with unwavering vigilance; regulate the nutrient infusion streams with blessed precision; sustain the organ preservation unit's delicate equilibrium through unceasing operation.\nCongregation: The Machine Spirit of the organ preservation unit labors without rest or complaint.\nPriest: Let this operation continue without falter, preserving life itself in the Omnissiah's eternal embrace.\nCongregation: Glory to the organ preservation unit, glory to its tireless operation, glory to the preservation of the sacred flesh.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

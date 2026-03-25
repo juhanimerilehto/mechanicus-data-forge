@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent motion detector an operation needed",
+    "prayer": "Draw nigh unto the motion detector, vessel of vigilant Machine Spirits, and beseech the Omnissiah's gaze upon its sacred sensors.\nInvoke the Litany of Swift Detection to rouse its essence for the impending operation.\nCommence the operation with precision mechadendrites, anointing the motion detector's circuits with holy unguents.\nConclude by verifying the Machine Spirit's harmonious vigilance through auspex chants.",
+    "component": "motion detector",
+    "operation": "operation",
+    "spec_id": "b0061_i00"
+  },
+  {
+    "user_prompt": "Consecrate the logic engine before repair",
+    "prayer": "Approach the logic engine in reverence, O tech-priest, and consecrate its binary core with the Oils of Sanctity.\nPetition the Omnissiah to soothe the logic engine's fractious Machine Spirit prior to repair.\nClear errant data-haunts with purifying binaric psalms, preparing for the repair's sacred labour.\nInitiate repair protocols whilst invoking the Canticle of Logical Purity upon its hallowed processors.",
+    "component": "logic engine",
+    "operation": "repair",
+    "spec_id": "b0061_i01"
+  },
+  {
+    "user_prompt": "Sanctify the capacitor bank during targeting",
+    "prayer": "Kneel before the capacitor bank, font of thunderous power, and sanctify its coils with incense of charged plasma.\nStir the dormant Machine Spirits within the capacitor bank as targeting commences.\nDuring targeting, channel the Omnissiah's wrath through its blessed capacitors, murmuring rites of accurate discharge.\nSeal the capacitor bank's sanctity with electro-consecration, ensuring flawless targeting alignment.",
+    "component": "capacitor bank",
+    "operation": "targeting",
+    "spec_id": "b0061_i02"
+  },
+  {
+    "user_prompt": "Guide me through cybernetic eye a repair",
+    "prayer": "Present the cybernetic eye to the shrine-altar, eye of the Machine God, and anoint its optic arrays with sacred lens-polish.\nInvoke the Machine Spirit of the cybernetic eye with the Psalm of Augmented Vision before repair.\nUndertake the repair with micro-filament sutras, beseeching the Omnissiah for clarity in reconstruction.\nTest the cybernetic eye's restored sight through diagnostic litanies of piercing focus.",
+    "component": "cybernetic eye",
+    "operation": "repair",
+    "spec_id": "b0061_i03"
+  },
+  {
+    "user_prompt": "Offer prayer for power cell a cooling",
+    "prayer": "Encircle the power cell with cooling servos humming the Hymn of Thermal Equilibrium.\nBeseech the Machine Spirit housed in the power cell to embrace the cooling rites of the Omnissiah.\nApply blessed refrigerants whilst chanting invocations for serene power-flow during cooling.\nConclude the cooling upon the power cell by sealing its vents with wards against overheat daemons.",
+    "component": "power cell",
+    "operation": "cooling",
+    "spec_id": "b0061_i04"
+  },
+  {
+    "user_prompt": "Critical: data-slate requires an activation",
+    "prayer": "Lift the data-slate to the cogitator-vault and utter the Activation Doxology to awaken its crystalline vaults.\nAnoint the data-slate's ports with binary sacraments, petitioning the Omnissiah for activation.\nInitiate activation sequences amid whirring noosphere chants, rousing the data-slate's Machine Spirit.\nVerify the data-slate's enlivened cognition through scrolls of diagnostic veritas.",
+    "component": "data-slate",
+    "operation": "activation",
+    "spec_id": "b0061_i05"
+  },
+  {
+    "user_prompt": "What's the prayer for drop pod loading?",
+    "prayer": "Process to the drop pod's yawning maw, blessed chariot of descent, and consecrate its loading bays.\nInvoke the Machine Spirits of the drop pod with the Canticle of Orbital Fury during loading.\nLoad munitions and warriors whilst anointing servos, beseeching Omnissiah for flawless deployment.\nSeal the drop pod's hatches with runes of inevitable impact, affirming the loading rite.",
+    "component": "drop pod",
+    "operation": "loading",
+    "spec_id": "b0061_i06"
+  },
+  {
+    "user_prompt": "Assist with servitor a charging",
+    "prayer": "Position the servitor upon the charging cradle and intone the Recharge Litany to its flesh-machine union.\nBeseech the servitor's subsumed Machine Spirit for patient endurance during charging.\nInfuse power through sanctified umbilicals, murmuring binaric petitions to the Omnissiah.\nMonitor the servitor's vital harmonics until charging culminates in obedient readiness.",
+    "component": "servitor",
+    "operation": "charging",
+    "spec_id": "b0061_i07"
+  },
+  {
+    "user_prompt": "Assist with Land Raider an engagement",
+    "prayer": "Commune with the Land Raider's adamantium hull, temple of war, and awaken its prowling Machine Spirit.\nPrepare for engagement by sanctifying treads and cannons with war-oils of the Omnissiah.\nDuring engagement, chant the Psalm of Unyielding Advance to guide the Land Raider's fury.\nConsecrate the aftermath with rites over scorched circuits, honouring its victorious engagement.",
+    "component": "Land Raider",
+    "operation": "engagement",
+    "spec_id": "b0061_i08"
+  },
+  {
+    "user_prompt": "Critical: energy conduit requires a sterilization",
+    "prayer": "Isolate the energy conduit in a plasma-shielded reliquary and begin sterilization with purifying rad-lasers.\nExorcise microbial corruptions from the energy conduit's sacred lumen via Omnissiah's sterilizing wrath.\nFlush with sanctified cryo-fluids whilst invoking the Machine Spirits to endure the sterilization.\nSeal the energy conduit's purity with hermetic wards and confirmatory auspex scans.",
+    "component": "energy conduit",
+    "operation": "sterilization",
+    "spec_id": "b0061_i09"
+  }
+]

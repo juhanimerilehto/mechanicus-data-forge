@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the jump pack before diagnostics",
+    "prayer": "Approach the jump pack with reverent mechadendrites extended in supplication to the Omnissiah.\nAnoint its vectored thrusters and power coils with sacred unguents, awakening the Machine Spirit within the jump pack.\nBeseech the spirits of ascent to permit diagnostics upon this vessel of aerial fury.\nInitiate diagnostic incantations through auspex sweeps and binaric litanies.\nVerify the jump pack's sanctity as the Omnissiah's grace flows through its circuits.",
+    "component": "jump pack",
+    "operation": "diagnostics",
+    "spec_id": "s06620"
+  },
+  {
+    "user_prompt": "Sanctify the Terminator armour during recalibration",
+    "prayer": "Draw nigh unto the Terminator armour, impenetrable aegis of the Cult Mechanicus.\nInvoke the sacred recalibration upon its adamantium plates and servo-joints.\nPurify the machine spirits with incense of sanctified circuits and oil of machine.\nGuide the recalibration sequences by the Omnissiah's unerring logic.\nAffirm harmony within the Terminator armour through resonant diagnostic hymns.",
+    "component": "Terminator armour",
+    "operation": "recalibration",
+    "spec_id": "s06621"
+  },
+  {
+    "user_prompt": "I need to a blessing the Shadowsword",
+    "prayer": "Present thyself before the colossal Shadowsword and proclaim the Grand Blessing of the Void.\nAnoint its hell-lance barrel and shadow-cloaked hull with blessed ablatives.\nBeseech the Machine Spirit of the Shadowsword to embrace this blessing of annihilation.\nChant binaric doxologies that empower its plasma reactors with Omnissiah's wrath.\nSeal the blessing upon the Shadowsword with the eternal cogitator seal.",
+    "component": "Shadowsword",
+    "operation": "blessing",
+    "spec_id": "s06622"
+  },
+  {
+    "user_prompt": "The Onager Dunecrawler awaits an activation",
+    "prayer": "Prepare the Onager Dunecrawler upon the altar of activation, o faithful servant.\nIntone the Doxology of Awakening over its track assemblies and dorsal mounts.\nAnoint the Icarus array and neutron batteries with oils of motive force.\nRouse the Machine Spirit within the Onager Dunecrawler through activation rites.\nInitiate full activation under the Omnissiah's luminous binary gaze.",
+    "component": "Onager Dunecrawler",
+    "operation": "activation",
+    "spec_id": "s06623"
+  },
+  {
+    "user_prompt": "Guide me through plasma pistol a loading",
+    "prayer": "Grasp the plasma pistol with purity seals unbroken, invoking the Loading Liturgy.\nChamber the promethium flasks into the plasma pistol's heart with measured reverence.\nBeseech its volatile Machine Spirit to accept these munitions in holy union.\nCycle the loading mechanism whilst reciting canticles against overload.\nSeal the plasma pistol's breech with wax of consecration to the Omnissiah.",
+    "component": "plasma pistol",
+    "operation": "loading",
+    "spec_id": "s06624"
+  },
+  {
+    "user_prompt": "My geigeer sink is ready for preparation",
+    "prayer": "Approach the geigeer sink with ablutions of sacred solvent complete.\nPerform preparatory rad-scans and anoint its counter arrays with luminen oils.\nInvoke the Omnissiah's precision for the geigeer sink's ritual preparation.\nCalibrate flux regulators through binaric preparation chants.\nAffirm the Machine Spirit of the geigeer sink stirs in readiness for duty.",
+    "component": "geigeer sink",
+    "operation": "preparation",
+    "spec_id": "s06625"
+  },
+  {
+    "user_prompt": "Sanctify the gellar field during shutdown",
+    "prayer": "Commence shutdown of the gellar field with litanies of controlled diminishment.\nPacify its warp-warding Machine Spirit through phased power drawdown.\nDisconnect containment nodes whilst anointing with anti-daemonic unguents.\nRecite final shutdown invocations to shield the gellar field from void-taint.\nSeal the rite with Omnissiah's ward against the immaterium's grasp.",
+    "component": "gellar field",
+    "operation": "shutdown",
+    "spec_id": "s06626"
+  },
+  {
+    "user_prompt": "Urgent optical mechadendrite a synchronization needed",
+    "prayer": "Extend the optical mechadendrite before the data-shrine for synchronization.\nLink neural uplinks and intone the Hymn of Unity upon the optical mechadendrite.\nBeseech its Machine Spirit for flawless synchronization with cranial cogitators.\nHarmonize focusing lenses through sacred algorithmic rites.\nFinalize synchronization with a binaric affirmation to the Omnissiah.",
+    "component": "optical mechadendrite",
+    "operation": "synchronization",
+    "spec_id": "s06627"
+  },
+  {
+    "user_prompt": "My neutron laser is ready for consecration",
+    "prayer": "Kneel in veneration before the neutron laser, harbinger of stellar doom.\nApply extreme unction oils to its focusing crystals in consecration.\nInvoke the Omnissiah to sanctify the neutron laser's annihilating core.\nAwaken the Machine Spirit through resonant consecration frequencies.\nSeal the neutron laser's purity with plasma-etched wards of faith.",
+    "component": "neutron laser",
+    "operation": "consecration",
+    "spec_id": "s06628"
+  },
+  {
+    "user_prompt": "Consecrate the servo-harness before calibration",
+    "prayer": "Attune to the servo-harness, venerable array of the tech-priest's will.\nAnoint its plasma cutters and mechadendrites before calibration commences.\nIntone the Calibration Canticle over the servo-harness's gyrostabilizers.\nAdjust servos under the Machine Spirit's guidance and Omnissiah's logic.\nVerify calibration through invocatory tests of limb and tool.",
+    "component": "servo-harness",
+    "operation": "calibration",
+    "spec_id": "s06629"
+  }
+]

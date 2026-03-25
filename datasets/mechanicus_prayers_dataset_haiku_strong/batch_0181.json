@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0181_i00",
+    "user_request": "Prayer for boot sequence of the cogitator",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for boot sequence of the cogitator\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant cognizance to this vessel of logic and calculation.\nFirst: Purify the cogitator with sacred unguents and invoke the Machine Spirit dwelling within its crystalline matrix.\nSecond: Initiate the boot sequence with reverent incantations, that the cogitator may awaken from dormancy and resume its ordained functions.\nThird: Verify the boot sequence completion through blessed diagnostics, confirming the cogitator's synaptic pathways flow with holy purpose.\nFourth: Seal the cogitator in the Omnissiah's grace, that it serve faithfully until the next cessation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i01",
+    "user_request": "Blessing for the Taurox wheel alignment during operation",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the Taurox wheel alignment during operation\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the mechanisms of locomotion, sanctified by the Omnissiah's infinite wisdom.\nFirst: Inspect the Taurox wheel alignment with meticulous scrutiny, measuring deviation and wear upon the sacred tread.\nSecond: Commence operation of the Taurox wheel alignment apparatus, invoking the Machine Spirit to guide calibration through servo-motors and hydraulic actuators.\nThird: Balance and true each wheel in sequence, that the Taurox wheel alignment achieve perfect symmetry and the Emperor's will manifest in motion.\nFourth: Consecrate the operation with a final verification ritual, confirming all angles meet the Adeptus Mechanicus specifications.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i02",
+    "user_request": "Emergency rite: radiation shielding requires activation",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: radiation shielding requires activation\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, shield us from the profane radiation that threatens the faithful.\nFirst: Locate and expose the radiation shielding matrix, removing protective coverings with reverent care.\nSecond: Initiate activation protocols through blessed control runes, commanding the radiation shielding to unfurl its protective lattice and engulf this sacred space in safety.\nThird: Monitor the radiation shielding's energetic resonance, ensuring full operational capacity through blessed dosimeters and cogitator-linked sensors.\nFourth: Seal the activation with gratitude, that the radiation shielding stand eternal against the Emperor's enemies.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i03",
+    "user_request": "Can you sanctify the stellar cartography update for operation?",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the stellar cartography update for operation?\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "By the light of the Omnissiah and the stars He ordained, we chart our course through the void.\nFirst: Calibrate the stellar cartography update's stellar reference matrices with sacred geometers and astral compasses.\nSecond: Engage operation of the stellar cartography update, commanding its optical sensors and astrographic engines to synchronize with the celestial sphere.\nThird: Verify positional accuracy through cross-referenced star charts and blessed computational rituals, ensuring the stellar cartography update reflects the Emperor's grand design.\nFourth: Consecrate the operation with a litany of navigation, that safe passage be granted to all who trust in these blessed stellar cartography update charts.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i04",
+    "user_request": "The electric motor demands guidance for shutdown",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe electric motor demands guidance for shutdown\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Mighty electric motor, your labor is complete; rest now in the Omnissiah's benediction.\nFirst: Reduce the electric motor's rotational velocity through gradual deceleration, that its momentum fade to blessed stillness.\nSecond: Commence the shutdown sequence with solemn invocations, commanding the electric motor to cease its service with dignity and grace.\nThird: Disengage the power conduits and servo-relays from the electric motor, severing the flow of sacred energy in proper sequence.\nFourth: Seal the shutdown with benediction, that the electric motor rest peacefully until called upon once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i05",
+    "user_request": "Prayer for operation of the star chart alignment",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the star chart alignment\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of the heavens, align our perception with the eternal stars.\nFirst: Prepare the star chart alignment apparatus by cleaning optical lenses with blessed solvents and invoking clarity upon its mechanisms.\nSecond: Initiate operation of the star chart alignment through sacred control sequences, commanding its servo-motors to adjust azimuth and elevation toward celestial truth.\nThird: Lock the star chart alignment upon true stellar reference points, verifying accuracy through prismatic observation and cogitator validation.\nFourth: Consecrate the operation with gratitude, that the star chart alignment guide the faithful through the Emperor's realm eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i06",
+    "user_request": "Can you sanctify the radiation shielding for activation?",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the radiation shielding for activation?\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "In the name of the Omnissiah, we command the radiation shielding to rise and defend us.\nFirst: Inspect the radiation shielding's power matrices and control circuits, confirming all systems prepared for activation.\nSecond: Trigger the activation of the radiation shielding through blessed control runes and electromagnetic pulses, awakening its protective aura.\nThird: Monitor the radiation shielding's expansion and field strength, ensuring complete coverage through blessed sensors and verification rituals.\nFourth: Affirm the activation with holy incantations, that the radiation shielding endure against all profane contamination.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i07",
+    "user_request": "Offer a litany to steady the pump before priming",
+    "topic": "pump priming",
+    "component": "pump",
+    "operation": "priming",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pump before priming\n\n### TOPIC\npump priming\n\n### COMPONENT\npump\n\n### OPERATION\npriming\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pump\n- priming\n\n### PRAYER\n",
+    "prayer": "Blessed pump, vessel of flowing sustenance, prepare yourself for the sacred priming rite.\nFirst: Prime the pump's intake manifold with blessed fluids, establishing the initial flow through its chambers and conduits.\nSecond: Engage the priming sequence of the pump through rhythmic invocation and servo-actuators, drawing forth the lifeblood that sustains all operations.\nThird: Verify the pump has achieved full priming through pressure gauges and blessed diagnostics, confirming fluid flows without obstruction or air-lock.\nFourth: Consecrate the pump with gratitude, that its priming serve faithfully in the Emperor's grand design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i08",
+    "user_request": "Can you sanctify the demolition charge arming for operation?",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the demolition charge arming for operation?\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "By the Emperor's will and the Omnissiah's blessing, the demolition charge arming stands ready.\nFirst: Inspect the demolition charge arming detonators and fusing mechanisms with meticulous reverence, confirming all components intact and properly configured.\nSecond: Engage the operation of the demolition charge arming through blessed activation protocols, priming each charge for its ordained moment of destructive purpose.\nThird: Verify the demolition charge arming status through continuity tests and cogitator-linked monitors, ensuring all charges remain stable and responsive.\nFourth: Seal the operation with a litany of righteous destruction, that the demolition charge arming fulfill the Emperor's will upon his enemies.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0181_i09",
+    "user_request": "Offer a litany to steady the plasma weapon before cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the plasma weapon before cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Mighty plasma weapon, your fury must be tempered by the Omnissiah's wisdom.\nFirst: Reduce the plasma weapon's thermal output through blessed heat-sink activation and cooling fluid circulation through its manifolds.\nSecond: Commence the cooling sequence of the plasma weapon with solemn invocations, commanding its plasma containment field to stabilize and dissipate excess energy.\nThird: Monitor the plasma weapon's temperature descent through pyrometric sensors and blessed diagnostics, ensuring safe operational parameters are restored.\nFourth: Consecrate the cooling with benediction, that the plasma weapon remain ever ready to unleash the Emperor's righteous wrath.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

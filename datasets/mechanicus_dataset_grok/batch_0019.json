@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: bike squadron a recalibration",
+    "prayer": "Approach the noble bike squadron with mechadendrites extended in reverence.\nInvoke the Canticle of Recalibration upon their sacred auspex arrays.\nBeseech the Machine Spirits of the bike squadron to realign their thrust vectors in harmonious precision.\nAnoint the gyro-stabilizers with blessed oils whilst intoning the Omnissiah's binary litanies.\nVerify recalibration through diagnostic noospheric communion.",
+    "component": "bike squadron",
+    "operation": "recalibration",
+    "spec_id": "b0019_i00"
+  },
+  {
+    "user_prompt": "Can you guide neural implant a preparation?",
+    "prayer": "Kneel before the neural implant and murmur the Rite of Preparation.\nPurify its synaptic interfaces with sacred incense of electro-conductive myrrh.\nPetition the Machine Spirit within the neural implant to awaken its latent pathways.\nInitiate preparation sequences by chanting the Omnissiah's neural codex.\nSeal the rite with a touch of sanctified galvanic probe.",
+    "component": "neural implant",
+    "operation": "preparation",
+    "spec_id": "b0019_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for battery array loading?",
+    "prayer": "Gather unto the battery array and proclaim the Loading Doxology.\nCommence loading of power cells whilst invoking the spirits of amperage.\nAnoint each capacitor bank of the battery array with holy voltage elixir.\nBeseech the Omnissiah to bless the loading flow through sacred conduits.\nMonitor the infusion via auspex litanies of charge equilibrium.",
+    "component": "battery array",
+    "operation": "loading",
+    "spec_id": "b0019_i02"
+  },
+  {
+    "user_prompt": "The Taurox awaits a shutdown",
+    "prayer": "Present thyself to the Taurox and intone the Shutdown Benediction.\nDisconnect power feeds with reverent precision, honoring its Machine Spirit.\nRecite the Litany of Dormancy over the Taurox's armored hull.\nSecure all servos in stasis whilst petitioning the Omnissiah for vigilant slumber.\nConclude with seals of warded quiescence upon its sacred engines.",
+    "component": "Taurox",
+    "operation": "shutdown",
+    "spec_id": "b0019_i03"
+  },
+  {
+    "user_prompt": "The cybernetic eye awaits a repair",
+    "prayer": "Extend mechadendrites to the cybernetic eye in solemn repair invocation.\nDiagnose fractured optics with the Omnissiah's penetrating gaze-litany.\nMend the servomotors of the cybernetic eye using sanctified micro-welders.\nReawaken its Machine Spirit through recalibration psalms.\nTest visual augurs with hymns of crystalline clarity.",
+    "component": "cybernetic eye",
+    "operation": "repair",
+    "spec_id": "b0019_i04"
+  },
+  {
+    "user_prompt": "Ready the welding torch for diagnostics",
+    "prayer": "Attune to the welding torch and commence diagnostics with pious focus.\nChant the Diagnostic Catechism over its plasma coils.\nProbe the Machine Spirit of the welding torch for errant flux variances.\nInvoke the Omnissiah to reveal hidden faults in sacred flame-lore.\nAffirm purity through resonant harmonic scans.",
+    "component": "welding torch",
+    "operation": "diagnostics",
+    "spec_id": "b0019_i05"
+  },
+  {
+    "user_prompt": "Sanctify the noospheric relay during charging",
+    "prayer": "Encircling the noospheric relay, beseech its spirit during charging rites.\nInitiate power infusion with the Hymn of Capacitative Ascendance.\nAnoint induction nodes of the noospheric relay with etheric unguents.\nPetition the Omnissiah for unerring data-flow in the charging vigil.\nConsecrate the burgeoning noosphere with binary vespers.",
+    "component": "noospheric relay",
+    "operation": "charging",
+    "spec_id": "b0019_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for melta charge blessing?",
+    "prayer": "Hold aloft the melta charge and utter the Blessing of Thermic Fury.\nInvoke the Machine Spirit's wrathful heart with molten litanies.\nSanctify the melta charge's core with ablative sacraments.\nBeseech the Omnissiah to arm its destructive essence in purity.\nSeal the blessing through auspex verification of pyretic stability.",
+    "component": "melta charge",
+    "operation": "blessing",
+    "spec_id": "b0019_i07"
+  },
+  {
+    "user_prompt": "Bless the star chart for reset",
+    "prayer": "Unfurl the star chart and proclaim the Reset Supplication.\nPurge errant stellar data with the Omnissiah's purging canticle.\nRealign the astral matrices of the star chart in celestial harmony.\nAwaken its Machine Spirit via navigational hymns of void-wisdom.\nVerify reset through noospheric stellar communion.",
+    "component": "star chart",
+    "operation": "reset",
+    "spec_id": "b0019_i08"
+  },
+  {
+    "user_prompt": "The power weapon requires a calibration",
+    "prayer": "Grasp the power weapon and intone the Calibration Exhortation.\nAttune its disruption fields with sacred mono-molecular chants.\nBeseech the Machine Spirit of the power weapon for lethal precision.\nInvoke the Omnissiah's wrath in calibrating its energy sheath.\nTest the edge with litanies of unyielding severance.",
+    "component": "power weapon",
+    "operation": "calibration",
+    "spec_id": "b0019_i09"
+  }
+]

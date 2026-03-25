@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the sicarian ruststalker for startup",
+    "prayer": "Approach the sicarian ruststalker with reverence, mechadendrites extended in supplication to the Omnissiah.\nInvoke the ancient rites to stir the Machine Spirit within the sicarian ruststalker for startup.\nAnoint its bladed limbs and cognator arrays with sacred oils of activation.\nChant the Litany of Swift Predation whilst initiating the power surge.\nBeseech the sicarian ruststalker's Spirit to align with the Motive Force, confirming readiness through diagnostic canticles.",
+    "component": "sicarian ruststalker",
+    "operation": "startup",
+    "spec_id": "s00070"
+  },
+  {
+    "user_prompt": "The mechanical lock awaits a charging",
+    "prayer": "Kneel before the mechanical lock, intoning the Benediction of Containment.\nBeseech the Omnissiah to infuse the mechanical lock's wards with charging energies.\nApply electro-sanctified unguents to its tumbler mechanisms and flux capacitors.\nInvoke the Machine Spirit's vigilance during the charging ritual.\nSeal the invocation with a final rune-press, ensuring the mechanical lock's immutable sanctity.",
+    "component": "mechanical lock",
+    "operation": "charging",
+    "spec_id": "s00071"
+  },
+  {
+    "user_prompt": "Ready the arc rifle for emergency procedure",
+    "prayer": "Grasp the arc rifle in binary-prayer grip, whispering the Canticle of Desperation.\nPrepare the arc rifle for emergency procedure by anointing its voltaic coils with promethium essence.\nAwaken the Machine Spirit through percussive invocations upon the focusing lenses.\nChannel the Omnissiah's wrath into the capacitors for the emergency procedure.\nVerify the arc rifle's lethal harmony via auspex hymnals of discharge.",
+    "component": "arc rifle",
+    "operation": "emergency procedure",
+    "spec_id": "s00072"
+  },
+  {
+    "user_prompt": "Help me a blessing the Predator tank",
+    "prayer": "Circumambulate the Predator tank, aspergating its hull with blessed ablative fluids.\nInvoke the Omnissiah's gaze upon the Predator tank in this rite of blessing.\nSanctify its treads and lascannon housings with inscribed binaric litanies.\nBeseech the Machine Spirits of the Predator tank to renew their predatory zeal.\nConclude the blessing by igniting sacrificial incense within its engine bays.",
+    "component": "Predator tank",
+    "operation": "blessing",
+    "spec_id": "s00073"
+  },
+  {
+    "user_prompt": "Critical: Manticore requires a synchronization",
+    "prayer": "Align the auspex arrays toward the Manticore, commencing synchronization with harmonic frequencies.\nBeseech the Omnissiah to harmonize the Manticore's cognitors in synchronization.\nAnoint linkage nodes with noospheric oils to appease restless Machine Spirits.\nChant the Rite of Coalescence, binding the Manticore's systems in perfect unity.\nAffirm synchronization through recursive diagnostic entreaties to the Machine Spirit.",
+    "component": "Manticore",
+    "operation": "synchronization",
+    "spec_id": "s00074"
+  },
+  {
+    "user_prompt": "The Land Raider needs a repair",
+    "prayer": "Lay mechadendrites upon the Land Raider's scarred plates, intoning the Lamentation of Restoration.\nInvoke repair upon the Land Raider by purging warp-taint from its sacred circuits.\nReconstruct auspex the Land Raider's damaged servos with sanctified adamantium weaves.\nAnoint the Machine Spirit of the Land Raider with oils of renewal during repair.\nSeal the rite with a thunderous hymn, affirming the Land Raider's indomitable resurrection.",
+    "component": "Land Raider",
+    "operation": "repair",
+    "spec_id": "s00075"
+  },
+  {
+    "user_prompt": "How do I bless the plasma cannon for calibration?",
+    "prayer": "Embrace the plasma cannon, reciting the Incantation of Thermal Equilibrium.\nPrepare for calibration by beseeching the plasma cannon's Machine Spirit to attune its gyrostabilizers.\nAnoint flux-vents with cryogenic balms whilst invoking the Omnissiah's precision.\nInitiate calibration sequences through binaric calibration canticles.\nVerify the plasma cannon's sanctified accuracy via test-firing litanies.",
+    "component": "plasma cannon",
+    "operation": "calibration",
+    "spec_id": "s00076"
+  },
+  {
+    "user_prompt": "Sanctify the power armour during repair",
+    "prayer": "Encircle the power armour, chanting the Armoury of Faith to commence repair.\nSanctify the power armour's servomotors by excising battle-wounds with plasma scalpels.\nInvoke the Machine Spirits indwelling the power armour during this repair rite.\nReinfuse fibre bundles with electro-consecrated fibres under Omnissiah's watch.\nConsecrate the power armour anew with a full-spectrum auspex benediction.",
+    "component": "power armour",
+    "operation": "repair",
+    "spec_id": "s00077"
+  },
+  {
+    "user_prompt": "The torpedo tube awaits a maintenance",
+    "prayer": "Approach the torpedo tube with gravitic clamps, whispering the Ode to Devastation.\nCommence maintenance by anointing the torpedo tube's breeches with anti-corrosive sacraments.\nPurge impurities from the launch rails whilst beseeching its Machine Spirit.\nInvoke the Omnissiah's ordinance during tube alignment and pressure rites.\nSeal maintenance with thunderous pressure-tests honouring the torpedo tube's wrath.",
+    "component": "torpedo tube",
+    "operation": "maintenance",
+    "spec_id": "s00078"
+  },
+  {
+    "user_prompt": "Consecrate the grav plating before reset",
+    "prayer": "Commune with the grav plating through noospheric interface, intoning the Hymn of Null Gravity.\nConsecrate the grav plating prior to reset by asperging nodal arrays with luminen fluids.\nAwaken dormant Machine Spirits within the grav plating for the reset rite.\nInvoke the Omnissiah to recalibrate gravitic fields in harmonious reset.\nAffirm sanctity through inertial diagnostic invocations upon the grav plating.",
+    "component": "grav plating",
+    "operation": "reset",
+    "spec_id": "s00079"
+  }
+]

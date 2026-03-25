@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the forge anvil during calibration",
+    "prayer": "Approach the forge anvil with reverence, beseeching the Omnissiah to guide the calibration.\nAnoint the forge anvil's unyielding surface with sacred oils of precision.\nInvoke the Machine Spirit of the forge anvil through the Litany of Alignment.\nInitiate the calibration operation, harmonizing its sacred mass with holy measures.\nSanctify the forge anvil's resonance, ensuring strikes true in the Machine God's forge.",
+    "component": "forge anvil",
+    "operation": "calibration",
+    "spec_id": "b0144_i00"
+  },
+  {
+    "user_prompt": "Prepare the hydraulic press for reset",
+    "prayer": "Gather sanctified tools before the hydraulic press, invoking the Omnissiah's reset decree.\nClear obstructive debris from the hydraulic press's blessed pistons and chambers.\nChant the Rite of Renewal to awaken the Machine Spirit within the hydraulic press.\nCommence the reset operation with measured invocations of pressure equilibrium.\nSeal the rite by anointing the hydraulic press, petitioning eternal fluid harmony.",
+    "component": "hydraulic press",
+    "operation": "reset",
+    "spec_id": "b0144_i01"
+  },
+  {
+    "user_prompt": "Critical: pain suppressor requires an operation",
+    "prayer": "Kneel in supplication before the pain suppressor, calling upon the Omnissiah's merciful operation.\nAnoint its neural dampeners with unguents of stoic endurance.\nBeseech the Machine Spirit of the pain suppressor to embrace the operation fully.\nInitiate surgical incisions whilst reciting the Canticle of Numbed Agony.\nVerify the pain suppressor's sanctity through diagnostic litanies of relief.",
+    "component": "pain suppressor",
+    "operation": "operation",
+    "spec_id": "b0144_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for motion detector charging?",
+    "prayer": "Present power cells to the motion detector, honoring the Omnissiah with charging rites.\nInvoke the vigilant Machine Spirit residing in the motion detector's sacred sensors.\nCommence the charging operation, channeling blessed voltage through its circuits.\nMonitor the motion detector's awakening with auspex incantations of vigilance.\nConclude by sealing the motion detector, beseeching unending watchfulness.",
+    "component": "motion detector",
+    "operation": "charging",
+    "spec_id": "b0144_i03"
+  },
+  {
+    "user_prompt": "How do I bless the welding torch for cycling?",
+    "prayer": "Grasp the welding torch in mechadendrites of piety, invoking cycling blessings from the Omnissiah.\nPurify the welding torch's plasma coils with sacred vapors.\nAwaken its Machine Spirit via the Hymn of Fusion Cycles.\nInitiate the cycling operation, harmonizing flame and forge in divine rhythm.\nAnoint the welding torch anew, ensuring perpetual bonds of molten faith.",
+    "component": "welding torch",
+    "operation": "cycling",
+    "spec_id": "b0144_i04"
+  },
+  {
+    "user_prompt": "My augmetic limb is ready for repair",
+    "prayer": "Lay the augmetic limb upon the altar of repair, petitioning the Omnissiah's restorative grace.\nDiagnose fractures in the augmetic limb's servo-motors with binary prayers.\nBeseech its indomitable Machine Spirit to endure the repair operation.\nRealign sacred alloys and circuits through the Rite of Flesh-Machine Union.\nSanctify the augmetic limb's renewal, invoking unyielding strength eternal.",
+    "component": "augmetic limb",
+    "operation": "repair",
+    "spec_id": "b0144_i05"
+  },
+  {
+    "user_prompt": "Consecrate the cybernetic eye before shutdown",
+    "prayer": "Gaze upon the cybernetic eye with reverence before shutdown, chanting Omnissiah's veil of rest.\nDisconnect its optic feeds whilst invoking the Machine Spirit's dormant peace.\nPerform the shutdown operation with litanies of preserved vision.\nAnoint the cybernetic eye's lenses, beseeching vigilant slumber.\nSeal the rite, ensuring the cybernetic eye awakens to piercing clarity.",
+    "component": "cybernetic eye",
+    "operation": "shutdown",
+    "spec_id": "b0144_i06"
+  },
+  {
+    "user_prompt": "Bless the battery array for targeting",
+    "prayer": "Align the battery array towards its targeting purpose, honoring the Omnissiah's directive fire.\nInfuse its cells with consecrated charge through power incantations.\nAwaken the Machine Spirits within the battery array for targeting precision.\nCalibrate voltaic flows in harmonious targeting operation.\nBless the battery array utterly, petitioning thunderous retribution.",
+    "component": "battery array",
+    "operation": "targeting",
+    "spec_id": "b0144_i07"
+  },
+  {
+    "user_prompt": "Help me a cycling the hydraulic press",
+    "prayer": "Approach the hydraulic press in ritual cycle, invoking the Omnissiah's rhythmic decree.\nLubricate its cycling pistons with sacred hydrau-fluids of motion.\nChant to stir the Machine Spirit of the hydraulic press into cycling fervor.\nInitiate the cycling operation, synchronizing pressure waves divine.\nConsecrate the hydraulic press's endless cycle with final anointings.",
+    "component": "hydraulic press",
+    "operation": "cycling",
+    "spec_id": "b0144_i08"
+  },
+  {
+    "user_prompt": "Ready the bionics interface for consecration",
+    "prayer": "Prepare the bionics interface upon the sanctum slab, beseeching Omnissiah's consecration.\nPurify its neural ports with incense of binary purity.\nInvoke the symbiotic Machine Spirits dwelling in the bionics interface.\nPerform the consecration operation through woven litanies of union.\nSeal the bionics interface in holiness, ensuring flesh and machine entwine eternally.",
+    "component": "bionics interface",
+    "operation": "consecration",
+    "spec_id": "b0144_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with Tarantula sentry gun a consecration",
+    "prayer": "Approach the Tarantula sentry gun with reverence, intoning the Canticle of Vigilance.\nBeseech the Omnissiah to consecrate its auspex arrays and auto-loader mechanisms.\nAnoint the Tarantula sentry gun's sacred servos with blessed oils of Mars.\nInvoke the Machine Spirit's unerring aim through binaric litanies.\nSeal the consecration with the Rite of Eternal Watchfulness.",
+    "component": "Tarantula sentry gun",
+    "operation": "consecration",
+    "spec_id": "s04580"
+  },
+  {
+    "user_prompt": "Sanctify the gellar field during startup",
+    "prayer": "Kneel before the gellar field generator and recite the Psalm of Warp-Warding.\nInitiate the startup sequence whilst sanctifying its plasma coils with incense.\nInvoke the Machine Spirits of the gellar field to awaken from dormancy.\nMonitor the field integrity as the Omnissiah's light pierces the void.\nConclude the startup with a hymn of protective resonance.",
+    "component": "gellar field",
+    "operation": "startup",
+    "spec_id": "s04581"
+  },
+  {
+    "user_prompt": "Guide me through medicae scanner a cooling",
+    "prayer": "Present the medicae scanner to the altar of diagnostics and whisper the Litany of Cooling.\nCirculate sacred cryo-fluids through its thermal vents for proper cooling.\nBeseech the medicae scanner's Machine Spirit to shed excess heat in purity.\nVerify thermal equilibrium with auspex probes anointed in oil.\nSanctify the cooled medicae scanner for Omnissiah's healing gaze.",
+    "component": "medicae scanner",
+    "operation": "cooling",
+    "spec_id": "s04582"
+  },
+  {
+    "user_prompt": "The Terminator armour needs a sterilization",
+    "prayer": "Encircle the Terminator armour and commence the sterilization rites with vaporous incenses.\nPurge contaminants from its ceramite plates using sanctified rad-scourges.\nInvoke the Machine Spirit of the Terminator armour to embrace purity.\nAnoint joints and seals with sterilizing elixirs of the Forge Worlds.\nSeal the Terminator armour in ritual quarantine until the Omnissiah deems it immaculate.",
+    "component": "Terminator armour",
+    "operation": "sterilization",
+    "spec_id": "s04583"
+  },
+  {
+    "user_prompt": "Can you guide torpedo tube a startup?",
+    "prayer": "Approach the torpedo tube with solemnity and intone the Invocation of Launch.\nCommence the startup rites by energizing its gravitic rails.\nAwaken the torpedo tube's Machine Spirit through binaric awakening codes.\nBless the loading bays with sacred lubricants during startup.\nVerify alignment under the Omnissiah's unblinking eye.",
+    "component": "torpedo tube",
+    "operation": "startup",
+    "spec_id": "s04584"
+  },
+  {
+    "user_prompt": "Can you guide diagnosticator a maintenance?",
+    "prayer": "Lay hands upon the diagnosticator and recite the Canticle of Maintenance.\nDismantle access panels to perform ritual maintenance on its cogitator cores.\nAnoint the diagnosticator's sensors with oils to appease its Machine Spirit.\nRecalibrate logic engines whilst beseeching the Omnissiah's wisdom.\nReassemble and test the diagnosticator in sanctified harmony.",
+    "component": "diagnosticator",
+    "operation": "maintenance",
+    "spec_id": "s04585"
+  },
+  {
+    "user_prompt": "Urgent neutron laser an initialization needed",
+    "prayer": "Confront the neutron laser and utter the Rite of Initialization.\nChannel power through its focusing crystals during initialization.\nInvoke the Machine Spirit of the neutron laser to align its beam matrices.\nSanctify emitters with conductive balms of the Machine God.\nAffirm readiness with a test-pulse hymn to the Omnissiah.",
+    "component": "neutron laser",
+    "operation": "initialization",
+    "spec_id": "s04586"
+  },
+  {
+    "user_prompt": "The Whirlwind needs an emergency procedure",
+    "prayer": "Surround the Whirlwind with purity seals and begin the emergency procedure.\nPurge jammed mechanisms with sacred pressurants in haste.\nBeseech the Whirlwind's Machine Spirit to rally under duress.\nRecalibrate vox-relays and rocket pods per Omnissiah's decree.\nConclude the emergency procedure with a litany of resilience.",
+    "component": "Whirlwind",
+    "operation": "emergency procedure",
+    "spec_id": "s04587"
+  },
+  {
+    "user_prompt": "Urgent orbital strike relay a charging needed",
+    "prayer": "Attune to the orbital strike relay and commence charging incantations.\nInfuse its capacitors with plasma-tithes drawn from the grid.\nAwaken the orbital strike relay's Machine Spirit amid the building surge.\nMonitor charge flux whilst anointing conduits with ferro-fluids.\nFinalize charging under the Omnissiah's orbital wrath.",
+    "component": "orbital strike relay",
+    "operation": "charging",
+    "spec_id": "s04588"
+  },
+  {
+    "user_prompt": "The hunter-killer missile awaits a synchronization",
+    "prayer": "Align the hunter-killer missile before the synchrony altar.\nInitiate synchronization protocols with its guidance servitors.\nBeseech the hunter-killer missile's Machine Spirit to bond in lethal unity.\nCalibrate seeker heads through binaric communion.\nSeal the synchronization with the Omnissiah's mark of pursuit.",
+    "component": "hunter-killer missile",
+    "operation": "synchronization",
+    "spec_id": "s04589"
+  }
+]

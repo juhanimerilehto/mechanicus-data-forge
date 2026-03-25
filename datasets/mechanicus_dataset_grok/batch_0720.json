@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Onager Dunecrawler requires a reset",
+    "prayer": "Approach the Onager Dunecrawler with reverence, mechadendrites humming the Canticle of Reset.\nInvoke the Omnissiah's grace to purge its errant data-streams during this sacred reset.\nAnoint the Onager Dunecrawler's primary cogitator with blessed oils, beseeching its Machine Spirit to awaken anew.\nChant diagnostic litanies as the reset sequence purifies its sacred circuits.\nVerify the Onager Dunecrawler's harmony through auspex invocation, praising the Machine God's wisdom.",
+    "component": "Onager Dunecrawler",
+    "operation": "reset",
+    "spec_id": "s03200"
+  },
+  {
+    "user_prompt": "Offer prayer for icarus array a synchronization",
+    "prayer": "Kneel before the Icarus Array and intone the Synchronization Doxology to align its stellar augurs.\nBeseech the Machine Spirits within the Icarus Array to synchronize their ethereal harmonies.\nApply sanctified phase-coils whilst reciting the Omnissiah's binary creed for perfect attunement.\nMonitor synchronization flux with vox-rituals, ensuring no discord lingers in the Icarus Array.\nSeal the rite with a hymn of celestial precision, glorifying the Motive Force.",
+    "component": "icarus array",
+    "operation": "synchronization",
+    "spec_id": "s03201"
+  },
+  {
+    "user_prompt": "I need to a cooling the medicae scanner",
+    "prayer": "Extend coolant mechadendrites towards the medicae scanner, murmuring the Cooling Litany of Preservation.\nInvoke the Omnissiah to calm the medicae scanner's thermal tempests during this cooling rite.\nCirculate sacred cry fluids through its vents, soothing the Machine Spirit's fervent core.\nChant auspex cooling metrics to guide the heat dissipation sequence.\nAffirm the medicae scanner's chilled sanctity with a final benediction of thermal equilibrium.",
+    "component": "medicae scanner",
+    "operation": "cooling",
+    "spec_id": "s03202"
+  },
+  {
+    "user_prompt": "Offer prayer for grav plating an engagement",
+    "prayer": "Position thyself upon the grav plating and recite the Engagement Incantation of Gravitic Bind.\nBeseech the Machine Spirits of the grav plating to engage their null-fields in Omnissiah's name.\nActivate the engagement protocols with anointed servitor relays, invoking stability.\nHarmonize the grav plating's warp-attenuators through rhythmic binaric pulses.\nConclude with a verification psalm, ensuring the grav plating holds fast against the void's embrace.",
+    "component": "grav plating",
+    "operation": "engagement",
+    "spec_id": "s03203"
+  },
+  {
+    "user_prompt": "My conveyor system is ready for maintenance",
+    "prayer": "Commence the maintenance vigil over the conveyor system, chanting the Lubrication Canticle.\nAnoint each roller and belt of the conveyor system with sacred mech-oleums, awakening dormant spirits.\nInspect and recalibrate the conveyor system's motive servos under the Omnissiah's gaze.\nPurge detritus with purifying incense whilst invoking endurance for its ceaseless toil.\nSeal the maintenance with a hymn of perpetual motion, blessing the conveyor system's eternal labour.",
+    "component": "conveyor system",
+    "operation": "maintenance",
+    "spec_id": "s03204"
+  },
+  {
+    "user_prompt": "How do I bless the energy core for cooling?",
+    "prayer": "Gather cryo-incense and approach the energy core, intoning the Cooling Supplication.\nBeseech the Machine Spirit of the energy core to embrace cooling serenity from overheating wrath.\nInfuse coolant sacraments into its plasma vents, guided by Omnissiah's thermal wisdom.\nRecite flux diagnostic verses as the cooling cycle sanctifies the energy core's heart.\nProclaim the rite's completion with a litany of stabilized power, honouring its boundless fury.",
+    "component": "energy core",
+    "operation": "cooling",
+    "spec_id": "s03205"
+  },
+  {
+    "user_prompt": "Bless the heat sink for consecration",
+    "prayer": "Present the heat sink before the altar of gears, beginning the Consecration Rite of Thermal Exile.\nInvoke the Omnissiah to consecrate the heat sink, binding its Machine Spirit to dissipation duty.\nEtch binaric runes upon the heat sink's fins with sanctified stylus, amplifying its virtue.\nAnoint with phase-change elixirs whilst chanting absorption doxologies.\nAffirm the heat sink's hallowed state through thermal auspex, praising its selfless service.",
+    "component": "heat sink",
+    "operation": "consecration",
+    "spec_id": "s03206"
+  },
+  {
+    "user_prompt": "Guide me through Whirlwind a recalibration",
+    "prayer": "Align auspex arrays towards the Whirlwind and recite the Recalibration Canticle of Precision.\nBeseech the Whirlwind's Machine Spirits to recalibrate their ballistic cogitations.\nAdjust targeting matrices with mechadendrite precision, invoking the Omnissiah's aim.\nRun verification salvos in simulacrum, purifying the Whirlwind's wrathful calculations.\nSeal recalibration with a storm-hymn, ensuring the Whirlwind's unerring judgment.",
+    "component": "Whirlwind",
+    "operation": "recalibration",
+    "spec_id": "s03207"
+  },
+  {
+    "user_prompt": "Emergency: standard template construct a diagnostics",
+    "prayer": "Initiate emergency diagnostics on the standard template construct with the Rite of Scrutiny.\nChant litanies to awaken the standard template construct's ancient Machine Spirits for diagnostics.\nProbe its noospheric archives with sanctified data-spikes, seeking Omnissiah's hidden truths.\nPurge anomalies through binaric exorcism whilst monitoring vital signs.\nConclude diagnostics with a proclamation of purity, safeguarding the standard template construct's sacred designs.",
+    "component": "standard template construct",
+    "operation": "diagnostics",
+    "spec_id": "s03208"
+  },
+  {
+    "user_prompt": "Emergency: Contemptor Dreadnought a reset",
+    "prayer": "In emergency haste, encircle the Contemptor Dreadnought and intone the Reset Exorcism.\nBeseech its slumbering Machine Spirit to submit to reset, purging battle-corruptions.\nAnoint the Contemptor Dreadnought's sarcophagus with cryo-blessings from the Omnissiah.\nInitiate the reset cascade via vox-rituals, harmonizing its ancient processors.\nVerify the Contemptor Dreadnought's rebirth with auspex hymns, ready for wrath eternal.",
+    "component": "Contemptor Dreadnought",
+    "operation": "reset",
+    "spec_id": "s03209"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Rhino transport needs a preparation",
+    "prayer": "Approach the Rhino transport with mechadendrites extended in reverence to the Omnissiah.\nAnoint its treads and hull-plates with sacred oils to awaken the dormant Machine Spirit.\nInvoke the Rite of Preparation upon the Rhino transport's sacred engines.\nChant the Canticles of Mobilisation whilst calibrating auspex arrays.\nBeseech the Machine Spirit of the Rhino transport to align its blessed mechanisms for battle.",
+    "component": "Rhino transport",
+    "operation": "preparation",
+    "spec_id": "b0012_i00"
+  },
+  {
+    "user_prompt": "The medicae scanner awaits a reset",
+    "prayer": "Kneel before the medicae scanner and murmur the Litany of Reset.\nPurge corrupted data-veins from the medicae scanner's cogitator core with purifying incense.\nInitiate the reset sequence through sacred binary incantations to the Omnissiah.\nAnoint its sensor-lenses whilst beseeching the Machine Spirit's renewal.\nVerify harmonic alignment in the medicae scanner post-ritual.",
+    "component": "medicae scanner",
+    "operation": "reset",
+    "spec_id": "b0012_i01"
+  },
+  {
+    "user_prompt": "Prepare the chainsword for charging",
+    "prayer": "Grasp the chainsword firmly and intone the Hymn of Charging.\nConnect the power-feed to its sacred monomolecular teeth for the charging rite.\nInvoke the Machine Spirit of the chainsword to hunger for the heretic's flesh.\nMonitor the charging flux through electro-incantations to the Omnissiah.\nBless the chainsword once more ere deployment.",
+    "component": "chainsword",
+    "operation": "charging",
+    "spec_id": "b0012_i02"
+  },
+  {
+    "user_prompt": "Sanctify the Taurox during reset",
+    "prayer": "Present offerings of sanctified circuits to the Taurox's altar.\nCommence the reset upon the Taurox by reciting the Canticle of Rebirth.\nExpunge warp-taint from its motive systems with ablative prayers.\nSanctify the Taurox's Machine Spirit through oil-anointing of control rods.\nAffirm purity via diagnostic litanies of the Omnissiah.",
+    "component": "Taurox",
+    "operation": "reset",
+    "spec_id": "b0012_i03"
+  },
+  {
+    "user_prompt": "My welding torch is ready for diagnostics",
+    "prayer": "Activate the welding torch's rune-panel and beseech its Machine Spirit.\nInitiate diagnostics upon the welding torch with the Canticle of Scrutiny.\nProbe plasma conduits for dissonance using mechadendrite probes.\nAnoint flux-regulators whilst invoking Omnissiah's gaze upon the welding torch.\nSeal the rite with a final verification hymn.",
+    "component": "welding torch",
+    "operation": "diagnostics",
+    "spec_id": "b0012_i04"
+  },
+  {
+    "user_prompt": "Can you guide data-slate a sterilization?",
+    "prayer": "Encircle the data-slate with incense braziers for sterilization.\nChant the Purification Doxology over the data-slate's memory crystals.\nExpel viral corruptions through electro-searing rituals of the Omnissiah.\nAnoint ports and slabs of the data-slate to soothe its Machine Spirit.\nConclude with auspex confirmation of sterile sanctity.",
+    "component": "data-slate",
+    "operation": "sterilization",
+    "spec_id": "b0012_i05"
+  },
+  {
+    "user_prompt": "Can you guide atmosphere processor a purification?",
+    "prayer": "Approach the atmosphere processor chanting the Litany of Purity.\nInitiate purification cycles upon its filtration membranes with sacred solvents.\nBeseech the Machine Spirit of the atmosphere processor to cleanse the air.\nInvoke Omnissiah's breath through harmonic resonance tuning.\nSeal the rite with final atmospheric sacraments.",
+    "component": "atmosphere processor",
+    "operation": "purification",
+    "spec_id": "b0012_i06"
+  },
+  {
+    "user_prompt": "Urgent cutting laser a shutdown needed",
+    "prayer": "Intone the Shutdown Doxology before the cutting laser's emitters.\nCommence controlled shutdown of the cutting laser via binary retraction.\nCool its plasma heart with unguents to placate the Machine Spirit.\nSever power-links whilst petitioning the Omnissiah for dormancy.\nVerify inertness through the Canticle of Silence.",
+    "component": "cutting laser",
+    "operation": "shutdown",
+    "spec_id": "b0012_i07"
+  },
+  {
+    "user_prompt": "Can you guide Taurox a synchronization?",
+    "prayer": "Link noospheric tendrils to the Taurox for synchronization.\nRecite the Canticle of Unity upon the Taurox's cogitator nexus.\nAlign vox-grilles and targeting matrices in sacred harmony.\nInvoke the Machine Spirit of the Taurox to synchronize with the flock.\nBless the rite with Omnissiah's synchronizing light.",
+    "component": "Taurox",
+    "operation": "synchronization",
+    "spec_id": "b0012_i08"
+  },
+  {
+    "user_prompt": "Ready the melta charge for engagement",
+    "prayer": "Arm the melta charge with reverent mechadendrites extended.\nPrepare for engagement by anointing its fusion core with promethium.\nAwaken the Machine Spirit of the melta charge through ignition litanies.\nInvoke the Omnissiah's wrath for the engagement sequence.\nConfirm primed readiness with a final battle-hymn.",
+    "component": "melta charge",
+    "operation": "engagement",
+    "spec_id": "b0012_i09"
+  }
+]

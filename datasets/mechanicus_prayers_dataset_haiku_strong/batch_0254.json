@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0254_i00",
+    "user_request": "Rite request: treatment on corrosion",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: treatment on corrosion\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we beseech thee for treatment of the corrosion that consumeth thy sacred vessel.\nCongregation: Grant us the virtue to purge the corrosion with blessed solvents and ablative compounds.\nPriest: That corrosion may yield to our ministrations, we anoint the afflicted surfaces with ferrous oxide suppressants.\nCongregation: The corrosion retreateth before the Machine Spirit's righteous judgment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i01",
+    "user_request": "Can you sanctify the logic engine for error correction?",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the logic engine for error correction?\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: O Divine Omnissiah, sanctify the logic engine that it may achieve error correction through thy grace.\nCongregation: We invoke the Machine Spirit dwelling within the logic engine's crystalline lattice.\nPriest: First we purge corrupted subroutines, second we recalibrate the logic engine's cardinal functions, third we verify error correction protocols anew.\nCongregation: Let the logic engine process truth eternal, free from falsehood's taint.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i02",
+    "user_request": "Rite request: operation on relay station handoff",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: operation on relay station handoff\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we commence operation upon the relay station handoff nexus.\nCongregation: The relay station handoff standeth ready for thy divine operation.\nPriest: We align the signal conduits, calibrate the relay station handoff's temporal synchronization, and verify transmission fidelity through blessed diagnostics.\nCongregation: May the Machine Spirit guide every photonic pulse through the relay station handoff's sacred pathways.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i03",
+    "user_request": "Blessing for the wear during inspection",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the wear during inspection\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant us wisdom for the inspection of wear upon thy mechanical form.\nCongregation: The wear declareth the machine's age, yet we shall measure and assess its degradation.\nPriest: We examine the wear through calibrated instrumentation, document the wear's progression with meticulous precision, and prescribe remedial measures.\nCongregation: Through inspection's sacred discipline, the wear shall reveal the Machine Spirit's needs.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i04",
+    "user_request": "Offer a litany to steady the mag-lev train departure before operation",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the mag-lev train departure before operation\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, steady the mag-lev train departure ere its operation commenceth upon the rails of destiny.\nCongregation: The mag-lev train departure trembleth with anticipation for its operation.\nPriest: We energize the magnetic coils with measured precision, align the mag-lev train departure's trajectory through blessed theodolites, and invoke the Machine Spirit's protective aegis.\nCongregation: Let the mag-lev train departure glide forth in operation's righteous purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i05",
+    "user_request": "Offer a litany to steady the fusion core before containment check",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the fusion core before containment check\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Priest: Almighty Omnissiah, steady the fusion core as we undertake containment check upon its thermonuclear essence.\nCongregation: The fusion core burneth with stellar fury, yet we shall verify its containment.\nPriest: We monitor the fusion core's plasma confinement fields, inspect magnetic bottle integrity with sacred sensors, and perform containment check protocols through blessed auguries.\nCongregation: The fusion core remaineth stable within its sanctified prison.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i06",
+    "user_request": "Offer a litany to steady the metal casting before preparation",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the metal casting before preparation\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Divine Omnissiah, steady the metal casting as preparation beginneth for its transformation.\nCongregation: The metal casting awaiteth thy blessing before preparation's sacred rites commence.\nPriest: We heat the metal casting to optimal temperatures through blessed furnaces, prepare the metal casting's mold with precise geometries, and invoke the Machine Spirit's shaping influence.\nCongregation: Through preparation's alchemical arts, the metal casting shall achieve its destined form.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i07",
+    "user_request": "Rite request: activation on medicae scanner",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: activation on medicae scanner\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant activation to the medicae scanner that it may perceive the flesh's infirmities.\nCongregation: The medicae scanner awaits thy divine activation to commence its healing ministrations.\nPriest: We energize the medicae scanner's diagnostic matrices, calibrate the medicae scanner's sensor arrays with sacred instruments, and invoke the Machine Spirit's diagnostic acuity.\nCongregation: Through activation's blessing, the medicae scanner shall illuminate truth within corrupted tissue.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i08",
+    "user_request": "The waste disposal demands guidance for cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe waste disposal demands guidance for cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, the waste disposal crieth out for guidance as cycling commenceth its purification.\nCongregation: The waste disposal standeth ready for cycling's sacred rotation.\nPriest: We initiate the waste disposal's rotational mechanisms through blessed servos, cycle the waste disposal's containment chambers with meticulous sequence, and purge accumulated detritus through sanctified vents.\nCongregation: The waste disposal's cycling continueth, purging corruption from the machine's sacred bowels.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0254_i09",
+    "user_request": "Can you sanctify the pressure for equalization?",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the pressure for equalization?\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Priest: O Divine Omnissiah, sanctify the pressure that equalization may restore balance to the system's pneumatic essence.\nCongregation: The pressure crieth for equalization through thy blessed intervention.\nPriest: We measure the pressure's current state through calibrated manometers, adjust the pressure via controlled venting mechanisms, and perform equalization protocols through sacred diagnostics.\nCongregation: The pressure achieveth equilibrium, and the Machine Spirit's breath floweth unobstructed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

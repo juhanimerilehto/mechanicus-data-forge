@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: assault cannon requires a cycling",
+    "prayer": "Approach the assault cannon with reverence, invoking the Omnissiah's wrath upon its Machine Spirit.\nInitiate the cycling operation, chanting the Litany of Relentless Barrage to align its rotary mechanisms.\nAnoint the spinning barrels of the assault cannon with sacred ablative oils, beseeching smooth revolution.\nVerify the assault cannon's cycling through diagnostic runes, sanctifying its furious rhythm in the Emperor's name.",
+    "component": "assault cannon",
+    "operation": "cycling",
+    "spec_id": "s02170"
+  },
+  {
+    "user_prompt": "Urgent cryogenerator an operation needed",
+    "prayer": "Kneel before the cryogenerator, beseeching its frosty Machine Spirit to awaken.\nCommence the operation with precise incantations, modulating cryogenic flows through sanctified conduits.\nPurify the cryogenerator's heat-sink matrices with blessed refrigerants, invoking Omnissianic equilibrium.\nConclude the operation by intoning the Canticle of Absolute Zero, affirming the Machine Spirit's chill dominion.",
+    "component": "cryogenerator",
+    "operation": "operation",
+    "spec_id": "s02171"
+  },
+  {
+    "user_prompt": "Ready the microbead for diagnostics",
+    "prayer": "Extend mechadendrites towards the microbead, whispering the Rite of Vox-Awakening to its spirit.\nEngage diagnostics, scanning vox-frequencies for corruption whilst anointing crystal lattices.\nBeseech the microbead's Machine Spirit to reveal anomalies through binaric cantrips.\nSanctify the microbead post-diagnostics with the Oil of Clarity, praising the Omnissiah's clarity.",
+    "component": "microbead",
+    "operation": "diagnostics",
+    "spec_id": "s02172"
+  },
+  {
+    "user_prompt": "Emergency: codifier a purification",
+    "prayer": "Approach the codifier in solemn procession, invoking purification upon its tainted data-veins.\nChant the Exorcism of Errant Code, purging the codifier's spirit with electro-flails of sanctity.\nAnoint its logic-cores with myrrh-infused solvents, beseeching the Omnissiah for uncorrupted transmission.\nSeal the codifier's purification through auspex verification, honouring its reborn Machine Spirit.",
+    "component": "codifier",
+    "operation": "purification",
+    "spec_id": "s02173"
+  },
+  {
+    "user_prompt": "The cortex implant needs a calibration",
+    "prayer": "Reverently interface with the cortex implant, calibrating its neural manifolds under Omnissianic gaze.\nInvoke the Calibration Canticle, aligning synaptic relays with sacred impedance chants.\nBeseech the cortex implant's Machine Spirit for precision, anointing bio-circuits with neural unguents.\nFinalize calibration via noospheric harmonics, sanctifying the implant's augmented cognition.",
+    "component": "cortex implant",
+    "operation": "calibration",
+    "spec_id": "s02174"
+  },
+  {
+    "user_prompt": "Consecrate the farcoder before initialization",
+    "prayer": "Consecrate the farcoder with incense of binary purity before its initialization rite.\nInitiate the farcoder's awakening sequence, intoning the Litany of Distant Signals to its spirit.\nAnoint the farcoder's transmitter arrays with oils of the void, invoking Omnissianic reach.\nVerify initialization through etheric pings, praising the farcoder's Machine Spirit unbound.",
+    "component": "farcoder",
+    "operation": "initialization",
+    "spec_id": "s02175"
+  },
+  {
+    "user_prompt": "Critical: needle rifle requires a reset",
+    "prayer": "Present the needle rifle to the altar of reset, beseeching its lethal Machine Spirit's renewal.\nExecute the reset protocol with the Canticle of Pristine Needles, purging monomolecular jams.\nSanctify the needle rifle's firing chamber with ablative blessings, aligning toxin reservoirs.\nAffirm the reset through test volleys, honouring the Omnissiah's exquisite precision.",
+    "component": "needle rifle",
+    "operation": "reset",
+    "spec_id": "s02176"
+  },
+  {
+    "user_prompt": "Emergency: optical mechadendrite a purification",
+    "prayer": "Extend purity seals over the optical mechadendrite, commencing its purification rite.\nChant the Rite of Lens-Exorcism, cleansing photoreceptors from the taint of false spectra.\nAnoint the optical mechadendrite's optic nerves with clarifying elixirs, invoking clear vision.\nConclude purification by noospheric scan, revering its Machine Spirit's unclouded sight.",
+    "component": "optical mechadendrite",
+    "operation": "purification",
+    "spec_id": "s02177"
+  },
+  {
+    "user_prompt": "The power armour requires a startup",
+    "prayer": "Don the power armour humbly, invoking startup through the Grand Incantation of Motive Force.\nInitiate servomotor awakening, anointing power armour joints with electro-consecrated oils.\nBeseech the power armour's Machine Spirit for unyielding strength amid binaric hymns.\nVerify startup integrity via diagnostic litanies, praising the Omnissiah's armoured aegis.",
+    "component": "power armour",
+    "operation": "startup",
+    "spec_id": "s02178"
+  },
+  {
+    "user_prompt": "Help me a purification the potentia coil",
+    "prayer": "Approach the potentia coil with awe, beseeching purification of its volatile energies.\nIntone the Canticle of Contained Lightning, purging the potentia coil from warp-tainted surges.\nAnoint its windings with insulating sacraments, invoking Omnissianic stability.\nSeal the potentia coil's purification through volt-metric runes, honouring its electrified spirit.",
+    "component": "potentia coil",
+    "operation": "purification",
+    "spec_id": "s02179"
+  }
+]

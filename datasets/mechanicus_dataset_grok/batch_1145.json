@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: Skorpius Dunerider requires a startup",
+    "prayer": "Approach the noble Skorpius Dunerider with mechadendrite reverence and intone the Litany of Ignition.\nPrime its fusion reactors with sacred promethium whilst beseeching the Machine Spirit's awakening.\nInitiate the startup sequence through cogitator invocation and tread alignment rites.\nAnoint the Skorpius Dunerider's auspex arrays with blessed oils to ensure Omnissiah's gaze.\nVerify the Machine Spirit's vigor via diagnostic canticles as the Dunerider stirs to life.",
+    "component": "Skorpius Dunerider",
+    "operation": "startup",
+    "spec_id": "s07450"
+  },
+  {
+    "user_prompt": "Sanctify the macro-cannon during purification",
+    "prayer": "Kneel before the macro-cannon and recite the Purge Canticle to summon its Machine Spirit.\nApply ablative unguents to scour impurities from the macro-cannon's barrel during purification.\nInvoke the Omnissiah's fire to burn away daemonic taint within its loading mechanisms.\nChant binaric hymns of sanctity over the macro-cannon whilst cycling coolant fluids.\nConclude the purification with auspex scans affirming the Machine Spirit's purity.",
+    "component": "macro-cannon",
+    "operation": "purification",
+    "spec_id": "s07451"
+  },
+  {
+    "user_prompt": "Sanctify the Predator tank during shutdown",
+    "prayer": "Gather mechadendrites upon the Predator tank and whisper the Rite of Repose.\nDeactivate primary systems sequentially whilst anointing the Predator tank's reactors with dormancy oils.\nBeseech the Machine Spirit to enter shutdown slumber under Omnissiah's watchful binary.\nSecure the Predator tank's hatches with sanctified seals and litanies of closure.\nMonitor the shutdown through cogitator elegies, praising the tank's faithful service.",
+    "component": "Predator tank",
+    "operation": "shutdown",
+    "spec_id": "s07452"
+  },
+  {
+    "user_prompt": "Assist with plasma weapon a sterilization",
+    "prayer": "Present the plasma weapon before the altar of flux and invoke sterilization rites.\nFlush its containment coils with sanctified rad-scour whilst chanting ablution psalms.\nBeseech the Machine Spirit of the plasma weapon to purge volatile impurities.\nCycle plasma sterilization vents under Omnissiah's purifying wrath.\nAffirm the plasma weapon's renewal via thermal litanies and auspex purity rites.",
+    "component": "plasma weapon",
+    "operation": "sterilization",
+    "spec_id": "s07453"
+  },
+  {
+    "user_prompt": "What's the prayer for cyber-mastiff a synchronization?",
+    "prayer": "Link noospheric tendrils to the cyber-mastiff and intone the Harmony Doxology.\nAlign its vox-engrams with binaric synchronization pulses from the adeptus cogitator.\nAnoint the cyber-mastiff's sensor nodes whilst invoking the Machine Spirit's unity.\nCommence synchronization by reciting loyalty catechisms to the Omnissiah.\nTest the cyber-mastiff's bond through patrol diagnostics and affirmation hymns.",
+    "component": "cyber-mastiff",
+    "operation": "synchronization",
+    "spec_id": "s07454"
+  },
+  {
+    "user_prompt": "My data-sluice is ready for sterilization",
+    "prayer": "Interface with the data-sluice and declaim the Sterilization Canticle of Purity.\nPurge tainted noospheric flows from the data-sluice's mem banks with viral litanies.\nInvoke Omnissiah's wrath to sterilize recursive corruptions within the sluice conduits.\nCycle ablative data-wash whilst anointing the data-sluice's logic cores.\nVerify Machine Spirit integrity through sanctity auspex and closure prayers.",
+    "component": "data-sluice",
+    "operation": "sterilization",
+    "spec_id": "s07455"
+  },
+  {
+    "user_prompt": "What's the prayer for maglock an activation?",
+    "prayer": "Position mechadendrites upon the maglock and beseech activation through the Binding Rite.\nInfuse its ferromagnetic coils with sanctified current whilst chanting ignition psalms.\nInvoke the Machine Spirit of the maglock to engage its gravitic embrace.\nMonitor activation flux via binaric diagnostics under Omnissiah's decree.\nSeal the rite with affirmations of unyielding adherence.",
+    "component": "maglock",
+    "operation": "activation",
+    "spec_id": "s07456"
+  },
+  {
+    "user_prompt": "Consecrate the ore processor before calibration",
+    "prayer": "Encircling the ore processor, intone the Calibration Doxology to awaken its spirit.\nAlign gyroscopic crushers and flux inductors with precision litanies.\nAnoint the ore processor's intake maw whilst beseeching Machine Spirit equilibrium.\nInitiate calibration cycles through cogitator harmonies praising the Omnissiah.\nValidate tolerances via seismic auspex and consecratory seals.",
+    "component": "ore processor",
+    "operation": "calibration",
+    "spec_id": "s07457"
+  },
+  {
+    "user_prompt": "What's the prayer for air filtration a recalibration?",
+    "prayer": "Commune with the air filtration unit and recite recalibration catechisms.\nPurge particulate heresies from its molecular sieves during rite invocation.\nAdjust plenum regulators with sacred torque whilst honoring the Machine Spirit.\nCycle recalibration winds under Omnissiah's breath through vox-hymns.\nAffirm purity equilibrium by noospheric scans and sanctity closure.",
+    "component": "air filtration",
+    "operation": "recalibration",
+    "spec_id": "s07458"
+  },
+  {
+    "user_prompt": "My fusion core is ready for loading",
+    "prayer": "Approach the fusion core reverently and chant the Loading Litany of Ascendance.\nInsert fuel rods with mechadendrite precision whilst anointing their casings.\nInvoke the Machine Spirit of the fusion core to accept the Omnissiah's plasma gift.\nInitiate loading containment fields through binaric ignition rites.\nMonitor plasma bloom with diagnostic praises as power awakens.",
+    "component": "fusion core",
+    "operation": "loading",
+    "spec_id": "s07459"
+  }
+]

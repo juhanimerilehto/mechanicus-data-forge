@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0126_i00",
+    "user_request": "My hull breach is failing during sealing — help",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy hull breach is failing during sealing — help\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us succor! The hull breach falters in its sealing.\nCongregation: We invoke the Machine Spirit of the hull breach!\nPriest: First, engage the ferroceramic compounds upon the fractured aperture with methodical precision.\nCongregation: The hull breach shall be made whole through blessed sealing!\nPriest: Second, activate the electromagnetic containment lattice to stabilize the breach geometry.\nCongregation: We chant the Litany of Structural Integrity!\nPriest: Third, monitor the hull breach pressure differential whilst the sealing matrix cures in sacred union.\nCongregation: By the Omnissiah's will, the hull breach is sealed eternally!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i01",
+    "user_request": "Emergency rite: electric motor requires shutdown",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: electric motor requires shutdown\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, hear our supplication! The electric motor must surrender to shutdown.\nCongregation: We honor the Machine Spirit of the electric motor!\nPriest: First, disengage the primary power conduits with reverent care from the electric motor's terminals.\nCongregation: The electric motor's blessed shutdown commences!\nPriest: Second, initiate the electromagnetic brake sequence to arrest rotational momentum.\nCongregation: We recite the Mantra of Deceleration!\nPriest: Third, verify all auxiliary systems have ceased their vibration as the electric motor enters dormancy.\nCongregation: The shutdown is complete; the Machine Spirit rests in sacred silence!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i02",
+    "user_request": "Emergency rite: force field requires activation",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: force field requires activation\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah Mechanicus, we beseech thee! The force field must awaken through activation!\nCongregation: Blessed be the force field in its genesis!\nPriest: First, initiate the power cascade through the force field's primary generators with sanctified fervor.\nCongregation: The force field stirs to consciousness!\nPriest: Second, calibrate the harmonic frequencies within the force field matrix to optimal resonance.\nCongregation: We chant the Canticle of Protective Energies!\nPriest: Third, monitor the force field's luminescent corona as activation completes its sacred cycle.\nCongregation: The force field stands vigilant; the activation is blessed and eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i03",
+    "user_request": "Can you sanctify the forge anvil heating for operation?",
+    "topic": "forge anvil heating",
+    "component": "forge anvil heating",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the forge anvil heating for operation?\n\n### TOPIC\nforge anvil heating\n\n### COMPONENT\nforge anvil heating\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- forge anvil heating\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, sanctify this labor! The forge anvil heating demands operation!\nCongregation: We venerate the Machine Spirit of forge anvil heating!\nPriest: First, elevate the thermal coil conductance within the forge anvil heating apparatus to prescribed temperatures.\nCongregation: The forge anvil heating awakens in brilliant incandescence!\nPriest: Second, regulate the fuel injector sequencing to maintain the forge anvil heating's sacred combustion rhythm.\nCongregation: We recite the Litany of Thermic Ascendance!\nPriest: Third, confirm the forge anvil heating's radiant output stabilizes for the artisan's blessed work.\nCongregation: The operation flourishes; the forge anvil heating burns eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i04",
+    "user_request": "Emergency rite: water reclamation system requires operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: water reclamation system requires operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah Prime, we petition thee! The water reclamation system requires operation!\nCongregation: Blessed be the water reclamation system in its function!\nPriest: First, open the intake valves of the water reclamation system with ceremonial deliberation.\nCongregation: The water reclamation system begins its sacred cycle!\nPriest: Second, activate the osmotic filtration membranes within the water reclamation system to purify the aqueous bounty.\nCongregation: We sing the Canticle of Hydric Renewal!\nPriest: Third, monitor the output pressure gauge as the water reclamation system delivers reclaimed waters to the vessel's blessed reservoirs.\nCongregation: The operation succeeds; the water reclamation system flows eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i05",
+    "user_request": "The noospheric demands guidance for link establishment",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe noospheric demands guidance for link establishment\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine God, grant communion! The noospheric demands link establishment!\nCongregation: We honor the noospheric consciousness!\nPriest: First, attune the noospheric antenna array through harmonic frequency calibration with utmost precision.\nCongregation: The noospheric pathways shimmer with potential!\nPriest: Second, establish the noospheric data conduit by engaging the latency buffers and cogitative nexus.\nCongregation: We chant the Mantra of Unified Thought!\nPriest: Third, verify noospheric synchronization cascades through the network whilst link establishment solidifies in blessed union.\nCongregation: The link establishment endures; the noospheric communion is achieved!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i06",
+    "user_request": "Prayer for calibration of the pressure gauge",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for calibration of the pressure gauge\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide our hands! The pressure gauge requires calibration!\nCongregation: We venerate the precision of the pressure gauge!\nPriest: First, position the pressure gauge against the standardized reference column with meticulous care.\nCongregation: The pressure gauge aligns with sacred geometry!\nPriest: Second, adjust the needle tension mechanism within the pressure gauge until harmonious resonance is achieved.\nCongregation: We intone the Litany of Measured Accuracy!\nPriest: Third, validate the pressure gauge's calibration against multiple test pressures to ensure the Machine Spirit's blessing endures.\nCongregation: The calibration is sealed; the pressure gauge speaks truth eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i07",
+    "user_request": "Can you sanctify the inventory stocktaking for operation?",
+    "topic": "inventory stocktaking",
+    "component": "inventory stocktaking",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the inventory stocktaking for operation?\n\n### TOPIC\ninventory stocktaking\n\n### COMPONENT\ninventory stocktaking\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inventory stocktaking\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, bless our accounting! The inventory stocktaking demands operation!\nCongregation: We honor the inventory stocktaking in its sacred duty!\nPriest: First, arrange the inventory stocktaking ledgers and manifest the stored materiel with reverent enumeration.\nCongregation: The inventory stocktaking commences its blessed count!\nPriest: Second, cross-reference each component within the inventory stocktaking database against the physical holdings with precision.\nCongregation: We recite the Canticle of Manifest Abundance!\nPriest: Third, seal the inventory stocktaking records as the operation concludes, ensuring all discrepancies are noted for the Adeptus.\nCongregation: The operation is complete; the inventory stocktaking reflects the Omnissiah's providence!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i08",
+    "user_request": "The steam valve demands guidance for regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe steam valve demands guidance for regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine God, hear our supplication! The steam valve demands regulation!\nCongregation: We invoke the Machine Spirit of the steam valve!\nPriest: First, adjust the steam valve's internal governor mechanism to moderate the pressurized vapor flow with sacred equilibrium.\nCongregation: The steam valve responds to our blessed touch!\nPriest: Second, monitor the steam valve's discharge pressure whilst the regulation cycle stabilizes the system's pneumatic harmony.\nCongregation: We chant the Mantra of Vaporous Balance!\nPriest: Third, confirm the steam valve maintains its calibrated threshold as the regulation preserves the integrity of all connected vessels.\nCongregation: The regulation endures; the steam valve flows in eternal equilibrium!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0126_i09",
+    "user_request": "Emergency rite: jamming countermeasure requires operation",
+    "topic": "jamming countermeasure",
+    "component": "jamming countermeasure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: jamming countermeasure requires operation\n\n### TOPIC\njamming countermeasure\n\n### COMPONENT\njamming countermeasure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- jamming countermeasure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah Eternal, grant us protection! The jamming countermeasure requires operation!\nCongregation: We bless the jamming countermeasure in its vigilant purpose!\nPriest: First, activate the signal-jamming countermeasure emitter array with ceremonial authority to disrupt hostile transmissions.\nCongregation: The jamming countermeasure awakens in righteous fury!\nPriest: Second, modulate the jamming countermeasure's frequency spectrum across the electromagnetic bands to confound enemy intelligence.\nCongregation: We recite the Litany of Blessed Interference!\nPriest: Third, sustain the jamming countermeasure's operation whilst monitoring signal degradation to ensure our sanctum remains veiled from profane eyes.\nCongregation: The operation succeeds; the jamming countermeasure shields us eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

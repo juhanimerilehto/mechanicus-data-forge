@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The power cell awaits a maintenance",
+    "prayer": "Approach the power cell with reverence, invoking the Omnissiah's grace for its maintenance.\nBeseech the Machine Spirit within the power cell to awaken from dormancy.\nAnoint its flux capacitors with sacred oils whilst reciting the Canticle of Stabilization.\nPurge electrolytic impurities through ritual venting and recalibration.\nVerify the power cell's renewed vigor via auspex harmonics, praising the Machine God.",
+    "component": "power cell",
+    "operation": "maintenance",
+    "spec_id": "s07420"
+  },
+  {
+    "user_prompt": "Bless the Land Speeder for sterilization",
+    "prayer": "Kneel before the Land Speeder, chanting litanies to purify for sterilization.\nInvoke the wrathful Machine Spirits of its gravitic engines against foul xenos taint.\nScour the Land Speeder's hull with sanctified promethium flames in sterilization rite.\nAnoint undercarriage servos and auspex arrays with ablative unguents.\nBeseech Omnissiah to seal the Land Speeder against corruption eternal.",
+    "component": "Land Speeder",
+    "operation": "sterilization",
+    "spec_id": "s07421"
+  },
+  {
+    "user_prompt": "Sanctify the graviton cannon during repair",
+    "prayer": "Present the graviton cannon to the altar of repair, O holy Omnissiah.\nCoax the fractious Machine Spirit of the graviton cannon with mendicant binaric prayers.\nRealign shattered waveguide matrices during this sacred repair.\nFuse adamantium reinforcements whilst intoning the Forge Litany.\nTest the graviton cannon's fury upon void-targets, glorifying the Machine God.",
+    "component": "graviton cannon",
+    "operation": "repair",
+    "spec_id": "s07422"
+  },
+  {
+    "user_prompt": "Ready the power armour for blessing",
+    "prayer": "Circumambulate the power armour, beseeching Omnissiah for its blessing.\nAwaken the noble Machine Spirits enshrined within the power armour's ceramite plates.\nAnoint gorget seals and power fist actuators with blessed machine oil.\nInvoke protective wards against the heretic's touch upon the power armour.\nSeal the blessing with thunderous hymn, armoring the faithful elect.",
+    "component": "power armour",
+    "operation": "blessing",
+    "spec_id": "s07423"
+  },
+  {
+    "user_prompt": "Assist with Archaeopter Fusilave an operation",
+    "prayer": "Prepare the Archaeopter Fusilave for operation, invoking the Omnissiah's aerial dominion.\nRouse the Machine Spirits of its fusillade bays and stratagem wings.\nCalibrate grav-lifters and incendiary feeds in prelude to operation.\nAnoint cockpit auspex with sacred incense whilst chanting flight canticles.\nLaunch the Archaeopter Fusilave skyward, a thunderbolt of the Machine God.",
+    "component": "Archaeopter Fusilave",
+    "operation": "operation",
+    "spec_id": "s07424"
+  },
+  {
+    "user_prompt": "I need to a synchronization the meltagun",
+    "prayer": "Attune to the meltagun's core, synchronizing its plasma heart with binaric precision.\nBeseech the Machine Spirit of the meltagun to harmonize coils and vents.\nRecite synchronization litanies over flux regulators and melta lenses.\nTest fusion linkages through ritual discharge into the void.\nPraise Omnissiah as the meltagun sings in perfect synchronization.",
+    "component": "meltagun",
+    "operation": "synchronization",
+    "spec_id": "s07425"
+  },
+  {
+    "user_prompt": "Emergency: geigeer sink a startup",
+    "prayer": "In emergency haste, invoke startup rites upon the geigeer sink.\nAwaken the voracious Machine Spirit within the geigeer sink's abyssal chambers.\nPrime warp-siphons and containment fields with sacred energon.\nChant activation catechisms to stabilize the geigeer sink's devouring maw.\nMonitor auspex runes as Omnissiah grants startup vitality.",
+    "component": "geigeer sink",
+    "operation": "startup",
+    "spec_id": "s07426"
+  },
+  {
+    "user_prompt": "What's the prayer for multi-melta a diagnostics?",
+    "prayer": "Commence diagnostics upon the multi-melta, O forge-lord Omnissiah.\nProbe the multi-melta's plasma conduits with probing litanies.\nInterrogate the Machine Spirit through auspex canticles of diagnostics.\nPurge any daemonic flux from the multi-melta's heart.\nAffirm purity with test-blast, hailing the God of All Mechanisms.",
+    "component": "multi-melta",
+    "operation": "diagnostics",
+    "spec_id": "s07427"
+  },
+  {
+    "user_prompt": "The Contemptor Dreadnought awaits a sterilization",
+    "prayer": "Approach the Contemptor Dreadnought for sterilization, with fearful reverence.\nPurge its sarcophagus and weapon arms of all unclean essences in sterilization rite.\nAnoint adamantium chassis with anti-bacterial incenses, beseeching its ancient Machine Spirits.\nScour the Contemptor Dreadnought's dreadnought-grade servos with plasma.\nSeal the Contemptor Dreadnought against warp-filth by Omnissiah's decree.",
+    "component": "Contemptor Dreadnought",
+    "operation": "sterilization",
+    "spec_id": "s07428"
+  },
+  {
+    "user_prompt": "Offer prayer for promethium refinery a blessing",
+    "prayer": "Gather unto the promethium refinery for its solemn blessing.\nInvoke the fiery Machine Spirits of the promethium refinery's distillation towers.\nAnoint feedstock inlets and flare stacks with sacred promethium.\nChant abundance litanies to bless the promethium refinery's output.\nGlorify Omnissiah as rivers of fuel flow pure and unending.",
+    "component": "promethium refinery",
+    "operation": "blessing",
+    "spec_id": "s07429"
+  }
+]

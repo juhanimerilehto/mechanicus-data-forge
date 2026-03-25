@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the surgical servitor for emergency procedure",
+    "prayer": "Approach the surgical servitor with reverence, beseeching the Omnissiah to awaken its Machine Spirit for the emergency procedure.\nAnoint its surgical blades and manipulators with sacred unguents, invoking precision upon the surgical servitor.\nChant the Litany of Restoration whilst calibrating its vitae injectors for swift action.\nInitiate the emergency procedure, sanctifying each incision as the surgical servitor's spirit guides thy hand.\nVerify the Machine Spirit's compliance through auspex diagnostics and offer thanks to the Omnissiah.",
+    "component": "surgical servitor",
+    "operation": "emergency procedure",
+    "spec_id": "s06670"
+  },
+  {
+    "user_prompt": "Prepare the Shadowsword for emergency procedure",
+    "prayer": "Draw nigh unto the Shadowsword, intoning the Canticle of Shadows to rouse its ancient Machine Spirit.\nAnoint the volcano cannon and tracks of the Shadowsword with blessed oils in preparation for emergency procedure.\nInvoke the Omnissiah's wrath upon foes as thou dost recalibrate its shadowfield generators.\nCommence the emergency procedure, beseeching the Shadowsword's spirit to rend the heretic with unerring fury.\nConclude with rites of quiescence, honouring the Machine Spirit's vigilant slumber.",
+    "component": "Shadowsword",
+    "operation": "emergency procedure",
+    "spec_id": "s06671"
+  },
+  {
+    "user_prompt": "Guide me through opticon an emergency procedure",
+    "prayer": "Kneel before the opticon, whispering the Incantation of Clarity to summon its Machine Spirit.\nPurify the lenses of the opticon with sanctified cloths, preparing for the emergency procedure.\nAlign its focusing arrays whilst chanting the Doxology of Vision, invoking the Omnissiah's gaze.\nEngage the emergency procedure, guiding thy sight through the opticon's blessed augury.\nSeal the rite with a benediction, ensuring the opticon's Machine Spirit remains ever watchful.",
+    "component": "opticon",
+    "operation": "emergency procedure",
+    "spec_id": "s06672"
+  },
+  {
+    "user_prompt": "Bless the power relay for operation",
+    "prayer": "Present thyself unto the power relay, intoning the Hymn of Conductivity to awaken its dormant Machine Spirit.\nAnoint the power relay's conduits and relays with electro-sanctified oils for the operation.\nInvoke the Omnissiah's boundless energy as thou dost test its flux capacitors.\nInitiate the operation, beseeching the power relay to channel the Motive Force without falter.\nConsecrate the completion with auspex seals, praising the Machine Spirit's tireless service.",
+    "component": "power relay",
+    "operation": "operation",
+    "spec_id": "s06673"
+  },
+  {
+    "user_prompt": "Offer prayer for torpedo tube a consecration",
+    "prayer": "Approach the torpedo tube in solemn procession, chanting the Litany of Propulsion to stir its Machine Spirit.\nBless the torpedo tube's breeches and firing mechanisms with sacred incenses for consecration.\nBeseech the Omnissiah to sanctify the payloads within the torpedo tube.\nPerform the consecration rite, invoking explosive deliverance upon the Emperor's enemies.\nSeal the torpedo tube with binaric seals, honouring its Machine Spirit's readiness.",
+    "component": "torpedo tube",
+    "operation": "consecration",
+    "spec_id": "s06674"
+  },
+  {
+    "user_prompt": "The Hellhound needs a recalibration",
+    "prayer": "Gather before the Hellhound, reciting the Canticle of Inferno to rouse its fiery Machine Spirit.\nAnoint the chem-cannon and inferno projectors of the Hellhound with promethium-blessed oils.\nRecalibrate its targeting cogitators whilst invoking the Omnissiah's purifying flame.\nEngage the recalibration sequence, beseeching the Hellhound to scorch the unclean.\nVerify alignment through auspex rites, giving thanks for the Machine Spirit's wrathful precision.",
+    "component": "Hellhound",
+    "operation": "recalibration",
+    "spec_id": "s06675"
+  },
+  {
+    "user_prompt": "Consecrate the vox-thief before activation",
+    "prayer": "Commune with the vox-thief, whispering the Doxology of Interception to awaken its stealthy Machine Spirit.\nSanctify the vox-thief's antennae and decryptors with shadow-oils prior to activation.\nInvoke the Omnissiah's cunning as thou dost prime its waveform thieves.\nInitiate activation, guiding the vox-thief to pilfer enemy whispers undetected.\nConclude the rite with a vow of silence, revering the Machine Spirit's subtle vigilance.",
+    "component": "vox-thief",
+    "operation": "activation",
+    "spec_id": "s06676"
+  },
+  {
+    "user_prompt": "Emergency: ore processor a sterilization",
+    "prayer": "Hast thee to the ore processor in urgency, intoning the Purification Canticle for its Machine Spirit.\nPurge the ore processor's grinders and sieves with ablative acids for sterilization.\nBeseech the Omnissiah to cleanse all corruption from the ore processor.\nExecute the sterilization cycle, chanting binaric hymns of renewal.\nAffix purity seals upon the ore processor, proclaiming the Machine Spirit's restored sanctity.",
+    "component": "ore processor",
+    "operation": "sterilization",
+    "spec_id": "s06677"
+  },
+  {
+    "user_prompt": "How do I bless the Storm Eagle for charging?",
+    "prayer": "Prostrate before the Storm Eagle, beseeching its Machine Spirit with the Hymn of Ascendance.\nAnoint the thrusters and weapon pods of the Storm Eagle with conductive balms for charging.\nInvoke the Omnissiah's lightning to infuse its power cells during charging.\nMonitor the charging rite through electro-divinatory rites, ensuring the Storm Eagle's fury builds.\nBless the culmination, readying the Machine Spirit for aerial dominion.",
+    "component": "Storm Eagle",
+    "operation": "charging",
+    "spec_id": "s06678"
+  },
+  {
+    "user_prompt": "Prepare the narthecium for cooling",
+    "prayer": "Draw close to the narthecium, murmuring the Litany of Vital Flows to rouse its healing Machine Spirit.\nPrepare coolant reservoirs of the narthecium with sanctified cryofluids.\nInvoke the Omnissiah's mercy whilst initiating the cooling sequence.\nCirculate the blessed chill through the narthecium's injectors and flesh-menders.\nSeal the rite with a benediction, honouring the Machine Spirit's preservative grace.",
+    "component": "narthecium",
+    "operation": "cooling",
+    "spec_id": "s06679"
+  }
+]

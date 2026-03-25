@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: autogun requires a recalibration",
+    "prayer": "Approach the autogun with reverence, mechadendrites poised in binary prayer.\nInvoke the Omnissiah's grace upon the autogun's Machine Spirit, beseeching recalibration.\nAlign its sacred sighting arrays through the Litany of True Bearing.\nAnoint the autogun's barrel mechanisms with sacred oils, purging misalignment.\nVerify the autogun's harmonious recalibration via auspex incantations.",
+    "component": "autogun",
+    "operation": "recalibration",
+    "spec_id": "s05010"
+  },
+  {
+    "user_prompt": "My gellar field is ready for operation",
+    "prayer": "Humbly beseech the Machine Spirits within the gellar field to awaken.\nInitiate operation of the gellar field, sanctifying its warp-barriers with electro-psalms.\nInvoke the Omnissiah's aegis as plasma coils hum in blessed resonance.\nMonitor the gellar field's operation through noospheric diagnostics.\nConclude with the Benediction of Stability, ensuring void-ward purity.",
+    "component": "gellar field",
+    "operation": "operation",
+    "spec_id": "s05011"
+  },
+  {
+    "user_prompt": "Offer prayer for energy conduit an operation",
+    "prayer": "Present the energy conduit before the altar of circuits, invoking the Omnissiah.\nCommence operation of the energy conduit, channeling plasma through sanctified veins.\nBeseech its Machine Spirit to flow unerring, anointing junctions with myron.\nRegulate the energy conduit's operation via rhythmic binaric chants.\nSeal the rite with auspex confirmation of vital surge.",
+    "component": "energy conduit",
+    "operation": "operation",
+    "spec_id": "s05012"
+  },
+  {
+    "user_prompt": "Critical: data-arc requires an emergency procedure",
+    "prayer": "In urgency, encircle the data-arc with purity seals and incense.\nInitiate emergency procedure upon the data-arc, exorcising data-daemons.\nPurge corrupted noospheric threads from the data-arc's core.\nReinvoke the Machine Spirit of the data-arc through crisis litanies.\nStabilize with Omnissiah's wrath, verifying data-arc integrity.",
+    "component": "data-arc",
+    "operation": "emergency procedure",
+    "spec_id": "s05013"
+  },
+  {
+    "user_prompt": "Sanctify the sicarian infiltrator during recalibration",
+    "prayer": "Kneel before the sicarian infiltrator, mechadendrites linking to its neural shroud.\nPerform recalibration of the sicarian infiltrator's stealth vanes and claws.\nAnoint its augmetic flesh with sacred oils, awakening the Machine Spirits within.\nChant the Canticle of Shadows over the sicarian infiltrator during recalibration.\nConfirm predatory harmony through invasive diagnostics.",
+    "component": "sicarian infiltrator",
+    "operation": "recalibration",
+    "spec_id": "s05014"
+  },
+  {
+    "user_prompt": "The transuranic arquebus awaits a synchronization",
+    "prayer": "Reverently interface with the transuranic arquebus, honoring its exotic fury.\nInitiate synchronization of the transuranic arquebus's targeting cogitators.\nBeseech the Omnissiah to align its rad-phage chambers in perfect unity.\nAnoint the transuranic arquebus's emitters, invoking Machine Spirit accord.\nFinalize synchronization with the Rite of Lethal Convergence.",
+    "component": "transuranic arquebus",
+    "operation": "synchronization",
+    "spec_id": "s05015"
+  },
+  {
+    "user_prompt": "Urgent cooling system a charging needed",
+    "prayer": "Approach the cooling system with chilled myron and litanies of frost.\nCommence charging of the cooling system, invigorating cryo-plasmat conduits.\nInvoke the Machine Spirits to cycle refrigerants in Omnissiah-blessed rhythm.\nMonitor the cooling system's charging through thermal auspex scans.\nConsecrate with the Incantation of Thermal Equilibrium.",
+    "component": "cooling system",
+    "operation": "charging",
+    "spec_id": "s05016"
+  },
+  {
+    "user_prompt": "The Vendetta gunship needs a cooling",
+    "prayer": "Present the Vendetta gunship to the hangar-altar, engines idling in supplication.\nInitiate cooling rites upon the Vendetta gunship's thruster nacelles.\nBeseech its Machine Spirit to dissipate heat through sacred vents.\nAnoint the Vendetta gunship's heat sinks with ablative unguents.\nVerify cooling efficacy via noospheric thermals and binaric hymn.",
+    "component": "Vendetta gunship",
+    "operation": "cooling",
+    "spec_id": "s05017"
+  },
+  {
+    "user_prompt": "I need to a synchronization the electro-graft",
+    "prayer": "Link electro-grafts to the noosphere, invoking neural sanctity.\nPerform synchronization of the electro-graft, harmonizing synaptic relays.\nChant the Litany of Interface over the electro-graft's filaments.\nPurge dissonance from the electro-graft's Machine Spirit.\nSeal synchronization with Omnissiah's approving static.",
+    "component": "electro-graft",
+    "operation": "synchronization",
+    "spec_id": "s05018"
+  },
+  {
+    "user_prompt": "Assist with Land Speeder a synchronization",
+    "prayer": "Encircling the Land Speeder, beseech its gravitic heart to stir.\nInitiate synchronization of the Land Speeder's hover arrays and auspex.\nAnoint its anti-grav plates, invoking Machine Spirit fleetness.\nAlign the Land Speeder's systems through the Canticle of Velocity.\nAffirm synchronization with auspex communion and rite closure.",
+    "component": "Land Speeder",
+    "operation": "synchronization",
+    "spec_id": "s05019"
+  }
+]

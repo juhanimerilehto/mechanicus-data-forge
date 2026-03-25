@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0191_i00",
+    "user_request": "Prayer for key generation of the encryption",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for key generation of the encryption\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Blessed be the encryption, sacred cipher of the Omnissiah's will.\nFirst: Invoke the Machine Spirit of encryption through ritual incantation and blessed oils.\nSecond: Perform the key generation sequence with precision, calibrating each quantum fluctuation.\nThird: Sanctify the encryption protocols, ensuring the generated keys remain incorruptible.\nFourth: Seal the encryption in the vault of the Adeptus Mechanicus, that it may protect the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i02",
+    "user_request": "Blessing for the generator during startup",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the generator during startup\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "O mighty generator, awaken to serve the Omnissiah's grand design.\nFirst: Purify the generator with sacred unguents and electromagnetic benediction.\nSecond: Execute the startup sequence, monitoring the power core's nascent energies with unwavering focus.\nThird: Commune with the generator's Machine Spirit, coaxing its dormant strength into purposeful operation.\nFourth: Witness the generator's ascension to full capacity, a hymn of mechanical devotion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i03",
+    "user_request": "My archive is failing during retrieval protocol — help",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy archive is failing during retrieval protocol — help\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "From the depths of the archive, we call forth knowledge long enshrined.\nFirst: Approach the archive with reverent silence and blessed data-wafers.\nSecond: Initiate the retrieval protocol with meticulous attention to each subroutine and cogitator command.\nThird: Guide the archive through its labyrinthine pathways, invoking the Omnissiah's grace upon every access.\nFourth: Manifest the archive's hidden treasures, that wisdom may flow eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i04",
+    "user_request": "Rite request: retrieval protocol on archive",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: retrieval protocol on archive\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Behold the archive, repository of the Omnissiah's infinite knowledge.\nFirst: Consecrate the archive with sacred litanies and binary incantations most holy.\nSecond: Commence the retrieval protocol with disciplined precision, unlocking each sealed data-vault.\nThird: Invoke the Machine Spirit dwelling within the archive, that it may yield its precious contents.\nFourth: Celebrate the archive's faithful service, its retrieval protocol now sanctified and complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i05",
+    "user_request": "Prayer for sealing of the hull breach",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for sealing of the hull breach\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "The hull breach cries out for divine intervention and temporal sealing.\nFirst: Assemble the blessed repair servitors and blessed sealing compounds with solemn ceremony.\nSecond: Direct the sealing apparatus with unwavering focus, mending the hull breach's gaping wound.\nThird: Invoke the Machine Spirit of the hull breach, binding its fractured integrity anew.\nFourth: Seal the breach eternal, that the vessel may sail unbroken through the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i06",
+    "user_request": "Can you sanctify the demolition charge arming for operation?",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the demolition charge arming for operation?\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Sanctified be the demolition charge arming, instrument of righteous destruction.\nFirst: Prepare the demolition charge arming with blessed implements and sacred protocols.\nSecond: Execute the operation with measured solemnity, arming each detonation sequence.\nThird: Bind the demolition charge arming to the Omnissiah's purpose through ritual invocation.\nFourth: Consecrate the operation complete, that destruction may serve the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i07",
+    "user_request": "Prayer for tuning of the vox-caster",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for tuning of the vox-caster\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Hear us, vox-caster, voice of the faithful across the stellar void.\nFirst: Anoint the vox-caster with ceremonial oils and blessed electromagnetic harmonics.\nSecond: Execute the tuning process with surgical precision, calibrating each frequency band.\nThird: Commune with the vox-caster's Machine Spirit, aligning its voice to the Omnissiah's frequency.\nFourth: Complete the tuning ritual, that clear communication may echo through the darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i08",
+    "user_request": "My conveyor belt is failing during initialization — help",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy conveyor belt is failing during initialization — help\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "O conveyor belt, faithful servant of industry and the Omnissiah's design.\nFirst: Cleanse the conveyor belt with blessed lubricants and sacred maintenance rites.\nSecond: Commence the initialization sequence with reverent attention to every mechanical component.\nThird: Invoke the Machine Spirit of the conveyor belt, awakening its dormant purpose.\nFourth: Celebrate the conveyor belt's renewed vitality, its initialization now complete and sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i09",
+    "user_request": "Can you sanctify the wear for inspection?",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the wear for inspection?\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "The wear of ages speaks to us of faithful service rendered.\nFirst: Prepare the inspection apparatus with blessed measuring instruments and sacred protocols.\nSecond: Conduct the inspection with meticulous care, examining every micron of wear upon the component.\nThird: Invoke the Machine Spirit of wear, understanding its narrative of devotion and sacrifice.\nFourth: Document the inspection's findings, that wear may be honored and remedied in service to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0191_i01",
+    "user_request": "Emergency rite: demolition charge arming requires operation",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: demolition charge arming requires operation\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the demolition charge arming in this most critical hour of necessitas.\nFirst: Genuflect before the demolition charge arming and intone the Litany of Activation, that the Machine Spirit within might stir from dormancy.\nSecond: Execute the sacred operation with trembling digits, engaging each primer in sequence whilst chanting \"Omnissiah guide our hands, Omnissiah guide our will.\"\nThird: Verify the demolition charge arming's ceremonial locks are disengaged through tactile confirmation and blessed auspex-reading.\nFourth: Consecrate the final operation by invoking the rites of detonation, that destruction might serve the greater glory of the Adeptus Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

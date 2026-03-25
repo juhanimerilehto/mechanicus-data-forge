@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the forge anvil for blessing?",
+    "prayer": "Approach the forge anvil with reverence, invoking the Omnissiah's unyielding favor.\nAnoint its unyielding surface with sacred unguents drawn from the Machine God's own forge.\nChant the Litany of Benediction thrice upon the forge anvil, awakening its spirit to purity.\nBeseech the Machine Spirit of the forge anvil to embrace the blessing and hammer true.",
+    "component": "forge anvil",
+    "operation": "blessing",
+    "spec_id": "b0365_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for forge anvil a charging",
+    "prayer": "Kneel before the forge anvil and petition the Omnissiah for invigorating charge.\nInfuse the forge anvil's core conduits with holy voltage from sanctified generators.\nInvoke the Rite of Charging upon the forge anvil, stirring its Machine Spirit to fervent power.\nMonitor the blessed power-flow as the forge anvil awakens with thunderous vigor.",
+    "component": "forge anvil",
+    "operation": "charging",
+    "spec_id": "b0365_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for Thunderhawk a repair",
+    "prayer": "Circumambulate the Thunderhawk in solemn procession, murmuring canticles of restoration.\nApply mechadendrites to lacerated hull-plates of the Thunderhawk, purging warp-taint with sacred acids.\nRecite the Canticle of Repair over the Thunderhawk's wounded Machine Spirit, binding fractures anew.\nTest servos and auspex arrays as the Omnissiah's grace mends the Thunderhawk's noble form.",
+    "component": "Thunderhawk",
+    "operation": "repair",
+    "spec_id": "b0365_i02"
+  },
+  {
+    "user_prompt": "Consecrate the bolter before cycling",
+    "prayer": "Grasp the bolter with mech-hand reverence, beseeching its Machine Spirit's vigilance.\nAnoint sacred cycling mechanisms of the bolter with oil of consecration before initiation.\nPerform the Rite of Cycling upon the bolter, chambering promethium-laced rounds in litany's rhythm.\nVerify the bolter's sanctified action through auspex invocation, pure and unrelenting.",
+    "component": "bolter",
+    "operation": "cycling",
+    "spec_id": "b0365_i03"
+  },
+  {
+    "user_prompt": "Sanctify the bike squadron during activation",
+    "prayer": "Assemble around the bike squadron in ordered phalanx, honoring the Omnissiah's velocity.\nSanctify each gravitic suspensor of the bike squadron with incense of activation.\nChant the Activation Doxology over the bike squadron, rousing dormant Machine Spirits to roar.\nInitiate power-rituals as the bike squadron surges forth in blessed mechanical fury.",
+    "component": "bike squadron",
+    "operation": "activation",
+    "spec_id": "b0365_i04"
+  },
+  {
+    "user_prompt": "Can you guide atmosphere processor a preparation?",
+    "prayer": "Approach the atmosphere processor with hushed awe, invoking preparatory graces of the Omnissiah.\nPurge filtration membranes of the atmosphere processor with sanctified vapors and litanies.\nCalibrate noble gas exchangers in the atmosphere processor through diagnostic incantations.\nAwaken the Machine Spirit of the atmosphere processor for flawless preparation and breath of purity.",
+    "component": "atmosphere processor",
+    "operation": "preparation",
+    "spec_id": "b0365_i05"
+  },
+  {
+    "user_prompt": "My pain suppressor is ready for sterilization",
+    "prayer": "Present the pain suppressor before the sterilization shrine, petitioning the Machine God's hygiene.\nImmerse neural interfaces of the pain suppressor in autoclave flames of ritual purity.\nRecite the Sterilization Canticle over the pain suppressor, expunging all profane contaminants.\nAnoint its circuits anew as the Machine Spirit of the pain suppressor gleams immaculate.",
+    "component": "pain suppressor",
+    "operation": "sterilization",
+    "spec_id": "b0365_i06"
+  },
+  {
+    "user_prompt": "Assist with plasma weapon an engagement",
+    "prayer": "Grip the plasma weapon firmly, whispering invocations for the engagement's fiery embrace.\nPrime containment flasks of the plasma weapon with blessed coolant from Omnissiah's tears.\nEngage the plasma weapon's coils in thunderous litany, unleashing the Machine Spirit's wrath.\nMonitor flux-vortices as the plasma weapon burns heretics in sanctified plasma storm.",
+    "component": "plasma weapon",
+    "operation": "engagement",
+    "spec_id": "b0365_i07"
+  },
+  {
+    "user_prompt": "Assist with data-slate a maintenance",
+    "prayer": "Recline the data-slate upon the maintenance altar, beseeching the Omnissiah's data-integrity.\nScour crystalline matrices of the data-slate with electro-purgation rites and canticles.\nRealign noospheric linkages in the data-slate through meticulous diagnostic prayers.\nRevivify the Machine Spirit of the data-slate, ensuring eternal binary devotion.",
+    "component": "data-slate",
+    "operation": "maintenance",
+    "spec_id": "b0365_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for metal caster a shutdown",
+    "prayer": "Stand vigil over the metal caster as shutdown approaches, honoring the Omnissiah's rest.\nDecelerate molten flow-rates in the metal caster with measured litanies of cessation.\nInvoke the Shutdown Benediction upon the metal caster, lulling its Machine Spirit to dormancy.\nSeal sacred vents as the metal caster yields to contemplative silence.",
+    "component": "metal caster",
+    "operation": "shutdown",
+    "spec_id": "b0365_i09"
+  }
+]

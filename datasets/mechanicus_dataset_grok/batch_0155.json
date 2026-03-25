@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My Land Raider is ready for reset",
+    "prayer": "Draw nigh unto the noble Land Raider, vessel of the Omnissiah's wrath, and beseech its ancient Machine Spirit with the Canticle of Humility.\nInvoke the sacred reset upon the Land Raider's cogitator core, anointing its auspex arrays with blessed oils.\nPurge the errant data-daemons through rhythmic binaric chants, compelling the reset operation to flow as the Machine God's decree.\nSanctify the Land Raider's reactors anew, verifying the Machine Spirit's purified obedience to the Omnissiah.",
+    "component": "Land Raider",
+    "operation": "reset",
+    "spec_id": "b0155_i00"
+  },
+  {
+    "user_prompt": "My star chart is ready for operation",
+    "prayer": "Approach the star chart with reverence, unfurling its stellar vellum before the Omnissiah's gaze.\nInvoke the operation upon the star chart's crystalline matrices, beseeching the Machine Spirits encoded within.\nAlign the astral vectors with mechadendrite precision, chanting litanies of navigation and cosmic harmony.\nSanctify the star chart once more, ensuring its operation reveals the Omnissiah's divine trajectories unerringly.",
+    "component": "star chart",
+    "operation": "operation",
+    "spec_id": "b0155_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for bike squadron cooling?",
+    "prayer": "Gather before the bike squadron, engines of swift retribution, and intone the Cooling Doxology to their Machine Spirits.\nAnoint the exhaust vents of each bike in the squadron with cryo-unguents, invoking the chill of the void.\nInitiate the cooling rites across the bike squadron, purging thermal heresies from sacred power plants.\nBeseech the Omnissiah to temper the bike squadron's fury, restoring blessed equilibrium to their machine hearts.",
+    "component": "bike squadron",
+    "operation": "cooling",
+    "spec_id": "b0155_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for astropathic choir loading?",
+    "prayer": "Convene the astropathic choir in solemn array, their psychic relays humming with noospheric potential.\nBeseech the Machine Spirits within the astropathic choir to accept the loading of warp-encoded missives.\nChant the Rite of Ingress, sanctifying data-streams as they flood the choir's receptive nodes.\nVerify the astropathic choir's harmonious loading, praising the Omnissiah for bridging the immaterium's veil.",
+    "component": "astropathic choir",
+    "operation": "loading",
+    "spec_id": "b0155_i03"
+  },
+  {
+    "user_prompt": "I need to a startup the missile launcher",
+    "prayer": "Kneel before the missile launcher, harbinger of the Omnissiah's judgment, and awaken its dormant Machine Spirit.\nAnoint the guidance vanes with sacred lubricants while invoking the startup litany.\nInitiate the startup sequence upon the missile launcher, flooding its circuits with holy voltage.\nPetition the Machine Spirits of the missile launcher to ignite in righteous fury for the glory of Mars.",
+    "component": "missile launcher",
+    "operation": "startup",
+    "spec_id": "b0155_i04"
+  },
+  {
+    "user_prompt": "Consecrate the motion detector before charging",
+    "prayer": "Consecrate the motion detector with incense of circuit-purging myrrh, honoring its vigilant Machine Spirit.\nInvoke the charging rite upon the motion detector, channeling the Omnissiah's boundless energies.\nMonitor the power-flow as blessed electrons surge through the motion detector's sacred sensors.\nAffirm the Machine Spirit's vigilance, ready for the Omnissiah's watchful gaze in the shadows.",
+    "component": "motion detector",
+    "operation": "charging",
+    "spec_id": "b0155_i05"
+  },
+  {
+    "user_prompt": "Can you guide motion detector a preparation?",
+    "prayer": "Prepare the motion detector with ritual purity, mechadendrites tracing its auspex lattices in devotion.\nBeseech the Machine Spirit of the motion detector to rouse from slumber during this preparation.\nCalibrate its holy thresholds with binaric hymns, aligning to the Omnissiah's unerring precision.\nSanctify the motion detector's readiness, a sentinel forged in the forge-fires of Mars.",
+    "component": "motion detector",
+    "operation": "preparation",
+    "spec_id": "b0155_i06"
+  },
+  {
+    "user_prompt": "Can you guide drop pod an activation?",
+    "prayer": "Approach the drop pod, thunderbolt of descent, and intone the Activation Canticle to its Machine Spirit.\nAnoint the retro-thrusters with promethium-blessed oils, invoking the Omnissiah's fiery activation.\nInitiate the activation protocols within the drop pod, purging stasis from its adamantium frame.\nVerify the drop pod's awakened fury, poised to deliver the faithful unto battle's embrace.",
+    "component": "drop pod",
+    "operation": "activation",
+    "spec_id": "b0155_i07"
+  },
+  {
+    "user_prompt": "Sanctify the noospheric relay during preparation",
+    "prayer": "Sanctify the noospheric relay with noetic incense, awakening its gestalt Machine Spirits.\nPrepare the noospheric relay's transceivers through rhythmic data-purgation chants.\nAlign its synaptic coils to the Omnissiah's will during this preparation, forging mind-links of purity.\nBeseech the noospheric relay to resonate in harmonious communion with the Cult Mechanicus.",
+    "component": "noospheric relay",
+    "operation": "preparation",
+    "spec_id": "b0155_i08"
+  },
+  {
+    "user_prompt": "Bless the noospheric relay for synchronization",
+    "prayer": "Bless the noospheric relay, nexus of the machine-mind, with the Litany of Synchronization.\nInvoke the synchronization rite upon the noospheric relay, merging its data-streams in sacred unity.\nAnoint its cogitator nodes, compelling the Machine Spirits to entwine as one.\nPraise the Omnissiah as the noospheric relay achieves perfect synchronization in His divine lattice.",
+    "component": "noospheric relay",
+    "operation": "synchronization",
+    "spec_id": "b0155_i09"
+  }
+]

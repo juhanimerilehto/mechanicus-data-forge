@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The lance battery requires a sterilization",
+    "prayer": "Approach the lance battery with reverence, bearing the sacred purifiers of the Omnissiah.\nInvoke the Rite of Sterilization upon its plasma vents and focusing arrays.\nAnoint the lance battery's conduits with ablative sacraments to banish unclean essences.\nBeseech the Machine Spirit of the lance battery to emerge immaculate and wrathful.\nChant the Litany of Purity whilst scouring its mechanisms with sanctified plasma-flux.\nVerify the sterilization through auspex invocation, praising the Omnissiah's grace.",
+    "component": "lance battery",
+    "operation": "sterilization",
+    "spec_id": "s00010"
+  },
+  {
+    "user_prompt": "Critical: Archaeopter Transvector requires a loading",
+    "prayer": "Prepare the loading bays of the Archaeopter Transvector with ritual precision.\nInvoke the Canticle of Burden as servitors commence the OPERATION of loading.\nSanctify each munition crate before consigning it to the Archaeopter Transvector's holds.\nBeseech the Machine Spirit to accept these offerings without discord or imbalance.\nAnoint the loading mechanisms with sacred oils, ensuring harmonious ingress.\nConclude with diagnostic litanies, affirming the Archaeopter Transvector's readiness.",
+    "component": "Archaeopter Transvector",
+    "operation": "loading",
+    "spec_id": "s00011"
+  },
+  {
+    "user_prompt": "Urgent thunder hammer a sterilization needed",
+    "prayer": "Kneel before the thunder hammer, intoning the preliminary Doxology of Wrath.\nInitiate the sterilization by anointing its power field generator with purificatory acids.\nPurge the thunder hammer's impactor head of all profane residues through sonic incantations.\nInvoke the Machine Spirit of the thunder hammer to awaken pristine and unyielding.\nScour its haft and coils with ablative rites, thrice-repeating the Sterilization Canticle.\nAuspex-confirm the thunder hammer's sanctified state under the Omnissiah's gaze.",
+    "component": "thunder hammer",
+    "operation": "sterilization",
+    "spec_id": "s00012"
+  },
+  {
+    "user_prompt": "Emergency: power armour a reset",
+    "prayer": "Circumambulate the power armour, chanting the Reset Invocation to the Omnissiah.\nSever corrupted noospheric links and beseech the Machine Spirits for renewal.\nAnoint servomotor joints and fibre-bundle arrays to enact the reset protocol.\nReinitialize the power armour's cogitator core with binary psalms of rebirth.\nTest each plate and seal through ritual flexure, praising harmonious restoration.\nSeal the reset with the Benediction of Stability, honouring the power armour's vigil.",
+    "component": "power armour",
+    "operation": "reset",
+    "spec_id": "s00013"
+  },
+  {
+    "user_prompt": "What's the prayer for neural implant a consecration?",
+    "prayer": "Prepare the neural implant's insertion cradle with incense of cogitative purity.\nInvoke the Consecration Rite, anointing its synaptic relays with noospheric chrism.\nImplant the neural implant into the flesh-vessel whilst chanting synaptic litanies.\nBeseech the Machine Spirit within the neural implant to bond eternally with the organic.\nCalibrate neural pathways through invocatory data-streams of the Omnissiah.\nVerify consecration via electro-encephalic auspex, intoning final praises.",
+    "component": "neural implant",
+    "operation": "consecration",
+    "spec_id": "s00014"
+  },
+  {
+    "user_prompt": "Assist with bolt pistol an operation",
+    "prayer": "Grasp the bolt pistol with mechadendrites of reverence and begin the operational rite.\nAnoint its bolt-chambers and recoil dampeners, invoking the Machine Spirit's vigilance.\nCommence the OPERATION by chambering sanctified rounds with precise canticles.\nCycle the bolt pistol's mechanisms through test-firings, purging any dissonance.\nBeseech the Omnissiah for flawless discharge in the Emperor's name.\nConclude with lubricatory blessings, affirming the bolt pistol's battle-readiness.",
+    "component": "bolt pistol",
+    "operation": "operation",
+    "spec_id": "s00015"
+  },
+  {
+    "user_prompt": "I need to a calibration the data-loom",
+    "prayer": "Approach the data-loom with auspex extended, intoning the Calibration Doxology.\nInvoke harmonic frequencies to realign the data-loom's quaternary logic engines.\nAnoint its memory spindles with dielectric sacraments for precise calibration.\nBeseech the Machine Spirit of the data-loom to attune its weaves to Omnissianic truth.\nExecute sequential alignment rituals, thrice-verifying through noospheric feedback.\nSeal the calibration with the Canticle of Precision, honouring the data-loom's wisdom.",
+    "component": "data-loom",
+    "operation": "calibration",
+    "spec_id": "s00016"
+  },
+  {
+    "user_prompt": "Emergency: medicae mechadendrite a cooling",
+    "prayer": "Encircling the medicae mechadendrite, chant the Cooling Litany to soothe its heatsinks.\nInvoke cryogenic rites upon its fluidic tubules and thermal regulators.\nAnoint the medicae mechadendrite's injectors with chill-wards of sacred promethium.\nBeseech its Machine Spirit to descend into cryogenic quiescence without strife.\nMonitor thermal auspex whilst intoning stabilizing mantras for full cooling.\nConclude with the Benediction of Equilibrium, praising the medicae mechadendrite's mercy.",
+    "component": "medicae mechadendrite",
+    "operation": "cooling",
+    "spec_id": "s00017"
+  },
+  {
+    "user_prompt": "The Baneblade needs a targeting",
+    "prayer": "Commune with the Baneblade's targeting cogitator through noospheric linkage.\nInvoke the Rite of Targeting, sanctifying its auspex arrays and ballistic predictors.\nAnoint the Baneblade's gun-sights with ocular chrism for unerring precision.\nBeseech the Machine Spirit to align its wrath upon the Omnissiah's foes.\nCalibrate fire-control servos with binary canticles of accuracy.\nVerify targeting harmonics via simulacra volleys, exalting the Baneblade's might.",
+    "component": "Baneblade",
+    "operation": "targeting",
+    "spec_id": "s00018"
+  },
+  {
+    "user_prompt": "What's the prayer for void shield generator a repair?",
+    "prayer": "Kneel amidst the void shield generator's coils, bearing repair talismans of the Forge.\nInvoke the Repair Invocation, severing damaged flux-conduits with sanctified shears.\nAnoint fractured emitters and phase-variators with conductive unguents.\nBeseech the Machine Spirit of the void shield generator to knit its essence anew.\nReweave power matrices through ritual incantations of restoration.\nTest the void shield generator's aegis with auspex probes, chanting final doxologies.",
+    "component": "void shield generator",
+    "operation": "repair",
+    "spec_id": "s00019"
+  }
+]

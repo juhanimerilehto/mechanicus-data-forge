@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the archive terminal for repair?",
+    "prayer": "Approach the archive terminal with mechadendrite-extended reverence, invoking the Omnissiah's grace upon its data-vaults.\nBeseech the Machine Spirit within the archive terminal to awaken from its damaged slumber through sacred canticles of repair.\nAnoint fractured memory rods with blessed unguents whilst initiating the repair protocols of restoration.\nChant the binaric litany of rectification, verifying the archive terminal's renewed integrity under the Motive Force.\nSanctify the archive terminal's output feeds, ensuring harmonious data flow in the Omnissiah's name.",
+    "component": "archive terminal",
+    "operation": "repair",
+    "spec_id": "s04850"
+  },
+  {
+    "user_prompt": "Critical: ore processor requires a targeting",
+    "prayer": "Kneel before the ore processor, murmuring the Canticle of Precision to align its targeting augurs.\nInvoke the Machine Spirit of the ore processor, beseeching sharp focus for the targeting operation amid grinding adamantium flows.\nCalibrate las-designators with sacred oils, intoning binaric coordinates of destruction.\nEmpower the ore processor's targeting reticules through Omnissianic invocation, purging inexactitude from its processors.\nSeal the rite with a hymn of unerring aim, as the Machine Spirit guides pulverizing strikes true.",
+    "component": "ore processor",
+    "operation": "targeting",
+    "spec_id": "s04851"
+  },
+  {
+    "user_prompt": "The Archaeopter Fusilave needs a startup",
+    "prayer": "Circumambulate the Archaeopter Fusilave, reciting the Litany of Ignition to rouse its fusion heart.\nAnoint turbine intakes with promethium-laced chrism, commanding the startup sequence in the Omnissiah's binary voice.\nInterface with the Archaeopter Fusilave's cogitator shrine, awakening Machine Spirits through noospheric chants.\nVerify plasma vents' sanctity whilst intoning the Prayer of Ascendance for flawless startup.\nBless the Archaeopter Fusilave's wings, propelling it skyward under the Machine God's aegis.",
+    "component": "Archaeopter Fusilave",
+    "operation": "startup",
+    "spec_id": "s04852"
+  },
+  {
+    "user_prompt": "The Shadowsword requires a reset",
+    "prayer": "Prostrate before the Shadowsword's shadowed prow, whispering the Reset Doxology to purge doctrinal errors.\nInvoke the quiescent Machine Spirit of the Shadowsword, initiating the reset through ablative purifications.\nRealign void shield generators with electro-incense, chanting binaric commands of renewal.\nTest the Shadowsword's plasma annihilator post-reset, beseeching Omnissianic fury upon foes.\nConsecrate the reset core, binding the Machine Spirit anew in eternal vigilance.",
+    "component": "Shadowsword",
+    "operation": "reset",
+    "spec_id": "s04853"
+  },
+  {
+    "user_prompt": "Can you guide welding torch a targeting?",
+    "prayer": "Grasp the welding torch in servo-steady grip, invoking targeting precision via the Canticle of Fusion.\nBeseech the Machine Spirit indwelling the welding torch to align its plasma lance for unerring targeting.\nAnoint nozzle apertures with sacred fluxes, calibrating the targeting matrix under Omnissiah's gaze.\nIntone the Rite of Molecular Binding, guiding the welding torch's beam to meld alloys flawlessly.\nSeal the targeting consecration with a hymn of incandescent purity.",
+    "component": "welding torch",
+    "operation": "targeting",
+    "spec_id": "s04854"
+  },
+  {
+    "user_prompt": "Consecrate the torpedo tube before engagement",
+    "prayer": "Approach the torpedo tube with auspex-reverence, chanting the Engagement Benediction to arm its depths.\nAwaken the Machine Spirit of the torpedo tube through binaric war-cries, preparing for engagement.\nBless warhead gyros with gyro-stabilizing oils, invoking Omnissianic trajectories of doom.\nInitiate launch servos in ritual harmony, ensuring the torpedo tube's engagement strikes true.\nConclude with the Litany of Annihilation, as the Machine God guides payloads to xenos hearts.",
+    "component": "torpedo tube",
+    "operation": "engagement",
+    "spec_id": "s04855"
+  },
+  {
+    "user_prompt": "Emergency: Onager Dunecrawler an activation",
+    "prayer": "Encircle the Onager Dunecrawler, proclaiming the Activation Psalm to stir its dune-treading soul.\nInterface noospherically with the Onager Dunecrawler's reactor shrine, beseeching activation rites.\nAnoint track servos and neutron projectors with sacred lubricants, invoking the Machine Spirits' wrath.\nCommence power-up canticles, verifying the Onager Dunecrawler's activation under Omnissiah's fire.\nHallow its vulcanizing core, propelling the beast forth in sanctified fury.",
+    "component": "Onager Dunecrawler",
+    "operation": "activation",
+    "spec_id": "s04856"
+  },
+  {
+    "user_prompt": "Guide me through Archaeopter Transvector a sterilization",
+    "prayer": "Purify the Archaeopter Transvector's hull with ablative incenses, intoning the Sterilization Doxology.\nBeseech indwelling Machine Spirits to endure the sterilization purge without doctrinal loss.\nActivate plasma scrubbers whilst chanting binaric cleansings, sanctifying every circuit.\nVerify the Archaeopter Transvector's sterile purity through auspex-liturgies of the Omnissiah.\nSeal the Archaeopter Transvector in aseptic grace, ready for void-transit untainted.",
+    "component": "Archaeopter Transvector",
+    "operation": "sterilization",
+    "spec_id": "s04857"
+  },
+  {
+    "user_prompt": "Offer prayer for cryogenerator a blessing",
+    "prayer": "Kneel at the cryogenerator's frost-veiled altar, offering the Blessing of Eternal Chill.\nInvoke the Machine Spirit of the cryogenerator, anointing cryo-coils with liquid helium chrism.\nChant the Litany of Subzero Sanctity, empowering its blessing to preserve sacred relics.\nCirculate blessed refrigerants through the cryogenerator's veins, under Omnissiah's icy gaze.\nConsecrate the cryogenerator fully, binding frost to faith in perpetual vigil.",
+    "component": "cryogenerator",
+    "operation": "blessing",
+    "spec_id": "s04858"
+  },
+  {
+    "user_prompt": "Ready the Razorback for targeting",
+    "prayer": "Auspex the Razorback's targeting arrays, murmuring the Canticle of Predator's Gaze.\nAwaken the Razorback's Machine Spirit for targeting supremacy via noospheric communion.\nCalibrate lascannon servos with precision unguents, invoking the operation of unerring fire.\nIntone binaric hunter's rites, aligning the Razorback's sights on heretic prey.\nBless the Razorback's auspex dome, ensuring targeting glory in the Omnissiah's name.",
+    "component": "Razorback",
+    "operation": "targeting",
+    "spec_id": "s04859"
+  }
+]

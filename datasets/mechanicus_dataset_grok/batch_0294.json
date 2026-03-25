@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for air compressor shutdown?",
+    "prayer": "Approach the air compressor with reverence and intone the Litany of Subsidence.\nBeseech the Machine Spirit of the air compressor to release its pressurized essence.\nInitiate the shutdown protocol upon its sacred vanes and conduits.\nMonitor the air compressor's deceleration through sanctified gauges.\nSeal the assembly with the Omnissiah's benediction against tumult.",
+    "component": "air compressor",
+    "operation": "shutdown",
+    "spec_id": "b0294_i00"
+  },
+  {
+    "user_prompt": "Ready the neural implant for cooling",
+    "prayer": "Gently cradle the neural implant in mechadendrites of purity.\nInvoke cooling vents to bathe its sacred synapses in blessed frigidity.\nPetition the Machine Spirit within the neural implant for tranquil repose.\nCirculate cryo-fluids through its delicate lattices during cooling.\nAffirm thermal equilibrium under the Omnissiah's watchful gaze.",
+    "component": "neural implant",
+    "operation": "cooling",
+    "spec_id": "b0294_i01"
+  },
+  {
+    "user_prompt": "Bless the thermal imager for preparation",
+    "prayer": "Anoint the thermal imager with sacred unguents of preparation.\nAwaken its Machine Spirit with the Canticle of Discernment.\nCalibrate infrared lenses for the thermal imager's vigilant sight.\nInvoke the Omnissiah to bless its preparation against shadowed foes.\nVerify crystalline purity through ritual auspex sweeps.",
+    "component": "thermal imager",
+    "operation": "preparation",
+    "spec_id": "b0294_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for gyroscope a preparation",
+    "prayer": "Present offerings of incense to the gyroscope's inertial heart.\nChant the Rite of Preparation to harmonize its sacred gyres.\nInvoke the Machine Spirit of the gyroscope for unerring balance.\nAlign rotational axes with precision cantrips under Omnissiah's will.\nSeal the gyroscope's sanctity against discordant vibrations.",
+    "component": "gyroscope",
+    "operation": "preparation",
+    "spec_id": "b0294_i03"
+  },
+  {
+    "user_prompt": "Prepare the atmosphere processor for repair",
+    "prayer": "Kneel before the atmosphere processor and beseech its forbearance.\nDiagnose wounds in its filtration membranes for repair.\nAnoint fractured components with the Omnissiah's oil of restoration.\nGuide the Machine Spirit of the atmosphere processor through mending rites.\nTest purified exhalations to affirm the repair's divine efficacy.",
+    "component": "atmosphere processor",
+    "operation": "repair",
+    "spec_id": "b0294_i04"
+  },
+  {
+    "user_prompt": "Can you guide proximity sensor a recalibration?",
+    "prayer": "Commune with the proximity sensor's vigilant essence.\nInitiate recalibration hymns to realign its detection webs.\nBeseech the Machine Spirit within the proximity sensor for sharpened acuity.\nAdjust threshold harmonics with sanctified mechadendrites.\nValidate the recalibration through shadowed trial invocations.",
+    "component": "proximity sensor",
+    "operation": "recalibration",
+    "spec_id": "b0294_i05"
+  },
+  {
+    "user_prompt": "Guide me through bolter a cooling",
+    "prayer": "Embrace the bolter's heated fury with cooling ablutions.\nChannel blessed refrigerants into its barrel shrines.\nPacify the Machine Spirit of the bolter during cooling repose.\nMonitor thermal descent with pious auspex litanies.\nInvoke the Omnissiah to temper its righteous wrath.",
+    "component": "bolter",
+    "operation": "cooling",
+    "spec_id": "b0294_i06"
+  },
+  {
+    "user_prompt": "Sanctify the bionics interface during loading",
+    "prayer": "Prepare the bionics interface with chants of union.\nLoad sacred data-canticles into its receptive vaults.\nAwaken the Machine Spirit of the bionics interface for harmonious loading.\nSanctify neural linkages with electro-incense.\nAffirm seamless integration beneath the Omnissiah's decree.",
+    "component": "bionics interface",
+    "operation": "loading",
+    "spec_id": "b0294_i07"
+  },
+  {
+    "user_prompt": "The quality scanner requires a charging",
+    "prayer": "Position the quality scanner before the altar of charge.\nInvoke the Rite of Infusion to flood its circuits with holy voltage.\nBeseech the Machine Spirit of the quality scanner to accept charging.\nMonitor power ascension through blessed voltmeters.\nConsecrate full capacitance in the Omnissiah's name.",
+    "component": "quality scanner",
+    "operation": "charging",
+    "spec_id": "b0294_i08"
+  },
+  {
+    "user_prompt": "The Land Raider needs a charging",
+    "prayer": "Bow to the mighty Land Raider and commence charging rituals.\nConnect consecrated umbilicals to its vast reactor heart.\nPetition the Machine Spirit of the Land Raider for voracious replenishment.\nChant galvanic litanies during the charging surge.\nExalt its armored might renewed by the Omnissiah's boundless power.",
+    "component": "Land Raider",
+    "operation": "charging",
+    "spec_id": "b0294_i09"
+  }
+]

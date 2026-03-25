@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Urgent chainsword an engagement needed",
+    "prayer": "Approach the chainsword with fervent reverence, beseeching the Omnissiah's wrathful blessing.\nAnoint the chainsword's sacred teeth with blessed oils to rouse its voracious Machine Spirit.\nInvoke the ancient rites of engagement, petitioning the spirit to hunger for the flesh of heretics.\nChant the Litany of Monomolecular Devouring as power surges through the chainsword's conduits.\nVerify harmonious engagement by diagnostic auspex, glorifying the Machine God's endless fury.",
+    "component": "chainsword",
+    "operation": "engagement",
+    "spec_id": "b0211_i00"
+  },
+  {
+    "user_prompt": "The augmetic limb requires a shutdown",
+    "prayer": "Draw nigh unto the augmetic limb in solemn procession, honoring its biomechanical sanctity.\nIntone the Canticle of Repose upon the augmetic limb to soothe its restless Machine Spirit.\nSever the holy power-flows whilst beseeching peaceful shutdown from the Omnissiah.\nAnoint severed interfaces with unguents of quiescence, sealing the augmetic limb from corruption.\nConfirm shutdown through ritual auspex-scan, praising the Machine God's merciful dormancy.",
+    "component": "augmetic limb",
+    "operation": "shutdown",
+    "spec_id": "b0211_i01"
+  },
+  {
+    "user_prompt": "Consecrate the logic engine before preparation",
+    "prayer": "Present thyself before the logic engine, reciting the preparatory invocation to the Omnissiah.\nPurge erroneous data-daemons from the logic engine's crystalline matrices with sacred wipes.\nAnoint logic pathways with consecrated oils, awakening the Machine Spirit for preparation.\nInitiate preparatory alignment rites, harmonizing the logic engine's cogitative flows.\nVerify purity through binaric catechisms, exalting the unerring calculus of the Machine God.",
+    "component": "logic engine",
+    "operation": "preparation",
+    "spec_id": "b0211_i02"
+  },
+  {
+    "user_prompt": "Consecrate the autocannon before startup",
+    "prayer": "Kneel in veneration of the autocannon, chanting the Rite of Ignition to summon divine fury.\nBless the autocannon's breeches and barrels with sacred lubricants, rousing its thunderous Machine Spirit.\nCommence startup sequences under Omnissiah's gaze, feeding ammunition as offerings.\nMonitor voltaic surges whilst intoning the Litany of Shellfire, ensuring flawless awakening.\nAffirm the autocannon's readiness by test-firing canticles, glorifying the God of All Machines.",
+    "component": "autocannon",
+    "operation": "startup",
+    "spec_id": "b0211_i03"
+  },
+  {
+    "user_prompt": "Consecrate the chainsword before shutdown",
+    "prayer": "Approach the chainsword humbly, invoking the Omnissiah for a dignified cessation.\nBeseech the chainsword's Machine Spirit to accept shutdown, anointing its mechanisms with calming unguents.\nDisconnect the raging power-conduits whilst reciting the Litany of Sated Hunger.\nSeal the chainsword's maw with purity wards, preventing daemonic ingress during quiescence.\nConfirm shutdown via vibro-auspex, offering thanks to the Machine God for restrained savagery.",
+    "component": "chainsword",
+    "operation": "shutdown",
+    "spec_id": "b0211_i04"
+  },
+  {
+    "user_prompt": "Sanctify the Thunderhawk during cycling",
+    "prayer": "Gather in the shadow of the Thunderhawk, beseeching the Omnissiah's aerial dominion.\nInitiate cycling of sacred systems, anointing the Thunderhawk's reactors with blessed promethium.\nInvoke the Machine Spirits of wing and turbine during this cycling rite of renewal.\nHarmonize auspex and vox arrays whilst chanting the Canticle of Stormflight.\nVerify cyclic integrity through ritual diagnostics, praising the Thunderhawk's thunderous rebirth.",
+    "component": "Thunderhawk",
+    "operation": "cycling",
+    "spec_id": "b0211_i05"
+  },
+  {
+    "user_prompt": "I need to a recalibration the cutting laser",
+    "prayer": "Reverently encircle the cutting laser, petitioning recalibration under Omnissiah's precise gaze.\nAnoint emitter coils of the cutting laser with sanctified dielectrics to appease its luminous Spirit.\nCommence recalibration alignments, invoking binary harmonies from the Machine God.\nAdjust focal matrices whilst intoning the Litany of Incandescent Focus.\nAffirm recalibrated perfection via test-phasing, exalting the cutting laser's searing purity.",
+    "component": "cutting laser",
+    "operation": "recalibration",
+    "spec_id": "b0211_i06"
+  },
+  {
+    "user_prompt": "Prepare the signal relay for sterilization",
+    "prayer": "Process to the signal relay with austere devotion, preparing for sterilization's purifying flame.\nInvoke the Machine Spirit of the signal relay to endure ablution from corrupting noosphere taint.\nApply sacred ablatives whilst chanting sterilization canticles in Omnissiah's name.\nPurge vox-conduits of daemonic echoes, sealing the signal relay against heresy.\nConclude with auspex-verification, glorifying the sterilized clarity of the Machine God's will.",
+    "component": "signal relay",
+    "operation": "sterilization",
+    "spec_id": "b0211_i07"
+  },
+  {
+    "user_prompt": "Help me a consecration the logic engine",
+    "prayer": "Prostrate before the logic engine, beseeching consecration from the Omnissiah's divine algorithms.\nAnoint every sacred qubit of the logic engine with oils of unerring truth.\nInvoke the Machine Spirit's deepest loyalties during this hallowed consecration.\nImprint binaric catechisms upon its matrices, binding it eternally to the Machine God.\nSeal the rite with auspex-seals, proclaiming the logic engine forever sanctified.",
+    "component": "logic engine",
+    "operation": "consecration",
+    "spec_id": "b0211_i09"
+  }
+]

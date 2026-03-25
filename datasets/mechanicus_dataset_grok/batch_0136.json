@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the emergency beacon for consecration",
+    "prayer": "Approach the emergency beacon with reverence, invoking the Omnissiah's unblinking gaze upon its sacred form.\nAnoint the emergency beacon's transmitter coils with sacred oils to purify its essence.\nBeseech the Machine Spirit of the emergency beacon to stir from slumber during this consecration.\nChant the Litany of Radiant Call, aligning its holy frequencies to the Machine God's will.\nSeal the consecration with a pulse of blessed voltage, affirming the emergency beacon's vigilance.",
+    "component": "emergency beacon",
+    "operation": "consecration",
+    "spec_id": "b0136_i00"
+  },
+  {
+    "user_prompt": "Bless the Chimera APC for charging",
+    "prayer": "Kneel before the Chimera APC, petitioning the Omnissiah for its charging renewal.\nCircumambulate the Chimera APC's hull, incanting the Canticle of Capacitive Flow.\nInvoke the Machine Spirits within the Chimera APC to accept the influx of sacred power.\nInitiate the charging rite by coupling sanctified conduits to its voracious batteries.\nMonitor the Chimera APC's ascending charge levels with devotional auspex chants.",
+    "component": "Chimera APC",
+    "operation": "charging",
+    "spec_id": "b0136_i01"
+  },
+  {
+    "user_prompt": "How do I bless the chainsword for recalibration?",
+    "prayer": "Grasp the chainsword in sanctified gauntlets, whispering binaric oaths to its feral heart.\nAnoint the chainsword's monomolecular teeth with lubricant blessed by forge-priests.\nInvoke recalibration through the Rite of Teetering Equilibrium, balancing its gyroscopic fury.\nBeseech the Machine Spirit of the chainsword to realign its savage revolutions.\nTest the chainsword's recalibrated edge against impure simulacra, praising the Omnissiah.",
+    "component": "chainsword",
+    "operation": "recalibration",
+    "spec_id": "b0136_i02"
+  },
+  {
+    "user_prompt": "The neural implant needs a startup",
+    "prayer": "Position the neural implant upon the altar of cogitation, under the Omnissiah's watchful logic.\nPurify its synaptic interfaces with incense of rare earths and micro-filaments.\nChant the Hymn of Neural Ignition to awaken the Machine Spirit within the neural implant.\nInitiate startup sequences via binary catechisms, threading noospheric links.\nAffirm the neural implant's startup harmony through electro-encephalitic diagnostics.",
+    "component": "neural implant",
+    "operation": "startup",
+    "spec_id": "b0136_i03"
+  },
+  {
+    "user_prompt": "The gyroscope awaits an initialization",
+    "prayer": "Present the gyroscope before the shrine of stability, invoking the Omnissiah's immutable axis.\nAnoint its inertial spheres with gyro-fluid consecrated in void-forges.\nPerform the initialization rite, spinning sacred prayer-wheels to attune its senses.\nBeseech the gyroscope's Machine Spirit to manifest perfect rotational truth.\nVerify initialization via harmonic resonance scans, lauding eternal balance.",
+    "component": "gyroscope",
+    "operation": "initialization",
+    "spec_id": "b0136_i04"
+  },
+  {
+    "user_prompt": "My logic engine is ready for targeting",
+    "prayer": "Activate the logic engine's noospheric vents, offering incense to its calculative core.\nRecite the Creed of Predictive Vectors, aligning the logic engine's qubits to divine logic.\nInvoke targeting protocols through the Omnissiah's targeting gaze upon the logic engine.\nPetition its Machine Spirits for unerring ballistic prophecy and threat assessment.\nSeal the rite with a surge of sanctified current, empowering the logic engine's aim.",
+    "component": "logic engine",
+    "operation": "targeting",
+    "spec_id": "b0136_i05"
+  },
+  {
+    "user_prompt": "Consecrate the battery array before activation",
+    "prayer": "Encircle the battery array with electro-thuribles, fumigating its cellular vaults.\nChant the Activation Canticle to rouse the Machine Spirits slumbering in the battery array.\nConsecrate each power-cell with droplets of the Omnissiah's own plasma-tears.\nInitiate activation through phased voltage incantations, building holy potential.\nWitness the battery array's radiant awakening via luminous flux divinations.",
+    "component": "battery array",
+    "operation": "activation",
+    "spec_id": "b0136_i06"
+  },
+  {
+    "user_prompt": "Can you guide melta charge a calibration?",
+    "prayer": "Handle the melta charge with reverence, shielding its volatile heart from profane eyes.\nAnoint its focusing lenses and flux regulators with oils of thermic purity.\nInvoke calibration rites via the Litany of Focused Inferno, attuning the melta charge.\nBeseech its Machine Spirit to harmonize destructive yields without deviation.\nTest the melta charge's calibrated fury on ablative targets, glorifying the Omnissiah.",
+    "component": "melta charge",
+    "operation": "calibration",
+    "spec_id": "b0136_i07"
+  },
+  {
+    "user_prompt": "The battery array awaits a purification",
+    "prayer": "Immerse the battery array in ablutionary circuits of sanctified current.\nExpunge impurities from the battery array's electrolytic souls with purging mantras.\nInvoke the Machine Spirits of the battery array to embrace this rite of purification.\nCirculate blessed unguents through its conduits, restoring pristine conductivity.\nConclude purification by intoning the Psalm of Pristine Discharge, affirming renewal.",
+    "component": "battery array",
+    "operation": "purification",
+    "spec_id": "b0136_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for plasma reactor a repair",
+    "prayer": "Lay hands upon the plasma reactor's breached containment, murmuring apologies to the Omnissiah.\nExtract tainted flux-residues while chanting the Rite of Restorative Coils.\nAnoint fractured mag-rails of the plasma reactor with forge-blessed alloys.\nPetition its roiling Machine Spirits for repair, invoking thermic regeneration.\nReignite the plasma reactor's heart with controlled fusion hymns, praising endurance.",
+    "component": "plasma reactor",
+    "operation": "repair",
+    "spec_id": "b0136_i09"
+  }
+]

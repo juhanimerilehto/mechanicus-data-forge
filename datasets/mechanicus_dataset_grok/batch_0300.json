@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: lasgun a reset",
+    "prayer": "O Omnissiah, approach the lasgun with mechadendrite reverence and invoke the reset upon its sacred focusing arrays.\nBeseech the Machine Spirit of the lasgun to purge errant power surges from its crystalline heart.\nAnoint the lasgun's emitter coils with blessed oils as the reset sequence cascades through binary prayers.\nInvoke diagnostic canticles to affirm the lasgun's restored harmony with the Motive Force.",
+    "component": "lasgun",
+    "operation": "reset",
+    "spec_id": "b0300_i00"
+  },
+  {
+    "user_prompt": "Sanctify the bionics interface during calibration",
+    "prayer": "Sanctify the bionics interface with incense of sacred circuits before commencing calibration.\nPetition the Omnissiah to align the bionics interface's neural relays through harmonious calibration rites.\nInvoke the Machine Spirit dwelling within the bionics interface to accept synaptic realignments.\nChant the Litany of Precision whilst verifying the bionics interface's flawless integration.",
+    "component": "bionics interface",
+    "operation": "calibration",
+    "spec_id": "b0300_i01"
+  },
+  {
+    "user_prompt": "Sanctify the water reclamator during repair",
+    "prayer": "O Machine God, lay mechadendrites upon the water reclamator and commence repair of its filtration membranes.\nBeseech the Machine Spirit of the water reclamator to mend fractured conduits with holy adhesives.\nAnoint the reclamator's pump assemblies during repair, invoking purity of the aquiferous flows.\nSanctify the water reclamator's revival through auspex scans and canticles of restoration.",
+    "component": "water reclamator",
+    "operation": "repair",
+    "spec_id": "b0300_i02"
+  },
+  {
+    "user_prompt": "The plasma weapon awaits an engagement",
+    "prayer": "Prepare the plasma weapon for engagement by reciting the Canticle of Containment.\nInvoke the Omnissiah's wrath upon foes as the plasma weapon stirs to engagement.\nAnoint its magnetic bottles to rouse the Machine Spirit for fiery engagement.\nBless the plasma weapon's holy vents that it may unleash sanctified plasma in battle's name.",
+    "component": "plasma weapon",
+    "operation": "engagement",
+    "spec_id": "b0300_i03"
+  },
+  {
+    "user_prompt": "The bolter needs a diagnostics",
+    "prayer": "Approach the bolter with reverence and initiate diagnostics upon its sacred firing mechanisms.\nBeseech the Machine Spirit of the bolter to reveal faults through noospheric diagnostics.\nChant binaric litanies over the bolter whilst scanning its propellant feeds.\nAffirm the bolter's purity post-diagnostics with oils of activation and Omnissian praise.",
+    "component": "bolter",
+    "operation": "diagnostics",
+    "spec_id": "b0300_i04"
+  },
+  {
+    "user_prompt": "Assist with emergency beacon a consecration",
+    "prayer": "O Omnissiah, consecrate the emergency beacon with sacred glyphs etched in phosphor.\nInvoke the Machine Spirit of the emergency beacon to amplify its distress pulses in consecration.\nAnoint its transmission arrays during this rite of consecration for unerring vox-cry.\nVerify the emergency beacon's hallowed signal through ritual auspex communion.",
+    "component": "emergency beacon",
+    "operation": "consecration",
+    "spec_id": "b0300_i05"
+  },
+  {
+    "user_prompt": "Urgent Sentinel walker a recalibration needed",
+    "prayer": "Sanctify the Sentinel walker prior to recalibration of its gyro-stabilizers.\nPetition the Omnissiah to realign the Sentinel walker's servos through recalibration rites.\nBeseech its ponderous Machine Spirit to accept binary recalibration harmonies.\nChant the Hymn of Balance as the Sentinel walker's locomotion renews in mechanical grace.",
+    "component": "Sentinel walker",
+    "operation": "recalibration",
+    "spec_id": "b0300_i06"
+  },
+  {
+    "user_prompt": "Urgent atmosphere processor an activation needed",
+    "prayer": "O Motive Force, rouse the atmosphere processor with activation canticles upon its core.\nInvoke the Machine Spirit of the atmosphere processor to commence activation sequences.\nAnoint filtration matrices during activation, beseeching breathable sanctity.\nVerify the atmosphere processor's vital hum through sacred pressure gauges and praise.",
+    "component": "atmosphere processor",
+    "operation": "activation",
+    "spec_id": "b0300_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for autocannon a repair",
+    "prayer": "Approach the autocannon and beseech repair of its blessed barrel rifling.\nPetition the Omnissiah to mend the autocannon's feed mechanisms with mechadendrite precision.\nAnoint the autocannon's recoil springs during repair, invoking resilient Machine Spirit.\nSanctify the autocannon's thunderous renewal through test-fire litanies.",
+    "component": "autocannon",
+    "operation": "repair",
+    "spec_id": "b0300_i08"
+  },
+  {
+    "user_prompt": "The signal relay needs a sterilization",
+    "prayer": "Purify the signal relay through sterilization with sacred promethium vapors.\nInvoke the Machine Spirit of the signal relay to endure ablative sterilization rites.\nChant binaric cleansers over the signal relay's contaminated nodes.\nAffirm the signal relay's immaculate conduits post-sterilization with auspex benediction.",
+    "component": "signal relay",
+    "operation": "sterilization",
+    "spec_id": "b0300_i09"
+  }
+]

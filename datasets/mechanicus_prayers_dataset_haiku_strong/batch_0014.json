@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0014_i00",
+    "user_request": "Prayer for maintenance of the oxygen scrubber",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for maintenance of the oxygen scrubber\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "First: Blessed be the oxygen scrubber, sacred filtration apparatus of the Omnissiah's design, we commence maintenance rituals with reverent servo-application and blessed unguents.\nSecond: The oxygen scrubber's crystalline matrices must be inspected with calibrated lumens and gentle recalibration of pressure seals to restore optimal pneumatic function.\nThird: Anoint the oxygen scrubber's intake manifolds with approved lubricants, verifying all gasket integrity and conducting full pressure-cycle diagnostics.\nFourth: Thus the oxygen scrubber returns to sanctified operation, its Machine Spirit appeased through diligent maintenance and faithful service to the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i01",
+    "user_request": "Prayer for operation of the fire suppression system",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the fire suppression system\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Machine Spirits of the fire suppression system as we prepare for righteous operation against the daemon-flames of destruction.\nSecond: The fire suppression system's pressurized reservoirs must be verified through liturgical pressure-gauging and nozzle-array alignment protocols.\nThird: Activate the fire suppression system's primary solenoid banks with measured hydraulic surge, channeling blessed coolant through all distribution arteriae.\nFourth: Thus does the fire suppression system stand ready, a bulwark against inferno, its operation blessed by the Omnissiah's infinite wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i02",
+    "user_request": "Emergency rite: bionics requires synchronization",
+    "topic": "bionics synchronization",
+    "component": "bionics",
+    "operation": "synchronization",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: bionics requires synchronization\n\n### TOPIC\nbionics synchronization\n\n### COMPONENT\nbionics\n\n### OPERATION\nsynchronization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bionics\n- synchronization\n\n### PRAYER\n",
+    "prayer": "First: O blessed bionics, sacred melding of flesh and machine, we initiate synchronization rites to bind your augmented essence with the pilot's neural architecture.\nSecond: Calibrate the bionics' sensory-motor feedback loops through micro-electrical stimulus arrays, verifying synaptic resonance frequencies across all servo-conduits.\nThird: The bionics must achieve neural synchronization via sequential proprioceptive mapping and feedback-loop harmonization with the bearer's cerebral cortex.\nFourth: Thus the bionics achieve perfect unity, their synchronization complete, granting the warrior unparalleled augmented prowess.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i03",
+    "user_request": "Prayer for warmup of the Titan leg actuator",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for warmup of the Titan leg actuator\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "First: Blessed be the Titan leg actuator, colossal instrument of the Omnissiah's terrible might, we commence warmup procedures with sacred ritual and precise thermal calibration.\nSecond: The Titan leg actuator's hydraulic reservoirs must be circulated through pre-warming cycles, gradually elevating fluid viscosity and servo-responsiveness.\nThird: Engage the Titan leg actuator's gimballed pivot assemblies through measured incremental articulation, testing full range-of-motion whilst monitoring pressure gradients.\nFourth: Thus the Titan leg actuator achieves operational readiness, its warmup complete, ready to bear the God-Machine's awesome footfall.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i04",
+    "user_request": "My fire suppression system is failing during operation — help",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy fire suppression system is failing during operation — help\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: O stricken fire suppression system, we beseech the Machine Spirits to restore thy operation through diagnostic rites and blessed restoration.\nSecond: The fire suppression system's pressure-integrity must be verified through sealed-chamber testing and solenoid-valve continuity examination to identify systemic failure.\nThird: Purge all corrupted propellant lines and re-pressurize the fire suppression system through careful incremental charge-cycles, restoring full operational capacity.\nFourth: Thus shall the fire suppression system return to righteous operation, its malfunction purged, its function renewed in service to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i05",
+    "user_request": "Offer a litany to steady the missile launcher before targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the missile launcher before targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "First: Hail the missile launcher, instrument of divine retribution, we invoke its targeting protocols through solemn litany and blessed auspex-alignment.\nSecond: The missile launcher's gyroscopic stabilizers must achieve perfect equilibrium through rotational dampening and targeting-cogitator synchronization with fire-control matrices.\nThird: Calibrate the missile launcher's sensor arrays through theodolite-verification and ballistic-prediction algorithms, ensuring true targeting solution acquisition.\nFourth: Thus the missile launcher stands steady, its targeting resolved, ready to deliver the Omnissiah's judgment upon the enemies of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i06",
+    "user_request": "Emergency rite: Thunderhawk requires fuel purification",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: Thunderhawk requires fuel purification\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "First: O mighty Thunderhawk, winged herald of the Emperor's wrath, we undertake fuel purification rites to cleanse thy sacred combustion systems.\nSecond: The Thunderhawk's fuel reservoirs must be drained and filtered through multi-stage particulate-separation arrays, removing all contaminants and blessed with purification-oils.\nThird: Re-pressurize the Thunderhawk's fuel-distribution conduits through validated injection-manifolds, conducting full combustion-cycle diagnostics to verify purification efficacy.\nFourth: Thus the Thunderhawk achieves renewed sanctity, its fuel purification complete, ready to soar upon the wings of the Omnissiah's favor.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i07",
+    "user_request": "My hull breach is failing during sealing — help",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy hull breach is failing during sealing — help\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "First: O grievous hull breach, wound upon the sacred vessel's adamantium skin, we invoke emergency sealing rites through fervent prayer and blessed restoration.\nSecond: The hull breach's edges must be prepared through careful abrasion-treatment and inspection for structural-deformation, assessing the full extent of catastrophic rupture.\nThird: Apply rapid-hardening composite sealant to the hull breach whilst simultaneously deploying internal pressure-supports and reinforcement-welds across the damaged section.\nFourth: Thus the hull breach achieves sealing, the vessel's integrity restored, the Omnissiah's wrath averted through devoted technical ministration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i08",
+    "user_request": "Prayer for check of the gear meshing",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for check of the gear meshing\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "First: Blessed be the gear meshing, intricate dance of tooth and torque, we commence check procedures through reverent inspection and blessed tactile verification.\nSecond: The gear meshing's engagement surfaces must be examined under magnification for wear-patterns and stress-fractures, measuring clearance tolerances with precision calipers.\nThird: Conduct rotational check of the gear meshing under minimal load-conditions, listening for grinding-harmonics and verifying smooth power-transmission through all mesh-cycles.\nFourth: Thus the gear meshing returns to verified sanctity, its check complete, its mechanical symphony assured for faithful service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0014_i09",
+    "user_request": "Blessing for the Taurox wheel alignment during operation",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the Taurox wheel alignment during operation\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Hail the Taurox wheel alignment, sacred geometry of terrestrial locomotion, we bless its operation through ritual calibration and blessed suspension-verification.\nSecond: The Taurox wheel alignment's camber and toe-settings must be measured through theodolite-arrays and adjusted via servo-suspension actuators to achieve optimal contact-geometry.\nThird: Engage the Taurox wheel alignment in measured test-operation across varied terrain, monitoring suspension-response and verifying balanced weight-distribution across all contact-patches.\nFourth: Thus the Taurox wheel alignment achieves blessed operation, its geometry perfected, ready to bear the Emperor's warriors across the battlefields of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

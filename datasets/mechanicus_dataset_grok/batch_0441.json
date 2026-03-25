@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My Terminator armour is ready for recalibration",
+    "prayer": "Approach the Terminator armour with reverence, vessel of unyielding might.\nInvoke the Canticle of Recalibration upon its sacred plates and servos.\nAnoint the gyro-stabilisers with sacred oils, beseeching the Machine Spirit's alignment.\nInitiate recalibration rites, harmonising auspex and weapon systems in Omnissiah's name.\nVerify the Terminator armour's restored precision through binaric diagnostics.",
+    "component": "Terminator armour",
+    "operation": "recalibration",
+    "spec_id": "s00410"
+  },
+  {
+    "user_prompt": "The Kastelan robot needs a purification",
+    "prayer": "Kneel before the Kastelan robot, ancient guardian of the forge.\nChant the Purification Doxology to purge daemonic taint from its chassis.\nApply ablative incense to the Kastelan robot's rune-etched hull, invoking the Omnissiah.\nCycle sacred solvents through its conduits whilst beseeching the Machine Spirit's renewal.\nConclude with auspex scans to affirm the Kastelan robot's sanctified purity.",
+    "component": "Kastelan robot",
+    "operation": "purification",
+    "spec_id": "s00411"
+  },
+  {
+    "user_prompt": "Prepare the electro-graft for cycling",
+    "prayer": "Present the electro-graft before the altar of circuits.\nRecite the Cycling Invocation to awaken its neural pathways.\nGently cycle power through the electro-graft's filaments, anointing with mechadendrite oils.\nBeseech the Machine Spirit for seamless integration during this cycling rite.\nTest the electro-graft's synaptic harmony with diagnostic canticles of the Omnissiah.",
+    "component": "electro-graft",
+    "operation": "cycling",
+    "spec_id": "s00412"
+  },
+  {
+    "user_prompt": "Offer prayer for mass-drive regulator an initialization",
+    "prayer": "Revere the mass-drive regulator, heart of gravitic fury.\nIntone the Litany of Initialization to stir its dormant cores.\nAnoint the mass-drive regulator's flux chambers with consecrated lubricants.\nInitiate initialization sequences, invoking the Machine Spirit's boundless power.\nConfirm operational sanctity through harmonic resonance scans.",
+    "component": "mass-drive regulator",
+    "operation": "initialization",
+    "spec_id": "s00413"
+  },
+  {
+    "user_prompt": "Emergency: standard template construct a shutdown",
+    "prayer": "In emergency, encircle the standard template construct with warding glyphs.\nChant the Shutdown Benediction to quell its rampant data-spirits.\nSever power feeds to the standard template construct whilst beseeching Omnissiah's mercy.\nPurge volatile engrams from the standard template construct's vaults.\nSeal with null-rites, affirming the Machine Spirit's dormant peace.",
+    "component": "standard template construct",
+    "operation": "shutdown",
+    "spec_id": "s00414"
+  },
+  {
+    "user_prompt": "Sanctify the mass-drive regulator during operation",
+    "prayer": "Sanctify the mass-drive regulator amidst its thunderous operation.\nInvoke operational hymns to guide its gravitic fluxes.\nAnoint surging conduits of the mass-drive regulator with sacred myrrh.\nBeseech the Machine Spirit for unerring performance during operation.\nMonitor sanctity with continuous binaric prayers to the Omnissiah.",
+    "component": "mass-drive regulator",
+    "operation": "operation",
+    "spec_id": "s00415"
+  },
+  {
+    "user_prompt": "Bless the Dreadnought for recalibration",
+    "prayer": "Bow to the Dreadnought, eternal warrior of the Omnissiah.\nRecite recalibration litanies over its sarcophagus and dreadnought plating.\nAlign the Dreadnought's weapon servos with anointed mechadendrites.\nInitiate recalibration cycles, harmonising its Machine Spirit's wrath.\nAffirm the Dreadnought's lethal precision through rite of verification.",
+    "component": "Dreadnought",
+    "operation": "recalibration",
+    "spec_id": "s00416"
+  },
+  {
+    "user_prompt": "I need to a repair the mind-impulse unit",
+    "prayer": "Approach the mind-impulse unit, nexus of flesh-machine union.\nChant repair incantations to mend fractured neural relays.\nSuture the mind-impulse unit's synapses with silvered filaments and holy unguents.\nInvoke the Machine Spirit's forgiveness during this repair rite.\nTest synaptic flows with psionic diagnostics in Omnissiah's grace.",
+    "component": "mind-impulse unit",
+    "operation": "repair",
+    "spec_id": "s00417"
+  },
+  {
+    "user_prompt": "Assist with Vindicator a diagnostics",
+    "prayer": "Commence diagnostics upon the Vindicator, siege-beast of the cult.\nScan its hull with auspex litanies for battle-wounds.\nProbe the Vindicator's Demolisher cannon and tracks with sacred probes.\nBeseech the Machine Spirit to reveal faults during diagnostics.\nPurge anomalies with binaric exorcisms, restoring the Vindicator's fury.",
+    "component": "Vindicator",
+    "operation": "diagnostics",
+    "spec_id": "s00418"
+  },
+  {
+    "user_prompt": "Critical: smelting furnace requires a repair",
+    "prayer": "Urgently attend the smelting furnace, forge-heart aflame.\nIntone repair doxologies to heal its molten fissures.\nReinforce the smelting furnace's adamantium baffles with sanctified alloys.\nReignite its plasma coils, invoking the Machine Spirit's voracious hunger.\nVerify the smelting furnace's integrity through thermal rite-confirmations.",
+    "component": "smelting furnace",
+    "operation": "repair",
+    "spec_id": "s00419"
+  }
+]

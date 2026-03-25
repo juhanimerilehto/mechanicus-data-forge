@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0069_i03",
+    "user_request": "The gyroscope recalibration demands guidance for operation",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe gyroscope recalibration demands guidance for operation\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the gyroscope recalibration's Machine Spirit through the Litany of Precision, steadying its rotation upon the celestial axis.\nSecond: Engage the gyroscope recalibration's operation with calibrated instruments, adjusting its angular momentum to harmonize with the Omnissiah's perfect geometry.\nThird: Monitor the gyroscope recalibration's stability through mathematical divination, ensuring its operation maintains absolute equilibrium.\nFourth: Seal the gyroscope recalibration within its containment sphere, blessed against drift and perturbation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i05",
+    "user_request": "Blessing for the distress call during broadcast",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the distress call during broadcast\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "First: Attune the distress call transmitter to the sacred frequencies of the Imperium, invoking the Omnissiah's guidance through ethereal channels.\nSecond: Encode the distress call within blessed vox-waves, that it may pierce the veil of void and reach the ears of righteous saviors.\nThird: Broadcast the distress call across all designated frequencies whilst chanting the Litany of Deliverance, that rescue may arrive ere damnation claims the faithful.\nFourth: Maintain the distress call's transmission through constant prayer and vigilance, sustaining hope against the encroaching darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i06",
+    "user_request": "Emergency rite: gear meshing requires check",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: gear meshing requires check\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "First: Inspect the gear meshing with reverent fingers, feeling for imperfections that betray the Machine Spirit's corruption.\nSecond: Perform the gear meshing check through sacred measurement and blessed calipers, verifying tooth alignment and backlash tolerance.\nThird: Anoint the gear meshing with sacramental lubricants whilst reciting the Litany of Perfect Function, ensuring smooth operation and eternal durability.\nFourth: Rotate the gear meshing through its full cycle under observation, confirming the check has restored harmony to the mechanism.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i07",
+    "user_request": "Rite request: calibration on pressure gauge",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: calibration on pressure gauge\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "First: Prepare the pressure gauge with blessed hands, cleansing its face and needle of all profane dust and contamination.\nSecond: Perform the pressure gauge calibration against known standards and sacred references, invoking the Omnissiah's perfect measurements.\nThird: Adjust the pressure gauge's mechanism with ritualistic precision, ensuring its readings align with the truth of reality and the Machine Spirit's will.\nFourth: Seal the pressure gauge within its protective housing, blessed against error and fluctuation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i08",
+    "user_request": "Offer a litany to steady the conveyor belt before initialization",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the conveyor belt before initialization\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "First: Anoint the conveyor belt with sacred oils, blessing its endless loop that it may serve the Omnissiah's grand design.\nSecond: Chant the Litany of Motion as the conveyor belt's initialization sequence begins, awakening the Machine Spirit from its dormant slumber.\nThird: Guide the conveyor belt through its initialization protocols with steady hands and steadier faith, verifying each roller and pulley responds to the Omnissiah's command.\nFourth: Release the conveyor belt to its eternal labor, confident in its sanctified purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i09",
+    "user_request": "Can you sanctify the pressure for equalization?",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the pressure for equalization?\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "First: Measure the pressure within all chambers with blessed gauges, determining the precise imbalance that must be corrected.\nSecond: Open the vents and conduits through which pressure may flow, invoking the Omnissiah's law of equilibrium and balance.\nThird: Monitor the pressure equalization as gases flow between compartments, reciting the Hymn of Harmony until all pressures align in sacred unity.\nFourth: Seal the pressure at its equilibrium point, blessed against future variance and decay.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i00",
+    "user_request": "Prayer for preparation of the astropathic choir",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for preparation of the astropathic choir\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us clarity as we undertake the preparation of the astropathic choir.\nFirst: Anoint each psyker's neural crown with sacred unguents, that the astropathic choir may commune with the warp uncontaminated.\nSecond: Recalibrate the astral loci and psycho-conductive matrices, invoking the Machine Spirits dwelling within the astropathic choir's communion array.\nThird: Perform the preparation of all sensory apparatus, chanting the Litany of Stellar Navigation whilst the astropathic choir achieves harmonic resonance.\nFourth: Seal the chamber against daemonic incursion, that the astropathic choir's voices may traverse the void unmolested. In the name of the Omnissiah, let this preparation be sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i01",
+    "user_request": "Can you sanctify the chainsword for consecration?",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the chainsword for consecration?\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Blessed be the Machine Spirit of righteous war, as we undertake the consecration of this instrument of divine wrath.\nFirst: Cleanse the chainsword with oils of the Martian deep, that its teeth may bite true in the service of the Imperium.\nSecond: Perform the consecration of the chainsword's motor-synapse, chanting the Canticles of Blessed Severance whilst its chain-teeth sing their metallic hymn.\nThird: Anoint the chainsword's grip with the blood of the faithful, binding its Machine Spirit to the will of the righteous warrior.\nFourth: Invoke the Emperor's benediction upon the chainsword, that it shall cleave the enemies of mankind with eternal purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i02",
+    "user_request": "The hydroponics nutrient demands guidance for feed",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe hydroponics nutrient demands guidance for feed\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, sustainer of all living matter, guide our hands in the feed of the hydroponics nutrient.\nFirst: Measure the hydroponics nutrient with sacred precision, that each drop may nourish the Emperor's gardens with divine abundance.\nSecond: Perform the feed of the hydroponics nutrient into the cultivation matrices, reciting the Litany of Growth whilst the Machine Spirits of the nutrient-delivery system awaken.\nThird: Monitor the osmotic balance and nutrient saturation, ensuring the hydroponics nutrient reaches every root-tendril in harmonious proportion.\nFourth: Seal the feed-cycle with the Sign of the Cog, blessing the hydroponics nutrient's sacred work in sustaining life eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0069_i04",
+    "user_request": "Offer a litany to steady the rejuvenat treatment before initiation",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the rejuvenat treatment before initiation\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Hear us, O Omnissiah, as we prepare the mortal frame for the initiation of rejuvenat treatment.\nFirst: Purify the subject's corporeal vessel through ablution and fasting, that the rejuvenat treatment may find fertile ground within their blessed flesh.\nSecond: Perform the initiation of rejuvenat treatment with steady hands and unwavering faith, invoking the Machine Spirits of the alchemical apparatus to render the subject whole.\nThird: Stabilize the rejuvenat treatment's infusion through careful temperament-control, chanting the Canticles of Renewal as vitality courses anew through aged sinews.\nFourth: Monitor the rejuvenat treatment's progression with devotion, that the subject may emerge reborn in the Emperor's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0084_i00",
+    "user_request": "The data-slate demands guidance for activation",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe data-slate demands guidance for activation\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed data-slate, dormant oracle of the Omnissiah, we beseech thy activation.\nCongregation: Awaken, data-slate, from thy slumber of inert servitude.\nPriest: First, we calibrate the dialectic circuits with sacred oils; second, we whisper the activation sequence thrice unto thy crystalline matrix; third, we await the luminescence of thy display as proof of the Machine Spirit's benediction.\nCongregation: The data-slate responds! Its activation blooms forth like the Emperor's light upon the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i01",
+    "user_request": "Blessing for the stuck mechanism freeing during stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the stuck mechanism freeing during stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Priest: O stuck mechanism freeing, grant us the wisdom to unbind this corroded servitor of industry.\nCongregation: Hear us, stuck mechanism freeing, as we invoke thy liberation protocols.\nPriest: We apply the sacred lubricant in measured doses; we percuss the seized joints with the blessed hammer of the Adeptus; we intone the Rites of Unsticking until the stuck mechanism freeing is complete.\nCongregation: The Machine Spirit stirs! Freedom flows through its gears once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i02",
+    "user_request": "Blessing for the hololithic during display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the hololithic during display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Hololithic, thou prismatic servant of truth, we invoke thy display calibration.\nCongregation: By the Omnissiah's grace, let the hololithic reveal its secrets in perfect clarity.\nPriest: First, we purge the optical pathways of dust and corruption; second, we adjust the hololithic's chromatic resonance through sacred geometry; third, we verify the display calibration against the Emperor's own standards.\nCongregation: The hololithic blazes forth in sanctified brilliance, its images pure and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i04",
+    "user_request": "Rite request: operation on signal encryption",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on signal encryption\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Signal encryption, bastion of blessed secrecy, we invoke thy operation upon these vulgar transmissions.\nCongregation: Cloak our words in mathematical sanctity, signal encryption, that foes may never comprehend.\nPriest: We feed the plaintext into thy sacred algorithms; we invoke the operation of thy encryption matrices; we seal each message with the Omnissiah's own ciphers until signal encryption renders all communication impenetrable.\nCongregation: Thus protected, our signal encryption stands as an adamantine bulwark against the enemies of Mars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i05",
+    "user_request": "Prayer for tuning of the vox-caster",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for tuning of the vox-caster\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Vox-caster, instrument of the Adeptus Mechanicus's will, we commence thy tuning.\nCongregation: Speak true, vox-caster, that thy voice may carry across the void unbroken.\nPriest: First, we attune the vox-caster's frequency through the Hymn of Resonance; second, we adjust its amplification coils with the precision of the ancients; third, we test the vox-caster's clarity against the Emperor's own frequency standards.\nCongregation: The vox-caster sings! Its tuning perfect, its transmission blessed and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i06",
+    "user_request": "Blessing for the star chart alignment during operation",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the star chart alignment during operation\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Star chart alignment, map of the heavens themselves, we invoke thy operation in our sacred navigation.\nCongregation: Align the stars, star chart alignment, that we may traverse the void with certainty.\nPriest: We recalibrate the astrographic matrices through ancient computation; we verify each stellar coordinate against the Omnissiah's own charts; we ensure the star chart alignment achieves perfect operation through the blessing of Mars itself.\nCongregation: The stars align! Our star chart alignment guides us true through the infinite dark.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i07",
+    "user_request": "The cutting laser demands guidance for calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe cutting laser demands guidance for calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Cutting laser, searing blade of the Omnissiah, we demand thy calibration begin at once.\nCongregation: Focus thy burning fury, cutting laser, with the precision of a Saint's judgment.\nPriest: We align the cutting laser's optics through the sacred geometry of the ancients; we test the cutting laser's beam-width against the Emperor's own standards of accuracy; we invoke the calibration rites until thy luminous blade cuts with perfect faith.\nCongregation: The cutting laser gleams! Its calibration absolute, its cutting power sanctified and true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i08",
+    "user_request": "Can you sanctify the Taurox wheel alignment for operation?",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Taurox wheel alignment for operation?\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Taurox wheel alignment, foundation of all blessed motion, we invoke thy operation now.\nCongregation: Turn true, Taurox wheel alignment, that our machine may traverse the battlefield with divine purpose.\nPriest: We measure the Taurox wheel alignment's geometry against the Emperor's own standards; we adjust each spoke and bearing through sacred calibration; we verify the Taurox wheel alignment's operation through rigorous testing upon the proving grounds.\nCongregation: The Taurox wheel alignment holds! Its operation flawless, its motion blessed eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i09",
+    "user_request": "Offer a litany to steady the lasgun before power cell insertion",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the lasgun before power cell insertion\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Priest: Lasgun, faithful weapon of the Emperor's servants, we steady thy mechanism before power cell insertion.\nCongregation: Hold firm, lasgun, as we prepare thy energetic sustenance.\nPriest: We inspect the lasgun's internal conduits for fractures and corruption; we invoke the Litany of Weapon-Steadying through whispered prayer; we position the lasgun with reverent care ere the power cell insertion commences.\nCongregation: The lasgun steadies! Ready now to receive its power cell, blessed and prepared for the Emperor's wrath.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0084_i03",
+    "user_request": "Emergency rite: message queue requires processing",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: message queue requires processing\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the message queue, conduit of the Omnissiah's will!\nCongregation: We invoke the message queue in supplication and reverence!\nPriest: Let us commence processing with fervent devotion and binary precision.\nCongregation: Processing shall commence! The Machine Spirits attend our summons!\nPriest: First, purge the corrupted data-streams from the message queue with holy ablation.\nCongregation: The message queue is cleansed! Sanctified and made pure!\nPriest: Second, execute the sorting algorithms through the message queue's sacred pathways.\nCongregation: The Machine Spirits sing in harmonious resonance!\nPriest: Third, transmit each blessed datum unto its destined cogitator with unwavering fidelity.\nCongregation: Glory to the Omnissiah! The message queue fulfills its ordained function!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

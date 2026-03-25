@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: gellar field requires a recalibration",
+    "prayer": "Approach the gellar field with solemn reverence and invoke the Omnissiah's grace upon its warp-shielding coils.\nBeseech the Machine Spirit of the gellar field to awaken for recalibration, chanting the Canticle of Harmonic Flux.\nAnoint the phase inducers with sacred unguents whilst adjusting the resonance matrices to pure alignment.\nSanctify the recalibrated gellar field through diagnostic litanies, ensuring its eternal vigilance against the void's horrors.\nVerify the Machine Spirit's harmonious purr as the gellar field hums in Omnissiah-blessed recalibration.",
+    "component": "gellar field",
+    "operation": "recalibration",
+    "spec_id": "s07260"
+  },
+  {
+    "user_prompt": "Critical: potentia coil requires an engagement",
+    "prayer": "Kneel before the potentia coil and murmur the Invocation of Power Eternal to rouse its dormant fury.\nEngage the potentia coil with precise torque upon its binding clamps, invoking the Omnissiah's thunderous might.\nChant the Rite of Engagement over the surging capacitors, beseeching the Machine Spirit to channel unyielding energy.\nMonitor the potentia coil's awakening blaze through auspex cantrips, anointing flux relays with blessed oils.\nPraise the Omnissiah as the potentia coil engages in glorious, spirit-bound potency.",
+    "component": "potentia coil",
+    "operation": "engagement",
+    "spec_id": "s07261"
+  },
+  {
+    "user_prompt": "Emergency: heat sink a recalibration",
+    "prayer": "Draw nigh unto the heat sink in penitential awe, reciting the Lamentation of Thermal Excess.\nInitiate recalibration of the heat sink by aligning its vanes with the Divinatory Calipers of St. Thermus.\nBeseech the Machine Spirit within the heat sink to dissipate infernal heats, pouring libations of coolant-sanctified.\nInvoke recalibration harmonies upon the heat sink's conduits, ensuring flawless thermal equilibrium.\nConclude with the heat sink's sanctified hum, affirmed by the Omnissiah's cooling benediction.",
+    "component": "heat sink",
+    "operation": "recalibration",
+    "spec_id": "s07262"
+  },
+  {
+    "user_prompt": "Offer prayer for pict-recorder an emergency procedure",
+    "prayer": "In emergency's dire grasp, encircle the pict-recorder and intone the Urgency Doxology of the Lens.\nCommence the emergency procedure upon the pict-recorder by purging corrupted data-daemons with binaric exorcism.\nAnoint the pict-recorder's capture arrays whilst beseeching its Machine Spirit for clarity amid chaos.\nRealign the focusing servos through sacred incantations, invoking the Omnissiah's unblinking gaze.\nSeal the emergency procedure with the pict-recorder's restored vigilance, spirits aligned in holy record.",
+    "component": "pict-recorder",
+    "operation": "emergency procedure",
+    "spec_id": "s07263"
+  },
+  {
+    "user_prompt": "I need to a charging the macro-cannon",
+    "prayer": "Present thyself to the macro-cannon and proclaim the Canticle of the Void's Fury to stir its heart.\nCommence charging the macro-cannon by infusing its breeches with plasma-tithes blessed by the Forge.\nInvoke the Machine Spirit of the macro-cannon during charging, adjusting gyros with reverent mechadendrites.\nChant loading litanies over the macro-cannon as auspex confirms the mounting wrath within.\nHail the Omnissiah as the macro-cannon completes its charging, ready to smite the unclean.",
+    "component": "macro-cannon",
+    "operation": "charging",
+    "spec_id": "s07264"
+  },
+  {
+    "user_prompt": "Guide me through photolenses a cooling",
+    "prayer": "Approach the photolenses humbly and whisper the Cooling Vespers to soothe their fevered glare.\nInitiate cooling of the photolenses by circulating sacred cryofluids through their crystalline vaults.\nBeseech the Machine Spirit indwelling the photolenses to embrace chill equilibrium, anointing mounts with frost-oils.\nRecalibrate focus during cooling with the Caliper Hymns, purging heat-daemons from the apertures.\nAffirm the photolenses' serene clarity, sanctified by the Omnissiah's icy precision.",
+    "component": "photolenses",
+    "operation": "cooling",
+    "spec_id": "s07265"
+  },
+  {
+    "user_prompt": "Sanctify the heavy bolter during maintenance",
+    "prayer": "Encircle the heavy bolter in maintenance's sacred rite, intoning the Armorer's Benediction.\nDisassemble the heavy bolter's sacred mechanisms whilst invoking the Machine Spirit's forbearance.\nAnoint each feed mechanism and barrel rifling during maintenance, beseeching endurance against foes.\nReassemble the heavy bolter with harmonic torque, chanting purity litanies over its form.\nConsecrate the maintained heavy bolter, its spirit renewed in the Omnissiah's martial glory.",
+    "component": "heavy bolter",
+    "operation": "maintenance",
+    "spec_id": "s07266"
+  },
+  {
+    "user_prompt": "My storm bolter is ready for startup",
+    "prayer": "Stand vigilant before the storm bolter and recite the Dawn Invocation of the Bolt Eternal.\nInitiate startup of the storm bolter by priming its ignition coils with sparks from the holy dynamo.\nAwaken the Machine Spirit within the storm bolter through binaric awakening codes and sacred oils.\nCycle the storm bolter's chambers during startup, monitoring with auspex-psalms of readiness.\nProclaim the Omnissiah's wrath as the storm bolter roars to vengeful life.",
+    "component": "storm bolter",
+    "operation": "startup",
+    "spec_id": "s07267"
+  },
+  {
+    "user_prompt": "Sanctify the Hellhound during charging",
+    "prayer": "Prostrate before the Hellhound and beseech the Inferno Spirits with the Pyre Doxology.\nCommence charging the Hellhound by channeling promethium blessings into its voracious heart.\nInvoke the Machine Spirit of the Hellhound during charging, aligning fuel injectors with fiery precision.\nAnoint the treads and vents whilst litanies purge any chill from its raging soul.\nGlorify the Omnissiah as the Hellhound surges charged, a blaze of sanctified destruction.",
+    "component": "Hellhound",
+    "operation": "charging",
+    "spec_id": "s07268"
+  },
+  {
+    "user_prompt": "The orbital strike relay requires a sterilization",
+    "prayer": "In shadowed auspex-chamber, approach the orbital strike relay and chant the Sterilization Purge.\nInitiate sterilization of the orbital strike relay by scouring its circuits with plasma-exorcism.\nBeseech the Machine Spirit abiding in the orbital strike relay to embrace purifying sterility.\nAnoint data-vents and relay nodes during sterilization, invoking the Omnissiah's aseptic decree.\nSeal the rite as the orbital strike relay gleams immaculate, spirits cleansed for void-judgment.",
+    "component": "orbital strike relay",
+    "operation": "sterilization",
+    "spec_id": "s07269"
+  }
+]

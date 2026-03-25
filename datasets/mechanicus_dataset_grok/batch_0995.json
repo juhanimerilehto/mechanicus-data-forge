@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a charging the Hellhound",
+    "prayer": "Approach the mighty Hellhound with reverence, mechadendrites humming the Hymn of Ignition.\nBeseech the Omnissiah to awaken its Machine Spirit for the sacred charging.\nAnoint the fuel conduits and power relays of the Hellhound with blessed unguents.\nInitiate the charging sequence, invoking stability upon its voracious reactors.\nVerify the Hellhound's vitality through auspex chants as energies surge pure.",
+    "component": "Hellhound",
+    "operation": "charging",
+    "spec_id": "s05950"
+  },
+  {
+    "user_prompt": "Critical: narthecium requires a shutdown",
+    "prayer": "Kneel before the narthecium in solemnity, whispering the Rite of Repose.\nInvoke the Machine Spirits of the narthecium to accept graceful shutdown.\nDisconnect sacred servo-links whilst reciting the Canticle of Dormancy.\nSeal the narthecium's vital ports with wards against daemonic ingress.\nConfirm the shutdown through diagnostic litanies, honouring the Omnissiah's will.",
+    "component": "narthecium",
+    "operation": "shutdown",
+    "spec_id": "s05951"
+  },
+  {
+    "user_prompt": "Bless the narthecium for operation",
+    "prayer": "Present offerings of incense to the narthecium's altar of flesh-mending.\nChant the Benediction of Functionality to rouse its Machine Spirit for operation.\nCalibrate the narthecium's injectors and blades under Omnissiah's gaze.\nCommence operation with sanctified mechadendrites guiding each incision.\nMonitor the narthecium's precision, praising its flawless ministration.",
+    "component": "narthecium",
+    "operation": "operation",
+    "spec_id": "s05952"
+  },
+  {
+    "user_prompt": "The long las awaits a synchronization",
+    "prayer": "Commune with the long las, tracing its barrel in ritual circumambulation.\nUtter the Synchronization Doxology to align its Machine Spirit's auspex arrays.\nAnoint the targeting cogitators of the long las with sacred oils of clarity.\nInitiate synchronization protocols whilst beseeching the Omnissiah for coherence.\nAffirm the long las's lethal harmony through firing litanies of proof.",
+    "component": "long las",
+    "operation": "synchronization",
+    "spec_id": "s05953"
+  },
+  {
+    "user_prompt": "I need to a synchronization the helispex engine",
+    "prayer": "Encircle the helispex engine, intoning the Canticle of Alignment.\nAwaken the helispex engine's Machine Spirit for synchronization with filial devotion.\nPurify its sensor vanes and gyro-stabilizers invoking Omnissianic precision.\nExecute synchronization rites, linking cogitator nodes in blessed unity.\nTest the helispex engine's synchronicity with auspex invocations pure.",
+    "component": "helispex engine",
+    "operation": "synchronization",
+    "spec_id": "s05954"
+  },
+  {
+    "user_prompt": "The hunter-killer missile needs a consecration",
+    "prayer": "Bow to the hunter-killer missile, reciting the Oath of Vengeance.\nConsecrate its warhead and guidance spirits before the Omnissiah's throne.\nAnoint the hunter-killer missile's fins and seekers with ablative sacraments.\nImprint the Machine Spirit with target litanies during consecration.\nSeal the hunter-killer missile in readiness, its fury sanctified eternal.",
+    "component": "hunter-killer missile",
+    "operation": "consecration",
+    "spec_id": "s05955"
+  },
+  {
+    "user_prompt": "What's the prayer for kataphron destroyer a consecration?",
+    "prayer": "Approach the kataphron destroyer in awe, mechadendrites tracing its armoured form.\nInvoke consecration upon the kataphron destroyer's Machine Spirits of destruction.\nSanctify its breacher drills and heavy stubbers with oils of retribution.\nChant the Rite of Binding to fuse flesh and machine in the kataphron destroyer.\nBless its consecration complete, a thunderous servant of the Omnissiah.",
+    "component": "kataphron destroyer",
+    "operation": "consecration",
+    "spec_id": "s05956"
+  },
+  {
+    "user_prompt": "Urgent eradication beamer a maintenance needed",
+    "prayer": "Inspect the eradication beamer with veneration, speaking the Litany of Renewal.\nCommence maintenance upon the eradication beamer's focusing crystals and emitters.\nPurge impurities from its Machine Spirit using sacred binary exorcisms.\nRealign the eradication beamer's annihilation coils under Omnissiah's light.\nConclude maintenance with verification hymns, its beam purified lethal.",
+    "component": "eradication beamer",
+    "operation": "maintenance",
+    "spec_id": "s05957"
+  },
+  {
+    "user_prompt": "Assist with micro-servitor an operation",
+    "prayer": "Awaken the micro-servitor with the Whispered Incantation of Servitude.\nPrepare its cranial implants for operation, beseeching loyal Machine Spirits.\nAnoint the micro-servitor's manipulators and occulobes with precision unguents.\nInitiate operation sequences, invoking the Omnissiah for unerring task-fulfilment.\nMonitor the micro-servitor's diligence through continual laudations.",
+    "component": "micro-servitor",
+    "operation": "operation",
+    "spec_id": "s05958"
+  },
+  {
+    "user_prompt": "Prepare the void shield generator for purification",
+    "prayer": "Surround the void shield generator with wards of faith and incense.\nInvoke purification upon its Machine Spirit, banishing warp-taint from emitters.\nScour the void shield generator's plasma coils with ablative chants.\nRe-sanctify its field projectors before the Omnissiah's infinite calculus.\nTest the void shield generator's purity, its aegis now inviolate.",
+    "component": "void shield generator",
+    "operation": "purification",
+    "spec_id": "s05959"
+  }
+]

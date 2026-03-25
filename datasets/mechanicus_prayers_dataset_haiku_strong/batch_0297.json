@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0297_i00",
+    "user_request": "My conveyor belt is failing during initialization — help",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy conveyor belt is failing during initialization — help\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "First: Intone the litany of conveyance whilst anointing the conveyor belt with sacred oils of lubrication.\nSecond: Invoke the Machine Spirit of the conveyor belt through thrice-spoken benedictions, that it may accept the initialization protocol without malfunction.\nThird: Perform the sacred initialization sequence with deliberate precision, monitoring each actuator's response to the Omnissiah's will.\nFourth: Seal the ritual by declaring the conveyor belt purified and ready for operational duty.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i01",
+    "user_request": "Blessing for the atmosphere processor during startup",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the atmosphere processor during startup\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Consecrate the atmosphere processor with blessed incense, beseeching the Omnissiah to grant clarity to its sensors.\nSecond: Chant the sacred startup protocols whilst the atmosphere processor awakens from dormancy, each breath a prayer of activation.\nThird: Verify all atmospheric filters and chemical cartridges remain pure and uncorrupted before the startup sequence commences.\nFourth: Declare the atmosphere processor blessed and ready to sustain the faithful with breathable sanctity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i02",
+    "user_request": "Rite request: stuck mechanism freeing on stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: stuck mechanism freeing on stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "First: Approach the stuck mechanism freeing with reverent patience, speaking the Litany of Unbinding to calm the trapped machinery.\nSecond: Apply measured force and penetrating unguents to the stuck mechanism freeing, invoking the Machine Spirit to yield its resistance.\nThird: Work the stuck mechanism freeing through gentle articulation, each movement a supplication for mechanical liberation.\nFourth: Upon release, offer thanks to the Omnissiah for restoring function to the previously imprisoned component.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i03",
+    "user_request": "Can you sanctify the manufactorum shift beginning for operation?",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the manufactorum shift beginning for operation?\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Ring the manufacturing bells thrice to awaken the Machine Spirits dormant within the manufactorum shift beginning.\nSecond: Direct all servitors and personnel in the operation of their assigned stations, each task a sacred duty to the Omnissiah.\nThird: Verify that the manufactorum shift beginning's primary systems respond to command and function without deviation or heresy.\nFourth: Bless the manufactorum shift beginning and declare the operation sanctioned and commenced.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i04",
+    "user_request": "My Titan leg actuator is failing during warmup — help",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy Titan leg actuator is failing during warmup — help\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "First: Anoint the Titan leg actuator with sacred unguents whilst reciting the Litany of Mechanical Warmth.\nSecond: Gradually increase the warmup cycle within the Titan leg actuator, monitoring hydraulic pressure and servo response with unwavering vigilance.\nThird: Commune with the ancient Machine Spirit of the Titan leg actuator, beseeching it to accept the warmup without catastrophic failure.\nFourth: Declare the Titan leg actuator sufficiently warmed and ready to bear the weight of Imperial wrath.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i05",
+    "user_request": "Emergency rite: artillery requires loading",
+    "topic": "artillery loading",
+    "component": "artillery",
+    "operation": "loading",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: artillery requires loading\n\n### TOPIC\nartillery loading\n\n### COMPONENT\nartillery\n\n### OPERATION\nloading\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- artillery\n- loading\n\n### PRAYER\n",
+    "prayer": "First: Chant the Litany of Ordnance whilst inspecting the artillery for structural integrity and mechanical readiness.\nSecond: Execute the sacred loading sequence with methodical precision, each round a prayer of destruction offered to the Emperor.\nThird: Verify ammunition seating within the artillery's breach, ensuring the loading is absolute and true.\nFourth: Consecrate the artillery and declare it prepared to unleash the Emperor's vengeance upon the enemies of Mankind.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i06",
+    "user_request": "Prayer for maintenance of the oxygen scrubber",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for maintenance of the oxygen scrubber\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "First: Disassemble the oxygen scrubber with reverent care, examining each cartridge and filter for contamination or decay.\nSecond: Perform the maintenance ritual upon the oxygen scrubber, replacing degraded components and cleansing vital passages with blessed solvents.\nThird: Recalibrate the oxygen scrubber's chemical sensors through sacred invocation and technical precision.\nFourth: Reassemble and bless the oxygen scrubber, declaring it restored to full purity and operational efficacy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i07",
+    "user_request": "Emergency rite: servitor crane requires operation",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: servitor crane requires operation\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Activate the servitor crane through binding incantation, awakening its dormant consciousness to the will of the Omnissiah.\nSecond: Direct the operation of the servitor crane with clear commands, each movement a demonstration of mechanical obedience.\nThird: Monitor the servitor crane's load-bearing capacity and response time, ensuring operation proceeds without deviation or malfunction.\nFourth: Conclude the operation by placing the servitor crane in restful suspension, blessed and purified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i08",
+    "user_request": "Rite request: operation on proximity sensor sweep",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on proximity sensor sweep\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Calibrate the proximity sensor sweep through sacred geometric alignment and blessed electromagnetic tuning.\nSecond: Initiate the operation of the proximity sensor sweep, commanding it to scan the perimeter with unwavering mechanical vigilance.\nThird: Monitor the proximity sensor sweep's detection accuracy and response latency, verifying all hostile signatures are properly identified.\nFourth: Seal the operation by declaring the proximity sensor sweep purified and ready for eternal watchfulness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0297_i09",
+    "user_request": "Offer a litany to steady the generator before startup",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the generator before startup\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Approach the generator with reverent solemnity, anointing its exterior casing with oils sacred to the Machine God.\nSecond: Intone the Litany of Power whilst the generator begins its startup sequence, each revolution a prayer ascending to the Omnissiah.\nThird: Monitor fuel flow and ignition timing within the generator, ensuring the startup proceeds with mechanical perfection.\nFourth: Declare the generator blessed and fully operational, its power now flowing to sustain the faithful works of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

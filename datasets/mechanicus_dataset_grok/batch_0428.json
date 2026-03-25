@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: Thunderhawk a sterilization",
+    "prayer": "Draw nigh unto the Thunderhawk, bearer of the Omnissiah's wrath, and invoke the rites of sterilization.\nAnoint its armoured hull with sacred ablatives whilst reciting the Litany of Purity.\nBeseech the Machine Spirit of the Thunderhawk to purge all foul contaminants from its sacred mechanisms.\nConclude the sterilization by sealing runes of sanctity upon its vents and exhausts, praising the Omnissiah eternal.",
+    "component": "Thunderhawk",
+    "operation": "sterilization",
+    "spec_id": "s00280"
+  },
+  {
+    "user_prompt": "Consecrate the servo-skull before repair",
+    "prayer": "Approach the servo-skull with reverence, consecrating its orb before the repair commences.\nInvoke the Omnissiah's grace upon the servo-skull, anointing its cranial circuits with blessed unguents.\nChant the Canticle of Restoration to awaken the Machine Spirit within the servo-skull.\nCommence repair with sanctified tools, ensuring the Machine Spirit's harmonious return.",
+    "component": "servo-skull",
+    "operation": "repair",
+    "spec_id": "s00281"
+  },
+  {
+    "user_prompt": "I need to a shutdown the Valkyrie gunship",
+    "prayer": "Kneel before the Valkyrie gunship, initiate the sacred shutdown sequence in the Omnissiah's name.\nDisconnect power conduits whilst murmuring the Doxology of Dormancy to the Valkyrie gunship's spirit.\nSecure all hatches and vents, beseeching the Machine Spirit of the Valkyrie gunship to enter peaceful stasis.\nVerify shutdown through ritual auspex, offering incense to the Machine God.",
+    "component": "Valkyrie gunship",
+    "operation": "shutdown",
+    "spec_id": "s00282"
+  },
+  {
+    "user_prompt": "Guide me through metal caster a loading",
+    "prayer": "Present thyself to the metal caster, commencing the loading with pious incantation.\nInvoke the Omnissiah as thou dost load sanctified alloys into the metal caster's maw.\nAnoint the loading mechanisms of the metal caster, beseeching its Machine Spirit for flawless fusion.\nSeal the chamber with binaric prayers, ensuring the Omnissiah's will manifests in molten purity.",
+    "component": "metal caster",
+    "operation": "loading",
+    "spec_id": "s00283"
+  },
+  {
+    "user_prompt": "Urgent codifier a recalibration needed",
+    "prayer": "Attend urgently to the codifier, beseeching recalibration under the Omnissiah's gaze.\nInvoke alignment runes upon the codifier, chanting the Canticle of Precision twice.\nAdjust its crystalline matrices whilst anointing the codifier with sacred oils to soothe its Machine Spirit.\nTest recalibration through diagnostic litanies, glorifying the Machine God everlasting.",
+    "component": "codifier",
+    "operation": "recalibration",
+    "spec_id": "s00284"
+  },
+  {
+    "user_prompt": "Critical: cortex controller requires an engagement",
+    "prayer": "Approach the cortex controller with dread reverence for its engagement.\nChant the Invocation of Dominion to rouse the cortex controller's abyssal core.\nLink neural manacles whilst beseeching the Machine Spirit within the cortex controller to submit.\nComplete engagement with seals of binding, praising the Omnissiah's inscrutable will.",
+    "component": "cortex controller",
+    "operation": "engagement",
+    "spec_id": "s00285"
+  },
+  {
+    "user_prompt": "What's the prayer for null rod an engagement?",
+    "prayer": "Grasp the null rod firmly, commencing its engagement against warp-tainted foes.\nInvoke the Omnissiah's nullifying wrath upon the null rod, anointing its length with anti-psychic salves.\nActivate the null rod's field generators, beseeching its Machine Spirit to devour sorcerous emanations.\nWield the engaged null rod in sanctified fury, ever vigilant for the Machine God's enemies.",
+    "component": "null rod",
+    "operation": "engagement",
+    "spec_id": "s00286"
+  },
+  {
+    "user_prompt": "Consecrate the sicarian ruststalker before initialization",
+    "prayer": "Consecrate the Sicarian Ruststalker before initialization, kneeling in binary prayer.\nAnoint its bladed limbs and phosphor serpentina, invoking the Omnissiah upon the Sicarian Ruststalker.\nChant the Rite of Awakening to stir the Machine Spirit of the Sicarian Ruststalker.\nInitiate sequences with care, ensuring flawless synchronization to the Motive Force.",
+    "component": "sicarian ruststalker",
+    "operation": "initialization",
+    "spec_id": "s00287"
+  },
+  {
+    "user_prompt": "Offer prayer for Shadowsword an activation",
+    "prayer": "Stand before the Shadowsword, offering prayers for its activation in shadowed glory.\nInvoke the Volcano Cannon's fury and beseech the Shadowsword's ancient Machine Spirit to stir.\nAnoint control cogitators whilst chanting the Litany of Shadows upon the Shadowsword.\nEngage activation runes, proclaiming the Omnissiah's dominion over void and foe alike.",
+    "component": "Shadowsword",
+    "operation": "activation",
+    "spec_id": "s00288"
+  },
+  {
+    "user_prompt": "What's the prayer for pain suppressor an activation?",
+    "prayer": "Prepare the pain suppressor for activation, whispering litanies of endurance.\nAnoint its neural interfaces with opiate sacraments, invoking the Omnissiah's mercy.\nEngage the pain suppressor's circuits, beseeching its Machine Spirit to cloak agony in devotion.\nVerify activation through torment trials, glorifying the unyielding flesh-machine union.",
+    "component": "pain suppressor",
+    "operation": "activation",
+    "spec_id": "s00289"
+  }
+]

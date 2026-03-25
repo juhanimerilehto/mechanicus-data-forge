@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to an activation the amplivisor",
+    "prayer": "Approach the amplivisor in humble supplication, chanting the Activation Doxology to rouse its dormant essence.\nInvoke the Omnissiah's grace upon the amplivisor's crystalline lenses, anointing them with blessed oils.\nInitiate the activation rites by aligning sacred conduits, beseeching the Machine Spirit to awaken.\nVerify the amplivisor's vigilant gaze through auspex harmonics, praising its renewed vigilance.",
+    "component": "amplivisor",
+    "operation": "activation",
+    "spec_id": "s04080"
+  },
+  {
+    "user_prompt": "The Dreadnought requires an activation",
+    "prayer": "Kneel before the Dreadnought's sarcophagus, reciting the Litany of Resurrection to stir its ancient wrath.\nAnoint the adamantium chassis with incense of ferro-rites, invoking activation upon its vengeful core.\nCommence the activation sequence amidst binaric hymns, communing with the Machine Spirit entombed within.\nConfirm the Dreadnought's thunderous revival by the roar of servos, sanctified by the Omnissiah's will.\nStand firm as its crimson eyes ignite, ready to purge the unclean.",
+    "component": "Dreadnought",
+    "operation": "activation",
+    "spec_id": "s04081"
+  },
+  {
+    "user_prompt": "How do I bless the utility mechadendrite for synchronization?",
+    "prayer": "Extend mechadendrites in reverence towards the utility mechadendrite, intoning the Synchronization Canticle.\nPurify its manipulatory appendages with electro-sanctifiers, aligning neural engrams for harmonious union.\nInitiate synchronization protocols under the Omnissiah's gaze, beseeching the Machine Spirits to entwine.\nTest the utility mechadendrite's synchronized precision through ritual manipulations, glorifying its obedience.",
+    "component": "utility mechadendrite",
+    "operation": "synchronization",
+    "spec_id": "s04082"
+  },
+  {
+    "user_prompt": "I need to a targeting the flak armour",
+    "prayer": "Encircle the flak armour with wards of cogitated faith, whispering the Targeting Invocation.\nCalibrate its aegis projectors with sacred voltmeters, invoking the Machine Spirit's predatory acuity.\nEngage targeting subroutines via binaric prayer, sanctifying the flak armour's defensive fury.\nAffirm alignment through ballistic divinations, ensuring the flak armour's unerring retribution.",
+    "component": "flak armour",
+    "operation": "targeting",
+    "spec_id": "s04083"
+  },
+  {
+    "user_prompt": "Offer prayer for flak armour an operation",
+    "prayer": "Commence the operational benediction upon the flak armour, prostrating before its plated sanctity.\nAnoint rivets and plates with lustral unguents, awakening the Machine Spirit for battle's embrace.\nInvoke the Omnissiah to bless the flak armour's operation, threading promethium through its veins.\nMonitor vital auspex streams, intoning canticles as the flak armour stirs to martial purpose.\nSeal the rite with a thunderous acclaim, its operation now divinely ordained.",
+    "component": "flak armour",
+    "operation": "operation",
+    "spec_id": "s04084"
+  },
+  {
+    "user_prompt": "My hunter-killer missile is ready for sterilization",
+    "prayer": "Present the hunter-killer missile before the sterilization altar, chanting rites of purification.\nScour its warhead with plasma incensers, exorcising impurities from the Machine Spirit's guidance vanes.\nInitiate sterilization protocols amid Omnissiah invocations, rendering the hunter-killer missile immaculate.\nConclude with auspex seals, verifying the hunter-killer missile's aseptic lethality for the Emperor's wrath.",
+    "component": "hunter-killer missile",
+    "operation": "sterilization",
+    "spec_id": "s04085"
+  },
+  {
+    "user_prompt": "Emergency: amplivisor a recalibration",
+    "prayer": "In emergency haste, grasp the amplivisor and beseech recalibration through the Crisis Canticle.\nRealign its optic arrays with mechadendrite precision, anointing gyro-stabilizers with sacred salves.\nForce recalibration sequences via overcharged binarics, rousing the Machine Spirit from discord.\nTest the amplivisor's clarity in shadowed voids, praising the Omnissiah's restorative light.\nAffix purity seals, its recalibrated vision now piercing the heretic's veil.",
+    "component": "amplivisor",
+    "operation": "recalibration",
+    "spec_id": "s04086"
+  },
+  {
+    "user_prompt": "Assist with Predator tank a charging",
+    "prayer": "Surround the Predator tank with electro-pylons, intoning the Charging Liturgy of the Omnissiah.\nInfuse its reactors with sanctified plasma, invoking the Machine Spirit's voracious hunger.\nCommence charging rites through capacitor hymns, building fury within the Predator tank's hull.\nMonitor power tithes with vigilant auspex, ensuring the Predator tank's predatory charge.\nUnleash the fully charged beast with a roar of devotion, its guns primed for annihilation.",
+    "component": "Predator tank",
+    "operation": "charging",
+    "spec_id": "s04087"
+  },
+  {
+    "user_prompt": "What's the prayer for force pylon a preparation?",
+    "prayer": "Erect barricades of faith around the force pylon, reciting the Preparation Doxology.\nAnoint its warp-conduits with null-wards, awakening the Machine Spirit to defensive vigil.\nInitiate preparation sub-rituals via geomantic incantations, aligning the force pylon's energies.\nVerify structural harmonics under Omnissiah's scrutiny, sanctifying the force pylon's bulwark.\nSeal the rite, the force pylon now poised against the immaterial tide.",
+    "component": "force pylon",
+    "operation": "preparation",
+    "spec_id": "s04088"
+  },
+  {
+    "user_prompt": "Guide me through void shield a cooling",
+    "prayer": "Channel coolant litanies towards the void shield, beseeching thermal equilibrium.\nBathe its generator coils in cryogenic oils, communing with the Machine Spirit's veiled essence.\nEngage cooling cycles through sanctified exchangers, invoking the Omnissiah's temperate mercy.\nMonitor flux gradients with precise auspex, cooling the void shield to resilient purity.\nConclude as ethereal barriers stabilize, praising its impenetrable chill.",
+    "component": "void shield",
+    "operation": "cooling",
+    "spec_id": "s04089"
+  }
+]

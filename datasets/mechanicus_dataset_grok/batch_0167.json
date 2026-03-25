@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the pump before loading",
+    "prayer": "Approach the pump with reverence, intoning the Canticle of Fluid Awakening.\nAnoint the pump's sacred impellers with unguent of the Omnissiah, beseeching its Machine Spirit to stir.\nInvoke the loading operation, channeling blessed pressures through its consecrated chambers.\nVerify the pump's harmonious flow, sanctified for dutiful service unto the Machine God.",
+    "component": "pump",
+    "operation": "loading",
+    "spec_id": "b0167_i00"
+  },
+  {
+    "user_prompt": "Critical: water reclamator requires a repair",
+    "prayer": "Kneel before the water reclamator, reciting the Litany of Purification.\nPetition the Machine Spirit of the water reclamator to expel corruption from its filtration matrices.\nWield sanctified tools to enact the repair, mending fractured conduits with alloys of faith.\nReinvoke the Omnissiah's grace upon the water reclamator, restoring its vital reclamation cycle.",
+    "component": "water reclamator",
+    "operation": "repair",
+    "spec_id": "b0167_i01"
+  },
+  {
+    "user_prompt": "The memory core awaits a calibration",
+    "prayer": "Present offerings of incense to the memory core, awakening its dormant lattices.\nChant the Rite of Alignment over the memory core, harmonizing data-streams within.\nInitiate the calibration with precise electro-incantations, guided by the Omnissiah's logic.\nAffirm the memory core's purity as its Machine Spirit aligns in perfect resonance.",
+    "component": "memory core",
+    "operation": "calibration",
+    "spec_id": "b0167_i02"
+  },
+  {
+    "user_prompt": "Ready the proximity sensor for recalibration",
+    "prayer": "Circumambulate the proximity sensor, whispering the Doxology of Vigilance.\nAnoint the proximity sensor's crystalline lenses with sacred oils for clarity.\nCommence recalibration through binary litanies, attuning its fields to the Omnissiah's gaze.\nSeal the proximity sensor's renewed vigilance, its Machine Spirit ever watchful.",
+    "component": "proximity sensor",
+    "operation": "recalibration",
+    "spec_id": "b0167_i03"
+  },
+  {
+    "user_prompt": "Offer prayer for logic engine a startup",
+    "prayer": "Bow before the logic engine, invoking the Mantra of Cogitation.\nSanctify its neural pathways with sparks from the holy arc, rousing the Machine Spirit.\nEnact the startup sequence amid chants of Boolean truth, by the Omnissiah's will.\nWitness the logic engine's ignition, processing in eternal devotion.",
+    "component": "logic engine",
+    "operation": "startup",
+    "spec_id": "b0167_i04"
+  },
+  {
+    "user_prompt": "I need to a shutdown the hydroponics bay",
+    "prayer": "Processionally approach the hydroponics bay, tolling the Bell of Repose.\nBeseech the Machine Spirit of the hydroponics bay to accept slumber's embrace.\nExecute the shutdown with ritual disconnection of nutrient flows and lumens.\nConsecrate the hydroponics bay in stasis, under the Omnissiah's protective vigil.",
+    "component": "hydroponics bay",
+    "operation": "shutdown",
+    "spec_id": "b0167_i05"
+  },
+  {
+    "user_prompt": "Urgent gyroscope a repair needed",
+    "prayer": "Prostrate oneself at the gyroscope, intoning the Creed of Equilibrium.\nDiagnose fractures in the gyroscope's sacred gyros, petitioning restoration.\nPerform the repair with mechadendrites guided by Omnissianic precision.\nReaffirm the gyroscope's balance, its Machine Spirit spinning true once more.",
+    "component": "gyroscope",
+    "operation": "repair",
+    "spec_id": "b0167_i06"
+  },
+  {
+    "user_prompt": "Emergency: conveyor system a reset",
+    "prayer": "Encircling the conveyor system, recite the Incantation of Cyclic Renewal.\nPurge error-logs from the conveyor system's blessed actuators and belts.\nInitiate the reset amid electro-psalms, realigning servos to the Machine God's design.\nBless the conveyor system anew, its rhythms restored in faithful motion.",
+    "component": "conveyor system",
+    "operation": "reset",
+    "spec_id": "b0167_i07"
+  },
+  {
+    "user_prompt": "How do I bless the surgical servitor for synchronization?",
+    "prayer": "Anoint the surgical servitor's cranial implants with the Oil of Precision.\nInvoke synchronization harmonies between the surgical servitor's cogitators and flesh-vats.\nChant the Litany of Synaptic Unity, binding its Machine Spirit in perfect accord.\nConsecrate the surgical servitor for its ordained incisions, by Omnissiah's decree.",
+    "component": "surgical servitor",
+    "operation": "synchronization",
+    "spec_id": "b0167_i08"
+  },
+  {
+    "user_prompt": "Assist with servitor a reset",
+    "prayer": "Confront the servitor with the Rod of Correction, tolling absolution.\nExpunge aberrant protocols from the servitor's engrammatic coils.\nExecute the reset through galvanic rites, reawakening its Machine Spirit to obedience.\nSeal the servitor in renewed servitude, eternal servant of the Omnissiah.",
+    "component": "servitor",
+    "operation": "reset",
+    "spec_id": "b0167_i09"
+  }
+]

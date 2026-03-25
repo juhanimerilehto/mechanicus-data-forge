@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0286_i00",
+    "user_request": "Rite request: reset on circuit breaker",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: reset on circuit breaker\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed circuit breaker, conduit of the Omnissiah's will, hear our supplication.\nCongregation: We invoke the circuit breaker's sacred duty to reset and restore.\nPriest: First, disengage the load-bearing terminals with reverent precision.\nCongregation: The circuit breaker shall reset, purging corruption from the current-paths.\nPriest: Second, allow the Machine Spirit respite for three solar cycles.\nCongregation: Third, re-engage the circuit breaker with holy calibration and witness its restoration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i01",
+    "user_request": "Rite request: capacitor bank discharge on capacitor bank",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: capacitor bank discharge on capacitor bank\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Priest: O capacitor bank, vessel of electro-potential, we commence the sacred capacitor bank discharge.\nCongregation: Grant us safe passage through the flux of energy unbound.\nPriest: First, isolate all tributary circuits with ceremonial disconnection.\nCongregation: The capacitor bank discharge shall proceed with measured grace.\nPriest: Second, activate the discharge pathways through grounded conduits.\nCongregation: Third, verify the capacitor bank's dormancy with blessed instruments of measurement.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i02",
+    "user_request": "Offer a litany to steady the medicae scanner before activation",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the medicae scanner before activation\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Medicae scanner, oracle of biological truth, we beseech your activation.\nCongregation: Steady the medicae scanner's sensors with the Omnissiah's blessing.\nPriest: First, purify the medicae scanner's optical matrices with soft ablutions.\nCongregation: The medicae scanner shall perceive with clarity and sanctified purpose.\nPriest: Second, calibrate the diagnostic parameters to ecclesiastical precision.\nCongregation: Third, invoke the Machine Spirit to guide the medicae scanner's revelations of flesh and ailment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i03",
+    "user_request": "The emergency shutdown demands guidance for emergency shutdown",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe emergency shutdown demands guidance for emergency shutdown\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: In the hour of peril, we invoke the emergency shutdown with solemn authority.\nCongregation: Let the emergency shutdown cascade through all systems with righteous fury.\nPriest: First, sever all primary power conduits from the emergency shutdown nexus.\nCongregation: The emergency shutdown shall silence the profane machinery's song.\nPriest: Second, engage the emergency shutdown's mechanical failsafes with trembling hands.\nCongregation: Third, confirm the emergency shutdown's absolute dominion over all operational matrices.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i04",
+    "user_request": "Offer a litany to steady the hull breach before sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the hull breach before sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Hull breach, wound in the vessel's sacred skin, we commence sealing with unwavering resolve.\nCongregation: Steady the hull breach as we bind its rupture with blessed materials.\nPriest: First, deploy the sealing compounds to the hull breach's jagged edges.\nCongregation: The hull breach shall be rendered whole through our laborious ministration.\nPriest: Second, apply pressure-plates to the hull breach with ceremonial force.\nCongregation: Third, monitor the hull breach's structural integrity until the Machine Spirit deems it sound.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i05",
+    "user_request": "Rite request: preparation on metal casting",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: preparation on metal casting\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Metal casting, crucible of transmutation, we undertake your preparation with holy reverence.\nCongregation: Bless the metal casting's furnace and foundry with the Omnissiah's touch.\nPriest: First, cleanse the metal casting's molds of profane impurities and corrosion.\nCongregation: The metal casting shall be prepared for its molten transformation.\nPriest: Second, consecrate the metal casting's alloy ratios through precise liturgical measurement.\nCongregation: Third, attune the metal casting's temperature-matrices to sacred equilibrium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i06",
+    "user_request": "Emergency rite: conveyor belt requires initialization",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: conveyor belt requires initialization\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Conveyor belt, servant of industrial purpose, we decree your initialization with solemn benediction.\nCongregation: Let the conveyor belt's rollers turn in harmony with the Machine Spirit's will.\nPriest: First, inspect the conveyor belt's tensioning mechanisms for wear and degradation.\nCongregation: The conveyor belt shall commence motion with blessed synchronicity.\nPriest: Second, lubricate the conveyor belt's bearing-points with sacramental compounds.\nCongregation: Third, activate the conveyor belt's drive-motors and witness its rhythmic servitude.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i08",
+    "user_request": "Offer a litany to steady the emergency bulkhead before sealing",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the emergency bulkhead before sealing\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Emergency bulkhead, partition of salvation, we invoke sealing with desperate devotion.\nCongregation: Steady the emergency bulkhead as void and pressure threaten our vessel's sanctity.\nPriest: First, disengage the emergency bulkhead's locking mechanisms with ritualistic urgency.\nCongregation: The emergency bulkhead shall descend and seal the breach of catastrophe.\nPriest: Second, engage the emergency bulkhead's redundant seals and pressure-locks.\nCongregation: Third, verify the emergency bulkhead's hermetic integrity through blessed sensor-arrays.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i09",
+    "user_request": "Blessing for the data-core purification during operation",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the data-core purification during operation\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Data-core purification, repository of holy knowledge, we bless your operation with sacred fervor.\nCongregation: Let the data-core purification's algorithms cleanse corruption from stored wisdom.\nPriest: First, initiate the data-core purification's diagnostic scanning through blessed protocols.\nCongregation: The data-core purification shall expunge heretical code and digital decay.\nPriest: Second, execute the data-core purification's cleansing routines with meticulous care.\nCongregation: Third, restore the data-core purification to pristine sanctity through final verification.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0286_i07",
+    "user_request": "Can you sanctify the fire suppression system for operation?",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the fire suppression system for operation?\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be this fire suppression system, conduit of the Omnissiah's will against the profane flames of malfunction.\nCongregation: We sanctify the fire suppression system in His name, that it may serve eternal and true.\nPriest: First, we anoint the pressure valves with sacred unguents and recalibrate the fire suppression system for operation most holy.\nCongregation: The Machine Spirits stir within the fire suppression system, awakened by our devotion.\nPriest: Second, we perform diagnostic litanies upon each nozzle aperture, testing flow rates and activation sequences.\nCongregation: By the grace of the Omnissiah, the fire suppression system stands ready for operation.\nPriest: Third, we seal the blessed conduits and invoke the ancient rites of pressurization, that no spark of heresy may kindle unchecked.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

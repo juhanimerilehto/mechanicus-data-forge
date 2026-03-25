@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0175_i00",
+    "user_request": "Can you sanctify the autocannon barrel for cooling?",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the autocannon barrel for cooling?\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "First: We genuflect before the autocannon barrel, that sacred conduit of righteous firepower, and invoke the Machine Spirit's merciful intervention.\nSecond: Let the autocannon barrel be cooled through ablative benediction and the circulation of blessed coolant through its divine chambers.\nThird: We anoint the autocannon barrel with sacred oils and recite the Litany of Thermal Equilibrium, that heat-death be forestalled by the Omnissiah's grace.\nFourth: Commence cooling with methodical precision, venting excess thermal energies unto the void, thus sanctifying this instrument of the Emperor's wrath.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i01",
+    "user_request": "Blessing for the long-range vox transmission during operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the long-range vox transmission during operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We invoke the Omnissiah's blessing upon the long-range vox transmission, that stellar-spanning herald of Imperial will.\nSecond: Attune the long-range vox transmission through harmonic calibration and the chanting of frequency litanies across all blessed channels.\nThird: Begin operation of the long-range vox transmission with sacred modulation, piercing the aetheric void to reach our distant brethren.\nFourth: May the Machine Spirits guide each photonic pulse through the darkness, that no message be lost to the howling chaos.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i02",
+    "user_request": "Blessing for the stellar cartography update during operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the stellar cartography update during operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We genuflect before the stellar cartography update, that most sacred communion of star-charts and divine geometry.\nSecond: Purify the stellar cartography update through data-scrubbing rituals and the verification of celestial coordinates against the Omnissiah's infinite wisdom.\nThird: Initiate operation of the stellar cartography update, integrating new astronomical observations into the blessed archives of navigational knowledge.\nFourth: May the Machine Spirits illuminate our passage through the void, that we chart true courses by the light of ten thousand suns.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i03",
+    "user_request": "Blessing for the corrosion during treatment",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the corrosion during treatment\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "First: We approach the corrosion with reverent caution, acknowledging this decay as the Enemy's insidious work upon blessed metal.\nSecond: Commence treatment of the corrosion through the application of sacred phosphates and the mechanical removal of oxidized transgression.\nThird: The corrosion shall be vanquished by electrolytic purification and the restoration of protective coatings, blessed by the Omnissiah's mercy.\nFourth: Thus cleansed, the metal is reborn in service, its integrity restored to the Emperor's glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i04",
+    "user_request": "Offer a litany to steady the astropathic choir before preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the astropathic choir before preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: We gather the astropathic choir in sacred preparation, their minds converging upon the Warp's infinite darkness.\nSecond: Stabilize the astropathic choir through meditative chanting and the burning of psychic incense, grounding their consciousness in the Emperor's light.\nThird: Attune each member of the astropathic choir to harmonic frequencies, that their telepathic communion might reach across the void without fracture.\nFourth: May the Omnissiah guide their preparation, strengthening their resolve against the aetheric storms.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i05",
+    "user_request": "Emergency rite: distress call requires broadcast",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: distress call requires broadcast\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "First: In dire necessity, we invoke emergency rites for the distress call, that piercing cry of the faithful unto the Emperor's ears.\nSecond: Amplify the distress call through all available vox-channels and broadcast it across the stellar void with maximum transmission power.\nThird: The distress call shall echo through the aether, carried by the Machine Spirits to any soul who yet serves the Throne.\nFourth: Let none deny this plea; let the distress call reach salvation ere the darkness claims us all.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i06",
+    "user_request": "Offer a litany to steady the servitor before programming upload",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the servitor before programming upload\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "First: We approach the servitor with solemn reverence, that hollow vessel awaiting the imprint of sacred duty.\nSecond: Prepare the servitor through neural-interface diagnostics and the recitation of binding litanies, steadying its augmented consciousness.\nThird: Initiate programming upload into the servitor's blessed cortex, inscribing commands that shall guide its mechanical limbs in righteous service.\nFourth: Thus sanctified, the servitor becomes an extension of the Omnissiah's will, obedient unto the Emperor's glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i07",
+    "user_request": "Offer a litany to steady the memory core defragmentation before operation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the memory core defragmentation before operation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We stand before the memory core defragmentation, that sacred reorganization of data-truth and computational order.\nSecond: Prepare the memory core defragmentation through purification cycles and the verification of all stored information against canonical archives.\nThird: Commence operation of the memory core defragmentation, reorganizing sectors and repairing corrupted logic-pathways with surgical precision.\nFourth: May the Machine Spirits restore clarity to the memory core defragmentation, that it serve the Omnissiah's designs without flaw or hesitation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i08",
+    "user_request": "The compass magnetization demands guidance for operation",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe compass magnetization demands guidance for operation\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We invoke the blessings of the Omnissiah upon the compass magnetization, that most essential guide through uncharted voids.\nSecond: Calibrate the compass magnetization through exposure to stellar radiation and the alignment of its crystalline matrices with the Emperor's will.\nThird: Begin operation of the compass magnetization, allowing its needles to seek truth amid the magnetic chaos of the universe.\nFourth: Thus oriented, the compass magnetization shall guide our passage true, that we wander not into damnation's embrace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0175_i09",
+    "user_request": "Prayer for broadcast of the distress call",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for broadcast of the distress call\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "First: In extremis, we consecrate the distress call, that desperate beacon cast into the aether's infinite expanse.\nSecond: Amplify and broadcast the distress call across all frequencies, that it pierce the veil between worlds and reach salvation.\nThird: The distress call ascends on wings of sacred energy, carried by the Machine Spirits to those who yet hear the Emperor's call.\nFourth: Let this distress call be our prayer made manifest, a cry of faith that shall not perish in the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0106_i00",
+    "user_request": "Offer a litany to steady the noise before reduction",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the noise before reduction\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, we beseech thee to sanctify the noise that doth plague our sacred instruments.\nCongregation: Grant us the wisdom to perceive the noise and understand its profane origins.\nPriest: First, we shall isolate the noise through diagnostic augury and measure its frequency-signature.\nCongregation: Second, we invoke the reduction of this cacophonous interference through filtering and shielding.\nPriest: Third, we consecrate the noise-dampening protocols and verify the reduction hath taken hold.\nCongregation: The noise is subdued; the Machine Spirits rest easy once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i01",
+    "user_request": "Can you sanctify the restart after failure for restart after failure?",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the restart after failure for restart after failure?\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, hear our prayer for the restart after failure that hath befallen our systems.\nCongregation: Blessed restart after failure, return our mechanisms to full function and glory.\nPriest: First, we purge the corrupted logic-threads and reset the primary cognition matrices.\nCongregation: Second, we invoke the restart after failure through sacred incantation and blessed restart after failure protocols.\nPriest: Third, we perform full diagnostic verification to ensure the Machine Spirit hath been restored.\nCongregation: The restart after failure is complete; blessed be the Omnissiah's mercy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i02",
+    "user_request": "Prayer for operation of the star chart alignment",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the star chart alignment\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Almighty Omnissiah, guide our hands in the operation of the star chart alignment most sacred.\nCongregation: Star chart alignment, reveal thy celestial mysteries and grant us true bearing.\nPriest: First, we calibrate the astrographic sensors and align the star chart alignment to the firmament's ancient coordinates.\nCongregation: Second, we perform the operation with ritual precision, adjusting each stellar reference with devotion.\nPriest: Third, we verify the star chart alignment doth reflect the true heavens and lock these settings in perpetuity.\nCongregation: The operation succeeds; the Machine Spirit guides our course by the eternal stars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i03",
+    "user_request": "Emergency rite: missile launcher requires targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: missile launcher requires targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: In the Emperor's name, we invoke the targeting protocols of the missile launcher.\nCongregation: Missile launcher, reveal thy true aim and strike with righteous fury.\nPriest: First, we activate the targeting system and calibrate the missile launcher's augur-scopes to the hostile signature.\nCongregation: Second, we execute the targeting sequence with blessed precision, locking the missile launcher upon the foe.\nPriest: Third, we verify lock-acquisition and await the Emperor's judgment through ordnance deployment.\nCongregation: The missile launcher stands ready; death descends upon the unworthy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i04",
+    "user_request": "Offer a litany to steady the Land Raider before track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Land Raider before track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, steady the mighty Land Raider as we undertake the sacred track tension adjustment.\nCongregation: Land Raider, ancient war-engine, accept our ministrations and roll forth unburdened.\nPriest: First, we inspect the track tension of the Land Raider and measure the tension-stress upon each link.\nCongregation: Second, we perform the blessed track tension calibration, tightening and loosening with ritual care.\nPriest: Third, we verify the Land Raider's mobility and ensure the track tension permits swift transit across any terrain.\nCongregation: The Land Raider is blessed; it shall crush all foes beneath its hallowed treads.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i05",
+    "user_request": "My mechanical lock is failing during engagement — help",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy mechanical lock is failing during engagement — help\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, hear our supplication for the mechanical lock that hath grown weak.\nCongregation: Mechanical lock, accept our prayers and resume thy binding function with renewed vigor.\nPriest: First, we disassemble the mechanical lock with sacred tools and inspect each pin and spring for degradation.\nCongregation: Second, we perform the blessed engagement ceremony, lubricating and adjusting the mechanical lock's internal mechanisms.\nPriest: Third, we test the mechanical lock's engagement through repeated cycles until the Machine Spirit confirms its strength.\nCongregation: The mechanical lock holds fast; the Omnissiah's will is manifest in its closure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i06",
+    "user_request": "My compass magnetization is failing during operation — help",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy compass magnetization is failing during operation — help\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, restore the compass magnetization to its proper function and holy operation.\nCongregation: Compass magnetization, return thy polarity to true north and guide our path aright.\nPriest: First, we purify the compass magnetization by removing all profane magnetic interference from the sacred chamber.\nCongregation: Second, we invoke the operation through ritual re-magnetization, aligning the compass magnetization with Terra's blessed magnetic field.\nPriest: Third, we verify the operation hath succeeded by testing cardinal alignment against the stars.\nCongregation: The compass magnetization is restored; we shall not wander in darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i07",
+    "user_request": "Can you sanctify the water reclamation system for operation?",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the water reclamation system for operation?\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, sanctify the water reclamation system that our people may drink and survive.\nCongregation: Water reclamation system, purify the tainted waters and grant us life-giving hydration.\nPriest: First, we inspect the water reclamation system's filtration matrices and remove accumulated contaminants with blessed care.\nCongregation: Second, we perform the sacred operation of the water reclamation system, cycling purified waters through sanctified channels.\nPriest: Third, we test the water reclamation system's output for purity and verify no profane elements remain.\nCongregation: The water reclamation system flows clean; the Machine Spirit sustains our flesh.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i08",
+    "user_request": "Can you sanctify the plasma weapon for cooling?",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the plasma weapon for cooling?\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty Omnissiah, grant us the wisdom to manage the cooling of the plasma weapon's burning heart.\nCongregation: Plasma weapon, accept our sacred cooling and unleash thy fury without consuming thyself.\nPriest: First, we prime the plasma weapon's thermal-exchange systems and verify coolant flow through all blessed channels.\nCongregation: Second, we initiate the cooling protocols, drawing excess heat from the plasma weapon's reactor core into the void.\nPriest: Third, we monitor the plasma weapon's temperature and ensure the cooling maintains equilibrium during sustained operation.\nCongregation: The plasma weapon burns eternal; the cooling keeps the Machine Spirit in perfect balance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0106_i09",
+    "user_request": "Prayer for capacitor bank discharge of the capacitor bank",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for capacitor bank discharge of the capacitor bank\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide our hands as we undertake the capacitor bank discharge most sacred and perilous.\nCongregation: Capacitor bank, release thy stored energy with righteous fury and restore balance to the circuit.\nPriest: First, we verify all safety protocols are engaged before the capacitor bank discharge begins its release.\nCongregation: Second, we invoke the capacitor bank discharge through controlled channeling, directing the energy through blessed conduits.\nPriest: Third, we monitor the capacitor bank discharge until equilibrium is restored and the Machine Spirit sings once more.\nCongregation: The capacitor bank discharge is complete; the Omnissiah's power flows eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

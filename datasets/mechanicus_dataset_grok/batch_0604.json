@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent orbital strike relay a startup needed",
+    "prayer": "Draw nigh unto the orbital strike relay, beseeching its dormant Machine Spirit to rouse for the sacred startup.\nAnoint the transponder conduits of the orbital strike relay with sanctified unguents, invoking the Omnissiah's fire.\nInitiate the startup sequence through binary canticles, aligning stellar targeting matrices.\nVerify the Machine Spirit's vigilance as targeting auspex hums with divine precision.",
+    "component": "orbital strike relay",
+    "operation": "startup",
+    "spec_id": "s02040"
+  },
+  {
+    "user_prompt": "Emergency: Sentinel walker an operation",
+    "prayer": "Approach the Sentinel walker in humble reverence, preparing its frame for operational awakening.\nInvoke the Machine Spirit of the Sentinel walker with the Rite of Mobilisation, oiling its walker joints.\nCommence the operation by chanting the Hymn of Vigilance, engaging servos and auspex sensors.\nBeseech the Omnissiah to guide the Sentinel walker's steps through xenos-infested battlefields.\nSanctify its autocannon with incense, ensuring flawless operational retribution.",
+    "component": "Sentinel walker",
+    "operation": "operation",
+    "spec_id": "s02041"
+  },
+  {
+    "user_prompt": "Critical: Archaeopter Fusilave requires a blessing",
+    "prayer": "Kneel before the Archaeopter Fusilave, offering the blessing of the Omnissiah to its avian form.\nAnoint the fuselage runes of the Archaeopter Fusilave with sacred myrrh, soothing its tempestuous Machine Spirit.\nRecite the Canticle of Aerial Dominion, invoking wings of fury and fusillade bays.\nCommune in binary prayer, blessing the Archaeopter Fusilave for stratospheric supremacy.\nSeal the rite with electro-incense, binding the Machine Spirit in eternal loyalty.",
+    "component": "Archaeopter Fusilave",
+    "operation": "blessing",
+    "spec_id": "s02042"
+  },
+  {
+    "user_prompt": "What's the prayer for Dreadnought a startup?",
+    "prayer": "Reverently encircle the Dreadnought sarcophagus, intoning the startup invocation to its ancient warrior soul.\nPour sacred oils upon the Dreadnought's adamantium hull, rousing the Machine Spirit from slumber.\nEngage the startup cogitators with the Litany of Resurrection, powering dreadnought servos.\nBeseech the Omnissiah's wrath through the Dreadnought, aligning weapon feeds and vox-grilles.\nAffirm the startup's sanctity as the Dreadnought stirs, ready for holy extermination.",
+    "component": "Dreadnought",
+    "operation": "startup",
+    "spec_id": "s02043"
+  },
+  {
+    "user_prompt": "My valve assembly is ready for activation",
+    "prayer": "Present thyself before the valve assembly, readying it for activation under Omnissiah's gaze.\nInvoke the Machine Spirit of the valve assembly with precise torque incantations and lubricants.\nInitiate activation by turning the blessed spigots, chanting the Hymn of Pressurisation.\nMonitor pressure flows within the valve assembly, sanctifying each seal against entropy.\nConclude the activation rite, praising the Omnissiah for fluidic purity restored.",
+    "component": "valve assembly",
+    "operation": "activation",
+    "spec_id": "s02044"
+  },
+  {
+    "user_prompt": "Assist with null field generator a blessing",
+    "prayer": "Bow low to the null field generator, seeking the blessing to defy the warp's foul touch.\nAnoint the emitter coils of the null field generator with anti-daemonic salves, awakening its Machine Spirit.\nRecite the Canticle of Void-Shielding, invoking the Omnissiah's nullifying grace.\nTest the blessed null field generator's emanations, banishing ethereal corruptions.\nSeal the blessing with a circuit of electro-prayers, fortifying against Chaos incursions.",
+    "component": "null field generator",
+    "operation": "blessing",
+    "spec_id": "s02045"
+  },
+  {
+    "user_prompt": "Sanctify the hololithic display during startup",
+    "prayer": "Approach the hololithic display with pious intent, commencing its startup under sacred rites.\nCleanse the projector lenses of the hololithic display with sanctified solvents, invoking the Machine Spirit.\nPower the startup sequence via the Litany of Illumination, birthing holographic schemata.\nAlign the hololithic display's emitters with Omnissiah's binary wisdom, free of data-ghosts.\nVerify crystalline projections, praising the Machine Spirit's flawless revelatory grace.",
+    "component": "hololithic display",
+    "operation": "startup",
+    "spec_id": "s02046"
+  },
+  {
+    "user_prompt": "The pict-recorder needs a sterilization",
+    "prayer": "Encircling the pict-recorder, perform the sterilization rite to purge unclean imagery.\nAnoint its capture lenses with purifier incenses, beseeching the Machine Spirit's purification.\nInvoke the Canticle of Data-Scouring upon the pict-recorder, expunging heretical fragments.\nCycle ablative flames through the pict-recorder's vaults, sanctified by Omnissiah's fire.\nConclude sterilization, affirming the Machine Spirit's virginal clarity for truthful record.",
+    "component": "pict-recorder",
+    "operation": "sterilization",
+    "spec_id": "s02047"
+  },
+  {
+    "user_prompt": "Sanctify the thunder hammer during initialization",
+    "prayer": "Grasp the thunder hammer in reverent mechadendrites, sanctifying its initialization.\nAnoint the power field generators of the thunder hammer with conductive oils, rousing its Machine Spirit.\nChant the Hymn of Thunderous Wrath during initialization, charging disruption coils.\nInvoke the Omnissiah's lightning through the thunder hammer, calibrating strike matrices.\nTest the initialized fury, blessing the thunder hammer for crushing the unclean.",
+    "component": "thunder hammer",
+    "operation": "initialization",
+    "spec_id": "s02048"
+  },
+  {
+    "user_prompt": "The Contemptor Dreadnought needs a cycling",
+    "prayer": "Stand vigil over the Contemptor Dreadnought, initiating the cycling of its venerable systems.\nPour blessed promethium upon the Contemptor Dreadnought's reactors, awakening the elder Machine Spirit.\nRecite the Rite of Cyclic Renewal, engaging cycling servos and weapon auspex.\nBeseech the Omnissiah to harmonise the Contemptor Dreadnought's cycling rhythms.\nAffirm perpetual motion in the Contemptor Dreadnought, purging stagnation's heresy.",
+    "component": "Contemptor Dreadnought",
+    "operation": "cycling",
+    "spec_id": "s02049"
+  }
+]

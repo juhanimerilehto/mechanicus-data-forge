@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for servitor blessing?",
+    "prayer": "Kneel before the servitor and anoint its cranial vaults with sacred unguents of the Omnissiah.\nInvoke the blessing upon the servitor's docile Machine Spirit through the Litany of Obedience.\nCalibrate its servo-arms and neural clamps whilst chanting the Canticle of Eternal Toil.\nSeal the blessing with a pulse of holy voltage, affirming the servitor's unwavering devotion.",
+    "component": "servitor",
+    "operation": "blessing",
+    "spec_id": "b0164_i00"
+  },
+  {
+    "user_prompt": "Bless the noospheric relay for preparation",
+    "prayer": "Approach the noospheric relay with reverence and circumscribe its sacred nodes with incense of binary code.\nPrepare the noospheric relay for communion by invoking the Omnissiah's wisdom upon its entangled data-threads.\nAnoint the relay's crystalline matrices whilst beseeching the Machine Spirits to align their ethereal harmonies.\nInitiate the preparation rite with a surge of sanctified plasma, binding the noospheric relay to the Motive Force.",
+    "component": "noospheric relay",
+    "operation": "preparation",
+    "spec_id": "b0164_i01"
+  },
+  {
+    "user_prompt": "Bless the radar array for preparation",
+    "prayer": "Present the radar array before the altar of auspex and cleanse its emitter coils with ablative oils.\nPrepare the radar array through incantations that summon the vigilance of the Omnissiah's unblinking gaze.\nInvoke the Machine Spirits within the radar array's phased lattices to attune their sweeps to the void's whispers.\nConclude the preparation by etching binaric sigils upon the radar array, ensuring flawless auspex revelation.",
+    "component": "radar array",
+    "operation": "preparation",
+    "spec_id": "b0164_i02"
+  },
+  {
+    "user_prompt": "My logic engine is ready for emergency procedure",
+    "prayer": "Commence the emergency procedure upon the logic engine by severing tainted data conduits with sanctified shears.\nBeseech the Omnissiah to purge the logic engine's cogitator core from erroneous computations.\nRealign the logic engine's crystalline qubits through rhythmic chants of the Error-Correction Doxology.\nReinitialize the Machine Spirit of the logic engine with a jolt of emergency plasma, restoring rational purity.",
+    "component": "logic engine",
+    "operation": "emergency procedure",
+    "spec_id": "b0164_i03"
+  },
+  {
+    "user_prompt": "Guide me through power weapon an emergency procedure",
+    "prayer": "Initiate the emergency procedure on the power weapon by disengaging its disruption field generators.\nPetition the Omnissiah to soothe the power weapon's raging plasma coils amidst the crisis.\nAnoint the hilt and blade-edges of the power weapon with oils of quiescence to calm its Machine Spirit.\nRe-energize the power weapon's monomolecular edge through the Rite of Stabilized Fury, averting overload cataclysm.",
+    "component": "power weapon",
+    "operation": "emergency procedure",
+    "spec_id": "b0164_i04"
+  },
+  {
+    "user_prompt": "I need to a preparation the hydroponics bay",
+    "prayer": "Sanctify the hydroponics bay by asperging its nutrient reservoirs with blessed hydro-fluids.\nPrepare the hydroponics bay for verdant cycles via invocations to the Omnissiah's generative algorithms.\nAttune the Machine Spirits of the hydroponics bay's lumen arrays and irrigation servos to symbiotic growth.\nCycle the preparation with a hymn of photosynthetic harmony, ensuring the hydroponics bay yields bounty unending.",
+    "component": "hydroponics bay",
+    "operation": "preparation",
+    "spec_id": "b0164_i05"
+  },
+  {
+    "user_prompt": "My surgical servitor is ready for sterilization",
+    "prayer": "Position the surgical servitor upon the sterilization altar and expose its manipulators to autoclave incense.\nConduct the sterilization upon the surgical servitor by reciting the Purge Litany over its plasma scalpels.\nInvoke the Omnissiah to exorcise contaminants from the surgical servitor's integumental plating.\nVerify the Machine Spirit's pristine state within the surgical servitor through auspex purification scans.",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "spec_id": "b0164_i06"
+  },
+  {
+    "user_prompt": "The augmetic limb awaits a maintenance",
+    "prayer": "Examine the augmetic limb with mechadendrites and apply sacred lubricants to its actuators.\nPerform maintenance upon the augmetic limb whilst chanting the Canticle of Myofibril Renewal.\nBeseech the Machine Spirit indwelling the augmetic limb to realign its neural interfaces flawlessly.\nConclude the rite by testing the augmetic limb's servo-motors under the Omnissiah's approving gaze.",
+    "component": "augmetic limb",
+    "operation": "maintenance",
+    "spec_id": "b0164_i07"
+  },
+  {
+    "user_prompt": "Assist with mechanical lock a blessing",
+    "prayer": "Approach the mechanical lock and trace its tumbler mechanisms with a stylus of consecrated adamantium.\nBestow the blessing upon the mechanical lock's unyielding wards through the Doxology of Impervious Vigil.\nAnoint the mechanical lock's pivot gears, awakening its Machine Spirit to eternal guardianship.\nSeal the blessing with a binaric oath, fortifying the mechanical lock against all profane intrusion.",
+    "component": "mechanical lock",
+    "operation": "blessing",
+    "spec_id": "b0164_i08"
+  },
+  {
+    "user_prompt": "Assist with astropathic choir a targeting",
+    "prayer": "Assemble the astropathic choir before the noetic resonators and attune their psychic cowls.\nGuide the targeting of the astropathic choir by invoking the Omnissiah's stellar cartography upon their minds.\nHarmonize the Machine Spirits aiding the astropathic choir's warp-echo amplifiers for precise divination.\nFinalize the targeting rite with a choral incantation, directing the astropathic choir's gaze to the void's chosen quarry.",
+    "component": "astropathic choir",
+    "operation": "targeting",
+    "spec_id": "b0164_i09"
+  }
+]

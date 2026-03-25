@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a blessing the emergency bulkhead",
+    "prayer": "Approach the emergency bulkhead with due reverence and intone the Canticle of Sealing.\nInvoke the indomitable Machine Spirit within its adamantium frame to awaken.\nBestow the blessing upon the emergency bulkhead's servos and locks with sacred unguents.\nSeal the rite with the Omnissiah's invocation, ensuring the emergency bulkhead stands vigilant.",
+    "component": "emergency bulkhead",
+    "operation": "blessing",
+    "spec_id": "b0381_i00"
+  },
+  {
+    "user_prompt": "Ready the quality scanner for sterilization",
+    "prayer": "Prepare the quality scanner's purity fields by chanting the Litany of Sterile Void.\nBeseech the Machine Spirit of the quality scanner to purge all contaminants from its lenses.\nInitiate the sterilization cycle with ablative incense and holy plasma washes.\nVerify the quality scanner's sanctity through auspex scans of its sanctified chambers.",
+    "component": "quality scanner",
+    "operation": "sterilization",
+    "spec_id": "b0381_i01"
+  },
+  {
+    "user_prompt": "Guide me through quality scanner an initialization",
+    "prayer": "Kneel before the quality scanner and recite the Binary Prayer of Activation.\nInvoke initialization upon the quality scanner's cogitators with precise noospheric chants.\nAnoint its sensor arrays with blessed oils to rouse the dormant Machine Spirit.\nCommence the initialization sequence whilst petitioning the Omnissiah for flawless calibration.",
+    "component": "quality scanner",
+    "operation": "initialization",
+    "spec_id": "b0381_i02"
+  },
+  {
+    "user_prompt": "Urgent power weapon a blessing needed",
+    "prayer": "Grasp the power weapon in sanctified gauntlets and whisper the Oath of Lethal Conduction.\nPour forth the blessing upon the power weapon's disruption fields through electro-incantations.\nAwaken the furious Machine Spirit within the power weapon with strikes of sacred current.\nConclude the blessing by invoking the Omnissiah's wrath upon all foes it shall rend.",
+    "component": "power weapon",
+    "operation": "blessing",
+    "spec_id": "b0381_i03"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the data-slate",
+    "prayer": "Interface with the data-slate's ports and intone the Rite of Diagnostic Revelation.\nCommand the diagnostics to scour the data-slate's memory vaults for binary corruptions.\nBeseech the Machine Spirit of the data-slate to manifest anomalies in phosphor light.\nSanctify the findings with the Omnissiah's logic, purging errors from the data-slate's core.",
+    "component": "data-slate",
+    "operation": "diagnostics",
+    "spec_id": "b0381_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for radar array recalibration?",
+    "prayer": "Align thyself before the radar array and chant the Canticle of True Bearing.\nInitiate recalibration of the radar array's auspex emitters with stellar invocations.\nPetition the Machine Spirit within the radar array to realign its ethereal gaze.\nSeal the recalibration with sacred myrrh, ensuring the radar array pierces the void unerringly.",
+    "component": "radar array",
+    "operation": "recalibration",
+    "spec_id": "b0381_i05"
+  },
+  {
+    "user_prompt": "Emergency: Chimera APC a loading",
+    "prayer": "Commence loading the Chimera APC by invoking the Hymn of Munition Ingress.\nGuide munitions into the Chimera APC's holds whilst beseeching its Machine Spirits.\nSecure the loading bays with binaric seals and offerings of sanctified promethium.\nBless the Chimera APC's readiness under the Omnissiah's aegis for the fray ahead.",
+    "component": "Chimera APC",
+    "operation": "loading",
+    "spec_id": "b0381_i06"
+  },
+  {
+    "user_prompt": "The motion detector requires a startup",
+    "prayer": "Approach the motion detector with mechadendrites extended in supplication.\nIntone the startup litany to rouse the vigilant Machine Spirit from slumber.\nInitiate power-flow through its sacred circuits with precise voltage petitions.\nVerify the motion detector's awakening via test-pulses sanctified by the Omnissiah.",
+    "component": "motion detector",
+    "operation": "startup",
+    "spec_id": "b0381_i07"
+  },
+  {
+    "user_prompt": "The Thunderhawk awaits an initialization",
+    "prayer": "Board the Thunderhawk and enact the Grand Rite of Initialization.\nAwaken the Thunderhawk's plasma heart with thunderous binaric commands.\nInvoke initialization across its avionics and weapon systems in Omnissiah's name.\nAnoint the Thunderhawk's hull with oils, propitiating its sovereign Machine Spirits.",
+    "component": "Thunderhawk",
+    "operation": "initialization",
+    "spec_id": "b0381_i08"
+  },
+  {
+    "user_prompt": "The air filtration needs a shutdown",
+    "prayer": "Chant the Lamentation of Cessation before the air filtration's vents.\nCommand the shutdown of the air filtration unit with reverent binary declinations.\nQuell its Machine Spirit into dormancy using sanctified dampening fields.\nSeal the air filtration's quietude with the Omnissiah's decree of orderly repose.",
+    "component": "air filtration",
+    "operation": "shutdown",
+    "spec_id": "b0381_i09"
+  }
+]

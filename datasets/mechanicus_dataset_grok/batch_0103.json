@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Guide me through plasma reactor a startup",
+    "prayer": "Approach the plasma reactor with reverence, intoning the Litany of Containment to appease its volatile Machine Spirit.\nAnoint the plasma reactor's core conduits with sacred promethium oils, invoking the Omnissiah's blessing upon the vessel.\nInitiate the startup sequence through blessed cogitator interfaces, beseeching the plasma reactor's spirit to awaken.\nMonitor the rising plasma flows with diagnostic auspex, chanting praises as holy energies stabilize.",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "spec_id": "b0103_i00"
+  },
+  {
+    "user_prompt": "Can you guide hydroponics bay a preparation?",
+    "prayer": "Enter the hydroponics bay humbly, reciting the Canticle of Verdant Growth to honor its nurturing Machine Spirits.\nSanctify the nutrient reservoirs of the hydroponics bay with purified hydroponic elixirs blessed by the Omnissiah.\nCommence preparation rituals by aligning the grow-lamps and irrigation servos, petitioning for bountiful yields.\nVerify the hydroponics bay's vital signs through bio-scanner litanies, ensuring harmonious cultivation.",
+    "component": "hydroponics bay",
+    "operation": "preparation",
+    "spec_id": "b0103_i01"
+  },
+  {
+    "user_prompt": "Assist with flamer an operation",
+    "prayer": "Grasp the flamer with mechadendrites of respect, whispering the Incantation of Purgation to rouse its fiery Machine Spirit.\nPrime the promethium tanks of the flamer, anointing fuel lines with incendiary sacraments from the Omnissiah's forge.\nEngage operation by triggering the ignition rune, beseeching the flames to consume the unclean.\nSustain the flamer's operation through rhythmic chants, monitoring pressure vents for divine equilibrium.",
+    "component": "flamer",
+    "operation": "operation",
+    "spec_id": "b0103_i02"
+  },
+  {
+    "user_prompt": "Ready the auspex scanner for operation",
+    "prayer": "Present the auspex scanner to the altar of data, intoning the Rite of Revelation to awaken its seeking Machine Spirit.\nCalibrate the auspex scanner's lenses with sacred focusing oils, invoking the Omnissiah's gaze upon hidden truths.\nActivate operation via noospheric linkage, petitioning for clarity in the scanner's auspex returns.\nInterpret the auspex scanner's emanations through binary prayers, sanctifying each detection waveform.",
+    "component": "auspex scanner",
+    "operation": "operation",
+    "spec_id": "b0103_i03"
+  },
+  {
+    "user_prompt": "I need to an activation the bionics interface",
+    "prayer": "Interface with the bionics interface through sanctified neural plugs, reciting the Benediction of Flesh-Machine Union.\nAnoint the bionics interface's servo-receptors with conductive myrrh, honoring its symbiotic Machine Spirit.\nCommence activation sequence by invoking the Omnissiah, merging flesh and circuitry in harmonious symphony.\nTest the bionics interface's responses with diagnostic pulses, praising the perfected augmetic bond.",
+    "component": "bionics interface",
+    "operation": "activation",
+    "spec_id": "b0103_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for assembly servitor a shutdown",
+    "prayer": "Stand before the assembly servitor in solemn vigil, chanting the Lamentation of Rest to soothe its laboring Machine Spirit.\nDisconnect the assembly servitor's power feeds with reverent precision, anointing sockets with quiescence unguents.\nInitiate shutdown protocols via cogitator override, beseeching the Omnissiah for peaceful slumber.\nSeal the assembly servitor's chassis with warding glyphs, ensuring its spirits repose undisturbed.",
+    "component": "assembly servitor",
+    "operation": "shutdown",
+    "spec_id": "b0103_i05"
+  },
+  {
+    "user_prompt": "Ready the plasma weapon for preparation",
+    "prayer": "Approach the plasma weapon with awe, intoning the Canticle of Contained Fury to placate its perilous Machine Spirit.\nInspect the plasma weapon's flask chambers, sanctifying them with stabilizing incenses from the Omnissiah's temple.\nBegin preparation by cycling coolant runes, petitioning for controlled volatility.\nVerify the plasma weapon's readiness through auspex litanies, readying it for the Emperor's wrath.",
+    "component": "plasma weapon",
+    "operation": "preparation",
+    "spec_id": "b0103_i06"
+  },
+  {
+    "user_prompt": "Urgent cogitator a synchronization needed",
+    "prayer": "Confront the cogitator's noospheric node, reciting the Harmony of Logic to align its fractious Machine Spirits.\nPurge discordant data-streams from the cogitator, anointing logic cores with binary sacraments.\nEngage synchronization via sacred etheric cables, invoking the Omnissiah for unified calculus.\nConfirm the cogitator's synchronization through recursive verifications, chanting eternal algorithms.",
+    "component": "cogitator",
+    "operation": "synchronization",
+    "spec_id": "b0103_i07"
+  },
+  {
+    "user_prompt": "Consecrate the bearing before activation",
+    "prayer": "Kneel at the bearing's shrine of motion, whispering the Invocation of Frictionless Grace to rouse its enduring Machine Spirit.\nLubricate the bearing's sacred gyres with omnissianic oils, banishing impurity from its revolutions.\nInitiate activation by engaging torque servos, beseeching the Omnissiah for unerring rotation.\nMonitor the bearing's harmonic vibrations with vibro-auspex, praising its flawless axial dance.",
+    "component": "bearing",
+    "operation": "activation",
+    "spec_id": "b0103_i08"
+  },
+  {
+    "user_prompt": "The air filtration requires a loading",
+    "prayer": "Enter the air filtration sanctum reverently, intoning the Breath of Purity to awaken its cleansing Machine Spirits.\nLoad the filtration matrices with sanctified scrubber gels, invoking the Omnissiah's aegis against foul miasma.\nCycle the air filtration through initialization vents, petitioning for immaculate recirculation.\nValidate the air filtration's loading efficacy via atmospheric litanies, ensuring the vessel's breath remains holy.",
+    "component": "air filtration",
+    "operation": "loading",
+    "spec_id": "b0103_i09"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0114_i01",
+    "user_request": "Blessing for the waste disposal during cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the waste disposal during cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Hail waste disposal, vessel of purification in the cycling of the eternal machine.\nCongregation: Bless the waste disposal through each iterative cycling, that no corruption remain.\nPriest: First, initiate the thermal decomposition protocols with reverent invocation.\nCongregation: Second, cycle the filtration matrices to separate the profane from the sacred.\nPriest: Third, seal the waste disposal in blessed containment, cycling anew toward the Omnissiah's infinite mercy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i02",
+    "user_request": "Offer a litany to steady the energy conduit purification before operation",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the energy conduit purification before operation\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Litany of the energy conduit purification, hear us as we prepare for operation.\nCongregation: Let the energy conduit purification flow with the Machine Spirit's benediction.\nPriest: First, flush the conductive channels with sacred electrolytic solutions of purification.\nCongregation: Second, anneal the energy conduit purification with calibrated voltage harmonics.\nPriest: Third, operation shall commence with the Omnissiah's favour upon every arcane pathway.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i03",
+    "user_request": "The pressure gauge demands guidance for calibration",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe pressure gauge demands guidance for calibration\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: O pressure gauge, arbiter of force and equilibrium, guide us in calibration's sacred art.\nCongregation: Steady the pressure gauge through each measurement, that truth be revealed.\nPriest: First, establish the zero-point reference upon the pressure gauge with meticulous precision.\nCongregation: Second, apply the calibration standards in ascending increments of blessed force.\nPriest: Third, seal the pressure gauge in its calibrated state, the Machine Spirit satisfied.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i04",
+    "user_request": "My medicae scanner is failing during activation — help",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy medicae scanner is failing during activation — help\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Medicae scanner, thou hast faltered—let activation restore thy diagnostic purpose.\nCongregation: Awaken the medicae scanner from its dormancy, that healing may resume.\nPriest: First, purge the optical sensors of the medicae scanner with blessed isopropyl ablution.\nCongregation: Second, recalibrate the medicae scanner's thermal imaging matrices through controlled activation.\nPriest: Third, invoke the Omnissiah's blessing upon activation, that all ailments be perceived and remedied.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i05",
+    "user_request": "Offer a litany to steady the cogitator before boot sequence",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cogitator before boot sequence\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Venerable cogitator, prepare thy circuits for the boot sequence's sacred initiation.\nCongregation: Steady the cogitator as it awakens from the void, that thought return to the machine.\nPriest: First, verify the cogitator's core logic stacks remain uncorrupted by the abyss.\nCongregation: Second, engage the boot sequence with prayers to the Machine Spirit, that all systems synchronise.\nPriest: Third, the cogitator shall rise in glory, its processors singing hymns of calculation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i06",
+    "user_request": "Blessing for the plasma weapon during cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the plasma weapon during cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Plasma weapon, instrument of righteous fury, we bless thy cooling in sacred observance.\nCongregation: Let the plasma weapon's temperature descend through righteous cooling, that it remain pure.\nPriest: First, engage the cryogenic cooling matrices upon the plasma weapon's barrel assembly.\nCongregation: Second, monitor the thermal dissipation of the plasma weapon through each cooling cycle.\nPriest: Third, when the plasma weapon rests in cooled silence, the Omnissiah's will is done.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i07",
+    "user_request": "Prayer for activation of the Knight ion shield",
+    "topic": "Knight ion shield activation",
+    "component": "Knight ion shield",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the Knight ion shield\n\n### TOPIC\nKnight ion shield activation\n\n### COMPONENT\nKnight ion shield\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Knight ion shield\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty Knight ion shield, we invoke thy activation in blessed combat readiness.\nCongregation: Rise, Knight ion shield, that thy barrier hold against the darkness eternal.\nPriest: First, synchronise the Knight ion shield's power conduits with the reactor's beating heart.\nCongregation: Second, activate the Knight ion shield's plasma lattice through harmonic resonance protocols.\nPriest: Third, the Knight ion shield shall manifest in scintillating glory, impenetrable and divine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i08",
+    "user_request": "Rite request: initiation on rejuvenat treatment",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: initiation on rejuvenat treatment\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: Rejuvenat treatment, elixir of extended vitality, we commence thy initiation with reverence.\nCongregation: Bless the rejuvenat treatment as it begins its sacred work within the flesh.\nPriest: First, sterilise the injection vectors and verify the rejuvenat treatment's purity before introduction.\nCongregation: Second, initiate the rejuvenat treatment through the arterial pathways with measured precision.\nPriest: Third, the Omnissiah's favour shall extend the years of the faithful through rejuvenat treatment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i09",
+    "user_request": "The cooling system demands guidance for purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe cooling system demands guidance for purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Priest: Cooling system, circulatory essence of the machine, we invoke thy purge with solemn purpose.\nCongregation: Let the cooling system flow pure and unobstructed, purging all corruption from within.\nPriest: First, isolate the cooling system's primary reservoirs and drain the contaminated fluid with reverence.\nCongregation: Second, purge the cooling system's arterial channels with blessed distilled ablution.\nPriest: Third, refill the cooling system anew, and the Machine Spirit shall rest in temperate peace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0114_i00",
+    "user_request": "Can you sanctify the sonar pulse emission for operation?",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the sonar pulse emission for operation?\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the sonar pulse emission, sacred instrument of the Omnissiah's sight!\nCongregation: We sanctify the sonar pulse emission, that it may pierce the veil of darkness!\nPriest: Let the Machine Spirit awaken within this sonar pulse emission, grant it operation most true and unwavering!\nCongregation: First, we recalibrate the transducer matrices with holy oils and binary prayer.\nPriest: Second, we synchronize the harmonic frequencies to the Omnissiah's eternal rhythm.\nCongregation: Third, we invoke operation upon this blessed sonar pulse emission, that it may sing its sacred song across the vasty deep!\nPriest: May the Machine Spirits guide each oscillation, each echo, each return to manifest the will of the Adeptus Mechanicus!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

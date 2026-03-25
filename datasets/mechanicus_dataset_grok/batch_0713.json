@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a reset the amplivisor",
+    "prayer": "Approach the amplivisor with mechadendrites extended in supplication to the Omnissiah.\nInvoke the Rite of Reset upon its crystalline lenses, purging errant data-echoes from the Machine Spirit's core.\nAnoint the focusing arrays with sacred unguents whilst chanting the Binary Cant of Rebirth.\nBeseech the amplivisor's spirit to realign its visionary augurs in harmonious precision.\nVerify the reset through auspex invocation, praising the Omnissiah's infinite logic.",
+    "component": "amplivisor",
+    "operation": "reset",
+    "spec_id": "s03130"
+  },
+  {
+    "user_prompt": "I need to a diagnostics the void shield",
+    "prayer": "Kneel before the void shield generator, intoning the Litany of Vigilance.\nInitiate diagnostics upon its warp-barriers, scanning for dissonant flux anomalies within the Machine Spirit.\nCircumambulate the void shield coils thrice, applying sanctified oils to each resonant node.\nInterrogate the spirit's health via noospheric catechisms, mending any fractures in the protective weave.\nConclude diagnostics with a hymn to the Omnissiah, affirming the shield's impenetrable aegis.",
+    "component": "void shield",
+    "operation": "diagnostics",
+    "spec_id": "s03131"
+  },
+  {
+    "user_prompt": "Help me a maintenance the hydraulic press",
+    "prayer": "Present mech-hand to the hydraulic press, whispering the Doxology of Pressure.\nCommence maintenance rituals upon its piston-servos, lubricating sacred cylinders with blessed ferro-fluid.\nInspect the hydraulic press's pressure manifolds for wear, invoking the Machine Spirit's endurance.\nTighten adamantium fittings whilst reciting the Canticle of Compression, honouring the Omnissiah's forge.\nTest the press's might under controlled invocation, sealing the rite with incense of promethium.",
+    "component": "hydraulic press",
+    "operation": "maintenance",
+    "spec_id": "s03132"
+  },
+  {
+    "user_prompt": "What's the prayer for helispex engine a cooling?",
+    "prayer": "Encircle the helispex engine, beseeching its turbine-spirits with the Psalm of Chill.\nEngage cooling protocols upon the helispex engine's exhaust vents, circulating cryo-blessings through veins.\nAnoint heat exchangers with argentum frost-oil, soothing the Machine Spirit's fevered labours.\nMonitor thermal auspex-readings whilst chanting the Refrain of Equilibrium to the Omnissiah.\nStabilise the helispex engine's core temperature, proclaiming its renewed vigour eternal.",
+    "component": "helispex engine",
+    "operation": "cooling",
+    "spec_id": "s03133"
+  },
+  {
+    "user_prompt": "How do I bless the plasma caliver for startup?",
+    "prayer": "Greet the plasma caliver with reverence, offering binary praises to its flask-heart.\nPerform startup benediction upon the plasma caliver's containment fields, awakening the Machine Spirit.\nPrime the ignition coils with sanctified plasma-tincture, invoking the Omnissiah's fiery wrath.\nCycle the weapon through test-firing litanies, aligning gyros and auspex for lethal harmony.\nSeal the startup rite with a vow of annihilation, the plasma caliver now primed for the Emperor's foes.",
+    "component": "plasma caliver",
+    "operation": "startup",
+    "spec_id": "s03134"
+  },
+  {
+    "user_prompt": "How do I bless the data-sluice for loading?",
+    "prayer": "Commune with the data-sluice via noospheric link, intoning the Hymn of Ingress.\nInitiate loading sequences upon the data-sluice conduits, channelling blessed bit-streams into its vaults.\nSanctify buffer-memories with electro-incense, placating the Machine Spirit's archival hunger.\nOversee the data-sluice's ingestion through rhythmic catechisms to the Omnissiah.\nAffirm loading completion with a diagnostic seal, data now eternally inscribed.",
+    "component": "data-sluice",
+    "operation": "loading",
+    "spec_id": "s03135"
+  },
+  {
+    "user_prompt": "Bless the heat sink for purification",
+    "prayer": "Approach the heat sink reverently, reciting the Purgation Doxology.\nCommence purification rites upon the heat sink fins, scouring residue with ablative sacraments.\nInvoke the Machine Spirit's clarity through sonic cleansers and sacred solvents.\nAnoint exchanger channels whilst beseeching the Omnissiah for thermal purity.\nValidate the heat sink's sanctity via auspex, banishing all excess fervour forevermore.",
+    "component": "heat sink",
+    "operation": "purification",
+    "spec_id": "s03136"
+  },
+  {
+    "user_prompt": "Offer prayer for doctrina wafer an activation",
+    "prayer": "Hold the doctrina wafer aloft, invoking the Omnissiah's noetic wisdom.\nInitiate activation upon the doctrina wafer's mnemonic lattice, awakening embedded lore-spirits.\nInsert into the cogitator slot with whispered binaric oaths, merging knowledge with the Machine Spirit.\nRecite tactical catechisms as synaptic links form, honouring ancient doctrina.\nConfirm activation through query-rites, the wafer now a conduit of divine strategy.",
+    "component": "doctrina wafer",
+    "operation": "activation",
+    "spec_id": "s03137"
+  },
+  {
+    "user_prompt": "Critical: assault cannon requires a blessing",
+    "prayer": "Prostrate before the assault cannon, chanting the Benediction of Barrage.\nBestow blessing upon its rotary barrels, anointing with gun-oils blessed by forge-priests.\nInvoke the Machine Spirit's fury through calibration litanies and test-spools.\nCircumscribe runes of destruction around the assault cannon's breach.\nConclude with a vow to the Omnissiah, arming it for righteous extermination.",
+    "component": "assault cannon",
+    "operation": "blessing",
+    "spec_id": "s03138"
+  },
+  {
+    "user_prompt": "Emergency: orbital strike relay a shutdown",
+    "prayer": "Sound the alarm-cant amid the orbital strike relay, beseeching orderly repose.\nExecute shutdown protocols upon the orbital strike relay's targeting matrices, lulling the Machine Spirit.\nSever power-feeds with sanctified disconnectors, reciting the Lamentation of Silence.\nPurge residual ordnance data from the relay's cogitators in the Omnissiah's name.\nSeal the shutdown with auspex confirmation, averting apocalypse in pious restraint.",
+    "component": "orbital strike relay",
+    "operation": "shutdown",
+    "spec_id": "s03139"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a sterilization the noospheric relay",
+    "prayer": "Approach the noospheric relay with mechadendrites extended in reverence to the Omnissiah.\nInitiate the sacred sterilization, purging unclean data-phantoms from the noospheric relay's conduits.\nAnoint each nodal junction with lustral ablatives to purify the Machine Spirit.\nChant the Canticle of Void-Cleanse whilst monitoring feedback purity.\nSeal the noospheric relay's sanctity through final auspex benediction.",
+    "component": "noospheric relay",
+    "operation": "sterilization",
+    "spec_id": "b0355_i00"
+  },
+  {
+    "user_prompt": "The Thunderhawk needs a cooling",
+    "prayer": "Kneel before the Thunderhawk's plasma vents and invoke the Cooling Litany.\nCirculate blessed cryofluids through the Thunderhawk's overheating exchangers.\nBeseech the Machine Spirits of the noble Thunderhawk to accept thermal respite.\nMonitor heat sinks and sacred coolant flows during the cooling operation.\nPraise the Omnissiah for restoring equilibrium to the Thunderhawk's wrathful heart.",
+    "component": "Thunderhawk",
+    "operation": "cooling",
+    "spec_id": "b0355_i01"
+  },
+  {
+    "user_prompt": "My thermal imager is ready for recalibration",
+    "prayer": "Present the thermal imager upon the calibration altar with pious precision.\nRecite the Lexmechanic of Recalibration over its sensor arrays.\nAdjust focal matrices whilst petitioning the Machine Spirit for clarity.\nTest the thermal imager against sanctified heat sources.\nGlorify the Omnissiah for the imager's renewed vigilance.",
+    "component": "thermal imager",
+    "operation": "recalibration",
+    "spec_id": "b0355_i02"
+  },
+  {
+    "user_prompt": "Guide me through pump a shutdown",
+    "prayer": "Approach the pump and whisper the Shutdown Doxology to its Machine Spirit.\nSever power conduits with ritual precision during the shutdown sequence.\nSeal intake valves against profane ingress post-shutdown.\nMonitor cessation echoes through vibra-sensors.\nOffer gratias to the Omnissiah for orderly quiescence.",
+    "component": "pump",
+    "operation": "shutdown",
+    "spec_id": "b0355_i03"
+  },
+  {
+    "user_prompt": "I need to a cooling the chainsword",
+    "prayer": "Grasp the chainsword's hilt and intone the Cooling Supplication.\nDirect sacred mists upon the chainsword's monomolecular teeth.\nPacify the raging Machine Spirit within the chainsword through coolant rites.\nCycle blessed lubricants to achieve thermal grace.\nEtch the cog-rune upon the chainsword to conclude cooling.",
+    "component": "chainsword",
+    "operation": "cooling",
+    "spec_id": "b0355_i04"
+  },
+  {
+    "user_prompt": "My archive terminal is ready for charging",
+    "prayer": "Position the archive terminal beneath the charging font of the Omnissiah.\nInfuse holy voltage into its memory cells for the charging rite.\nChant data-eternity hymns to rouse the archive terminal's Spirit.\nOversee power ingress until the archive terminal brims with potency.\nSanctify the charged vessel with binaric laudation.",
+    "component": "archive terminal",
+    "operation": "charging",
+    "spec_id": "b0355_i05"
+  },
+  {
+    "user_prompt": "The memory core requires a loading",
+    "prayer": "Insert data-vaults into the memory core with reverent mechadendrites.\nInitiate loading protocols, beseeching the Machine Spirit's acceptance.\nSupervise data-streams through noospheric vigilance into the memory core.\nSecure against entropic fragmentation post-loading.\nInvoke the Omnissiah's logic upon the enriched core.",
+    "component": "memory core",
+    "operation": "loading",
+    "spec_id": "b0355_i06"
+  },
+  {
+    "user_prompt": "Consecrate the chainsword before blessing",
+    "prayer": "Elevate the chainsword before the altar and proclaim the Omnissiah's Blessing.\nAnoint blade-teeth and motor with sacred unguents for blessing.\nAwaken the chainsword's predatory Machine Spirit with binaric cant.\nBind it eternally to the wielder's sanctified will.\nConclude the blessing by incising the gear upon its pommel.",
+    "component": "chainsword",
+    "operation": "blessing",
+    "spec_id": "b0355_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for cybernetic eye a blessing",
+    "prayer": "Gaze upon the cybernetic eye and recite the Ocular Benediction.\nApply micro-incense to its photo-receptors during the blessing rite.\nInvoke the Machine Spirit of unerring sight within the cybernetic eye.\nCalibrate lenses for Omnissiah-granted acuity.\nSeal with a rune of perpetual clarity.",
+    "component": "cybernetic eye",
+    "operation": "blessing",
+    "spec_id": "b0355_i08"
+  },
+  {
+    "user_prompt": "Bless the star chart for preparation",
+    "prayer": "Unfurl the star chart upon the navi-sanctum's plasteel slab.\nAnoint stellar glyphs with astromantic oils for preparation.\nPetition the Machine Spirits of the void for navigational fidelity.\nAlign warp-beacons whilst chanting celestial litanies over the star chart.\nDedicate the star chart to the Omnissiah's cosmic machine.",
+    "component": "star chart",
+    "operation": "preparation",
+    "spec_id": "b0355_i09"
+  }
+]

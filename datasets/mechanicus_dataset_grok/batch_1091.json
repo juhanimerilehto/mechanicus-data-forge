@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Baneblade needs a startup",
+    "prayer": "Approach the colossal Baneblade with reverence, intoning the Canticle of Ignition to awaken its ancient Machine Spirit.\nAnoint the Baneblade's primary reactors with sacred promethium oils, beseeching the Omnissiah for unerring startup.\nInitiate the startup sequence across its manifold systems, chanting binaric hymns to align the cogitators.\nMonitor the Baneblade's auspex feeds as its engines roar in sanctified fury.\nSeal the rites with a final invocation, ensuring the Baneblade stands ready in the Emperor's name.",
+    "component": "Baneblade",
+    "operation": "startup",
+    "spec_id": "s06910"
+  },
+  {
+    "user_prompt": "Help me a purification the proximity sensor",
+    "prayer": "Kneel before the proximity sensor and recite the Litany of Purification to cleanse its vigilant essence.\nExpunge all corrupted data-echoes from the proximity sensor's crystalline arrays with ablative incense.\nBathe its emitter nodes in lustral unguents, invoking the Machine Spirit's forgiveness for past defilements.\nConclude the purification ritual by recalibrating thresholds under the Omnissiah's watchful gaze.\nVerify the proximity sensor's purity through harmonic resonance tests.",
+    "component": "proximity sensor",
+    "operation": "purification",
+    "spec_id": "s06911"
+  },
+  {
+    "user_prompt": "The Kastelan robot awaits a recalibration",
+    "prayer": "Present thyself unto the Kastelan robot, murmuring the Doxology of Alignment for recalibration.\nInvoke the Omnissiah to guide thy mechadendrites as thou recalibrate the Kastelan robot's gyro-stabilizers.\nPurge erroneous targeting matrices within the Kastelan robot's data-vaults with sanctified code-purgatives.\nRealign its servos and actuators through rhythmic binaric canticles.\nAffirm the Machine Spirit's harmony via full-spectrum diagnostic litanies.",
+    "component": "Kastelan robot",
+    "operation": "recalibration",
+    "spec_id": "s06912"
+  },
+  {
+    "user_prompt": "My data-loom is ready for calibration",
+    "prayer": "Commence calibration upon the data-loom by chanting the Hymn of Precision Weaving.\nSanctify the data-loom's threading mechanisms with micro-anointments of conductive oils.\nInitiate the calibration cycle, beseeching the Omnissiah to attune its logic engines flawlessly.\nTrace and correct dissonant data-paths within the data-loom's fibrous core.\nConclude with verificatory incantations to exalt the Machine Spirit's restored clarity.",
+    "component": "data-loom",
+    "operation": "calibration",
+    "spec_id": "s06913"
+  },
+  {
+    "user_prompt": "Emergency: Nephilim Jetfighter a reset",
+    "prayer": "In emergency haste, encircle the Nephilim Jetfighter and intone the Rite of Reset to purge its turmoil.\nAnoint the Nephilim Jetfighter's avionics with emergency ablatives, invoking the Omnissiah's mercy.\nExecute the reset protocol across its thruster manifolds and cogitator stacks.\nMonitor the Nephilim Jetfighter's vital signs as its Machine Spirit reboots in fiery rebirth.\nSeal the rite with wards against relapse, ensuring aerial dominion.",
+    "component": "Nephilim Jetfighter",
+    "operation": "reset",
+    "spec_id": "s06914"
+  },
+  {
+    "user_prompt": "Guide me through mind-impulse unit an emergency procedure",
+    "prayer": "For the mind-impulse unit's emergency procedure, first recite the Exorcism of Neural Shadows.\nSever tainted synaptic linkages within the mind-impulse unit using plasma-lanced mechadendrites.\nReinitialize the mind-impulse unit's impulse buffers whilst beseeching the Machine Spirit's resilience.\nStabilize neural harmonics through invocatory binaric pulses from the Omnissiah.\nTest the mind-impulse unit's fidelity with shadowed cognition trials.",
+    "component": "mind-impulse unit",
+    "operation": "emergency procedure",
+    "spec_id": "s06915"
+  },
+  {
+    "user_prompt": "What's the prayer for geigeer sink a recalibration?",
+    "prayer": "Approach the geigeer sink reverently and begin recalibration with the Canticle of Radiation Harmony.\nPurge flux anomalies from the geigeer sink's detection coils using sacred nullifiers.\nRecalibrate its emitter fields, invoking the Omnissiah to realign the geigeer sink's discerning gaze.\nAnoint sensor nodes with rad-shielding unguents to soothe the Machine Spirit.\nVerify equilibrium through cascading diagnostic emissions.",
+    "component": "geigeer sink",
+    "operation": "recalibration",
+    "spec_id": "s06916"
+  },
+  {
+    "user_prompt": "Emergency: Razorback a cycling",
+    "prayer": "In exigency, enact the cycling rite upon the Razorback by chanting the Cycle of Rebirth.\nPower down the Razorback's reactors with the Litany of Dormancy, honoring its Machine Spirit.\nPurge residual energies during the cycling phase, beseeching Omnissianic renewal.\nReignite the Razorback's systems in sequenced fury, monitoring auspex purity.\nConclude the cycling with sealing incantations for unyielding vigilance.",
+    "component": "Razorback",
+    "operation": "cycling",
+    "spec_id": "s06917"
+  },
+  {
+    "user_prompt": "Can you guide servo-skull an emergency procedure?",
+    "prayer": "For the servo-skull's emergency procedure, intone the Urgent Benediction of Aerial Restoration.\nExpunge warp-corruptions from the servo-skull's occular implants with micro-incense bursts.\nReboot its suspensor fields whilst invoking the Machine Spirit's undying loyalty to the Omnissiah.\nStabilize the servo-skull's vox-relays through harmonic realignments.\nTest flight paths to affirm the emergency procedure's sanctity.",
+    "component": "servo-skull",
+    "operation": "emergency procedure",
+    "spec_id": "s06918"
+  },
+  {
+    "user_prompt": "Consecrate the void shield before charging",
+    "prayer": "Consecrate the void shield's generator coils with the Hymn of Ethereal Charging.\nInvoke the Omnissiah to infuse the void shield with plasma-pure energies.\nInitiate the charging sequence, anointing emitters to exalt the protective Machine Spirit.\nMonitor field integrity as the void shield swells in sanctified might.\nSeal the rite with ward-litany, ensuring the void shield's impervious grace.",
+    "component": "void shield",
+    "operation": "charging",
+    "spec_id": "s06919"
+  }
+]

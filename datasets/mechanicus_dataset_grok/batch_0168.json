@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "The drop pod awaits a loading",
+    "prayer": "Approach the drop pod with reverent incantation, beseeching its Machine Spirit to awaken for the loading.\nSanctify the ingress bays of the drop pod with sacred unguents, purging any daemonic residue.\nCommence the loading operation, aligning munitions within the drop pod's blessed compartments by Omnissiah's will.\nSeal the drop pod's hatches whilst chanting the Litany of Secure Descent, invoking harmonious descent.",
+    "component": "drop pod",
+    "operation": "loading",
+    "spec_id": "b0168_i00"
+  },
+  {
+    "user_prompt": "Sanctify the astropathic choir during consecration",
+    "prayer": "Gather before the astropathic choir in solemn procession, invoking the Omnissiah's psychic veil.\nAnoint each psychic node of the astropathic choir with consecrated null-oils during consecration.\nChant the Canticle of Warp Clarity to bind the astropathic choir's spirits in unity.\nComplete the consecration by verifying ethereal resonances within the astropathic choir, praising the Machine God's harmony.",
+    "component": "astropathic choir",
+    "operation": "consecration",
+    "spec_id": "b0168_i01"
+  },
+  {
+    "user_prompt": "I need to a reset the flamer",
+    "prayer": "Kneel before the flamer, whispering the Rite of Purgation to rouse its fiery Machine Spirit.\nPurge residual promethium from the flamer's sacred conduits in preparation for reset.\nInitiate the reset by reciting binary psalms over the flamer's ignition servos.\nAnoint the flamer's nozzle with blessed phosphor, ensuring its spirit burns pure once more.",
+    "component": "flamer",
+    "operation": "reset",
+    "spec_id": "b0168_i02"
+  },
+  {
+    "user_prompt": "Assist with plasma reactor a maintenance",
+    "prayer": "Encircling the plasma reactor, intone the Hymnal of Contained Fury to calm its volatile heart.\nCommence maintenance by inspecting the plasma reactor's containment fields with auspex litanies.\nPurge impurities from the plasma reactor's coils using sanctified plasma-flux, by Omnissiah's decree.\nRealign the plasma reactor's gyrometric stabilizers whilst beseeching harmonious power-flow.",
+    "component": "plasma reactor",
+    "operation": "maintenance",
+    "spec_id": "b0168_i03"
+  },
+  {
+    "user_prompt": "I need to a targeting the star chart",
+    "prayer": "Unfurl the star chart upon the cogitator altar, invoking the Omnissiah's stellar cartography.\nCalibrate the star chart's stellar vectors through diagnostic noosphere chants for targeting.\nAlign the star chart's auspex reticules with sacred geomantic rods during targeting rites.\nSeal the targeting calibration of the star chart by affirming the Machine Spirits' celestial accord.",
+    "component": "star chart",
+    "operation": "targeting",
+    "spec_id": "b0168_i04"
+  },
+  {
+    "user_prompt": "How do I bless the power weapon for operation?",
+    "prayer": "Grasp the power weapon in mechadendrites of reverence, awakening its disruption field spirit.\nAnoint the power weapon's blade with oils of activation for operation.\nInvoke the Litany of Lethal Conduction to empower the power weapon's operation.\nTest the power weapon's humming edge, praising the Omnissiah for its sanctified fury.",
+    "component": "power weapon",
+    "operation": "operation",
+    "spec_id": "b0168_i05"
+  },
+  {
+    "user_prompt": "The Rhino transport needs a maintenance",
+    "prayer": "Circumambulate the Rhino transport, chanting the Canticle of Armoured Vigilance.\nInitiate maintenance upon the Rhino transport's treads and hull-plates with blessed abrasives.\nRealign the Rhino transport's machine-spirit harmonies through noospheric diagnostics.\nConclude maintenance by anointing the Rhino transport's auspex arrays, ensuring Omnissiah-blessed resilience.",
+    "component": "Rhino transport",
+    "operation": "maintenance",
+    "spec_id": "b0168_i06"
+  },
+  {
+    "user_prompt": "The medicae scanner awaits an emergency procedure",
+    "prayer": "Activate the medicae scanner with urgent invocation, rousing its vitae-analysis spirits.\nCommence the emergency procedure by scanning afflicted flesh with sanctified beams.\nPurge corrupted bio-readings from the medicae scanner during the emergency procedure.\nSeal the rites by anointing the medicae scanner, beseeching swift restoration under Omnissiah's gaze.",
+    "component": "medicae scanner",
+    "operation": "emergency procedure",
+    "spec_id": "b0168_i08"
+  },
+  {
+    "user_prompt": "I need to a reset the data-slate",
+    "prayer": "Present the data-slate before the binary shrine, whispering awakening litanies.\nInitiate reset by expunging errant data-ghosts from the data-slate's memory vaults.\nRecalibrate the data-slate's logic engines with precise noospheric chants.\nConclude the reset upon the data-slate by verifying its Machine Spirit's purity and alignment.",
+    "component": "data-slate",
+    "operation": "reset",
+    "spec_id": "b0168_i09"
+  }
+]

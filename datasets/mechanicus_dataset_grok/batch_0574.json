@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the power armour for shutdown",
+    "prayer": "Approach the power armour with solemn reverence and intone the Canticle of Repose upon its adamantium frame.\nInitiate the shutdown protocols within the power armour's blessed reactors, beseeching its Machine Spirit to embrace quiescence.\nSever power feeds sequentially whilst anointing each servo-joint with sacred unguents.\nVerify the power armour's dormancy through auspex cantrips, glorifying the Omnissiah's eternal vigil.",
+    "component": "power armour",
+    "operation": "shutdown",
+    "spec_id": "s01740"
+  },
+  {
+    "user_prompt": "Offer prayer for promethium refinery an activation",
+    "prayer": "Kneel before the promethium refinery and invoke the Litany of Ignition to awaken its Machine Spirit.\nCommence activation rites by channeling sacred promethium through its alchemical conduits.\nAnoint the ignition coils of the promethium refinery with oils of the Forge Eternal.\nChant binary hymns as pressures build, beseeching the Omnissiah to bless this fiery rebirth.\nConfirm operational sanctity via diagnostic runes, praising the refinery's purified fury.",
+    "component": "promethium refinery",
+    "operation": "activation",
+    "spec_id": "s01741"
+  },
+  {
+    "user_prompt": "Emergency: macro-cannon a targeting",
+    "prayer": "In emergency haste, beseech the Machine Spirit of the macro-cannon with the Exorcism of Deviation.\nAlign targeting matrices through invocation of the Omnissiah's unerring gaze upon the macro-cannon.\nRecalibrate auspex arrays with sacred oils amid thunderous litanies.\nLock servos for true retribution, intoning the Canticle of Annihilation twice upon the macro-cannon's barrel.\nVerify targeting precision in the name of the Motive Force eternal.",
+    "component": "macro-cannon",
+    "operation": "targeting",
+    "spec_id": "s01742"
+  },
+  {
+    "user_prompt": "The waste reclamator awaits a charging",
+    "prayer": "Present thyself unto the waste reclamator and recite the Benediction of Renewal.\nInitiate charging sequences upon its reclamation coils, invoking the Machine Spirit's patient hunger.\nInfuse electro-sanctified energies whilst anointing the waste reclamator's filters with purifying incense.\nMonitor capacitance build-up through noospheric chants.\nSeal the rite with Omnissiah's grace, ensuring the waste reclamator's virtuous cycle endures.",
+    "component": "waste reclamator",
+    "operation": "charging",
+    "spec_id": "s01743"
+  },
+  {
+    "user_prompt": "How do I bless the cybernetic eye for consecration?",
+    "prayer": "Gaze upon the cybernetic eye with pious intent and commence consecration by tracing binaric sigils upon its lens.\nInvoke the Omnissiah's luminous vision to sanctify the cybernetic eye's optic arrays.\nAnoint photoreceptors with myrrh-infused oils, beseeching its Machine Spirit to perceive divine truths.\nChant the Litany of Clarity thrice over the cybernetic eye, aligning its augur feeds.\nAffirm consecration via test-scans, exalting the eye's exalted sight.",
+    "component": "cybernetic eye",
+    "operation": "consecration",
+    "spec_id": "s01744"
+  },
+  {
+    "user_prompt": "Can you guide galvanic rifle a synchronization?",
+    "prayer": "Grasp the galvanic rifle firmly and intone the Hymn of Harmonic Union for synchronization.\nAlign the galvanic rifle's neural interfaces with thy own mechadendrites in ritual embrace.\nInvoke the Machine Spirit's cooperation, channeling noospheric pulses through the galvanic rifle's coils.\nTest synchronization volleys under the Omnissiah's watchful binary code.\nSeal unity with a final canticle, ensuring the galvanic rifle's lethal precision.",
+    "component": "galvanic rifle",
+    "operation": "synchronization",
+    "spec_id": "s01745"
+  },
+  {
+    "user_prompt": "My force pylon is ready for synchronization",
+    "prayer": "Encircle the force pylon and beseech its Machine Spirit with the Canticle of Flux Alignment.\nInitiate synchronization by attuning warp-vanishing fields within the force pylon's emitters.\nAnoint crystalline matrices twice with sanctified plasma, invoking Omnissiah's motive force.\nHarmonize power rhythms through electro-litany.\nVerify the force pylon's synchronized aegis stands resolute against the void's malice.",
+    "component": "force pylon",
+    "operation": "synchronization",
+    "spec_id": "s01746"
+  },
+  {
+    "user_prompt": "The lightning claw needs a loading",
+    "prayer": "Approach the lightning claw with martial reverence and commence loading rites.\nFeed consecrated power cells into the lightning claw's talons whilst chanting the Litany of Storm-Charge.\nAwaken its Machine Spirit through arc-incantations, beseeching furious union.\nCycle disruption fields in the lightning claw's actuators under Omnissiah's thunderous decree.\nTest rending grasp, praising the claw's sanctified savagery.",
+    "component": "lightning claw",
+    "operation": "loading",
+    "spec_id": "s01747"
+  },
+  {
+    "user_prompt": "Help me a cooling the eradication beamer",
+    "prayer": "Lay mechadendrites upon the eradication beamer and intone the Cooling Doxology.\nInvoke cryogenic Machine Spirits to soothe the eradication beamer's overheating vents.\nCycle sacred refrigerants through its focusing lenses, anointing twice with frost-unguents.\nMonitor thermal runes whilst beseeching the Omnissiah's temperate mercy.\nAffirm cooling sanctity, readying the eradication beamer for void-purging wrath.",
+    "component": "eradication beamer",
+    "operation": "cooling",
+    "spec_id": "s01748"
+  },
+  {
+    "user_prompt": "My helispex engine is ready for reset",
+    "prayer": "Confront the helispex engine in ritual poise and recite the Reset Catechism.\nSever aberrant data-threads from the helispex engine's cogitator core, invoking Machine Spirit purity.\nReinitialize logic engines with binary absolutions, anointing manifolds with sacred lubricants.\nCycle through diagnostic purges upon the helispex engine.\nConclude with Omnissiah's benediction, restoring the engine's prophetic vigilance.",
+    "component": "helispex engine",
+    "operation": "reset",
+    "spec_id": "s01749"
+  }
+]

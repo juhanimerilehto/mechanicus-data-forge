@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0067_i00",
+    "user_request": "Rite request: startup on plasma reactor",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: startup on plasma reactor\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Blessed be the plasma reactor, vessel of stellar fury and sacred combustion.\nFirst: Genuflect before the plasma reactor and intone the Litany of Ignition thrice.\nSecond: Verify coolant channels within the plasma reactor with sacred diagnostics and blessed chrono-sensors.\nThird: Invoke startup protocols whilst anointing the primary coupling with sanctified unguents, that the Machine Spirit may awaken.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i01",
+    "user_request": "The diesel engine demands guidance for startup",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe diesel engine demands guidance for startup\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "Hark to the diesel engine, mechanical heart of temporal power and piston-driven devotion.\nFirst: Anoint the diesel engine with blessed promethium and recite the Canticle of Combustion.\nSecond: Inspect fuel injectors and compression chambers of the diesel engine with meticulous reverence.\nThird: Commence startup sequence whilst the Omnissiah watches, that ignition may bloom eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i02",
+    "user_request": "Prayer for activation of the emergency beacon",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the emergency beacon\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "Sanctify the emergency beacon, herald of deliverance and luminous supplication.\nFirst: Clear obstructions from the emergency beacon's transmission aperture with reverent precision.\nSecond: Calibrate the emergency beacon's vox-emitter to the sacred frequencies of salvation.\nThird: Initiate activation whilst invoking the Omnissiah's protection, that distress calls may traverse the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i03",
+    "user_request": "Prayer for link establishment of the noospheric",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for link establishment of the noospheric\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Blessed be the noospheric, bridge of consciousness and psychic communion eternal.\nFirst: Purge corrupted data-lattices from the noospheric via blessed data-purge algorithms.\nSecond: Attune mental faculties to the noospheric's resonance frequency through meditation and psychic focussing.\nThird: Execute link establishment protocols whilst the Machine Spirit guides thy consciousness, that communion may be achieved.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i04",
+    "user_request": "Prayer for containment check of the fusion core",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for containment check of the fusion core\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Hark to the fusion core, crucible of atomic benediction and thermonuclear grace.\nFirst: Verify magnetic containment fields surrounding the fusion core remain sanctified and unbroken.\nSecond: Monitor thermal thresholds within the fusion core using blessed cogitator-arrays and servo-monitors.\nThird: Perform containment check rites whilst chanting prayers to the Omnissiah, ensuring no breach threatens the Machine's sanctity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i05",
+    "user_request": "Blessing for the emergency shutdown during emergency shutdown",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the emergency shutdown during emergency shutdown\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "Blessed be the emergency shutdown, mercy of the Omnissiah in dire necessity.\nFirst: Silence all secondary systems and invoke the Canticle of Cessation upon the emergency shutdown.\nSecond: Activate redundant fail-safes within the emergency shutdown mechanism with trembling fingers.\nThird: Execute the emergency shutdown with final prayers, that all power may cease and safety be restored to the Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i06",
+    "user_request": "Can you sanctify the logic engine for error correction?",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the logic engine for error correction?\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Sanctify the logic engine, seat of reason and mathematical purity sublime.\nFirst: Identify corrupted subroutines within the logic engine using blessed diagnostic protocols and hallowed analysis.\nSecond: Cleanse the logic engine's memory matrices through sacred data-excision and blessed restoration sequences.\nThird: Initiate error correction upon the logic engine whilst whispering prayers of clarity, that truth may reign eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i07",
+    "user_request": "Prayer for firing rite of the bolter",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for firing rite of the bolter\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "Blessed be the bolter, instrument of righteous vengeance and thunderous benediction.\nFirst: Genuflect before the bolter and recite the Litany of Ballistic Fury with sacred devotion.\nSecond: Verify ammunition feeds and firing mechanisms within the bolter's blessed mechanisms with reverent inspection.\nThird: Invoke the firing rite upon the bolter whilst channeling the Omnissiah's wrath, that death may be delivered swift.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i08",
+    "user_request": "Emergency rite: power cell requires recharging",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: power cell requires recharging\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "Hark to the power cell, reservoir of blessed energy and luminous vitality.\nFirst: Disconnect the power cell from all systems with careful reverence and blessed precautions.\nSecond: Position the power cell within the sacred recharging apparatus whilst chanting the Canticle of Restoration.\nThird: Initiate recharging protocols upon the power cell, that its essence may be replenished and strength restored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0067_i09",
+    "user_request": "Prayer for display calibration of the hololithic",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for display calibration of the hololithic\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Sanctify the hololithic, window upon distant realms and luminous revelation.\nFirst: Cleanse the hololithic's optical surfaces with blessed unguents and sacred cloth of finest weave.\nSecond: Adjust projection matrices within the hololithic using blessed calibration instruments and hallowed measurement.\nThird: Execute display calibration upon the hololithic whilst invoking the Omnissiah's clarity, that visions true may manifest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

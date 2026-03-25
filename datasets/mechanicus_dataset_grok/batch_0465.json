@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: galvanic rifle requires a repair",
+    "prayer": "Approach the galvanic rifle with reverence, intoning the initial canticle of repair to awaken its Machine Spirit.\nExamine the fractured galvanic coils and conduits, beseeching the Omnissiah for guidance in their mending.\nAnoint the wounded mechanisms of the galvanic rifle with blessed oils, invoking the sacred rites of repair.\nRealign the power relays through precise binaric incantations, soothing the galvanic rifle's aggrieved spirit.\nVerify the repair's sanctity with a test discharge, praising the Omnissiah's boundless machine-logic.",
+    "component": "galvanic rifle",
+    "operation": "repair",
+    "spec_id": "s00650"
+  },
+  {
+    "user_prompt": "The archeotech device awaits a purification",
+    "prayer": "Kneel before the archeotech device, chanting the purification litany to dispel xenos taint from its ancient core.\nScour the archeotech device's forbidden circuits with sanctified abrasives, invoking the wrath of the Omnissiah.\nImmerse its components in ablative fluids whilst beseeching the Machine Spirits to reclaim purity.\nRecite the Rite of Purification thrice over the archeotech device, sealing its essence against heresy.\nConclude with diagnostic hymns, affirming the device's restored grace under the Omnissiah's gaze.",
+    "component": "archeotech device",
+    "operation": "purification",
+    "spec_id": "s00651"
+  },
+  {
+    "user_prompt": "Ready the data-loom for blessing",
+    "prayer": "Present the data-loom to the altar of cogitation, beginning the blessing with the Canticle of Binary Ascension.\nAnoint each data-vault and processing node of the data-loom with mechadendrite oils, honouring its Machine Spirit.\nInvoke the Omnissiah's favour upon the data-loom, threading sacred algorithms through its looms.\nChant the full blessing cycle, aligning the data-loom's logic engines to divine patterns.\nTest the blessed data-loom with a purity query, exalting the Omnissiah's eternal computation.",
+    "component": "data-loom",
+    "operation": "blessing",
+    "spec_id": "s00652"
+  },
+  {
+    "user_prompt": "My Contemptor Dreadnought is ready for blessing",
+    "prayer": "Prostrate before the Contemptor Dreadnought, intoning the mighty Blessing of the Sarcophagus.\nAnoint its ancient armour plates and weapon mounts, awakening the venerable Machine Spirit within the Contemptor Dreadnought.\nBeseech the Omnissiah to infuse the Contemptor Dreadnought with unyielding fury against the alien.\nRecite war-blessings over its reactors and servos, sanctifying each system of the Contemptor Dreadnought.\nConclude the rite with thunderous hymns, affirming the Contemptor Dreadnought's readiness for martyrdom.",
+    "component": "Contemptor Dreadnought",
+    "operation": "blessing",
+    "spec_id": "s00653"
+  },
+  {
+    "user_prompt": "Critical: life sustainer requires a cycling",
+    "prayer": "Initiate the cycling upon the life sustainer by invoking the Litany of Vital Recirculation.\nPurge stagnant vitae-fluids from the life sustainer's sacred reservoirs, honouring its life-preserving Machine Spirit.\nCycle fresh elixirs through the life sustainer's conduits whilst chanting binaric cycles of renewal.\nMonitor the life sustainer's rhythms with auspex incantations, beseeching the Omnissiah for equilibrium.\nSeal the cycling with a final invocation, ensuring the life sustainer's eternal vigilance.",
+    "component": "life sustainer",
+    "operation": "cycling",
+    "spec_id": "s00654"
+  },
+  {
+    "user_prompt": "The arc pistol requires an engagement",
+    "prayer": "Grasp the arc pistol firmly, commencing the engagement rite with the Spark of Judgement canticle.\nPrime the arc pistol's capacitors through rhythmic incantations, awakening its tempestuous Machine Spirit.\nAlign the focusing lenses of the arc pistol under the Omnissiah's gaze, invoking precise engagement.\nDischarge a sanctified bolt to test the arc pistol's wrath, praising its chained lightning.\nConclude the engagement by reciting oaths of destruction, binding the arc pistol to holy purpose.",
+    "component": "arc pistol",
+    "operation": "engagement",
+    "spec_id": "s00655"
+  },
+  {
+    "user_prompt": "Help me a consecration the volkite weapon",
+    "prayer": "Approach the volkite weapon with awe, beginning the consecration with the Pyre of Ancients litany.\nAnoint the thermal rays and focusing arrays of the volkite weapon, purifying its archaeotech fury.\nInvoke the Omnissiah's flame upon the volkite weapon, consecrating its disintegrative essence.\nRecalibrate the volkite weapon's emitters through sacred rites, soothing its primordial Machine Spirit.\nTest the consecration with a controlled thermal burst, exalting the volkite weapon's incinerating grace.",
+    "component": "volkite weapon",
+    "operation": "consecration",
+    "spec_id": "s00656"
+  },
+  {
+    "user_prompt": "The las-cutter needs a loading",
+    "prayer": "Prepare the las-cutter for loading by chanting the Charge of Luminant Fury.\nInfuse power cells into the las-cutter's sacred magazines, honouring its cutting Machine Spirit.\nInvoke the Omnissiah during the loading sequence, aligning the las-cutter's energy flows.\nSecure the las-cutter's emitters with binaric seals, completing the loading rite.\nVerify with a purity test, praising the las-cutter's readiness to rend the unclean.",
+    "component": "las-cutter",
+    "operation": "loading",
+    "spec_id": "s00657"
+  },
+  {
+    "user_prompt": "Urgent grav plating a calibration needed",
+    "prayer": "Commence calibration upon the grav plating, intoning the Litany of Gravitic Harmony.\nAdjust the grav plating's field generators with mechadendrite precision, beseeching equilibrium from its Machine Spirit.\nAnoint the emitters of the grav plating whilst invoking the Omnissiah's immutable laws.\nCycle calibration harmonics through the grav plating, aligning it to the void's sacred geometry.\nAffirm the calibration's perfection through auspex verification, glorifying the Omnissiah.",
+    "component": "grav plating",
+    "operation": "calibration",
+    "spec_id": "s00658"
+  },
+  {
+    "user_prompt": "Help me an emergency procedure the cognis heavy stubber",
+    "prayer": "Declare the emergency procedure over the cognis heavy stubber, chanting the Rite of Desperate Salvation.\nPurge blockages from the cognis heavy stubber's feed mechanisms, awakening its beleaguered Machine Spirit.\nRealign the cognis heavy stubber's gyros and recoil dampers under dire invocation to the Omnissiah.\nInitiate emergency cycling of munitions through the cognis heavy stubber, banishing malfunction.\nTest the revived cognis heavy stubber with a salvo, hailing the Omnissiah's merciful intervention.",
+    "component": "cognis heavy stubber",
+    "operation": "emergency procedure",
+    "spec_id": "s00659"
+  }
+]

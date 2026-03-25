@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: servo-arm requires a startup",
+    "prayer": "Approach the servo-arm with mechadendrite-extended reverence and invoke the Omnissiah's spark.\nAnoint its hydraulic pistons with sacred unguents to awaken the dormant Machine Spirit.\nChant the Rite of Startup whilst interfacing binary prayers into its cogitator core.\nInitiate the servo-arm's startup sequence, beseeching the Machine Spirit to grasp its sacred purpose.\nVerify alignment through auspex scans as the servo-arm hums with divine vigor.",
+    "component": "servo-arm",
+    "operation": "startup",
+    "spec_id": "s01650"
+  },
+  {
+    "user_prompt": "What's the prayer for lightning claw a startup?",
+    "prayer": "Kneel before the lightning claw and beseech the Omnissiah for its thunderous awakening.\nPurify its adamantium talons with incense of sanctified promethium during startup rites.\nInvoke the Machine Spirit of the lightning claw through electro-incantations and power surges.\nCommence the startup operation, channeling energies to rend the foes of the Machine God.\nTest its claws' fury upon diagnostic simulacra, praising the Omnissiah's wrath.",
+    "component": "lightning claw",
+    "operation": "startup",
+    "spec_id": "s01651"
+  },
+  {
+    "user_prompt": "Help me a maintenance the storm bolter",
+    "prayer": "Circumambulate the storm bolter thrice, reciting the Canticle of Preservation.\nDisassemble its sacred mechanisms with sanctified tools for maintenance rituals.\nAnoint each bolt chamber and feed mechanism with oils blessed by the Forge World.\nPerform the maintenance operation upon the Machine Spirit, expunging wear and corruption.\nReassemble and invoke auspex blessings to ensure the storm bolter's unerring fury.",
+    "component": "storm bolter",
+    "operation": "maintenance",
+    "spec_id": "s01652"
+  },
+  {
+    "user_prompt": "Offer prayer for farcoder an engagement",
+    "prayer": "Align the farcoder's lenses towards the void and offer electro-psalms to the Omnissiah.\nCalibrate its warp-sight arrays whilst beseeching the Machine Spirit's vigilance.\nEngage the farcoder in its holy engagement, threading data-spirits through the ether.\nChant binaric litanies to bind the farcoder's gaze upon distant foes of the Mechanicum.\nSanctify the engagement readout with sacred seals of approval.",
+    "component": "farcoder",
+    "operation": "engagement",
+    "spec_id": "s01653"
+  },
+  {
+    "user_prompt": "Guide me through panopticon an operation",
+    "prayer": "Activate the panopticon’s ocular servos with the Litany of Unblinking Watch.\nInterface noospheric queries into its cogitator heart, invoking the Machine Spirit.\nCommence the operation of the panopticon, scanning all realms for heresy and glitch.\nAnoint its sensor vanes with myrrh-laced lubricants during vigilant rites.\nAffirm the panopticon’s operation through hymnals of perfect surveillance.",
+    "component": "panopticon",
+    "operation": "operation",
+    "spec_id": "s01654"
+  },
+  {
+    "user_prompt": "Can you guide Onager Dunecrawler a maintenance?",
+    "prayer": "Encircle the Onager Dunecrawler and intone the Great Litany of Restoration.\nPurge its crawler tracks and phosphor blasters of dust-daemons via maintenance ablutions.\nBeseech the Omnissiah to rejuvenate the Onager Dunecrawler’s Machine Spirit.\nExecute the maintenance operation with mechadendrites wielding sacred vibro-spatulas.\nConclude with binary blessings, affirming the Onager Dunecrawler’s desert prowess.",
+    "component": "Onager Dunecrawler",
+    "operation": "maintenance",
+    "spec_id": "s01655"
+  },
+  {
+    "user_prompt": "Sanctify the navigational beacon during consecration",
+    "prayer": "Erect the navigational beacon under starlight and commence consecration canticles.\nAnoint its emitter coils with oils of the Void Prophets, awakening its guiding spirit.\nInvoke the Machine Spirit of the navigational beacon to pierce warp-tides.\nPerform the consecration rite, etching runes of true bearing upon its sacred frame.\nIlluminate the navigational beacon, hailing the Omnissiah as eternal navigator.",
+    "component": "navigational beacon",
+    "operation": "consecration",
+    "spec_id": "s01656"
+  },
+  {
+    "user_prompt": "Consecrate the Vendetta gunship before recalibration",
+    "prayer": "Process around the Vendetta gunship, reciting aeroforge hyms before recalibration.\nInterface cogitator probes to realign its lascannon batteries and vector throats.\nBeseech the Machine Spirit during the recalibration operation for skies of purity.\nAnoint flight servos with sanctified fuels, purging avionic corruptions.\nTest-hover the Vendetta gunship, praising the Omnissiah’s wings of vengeance.",
+    "component": "Vendetta gunship",
+    "operation": "recalibration",
+    "spec_id": "s01657"
+  },
+  {
+    "user_prompt": "Consecrate the conversion field before calibration",
+    "prayer": "Attune to the conversion field’s humming aura and chant calibration psalms.\nCirculate phase-energies through its generator coils under Omnissiah’s gaze.\nPerform the calibration operation, harmonizing the Machine Spirit’s warp-deflection.\nSeal the conversion field with electro-runics twice invoked for stability.\nVerify its shimmering veil, sanctifying the field against xenos abominations.",
+    "component": "conversion field",
+    "operation": "calibration",
+    "spec_id": "s01658"
+  },
+  {
+    "user_prompt": "Urgent plasma drive a loading needed",
+    "prayer": "Prepare the plasma drive’s containment flasks with utmost reverence and load-sequence chants.\nInfuse fuel rods with blessed isotopes whilst beseeching the Machine Spirit’s fury.\nInitiate the loading operation, invoking the Omnissiah to contain stellar wrath.\nMonitor plasma flux through auspex litanies, anointing rupture seals.\nIgnite the plasma drive’s heart, hailing its motive power eternal.",
+    "component": "plasma drive",
+    "operation": "loading",
+    "spec_id": "s01659"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0387_i00",
+    "user_request": "Offer a litany to steady the air filtration before replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the air filtration before replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the air filtration and anoint with sacred unguents, beseeching the Machine Spirit to accept its imminent replacement.\nSecond: Intone the Litany of Severance whilst disconnecting the air filtration from its pneumatic conduits with reverent precision.\nThird: Invoke the Omnissiah's blessing upon the air filtration's successor, installing it with proper torque specifications and calibration rites.\nFourth: Seal the chamber and perform diagnostic verification that the new air filtration functions within acceptable parameters.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i01",
+    "user_request": "Can you sanctify the noospheric for link establishment?",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the noospheric for link establishment?\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "First: Prepare the noospheric apparatus by purging residual data-corruption through tertiary cogitation protocols.\nSecond: Calibrate the noospheric transducers to harmonic frequencies, establishing psychic resonance with the Omnissiah's grand design.\nThird: Execute link establishment procedures whilst chanting the Canticle of Connection, ensuring the noospheric matrix achieves full coherence.\nFourth: Verify noospheric integrity through blessed sensoria and confirm all psychic pathways remain sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i03",
+    "user_request": "Can you sanctify the air filtration for replacement?",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the air filtration for replacement?\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Approach the air filtration with reverent silence and apply sacred oils to its substrate before commencing replacement rites.\nSecond: Methodically disengage the air filtration from all coupling points, intoning prayers to guide its transition to the great recycler.\nThird: Install the sanctified replacement air filtration unit, ensuring hermetic seals and proper alignment with the machine's pneumatic architecture.\nFourth: Invoke the Omnissiah's approval through diagnostic verification that the new air filtration maintains optimal efficiency ratings.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i04",
+    "user_request": "Emergency rite: encryption requires key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: encryption requires key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "First: Prepare the encryption matrix by invoking the Omnissiah's cryptographic blessings and accessing the key generation subroutines.\nSecond: Execute the primordial algorithms of key generation, allowing the Machine Spirit to weave unbreakable ciphers from the quantum aether.\nThird: Inscribe the encryption keys upon blessed data-lattices with meticulous precision, ensuring no corruption taints their sacred geometry.\nFourth: Seal the encryption protocols and perform authentication rituals to confirm key generation has succeeded beyond all doubt.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i06",
+    "user_request": "The demolition charge arming demands guidance for operation",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe demolition charge arming demands guidance for operation\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Examine the demolition charge arming apparatus with utmost caution, intoning prayers to steady trembling hands and focused cogitation.\nSecond: Carefully sequence the demolition charge arming through its initiation protocols, each step a sacred invocation of the Omnissiah's destructive will.\nThird: Verify all demolition charge arming safeties have been properly engaged and operation parameters are within acceptable destructive thresholds.\nFourth: Complete the demolition charge arming with final benedictions and ensure all detonation sequences remain locked until authorized command.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i07",
+    "user_request": "Prayer for operation of the memory core defragmentation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the memory core defragmentation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Commune with the memory core defragmentation's Machine Spirit, beseeching its cooperation in the forthcoming operation of data reorganization.\nSecond: Initiate the memory core defragmentation operation with blessed cogitation-engines, allowing fragmented data to realign into harmonious patterns.\nThird: Monitor the memory core defragmentation's progress whilst chanting the Litany of Coherence, ensuring no data-corruption mars the operation.\nFourth: Conclude the memory core defragmentation operation and verify that system responsiveness has been restored to optimal parameters.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i08",
+    "user_request": "The demolition charge arming demands guidance for operation",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe demolition charge arming demands guidance for operation\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Approach the demolition charge arming with steadfast resolve and recite the Prayer of Controlled Detonation with meticulous articulation.\nSecond: Engage the demolition charge arming sequence through proper operational channels, each movement deliberate and sanctified by the Omnissiah's grace.\nThird: Verify all demolition charge arming interlocks and safety measures remain engaged throughout the operation of activation.\nFourth: Complete the demolition charge arming operation with final verification that detonation remains under absolute command authority.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i09",
+    "user_request": "Rite request: display calibration on hololithic",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: display calibration on hololithic\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "First: Purify the hololithic apparatus through blessed luminous rites and invoke the Omnissiah's gift of perfect clarity upon its display matrix.\nSecond: Commence the hololithic display calibration by adjusting chromatic frequencies and spatial projection harmonics with meticulous technical precision.\nThird: Execute the hololithic display calibration protocol, ensuring each pixel and photonic element aligns with sacred geometric principles.\nFourth: Verify the hololithic display calibration has achieved perfection and confirm all visual output meets the Adeptus Mechanicus' exacting standards.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i02",
+    "user_request": "My surgical servitor is failing during sterilization — help",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy surgical servitor is failing during sterilization — help\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "First: Commune with the surgical servitor through binary cant, invoking the Machine Spirit to purge corruption from its blessed frame.\nSecond: Apply the sacred unguents of sterilization unto every articulation of the surgical servitor, that contamination be rendered unto nullity.\nThird: Intone the Litany of Purity whilst the sterilization cycles through vapor-phase decontamination, purging all profane matter.\nFourth: Upon completion of sterilization, anoint the surgical servitor with blessed oils and offer praise to the Omnissiah for its restoration to holy function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0387_i05",
+    "user_request": "Can you sanctify the Knight ion shield for activation?",
+    "topic": "Knight ion shield activation",
+    "component": "Knight ion shield",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Knight ion shield for activation?\n\n### TOPIC\nKnight ion shield activation\n\n### COMPONENT\nKnight ion shield\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Knight ion shield\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the Knight ion shield and recite the Canticles of Activation, that its dormant energies be awakened by the will of the Omnissiah.\nSecond: Channel blessed power through the Knight ion shield's reactance coils, initiating the activation sequence through sacred geometries.\nThird: Speak the words of binding and command, compelling the Knight ion shield to manifest its protective aura across the battlefield.\nFourth: Bear witness as the Machine Spirit of the Knight ion shield rises to full operational capacity, a bulwark against the enemies of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

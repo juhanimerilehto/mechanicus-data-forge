@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The serberys raider awaits a charging",
+    "prayer": "Approach the serberys raider with reverence, mechadendrites poised in binary supplication.\nInvoke the Omnissiah to stir the Machine Spirit within the serberys raider for the sacred rite of charging.\nAffix the electro-conduits whilst intoning the Canticle of Replenishment.\nMonitor the serberys raider's power matrices as they swell with divine vigor.\nAnoint the capacitor coils with sacred oils, beseeching full rejuvenation upon completion.",
+    "component": "serberys raider",
+    "operation": "charging",
+    "spec_id": "s08100"
+  },
+  {
+    "user_prompt": "My lance battery is ready for engagement",
+    "prayer": "Draw nigh unto the lance battery, hands clad in purity seals.\nBeseech the Machine Spirit of the lance battery to ready itself for engagement.\nAlign the targeting cogitators with litanies of precision.\nSanctify the plasma conduits prior to engagement, invoking the Omnissiah's wrathful gaze.\nInitiate auspex sweeps to confirm the lance battery's lethal poise.",
+    "component": "lance battery",
+    "operation": "engagement",
+    "spec_id": "s08101"
+  },
+  {
+    "user_prompt": "Critical: volitor implant requires a calibration",
+    "prayer": "Kneel before the volitor implant, whispering the Noosphere Doxology.\nCommence calibration of the volitor implant through ritual binary chants.\nAdjust the neural interfaces whilst anointing with myrrh-infused lubricant.\nInvoke the Machine Spirit's harmony within the volitor implant.\nVerify calibration via synaptic resonance scans, praising the Omnissiah.",
+    "component": "volitor implant",
+    "operation": "calibration",
+    "spec_id": "s08102"
+  },
+  {
+    "user_prompt": "How do I bless the maglock for operation?",
+    "prayer": "Present thyself to the maglock, mechadendrites humming the Activation Hymn.\nBless the maglock for operation by tracing electro-runes upon its casing.\nInvoke the Omnissiah to bind the maglock's Machine Spirit in faithful service.\nCycle the maglock through test activations, chanting the Litany of Adherence.\nSeal the rite with ablative incense, ensuring flawless operation.",
+    "component": "maglock",
+    "operation": "operation",
+    "spec_id": "s08103"
+  },
+  {
+    "user_prompt": "Prepare the data-sluice for purification",
+    "prayer": "Converge upon the data-sluice, auspex probing for digital impurities.\nInitiate purification of the data-sluice with streams of sanctified code-purgatives.\nBeseech the Machine Spirit to purge corruption from the data-sluice.\nRecite the Canticle of Clarity as data flows renewed.\nConclude by verifying the data-sluice's pristine conduits under Omnissiah's light.",
+    "component": "data-sluice",
+    "operation": "purification",
+    "spec_id": "s08104"
+  },
+  {
+    "user_prompt": "Urgent cenobyte servitor a consecration needed",
+    "prayer": "Approach the cenobyte servitor with incense braziers aloft.\nCommence consecration of the cenobyte servitor through cranial incisions and binary oaths.\nAnoint its flesh-circuits, invoking the Machine Spirit's subservience.\nImprint the cenobyte servitor with doctrinal engrams of the Omnissiah.\nTest its consecrated obedience via command protocols.",
+    "component": "cenobyte servitor",
+    "operation": "consecration",
+    "spec_id": "s08105"
+  },
+  {
+    "user_prompt": "The sicarian ruststalker needs a maintenance",
+    "prayer": "Encircle the sicarian ruststalker, murmuring the Maintenance Benediction.\nInspect and lubricate the sicarian ruststalker's blades and servos with sacred unguents.\nInvoke the Omnissiah to fortify the Machine Spirit during maintenance.\nRecalibrate its phosphor serpentina whilst chanting war-litanies.\nAffirm the sicarian ruststalker's predatory readiness through combat diagnostics.",
+    "component": "sicarian ruststalker",
+    "operation": "maintenance",
+    "spec_id": "s08106"
+  },
+  {
+    "user_prompt": "Can you guide Manticore a recalibration?",
+    "prayer": "Commune with the Manticore, its hull resounding to your electro-canticles.\nUndertake recalibration of the Manticore's rocket silos and guidance cogitators.\nBeseech the Machine Spirit within the Manticore to align its apocalyptic fury.\nAnoint targeting arrays, reciting the Rite of Devastation.\nValidate recalibration via ballistic simulations under Omnissiah's aegis.",
+    "component": "Manticore",
+    "operation": "recalibration",
+    "spec_id": "s08107"
+  },
+  {
+    "user_prompt": "Critical: manufactorum requires a consecration",
+    "prayer": "Process to the manufactorum's heart, where forge-fires echo the Omnissiah's will.\nBegin consecration of the manufactorum by sanctifying its assembly servitors.\nInvoke Machine Spirits across the manufactorum's vast mechanisms.\nPurify production lines with ablative rites and binary purges.\nSeal the manufactorum's consecration, ensuring unending productivity.",
+    "component": "manufactorum",
+    "operation": "consecration",
+    "spec_id": "s08108"
+  },
+  {
+    "user_prompt": "Sanctify the Chimera APC during initialization",
+    "prayer": "Reverently encircle the Chimera APC, mechadendrites tracing its armoured plates.\nInitiate initialization of the Chimera APC with the Awakening Liturgy.\nConnect noospheric links whilst beseeching its Machine Spirit's vigilance.\nCycle the Chimera APC's drive systems, anointing treads with blessed oils.\nConfirm initialization through full diagnostic invocation to the Omnissiah.",
+    "component": "Chimera APC",
+    "operation": "initialization",
+    "spec_id": "s08109"
+  }
+]

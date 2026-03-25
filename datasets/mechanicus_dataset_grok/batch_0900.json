@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the plasma pistol for maintenance",
+    "prayer": "Approach the plasma pistol with reverence, vessel of the Omnissiah's wrath.\nInvoke the Machine Spirit dwelling within the plasma pistol through the Litany of Maintenance.\nAnoint its flux conduits with sacred oils to prepare for disassembly rites.\nBeseech the Omnissiah's blessing upon the plasma pistol as maintenance commences.\nVerify the essence's quiescence with auspex incantations.",
+    "component": "plasma pistol",
+    "operation": "maintenance",
+    "spec_id": "s05000"
+  },
+  {
+    "user_prompt": "Prepare the Archaeopter Fusilave for operation",
+    "prayer": "Kneel before the Archaeopter Fusilave, sacred flyer of the Forge Worlds.\nChant the Rite of Operation to awaken its Machine Spirit.\nSanctify control servos and motive reactors of the Archaeopter Fusilave.\nCommence operational sequences under Omnissiah's gaze.\nAffirm the Archaeopter Fusilave's readiness through harmonic diagnostics.",
+    "component": "Archaeopter Fusilave",
+    "operation": "operation",
+    "spec_id": "s05001"
+  },
+  {
+    "user_prompt": "What's the prayer for manufactorum a purification?",
+    "prayer": "Gather incense of binary sanctity around the manufactorum.\nInvoke purification litanies to cleanse the manufactorum's tainted forges.\nScour its assembly cogitators with ablative solvents in the name of the Machine God.\nBeseech the Omnissiah to restore purity to the manufactorum.\nSeal the rites with electro-consecrated wards.",
+    "component": "manufactorum",
+    "operation": "purification",
+    "spec_id": "s05002"
+  },
+  {
+    "user_prompt": "I need to an activation the cryogenerator",
+    "prayer": "Circumambulate the cryogenerator thrice, intoning awakening canticles.\nAnoint cryo-coils with sanctified cryofluid to stir its Machine Spirit.\nInitiate activation protocols whilst invoking the Omnissiah's chill breath.\nMonitor the cryogenerator's vital signs through thermal auspex.\nProclaim the Machine Spirit's vigor manifest.",
+    "component": "cryogenerator",
+    "operation": "activation",
+    "spec_id": "s05003"
+  },
+  {
+    "user_prompt": "Consecrate the plasma reactor before loading",
+    "prayer": "Present offerings of promethium before the plasma reactor.\nChant consecration hymns to appease the plasma reactor's furious heart.\nPrepare for loading by sanctifying fuel injectors with binary blessings.\nInvoke the Omnissiah as plasma reactor cycles align.\nSeal the plasma reactor with invocation seals prior to infusion.",
+    "component": "plasma reactor",
+    "operation": "loading",
+    "spec_id": "s05004"
+  },
+  {
+    "user_prompt": "Offer prayer for Archaeopter Fusilave a charging",
+    "prayer": "Position the Archaeopter Fusilave upon the charging altar.\nRecite the Canticle of Replenishment to rouse its Machine Spirit.\nConnect sacred umbilicals to the Archaeopter Fusilave's power vaults.\nMonitor charging fluxes under Omnissiah's watchful logic.\nConclude with affirmations of the Archaeopter Fusilave's renewed potency.",
+    "component": "Archaeopter Fusilave",
+    "operation": "charging",
+    "spec_id": "s05005"
+  },
+  {
+    "user_prompt": "Help me an operation the conversion field",
+    "prayer": "Encircling the conversion field generator with purity seals.\nInvoke operational rites to harmonize its warp-nullifying essence.\nCalibrate field emitters whilst beseeching the Machine Spirit of the conversion field.\nEngage operation sequences in Omnissiah's name.\nTest the conversion field's integrity through sanctified auspex.",
+    "component": "conversion field",
+    "operation": "operation",
+    "spec_id": "s05006"
+  },
+  {
+    "user_prompt": "Consecrate the diagnosticator before recalibration",
+    "prayer": "Approach the diagnosticator with mechadendrites extended in supplication.\nAnoint its sensor arrays prior to recalibration ceremonies.\nChant binaric litanies of precision for the diagnosticator's Machine Spirit.\nInitiate recalibration under the Omnissiah's algorithmic gaze.\nVerify alignment through recursive self-tests.",
+    "component": "diagnosticator",
+    "operation": "recalibration",
+    "spec_id": "s05007"
+  },
+  {
+    "user_prompt": "The cortex controller needs a sterilization",
+    "prayer": "Isolate the cortex controller within a sterile field of incense.\nInvoke sterilization purges to exorcise bio-corruptions from its neural vaults.\nScour synaptic pathways with sanctified caustics, honoring the Machine Spirit.\nBeseech Omnissiah's purity upon the cortex controller.\nSeal with ablative wards post-sterilization.",
+    "component": "cortex controller",
+    "operation": "sterilization",
+    "spec_id": "s05008"
+  },
+  {
+    "user_prompt": "Offer prayer for surgical servitor an initialization",
+    "prayer": "Assemble before the surgical servitor, tool of the Omnissiah's flesh-mending.\nChant initialization canticles to awaken its lobotomized Machine Spirit.\nAnoint blade-arms and injectors of the surgical servitor.\nCommence initialization protocols with blessed data-purge.\nAffirm operational sanctity through vivisection diagnostics.",
+    "component": "surgical servitor",
+    "operation": "initialization",
+    "spec_id": "s05009"
+  }
+]

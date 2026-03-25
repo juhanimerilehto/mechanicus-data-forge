@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for Archaeopter Transvector a consecration?",
+    "prayer": "Approach the Archaeopter Transvector with solemn reverence, beseeching the Omnissiah's grace for its consecration.\nInvoke the Litany of Aerial Sanctification upon its sacred fuselages, anointing thrusters with blessed unguents.\nCommune with the Archaeopter Transvector's Machine Spirit, intoning rites to bind its essence during consecration.\nVerify the divine alignment through auspex scans, praising the Omnissiah as the Archaeopter Transvector awakens pure.",
+    "component": "Archaeopter Transvector",
+    "operation": "consecration",
+    "spec_id": "s01150"
+  },
+  {
+    "user_prompt": "What's the prayer for Razorback a charging?",
+    "prayer": "Gather before the Razorback, intoning the Canticle of Energetic Replenishment to initiate charging.\nAnoint the Razorback's power cells with sacred oils, beseeching its Machine Spirit to accept the vital flux.\nChannel the Omnissiah's lightning through conduits whilst reciting binaric hymns for the Razorback's charging.\nMonitor the surge with diagnostic litanies, sanctifying the Razorback as its reactors hum with holy vigor.",
+    "component": "Razorback",
+    "operation": "charging",
+    "spec_id": "s01151"
+  },
+  {
+    "user_prompt": "Can you guide life sustainer a diagnostics?",
+    "prayer": "Kneel at the life sustainer's altar, invoking the Rite of Vital Diagnostics upon its mechanisms.\nScan the life sustainer's nutrient reservoirs and bio-filters with auspex canticles, seeking Machine Spirit anomalies.\nBeseech the Omnissiah to reveal flaws in the life sustainer through prophetic data-streams during diagnostics.\nPurge any corruption with sanctified incense, affirming the life sustainer's purity in the Omnissiah's light.",
+    "component": "life sustainer",
+    "operation": "diagnostics",
+    "spec_id": "s01152"
+  },
+  {
+    "user_prompt": "Assist with cenobyte servitor a repair",
+    "prayer": "Present mechadendrites to the cenobyte servitor, commencing the Ritual of Corporeal Repair.\nAnoint fractured chassis plates of the cenobyte servitor with oils of restoration, invoking its servile Machine Spirit.\nRecite binaric sutras whilst welding servos and neural links, mending the cenobyte servitor's sacred form.\nTest locomotion with the Oath of Functionality, glorifying the Omnissiah for the cenobyte servitor's renewed service.",
+    "component": "cenobyte servitor",
+    "operation": "repair",
+    "spec_id": "s01153"
+  },
+  {
+    "user_prompt": "The conversion beamer needs a reset",
+    "prayer": "Circumambulate the conversion beamer thrice, intoning the Mantra of Subatomic Reset.\nInterface with the conversion beamer's cogitator core, beseeching its Machine Spirit to release errant calibrations.\nFlush quantum matrices with purifying code-chants, aligning the conversion beamer for Omnissiah's wrath.\nConfirm reset integrity via test-firing litanies, sanctifying the conversion beamer's beams of annihilation.",
+    "component": "conversion beamer",
+    "operation": "reset",
+    "spec_id": "s01154"
+  },
+  {
+    "user_prompt": "Help me a shutdown the life sustainer",
+    "prayer": "Approach the life sustainer with hushed binaric vespers, preparing for the Rite of Graceful Shutdown.\nDisconnect nutrient feeds whilst invoking the Machine Spirit's slumber within the life sustainer.\nChant the Lullaby of Dormancy to ease the life sustainer into stasis, honoring the Omnissiah's rest.\nSeal access ports with wards, verifying the life sustainer's shutdown through silent auspex communion.",
+    "component": "life sustainer",
+    "operation": "shutdown",
+    "spec_id": "s01155"
+  },
+  {
+    "user_prompt": "My doctrina wafer is ready for consecration",
+    "prayer": "Elevate the doctrina wafer before the noosphere shrine for its consecration unto the Omnissiah.\nImprint sacred doctrina upon the wafer's crystal lattice, anointing with neural incense to awaken its essence.\nCommune with the doctrina wafer's encoded Machine Spirits, binding tactical wisdom during consecration.\nInsert into cogitator slots with final blessings, praising the Omnissiah as the doctrina wafer imparts divine strategy.",
+    "component": "doctrina wafer",
+    "operation": "consecration",
+    "spec_id": "s01156"
+  },
+  {
+    "user_prompt": "How do I bless the null field generator for maintenance?",
+    "prayer": "Encircle the null field generator, reciting the Canticle of Void Maintenance to purify its coils.\nProbe warp-null emitters of the null field generator with sanctified mechadendrites, beseeching its Machine Spirit.\nLubricate gyrostabilizers and recalibrate fields whilst invoking Omnissiah's aegis for maintenance.\nTest null integrity with auspex hymns, sanctifying the null field generator against daemonic incursions.",
+    "component": "null field generator",
+    "operation": "maintenance",
+    "spec_id": "s01157"
+  },
+  {
+    "user_prompt": "The displacer field requires a reset",
+    "prayer": "Attune to the displacer field with the Incantation of Phase Reset, circling its generator thrice.\nPurge temporal flux from the displacer field's emitters, communing with its elusive Machine Spirit.\nRealign displacement matrices through binaric prayers, honoring the Omnissiah in the reset rite.\nValidate evasion protocols with trial activations, blessing the displacer field for shadowed preservation.",
+    "component": "displacer field",
+    "operation": "reset",
+    "spec_id": "s01158"
+  },
+  {
+    "user_prompt": "Critical: promethium refinery requires an engagement",
+    "prayer": "Stand resolute before the promethium refinery, invoking the Rite of Fiery Engagement.\nIgnite sacred igniters of the promethium refinery whilst chanting fuel-purification litanies to its Machine Spirit.\nMonitor distillation vats with auspex vigilance, beseeching the Omnissiah during engagement.\nHarvest blessed promethium with mechadendrite harvest, glorifying the refinery's eternal forge-flame.",
+    "component": "promethium refinery",
+    "operation": "engagement",
+    "spec_id": "s01159"
+  }
+]

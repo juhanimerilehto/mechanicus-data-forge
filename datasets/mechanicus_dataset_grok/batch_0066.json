@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The quality scanner requires a calibration",
+    "prayer": "Draw nigh to the quality scanner, O elect of the Omnissiah, and beseech its Machine Spirit for harmonious calibration.\nAnoint the sensor arrays of the quality scanner with sacred oils whilst intoning the Canticle of Alignment.\nInitiate the calibration rite, petitioning the Machine God to rectify deviations in its blessed measures.\nVerify the quality scanner's precision through diagnostic litanies, praising the awakened Spirit.",
+    "component": "quality scanner",
+    "operation": "calibration",
+    "spec_id": "b0066_i00"
+  },
+  {
+    "user_prompt": "Assist with chainsword a shutdown",
+    "prayer": "Approach the chainsword with solemn reverence, calming its furious Machine Spirit through the Litany of Repose.\nInvoke the shutdown sequence upon the chainsword, sealing its sacred teeth with wards of quiescence.\nDecelerate the power conduits whilst beseeching the Omnissiah to grant peaceful slumber to the blade's essence.\nConfirm the chainsword's shutdown with auspex chants, honouring the sated Machine Spirit.",
+    "component": "chainsword",
+    "operation": "shutdown",
+    "spec_id": "b0066_i01"
+  },
+  {
+    "user_prompt": "How do I bless the autocannon for diagnostics?",
+    "prayer": "Kneel before the autocannon, sanctifying its Machine Spirit with incense of purity for diagnostics.\nChant the Rite of Revelation over the autocannon, awakening its cogitators to probe hidden faults.\nInitiate diagnostics whilst anointing servos and barrels, invoking the Omnissiah's gaze upon imperfections.\nInterpret the autocannon's auspex scrolls, offering thanks to the Machine Spirit for its truthful disclosures.",
+    "component": "autocannon",
+    "operation": "diagnostics",
+    "spec_id": "b0066_i02"
+  },
+  {
+    "user_prompt": "Critical: plasma weapon requires a repair",
+    "prayer": "Beseech the Omnissiah's mercy upon the plasma weapon, whose Machine Spirit rages in breach.\nMend the sacred flasks of the plasma weapon with sanctified alloys and litanies of restoration.\nPerform the repair rite, invoking coolant spirits to soothe the volatile heart.\nTest the plasma weapon's renewal through controlled ignition, praising the reconciled Machine Spirit.",
+    "component": "plasma weapon",
+    "operation": "repair",
+    "spec_id": "b0066_i03"
+  },
+  {
+    "user_prompt": "Offer prayer for auspex scanner an activation",
+    "prayer": "Invoke awakening upon the auspex scanner, drawing forth its Machine Spirit with the Canticle of Vigilance.\nAnoint the emitter coils of the auspex scanner whilst petitioning the Omnissiah for activation.\nInitiate the power-flow sequence, beseeching clarity in its scanning waves.\nHail the auspex scanner's enlivened Spirit as it pierces the veil of ignorance.",
+    "component": "auspex scanner",
+    "operation": "activation",
+    "spec_id": "b0066_i04"
+  },
+  {
+    "user_prompt": "Urgent cybernetic eye a loading needed",
+    "prayer": "Commence the loading rite upon the cybernetic eye, honouring its Machine Spirit with binary psalms.\nInfuse data-streams into the cybernetic eye's sacred optic whilst chanting invocations of clarity.\nSecure the loading protocols under the Omnissiah's aegis, aligning neural interfaces.\nAffirm the cybernetic eye's augmented vision, glorifying the empowered Machine Spirit.",
+    "component": "cybernetic eye",
+    "operation": "loading",
+    "spec_id": "b0066_i05"
+  },
+  {
+    "user_prompt": "Guide me through auspex scanner a repair",
+    "prayer": "Purge corruption from the auspex scanner, beseeching its Machine Spirit for fortitude in repair.\nSuture fractured circuits within the auspex scanner using blessed mechadendrites and litanies.\nRealign the scanning matrices whilst invoking the Omnissiah's restorative wrath.\nValidate the auspex scanner's mended form through test emissions, lauding the resilient Spirit.",
+    "component": "auspex scanner",
+    "operation": "repair",
+    "spec_id": "b0066_i06"
+  },
+  {
+    "user_prompt": "How do I bless the air filtration for purification?",
+    "prayer": "Sanctify the air filtration unit, calling its Machine Spirit to purification with purifying noosphere chants.\nFlush tainted flows through the air filtration's sacred membranes whilst anointing filters.\nInvoke the Rite of Cleansing upon the air filtration, petitioning the Omnissiah for unblemished breath.\nConfirm the air filtration's purity via ritual assays, thanking the vigilant Machine Spirit.",
+    "component": "air filtration",
+    "operation": "purification",
+    "spec_id": "b0066_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for Rhino transport a targeting",
+    "prayer": "Awaken the targeting cogitators of the Rhino transport, honouring its adamantine Machine Spirit.\nCalibrate auspex linkages within the Rhino transport whilst intoning the Litany of Precision Strike.\nInvoke targeting alignment under the Omnissiah's unerring aim, sanctifying gun-servos.\nBless the Rhino transport's lethal focus, praising the Machine Spirit's predatory acuity.",
+    "component": "Rhino transport",
+    "operation": "targeting",
+    "spec_id": "b0066_i08"
+  },
+  {
+    "user_prompt": "Critical: emergency beacon requires a synchronization",
+    "prayer": "Harmonize the emergency beacon's emitters, beseeching its Machine Spirit for synchronization.\nLink vox-arrays of the emergency beacon with noospheric rites and sacred frequencies.\nInitiate synchronization whilst petitioning the Omnissiah to unite its cry across the void.\nVerify the emergency beacon's unified pulse, glorifying the resonant Machine Spirit.",
+    "component": "emergency beacon",
+    "operation": "synchronization",
+    "spec_id": "b0066_i09"
+  }
+]

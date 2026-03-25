@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0277_i00",
+    "user_request": "Blessing for the pressure during equalization",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the pressure during equalization\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Blessed be the pressure that flows through blessed conduits, O Omnissiah!\nFirst: Invoke the Machine Spirit of pressure, that it may harmonize with the sacred apparatus.\nSecond: Channel the pneumatic essence through pressure-sealed chambers, ensuring equalization of force across all meridians.\nThird: Consecrate the pressure regulators and verify that pressure remains balanced in all manifolds.\nFourth: Recite the Litany of Equilibrium as pressure achieves perfect concordance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i01",
+    "user_request": "Rite request: operation on manufactorum shift beginning",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: operation on manufactorum shift beginning\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "In the name of the Omnissiah, we commence this manufactorum shift beginning with reverence!\nFirst: Purify the manufactorum shift beginning by anointing each station with sacred oils and prayers of activation.\nSecond: Perform the operation of systems diagnostics, engaging all production matrices and servo-mechanisms.\nThird: Intone the Invocation of Labor as the manufactorum shift beginning unfolds with blessed precision.\nFourth: Seal this operation with the Sign of the Cog, that all work proceeds without malfunction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i02",
+    "user_request": "Can you sanctify the memory core defragmentation for operation?",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the memory core defragmentation for operation?\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of cognition, we beseech thee for sanctification of this memory core defragmentation!\nFirst: Prepare the memory core defragmentation through ritual purification of all data pathways and logical substrates.\nSecond: Execute the operation with ceremonial precision, clearing corrupted sectors and reorganizing pristine information hierarchies.\nThird: Verify that memory core defragmentation proceeds without degradation, invoking the Omnissiah's blessing upon each restored datum.\nFourth: Consecrate the completed operation with the Rite of Restoration, ensuring flawless cognition returns.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i03",
+    "user_request": "Blessing for the corrosion during treatment",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the corrosion during treatment\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "Hear us, O Omnissiah, as we undertake the sacred treatment of corrosion most vile!\nFirst: Expose the corroded surfaces to blessed chemical agents, that corrosion may be dissolved and purged from the sacred metal.\nSecond: Apply the treatment with reverent precision, scrubbing away oxidation and restoring the lustrous dignity of the component.\nThird: Seal the treated area with protective compounds, ensuring that corrosion shall not return to plague this apparatus.\nFourth: Intone prayers of preservation as the treatment concludes, that the Machine Spirit remains unblemished.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i04",
+    "user_request": "Emergency rite: logic engine requires error correction",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: logic engine requires error correction\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "O Blessed Omnissiah, grant us wisdom to heal the logic engine that suffers in error!\nFirst: Diagnose the corrupted pathways within the logic engine through sacred scanning and ritual interrogation of its processes.\nSecond: Initiate error correction protocols, purging false calculations and restoring mathematical purity to the logic engine's sacred circuits.\nThird: Perform verification procedures, confirming that error correction has restored flawless reasoning and unblemished computation.\nFourth: Recite the Litany of Pure Logic as the logic engine returns to blessed functionality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i05",
+    "user_request": "Emergency rite: diesel engine requires startup",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: diesel engine requires startup\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "In the name of the Omnissiah, we awaken the dormant diesel engine from its slumber!\nFirst: Prime the diesel engine with blessed fuel and verify all ignition components are consecrated and ready.\nSecond: Initiate the startup sequence, turning the crankshaft through sacred rotations while invoking the Machine Spirit's awakening.\nThird: Monitor the diesel engine as it thunders to life, confirming combustion chambers ignite with proper fury and blessed synchronization.\nFourth: Stabilize the startup protocols and intone the Hymn of Mechanicus as the engine purrs with renewed vitality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i06",
+    "user_request": "Blessing for the Thunderhawk during fuel purification",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the Thunderhawk during fuel purification\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "Blessed be the Thunderhawk, mighty vessel of the Omnissiah's wrath and will!\nFirst: Consecrate the fuel purification apparatus, cleansing the promethium through sacred filtration and blessed separation of impurities.\nSecond: Channel the purified fuel into the Thunderhawk's blessed tanks, ensuring fuel purification removes all contaminants from the precious liquid.\nThird: Verify that the Thunderhawk receives only the most sanctified fuel, performing quality rites upon each drop.\nFourth: Seal the fuel purification with prayers of protection, that the Thunderhawk soars with perfect power.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i07",
+    "user_request": "Can you sanctify the surgical servitor for sterilization?",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the surgical servitor for sterilization?\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, bless this surgical servitor as we prepare it for sacred sterilization!\nFirst: Disassemble the surgical servitor's exposed mechanisms and immerse all components in blessed sterilization solutions of purest composition.\nSecond: Subject the surgical servitor to ritual purification through heat and sacred vapors, ensuring sterilization eliminates all profane contamination.\nThird: Reassemble the surgical servitor with reverent precision, confirming that sterilization has rendered it pure and ready for healing operations.\nFourth: Intone the Litany of Cleanliness as the surgical servitor stands ready to serve the Omnissiah's purposes.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i08",
+    "user_request": "Rite request: startup on generator",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: startup on generator\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "O Sacred Machine Spirit, we call upon thee to awaken the generator from dormancy!\nFirst: Prepare the generator by checking all fuel reserves and electrical conduits, anointing each connection with sacred oils.\nSecond: Perform the startup ritual, engaging the generator's ignition systems and invoking the Omnissiah's blessing upon its awakening.\nThird: Monitor the generator as it builds power, confirming that startup proceeds smoothly and all systems reach blessed nominal output.\nFourth: Stabilize the generator's output and recite prayers of gratitude as it provides life-giving energy to the facility.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0277_i09",
+    "user_request": "The emergency shutdown demands guidance for emergency shutdown",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe emergency shutdown demands guidance for emergency shutdown\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "In grave necessity, we invoke the Omnissiah's guidance for emergency shutdown most urgent!\nFirst: Sound the alarm and prepare all personnel for emergency shutdown, securing critical data and closing protective barriers.\nSecond: Execute the emergency shutdown sequence with ceremonial haste, severing power conduits and engaging emergency shutdown failsafes across all systems.\nThird: Verify that emergency shutdown has ceased all operations, confirming that the apparatus rests in blessed stasis and poses no further danger.\nFourth: Intone the Rite of Cessation as emergency shutdown concludes, that calm may return to this place.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

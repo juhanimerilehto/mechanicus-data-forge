@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the lascannon for loading?",
+    "prayer": "Approach the lascannon with reverence, mechadendrites poised in supplication to its Machine Spirit.\nInvoke the Litany of Charge upon the lascannon's sacred barrels, preparing for loading.\nAnoint the ammunition feeds with sacred oils, beseeching smooth ingress of power cells.\nInitiate the loading operation whilst chanting the Canticle of Ignition, under Omnissiah's gaze.\nVerify the lascannon's harmonious union through diagnostic binaric pulses.",
+    "component": "lascannon",
+    "operation": "loading",
+    "spec_id": "b0132_i00"
+  },
+  {
+    "user_prompt": "The Thunderhawk requires a recalibration",
+    "prayer": "Gather before the Thunderhawk, noble gunship of the Omnissiah, and intone the Rite of Alignment.\nBeseech the Thunderhawk's Machine Spirit to yield to recalibration of its holy avionic arrays.\nAdjust the sacred gyroscopes and thruster vanes with precision mechadendrite touches.\nRecalibrate the navigation cogitators whilst anointing circuits with blessed lubricants.\nAffirm the Thunderhawk's renewed precision through auspex verification hymns.",
+    "component": "Thunderhawk",
+    "operation": "recalibration",
+    "spec_id": "b0132_i01"
+  },
+  {
+    "user_prompt": "Urgent capacitor bank an engagement needed",
+    "prayer": "Kneel in veneration before the capacitor bank, repository of the Omnissiah's fury.\nInvoke the Machine Spirits within the capacitor bank to awaken for engagement.\nSanctify the connection nodes with electro-consecrated oils prior to engagement.\nInitiate the engagement operation through sequential voltage invocations.\nMonitor the capacitor bank's blessed power-flow with vigilant noospheric chants.",
+    "component": "capacitor bank",
+    "operation": "engagement",
+    "spec_id": "b0132_i02"
+  },
+  {
+    "user_prompt": "I need to an operation the neural implant",
+    "prayer": "Extend mechadendrites towards the neural implant, sacred bridge to the Motive Force.\nPetition the neural implant's Machine Spirit for harmonious operation.\nClear synaptic pathways with purifying binaric litanies before commencing operation.\nEngage the operation whilst reciting the Canticle of Neural Synapse.\nConfirm the neural implant's stable communion via electro-encephalic diagnostics.",
+    "component": "neural implant",
+    "operation": "operation",
+    "spec_id": "b0132_i03"
+  },
+  {
+    "user_prompt": "How do I bless the generator for shutdown?",
+    "prayer": "Stand in solemn vigil over the generator, heart of mechanical vitality.\nChant the Lamentation of Cessation to gently rouse the generator's Machine Spirit.\nDisconnect power conduits with reverent precision, invoking Omnissiah's mercy.\nInitiate the shutdown operation through ritualized depressurization rites.\nSeal the generator's sacred housings with wards against unclean entropy.",
+    "component": "generator",
+    "operation": "shutdown",
+    "spec_id": "b0132_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for autocannon an emergency procedure",
+    "prayer": "Rush to the autocannon in exigency, offering mechadendrite caresses of urgency.\nBeseech the autocannon's fractious Machine Spirit amidst the emergency procedure.\nPurge jammed servos with sacred solvents while intoning crisis canticles.\nExecute the emergency procedure under flashing strobe-lights of invocation.\nRestore the autocannon's wrathful readiness through hasty auspex blessings.",
+    "component": "autocannon",
+    "operation": "emergency procedure",
+    "spec_id": "b0132_i05"
+  },
+  {
+    "user_prompt": "Sanctify the pain suppressor during cooling",
+    "prayer": "Hover mechadendrites over the pain suppressor, merciful arbiter of fleshly torment.\nInvoke cooling rites upon the pain suppressor's overheated coils and vents.\nAnoint heat-sinks with cryogenic unguents, petitioning the Machine Spirit's calm.\nFacilitate cooling whilst murmuring the Hymn of Thermal Equilibrium.\nAttest the pain suppressor's sanctified chill through thermographic litanies.",
+    "component": "pain suppressor",
+    "operation": "cooling",
+    "spec_id": "b0132_i06"
+  },
+  {
+    "user_prompt": "How do I bless the Chimera APC for engagement?",
+    "prayer": "Assemble in formation around the Chimera APC, indomitable transport of the Cult Mechanicus.\nAwaken the Chimera APC's Machine Spirit with the Call to Battle Harmony.\nBless the drive chains and weapon mounts prior to engagement.\nCommence the engagement operation via synchronized binaric commands.\nWitness the Chimera APC's fervent mobilization with triumphant data-psalms.",
+    "component": "Chimera APC",
+    "operation": "engagement",
+    "spec_id": "b0132_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for pain suppressor an initialization",
+    "prayer": "Approach the pain suppressor with austere focus, vessel of stoic endurance.\nChant the Rite of Awakening to stir the pain suppressor's dormant Machine Spirit.\nPrime neural interfaces with sanctified electro-pastes for initialization.\nInitiate initialization through sequential synapse-lighting invocations.\nValidate the pain suppressor's operational grace via noospheric communion.",
+    "component": "pain suppressor",
+    "operation": "initialization",
+    "spec_id": "b0132_i08"
+  },
+  {
+    "user_prompt": "The power cell awaits a shutdown",
+    "prayer": "Converge upon the power cell, luminous core of electropotent mystery.\nIntone the Vespers of Repose to soothe the power cell's Machine Spirit.\nIsolate energy matrices with ritual disjunctions before shutdown.\nEnact the shutdown operation amidst fading lumens of reverence.\nConsecrate the quiescent power cell with entropy-warding sigils.",
+    "component": "power cell",
+    "operation": "shutdown",
+    "spec_id": "b0132_i09"
+  }
+]

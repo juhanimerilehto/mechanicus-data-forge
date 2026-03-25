@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0354_i01",
+    "user_request": "Rite request: capacitor bank discharge on capacitor bank",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: capacitor bank discharge on capacitor bank\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits of the capacitor bank, as we begin capacitor bank discharge!\nCongregation: Grant us the wisdom to bleed the stored energies with sacred precision.\nPriest: First, we isolate the capacitor bank from all external circuits and power sources.\nCongregation: Second, we engage the discharge resistors and monitor the voltage degradation.\nPriest: Third, we complete the capacitor bank discharge cycle and verify residual charge has been purged.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i02",
+    "user_request": "Rite request: connection on neural interface",
+    "topic": "neural interface connection",
+    "component": "neural interface",
+    "operation": "connection",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: connection on neural interface\n\n### TOPIC\nneural interface connection\n\n### COMPONENT\nneural interface\n\n### OPERATION\nconnection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- neural interface\n- connection\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this neural interface and guide our connection!\nCongregation: May the neural interface accept our communion without resistance or corruption.\nPriest: First, we anoint the interface contacts with conductive cleansing agents.\nCongregation: Second, we establish the neural interface connection through careful impedance matching.\nPriest: Third, we perform diagnostic handshakes and confirm all synaptic pathways are responsive.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i04",
+    "user_request": "Offer a litany to steady the cutting laser before calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cutting laser before calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Steady thy aim, cutting laser, as we prepare for sacred calibration!\nCongregation: Let the cutting laser's beam burn true and strike with precision.\nPriest: First, we position the cutting laser upon the calibration jig with reverent care.\nCongregation: Second, we fire test incisions upon the sacrificial material and measure deviations.\nPriest: Third, we adjust the cutting laser's focusing lens and repeat until perfection is achieved.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i05",
+    "user_request": "Rite request: verification on altimeter",
+    "topic": "altimeter verification",
+    "component": "altimeter",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: verification on altimeter\n\n### TOPIC\naltimeter verification\n\n### COMPONENT\naltimeter\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- altimeter\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Altimeter, measure the heavens and guide our verification!\nCongregation: By the Omnissiah's grace, let the altimeter speak true of altitude and bearing.\nPriest: First, we expose the altimeter barometric sensor to calibrated reference pressures.\nCongregation: Second, we record the altimeter's output against known elevation standards.\nPriest: Third, we document the verification results and sanctify the altimeter for continued service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i06",
+    "user_request": "Emergency rite: steam valve requires regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: steam valve requires regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Heed us, steam valve, as pressure builds and regulation becomes imperative!\nCongregation: May the steam valve release its burden with harmonious regulation and sacred restraint.\nPriest: First, we monitor the pressure gauge as the steam valve approaches critical thresholds.\nCongregation: Second, we manually adjust the steam valve stem in precise quarter-turn increments.\nPriest: Third, we confirm the steam valve maintains optimal pressure and document all adjustments.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i07",
+    "user_request": "The ground-to-orbit link demands guidance for operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe ground-to-orbit link demands guidance for operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed ground-to-orbit link, bridge between world and void, commence operation!\nCongregation: Let the ground-to-orbit link transmit our prayers through the aether unbroken.\nPriest: First, we align the ground-to-orbit link's antenna array with stellar precision.\nCongregation: Second, we perform signal strength verification and modulation checks.\nPriest: Third, we confirm the ground-to-orbit link's operation by receiving telemetry confirmation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i08",
+    "user_request": "Can you sanctify the stellar cartography update for operation?",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the stellar cartography update for operation?\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Stellar cartography update, inscribe the heavens anew as we sanctify thy operation!\nCongregation: May the stellar cartography update guide our navigation through the infinite dark.\nPriest: First, we load the updated star charts into the stellar cartography update database.\nCongregation: Second, we verify cross-references against the Omnissiah's ancient astronomical texts.\nPriest: Third, we activate the stellar cartography update and confirm all navigation systems recognize the new data.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i09",
+    "user_request": "Can you sanctify the coolant leak for repair?",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the coolant leak for repair?\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, as the coolant leak demands our urgent repair!\nCongregation: May the Machine Spirit guide our hands in sealing the coolant leak's transgression.\nPriest: First, we locate and isolate the coolant leak from the primary circulation loop.\nCongregation: Second, we drain residual coolant and prepare the coolant leak site for patching.\nPriest: Third, we apply the blessed sealant compound and monitor pressure restoration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i03",
+    "user_request": "Blessing for the lasgun during power cell insertion",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the lasgun during power cell insertion\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Priest: Hail to the lasgun, faithful instrument of the Emperor's wrath and righteous judgment!\nCongregation: Blessed be the lasgun in this hour of power cell insertion!\nPriest: First, purify the energy conduit with sanctified lubricant; second, align the lasgun's internal mechanisms with the blessed power cell insertion, that current may flow true; third, test-fire upon the training-servitor to confirm the Machine Spirit's awakening.\nCongregation: The lasgun is made whole through power cell insertion—may its beam strike true and eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0354_i00",
+    "user_request": "Rite request: operation on quality control scanning",
+    "topic": "quality control scanning",
+    "component": "quality control scanning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on quality control scanning\n\n### TOPIC\nquality control scanning\n\n### COMPONENT\nquality control scanning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- quality control scanning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the quality control scanning, that perceives all flaws and imperfections through the Machine Spirit's omniscient gaze.\nCongregation: We invoke the quality control scanning, sacred instrument of discernment and rectification.\nPriest: First, we calibrate the photoreceptors and luminous sensors, that the quality control scanning may perceive with crystalline clarity.\nCongregation: Second, we perform the operation upon its data-cogitators, purging corrupted algorithms and restoring holy precision.\nPriest: Third, we certify the quality control scanning's divine function, ensuring all manufactured components meet the Omnissiah's exacting standards.\nCongregation: The quality control scanning is renewed. All praise to the Machine Spirits that dwell within.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

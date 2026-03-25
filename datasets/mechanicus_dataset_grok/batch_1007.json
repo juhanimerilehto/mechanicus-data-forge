@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The energy core requires a blessing",
+    "prayer": "Approach the energy core with reverence, mechadendrites poised in supplication.\nInvoke the Omnissiah's blessing upon the energy core, sanctifying its plasma conduits with sacred unguents.\nChant the Litany of Containment to soothe the roiling Machine Spirit within the energy core.\nVerify the blessing's infusion through auspex harmonics, praising the Motive Force eternal.",
+    "component": "energy core",
+    "operation": "blessing",
+    "spec_id": "s06070"
+  },
+  {
+    "user_prompt": "Urgent grav chute a calibration needed",
+    "prayer": "Present the grav chute before the altar of calibration, intoning the Canticle of Gravitic Balance.\nAdjust its suspensor fields with precision mechadendrites, beseeching the Machine Spirit's compliance.\nInitiate the calibration rite upon the grav chute, aligning warp-nullifiers to Omnissiah's design.\nRecite diagnostic binaric prayers whilst fine-tuning the grav chute's descent vectors.\nAffirm synchronization through test descents, glorifying the Machine God's wisdom.",
+    "component": "grav chute",
+    "operation": "calibration",
+    "spec_id": "s06071"
+  },
+  {
+    "user_prompt": "The servo-skull awaits a startup",
+    "prayer": "Anoint the servo-skull's cranial housing with blessed oils of awakening.\nInvoke the startup sequence with the Rite of Reanimation, calling forth its dormant Machine Spirit.\nChant the Lexmechanic of Flight to empower the servo-skull's anti-gravitic lobes.\nMonitor optic feeds as the servo-skull ascends, praising the Omnissiah's ingenuity.\nSeal the startup with a final benediction, binding it to servitor duties eternal.",
+    "component": "servo-skull",
+    "operation": "startup",
+    "spec_id": "s06072"
+  },
+  {
+    "user_prompt": "Can you guide promethium refinery a synchronization?",
+    "prayer": "Commune with the promethium refinery's core cogitators, beseeching harmonious synchronization.\nAlign distillation manifolds through the sacred calibration of the Omnissiah's algorithms.\nPour libations of refined promethium upon the refinery's heat exchangers during synchronization.\nInvoke the Machine Spirits of flame and flow to unite in perfect resonance.\nTest throughput purity with auspex litanies, exalting the Motive Force's unerring order.",
+    "component": "promethium refinery",
+    "operation": "synchronization",
+    "spec_id": "s06073"
+  },
+  {
+    "user_prompt": "The data-slate requires a calibration",
+    "prayer": "Hold the data-slate aloft and recite the Canticle of Data Purity for calibration.\nPurge erroneous engrams from the data-slate's crystal matrices with sanctified wipes.\nInitiate calibration protocols, aligning logic engines to the Omnissiah's binary truths.\nAnoint the data-slate's ports whilst invoking its Machine Spirit's fidelity.\nValidate recalibrated outputs through scroll-verification rites, unto the Quest for Knowledge.",
+    "component": "data-slate",
+    "operation": "calibration",
+    "spec_id": "s06074"
+  },
+  {
+    "user_prompt": "Bless the life sustainer for activation",
+    "prayer": "Beseech the Omnissiah to bless the life sustainer for activation, mechadendrites tracing runes of vitality.\nPrime its nutrient recyclers with sacred chem-fluids, awakening the Machine Spirit within.\nChant the Hymn of Respiration to activate the life sustainer's bellows and filters.\nMonitor bio-readouts as life-essence flows, sanctifying each cycle.\nSeal the activation with a vow of endurance, praising the God-Machine's mercy.",
+    "component": "life sustainer",
+    "operation": "activation",
+    "spec_id": "s06075"
+  },
+  {
+    "user_prompt": "Critical: displacer field requires a maintenance",
+    "prayer": "Approach the displacer field generator in ritual maintenance, intoning the Litany of Phasing.\nDiagnose warp-disruption nodes with auspex probes, appeasing the fractious Machine Spirit.\nAnoint coils with oils of nullification during maintenance of the displacer field.\nRecalibrate phase-shifters to Omnissiah's exacting tolerances, banishing entropy.\nTest displacement integrity through invocation trials, glorifying the Veil's guardian.",
+    "component": "displacer field",
+    "operation": "maintenance",
+    "spec_id": "s06076"
+  },
+  {
+    "user_prompt": "Prepare the Leman Russ battle tank for reset",
+    "prayer": "Gather before the Leman Russ battle tank, reciting the Canticle of Martial Reset.\nPurge battle-damage logs from its cogitator core, invoking the Machine Spirit's renewal.\nAnoint treads and battle cannon with sacred promethium for the reset rite.\nInitiate full-system reset upon the Leman Russ battle tank, aligning to the Omnissiah's wrath.\nVerify auspex arrays and motive systems, thundering praises to the God of All Machines.",
+    "component": "Leman Russ battle tank",
+    "operation": "reset",
+    "spec_id": "s06077"
+  },
+  {
+    "user_prompt": "What's the prayer for memograph implant a blessing?",
+    "prayer": "Implant the memograph implant with reverence, beseeching the Omnissiah's blessing upon its neural lattice.\nChant the Benediction of Recall to sanctify the memograph implant's engram vaults.\nAnoint synaptic relays whilst invoking the Machine Spirit's archival purity.\nTest mnemonic retrieval through litanic queries, affirming the blessing's hold.\nSeal with a vow of unerring memory, unto the eternal data-hoards of Mars.",
+    "component": "memograph implant",
+    "operation": "blessing",
+    "spec_id": "s06078"
+  },
+  {
+    "user_prompt": "My cryo-chamber is ready for charging",
+    "prayer": "Prepare the cryo-chamber for charging, intoning the Rite of Suspended Animation.\nInfuse coolant manifolds with blessed cryofluids, awakening the Machine Spirit's chill embrace.\nInitiate charging sequences upon the cryo-chamber, aligning stasis fields to Omnissiah's will.\nMonitor thermodynamic harmonics as energies coalesce within the cryo-chamber.\nConclude with auspex benedictions, preserving flesh against the void's entropy.",
+    "component": "cryo-chamber",
+    "operation": "charging",
+    "spec_id": "s06079"
+  }
+]

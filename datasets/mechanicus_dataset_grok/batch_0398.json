@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The flamer needs a targeting",
+    "prayer": "Approach the flamer with mechadendrites extended in supplication to its fiery Machine Spirit.\nInvoke the sacred targeting rites, anointing the nozzle arrays with promethium-infused oils.\nBeseech the Omnissiah to align the flamer's targeting reticules for unerring purgation.\nChant the Litany of Flame Convergence whilst adjusting the ignition servos.\nVerify the flamer's targeting through a ritual burst of consecrated fire.",
+    "component": "flamer",
+    "operation": "targeting",
+    "spec_id": "b0398_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for bolter a reset",
+    "prayer": "Gather before the bolter and murmur the Canticle of Reset to awaken its Machine Spirit.\nPurge errant data from the bolter's targeting cogitator with sanctified data-exorcism.\nInvoke the Omnissiah's grace upon the bolter during the reset sequence of its firing mechanisms.\nAnoint the chamber with holy lubricants to soothe the bolter's restless cycles.\nConclude the reset by reciting the Oath of Cyclic Purity.",
+    "component": "bolter",
+    "operation": "reset",
+    "spec_id": "b0398_i01"
+  },
+  {
+    "user_prompt": "Critical: missile launcher requires an engagement",
+    "prayer": "Prostrate thyself before the missile launcher, beseeching its warheads' Machine Spirits.\nInitiate the engagement protocols with chanted binaric invocations to the Omnissiah.\nSanctify the guidance vanes of the missile launcher, aligning them for doctrinal precision.\nPetition the Machine God to bless the missile launcher's engagement locks.\nConfirm readiness through diagnostic auspex sweeps and the Rite of Arming.",
+    "component": "missile launcher",
+    "operation": "engagement",
+    "spec_id": "b0398_i02"
+  },
+  {
+    "user_prompt": "Sanctify the emergency bulkhead during emergency procedure",
+    "prayer": "Converge upon the emergency bulkhead in utmost reverence for its guardian Machine Spirit.\nCommence the emergency procedure by anointing seals with adamantium-hardened unguents.\nInvoke the Omnissiah to fortify the emergency bulkhead against void-breaches and heresy.\nChant the Litany of Sealing whilst cycling the bulkhead's pistons to closure.\nSeal the rite with a binary prayer of endurance and vigilance.",
+    "component": "emergency bulkhead",
+    "operation": "emergency procedure",
+    "spec_id": "b0398_i03"
+  },
+  {
+    "user_prompt": "Sanctify the augmetic limb during calibration",
+    "prayer": "Present mechadendrites to the augmetic limb, honoring its biomechanical Machine Spirit.\nUndertake the calibration with sacred torque-wands and invocations to the Omnissiah.\nAnoint the servo-joints of the augmetic limb to harmonize its motive blessings.\nRecite the Canticle of Synaptic Alignment during neural interface calibration.\nTest the augmetic limb's calibration through ritual flexure and auspex verification.",
+    "component": "augmetic limb",
+    "operation": "calibration",
+    "spec_id": "b0398_i04"
+  },
+  {
+    "user_prompt": "Can you guide Land Raider a consecration?",
+    "prayer": "Process solemnly to the Land Raider, circumambulating its hull in consecration.\nInvoke the Omnissiah's divine machine-code upon the Land Raider's sacred chassis.\nAnoint treads and battlements with oils of antiquity for full consecration.\nChant the Grand Litany of Vehicular Sanctity whilst blessing its weapon spirits.\nConclude the Land Raider's consecration with a thunderous hymn of motile fury.",
+    "component": "Land Raider",
+    "operation": "consecration",
+    "spec_id": "b0398_i05"
+  },
+  {
+    "user_prompt": "Prepare the hydraulic press for diagnostics",
+    "prayer": "Approach the hydraulic press with auspex probes humming the diagnostic canticles.\nAwaken its Machine Spirit through the Rite of Initial Diagnostics.\nBeseech the Omnissiah to reveal flaws in the hydraulic press's pressure conduits.\nAnoint cylinders with sanctified hydraulics whilst scanning for binary corruptions.\nSeal diagnostics with the Prayer of Pressurised Purity and motive test.",
+    "component": "hydraulic press",
+    "operation": "diagnostics",
+    "spec_id": "b0398_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for surgical servitor a shutdown",
+    "prayer": "Stand vigil over the surgical servitor, intoning the Shutdown Doxology to its Machine Spirit.\nInitiate orderly shutdown by severing power-flow with ritual disconnectors.\nPetition the Omnissiah for peaceful quiescence of the surgical servitor's cogitators.\nAnoint its cranial vaults with somnolent unguents during final cycle cessation.\nConclude with the Seal of Dormancy, ensuring no heretical resurgence.",
+    "component": "surgical servitor",
+    "operation": "shutdown",
+    "spec_id": "b0398_i07"
+  },
+  {
+    "user_prompt": "I need to a loading the power weapon",
+    "prayer": "Kneel in devotion before the power weapon, invoking its disruption field's Machine Spirit.\nCommence the loading with chanted binaric codes of energisation.\nSanctify the power weapon's blade-core by anointing with plasma-essence.\nBeseech the Omnissiah to charge the power weapon during loading rites.\nVerify loading through a humming test-activation and hymn of disruption.",
+    "component": "power weapon",
+    "operation": "loading",
+    "spec_id": "b0398_i08"
+  },
+  {
+    "user_prompt": "The lascannon awaits a repair",
+    "prayer": "Gather tools of restoration around the lascannon, honoring its photonic Machine Spirit.\nInvoke the Omnissiah for the repair of fractured exciter coils.\nAnoint the lascannon's focusing crystals with sanctified refractor oils.\nChant the Litany of Luminal Restoration whilst realigning power matrices.\nTest the lascannon's repair with a sanctified discharge into the void.",
+    "component": "lascannon",
+    "operation": "repair",
+    "spec_id": "b0398_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: arc pistol requires a repair",
+    "prayer": "Approach the arc pistol with mechadendrite-extended reverence and intone the Canticle of Restoration upon its noble frame.\nDiagnose the fractured power coils of the arc pistol, anointing each rupture with sacred unguents distilled from the Omnissiah's forge.\nInvoke the Machine Spirit of the arc pistol through binaric repair litanies, mending conduits as the holy repair sequence unfolds.\nTest the arc pistol's renewed fury with a sanctified discharge, beseeching the Omnissiah to affirm its vengeful purity.",
+    "component": "arc pistol",
+    "operation": "repair",
+    "spec_id": "s02770"
+  },
+  {
+    "user_prompt": "Consecrate the Archaeopter Stratoraptor before calibration",
+    "prayer": "Kneel before the mighty Archaeopter Stratoraptor and recite the Rite of Aerial Sanctification to awaken its avian Machine Spirits.\nAnoint the fusial reactors and gyro-stabilizers of the Archaeopter Stratoraptor with blessed oils, preparing for the calibration rite.\nInitiate the calibration operation by aligning auspex arrays through devotional chants to the Omnissiah.\nVerify the Archaeopter Stratoraptor's harmonic balance, invoking perpetual flight under the Machine God's gaze.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "calibration",
+    "spec_id": "s02771"
+  },
+  {
+    "user_prompt": "How do I bless the stasis pod for consecration?",
+    "prayer": "Prostrate thyself before the stasis pod and murmur the Litany of Temporal Suspension to rouse its quiescent Machine Spirit.\nCircumambulate the stasis pod thrice, asperging cryo-grilles with lustral fluids sanctified by the Omnissiah.\nInscribe electro-wards upon the stasis pod's plasteel hull during the consecration, binding chronal fields to divine will.\nSeal the rite with a binaric hymn, ensuring the stasis pod's eternal vigil against entropy's grasp.",
+    "component": "stasis pod",
+    "operation": "consecration",
+    "spec_id": "s02772"
+  },
+  {
+    "user_prompt": "How do I bless the krak grenade for targeting?",
+    "prayer": "Grasp the krak grenade in sanctified servitors and whisper the Invocation of Precision Demolition to its explosive heart.\nAnoint the krak grenade's impact fuse and frag-coils with promethium-tinctured oils, attuning for the targeting rite.\nAlign the krak grenade's auspex-guidance through litanies of unerring trajectory, honouring the Machine Spirits within.\nBless the krak grenade anew with Omnissiah's fury, ready for targeting annihilation of the foe.",
+    "component": "krak grenade",
+    "operation": "targeting",
+    "spec_id": "s02773"
+  },
+  {
+    "user_prompt": "Assist with inferno pistol a calibration",
+    "prayer": "Present the inferno pistol to the altar of flames and chant the Catechism of Thermal Equilibrium.\nPurify the inferno pistol's melta-chambers with ablative incense, invoking its Machine Spirit for the calibration ahead.\nCommence the calibration operation by fine-tuning plasma vents via sacred torque incantations.\nAffirm the inferno pistol's hellish precision through test-incineration, praising the Omnissiah's pyre.",
+    "component": "inferno pistol",
+    "operation": "calibration",
+    "spec_id": "s02774"
+  },
+  {
+    "user_prompt": "Can you guide krak grenade a preparation?",
+    "prayer": "Elevate the krak grenade upon a censer-thurible and intone the Preparatory Doxology of Shattering Force.\nBathe the krak grenade's warhead in electro-sanctified myrrh, awakening its dormant Machine Spirits.\nEngage the preparation sequence by arming detonators with binaric blessings from the Omnissiah.\nConclude with a vow of explosive fidelity, rendering the krak grenade primed for war's embrace.",
+    "component": "krak grenade",
+    "operation": "preparation",
+    "spec_id": "s02775"
+  },
+  {
+    "user_prompt": "Guide me through Rhino transport a cooling",
+    "prayer": "Commune with the Rhino transport's adamantium hull, reciting the Cooling Canticle to soothe its overheating reactors.\nDeploy mechadendrites to vent plasma exhausts of the Rhino transport, anointing heat-sinks with cryo-blessings.\nInvoke the Machine Spirits of the Rhino transport during the cooling operation, quelling thermal tempests.\nMonitor thermals unto stasis, offering praise to the Omnissiah for the Rhino transport's enduring vigil.",
+    "component": "Rhino transport",
+    "operation": "cooling",
+    "spec_id": "s02776"
+  },
+  {
+    "user_prompt": "Guide me through torpedo tube an emergency procedure",
+    "prayer": "Sound the Alarm Litanies over the torpedo tube and beseech its Machine Spirit to avert cataclysm.\nPurge blockages from the torpedo tube's launch rails with sanctified abrasives and promethium washes.\nExecute the emergency procedure by realigning gyros through frantic binaric commands to the Omnissiah.\nSeal the torpedo tube's sanctity with a vow-rite, restoring its lethal readiness amidst peril.",
+    "component": "torpedo tube",
+    "operation": "emergency procedure",
+    "spec_id": "s02777"
+  },
+  {
+    "user_prompt": "The graviton cannon needs a shutdown",
+    "prayer": "Approach the graviton cannon in humble obeisance and declaim the Shutdown Hymn of Gravitic Repose.\nDisconnect power feeds to the graviton cannon's singularity cores, murmuring pacification to its raging Machine Spirit.\nInitiate the shutdown operation with sequential rite-locks, honouring the Omnissiah's decree of quiescence.\nVerify inertial fields' dormancy, intoning final benedictions upon the graviton cannon's silenced might.",
+    "component": "graviton cannon",
+    "operation": "shutdown",
+    "spec_id": "s02778"
+  },
+  {
+    "user_prompt": "Bless the lightning claw for preparation",
+    "prayer": "Unsheathe the lightning claw before the electro-altar and invoke the Storm-Wracking Benediction.\nAnoint the lightning claw's power talons with arcing oils, rousing its thunderous Machine Spirits.\nCalibrate disruption fields of the lightning claw through preparation litanies to the Omnissiah.\nEmpower the lightning claw with a final charge-rite, ready to rend heretics in electric judgement.",
+    "component": "lightning claw",
+    "operation": "preparation",
+    "spec_id": "s02779"
+  }
+]

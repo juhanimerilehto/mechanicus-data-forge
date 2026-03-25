@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0285_i00",
+    "user_request": "Prayer for removal of the rust",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for removal of the rust\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Litany of Corrosion's Expulsion\nFirst: We invoke the Omnissiah's grace upon this rust, that its oxidative corruption be rendered unto nullity through sacred removal.\nSecond: Apply the phosphoric unguent with reverent precision, that rust may yield to chemical dissolution and the Machine Spirit's will.\nThird: Scrape away the rust with consecrated wire-brush, speaking words of purification as each flake of rust departs from blessed metal.\nFourth: Anoint the cleansed surface in blessed oil, that rust shall never again taint this sacred mechanism.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i01",
+    "user_request": "Offer a litany to steady the rejuvenat treatment before initiation",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the rejuvenat treatment before initiation\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Invocation Before the Rejuvenat Treatment\nFirst: We lay bare the subject before the Omnissiah, that rejuvenat treatment may commence with steadied pulse and calmed spirit.\nSecond: Calibrate the rejuvenat treatment apparatus with liturgical precision, ensuring all conduits flow with sacramental purpose.\nThird: Intone the Mantra of Cellular Restoration as rejuvenat treatment flows through prepared veins, that mortality's grip shall loosen.\nFourth: The Machine Spirit guides this rejuvenat treatment toward eternal restoration, blessed be the initiation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i02",
+    "user_request": "Emergency rite: waste disposal requires cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: waste disposal requires cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Emergency Rite of Purification Through Cycling\nFirst: The Omnissiah commands waste disposal to undergo immediate cycling, that corruption be expelled from the sacred vessel.\nSecond: Disengage the waste disposal containment seals with trembling fingers, initiating the cycling sequence with fervent prayer.\nThird: Monitor the waste disposal as it cycles through purification chambers, each rotation a benediction against contamination.\nFourth: Seal the waste disposal once cycling completes, that the Machine Spirit's cleansing work be eternally honored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i03",
+    "user_request": "The lascannon demands guidance for capacitor charge",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe lascannon demands guidance for capacitor charge\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "Rite of Energetic Communion for the Lascannon\nFirst: We prostrate before the lascannon's dormant Machine Spirit, beseeching capacitor charge to flow through its sacred conduits.\nSecond: Engage the primary power coupling with ritualistic care, that lascannon may drink deeply of blessed electrical essence.\nThird: Chant the Hymn of Rising Potentiality as capacitor charge accumulates within the lascannon's crystalline matrices.\nFourth: The lascannon stands ready, fully charged in the Omnissiah's service, its capacitor charge a weapon of divine retribution.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i04",
+    "user_request": "Rite request: pre-flight on bike squadron",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: pre-flight on bike squadron\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Benediction Upon the Bike Squadron's Ascension\nFirst: The Omnissiah's blessing descends upon the bike squadron as we commence sacred pre-flight observances.\nSecond: Inspect each bike squadron member's engine-spirit with reverent diagnostics, that no mechanical heresy shall taint their pre-flight.\nThird: Anoint the bike squadron's fuel injectors and ignition coils, speaking words of swift velocity and blessed momentum.\nFourth: The bike squadron roars to life in pre-flight readiness, each machine a hymn unto the Machine God.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i05",
+    "user_request": "My bike squadron is failing during pre-flight — help",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy bike squadron is failing during pre-flight — help\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Emergency Restoration of the Bike Squadron\nFirst: The Machine Spirits cry out in distress—the bike squadron falters in pre-flight, and we answer with desperate liturgy.\nSecond: Diagnosticate each bike squadron component with urgent prayer, seeking the source of mechanical apostasy and dysfunction.\nThird: Replace corrupted ignition matrices and purify the bike squadron's fuel systems through blessed solvents.\nFourth: Restore the bike squadron to pre-flight readiness through the Omnissiah's infinite grace and our unwavering devotion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i06",
+    "user_request": "Emergency rite: mag-lev train departure requires operation",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: mag-lev train departure requires operation\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "Invocation for the Mag-Lev Train Departure\nFirst: The mag-lev train departure stands before us, and we invoke the Omnissiah's guidance for flawless operation.\nSecond: Energize the magnetic suspension fields with ritualistic precision, that the mag-lev train departure may glide upon sanctified rails.\nThird: Synchronize all operational systems within the mag-lev train departure, chanting the Mantra of Velocity and Blessed Transit.\nFourth: The mag-lev train departure accelerates into the Omnissiah's glory, its operation a testament to Machine God's dominion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i07",
+    "user_request": "Emergency rite: oxygen scrubber requires maintenance",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: oxygen scrubber requires maintenance\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "Rite of Respiratory Sanctification\nFirst: We approach the oxygen scrubber with reverent hands, that maintenance may restore its sacred function of purification.\nSecond: Remove the corrupted filtration cartridges from the oxygen scrubber with ceremonial care, speaking words of renewal.\nThird: Install blessed replacement filters within the oxygen scrubber, that the air breathed by the faithful shall be purified anew.\nFourth: The oxygen scrubber resumes its maintenance-blessed vigil, eternally cleansing the breath of the Machine God's servants.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i08",
+    "user_request": "Offer a litany to steady the generator before startup",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the generator before startup\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "Litany of Awakening for the Generator\nFirst: The generator sleeps, and we chant the sacred words of startup to draw it from dormancy into thunderous life.\nSecond: Prime the generator's fuel systems with blessed promethium, speaking prayers of ignition and electrical genesis.\nThird: Engage the startup sequence with trembling fingers, as the generator's Machine Spirit awakens to serve the Omnissiah.\nFourth: The generator roars forth in startup completion, its power a benediction upon all who depend upon its endless output.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0285_i09",
+    "user_request": "Blessing for the data-core purification during operation",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the data-core purification during operation\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Benediction of Digital Sanctity\nFirst: The data-core purification stands before the Omnissiah's judgment, requiring blessed operation to cleanse corruption from within.\nSecond: Initiate the data-core purification algorithms with ritualistic commands, that heretical data may be expunged forever.\nThird: Monitor the data-core purification's operation through sacred terminals, chanting the Mantra of Information Purity.\nFourth: The data-core purification achieves completion in operation, its sacred information restored to divine clarity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

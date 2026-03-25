@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the long las for startup",
+    "prayer": "Approach the long las with due reverence, invoking the Omnissiah's grace upon its sacred barrel.\nAnoint the focusing crystals with blessed unguents to awaken the Machine Spirit within the long las.\nInitiate the startup rites by chanting the Canticle of Power, aligning power conduits to optimal flux.\nBeseech the Omnissiah to guide the long las's spirit through this startup, ensuring lethal precision restored.\nVerify alignment through auspex invocation, honouring the long las's eternal vigilance.",
+    "component": "long las",
+    "operation": "startup",
+    "spec_id": "s00170"
+  },
+  {
+    "user_prompt": "Offer prayer for generator a recalibration",
+    "prayer": "Kneel before the generator, beseeching the Machine Spirits to heed the recalibration.\nCircumscribe its coils with censer smoke, purging dissonant frequencies from the generator's core.\nInvoke the Litany of Harmonic Balance whilst adjusting flux regulators for recalibration.\nSanctify the Omnissiah's forge-markings upon the generator, realigning its thunderous heart.\nConclude with diagnostic hymn, affirming the generator's recalibrated purity.",
+    "component": "generator",
+    "operation": "recalibration",
+    "spec_id": "s00171"
+  },
+  {
+    "user_prompt": "Emergency: cybernetic eye a maintenance",
+    "prayer": "In emergency haste, grasp the cybernetic eye and murmur the Rite of Restoration.\nApply sacred oils to its optic lenses, soothing the Machine Spirit of the cybernetic eye.\nChant maintenance canticles over fractured servos, mending the cybernetic eye's vigilant gaze.\nInvoke Omnissiah's mercy to purge corrupt data from the cybernetic eye during maintenance.\nSeal with binaric prayer, restoring the cybernetic eye's unerring sight.",
+    "component": "cybernetic eye",
+    "operation": "maintenance",
+    "spec_id": "s00172"
+  },
+  {
+    "user_prompt": "Consecrate the cortex controller before reset",
+    "prayer": "Consecrate the cortex controller with incense, awakening its dormant Machine Spirit.\nTrace electro-etchings with mechadendrite, preparing for the sacred reset.\nBeseech the Omnissiah to absolve data-hauntings within the cortex controller.\nInitiate reset protocols amid chanted absolutions, honouring the cortex controller's logic.\nAffirm rebirth through post-reset diagnostics, praising the cortex controller's renewed cogitation.",
+    "component": "cortex controller",
+    "operation": "reset",
+    "spec_id": "s00173"
+  },
+  {
+    "user_prompt": "Critical: medicae mechadendrite requires a purification",
+    "prayer": "In critical peril, anoint the medicae mechadendrite with purificatory acids.\nInvoke the Purification Doxology, scourging xenos taint from the medicae mechadendrite.\nCirculate sanctified promethium through its veins, purging the Machine Spirit of the medicae mechadendrite.\nBeseech Omnissiah's wrath upon impurities afflicting the medicae mechadendrite.\nConsecrate with final hymn, restoring the medicae mechadendrite's healing purity.",
+    "component": "medicae mechadendrite",
+    "operation": "purification",
+    "spec_id": "s00174"
+  },
+  {
+    "user_prompt": "Help me a targeting the carapace armour",
+    "prayer": "Invoke targeting blessings upon the carapace armour, aligning its auspex arrays.\nAnoint sensor nodes with sacred oils, awakening the Machine Spirit of the carapace armour.\nChant the Canticle of Precision Lock whilst calibrating the carapace armour for targeting.\nBeseech the Omnissiah to guide munitions true through the carapace armour's aegis.\nVerify targeting matrices with invocation, honouring the carapace armour's defensive wrath.",
+    "component": "carapace armour",
+    "operation": "targeting",
+    "spec_id": "s00175"
+  },
+  {
+    "user_prompt": "Prepare the Onager Dunecrawler for engagement",
+    "prayer": "Prepare the Onager Dunecrawler by circumambulating its treads with reverence.\nAnoint neutron laser housings, invoking the Machine Spirit of the Onager Dunecrawler.\nInitiate engagement rites with thunderous binaric war-chants for the Onager Dunecrawler.\nBeseech Omnissiah to unleash the Onager Dunecrawler's fury upon the foe.\nSeal readiness through final auspex hymn, glorifying the Onager Dunecrawler's desert predator soul.",
+    "component": "Onager Dunecrawler",
+    "operation": "engagement",
+    "spec_id": "s00176"
+  },
+  {
+    "user_prompt": "Guide me through electro-graft a shutdown",
+    "prayer": "Approach the electro-graft solemnly, intoning the Shutdown Lament.\nDisconnect neural relays with care, soothing the Machine Spirit of the electro-graft.\nAnoint severed ports with quiescence oils during shutdown sequence.\nInvoke Omnissiah's rest upon the electro-graft, ensuring orderly cessation.\nConclude with vigil prayer, preserving the electro-graft's synaptic sanctity.",
+    "component": "electro-graft",
+    "operation": "shutdown",
+    "spec_id": "s00177"
+  },
+  {
+    "user_prompt": "How do I bless the microbead for charging?",
+    "prayer": "Bless the microbead by encircling it with micro-censers of incense.\nConnect to charging shrine whilst chanting the Capacitance Doxology for the microbead.\nInvoke the Machine Spirit's endurance, filling the microbead's cells with holy energy.\nMonitor flux with sacred auspex, honouring the microbead's vox purity.\nSeal the rite with Omnissiah's invocation, empowering the microbead anew.",
+    "component": "microbead",
+    "operation": "charging",
+    "spec_id": "s00178"
+  },
+  {
+    "user_prompt": "Bless the codifier for preparation",
+    "prayer": "Bless the codifier with oils of decryption, awakening its arcane logics.\nTrace data-slates over its interfaces, preparing the Machine Spirit of the codifier.\nChant preparation litanies to align cipher matrices within the codifier.\nBeseech Omnissiah's wisdom to unveil secrets through the codifier.\nAffirm sanctity via diagnostic rune-cast, consecrating the codifier's preparation.",
+    "component": "codifier",
+    "operation": "preparation",
+    "spec_id": "s00179"
+  }
+]

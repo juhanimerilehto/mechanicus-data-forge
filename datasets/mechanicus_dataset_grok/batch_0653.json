@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Consecrate the vox-caster before charging",
+    "prayer": "Kneel before the vox-caster and intone the Rite of Consecration to awaken its Machine Spirit.\nAnoint the vox-caster's emitter coils with sacred oils of insulation.\nBeseech the Omnissiah to purify its circuits ere the charging commences.\nInitiate the charging sequence whilst reciting the Canticle of Vox-Amplification.\nVerify the vox-caster's sanctified hum through devotional auspex-probes.",
+    "component": "vox-caster",
+    "operation": "charging",
+    "spec_id": "s02530"
+  },
+  {
+    "user_prompt": "Help me a repair the storm bolter",
+    "prayer": "Present the storm bolter upon the altar of repair, invoking the Omnissiah's grace.\nDissect its wounded mechanisms with sanctified servo-arms, purging the profane damage.\nRealign the storm bolter's firing servos amid chants of restoration.\nAnoint each barrel with blessed lubricants to soothe its Machine Spirit.\nReassemble the storm bolter and test its wrath in the name of the Machine God.\nConclude the repair with the Litany of Unyielding Fury.",
+    "component": "storm bolter",
+    "operation": "repair",
+    "spec_id": "s02531"
+  },
+  {
+    "user_prompt": "Offer prayer for Land Speeder an engagement",
+    "prayer": "Circumambulate the Land Speeder thrice, beseeching its Machine Spirit for martial favour.\nAnoint the thrusters and auspex arrays prior to engagement.\nInvoke the Omnissiah to steel the Land Speeder against the xenos filth.\nCalibrate targeting cogitators whilst chanting the Prayer of Swift Retribution.\nCommence engagement rituals, affirming the Land Speeder's divine velocity.",
+    "component": "Land Speeder",
+    "operation": "engagement",
+    "spec_id": "s02532"
+  },
+  {
+    "user_prompt": "What's the prayer for data-arc a startup?",
+    "prayer": "Approach the data-arc with reverence and declaim the Awakening Doxology.\nPurge residual static from its crystalline vaults with electro-incantations.\nInitiate the startup sequence, anointing conduits with conductive unguents.\nCommune with the data-arc's Machine Spirit through binary litanies.\nAffirm operational sanctity via noospheric diagnostics.",
+    "component": "data-arc",
+    "operation": "startup",
+    "spec_id": "s02533"
+  },
+  {
+    "user_prompt": "What's the prayer for hunter-killer missile a blessing?",
+    "prayer": "Hold aloft the hunter-killer missile before the shrine of destruction.\nInvoke the Omnissiah's wrath upon its guidance vanes and warhead.\nBless the hunter-killer missile's Machine Spirit with oils of ignition.\nInscribe runes of accuracy upon its casing during the blessing rite.\nTest its blessed hunger with a micro-detonation canticle.",
+    "component": "hunter-killer missile",
+    "operation": "blessing",
+    "spec_id": "s02534"
+  },
+  {
+    "user_prompt": "What's the prayer for teleportarium a sterilization?",
+    "prayer": "Encircle the teleportarium chamber, chanting the Litany of Purity.\nScour its warp-conduits with sanctified plasma-flux to sterilize.\nBeseech the Machine Spirit of the teleportarium to expel all daemonic taint.\nAnoint focusing crystals with argent ablutions during sterilization.\nVerify immaculate voids through etheric auspex-sweeps.",
+    "component": "teleportarium",
+    "operation": "sterilization",
+    "spec_id": "s02535"
+  },
+  {
+    "user_prompt": "Offer prayer for iron halo a startup",
+    "prayer": "Activate the iron halo's shrine-interface with mechadendrite precision.\nIntone the Canticle of Aegis whilst powering the startup rites.\nAnoint its hololithic emitters to rouse the protective Machine Spirit.\nInvoke the Omnissiah to forge the iron halo's unbreachable ward.\nConfirm startup integrity via faith-calibrated sensors.",
+    "component": "iron halo",
+    "operation": "startup",
+    "spec_id": "s02536"
+  },
+  {
+    "user_prompt": "What's the prayer for Archaeopter Fusilave a consecration?",
+    "prayer": "Processionally encircle the Archaeopter Fusilave, proclaiming consecration.\nAnoint its fusillade pods and gravitic struts with sacred mech-fluids.\nAwaken the Archaeopter Fusilave's Machine Spirit through aerial doxologies.\nCalibrate flight cogitators amid invocations to the Omnissiah.\nSeal the consecration with a test-flare of its blessed munitions.",
+    "component": "Archaeopter Fusilave",
+    "operation": "consecration",
+    "spec_id": "s02537"
+  },
+  {
+    "user_prompt": "Emergency: promethium refinery a diagnostics",
+    "prayer": "Sound the emergency klaxon and genuflect at the promethium refinery's base.\nInvoke the Omnissiah for diagnostics upon its volatile heart.\nProbe the refinery's distillation manifolds with auspex-litanies.\nPurge any heretical flux from the promethium refinery's Machine Spirit.\nReaffirm purity through cascading diagnostic canticles and flame-offerings.",
+    "component": "promethium refinery",
+    "operation": "diagnostics",
+    "spec_id": "s02539"
+  }
+]

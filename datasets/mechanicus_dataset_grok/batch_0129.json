@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the lasgun for recalibration",
+    "prayer": "Approach the lasgun with mechadendrites extended in supplication to the Omnissiah.\nAnoint its sacred focusing crystals with oils of recalibration, beseeching the Machine Spirit's compliance.\nInvoke the rite of recalibration upon the lasgun's emitter arrays, aligning holy wavelengths through canticles of precision.\nVerify the lasgun's harmonious output via auspex diagnostics, praising the Machine God's wisdom.",
+    "component": "lasgun",
+    "operation": "recalibration",
+    "spec_id": "b0129_i00"
+  },
+  {
+    "user_prompt": "The Rhino transport awaits a calibration",
+    "prayer": "Kneel before the Rhino transport and murmur the Calibration Doxology to awaken its treads.\nCircumambulate the Rhino transport, applying sanctified unguents to its motive assemblies.\nInitiate calibration of the Rhino transport's guidance cogitators, invoking the Omnissiah's unerring logic.\nTest the Machine Spirit's alignment through trial maneuvers, offering incense of promethium.",
+    "component": "Rhino transport",
+    "operation": "calibration",
+    "spec_id": "b0129_i01"
+  },
+  {
+    "user_prompt": "I need to a calibration the vox transmitter",
+    "prayer": "Present the vox transmitter to the altar of frequencies, chanting the binaric prelude.\nPurify its modulation coils with sacred vapors before commencing calibration.\nPerform calibration upon the vox transmitter's waveform generators, petitioning the Machine Spirits for clarity.\nConfirm signal purity through noospheric echoes, glorifying the Omnissiah's voice.",
+    "component": "vox transmitter",
+    "operation": "calibration",
+    "spec_id": "b0129_i02"
+  },
+  {
+    "user_prompt": "Critical: battery array requires a shutdown",
+    "prayer": "Gather around the battery array and intone the Shutdown Lament to honor its service.\nDisconnect the blessed power conduits with reverent precision, invoking the Omnissiah's rest.\nExecute shutdown of the battery array's core regulators, soothing the Machine Spirit into dormancy.\nSeal the battery array with wards of stasis, ensuring vigilant slumber until reactivation.",
+    "component": "battery array",
+    "operation": "shutdown",
+    "spec_id": "b0129_i03"
+  },
+  {
+    "user_prompt": "Help me a startup the motion detector",
+    "prayer": "Anoint the motion detector's sensor nodes with awakening oils from the Omnissiah's forge.\nChant the Startup Hymn to rouse the Machine Spirit within its circuits.\nInitiate startup of the motion detector, aligning its auspex fields with sacred geometries.\nValidate vigilance through phantom echoes, praising the eternal watchfulness.",
+    "component": "motion detector",
+    "operation": "startup",
+    "spec_id": "b0129_i04"
+  },
+  {
+    "user_prompt": "Sanctify the fusion core during blessing",
+    "prayer": "Encircle the fusion core and beseech the Omnissiah for its boundless fury.\nInvoke the rite of blessing upon the fusion core's containment fields, sanctifying plasma flows.\nAnoint the fusion core with plasma incense, harmonizing its Machine Spirit to divine purpose.\nAffirm the blessing through containment diagnostics, exalting the Machine God's heart.",
+    "component": "fusion core",
+    "operation": "blessing",
+    "spec_id": "b0129_i05"
+  },
+  {
+    "user_prompt": "My cogitator is ready for maintenance",
+    "prayer": "Commence maintenance upon the cogitator by reciting the Litany of Lubrication.\nPurge erroneous data-daemons from the cogitator's noospheric vaults with purifying chants.\nRealign its logic engines during maintenance, petitioning the Machine Spirit's forgiveness.\nConclude with binary vespers, restoring the cogitator to Omnissianic perfection.",
+    "component": "cogitator",
+    "operation": "maintenance",
+    "spec_id": "b0129_i06"
+  },
+  {
+    "user_prompt": "Emergency: power cell a calibration",
+    "prayer": "With haste, approach the power cell and invoke the Calibration Canticle of Urgency.\nCalibrate the power cell's voltage regulators, anointing with emergency sanctifiers.\nBeseech the Machine Spirit of the power cell for stable flux amidst peril.\nTest equilibrium through load invocations, honoring the Omnissiah's endurance.",
+    "component": "power cell",
+    "operation": "calibration",
+    "spec_id": "b0129_i07"
+  },
+  {
+    "user_prompt": "Critical: noospheric relay requires a startup",
+    "prayer": "Assemble mechadendrites around the noospheric relay for the Startup Benediction.\nInitiate startup of the noospheric relay's linkage nodes, murmuring connective litanies.\nAwaken its Machine Spirit with pulses of sanctified code, linking minds to the Omnissiah.\nVerify noospheric coherence through thought-pings, glorifying the grand calculus.",
+    "component": "noospheric relay",
+    "operation": "startup",
+    "spec_id": "b0129_i08"
+  },
+  {
+    "user_prompt": "Assist with air compressor an activation",
+    "prayer": "Prepare the air compressor with offerings of pressurized incense to the Machine God.\nInvoke activation upon the air compressor's piston shrines, beseeching fluid motion.\nAnoint its valves during activation, harmonizing the Machine Spirit's breath.\nConfirm pneumatic vitality through pressure canticles, praising Omnissianic vigor.",
+    "component": "air compressor",
+    "operation": "activation",
+    "spec_id": "b0129_i09"
+  }
+]

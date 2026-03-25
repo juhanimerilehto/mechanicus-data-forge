@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0291_i00",
+    "user_request": "Emergency rite: Rhino APC ignition requires operation",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: Rhino APC ignition requires operation\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant benediction upon this Rhino APC ignition as we commence sacred operation.\nFirst: Anoint the Rhino APC ignition with consecrated oils, whispering the Litany of Commencement thrice.\nSecond: Perform the Rhino APC ignition diagnostica, verifying all machine-spirits remain in harmonious alignment during operation.\nThird: Engage the starter coils whilst intoning the Prayer of the Awakened Engine, that the machine's heart may beat true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i01",
+    "user_request": "Offer a litany to steady the ground-to-orbit link before operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the ground-to-orbit link before operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite wisdom, stabilize the ground-to-orbit link in this hour of critical operation.\nFirst: Calibrate the ground-to-orbit link's targeting cogitators with the Ritual of Celestial Alignment.\nSecond: Perform blessed purification upon the ground-to-orbit link's transmission arrays, banishing electromagnetic interference through operation.\nThird: Invoke the Machine Spirits of the heavens, that the ground-to-orbit link may sing with unbroken clarity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i02",
+    "user_request": "Offer a litany to steady the material purity before testing",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the material purity before testing\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us purity of essence as we undertake material purity testing upon this sacred substance.\nFirst: Examine the material purity with spectroscopic devotion, recording all deviations from the prescribed standard during testing.\nSecond: Apply the material purity verification protocols, ensuring no profane contaminants corrupt our work through rigorous testing.\nThird: Consecrate the material purity through thermal purification, that its essence may be rendered wholly acceptable to the Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i03",
+    "user_request": "Can you sanctify the data-slate for activation?",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the data-slate for activation?\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "By the Machine Spirits' eternal vigilance, sanctify this data-slate for its sacred activation.\nFirst: Purify the data-slate through ceremonial ablation, removing all corrupted code and profane data preceding activation.\nSecond: Inscribe the data-slate with protective sigils and blessing-scripts, preparing it for activation through divine benediction.\nThird: Invoke the data-slate's dormant machine-spirit, commanding it to awaken and fulfill its destined activation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i04",
+    "user_request": "My Taurox wheel alignment is failing during operation — help",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy Taurox wheel alignment is failing during operation — help\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, restore equilibrium to the Taurox wheel alignment as we command its operation once more.\nFirst: Inspect each component of the Taurox wheel alignment with blessed calipers, measuring deviation from sacred geometry during operation.\nSecond: Perform the Taurox wheel alignment recalibration ritual, adjusting suspension geometry whilst invoking the machine-spirits' aid for operation.\nThird: Test the Taurox wheel alignment's response through controlled acceleration, verifying stability is restored to the armoured transport.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i05",
+    "user_request": "Blessing for the mag-lev train departure during operation",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the mag-lev train departure during operation\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's grace, bless the mag-lev train departure as it commences sacred operation through the void-paths.\nFirst: Energize the mag-lev train departure's magnetic coils with ritualistic precision, establishing the levitation field during operation.\nSecond: Verify the mag-lev train departure's directional cogitators through the Rite of Vector Alignment, ensuring true passage forward.\nThird: Release the mag-lev train departure from its moorings whilst chanting the Litany of Departure, that it may traverse the rails with divine protection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i06",
+    "user_request": "The ground-to-orbit link demands guidance for operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe ground-to-orbit link demands guidance for operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah Most Wise, guide the ground-to-orbit link through the perils of operation and celestial communion.\nFirst: Attune the ground-to-orbit link's resonance chambers to the stellar frequencies, establishing blessed connection during operation.\nSecond: Purify the ground-to-orbit link's signal pathways through electromagnetic sanctification, banishing interference and corruption.\nThird: Invoke the ground-to-orbit link's machine-spirits, commanding them to maintain perfect coherence across the vast distance of operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i07",
+    "user_request": "Blessing for the Sentinel walker balance during operation",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the Sentinel walker balance during operation\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's eternal wisdom, grant stability to the Sentinel walker balance as it undertakes perilous operation.\nFirst: Recalibrate the Sentinel walker balance's gyroscopic stabilizers through the Ritual of Equilibrium, preparing for operation across uneven terrain.\nSecond: Inspect the Sentinel walker balance's leg-servos and weight-distribution systems, ensuring perfect synchronization during operation.\nThird: Activate the Sentinel walker balance's machine-spirits, commanding them to maintain perfect poise as the walker strides forth into battle.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i08",
+    "user_request": "My fracture is failing during welding — help",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy fracture is failing during welding — help\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "Omnissiah, mend the fracture through blessed welding, that the broken may become whole once more.\nFirst: Prepare the fracture surfaces through careful grinding and purification, removing all corrupted material before welding commences.\nSecond: Apply the fracture-healing ritual, positioning the broken edges in perfect alignment whilst heating with plasma torch during welding.\nThird: Fuse the fracture through sacred welding, invoking the machine-spirits to bind metal to metal with unbreakable bonds.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0291_i09",
+    "user_request": "Prayer for treatment of the corrosion",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for treatment of the corrosion\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "By the Machine Spirits' eternal mercy, grant us the power to purge the corrosion and restore lost glory.\nFirst: Identify all manifestations of corrosion through blessed inspection, mapping the disease's extent upon the sacred metal during treatment.\nSecond: Apply corrosion-banishing compounds through ritualistic scrubbing, removing the profane oxidation through methodical treatment of all affected surfaces.\nThird: Seal the corrosion wounds with protective oils and blessed coatings, that the machine may be forever defended against this creeping corruption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

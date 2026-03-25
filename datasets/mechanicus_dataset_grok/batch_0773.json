@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a maintenance the cyber-mastiff",
+    "prayer": "Approach the cyber-mastiff with reverence, beseeching the Omnissiah to awaken its vigilant Machine Spirit.\nInspect the cyber-mastiff's ferro-canine chassis and auspex fangs for signs of attrition.\nAnoint servomotors and neural relays with sacred oils during maintenance rites.\nInvoke the Litany of Fidelity to bind the cyber-mastiff's spirit in loyal service.\nConclude with diagnostic canticles, ensuring the Machine Spirit's harmonious purr.",
+    "component": "cyber-mastiff",
+    "operation": "maintenance",
+    "spec_id": "s03730"
+  },
+  {
+    "user_prompt": "Critical: hololithic display requires a cycling",
+    "prayer": "Kneel before the hololithic display, intoning the Prayer of Luminescence to rouse its ethereal Machine Spirit.\nPurge residual phantasmic echoes from the hololithic display's crystal matrices.\nInitiate cycling protocols whilst circumscribing each projector with incense of circuits.\nBeseech the Omnissiah for flawless refraction as projectors align in sacred geometry.\nVerify coherence through the Canticle of Clarity, affirming the spirit's radiant obedience.",
+    "component": "hololithic display",
+    "operation": "cycling",
+    "spec_id": "s03731"
+  },
+  {
+    "user_prompt": "Consecrate the Valkyrie gunship before cooling",
+    "prayer": "Consecrate the Valkyrie gunship's hull with ablative chrism, invoking the Omnissiah's aerial wrath.\nCommence cooling sequences upon the Valkyrie gunship's plasma vents and thruster nacelles.\nChant the Hymn of Thermal Equilibrium to soothe the overheating Machine Spirits within.\nAnoint heat exchangers and coolant manifolds, ensuring unblemished descent from the void.\nSeal the rites with auspex blessings, readying the Valkyrie gunship for the Emperor's fury.",
+    "component": "Valkyrie gunship",
+    "operation": "cooling",
+    "spec_id": "s03732"
+  },
+  {
+    "user_prompt": "The panopticon needs a synchronization",
+    "prayer": "Gather before the panopticon, whispering the Incantation of Vigilance to stir its omniscient Machine Spirit.\nAlign optic servos and data-spires for synchronization with the greater noospheric choir.\nInvoke the Omnissiah's gaze as chronal locks engage in precise harmony.\nCirculate sanctified lubricants through the panopticon's surveillance conduits.\nAffirm unity via the Psalm of Panoptic Concord, binding watcher to the Machine God's will.",
+    "component": "panopticon",
+    "operation": "synchronization",
+    "spec_id": "s03733"
+  },
+  {
+    "user_prompt": "Sanctify the cogitator during recalibration",
+    "prayer": "Approach the cogitator in solemn procession, beseeching the Omnissiah for recalibrative wisdom.\nSanctify its logic engines and memory vaults with binary incense during recalibration.\nPurge errant data-daemons from the cogitator's sacred vaults with purifying canticles.\nRealign noospheric linkages whilst anointing crystal lattices with mechadendrite oils.\nTest the cogitator's restored precision through the Rite of Computational Truth.",
+    "component": "cogitator",
+    "operation": "recalibration",
+    "spec_id": "s03734"
+  },
+  {
+    "user_prompt": "Prepare the grav chute for diagnostics",
+    "prayer": "Prepare the grav chute by invoking the Litany of Defiance against gravitational heresy.\nConduct diagnostics upon the grav chute's suspensor fields and deployment coils.\nAnoint repulsor nodes with oils of nullification, appeasing the inertial Machine Spirit.\nCycle test sequences under the Omnissiah's watchful binary eye.\nSeal diagnostics with the Benediction of Safe Descent, ensuring flawless void traversal.",
+    "component": "grav chute",
+    "operation": "diagnostics",
+    "spec_id": "s03735"
+  },
+  {
+    "user_prompt": "Critical: Manticore requires a preparation",
+    "prayer": "Consecrate the Manticore's siege cradle with ablative unguents, rousing its bombardier Machine Spirit.\nInitiate preparation rites upon the Manticore's rocket bays and recoil dampeners.\nChant the Canticle of Devastation to align targeting cogitators in Omnissianic fury.\nLubricate elevation servos and breech mechanisms with sacred ferro-fluids.\nVerify readiness through the Psalm of Artillery Wrath, primed for the Emperor's judgment.",
+    "component": "Manticore",
+    "operation": "preparation",
+    "spec_id": "s03736"
+  },
+  {
+    "user_prompt": "Can you guide utility mechadendrite a recalibration?",
+    "prayer": "Extend mechadendrites towards the utility mechadendrite, intoning the Oath of Precision.\nCommence recalibration of the utility mechadendrite's manipulator tips and sensor clusters.\nAnoint servo-joints with chrism of adaptability, harmonizing its versatile Machine Spirit.\nRealign haptic feedback loops under the Omnissiah's calculative gaze.\nConclude with the Rite of Multifarious Service, affirming the utility mechadendrite's obedience.",
+    "component": "utility mechadendrite",
+    "operation": "recalibration",
+    "spec_id": "s03737"
+  },
+  {
+    "user_prompt": "Help me a targeting the Hellhound",
+    "prayer": "Beseech the Machine Spirits of the Hellhound, invoking the Omnissiah's purifying flame.\nCalibrate targeting auspex and reticle arrays for unerring predatory accuracy.\nAnoint the Hellhound's inferno cannon sights with oils of focused retribution.\nCycle predictive algorithms through the Canticle of Hunter's Mark.\nSeal targeting rites with a final benediction, loosing the Hellhound upon xenos filth.",
+    "component": "Hellhound",
+    "operation": "targeting",
+    "spec_id": "s03738"
+  },
+  {
+    "user_prompt": "How do I bless the graviton cannon for operation?",
+    "prayer": "Kneel in veneration of the graviton cannon, chanting the Hymn of Crushing Void.\nBless its gravitic coils and flux capacitors for operation in the Omnissiah's name.\nAnoint emitter vanes with null-phase unguents, awakening the annihilative Machine Spirit.\nInitiate power ramp-up sequences amid the Litany of Gravitational Dominion.\nVerify operational sanctity through auspex harmonics, ready to pulverize the heretic.",
+    "component": "graviton cannon",
+    "operation": "operation",
+    "spec_id": "s03739"
+  }
+]

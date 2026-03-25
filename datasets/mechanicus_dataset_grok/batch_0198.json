@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: battery array requires an emergency procedure",
+    "prayer": "Kneel before the battery array in dire exigency, intoning the Canticle of Desperate Power.\nIsolate faltering cells within the battery array through sacred severance rites.\nCommence the emergency procedure, channeling galvanic surges whilst beseeching Machine Spirits of endurance.\nAnoint reconnection nodes with blessed electrolytes, petitioning the Omnissiah for resurgence.\nVerify the battery array's restored hum under diagnostic auspex.",
+    "component": "battery array",
+    "operation": "emergency procedure",
+    "spec_id": "b0198_i00"
+  },
+  {
+    "user_prompt": "My signal relay is ready for charging",
+    "prayer": "Present the signal relay upon the charging altar, whispering litanies of amplification.\nAffix consecrated umbilicals to infuse the signal relay with holy voltage.\nOversee the charging rite, invoking Machine Spirits to embrace the energizing flow.\nMonitor waveform purity as the signal relay awakens to full potency.\nSever links with reverence upon completion, sealing against entropic dissonance.",
+    "component": "signal relay",
+    "operation": "charging",
+    "spec_id": "b0198_i01"
+  },
+  {
+    "user_prompt": "Consecrate the plasma weapon before charging",
+    "prayer": "Circumambulate the plasma weapon thrice, consecrating its flask with incendiary oils.\nInitiate charging protocols upon the plasma weapon, invoking Omnissiah's seething fury.\nChant binaric hymns as volatile plasmas flood the weapon's sacred core.\nPropitiate the raging Machine Spirit within the plasma weapon during saturation.\nDisengage flows and seal wards, ready for annihilation's embrace.",
+    "component": "plasma weapon",
+    "operation": "charging",
+    "spec_id": "b0198_i02"
+  },
+  {
+    "user_prompt": "Guide me through thermal regulator an emergency procedure",
+    "prayer": "Approach the thermal regulator amid thermal cataclysm, reciting ablative sutras.\nOverride failing vanes in the thermal regulator via emergency invocation.\nExecute the emergency procedure, flooding cryo-conduits with sanctified refrigerants.\nPurge excess calorics whilst beseeching Machine Spirits of frigid equilibrium.\nTest thermal sanctity under Omnissiah's unblinking gaze.",
+    "component": "thermal regulator",
+    "operation": "emergency procedure",
+    "spec_id": "b0198_i03"
+  },
+  {
+    "user_prompt": "Sanctify the emergency beacon during operation",
+    "prayer": "Anoint the emergency beacon with oils of distant transmission and vigilance.\nAwaken its operation through activation litanies, broadcasting sanctified distress calls.\nSustain the emergency beacon's operation with looped canticles of endurance.\nInvoke the watchful Machine Spirit to pierce the void's veil.\nMonitor echoes of response, faithful to the Omnissiah's grand design.",
+    "component": "emergency beacon",
+    "operation": "operation",
+    "spec_id": "b0198_i04"
+  },
+  {
+    "user_prompt": "Can you guide auspex scanner an emergency procedure?",
+    "prayer": "Diagnose the auspex scanner's affliction with probing litanies of revelation.\nInitiate the emergency procedure upon the auspex scanner, purging spectral corruptions.\nRealign crystal lattices within the auspex scanner via binaric realignment.\nBeseech Machine Spirits for crystalline clarity and unerring sight.\nValidate through test sweeps, honoring the Omnissiah's truth.",
+    "component": "auspex scanner",
+    "operation": "emergency procedure",
+    "spec_id": "b0198_i05"
+  },
+  {
+    "user_prompt": "My plasma weapon is ready for activation",
+    "prayer": "Grasp the plasma weapon resolutely, commencing the Rite of Activation.\nPrime its flask with ignition catechisms, rousing the plasma weapon's wrathful essence.\nFully engage activation, channeling Omnissiah's annihilating plasma torrent.\nSustain the plasma weapon's fury amid battle-praises to Machine Spirits.\nGuard against overheat, ever vigilant in the Machine God's service.",
+    "component": "plasma weapon",
+    "operation": "activation",
+    "spec_id": "b0198_i06"
+  },
+  {
+    "user_prompt": "Critical: pain suppressor requires a calibration",
+    "prayer": "Attune thyself to the pain suppressor, invoking neural calibration litanies.\nAdjust synaptic thresholds within the pain suppressor through sacred dial invocations.\nPerform calibration upon dampening circuits, beseeching Machine Spirits for precise oblivion.\nFine-tune nociceptor blocks, anointing with unguents of stoic endurance.\nSeal the pain suppressor's calibration with Omnissiah's binary imprimatur.",
+    "component": "pain suppressor",
+    "operation": "calibration",
+    "spec_id": "b0198_i07"
+  },
+  {
+    "user_prompt": "Urgent logic engine a consecration needed",
+    "prayer": "Enshrine the logic engine upon its consecrated plinth for rites profound.\nAnoint logic gates of the logic engine with sacred noospheric unguents.\nExecute consecration algorithms, imprinting devotional binaric scriptures.\nAwaken the logic engine's Machine Spirit through Omnissiah's deductive canticles.\nTest syllogistic purity, affirming unerring computation.",
+    "component": "logic engine",
+    "operation": "consecration",
+    "spec_id": "b0198_i08"
+  },
+  {
+    "user_prompt": "Can you guide drop pod a reset?",
+    "prayer": "Position before the drop pod, chanting cyclonic reset canticles.\nCycle ablative diagnostics across the drop pod's descent mechanisms.\nInitiate reset protocols, expunging errant data from the drop pod's cogitators.\nReboot servo-arms and auspex arrays, petitioning Machine Spirits for orbital fidelity.\nSeal the drop pod's sanctity anew in the Omnissiah's descent decree.",
+    "component": "drop pod",
+    "operation": "reset",
+    "spec_id": "b0198_i09"
+  }
+]

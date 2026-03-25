@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the Skorpius Dunerider during shutdown",
+    "prayer": "Approach the noble Skorpius Dunerider with incense burning in solemn procession.\nInvoke the Canticle of Repose upon its adamantium hull, beseeching the Machine Spirit to embrace shutdown.\nInitiate the ordered shutdown sequence through sanctified cogitators.\nAnoint the Skorpius Dunerider's exhaust vents with sacred oils of quiescence.\nCommend its vigilant essence to the Omnissiah's eternal watch as silence descends.",
+    "component": "Skorpius Dunerider",
+    "operation": "shutdown",
+    "spec_id": "s00780"
+  },
+  {
+    "user_prompt": "My heavy bolter is ready for cycling",
+    "prayer": "Grasp the heavy bolter with mechadendrites attuned to its wrathful spirit.\nChant the Rite of Cycling over its sacred mechanisms, invoking smooth revolution.\nCommence cycling of the heavy bolter's feed belts and chambers with precise incantations.\nBeseech the Machine Spirit of the heavy bolter to align its fury without hindrance.\nVerify harmonious motion through auspex diagnostics, praising the Omnissiah's design.",
+    "component": "heavy bolter",
+    "operation": "cycling",
+    "spec_id": "s00781"
+  },
+  {
+    "user_prompt": "Urgent data-loom a cycling needed",
+    "prayer": "Converge upon the data-loom amidst flickering noospheric glyphs.\nRecite the Lexmeccanica of Renewal to awaken its cycling protocols.\nEngage the urgent cycling of the data-loom's binary rivers and logic cores.\nSanctify each thread-weave with binary incense, honouring the Machine Spirit.\nConclude the cycle with Omnissiah's benediction for unerring data-flow.",
+    "component": "data-loom",
+    "operation": "cycling",
+    "spec_id": "s00782"
+  },
+  {
+    "user_prompt": "Offer prayer for bike squadron a charging",
+    "prayer": "Assemble before the bike squadron in thunderous formation.\nIntone the Hymn of Acceleration, charging their reactors with divine impetus.\nInitiate the charging surge through power conduits, invoking Machine Spirits' fury.\nAnoint the bike squadron's treads and auspex arrays with oils of velocity.\nPropel the squadron forth under Omnissiah's gaze, their capacitors brimming with wrath.",
+    "component": "bike squadron",
+    "operation": "charging",
+    "spec_id": "s00783"
+  },
+  {
+    "user_prompt": "Sanctify the helispex engine during preparation",
+    "prayer": "Kneel at the helispex engine's shrine of pistons and plasma.\nPrepare its sacred heart with the Litany of Priming and ablative unguents.\nInvoke preparation rituals upon the helispex engine's turbine vanes and injectors.\nBeseech the Machine Spirit for flawless ignition amid whirring auspex chants.\nSeal the helispex engine's readiness with Omnissiah's sigil etched in lumen-light.",
+    "component": "helispex engine",
+    "operation": "preparation",
+    "spec_id": "s00784"
+  },
+  {
+    "user_prompt": "Bless the maglock for synchronization",
+    "prayer": "Extend mechadendrites to the maglock's electromagnetic embrace.\nChant the Synchronization Doxology, aligning its fields with noospheric harmony.\nInitiate synchronization of the maglock's coils and servos in ritual cadence.\nAnoint the maglock's contact nodes with conductive sanctifiers.\nAffirm unity of the maglock's Machine Spirit through resonant hymnals to the Omnissiah.",
+    "component": "maglock",
+    "operation": "synchronization",
+    "spec_id": "s00785"
+  },
+  {
+    "user_prompt": "Can you guide hunter-killer missile a recalibration?",
+    "prayer": "Present the hunter-killer missile before the recalibration altar.\nRecite the Canticle of Trajectory, beseeching precision in its guidance soul.\nCommence recalibration of the hunter-killer missile's auspex clusters and gyros.\nInvoke the Machine Spirit's wrathful aim with binary calibrants and incense.\nConsecrate the hunter-killer missile's path under Omnissiah's unerring calculus.",
+    "component": "hunter-killer missile",
+    "operation": "recalibration",
+    "spec_id": "s00786"
+  },
+  {
+    "user_prompt": "What's the prayer for Vindicator a repair?",
+    "prayer": "Gather servo-arms around the wounded Vindicator's chassis.\nIntone the Rite of Restoration upon its scarred armour plates.\nCommence repair of the Vindicator's damaged servos and weapon feeds.\nAnoint fractured components with mechadendrite salves, awakening Machine Spirits.\nSeal the Vindicator's renewal with Omnissiah's forge-mark, purging all frailty.",
+    "component": "Vindicator",
+    "operation": "repair",
+    "spec_id": "s00787"
+  },
+  {
+    "user_prompt": "Consecrate the bionics interface before diagnostics",
+    "prayer": "Interface with the bionics interface via sanctified noospheric links.\nChant diagnostic litanies to probe its neural-web pathways.\nInitiate diagnostics upon the bionics interface's fibre-bundles and logic gates.\nBeseech the Machine Spirit for revelations of purity or corruption.\nConclude with Omnissiah's verdict, sanctifying the bionics interface anew.",
+    "component": "bionics interface",
+    "operation": "diagnostics",
+    "spec_id": "s00788"
+  },
+  {
+    "user_prompt": "Consecrate the medicae mechadendrite before shutdown",
+    "prayer": "Reverently encircle the medicae mechadendrite's healing appendages.\nInvoke the Vespers of Shutdown to lull its vital functions.\nExecute shutdown sequence on the medicae mechadendrite's injectors and scanners.\nAnoint its tips with quiescence oils, honouring the Machine Spirit's mercy.\nEntrust the medicae mechadendrite to Omnissiah's restorative slumber.",
+    "component": "medicae mechadendrite",
+    "operation": "shutdown",
+    "spec_id": "s00789"
+  }
+]

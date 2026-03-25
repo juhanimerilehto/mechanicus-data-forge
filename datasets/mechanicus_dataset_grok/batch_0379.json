@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent emergency bulkhead a targeting needed",
+    "prayer": "Approach the emergency bulkhead with reverence, invoking the Omnissiah's unerring sight upon its adamantine frame.\nCalibrate the targeting servos within the emergency bulkhead, beseeching its Machine Spirit to acquire the foe with holy precision.\nAnoint the guidance circuits with sacred oils whilst chanting the Litany of Targeting.\nVerify the emergency bulkhead's targeting lock through auspex diagnostics, praising the Machine God's wrathful aim.",
+    "component": "emergency bulkhead",
+    "operation": "targeting",
+    "spec_id": "b0379_i00"
+  },
+  {
+    "user_prompt": "The fusion core needs a consecration",
+    "prayer": "Kneel before the fusion core, intoning the Canticle of Containment to awaken its plasma heart.\nCircumambulate the fusion core thrice, sprinkling rad-shielded incense to purify its conduits.\nInvoke the Rite of Consecration upon the fusion core, petitioning the Omnissiah to bless its boundless energies.\nSeal the consecration with electro-incantations, ensuring the Machine Spirit hums in sanctified fury.",
+    "component": "fusion core",
+    "operation": "consecration",
+    "spec_id": "b0379_i01"
+  },
+  {
+    "user_prompt": "Guide me through power weapon a shutdown",
+    "prayer": "Grasp the power weapon's hilt with mechadendrites, reciting the Benediction of Dormancy.\nDeactivate the disruption fields sequentially, soothing the power weapon's raging Machine Spirit.\nInitiate shutdown protocols upon the power weapon, anointing its blade with cooling unguents.\nConfirm the shutdown through binary psalmody, thanking the Omnissiah for the weapon's obedient quiescence.",
+    "component": "power weapon",
+    "operation": "shutdown",
+    "spec_id": "b0379_i02"
+  },
+  {
+    "user_prompt": "Sanctify the gravity generator during sterilization",
+    "prayer": "Encircle the gravity generator, chanting the Purge Litany to banish unclean essences.\nCommence sterilization cycles within the gravity generator, invoking its Machine Spirit's purity.\nFlood the sacred grav-plates with sanctified vapors whilst beseeching the Omnissiah's cleansing light.\nConclude the sterilization of the gravity generator with verifying rites, honoring the Machine God's immaculate order.",
+    "component": "gravity generator",
+    "operation": "sterilization",
+    "spec_id": "b0379_i03"
+  },
+  {
+    "user_prompt": "Guide me through Rhino transport an engagement",
+    "prayer": "Commune with the Rhino transport's auspex choir, awakening its Machine Spirit for battle.\nAlign the drive cogitators of the Rhino transport, intoning the Engagement Canticle.\nEngage the motive systems with blessed torque, petitioning the Omnissiah to propel it into the fray.\nVerify engagement through vox-hymns, as the Rhino transport roars in the Machine God's service.",
+    "component": "Rhino transport",
+    "operation": "engagement",
+    "spec_id": "b0379_i04"
+  },
+  {
+    "user_prompt": "Can you guide proximity sensor a cycling?",
+    "prayer": "Touch the proximity sensor's sacred lenses, whispering the Cycle Invocation.\nInitiate cycling sequences upon the proximity sensor, coaxing its vigilant Machine Spirit.\nMonitor the flux rhythms of the proximity sensor, anointing relays with conductive salves.\nComplete the cycling with diagnostic litanies, glorifying the Omnissiah's watchful gaze.",
+    "component": "proximity sensor",
+    "operation": "cycling",
+    "spec_id": "b0379_i05"
+  },
+  {
+    "user_prompt": "Guide me through battery array an operation",
+    "prayer": "Approach the battery array in solemn procession, reciting the Activation Doxology.\nPrime the power cells of the battery array, invoking the Machine Spirit's stored thunder.\nCommence operation of the battery array, channeling holy voltage through consecrated bus-bars.\nSustain the operation with continual petitions to the Omnissiah, ensuring unerring energy flow.",
+    "component": "battery array",
+    "operation": "operation",
+    "spec_id": "b0379_i06"
+  },
+  {
+    "user_prompt": "The hydroponics bay awaits a targeting",
+    "prayer": "Survey the hydroponics bay's nutrient manifolds, beseeching the Omnissiah's precision.\nCalibrate targeting sprayers within the hydroponics bay, awakening its Machine Spirit.\nInvoke the Rite of Targeting upon the hydroponics bay, aligning feeds with divine accuracy.\nAffirm the targeting through purity scans, as the hydroponics bay yields to the Machine God's bounty.",
+    "component": "hydroponics bay",
+    "operation": "targeting",
+    "spec_id": "b0379_i07"
+  },
+  {
+    "user_prompt": "Assist with air filtration a shutdown",
+    "prayer": "Stand before the air filtration shrine, intoning the Shutdown Vespers.\nDe-energize the filtration membranes of air filtration, pacifying its whirring Machine Spirit.\nExecute shutdown rites upon air filtration, sealing vents with blessed seals.\nRatify the shutdown via pressure canticles, submitting to the Omnissiah's still breath.",
+    "component": "air filtration",
+    "operation": "shutdown",
+    "spec_id": "b0379_i08"
+  },
+  {
+    "user_prompt": "How do I bless the air compressor for charging?",
+    "prayer": "Anoint the air compressor's intake with sacred lubricants, chanting the Charge Benediction.\nActivate pressure buildup within the air compressor, petitioning its Machine Spirit's vigor.\nBless the charging cycles of the air compressor, invoking the Omnissiah's compressive might.\nSeal the blessing with gauge invocations, as the air compressor pulses in holy rhythm.",
+    "component": "air compressor",
+    "operation": "charging",
+    "spec_id": "b0379_i09"
+  }
+]

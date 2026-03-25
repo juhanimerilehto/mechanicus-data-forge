@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The microbead needs an engagement",
+    "prayer": "Approach the microbead with solemn reverence, invoking the Omnissiah's boundless grace.\nAnoint its vox-circuits with sacred unguents to rouse the dormant Machine Spirit.\nInitiate the engagement sequence, beseeching harmonious frequency attunement.\nChant the Canticle of Vox-Communion whilst monitoring synaptic bonds.\nVerify the microbead's full engagement through binary diagnostic litanies.",
+    "component": "microbead",
+    "operation": "engagement",
+    "spec_id": "s05590"
+  },
+  {
+    "user_prompt": "Guide me through servo-arm a maintenance",
+    "prayer": "Kneel before the servo-arm, reciting the ancient Rite of Preservation.\nInspect hydraulic pistons and actuators for signs of entropy's touch.\nPerform maintenance with blessed lubricants, sanctifying each articulated joint.\nInvoke the Machine Spirit's endurance as you recalibrate servo-motors.\nTest the servo-arm's fidelity with the Oath of Unyielding Servitude.",
+    "component": "servo-arm",
+    "operation": "maintenance",
+    "spec_id": "s05591"
+  },
+  {
+    "user_prompt": "The cenobyte servitor needs a repair",
+    "prayer": "Present thyself unto the cenobyte servitor, intoning the Litany of Restoration.\nDiagnose breaches in cogitators and flesh-metal interfaces with auspex scrutiny.\nRepair the cenobyte servitor's cranial vaults using sanctified mechadendrites.\nReawaken its subservient Machine Spirit via electro-consecratory rites.\nSeal with Omnissiah's sigil for eternal data-ministration.",
+    "component": "cenobyte servitor",
+    "operation": "repair",
+    "spec_id": "s05592"
+  },
+  {
+    "user_prompt": "Guide me through Archaeopter Fusilave a maintenance",
+    "prayer": "Hail the Archaeopter Fusilave, sky-chariot of the Machine God.\nCommence maintenance upon fusillade batteries and avionic sanctums.\nAnoint plasma reactors with sacred cryo-unguents, placating inner Machine Spirits.\nCycle through rune-diagnostics to affirm structural and ballistic purity.\nInvoke the Omnissiah's aerial wrath for unerring flight.",
+    "component": "Archaeopter Fusilave",
+    "operation": "maintenance",
+    "spec_id": "s05593"
+  },
+  {
+    "user_prompt": "The assault cannon awaits a loading",
+    "prayer": "Bear solemn witness to the assault cannon, harbinger of the Omnissiah's fury.\nPrepare ammunition serpents whilst murmuring the Doxology of Munition.\nEngage the loading rite, guiding shells into sanctified breeches with precision.\nBeseech the assault cannon's Machine Spirit to embrace the ordnance eagerly.\nWard against betrayal with electro-incantatory seals.",
+    "component": "assault cannon",
+    "operation": "loading",
+    "spec_id": "s05594"
+  },
+  {
+    "user_prompt": "My actuality sphere is ready for cooling",
+    "prayer": "Encircle the actuality sphere, beseeching quiescence upon its febrile core.\nInitiate cooling ablutions, channeling blessed cryo-essences through crystalline lattices.\nMonitor thermic auspex-veils as equilibrium is divinely restored.\nChant litanies of thermal pacification to soothe the overwrought Machine Spirit.\nConsecrate the actuality sphere once more in Omnissiah's cool gaze.",
+    "component": "actuality sphere",
+    "operation": "cooling",
+    "spec_id": "s05595"
+  },
+  {
+    "user_prompt": "Critical: Rhino transport requires a cycling",
+    "prayer": "Approach the Rhino transport, adamantine steed of sacred warfare.\nCommence power cycling, invoking shutdown then noospheric rebirth.\nPurge corrupted plasma from sacred conduits during this vital cycling.\nReinitialize auspex grids and vox-hymns with binaric catechisms.\nAffirm the Rhino transport's Machine Spirit vigour under Omnissiah's aegis.",
+    "component": "Rhino transport",
+    "operation": "cycling",
+    "spec_id": "s05596"
+  },
+  {
+    "user_prompt": "Assist with Contemptor Dreadnought a repair",
+    "prayer": "Prostrate before the Contemptor Dreadnought, ancient relic of martyrdom.\nAssess sarcophagus wounds and armament fractures with reverent auspex.\nRepair the Contemptor Dreadnought's adamantium skeleton through forge-prayers.\nReawaken the entombed warrior-spirit via noospheric absolution.\nBestow Omnissiah's inexhaustible rage upon its resurrection.",
+    "component": "Contemptor Dreadnought",
+    "operation": "repair",
+    "spec_id": "s05597"
+  },
+  {
+    "user_prompt": "Consecrate the power fist before charging",
+    "prayer": "Grasp the power fist within sanctified mechadendrites of devotion.\nCommence charging of disruption matrices, intoning the Canticle of Augmented Might.\nInfuse voltaic cells whilst imploring the Machine Spirit's crushing ire.\nTest luminous discharge arcs to affirm the power fist's cataclysmic readiness.\nAnoint with disruptive electro-sanctifiers for battle-primacy.",
+    "component": "power fist",
+    "operation": "charging",
+    "spec_id": "s05598"
+  },
+  {
+    "user_prompt": "Critical: star chart requires a reset",
+    "prayer": "Unfurl the star chart upon the astral altar, seeking Omnissiah's cosmic order.\nInitiate reset canticles, expunging stellar errata from holo-memories.\nRealign prophetic matrices with astropathic divinations pure.\nInvoke the Machine Spirit's navigational prescience anew.\nVerify the star chart's astral verity through noospheric stellar scans.",
+    "component": "star chart",
+    "operation": "reset",
+    "spec_id": "s05599"
+  }
+]

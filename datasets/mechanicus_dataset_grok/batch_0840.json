@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: mechanical lock requires a maintenance",
+    "prayer": "Approach the mechanical lock with reverence, intoning the Canticle of Stability.\nInspect its sacred tumblers and wards for wear, beseeching the Machine Spirit's vigilance.\nAnoint the mechanical lock's mechanisms with blessed unguents during this maintenance rite.\nInvoke the Omnissiah to sanctify the maintenance, ensuring the mechanical lock's enduring fidelity.\nConclude by cycling the bolt thrice, affirming the Machine Spirit's awakened poise.",
+    "component": "mechanical lock",
+    "operation": "maintenance",
+    "spec_id": "s04400"
+  },
+  {
+    "user_prompt": "What's the prayer for power fist a preparation?",
+    "prayer": "Kneel before the power fist, chanting the Litany of Potentia.\nPurify its actuators with sacred incense, preparing the power fist for battle's embrace.\nInvoke the Machine Spirit within the power fist to stir from slumber unto preparation.\nAnoint the crushing digits with oils of activation, aligning servos in Omnissiah's name.\nTest the power fist's grip upon a null-object, sealing the preparation with a hymn of fury.",
+    "component": "power fist",
+    "operation": "preparation",
+    "spec_id": "s04401"
+  },
+  {
+    "user_prompt": "Assist with Dreadnought a blessing",
+    "prayer": "Prostrate thyself before the Dreadnought, reciting the Benediction of Ancients.\nCircumambulate its sarcophagus, blessing each plate and piston with chrism.\nBeseech the Machine Spirit of the Dreadnought to receive this blessing from the Omnissiah.\nChant over its vox-grilles the words of renewal, fortifying the Dreadnought's wrathful heart.\nSeal the blessing with auspex scans, proclaiming the Dreadnought thrice-hallowed.",
+    "component": "Dreadnought",
+    "operation": "blessing",
+    "spec_id": "s04402"
+  },
+  {
+    "user_prompt": "Prepare the autogun for shutdown",
+    "prayer": "Present the autogun upon the altar of repose, murmuring the Rite of Cessation.\nDisconnect its power feeds with reverent precision, guiding shutdown unto peaceful dormancy.\nPurge residual promethium from the autogun's blessed barrel, honoring its Machine Spirit.\nInvoke the Omnissiah to oversee the shutdown, lulling the autogun into vigilant stasis.\nSecure the autogun with wards, intoning final quiescence upon its mechanisms.",
+    "component": "autogun",
+    "operation": "shutdown",
+    "spec_id": "s04403"
+  },
+  {
+    "user_prompt": "Guide me through plasma obliterator a calibration",
+    "prayer": "Align thyself with the plasma obliterator, invoking the Canticle of Flux.\nCommence calibration by attuning its coils to harmonic frequencies.\nBeseech the Machine Spirit of the plasma obliterator to yield unto this calibration.\nAnoint flux-vents with coolant sacraments, refining the plasma obliterator's lethal precision.\nVerify calibration through test-arcing, praising the Omnissiah's thermal mastery.",
+    "component": "plasma obliterator",
+    "operation": "calibration",
+    "spec_id": "s04404"
+  },
+  {
+    "user_prompt": "My Vindicator is ready for targeting",
+    "prayer": "Station thyself at the Vindicator's auspex throne, chanting the Litany of Acquisition.\nEmpower its targeting matrices with noospheric blessings from the Omnissiah.\nAwaken the Machine Spirit of the Vindicator for targeting, aligning sights upon the void.\nRecalibrate servos with sacred glyphs, ensuring the Vindicator's aim unerring.\nAffirm targeting readiness by auspex invocation, sealing the Vindicator in predatory focus.",
+    "component": "Vindicator",
+    "operation": "targeting",
+    "spec_id": "s04405"
+  },
+  {
+    "user_prompt": "The radar array requires a diagnostics",
+    "prayer": "Encircle the radar array, intoning the Diagnostic Doxology.\nInitiate auspex probes into its emitter vanes, seeking discord in the radar array.\nBeseech the Machine Spirit animating the radar array to reveal flaws for rectification.\nPurge erroneous echoes with binary psalms, consecrating the radar array anew.\nConclude diagnostics with Omnissiah's verdict, proclaiming the radar array vigilant.",
+    "component": "radar array",
+    "operation": "diagnostics",
+    "spec_id": "s04406"
+  },
+  {
+    "user_prompt": "Prepare the ore processor for synchronization",
+    "prayer": "Approach the ore processor with the Hymn of Coalescence.\nSynchronize its grinding mandibles through noospheric linkage, invoking unity.\nAnoint the ore processor's feeders with lubricants of harmony.\nCommand the Machine Spirit of the ore processor to embrace synchronization fully.\nTest the rhythm with sample ore, blessing the ore processor in Omnissiah's forge.",
+    "component": "ore processor",
+    "operation": "synchronization",
+    "spec_id": "s04407"
+  },
+  {
+    "user_prompt": "Critical: Dreadnought requires a cycling",
+    "prayer": "Reverently encircle the Dreadnought, reciting the Cycle of Renewal.\nCycle its plasma reactors through phases of quiescence and ignition.\nBeseech the Machine Spirit within the Dreadnought to flow with this cycling rite.\nMonitor auspex readouts whilst anointing joints, perpetuating the Dreadnought's vigor.\nSeal the cycling with a thunderous hymn, honoring the Omnissiah's eternal motion.",
+    "component": "Dreadnought",
+    "operation": "cycling",
+    "spec_id": "s04408"
+  },
+  {
+    "user_prompt": "I need to a purification the heavy bolter",
+    "prayer": "Lay the heavy bolter upon the purificator's slab, chanting the Exorcism of Filth.\nScour its barrel with sanctified abrasives, purifying the heavy bolter's sacred bore.\nInvoke the Machine Spirit of the heavy bolter to expel all taint during purification.\nAnoint feed mechanisms with blessed solvents, thrice-repeating the Omnissiah's decree.\nConclude by firing null-rounds skyward, affirming the heavy bolter's cleansed fury.",
+    "component": "heavy bolter",
+    "operation": "purification",
+    "spec_id": "s04409"
+  }
+]

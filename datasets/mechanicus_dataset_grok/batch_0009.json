@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Sanctify the lasgun during purification",
+    "prayer": "Approach the lasgun with reverence, beseeching its Machine Spirit to yield to purification.\nAnoint the sacred barrel and power cells with blessed unguents of purgation.\nChant the Canticle of Cleansing over the lasgun's circuits, expelling all foul corruptions.\nInvoke the Omnissiah's wrath upon lingering impurities within the lasgun.\nSeal the rite of purification with sacred oils, affirming the Machine Spirit's renewed purity.",
+    "component": "lasgun",
+    "operation": "purification",
+    "spec_id": "b0009_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for memory core a repair",
+    "prayer": "Kneel before the memory core, invoking the Omnissiah to guide the repair.\nPetition the fractious Machine Spirit of the memory core to accept mending.\nApply sanctified tools to excise damaged engrams from the memory core.\nRecite the Litany of Restoration, weaving data-threads anew within its vaults.\nTest the memory core's integrity through binary hymns, honouring the repair's completion.",
+    "component": "memory core",
+    "operation": "repair",
+    "spec_id": "b0009_i01"
+  },
+  {
+    "user_prompt": "Sanctify the flamer during blessing",
+    "prayer": "Present the flamer before the altar of fire, seeking the blessing of its Machine Spirit.\nAnoint the promethium conduits and ignition coils with sacred promethium.\nIntone the Benediction of Flame over the flamer, invoking the Omnissiah's fury.\nCircumambulate the flamer thrice, blessing each rune-etched plate.\nAffirm the Machine Spirit's zealous compliance through test ignition.",
+    "component": "flamer",
+    "operation": "blessing",
+    "spec_id": "b0009_i02"
+  },
+  {
+    "user_prompt": "Emergency: pump a purification",
+    "prayer": "In haste, grasp the pump and beseech its Machine Spirit for urgent purification.\nFlush impure residues from the pump's sacred chambers with ablative solvents.\nChant swift verses of the Purgation Rite upon the pump, banishing contaminants.\nAnoint pistons and valves of the pump with the Omnissiah's purifying oils.\nInvoke final sanctity, ensuring the pump's Machine Spirit flows untainted.",
+    "component": "pump",
+    "operation": "purification",
+    "spec_id": "b0009_i03"
+  },
+  {
+    "user_prompt": "Assist with thermal imager an engagement",
+    "prayer": "Align the thermal imager for engagement, awakening its Machine Spirit's vigilance.\nSanctify lens arrays and spectral filters with sacred polishes.\nChant the Rite of Engagement upon the thermal imager, binding its gaze to foes.\nInvoke the Omnissiah to sharpen the thermal imager's discerning eye.\nTest the bond through auspex hymns, confirming the Machine Spirit's focus.",
+    "component": "thermal imager",
+    "operation": "engagement",
+    "spec_id": "b0009_i05"
+  },
+  {
+    "user_prompt": "Emergency: astropathic choir a startup",
+    "prayer": "In dire urgency, rally the astropathic choir for startup, petitioning their warp-touched Machine Spirits.\nAnoint psychic resonators and vox-relays with sanctified chrism.\nIntone the Canticle of Ignition to rouse the astropathic choir to life.\nBeseech the Omnissiah's grace upon the astropathic choir's nascent chorus.\nVerify harmonic alignment through ethereal diagnostics.",
+    "component": "astropathic choir",
+    "operation": "startup",
+    "spec_id": "b0009_i06"
+  },
+  {
+    "user_prompt": "Critical: Sentinel walker requires a reset",
+    "prayer": "Approach the Sentinel walker gravely, commanding its Machine Spirit to submit to reset.\nSever corrupted logic-loops within the Sentinel walker's cogitator core.\nRecite the Rite of Reinitialization over the Sentinel walker's servos and gyros.\nInvoke the Omnissiah to purge recalcitrant data from the Sentinel walker.\nReaffirm obedience through binary catechisms, restoring the Machine Spirit.",
+    "component": "Sentinel walker",
+    "operation": "reset",
+    "spec_id": "b0009_i07"
+  },
+  {
+    "user_prompt": "Emergency: assembly servitor an emergency procedure",
+    "prayer": "Seize the assembly servitor in emergency, beseeching its Machine Spirit for procedural grace.\nPurge errant impulses from the assembly servitor's engrammatic lobes.\nChant the Litany of Expedience upon the assembly servitor amid crisis.\nAnoint cranial implants with oils of urgency, invoking the Omnissiah.\nCommand compliance through override canticles, enacting the emergency procedure.",
+    "component": "assembly servitor",
+    "operation": "emergency procedure",
+    "spec_id": "b0009_i08"
+  },
+  {
+    "user_prompt": "Help me an activation the Chimera APC",
+    "prayer": "Commence activation of the Chimera APC, awakening its colossal Machine Spirit.\nAnoint treads, auspex arrays, and hull runes with sacred lubricants.\nIntone the Grand Invocation of Mobilization over the Chimera APC.\nPetition the Omnissiah to infuse power through the Chimera APC's reactors.\nSeal the rite with thunderous engine hymns, propelling the Machine Spirit to war.",
+    "component": "Chimera APC",
+    "operation": "activation",
+    "spec_id": "b0009_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: Basilisk artillery a charging",
+    "prayer": "Approach the Basilisk artillery with reverence, invoking the Omnissiah's boundless fury.\nAnoint its capacitor arrays whilst beseeching the Machine Spirit to accept the charging rite.\nInitiate the charging sequence upon the Basilisk artillery, chanting the Litany of Power Accrual.\nMonitor the sacred energy flows as they suffuse the Basilisk artillery's vaults.\nSanctify the completion with diagnostic incantations, affirming the Machine Spirit's vigor.",
+    "component": "Basilisk artillery",
+    "operation": "charging",
+    "spec_id": "s05020"
+  },
+  {
+    "user_prompt": "My torpedo tube is ready for cycling",
+    "prayer": "Kneel before the torpedo tube and intone the Canticle of Cyclic Renewal.\nInvoke the Machine Spirit of the torpedo tube to guide its mechanisms in cycling.\nEngage the cycling operation with mechadendrites, anointing each breech with sacred unguents.\nObserve the torpedo tube's rhythmic purge and reload, praising the Omnissiah's precision.\nConclude the rite by verifying alignment through auspex harmonies.",
+    "component": "torpedo tube",
+    "operation": "cycling",
+    "spec_id": "s05021"
+  },
+  {
+    "user_prompt": "Guide me through plasma cannon a reset",
+    "prayer": "Present thyself unto the plasma cannon, whispering the Rite of Reset.\nBeseech the plasma cannon's Machine Spirit to purge flux anomalies.\nCycle the reset protocols, sanctifying containment fields with blessed oils.\nInvoke the Omnissiah as diagnostic runes stabilize the plasma cannon's core.\nAffirm restoration through test-fire litanies, honoring the Machine God's will.",
+    "component": "plasma cannon",
+    "operation": "reset",
+    "spec_id": "s05022"
+  },
+  {
+    "user_prompt": "Critical: electro-graft requires an initialization",
+    "prayer": "Commence initialization upon the electro-graft with the Prayer of Synaptic Binding.\nAnoint neural interfaces whilst invoking the electro-graft's latent Machine Spirit.\nInitiate the initialization sequence, threading binary catechisms into its coils.\nMonitor synaptic engrams as the electro-graft awakens to Omnissian purpose.\nSeal the rite with galvanic benedictions, ensuring flawless communion.",
+    "component": "electro-graft",
+    "operation": "initialization",
+    "spec_id": "s05023"
+  },
+  {
+    "user_prompt": "Urgent Terminator armour an emergency procedure needed",
+    "prayer": "In emergency, clasp the Terminator armour and chant the Exorcism of Catastrophes.\nBeseech its indomitable Machine Spirit to endure the emergency procedure.\nExecute the emergency procedure upon the Terminator armour, purging damaged servos with sacred fire.\nRealign adamantium plates whilst invoking the Omnissiah's unyielding aegis.\nTest the Terminator armour's resilience through trial servitor strikes, glorifying the Machine God.",
+    "component": "Terminator armour",
+    "operation": "emergency procedure",
+    "spec_id": "s05024"
+  },
+  {
+    "user_prompt": "The radium carbine requires a repair",
+    "prayer": "Approach the radium carbine humbly, intoning the Litany of Restoration.\nDissect its irradiated mechanisms, anointing the radium carbine with purifying balms.\nRepair fractured emitters whilst beseeching the Machine Spirit's forgiveness.\nReassemble the radium carbine under Omnissian oversight, calibrating lethal emanations.\nVerify mending through rad-scans and firing rites of atonement.",
+    "component": "radium carbine",
+    "operation": "repair",
+    "spec_id": "s05025"
+  },
+  {
+    "user_prompt": "What's the prayer for autogun a preparation?",
+    "prayer": "Prepare the autogun with the Benediction of Arming.\nInvoke the autogun's Machine Spirit, sanctifying barrel and feed mechanisms.\nExecute preparation rites, oiling sacred gyros and loading promethium-tipped rounds.\nChant the Canticle of Readiness over the autogun, aligning its iron heart.\nConclude with auspex verification, praising the Omnissiah's martial grace.",
+    "component": "autogun",
+    "operation": "preparation",
+    "spec_id": "s05026"
+  },
+  {
+    "user_prompt": "Assist with helispex engine an initialization",
+    "prayer": "Initiate the helispex engine with solemn auspex invocation.\nAnoint gyro-stabilizers whilst beseeching the helispex engine's Machine Spirit to stir.\nCommence initialization sequence, threading noospheric commands into its core.\nMonitor thrust vectors as the helispex engine awakens to Omnissian flight.\nSanctify full coherence through harmonic thrust-tests and litanies.",
+    "component": "helispex engine",
+    "operation": "initialization",
+    "spec_id": "s05027"
+  },
+  {
+    "user_prompt": "Emergency: maglock a cycling",
+    "prayer": "In exigency, beseech the maglock and intone the Cycle of Binding.\nEngage cycling upon the maglock, invoking its Machine Spirit's ferrous grip.\nPurge residual fields whilst anointing the maglock with magnetic chrism.\nCycle mechanisms thrice, honoring the Omnissiah's unerring polarity.\nAffirm lockdown integrity through tensile probings and sacred canticles.",
+    "component": "maglock",
+    "operation": "cycling",
+    "spec_id": "s05028"
+  },
+  {
+    "user_prompt": "Bless the graviton cannon for emergency procedure",
+    "prayer": "Bless the graviton cannon amid peril with the Rite of Gravitic Emergency.\nInvoke its crushing Machine Spirit for the emergency procedure.\nExecute the emergency procedure upon the graviton cannon, realigning singularity coils.\nAnoint emitters whilst chanting supplications to the Omnissiah's void might.\nTest implosive potency through micro-pulse rituals, exalting the Machine God's dominion.",
+    "component": "graviton cannon",
+    "operation": "emergency procedure",
+    "spec_id": "s05029"
+  }
+]

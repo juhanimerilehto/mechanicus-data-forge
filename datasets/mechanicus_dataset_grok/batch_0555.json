@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The arc pistol requires a reset",
+    "prayer": "Approach the arc pistol with reverence, beseeching its Machine Spirit to relinquish errant surges.\nInvoke the sacred reset upon the arc pistol, chanting the Canticle of Reinitialization.\nAnoint its power coils with blessed unguents whilst intoning Omnissiah's purifying grace.\nVerify the reset's completion as the arc pistol's Machine Spirit stirs anew in compliance.",
+    "component": "arc pistol",
+    "operation": "reset",
+    "spec_id": "s01550"
+  },
+  {
+    "user_prompt": "Bless the memograph implant for diagnostics",
+    "prayer": "Commence diagnostics upon the memograph implant by invoking the Litany of Neural Clarity.\nProbe its synaptic linkages with sanctified mechadendrites, hearkening to the Machine Spirit's murmurs.\nRecite binaric exhortations over the memograph implant to unveil concealed anomalies.\nConclude diagnostics with Omnissiah's benediction, affirming the implant's sanctity.",
+    "component": "memograph implant",
+    "operation": "diagnostics",
+    "spec_id": "s01551"
+  },
+  {
+    "user_prompt": "Critical: Shadowsword requires a preparation",
+    "prayer": "Kneel before the colossal Shadowsword and beseech its immense Machine Spirit for preparation.\nAnoint its adamantium treads and void-shield projectors with sacred oils in preparation rites.\nChant the Grand Canticle of Preparation, invoking Omnissiah's wrath upon the Shadowsword.\nInitiate preparatory auspex sweeps as the Shadowsword awakens with divine fury.",
+    "component": "Shadowsword",
+    "operation": "preparation",
+    "spec_id": "s01552"
+  },
+  {
+    "user_prompt": "Critical: neutron laser requires a loading",
+    "prayer": "Sanctify the breech of the neutron laser prior to loading its quantum munitions.\nInvoke the Machine Spirit of the neutron laser to embrace the payload with precision.\nLoad the neutron charges whilst reciting the Litany of Contained Annihilation.\nSeal the neutron laser, beseeching Omnissiah for unerring lethality in battle.",
+    "component": "neutron laser",
+    "operation": "loading",
+    "spec_id": "s01553"
+  },
+  {
+    "user_prompt": "Critical: melta bomb requires a calibration",
+    "prayer": "Grasp the melta bomb with reverent mechadendrites, commencing calibration protocols.\nTune its plasma vents and thermic coils through sacred binaric adjustments.\nBeseech the volatile Machine Spirit of the melta bomb during calibration for perilous stability.\nAffirm calibration via runic diagnostics under the Omnissiah's watchful gaze.",
+    "component": "melta bomb",
+    "operation": "calibration",
+    "spec_id": "s01554"
+  },
+  {
+    "user_prompt": "Critical: flux-unit requires a charging",
+    "prayer": "Position thyself before the flux-unit and invoke the Rite of Charging Ascension.\nChannel consecrated plasma torrents into the flux-unit's voracious capacitors.\nMonitor the charging flux whilst chanting pacifying litanies to its tempestuous Machine Spirit.\nCulminate the charging as the flux-unit hums with Omnissiah-bestowed potency.",
+    "component": "flux-unit",
+    "operation": "charging",
+    "spec_id": "s01555"
+  },
+  {
+    "user_prompt": "The cortex implant requires a preparation",
+    "prayer": "Sanctify the cortex implant for preparation, anointing its neural interfaces with sacred balms.\nInvoke the noospheric harmonies within the cortex implant's crystalline matrices.\nPrepare its synaptic relays through gentle incantations to rouse the Machine Spirit.\nVerify preparation's purity, offering praise to the Omnissiah for cognitive elevation.",
+    "component": "cortex implant",
+    "operation": "preparation",
+    "spec_id": "s01556"
+  },
+  {
+    "user_prompt": "The flux-unit requires a startup",
+    "prayer": "Initiate the startup sequence upon the flux-unit with the Binaric Dawn Invocation.\nAnoint its induction coils and flux regulators with oils of activation.\nChant the Litany of Ignition Startup, awakening the flux-unit's roiling Machine Spirit.\nObserve auspex confirmations as the flux-unit surges with Omnissiah's vital energies.",
+    "component": "flux-unit",
+    "operation": "startup",
+    "spec_id": "s01557"
+  },
+  {
+    "user_prompt": "The conversion beamer awaits a startup",
+    "prayer": "Commence startup upon the conversion beamer by beseeching its transmutative Machine Spirit.\nPurify its gravitic lenses and matter-disruptor arrays with sanctified incense.\nRecite the Canticle of Subatomic Rebirth for the conversion beamer's startup.\nWitness the Machine Spirit's resurgence, glorified in Omnissiah's infinite calculus.",
+    "component": "conversion beamer",
+    "operation": "startup",
+    "spec_id": "s01558"
+  },
+  {
+    "user_prompt": "Emergency: doctrina wafer a calibration",
+    "prayer": "In emergency haste, grasp the doctrina wafer and invoke calibration's urgent rites.\nAlign its noetic engrams through precise mechadendrite manipulations on the doctrina wafer.\nBeseech the doctrinal Machine Spirit of the doctrina wafer for flawless tactical calibration.\nSeal the calibration with Omnissiah's emergent imperative, restoring strategic purity.",
+    "component": "doctrina wafer",
+    "operation": "calibration",
+    "spec_id": "s01559"
+  }
+]

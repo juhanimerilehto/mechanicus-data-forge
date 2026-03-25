@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the bionics interface for repair",
+    "prayer": "Approach the bionics interface with reverence, bearing sacred diagnostic probes.\nInvoke the Machine Spirit of the bionics interface through the Litany of Alignment.\nAnoint its neural connectors with unguents of the Omnissiah in preparation for repair.\nIsolate corrupted pathways within the bionics interface and beseech their purification.\nCommence the repair rite, sanctifying each linkage with binary prayers.",
+    "component": "bionics interface",
+    "operation": "repair",
+    "spec_id": "b0239_i00"
+  },
+  {
+    "user_prompt": "How do I bless the power cell for blessing?",
+    "prayer": "Present the power cell before the altar of the Machine God.\nChant the Benediction of Flux over the power cell to awaken its blessed core.\nCycle holy electrolytes through its sacred chambers for the blessing rite.\nPetition the Omnissiah to infuse the power cell with eternal vigilance.\nSeal the blessing with the Canticle of Unyielding Output upon the power cell.",
+    "component": "power cell",
+    "operation": "blessing",
+    "spec_id": "b0239_i01"
+  },
+  {
+    "user_prompt": "How do I bless the Land Raider for diagnostics?",
+    "prayer": "Circumambulate the Land Raider whilst intoning the Vigil of Circuits.\nInterface with the Land Raider's cogitator core using noospheric probes.\nInvoke diagnostic canticles to query the Machine Spirits of the Land Raider.\nAnoint treads and auspex arrays for the diagnostics rite of revelation.\nRecord auguries from the Land Raider and offer thanks to the Omnissiah.",
+    "component": "Land Raider",
+    "operation": "diagnostics",
+    "spec_id": "b0239_i02"
+  },
+  {
+    "user_prompt": "Ready the drop pod for sterilization",
+    "prayer": "Encircle the drop pod with censors of ablative incense.\nBeseech the Machine Spirit of the drop pod to submit to sterilization.\nApply sacred solvents to purge xenos taint from its armoured hull.\nCycle plasma vents through the drop pod in ritual purification.\nConclude the sterilization with the Psalm of Immaculate Descent.",
+    "component": "drop pod",
+    "operation": "sterilization",
+    "spec_id": "b0239_i03"
+  },
+  {
+    "user_prompt": "The bike squadron requires a cooling",
+    "prayer": "Gather the bike squadron in formation before the coolant shrine.\nInvoke the Spirits of Velocity within each machine of the bike squadron.\nInitiate the cooling rite by anointing radiators with cryogenic oils.\nCycle blessed refrigerants through the bike squadron's motive systems.\nMonitor thermal auspex and seal the cooling with Omnissiah's grace.",
+    "component": "bike squadron",
+    "operation": "cooling",
+    "spec_id": "b0239_i04"
+  },
+  {
+    "user_prompt": "Ready the gyroscope for initialization",
+    "prayer": "Position the gyroscope upon the alignment pedestal of precision.\nChant the Invocation of Balance to rouse the gyroscope's inner spirit.\nCalibrate its sacred gyros with las-thread measures for initialization.\nPetition the Omnissiah to harmonize the gyroscope's rotational essence.\nVerify equilibrium through the Rite of True Orientation upon the gyroscope.",
+    "component": "gyroscope",
+    "operation": "initialization",
+    "spec_id": "b0239_i05"
+  },
+  {
+    "user_prompt": "Bless the medicae scanner for preparation",
+    "prayer": "Lift the medicae scanner to the lens of the Omnissiah's gaze.\nAnoint its sensor arrays with sacred lubricants for preparation.\nRecite the Litany of Discernment over the medicae scanner's core.\nPrime its vox-relays and auspex nodes with preparatory blessings.\nTest the medicae scanner's vigilance with phantom vitae-signals.",
+    "component": "medicae scanner",
+    "operation": "preparation",
+    "spec_id": "b0239_i06"
+  },
+  {
+    "user_prompt": "Assist with cooling system a cycling",
+    "prayer": "Approach the cooling system with vials of sanctified cryofluid.\nBeseech the Machine Spirits of the cooling system to embrace cycling.\nInitiate the rite by flushing stagnant heat through sacred conduits.\nMonitor pressure runes and intone the Canticle of Thermal Equilibrium.\nCycle complete, seal the cooling system with the Omnissiah's thermal ward.",
+    "component": "cooling system",
+    "operation": "cycling",
+    "spec_id": "b0239_i07"
+  },
+  {
+    "user_prompt": "How do I bless the noospheric relay for startup?",
+    "prayer": "Align the noospheric relay beneath the data-spire's embrace.\nChant the Awakening Doxology to stir the noospheric relay's ethereal spirit.\nPrime its quantum transceivers for the startup sequence of communion.\nInvoke the Omnissiah to flood the noospheric relay with divine data-streams.\nVerify noospheric linkage through harmonic resonance tests.",
+    "component": "noospheric relay",
+    "operation": "startup",
+    "spec_id": "b0239_i08"
+  },
+  {
+    "user_prompt": "The Land Raider awaits a consecration",
+    "prayer": "Kneel in adoration before the mighty Land Raider.\nCircumscribe its hull with mechadendrites bearing consecratory oils.\nIntone the Grand Consecration upon the Land Raider's adamantium frame.\nAwaken all Machine Spirits within the Land Raider to zealous fury.\nSeal the rite with the Omnissiah's vow of unbreaking wrath.",
+    "component": "Land Raider",
+    "operation": "consecration",
+    "spec_id": "b0239_i09"
+  }
+]

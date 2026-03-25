@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for augmetic limb shutdown?",
+    "prayer": "Kneel before the augmetic limb and beseech its Machine Spirit to enter repose.\nInvoke the Rite of Shutdown upon the augmetic limb's sacred servos and neural links.\nAnoint the power conduits with unguent of stasis as the holy voltage fades.\nPetition the Omnissiah for a peaceful shutdown, sealing the augmetic limb in dormancy.",
+    "component": "augmetic limb",
+    "operation": "shutdown",
+    "spec_id": "b0182_i00"
+  },
+  {
+    "user_prompt": "Ready the servitor for blessing",
+    "prayer": "Approach the servitor with mechadendrites extended in veneration.\nChant the Canticle of Obedience to awaken its lobotomised Machine Spirit.\nBless the servitor's cranial implants and limb-servos with sacred oils.\nInvoke the Omnissiah's grace upon the servitor, readying it for dutiful service.",
+    "component": "servitor",
+    "operation": "blessing",
+    "spec_id": "b0182_i01"
+  },
+  {
+    "user_prompt": "I need to a cycling the auspex scanner",
+    "prayer": "Present the auspex scanner to the glow of the altar-lamp.\nInitiate the cycling sequence with binary prayers to its crystalline depths.\nPurge auspex scanner residuals whilst invoking the Machine Spirit's vigilance.\nSanctify the renewed cycling of the auspex scanner under Omnissiah's watchful gaze.",
+    "component": "auspex scanner",
+    "operation": "cycling",
+    "spec_id": "b0182_i02"
+  },
+  {
+    "user_prompt": "Consecrate the plasma reactor before cooling",
+    "prayer": "Consecrate the plasma reactor with incense of promethium before cooling commences.\nBeseech the plasma reactor's furious Machine Spirit to temper its plasma heart.\nAnoint heat-sinks and conduits as the cooling rite draws forth blessed equilibrium.\nPetition the Omnissiah for serene cooling within the plasma reactor's core.",
+    "component": "plasma reactor",
+    "operation": "cooling",
+    "spec_id": "b0182_i03"
+  },
+  {
+    "user_prompt": "My drop pod is ready for charging",
+    "prayer": "Commence the charging ritual upon the drop pod's thunderous reactors.\nInvoke the Machine Spirits of the drop pod with litanies of acceleration.\nChannel holy voltage through its armoured hull during the charging phase.\nSanctify the drop pod's preparedness for descent in Omnissiah's name.",
+    "component": "drop pod",
+    "operation": "charging",
+    "spec_id": "b0182_i04"
+  },
+  {
+    "user_prompt": "Prepare the cogitator for maintenance",
+    "prayer": "Prepare the cogitator by reciting the Lexmechanicum of Calibration.\nInvoke its noospheric Machine Spirit prior to maintenance rites.\nClear auspex-logic pathways and anoint data-vaults for the cogitator.\nUnder Omnissiah's decree, commence maintenance upon the sanctified cogitator.",
+    "component": "cogitator",
+    "operation": "maintenance",
+    "spec_id": "b0182_i05"
+  },
+  {
+    "user_prompt": "The fusion core needs a cycling",
+    "prayer": "Approach the fusion core and intone the Hymn of Containment.\nCycle the fusion core's plasma flows with precise binary canticles.\nBeseech its volatile Machine Spirit during the cycling transition.\nSeal the fusion core's sanctity with the Omnissiah's eternal fusion.",
+    "component": "fusion core",
+    "operation": "cycling",
+    "spec_id": "b0182_i06"
+  },
+  {
+    "user_prompt": "Emergency: Chimera APC a cooling",
+    "prayer": "In emergency, beseech the Chimera APC's Machine Spirit for swift cooling.\nInitiate coolant incantations upon the Chimera APC's overheating reactors.\nAnoint treads and hull-plates as blessed chill permeates its frame.\nPetition Omnissiah for urgent cooling of the noble Chimera APC.",
+    "component": "Chimera APC",
+    "operation": "cooling",
+    "spec_id": "b0182_i07"
+  },
+  {
+    "user_prompt": "My battery array is ready for targeting",
+    "prayer": "Align the battery array towards the foe under targeting auspex.\nInvoke the Machine Spirits of the battery array for precision fire.\nSanctify targeting matrices with sacred calibrations and oils.\nUnleash the battery array's wrath in Omnissiah's targeting judgment.",
+    "component": "battery array",
+    "operation": "targeting",
+    "spec_id": "b0182_i08"
+  },
+  {
+    "user_prompt": "Help me a preparation the emergency bulkhead",
+    "prayer": "Fortify the emergency bulkhead with mechadendrite-seals and prayers.\nInvoke its adamantium Machine Spirit in preparation for breach.\nAnoint locking servos and reinforce with blessed plating.\nUnder Omnissiah's aegis, complete preparation of the emergency bulkhead.",
+    "component": "emergency bulkhead",
+    "operation": "preparation",
+    "spec_id": "b0182_i09"
+  }
+]

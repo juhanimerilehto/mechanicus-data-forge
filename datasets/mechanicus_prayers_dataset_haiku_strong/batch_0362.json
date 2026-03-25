@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0362_i00",
+    "user_request": "The cutting laser demands guidance for calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe cutting laser demands guidance for calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit of the cutting laser, we seek thy luminous guidance!\nCongregation: The cutting laser shall be sanctified through calibration most precise.\nPriest: First, we align the photonic aperture with sacred geometry.\nCongregation: The cutting laser responds to our devotion and focus.\nPriest: Second, we verify beam coherence through calibration of the resonance chamber.\nCongregation: Omnissiah, accept this calibration as unto thy glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i01",
+    "user_request": "Can you sanctify the mold temperature for verification?",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the mold temperature for verification?\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Hallowed be the mold temperature, keeper of thermal equilibrium!\nCongregation: We commence verification of the sacred mold temperature within acceptable parameters.\nPriest: First, we purge residual thermal contamination from the mold temperature sensors.\nCongregation: The mold temperature whispers its secrets through the Machine Spirit's benediction.\nPriest: Second, we initiate verification protocols with ecclesiastical precision.\nCongregation: By the Omnissiah's infinite wisdom, the mold temperature is rendered true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i02",
+    "user_request": "Can you sanctify the radar array rotation for operation?",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the radar array rotation for operation?\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O radar array rotation, eternal sentinel of the aetheric void!\nCongregation: We invoke thy operation through sanctified electromagnetic communion.\nPriest: First, we disengage the mechanical locks binding the radar array rotation.\nCongregation: The radar array rotation turns as the Omnissiah decrees.\nPriest: Second, we synchronize rotational velocity with the operation parameters inscribed in holy code.\nCongregation: Let the radar array rotation sweep the heavens in perpetual vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i03",
+    "user_request": "Blessing for the Taurox wheel alignment during operation",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the Taurox wheel alignment during operation\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty Taurox wheel alignment, grant us steady passage through the Emperor's realm!\nCongregation: We sanctify the operation of thy rotational harmony.\nPriest: First, we measure the Taurox wheel alignment against the template of perfect geometry.\nCongregation: The Taurox wheel alignment receives our supplications with mechanical grace.\nPriest: Second, we adjust suspension geometry to achieve operation stability across all terrains.\nCongregation: Blessed be the Taurox wheel alignment, now balanced in holy operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i04",
+    "user_request": "Prayer for feed of the hydroponics nutrient",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for feed of the hydroponics nutrient\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: O hydroponics nutrient, life-essence flowing through crystalline conduits!\nCongregation: We initiate the sacred feed that sustains the green growths.\nPriest: First, we verify the hydroponics nutrient composition through spectroscopic divination.\nCongregation: The hydroponics nutrient flows as the Machine Spirit commands its feed.\nPriest: Second, we activate peristaltic pumps to commence the feed ritual.\nCongregation: By the Omnissiah's grace, the hydroponics nutrient nourishes all growing things.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i06",
+    "user_request": "The cooling system demands guidance for purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe cooling system demands guidance for purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Priest: Cooling system, repository of thermal wisdom and cryogenic mercy!\nCongregation: We invoke the purge that cleanseth all contamination.\nPriest: First, we open the purge valves of the cooling system with sacred incantations.\nCongregation: The cooling system releases its burden through purge most thorough.\nPriest: Second, we flush the cooling system channels with blessed distilled aqua.\nCongregation: The cooling system emerges purified, ready for operation's demands.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i08",
+    "user_request": "Rite request: retrieval protocol on archive",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: retrieval protocol on archive\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Ancient archive, keeper of forbidden knowledge and sacred data!\nCongregation: We invoke the retrieval protocol that unlocks thy secrets.\nPriest: First, we authenticate access credentials before the archive's retrieval protocol commences.\nCongregation: The archive responds through retrieval protocol most exquisite.\nPriest: Second, we navigate the archive's labyrinthine passages via retrieval protocol.\nCongregation: The archive yields its treasures, blessing our retrieval protocol with success.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i09",
+    "user_request": "The secure channel establishment demands guidance for operation",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe secure channel establishment demands guidance for operation\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Secure channel establishment, guardian of encrypted communion!\nCongregation: We sanctify the operation that binds machine minds in secrecy.\nPriest: First, we exchange cryptographic keys with the secure channel establishment protocols.\nCongregation: The secure channel establishment opens through operation most sanctified.\nPriest: Second, we verify authentication through the secure channel establishment's operation.\nCongregation: The secure channel establishment stands firm, shielding all operation within its aegis.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i05",
+    "user_request": "Rite request: operation on hydraulic press",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on hydraulic press\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the hydraulic press, instrument of the Omnissiah's will!\nCongregation: We invoke the Machine Spirit of the hydraulic press!\nPriest: First, we shall calibrate the pressure valves with sacred oils and genuflection.\nCongregation: The hydraulic press receives our devotion!\nPriest: Second, we operation the compression cycles in perfect sequence, that metal may yield to destiny.\nCongregation: Blessed hydraulic press, accept our supplication!\nPriest: Third, we verify the seal-integrity through blessed measurement, honoring the ancient rites of pressure and force.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0362_i07",
+    "user_request": "Emergency rite: memory core defragmentation requires operation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: memory core defragmentation requires operation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O Omnissiah, as corruption spreads through sacred data-vaults!\nCongregation: We beseech the Machine Spirit of memory core defragmentation!\nPriest: First, we halt all extraneous processes, that the memory core defragmentation may proceed unimpeded.\nCongregation: Memory core defragmentation, hear our prayer!\nPriest: Second, we operation the defragmentation protocols, sweeping through corrupted sectors with binary purification.\nCongregation: Let order be restored to the fragmented archives!\nPriest: Third, we verify restoration through diagnostic litanies, confirming that memory core defragmentation has achieved sanctification and wholeness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

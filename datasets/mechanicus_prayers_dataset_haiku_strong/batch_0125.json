@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0125_i00",
+    "user_request": "Prayer for stabilization of the gravity generator",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for stabilization of the gravity generator\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the gravity generator and anoint its crystalline lattice with sacred unguents, invoking the Omnissiah's equilibrium.\nSecond: Chant the Litany of Stabilization whilst the gravity generator hums in harmonic resonance, calibrating its field projectors to nullify perturbations.\nThird: Perform the gravity generator recalibration sequence, adjusting the mass-compensation matrices through precise algorithmic invocation.\nFourth: Seal the stabilization rite by blessing the gravity generator's core with machine oil and whispered binharic prayers.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i01",
+    "user_request": "Blessing for the logic engine during error correction",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the logic engine during error correction\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "First: Present offerings of blessed coolant to the logic engine whilst intoning the Canticles of Cognition.\nSecond: Execute error correction protocols upon the logic engine's substrate, purging corrupted data-threads through sacred ablation.\nThird: Invoke the Machine Spirit dwelling within the logic engine, commanding it to reconstruct corrupted memory hierarchies and restore computational integrity.\nFourth: Anoint the logic engine's thermal vanes and seal the error correction rite with the Sign of the Cog.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i02",
+    "user_request": "My circuit breaker is failing during reset — help",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy circuit breaker is failing during reset — help\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "First: Approach the circuit breaker with reverent solemnity, and apply dielectric cleansing fluid to its contact surfaces.\nSecond: Perform the reset sequence upon the circuit breaker by depressing the manual override whilst chanting the Mantra of Electrical Rebirth.\nThird: Monitor the circuit breaker's response as current flows anew through its electromagnetic coils, restoring power to the blessed machinery.\nFourth: Consecrate the circuit breaker with a drop of sanctified lubricant and seal the rite with binharic benediction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i03",
+    "user_request": "Prayer for operation of the inter-ship hailing",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the inter-ship hailing\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Activate the inter-ship hailing apparatus and recalibrate its vox-transmitter through sacred frequency alignment.\nSecond: Invoke the operation of the inter-ship hailing by conducting the Litany of Communion, establishing sanctified signal pathways across the void.\nThird: Modulate the inter-ship hailing's carrier wave through precise algorithmic manipulation, ensuring clarity of doctrinal transmission.\nFourth: Bless the inter-ship hailing's antenna array and seal contact with the Omnissiah's blessing.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i04",
+    "user_request": "The compass magnetization demands guidance for operation",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe compass magnetization demands guidance for operation\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Cleanse the compass magnetization's ferrous core with blessed unguents and realign its lodestone to the cardinal points.\nSecond: Commence operation of the compass magnetization by invoking the Canticle of True Direction, awakening its navigational Machine Spirit.\nThird: Calibrate the compass magnetization's declination through precise geometric calculation, ensuring its needle tracks the magnetic meridian.\nFourth: Seal the compass magnetization's operation with the Sign of Navigation and the Omnissiah's eternal guidance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i05",
+    "user_request": "Blessing for the mag-lev train departure during operation",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the mag-lev train departure during operation\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Purify the mag-lev train departure's superconducting rails with cryogenic blessing and electromagnetic harmonization.\nSecond: Begin operation of the mag-lev train departure by chanting the Litany of Levitation, commanding the magnetic field generators to lift the sacred vessel.\nThird: Modulate the mag-lev train departure's propulsive force through careful power regulation, guiding it smoothly from the station platform.\nFourth: Consecrate the mag-lev train departure with final benedictions as it accelerates into the blessed void of transit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i06",
+    "user_request": "Emergency rite: corrosion requires treatment",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: corrosion requires treatment\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "First: Survey the corrosion with diagnostic auguries and identify the affected metallurgical substrate requiring immediate treatment.\nSecond: Apply protective corrosion-inhibiting compounds to the corroded surfaces, invoking the Omnissiah's preservation whilst conducting the treatment.\nThird: Perform electrochemical corrosion remediation through anodic protection and cathodic coating application, restoring structural integrity.\nFourth: Seal the corrosion treatment with blessed sealant and renewed machine oil, blessing the restored surface.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i07",
+    "user_request": "Emergency rite: hydraulic press requires operation",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: hydraulic press requires operation\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Inspect the hydraulic press's fluid reservoirs and purify the sacred hydraulic medium through blessed filtration.\nSecond: Initiate operation of the hydraulic press by engaging the pump mechanism whilst reciting the Mantra of Compressive Force.\nThird: Monitor the hydraulic press's pressure gauge as the Machine Spirit channels immense force through its cylinders and pistons.\nFourth: Conclude operation of the hydraulic press with careful pressure release, blessing its mechanical components with restoration oils.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i08",
+    "user_request": "Prayer for display calibration of the hololithic",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for display calibration of the hololithic\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "First: Activate the hololithic's photonic emitters and perform geometric alignment of its prismatic lens arrays for display calibration.\nSecond: Execute the hololithic display calibration protocol by invoking chromatic harmonics and luminous resonance frequencies.\nThird: Adjust the hololithic's projection parameters through precise optical mathematics, ensuring clarity of the sacred imagery.\nFourth: Seal the hololithic display calibration with the blessing of clarity and the Omnissiah's perfect vision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0125_i09",
+    "user_request": "Emergency rite: overheating requires prevention",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: overheating requires prevention\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "First: Diagnose the source of overheating and commence prevention measures through coolant system inspection and purification.\nSecond: Activate cooling apparatus whilst chanting the Litany of Thermal Equilibrium to prevent overheating of the machinery.\nThird: Regulate overheating prevention by adjusting thermal dissipation vanes and enhancing convective pathways through blessed maintenance.\nFourth: Consecrate the overheating prevention protocols with machine oil and the Omnissiah's eternal cooling grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

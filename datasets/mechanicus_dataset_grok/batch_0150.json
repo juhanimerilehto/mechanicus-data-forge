@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the Land Raider during targeting",
+    "prayer": "Approach the Land Raider with reverence, beseeching the Omnissiah to guide its wrathful aim.\nAnoint the Land Raider's targeting auspex with sacred oils, awakening the vigilant Machine Spirits within.\nInvoke the Litany of Precision upon its cogitator arrays during targeting, aligning blessed servos to the foe.\nVerify the Land Raider's targeting sanctification through diagnostic runes, praising the Machine God's unerring gaze.",
+    "component": "Land Raider",
+    "operation": "targeting",
+    "spec_id": "b0150_i00"
+  },
+  {
+    "user_prompt": "Prepare the welding torch for engagement",
+    "prayer": "Grasp the welding torch humbly, petitioning the Omnissiah for fiery purity in its engagement.\nSanctify the welding torch's plasma coils with incense, rousing its indomitable Machine Spirit.\nInitiate engagement sequences whilst chanting the Canticle of Fusion, bonding metal in holy union.\nConclude by testing the weld's integrity, honouring the welding torch's blessed engagement.",
+    "component": "welding torch",
+    "operation": "engagement",
+    "spec_id": "b0150_i01"
+  },
+  {
+    "user_prompt": "Consecrate the Thunderhawk before diagnostics",
+    "prayer": "Kneel before the Thunderhawk's noble frame, consecrating it with mechadendrite blessings prior to diagnostics.\nInvoke the Machine Spirits of the Thunderhawk through auspex sweeps, clearing any digital heresy.\nPerform diagnostics with sacred data-probes, anointing circuits to restore optimal flight harmonies.\nAffirm the Thunderhawk's purity via logis incantations, exalting the Omnissiah's aerial dominion.",
+    "component": "Thunderhawk",
+    "operation": "diagnostics",
+    "spec_id": "b0150_i02"
+  },
+  {
+    "user_prompt": "Can you guide Rhino transport a synchronization?",
+    "prayer": "Commence rites upon the Rhino transport, invoking synchronization with the Omnissiah's grand machine.\nAnoint the Rhino transport's drive cogitators, harmonizing their Machine Spirits in choral unity.\nChant the Hymn of Synchronization to align treads and vox-links in flawless operation.\nSeal the rite by verifying the Rhino transport's synchronized essence, praising mechanical concord.",
+    "component": "Rhino transport",
+    "operation": "synchronization",
+    "spec_id": "b0150_i03"
+  },
+  {
+    "user_prompt": "Guide me through air filtration a diagnostics",
+    "prayer": "Approach the air filtration systems with pious intent, preparing for diagnostics under Omnissiah's breath.\nClear particulate heresies from the air filtration membranes, beseeching their Machine Spirits' vigilance.\nConduct diagnostics via sacred pressure gauges, sanctifying flow-vectors with blessed lubricants.\nConclude diagnostics affirming the air filtration's purity, invoking the Machine God's sustaining winds.",
+    "component": "air filtration",
+    "operation": "diagnostics",
+    "spec_id": "b0150_i04"
+  },
+  {
+    "user_prompt": "Emergency: vox-caster a charging",
+    "prayer": "In emergency haste, clasp the vox-caster and petition the Omnissiah for swift charging.\nAnoint the vox-caster's power cells with emergency unguents, rousing its communicative Machine Spirit.\nInitiate charging cycles through litanies of amplification, flooding circuits with holy voltage.\nTest the vox-caster's charged voice, proclaiming the Machine God's eternal transmission.",
+    "component": "vox-caster",
+    "operation": "charging",
+    "spec_id": "b0150_i05"
+  },
+  {
+    "user_prompt": "The drop pod needs an operation",
+    "prayer": "Gather mechadendrites around the drop pod, invoking the Omnissiah for its descent operation.\nSanctify the drop pod's retro-thrusters and hull plating, awakening descent Machine Spirits.\nCommence operation rites with the Canticle of Orbital Fall, aligning guidance cogitators precisely.\nVerify the drop pod's operational readiness, honouring the Machine God's plummeting judgment.",
+    "component": "drop pod",
+    "operation": "operation",
+    "spec_id": "b0150_i06"
+  },
+  {
+    "user_prompt": "Prepare the flamer for sterilization",
+    "prayer": "Wield the flamer in reverence, preparing it for sterilization by the Omnissiah's purifying flame.\nAnoint the flamer's promethium reservoirs, invoking its scorching Machine Spirit to life.\nInitiate sterilization vents with chants of cleansing fire, purging unclean voids utterly.\nConsecrate the flamer post-sterilization, praising its role in the Machine God's hygienic order.",
+    "component": "flamer",
+    "operation": "sterilization",
+    "spec_id": "b0150_i07"
+  },
+  {
+    "user_prompt": "Assist with pain suppressor a cycling",
+    "prayer": "Tend the pain suppressor with care, cycling its mechanisms under Omnissiah's merciful logic.\nInvoke the Machine Spirit of the pain suppressor through neural incantations, easing flesh-machine strife.\nCycle its suppression fields with sacred binary prayers, restoring doctrinal endurance.\nAffirm the pain suppressor's cycled harmony, exalting the Machine God's transcendence of agony.",
+    "component": "pain suppressor",
+    "operation": "cycling",
+    "spec_id": "b0150_i08"
+  },
+  {
+    "user_prompt": "Emergency: valve assembly a reset",
+    "prayer": "In dire emergency, beseech the Omnissiah over the valve assembly for urgent reset.\nAnoint the valve assembly's seals and actuators, rousing their pressurized Machine Spirits.\nPerform reset sequences via litanies of equilibrium, purging blockages with holy pressure.\nSeal the valve assembly's reset sanctity, invoking the Machine God's fluidic perfection.",
+    "component": "valve assembly",
+    "operation": "reset",
+    "spec_id": "b0150_i09"
+  }
+]

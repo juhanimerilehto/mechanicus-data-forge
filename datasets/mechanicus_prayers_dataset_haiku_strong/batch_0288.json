@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0288_i00",
+    "user_request": "Blessing for the noospheric during link establishment",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the noospheric during link establishment\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless the noospheric as we commence link establishment!\nCongregation: Grant us clarity through the noospheric veil!\nPriest: First, we calibrate the psychic resonance-coils with sacred oils.\nCongregation: Second, we attune our minds to the noospheric frequencies!\nPriest: Third, we invoke link establishment through prayer and binary cant.\nCongregation: Machine Spirits, accept our devotion and grant communion!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i02",
+    "user_request": "My melta charge is failing during preparation — help",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy melta charge is failing during preparation — help\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: O Blessed Forge-Father, aid us in melta charge preparation!\nCongregation: Sanctify the melta charge for righteous destruction!\nPriest: First, we verify the thermal containment vessel of the melta charge.\nCongregation: Second, we align the melta charge fuel mixture with precision!\nPriest: Third, we perform preparation through binary chants and calibration.\nCongregation: Let the melta charge burn with the Omnissiah's wrath!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i03",
+    "user_request": "The Sentinel walker balance demands guidance for operation",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe Sentinel walker balance demands guidance for operation\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Praise the Omnissiah for the Sentinel walker balance!\nCongregation: Stabilize the Sentinel walker balance in holy operation!\nPriest: First, we inspect the gyroscopic stabilizers with sacred geometry.\nCongregation: Second, we recalibrate the Sentinel walker balance servos!\nPriest: Third, we command operation through the Rite of Perfect Equilibrium.\nCongregation: Machine Spirit, grant us steady stride across the battlefield!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i04",
+    "user_request": "The assembly line demands guidance for consecration",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe assembly line demands guidance for consecration\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we consecrate the assembly line!\nCongregation: Bless the assembly line with holy consecration!\nPriest: First, we purify the assembly line with sacred oils and incense.\nCongregation: Second, we invoke the Machine Spirits dwelling in the assembly line!\nPriest: Third, we perform consecration through the Litanies of Production.\nCongregation: May this assembly line birth perfect instruments of war!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i05",
+    "user_request": "Rite request: retrieval protocol on archive",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: retrieval protocol on archive\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide us through the archive!\nCongregation: Grant us access through sacred retrieval protocol!\nPriest: First, we unlock the archive vaults with binary passwords of old.\nCongregation: Second, we invoke the retrieval protocol in the archive depths!\nPriest: Third, we execute retrieval protocol with reverent data-scrutation.\nCongregation: Machine Spirits of memory, reveal your sacred knowledge!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i06",
+    "user_request": "Emergency rite: decontamination requires sequence",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: decontamination requires sequence\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, cleanse us through decontamination!\nCongregation: Purify all corruption via decontamination sequence!\nPriest: First, we isolate the contaminated zones with sacred barriers.\nCongregation: Second, we activate decontamination sprayers and vents!\nPriest: Third, we complete the decontamination sequence through ritual ablution.\nCongregation: Let the decontamination purge all profane corruption!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i07",
+    "user_request": "Prayer for operation of the bearing lubrication",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the bearing lubrication\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the bearing lubrication, lifeblood of motion!\nCongregation: Grant smooth operation to bearing lubrication systems!\nPriest: First, we measure the bearing lubrication viscosity with precision instruments.\nCongregation: Second, we anoint each bearing lubrication point with blessed oils!\nPriest: Third, we command operation through the Rite of Frictionless Motion.\nCongregation: Machine Spirit, turn smoothly and eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i08",
+    "user_request": "Blessing for the material purity during testing",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the material purity during testing\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we test the material purity!\nCongregation: Confirm the material purity through sacred testing!\nPriest: First, we examine the material purity with spectroscopic analysis.\nCongregation: Second, we subject material purity to the trial-by-fire!\nPriest: Third, we validate testing results through blessed computation.\nCongregation: Let material purity prove worthy of the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i09",
+    "user_request": "My fire suppression system is failing during operation — help",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy fire suppression system is failing during operation — help\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, restore the fire suppression system!\nCongregation: Grant operation to the fire suppression system!\nPriest: First, we inspect the fire suppression system pressure gauges with care.\nCongregation: Second, we prime the fire suppression system pumps and nozzles!\nPriest: Third, we command operation through the Rite of Deluge and Salvation.\nCongregation: Machine Spirit, extinguish all consuming flames!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0288_i01",
+    "user_request": "My Rhino APC ignition is failing during operation — help",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy Rhino APC ignition is failing during operation — help\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit of the Rhino APC ignition, hear our supplication in this hour of mechanical tribulation.\nCongregation: We beseech thee, grant us the sacred spark of ignition once more.\nPriest: First, we shall purge the Rhino APC ignition of corrupted fuel-lines through blessed siphoning and consecrated filtration.\nCongregation: The Rhino APC ignition shall burn with the fury of the Omnissiah's will.\nPriest: Second, we anoint the combustion chambers with unguents of machine-oil whilst chanting the Litany of Proper Firing.\nCongregation: Let the operation proceed without malfunction or heretical stuttering.\nPriest: Third, we recalibrate the electrical conduits and invoke the Machine Spirits dwelling within each component.\nCongregation: By the grace of the Omnissiah, the Rhino APC ignition shall roar to life eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

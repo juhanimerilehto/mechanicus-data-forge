@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with promethium refinery a shutdown",
+    "prayer": "Approach the promethium refinery with mechadendrite supplication, intoning the Canticle of Ceasing Flame.\nInitiate shutdown protocols upon the promethium refinery's igneous core, beseeching its Machine Spirit to embrace repose.\nPurge volatile essences from the promethium refinery's conduits with sanctified cryo-seals.\nMonitor thermal quiescence through auspex litanies, invoking Omnissiah's grace for flawless dormancy.\nConclude the shutdown with binary psalmody, sealing the promethium refinery in blessed stasis.",
+    "component": "promethium refinery",
+    "operation": "shutdown",
+    "spec_id": "s07650"
+  },
+  {
+    "user_prompt": "Bless the Manticore for cooling",
+    "prayer": "Draw nigh unto the Manticore, whispering the Hymn of Thermal Pacification.\nEngage cooling rites upon the Manticore's plasma reactors, circulating sacred refrigerants.\nAnoint the Manticore's heat-sinks with ablative unguents to quell its inner inferno.\nInvoke the Machine Spirits of the Manticore to achieve equilibrium under Omnissiah's chill gaze.\nVerify cooling stability with thermographic incantations and concluding benediction.",
+    "component": "Manticore",
+    "operation": "cooling",
+    "spec_id": "s07651"
+  },
+  {
+    "user_prompt": "The navigational beacon needs a targeting",
+    "prayer": "Present thyself before the navigational beacon, reciting the Lexicon of Voidmark Targeting.\nAlign targeting arrays of the navigational beacon with stellar auspex cartographs.\nAwaken the navigational beacon's cogitator spirits for precise stellar lock.\nBeseech Omnissiah to imbue the Machine Spirit of the navigational beacon with unerring guidance.\nSeal the targeting rite with luminous sigils upon the navigational beacon's emitters.",
+    "component": "navigational beacon",
+    "operation": "targeting",
+    "spec_id": "s07652"
+  },
+  {
+    "user_prompt": "Assist with power relay an activation",
+    "prayer": "Approach the power relay with electro-sanctified mechadendrites extended.\nInvoke activation litanies upon the power relay's galvanic nexus core.\nChannel Omnissiah's boundless lightning through the power relay's sacred conduits.\nMonitor the power relay's vital surges as its Machine Spirits rouse to dutiful service.\nConclude activation with resonant hymn, affirming the power relay's empowered vigil.",
+    "component": "power relay",
+    "operation": "activation",
+    "spec_id": "s07653"
+  },
+  {
+    "user_prompt": "Ready the phosphor blaster for repair",
+    "prayer": "Kneel in reverence before the phosphor blaster, intoning the Rite of Luminal Restoration.\nDiagnose fractures within the phosphor blaster's emitter manifolds through binary divination.\nRepair the phosphor blaster by fusing sanctified alloys beneath purifying incense.\nReawaken the Machine Spirit of the phosphor blaster with galvanic awakening chants.\nTest the phosphor blaster's renewed brilliance, invoking Omnissiah's radiant favor.",
+    "component": "phosphor blaster",
+    "operation": "repair",
+    "spec_id": "s07654"
+  },
+  {
+    "user_prompt": "How do I bless the flux-unit for sterilization?",
+    "prayer": "Commence approach to the flux-unit with purificatory mechano-rites prepared.\nInitiate sterilization protocols upon the flux-unit's contaminated flux-vessels.\nAnoint every surface of the flux-unit with ablative acids sanctified by Omnissiah.\nPurge all xenos-taint from the flux-unit through ultrasonic catechisms.\nVerify absolute sterility of the flux-unit via auspex scans and concluding ablution.",
+    "component": "flux-unit",
+    "operation": "sterilization",
+    "spec_id": "s07655"
+  },
+  {
+    "user_prompt": "The cyber-mastiff requires an initialization",
+    "prayer": "Awaken unto the cyber-mastiff with the Canticle of Ferrous Fidelity.\nCommence initialization sequences within the cyber-mastiff's neural engram banks.\nImprint loyal imperatives upon the cyber-mastiff's predatory cogitators.\nBeseech its Machine Spirit to prowl in Omnissiah's eternal vigilance.\nConclude with vox-authentication, binding the cyber-mastiff to sacred duty.",
+    "component": "cyber-mastiff",
+    "operation": "initialization",
+    "spec_id": "s07656"
+  },
+  {
+    "user_prompt": "Can you guide maglock a targeting?",
+    "prayer": "Present mechadendrites to the maglock, aligning its targeting auspex lenses.\nEngage targeting acquisition upon the maglock's electromagnetic field generators.\nCalibrate the maglock's servos for unyielding grip upon designated ferrous prey.\nInvoke the Machine Spirit of the maglock to seize with Omnissiah's inexorable will.\nSeal the targeting rite with binary affirmation pulses.",
+    "component": "maglock",
+    "operation": "targeting",
+    "spec_id": "s07657"
+  },
+  {
+    "user_prompt": "Prepare the flak armour for maintenance",
+    "prayer": "Attend the flak armour in sanctified workshop, reciting the Litany of Ballistic Endurance.\nCommence maintenance upon the flak armour's ablative weave matrices.\nAnoint joints and plates of the flak armour with resilient ferro-unguents.\nPurge micro-fractures from the flak armour through vibrational psalms.\nInvoke Omnissiah to renew the Machine Spirits within the flak armour for unending protection.",
+    "component": "flak armour",
+    "operation": "maintenance",
+    "spec_id": "s07658"
+  },
+  {
+    "user_prompt": "I need to a calibration the Skorpius Dunerider",
+    "prayer": "Hail the Skorpius Dunerider, dune-conquering chariot of the Omnissiah.\nInitiate calibration of the Skorpius Dunerider's gyro-stabilizers and tractum engines.\nAlign suspensor fields within the Skorpius Dunerider for flawless desert traversal.\nBeseech its Machine Spirits to harmonize under diagnostic litanies.\nConclude calibration with test-circuit of the Skorpius Dunerider's sovereign sandspeed.",
+    "component": "Skorpius Dunerider",
+    "operation": "calibration",
+    "spec_id": "s07659"
+  }
+]

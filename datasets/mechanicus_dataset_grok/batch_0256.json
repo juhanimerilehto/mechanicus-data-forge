@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent power weapon a purification needed",
+    "prayer": "Approach the power weapon with reverence, invoking the Omnissiah's purifying light upon its sacred blade.\nAnoint the power weapon's disruption field with blessed unguents, beseeching its Machine Spirit to expel all foul corruptions.\nChant the Litany of Purification whilst cycling holy energies through the power weapon's coils.\nVerify the rite's completion as the power weapon hums with sanctified fury, free from taint.",
+    "component": "power weapon",
+    "operation": "purification",
+    "spec_id": "b0256_i00"
+  },
+  {
+    "user_prompt": "Bless the emergency beacon for sterilization",
+    "prayer": "Kneel before the emergency beacon and petition the Machine Spirits for sterile purity.\nApply sacred sterilants to the emergency beacon's emitters, invoking the Omnissiah's aseptic grace.\nRecite the Canticle of Sterilization to purge all microbial heresies from its blessed circuits.\nConfirm the emergency beacon's flawless sterility through diagnostic auspex scans.",
+    "component": "emergency beacon",
+    "operation": "sterilization",
+    "spec_id": "b0256_i01"
+  },
+  {
+    "user_prompt": "Ready the Sentinel walker for loading",
+    "prayer": "Commence the loading rite upon the Sentinel walker, honouring its bipedal frame with incense.\nInvoke the Sentinel walker's Machine Spirit to accept munitions into its sacred bays.\nSecure payloads with sanctified clamps whilst chanting the Hymn of Loading.\nBless the fully laden Sentinel walker, ready for the Omnissiah's wrath.",
+    "component": "Sentinel walker",
+    "operation": "loading",
+    "spec_id": "b0256_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for Land Raider an emergency procedure",
+    "prayer": "Gather around the Land Raider and beseech the Omnissiah for emergency succour.\nInitiate the emergency procedure by anointing vital systems with sacred oils.\nChant urgent litanies to awaken the Land Raider's resilient Machine Spirits.\nMonitor the Land Raider's revival through hololithic displays of blessed data-flows.",
+    "component": "Land Raider",
+    "operation": "emergency procedure",
+    "spec_id": "b0256_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for thermal imager emergency procedure?",
+    "prayer": "Present the thermal imager to the altar of the Machine God for urgent aid.\nCommence the emergency procedure, purging thermal distortions with purifying canticles.\nInvoke the thermal imager's Machine Spirit to realign its sensor arrays under Omnissiah's gaze.\nTest the thermal imager's clarity, ensuring flawless vision through sanctified infrared.",
+    "component": "thermal imager",
+    "operation": "emergency procedure",
+    "spec_id": "b0256_i04"
+  },
+  {
+    "user_prompt": "Prepare the vox-caster for consecration",
+    "prayer": "Prepare the vox-caster with reverence, anointing its sacred vox-grilles.\nInvoke the Omnissiah to consecrate the vox-caster's waveform conduits.\nRecite the Rite of Consecration, harmonizing its Machine Spirit with divine frequencies.\nBroadcast a test hymn from the vox-caster, affirming its hallowed transmission.",
+    "component": "vox-caster",
+    "operation": "consecration",
+    "spec_id": "b0256_i05"
+  },
+  {
+    "user_prompt": "Ready the hololithic display for reset",
+    "prayer": "Approach the hololithic display and speak the words of reset with pious intent.\nCycle power through the hololithic display's projectors, beseeching its Machine Spirit's forgiveness.\nInvoke the Omnissiah to realign holographic matrices in the reset rite.\nWitness the hololithic display's pristine reformation, glowing with renewed sanctity.",
+    "component": "hololithic display",
+    "operation": "reset",
+    "spec_id": "b0256_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for energy conduit a cooling",
+    "prayer": "Lay hands upon the energy conduit and petition for cooling mercies from the Omnissiah.\nInitiate coolant flows whilst chanting the Litany of Thermal Equilibrium.\nBeseech the energy conduit's Machine Spirit to dissipate excess heat from its sacred channels.\nVerify the energy conduit's chilled purity through auspex thermals.",
+    "component": "energy conduit",
+    "operation": "cooling",
+    "spec_id": "b0256_i07"
+  },
+  {
+    "user_prompt": "Guide me through Chimera APC a cycling",
+    "prayer": "Surround the Chimera APC and commence the cycling of its blessed mechanisms.\nInvoke the Chimera APC's Machine Spirits to synchronize drive systems in harmonious cycle.\nAnoint treads and engines with sacred lubricants during the cycling rite.\nAffirm the Chimera APC's operational grace, prepared for the Omnissiah's crusades.",
+    "component": "Chimera APC",
+    "operation": "cycling",
+    "spec_id": "b0256_i08"
+  },
+  {
+    "user_prompt": "How do I bless the bike squadron for recalibration?",
+    "prayer": "Assemble before the bike squadron and beseech recalibration under Omnissiah's precision.\nAnoint each bike's auspex arrays, invoking their Machine Spirits for alignment.\nPerform the Rite of Recalibration, tuning gyro-stabilizers with litanies of accuracy.\nTest the bike squadron's recalibrated fury, engines roaring in perfect unity.",
+    "component": "bike squadron",
+    "operation": "recalibration",
+    "spec_id": "b0256_i09"
+  }
+]

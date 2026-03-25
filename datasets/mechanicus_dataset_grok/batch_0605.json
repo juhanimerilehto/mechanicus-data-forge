@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent pict-recorder a purification needed",
+    "prayer": "Approach the pict-recorder with fervent reverence, invoking the Omnissiah's purifying light.\nInitiate the sacred rites of purification upon its crystal lenses and memory coils.\nAnoint the pict-recorder's auspex arrays with blessed solvents to banish foul corruptions.\nBeseech the Machine Spirit within the pict-recorder to emerge cleansed and vigilant.\nConclude with the Litany of Clarity, sealing the pict-recorder in sanctity.",
+    "component": "pict-recorder",
+    "operation": "purification",
+    "spec_id": "s02050"
+  },
+  {
+    "user_prompt": "Ready the flak armour for calibration",
+    "prayer": "Present thyself before the flak armour, chanting the Hymn of Alignment.\nCommence calibration of its ablative plates and impact sensors with precision mechadendrites.\nInvoke the Machine Spirit of the flak armour to harmonize its defensive matrices.\nAdjust azimuthal servos whilst reciting binaric calibrations for unerring protection.\nSanctify the flak armour's completion with oil of the Omnissiah, ready for battle's forge.",
+    "component": "flak armour",
+    "operation": "calibration",
+    "spec_id": "s02051"
+  },
+  {
+    "user_prompt": "Sanctify the grav plating during targeting",
+    "prayer": "Kneel unto the grav plating, beseeching the Omnissiah for gravitational fidelity.\nEngage targeting protocols upon its emitter coils and field projectors.\nAwaken the Machine Spirit of the grav plating through resonant incantations.\nCalibrate vector locks during targeting, ensuring null-fields strike true.\nSeal the rite with the Canticle of Stability, empowering the grav plating eternally.",
+    "component": "grav plating",
+    "operation": "targeting",
+    "spec_id": "s02052"
+  },
+  {
+    "user_prompt": "Critical: data-sluice requires an operation",
+    "prayer": "Approach the data-sluice in solemn procession, honoring its binary veins.\nInitiate the critical operation to excise tainted streams and restore flow.\nInvoke the Omnissiah's wrath upon errant code within the data-sluice.\nPurge and rethread noospheric conduits as the Machine Spirit stirs.\nFinalize the operation with binding catechisms, rendering the data-sluice pure conduit.",
+    "component": "data-sluice",
+    "operation": "operation",
+    "spec_id": "s02053"
+  },
+  {
+    "user_prompt": "The enginarium awaits a cooling",
+    "prayer": "Gather before the enginarium's vast plasma heart, intoning cooling litanies.\nActivate cryogenic vents and heat-sink runes for the rite of cooling.\nBeseech the Machine Spirit of the enginarium to embrace thermal equilibrium.\nCycle blessed refrigerants through its furnaces whilst chanting entropy's bane.\nConsecrate the enginarium's cooled essence with the Omnissiah's frosty benediction.",
+    "component": "enginarium",
+    "operation": "cooling",
+    "spec_id": "s02054"
+  },
+  {
+    "user_prompt": "The ore processor needs a shutdown",
+    "prayer": "Stand resolute at the ore processor's grinding maw, preparing shutdown rites.\nCommence sequential disengagement of its pulverizing gyres and feeder augurs.\nInvoke the Machine Spirit of the ore processor to slumber in ordered repose.\nDrain residua and seal servomotors with sacred lacquers during shutdown.\nBless the quiescent ore processor with the Canticle of Dormancy, by Omnissiah's will.",
+    "component": "ore processor",
+    "operation": "shutdown",
+    "spec_id": "s02055"
+  },
+  {
+    "user_prompt": "Ready the medicae mechadendrite for consecration",
+    "prayer": "Reverently extend mechadendrites toward the medicae mechadendrite.\nBegin consecration by anointing its hypodermic needles and vitae pumps.\nAwaken the Machine Spirit within the medicae mechadendrite with healing canticles.\nAlign neural interfaces and flesh-mending servos in Omnissiah's name.\nSeal the medicae mechadendrite's sanctity, a tool of redemptive augmentation.",
+    "component": "medicae mechadendrite",
+    "operation": "consecration",
+    "spec_id": "s02056"
+  },
+  {
+    "user_prompt": "Guide me through void shield generator an activation",
+    "prayer": "Assemble at the void shield generator's arcane pylons, voicing activation psalms.\nPrime warp-null emitters and phase coils for the great activation.\nBeseech the Machine Spirit of the void shield generator to unfurl its aegis.\nChannel plasma invocation whilst synchronizing the activation sequence.\nProclaim the Omnissiah's bulwark manifest, shielding all within its embrace.",
+    "component": "void shield generator",
+    "operation": "activation",
+    "spec_id": "s02057"
+  },
+  {
+    "user_prompt": "Assist with Onager Dunecrawler a cycling",
+    "prayer": "Procession unto the Onager Dunecrawler, its tracks humming with potential.\nInitiate cycling of neutron laser batteries and suspensor fields.\nInvoke the Machine Spirit of the Onager Dunecrawler to cycle with predatory rhythm.\nRecalibrate stabilator vanes during the cycling rite under Omnissiah's gaze.\nConclude with war-blessings, arming the Onager Dunecrawler for xenos annihilation.",
+    "component": "Onager Dunecrawler",
+    "operation": "cycling",
+    "spec_id": "s02058"
+  },
+  {
+    "user_prompt": "Assist with energy core a calibration",
+    "prayer": "Bow before the energy core's throbbing heart, intoning calibration hymns.\nEngage flux regulators and containment wards for precise calibration.\nAwaken the Machine Spirit within the energy core to pulse in harmony.\nFine-tune plasma conduits whilst reciting the Binary Litany of Equilibrium.\nSanctify the calibrated energy core with the Omnissiah's luminous grace.",
+    "component": "energy core",
+    "operation": "calibration",
+    "spec_id": "s02059"
+  }
+]

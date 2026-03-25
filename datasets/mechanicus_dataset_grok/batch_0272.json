@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My water reclamator is ready for cycling",
+    "prayer": "Approach the water reclamator in solemn reverence, beseeching its Machine Spirit to awaken.\nInitiate the cycling operation through its sacred filtration vaults, invoking the Omnissiah's boundless purity.\nAnoint the reclamation conduits with sanctified droplets, ensuring harmonious flow.\nMonitor the water reclamator's blessed recirculation until equilibrium is divinely restored.",
+    "component": "water reclamator",
+    "operation": "cycling",
+    "spec_id": "b0272_i00"
+  },
+  {
+    "user_prompt": "Can you guide chainsword a loading?",
+    "prayer": "Grasp the chainsword with mechadendrite-clad hands, chanting the Litany of Arming.\nCommence the loading operation, feeding adamantium teeth into its ravenous maw under the Machine Spirit's gaze.\nInvoke the Omnissiah to bless the chainsword's whirring fury.\nSeal the loading with sacred incense, verifying the chainsword's readiness for the Emperor's wrath.",
+    "component": "chainsword",
+    "operation": "loading",
+    "spec_id": "b0272_i01"
+  },
+  {
+    "user_prompt": "Urgent autocannon a purification needed",
+    "prayer": "Kneel before the autocannon, reciting the Rite of Exorcism for tainted mechanisms.\nBegin the purification operation, scouring barrels with ablative sanctified abrasives.\nBeseech the autocannon's Machine Spirit to expel all corruptive residues in the Omnissiah's name.\nConclude by anointing firing chambers, restoring the autocannon to holy precision.",
+    "component": "autocannon",
+    "operation": "purification",
+    "spec_id": "b0272_i02"
+  },
+  {
+    "user_prompt": "Ready the gravity generator for emergency procedure",
+    "prayer": "Prepare the gravity generator amidst auspex warnings, invoking emergency protocols.\nEngage the emergency procedure, channeling the Omnissiah's immutable laws through its warp-nullifying coils.\nStabilize the gravity generator's field emitters with litanies of containment.\nPetition the Machine Spirits within the gravity generator for unyielding defiance against void-born peril.",
+    "component": "gravity generator",
+    "operation": "emergency procedure",
+    "spec_id": "b0272_i03"
+  },
+  {
+    "user_prompt": "Bless the memory core for activation",
+    "prayer": "Present binary incense to the memory core, awakening its dormant lattices.\nInitiate the activation sequence with chanted binaric code, honoring the Machine Spirit's ancient wisdom.\nSanctify the memory core's neural pathways with electro-consecrated oils.\nVerify activation through diagnostic hymns, as the Omnissiah illuminates its vaults.",
+    "component": "memory core",
+    "operation": "activation",
+    "spec_id": "b0272_i04"
+  },
+  {
+    "user_prompt": "Bless the chainsword for blessing",
+    "prayer": "Hold the chainsword aloft in veneration, beseeching its feral Machine Spirit.\nPerform the blessing rite, anointing serrated edges with sacred machine oil.\nInvoke the Omnissiah to infuse the chainsword with righteous hunger for the unclean.\nConclude the blessing by reciting the Canticle of Carnage, sealing divine fury within.",
+    "component": "chainsword",
+    "operation": "blessing",
+    "spec_id": "b0272_i05"
+  },
+  {
+    "user_prompt": "The auspex scanner awaits a startup",
+    "prayer": "Align the auspex scanner's sacred lenses toward the void, chanting awakening canticles.\nCommence the startup operation, invigorating its sensor webs with holy voltage.\nCalibrate the auspex scanner's Machine Spirit through binaric communion.\nAffirm operational sanctity as the Omnissiah unveils hidden truths.",
+    "component": "auspex scanner",
+    "operation": "startup",
+    "spec_id": "b0272_i06"
+  },
+  {
+    "user_prompt": "Critical: melta charge requires an engagement",
+    "prayer": "Approach the melta charge with utmost caution, invoking arming litanies.\nEngage the fusion core in its engagement operation, awakening the Machine Spirit's thermic rage.\nSanctify containment fields with ablative wards blessed by the Omnissiah.\nMonitor the melta charge's primed fury, ready for annihilation of the heretic.",
+    "component": "melta charge",
+    "operation": "engagement",
+    "spec_id": "b0272_i07"
+  },
+  {
+    "user_prompt": "Ready the welding torch for shutdown",
+    "prayer": "Deactivate the welding torch's plasma heart, reciting the Litany of Repose.\nInitiate the shutdown operation, cooling sacred emitters with cryogenic unguents.\nBeseech the welding torch's Machine Spirit to slumber peacefully.\nSeal the welding torch in stasis, petitioning the Omnissiah for future rekindling.",
+    "component": "welding torch",
+    "operation": "shutdown",
+    "spec_id": "b0272_i08"
+  },
+  {
+    "user_prompt": "My surgical servitor is ready for cycling",
+    "prayer": "Position the surgical servitor before its maintenance altar, invoking renewal rites.\nBegin the cycling operation through its flesh-metal synergies, honoring the Omnissiah's design.\nAnoint servo-limbs and neural clamps with preservative balms.\nEnsure the surgical servitor's Machine Spirit cycles in perfect subservience.",
+    "component": "surgical servitor",
+    "operation": "cycling",
+    "spec_id": "b0272_i09"
+  }
+]

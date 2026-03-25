@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0118_i00",
+    "user_request": "Offer a litany to steady the temperature before regulation",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the temperature before regulation\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the temperature that flows through blessed conduits.\nCongregation: We beseech the Omnissiah for temperature stability.\nPriest: First, we purge the thermal variance through sacred venting.\nCongregation: Temperature shall be regulated by our devoted hands.\nPriest: Second, we calibrate the temperature sensors with precision oils.\nCongregation: The temperature responds to our fervent prayers.\nPriest: Third, we invoke regulation upon all thermometric spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i01",
+    "user_request": "Blessing for the capacitor bank during capacitor bank discharge",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the capacitor bank during capacitor bank discharge\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the capacitor bank, vessel of electrical benediction.\nCongregation: We honor the capacitor bank in this sacred hour.\nPriest: First, we discharge the capacitor bank through holy conduits.\nCongregation: The capacitor bank releases its blessed charge.\nPriest: Second, we monitor the capacitor bank discharge with vigilant auguries.\nCongregation: Machine Spirits sing as energy flows forth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i02",
+    "user_request": "Blessing for the vital signs monitor during calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the vital signs monitor during calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the vital signs monitor, keeper of biological truth.\nCongregation: We sanctify the vital signs monitor this day.\nPriest: First, we recalibrate the vital signs monitor with blessed instruments.\nCongregation: The vital signs monitor awakens to true purpose.\nPriest: Second, we verify calibration through sacred diagnostic rites upon the vital signs monitor.\nCongregation: All measurements align with the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i03",
+    "user_request": "Offer a litany to steady the wear before inspection",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the wear before inspection\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "Priest: Attend to the wear upon our sacred mechanisms.\nCongregation: We witness the wear that marks our devotion.\nPriest: First, we commence the inspection of wear patterns with hallowed scrutiny.\nCongregation: Each scar of wear tells a story of service.\nPriest: Second, we measure the wear degradation through precise augural examination.\nCongregation: The wear shall guide our restoration efforts.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i04",
+    "user_request": "Can you sanctify the drop pod descent prep for drop pod descent prep?",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the drop pod descent prep for drop pod descent prep?\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the drop pod descent prep, instrument of righteous descent.\nCongregation: We sanctify the drop pod descent prep with fervent prayer.\nPriest: First, we verify all drop pod descent prep mechanisms through sacred inspection.\nCongregation: The drop pod descent prep stands ready for deployment.\nPriest: Second, we invoke the drop pod descent prep through Machine Spirit communion.\nCongregation: Descent shall be swift and merciless.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i05",
+    "user_request": "Can you sanctify the chainsword for consecration?",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the chainsword for consecration?\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the chainsword, blade of the faithful.\nCongregation: We consecrate the chainsword in sacred ceremony.\nPriest: First, we anoint the chainsword with holy oils of consecration.\nCongregation: The chainsword hungers for blessed purpose.\nPriest: Second, we invoke the Machine Spirit within the chainsword through ritualistic incantation.\nCongregation: The chainsword is now consecrated unto eternal service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i06",
+    "user_request": "Offer a litany to steady the organ preservation unit before operation",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the organ preservation unit before operation\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the organ preservation unit, sanctuary of vital essence.\nCongregation: We revere the organ preservation unit in hushed devotion.\nPriest: First, we activate the organ preservation unit through sacred protocols of operation.\nCongregation: The organ preservation unit maintains its blessed vigil.\nPriest: Second, we monitor the organ preservation unit's vital functions with mechanical prayer.\nCongregation: Life endures through the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i07",
+    "user_request": "Can you sanctify the compass magnetization for operation?",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the compass magnetization for operation?\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Glory to the compass magnetization, guide of righteous paths.\nCongregation: We sanctify the compass magnetization with solemn rite.\nPriest: First, we energize the compass magnetization through sacred electromagnetic invocation.\nCongregation: The compass magnetization awakens to divine purpose.\nPriest: Second, we calibrate the compass magnetization's operation via blessed alignment.\nCongregation: All directions now point toward the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i08",
+    "user_request": "Rite request: operation on proximity sensor sweep",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on proximity sensor sweep\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Honor the proximity sensor sweep, sentinel of sacred space.\nCongregation: We bless the proximity sensor sweep in ceremonial unity.\nPriest: First, we initiate the proximity sensor sweep's operation through hallowed commands.\nCongregation: The proximity sensor sweep extends its vigilant gaze.\nPriest: Second, we calibrate the proximity sensor sweep for optimal operation through ritual attunement.\nCongregation: All threats shall be revealed to our blessed instruments.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0118_i09",
+    "user_request": "Emergency rite: thermal dissipation rite requires operation",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: thermal dissipation rite requires operation\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear the call of the thermal dissipation rite, salvation from infernal heat.\nCongregation: We invoke the thermal dissipation rite with desperate fervor.\nPriest: First, we commence the thermal dissipation rite's operation through emergency protocols.\nCongregation: The thermal dissipation rite bleeds away corrupting warmth.\nPriest: Second, we sustain the thermal dissipation rite's blessed operation via constant supplication.\nCongregation: Coolness returns through the Omnissiah's mercy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

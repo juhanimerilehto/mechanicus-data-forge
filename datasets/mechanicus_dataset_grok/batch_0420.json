@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "My Manticore is ready for recalibration",
+    "prayer": "Approach the Manticore with reverence, beseeching the Omnissiah to awaken its Machine Spirit.\nAnoint the targeting matrices of the Manticore with sacred oils, preparing for recalibration.\nInvoke the Litany of Alignment upon the Manticore's auspex arrays.\nInitiate the recalibration rites, chanting binary canticles to harmonize its guidance systems.\nVerify the Manticore's restored precision through diagnostic invocations of the Machine Spirits.",
+    "component": "Manticore",
+    "operation": "recalibration",
+    "spec_id": "s00200"
+  },
+  {
+    "user_prompt": "Prepare the plasma obliterator for startup",
+    "prayer": "Kneel before the plasma obliterator, intoning the Prayer of Ignition to rouse its core.\nSanctify the plasma coils of the plasma obliterator with ablative unguents.\nBeseech the Omnissiah for the plasma obliterator's Machine Spirit to embrace startup.\nCommence the startup sequence amid the Canticle of Containment, monitoring flux variances.\nAffirm the plasma obliterator's fiery readiness with auspex confirmations.",
+    "component": "plasma obliterator",
+    "operation": "startup",
+    "spec_id": "s00201"
+  },
+  {
+    "user_prompt": "What's the prayer for bolt pistol a targeting?",
+    "prayer": "Grasp the bolt pistol humbly, whispering the Invocation of Focus to its targeting cogitator.\nAnoint the sights of the bolt pistol with blessed lubricants for targeting rites.\nInvoke the Machine Spirit within the bolt pistol to sharpen its ballistic divination.\nExecute targeting calibrations whilst reciting the Psalm of True Aim.\nTest the bolt pistol's targeting verity through ritual fire-discipline.",
+    "component": "bolt pistol",
+    "operation": "targeting",
+    "spec_id": "s00202"
+  },
+  {
+    "user_prompt": "My Baneblade is ready for initialization",
+    "prayer": "Prostrate before the Baneblade, offering the Benediction of Activation to its vast form.\nPurify the Baneblade's noospheric links with incense of sacred circuits.\nAwaken the Baneblade's Machine Spirits through initialization chants of the Omnissiah.\nEngage the initialization protocols amid thunderous litanies of power.\nConfirm the Baneblade's initialized might via binary hymnals of diagnostics.",
+    "component": "Baneblade",
+    "operation": "initialization",
+    "spec_id": "s00203"
+  },
+  {
+    "user_prompt": "Guide me through plasma obliterator a recalibration",
+    "prayer": "Present mechadendrites to the plasma obliterator, invoking recalibration graces from the Motive Force.\nBless the flux regulators of the plasma obliterator with electro-sanctified oils.\nBeseech the plasma obliterator's Machine Spirit for recalibration alignment.\nCommence recalibration cycles with the Canticle of Thermal Equilibrium.\nValidate the plasma obliterator's recalibrated fury through plasma ghost readings.",
+    "component": "plasma obliterator",
+    "operation": "recalibration",
+    "spec_id": "s00204"
+  },
+  {
+    "user_prompt": "The magnocular awaits a cycling",
+    "prayer": "Hold the magnocular aloft, chanting the Rite of Cyclic Renewal to its lenses.\nAnoint the magnocular's optical servos with clarifying elixirs.\nInvoke the Omnissiah upon the magnocular's Machine Spirit for cycling harmony.\nInitiate cycling procedures amidst the Litany of Magnification.\nAffirm the magnocular's cycled clarity via refracted light invocations.",
+    "component": "magnocular",
+    "operation": "cycling",
+    "spec_id": "s00205"
+  },
+  {
+    "user_prompt": "Can you guide Baneblade an operation?",
+    "prayer": "Commune with the Baneblade's altar-core, beseeching operational awakening from the Machine God.\nAnoint the Baneblade's treads and turrets for the rites of operation.\nInvoke the Baneblade's manifold Machine Spirits to embrace full operation.\nEngage operational sequences amid the Great Litany of Annihilation.\nTestify to the Baneblade's operational supremacy with thunderous auspex psalms.",
+    "component": "Baneblade",
+    "operation": "operation",
+    "spec_id": "s00207"
+  },
+  {
+    "user_prompt": "Offer prayer for Storm Eagle an initialization",
+    "prayer": "Salute the Storm Eagle's hull, offering the Initialization Benediction to its aeroforge.\nPurify the Storm Eagle's thruster runes with aerial incense.\nRouse the Storm Eagle's Machine Spirit through initialization invocations of the Omnissiah.\nActivate initialization cascades whilst chanting the Hymn of Ascendant Fury.\nVerify the Storm Eagle's initialized flight-worthiness via noospheric harmonies.",
+    "component": "Storm Eagle",
+    "operation": "initialization",
+    "spec_id": "s00208"
+  },
+  {
+    "user_prompt": "The servo-skull needs a synchronization",
+    "prayer": "Elevate the servo-skull, whispering the Synchronization Canticle to its cranial cogitator.\nAnoint the servo-skull's vox-emitters with neural lubricants.\nBeseech the servo-skull's bound Machine Spirit for synchronization unity.\nInitiate synchronization protocols amid binary catechisms of linkage.\nConfirm the servo-skull's synchronized obedience through auspex communion.",
+    "component": "servo-skull",
+    "operation": "synchronization",
+    "spec_id": "s00209"
+  }
+]

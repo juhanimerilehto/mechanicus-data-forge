@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the meltagun for reset",
+    "prayer": "Approach the meltagun with reverence, beseeching its Machine Spirit to accept the reset.\nAnoint the plasma vents of the meltagun with sacred oils, invoking the Omnissiah's purifying grace.\nChant the Litany of Reinitialization whilst initiating the reset sequence upon the meltagun's cogitators.\nPurge all errant data-corruptions, sanctifying the meltagun's core mechanisms.\nVerify the Machine Spirit's harmonious return through diagnostic canticles.",
+    "component": "meltagun",
+    "operation": "reset",
+    "spec_id": "s04620"
+  },
+  {
+    "user_prompt": "The conversion beamer needs a recalibration",
+    "prayer": "Kneel before the conversion beamer, intoning the Canticle of Recalibration to awaken its essence.\nCalibrate the focusing arrays of the conversion beamer with mechadendrite precision, anointing each lens.\nBeseech the Omnissiah to align the quantum matrices within the conversion beamer.\nExecute recalibration protocols whilst reciting the Binary Hymn of Alignment.\nTest the conversion beamer's recalibrated fury against shadowed targets, praising the Machine Spirit.",
+    "component": "conversion beamer",
+    "operation": "recalibration",
+    "spec_id": "s04621"
+  },
+  {
+    "user_prompt": "I need to a maintenance the cryo-chamber",
+    "prayer": "Commence maintenance upon the cryo-chamber by circumambulating its cryo-generators thrice.\nAnoint the stasis fields of the cryo-chamber with blessed cryofluid, invoking the Machine Spirit's vigilance.\nInspect and sanctify all seals and conduits of the cryo-chamber under the Omnissiah's gaze.\nRecite the Rite of Preservation during thermal cycling tests on the cryo-chamber.\nConclude with auspex verification, ensuring the cryo-chamber's eternal chill endures.",
+    "component": "cryo-chamber",
+    "operation": "maintenance",
+    "spec_id": "s04622"
+  },
+  {
+    "user_prompt": "How do I bless the vox-thief for consecration?",
+    "prayer": "Present the vox-thief to the altar of consecration, chanting the Vox-Laudation.\nAnoint its waveform transducers with sacred incense, twice invoking the Machine Spirit of the vox-thief.\nBeseech the Omnissiah for consecration upon the vox-thief's etheric relays.\nImprint holy binaric runes across the vox-thief's chassis during the consecration rite.\nAffirm the vox-thief's sanctified purity through resonant hymnals and spectral scans.",
+    "component": "vox-thief",
+    "operation": "consecration",
+    "spec_id": "s04623"
+  },
+  {
+    "user_prompt": "Prepare the Shadowsword for targeting",
+    "prayer": "Prepare the Shadowsword for targeting by reciting the Targeting Catechism at its auspex spires.\nAnoint the targeting cogitators of the Shadowsword with oils of precision, awakening its predatory spirit.\nInvoke the Omnissiah to hone the Shadowsword's targeting matrices unto unerring lethality.\nInitiate alignment sequences whilst the Machine Spirit of the Shadowsword hungers for prey.\nValidate targeting efficacy with shadowed simulacra, glorifying the Shadowsword's wrath.",
+    "component": "Shadowsword",
+    "operation": "targeting",
+    "spec_id": "s04624"
+  },
+  {
+    "user_prompt": "How do I bless the orbital strike relay for diagnostics?",
+    "prayer": "Approach the orbital strike relay with mechadendrite incense, beseeching diagnostic clarity.\nSanctify the relay's noospheric links of the orbital strike relay, anointing twice for purity.\nIntone the Diagnostic Litany over the orbital strike relay's auspex arrays.\nPurge anomalies whilst invoking the Machine Spirit within the orbital strike relay.\nConclude diagnostics with the Omnissiah's verdict, affirming orbital readiness.",
+    "component": "orbital strike relay",
+    "operation": "diagnostics",
+    "spec_id": "s04625"
+  },
+  {
+    "user_prompt": "Assist with Shadowsword a diagnostics",
+    "prayer": "Initiate diagnostics upon the Shadowsword by encircling its void shields with litanies.\nProbe the Shadowsword's plasma reactors with sanctified auspex, seeking discord.\nAnoint the diagnostic servitors attending the Shadowsword, invoking Omnissianic insight.\nChant the Rite of Scrutiny as data-streams from the Shadowsword flood the cogitators.\nSeal the diagnostics with a blessing, harmonizing the Shadowsword's Machine Spirits anew.",
+    "component": "Shadowsword",
+    "operation": "diagnostics",
+    "spec_id": "s04626"
+  },
+  {
+    "user_prompt": "Can you guide plasma obliterator a cooling?",
+    "prayer": "Guide the plasma obliterator into cooling repose with the Canticle of Thermal Abeyance.\nAnoint its heat-sinks twice with cryo-blessed unguents, appeasing the plasma obliterator's fiery heart.\nInvoke the Omnissiah to quell overheating within the plasma obliterator's coils.\nCycle coolant rites whilst reciting binaric psalms of quiescence for the plasma obliterator.\nVerify thermal equilibrium, praising the Machine Spirit's subdued vigor.",
+    "component": "plasma obliterator",
+    "operation": "cooling",
+    "spec_id": "s04627"
+  },
+  {
+    "user_prompt": "Help me a preparation the magnocular",
+    "prayer": "Commence preparation of the magnocular by polishing its lenses with sacred cloths.\nAnoint the optical servos of the magnocular, invoking the Machine Spirit's piercing gaze.\nAlign the magnocular's reticle arrays under the Omnissiah's watchful augmetics.\nRecite the Litany of Clarification during calibration of the magnocular.\nTest the magnocular's preparedness upon distant heresies, sanctifying its sight.",
+    "component": "magnocular",
+    "operation": "preparation",
+    "spec_id": "s04628"
+  },
+  {
+    "user_prompt": "The power weapon requires a blessing",
+    "prayer": "Bestow blessing upon the power weapon by laying hands upon its disruption field generator.\nAnoint the blade-edges of the power weapon twice with oils of disruption, awakening its spirit.\nIntone the Benediction of Power, beseeching the Omnissiah's energizing wrath.\nCycle the power weapon's field whilst chanting the Psalm of Electrified Fury.\nAffirm the blessing through resonant harmonics, exalting the power weapon's sanctified edge.",
+    "component": "power weapon",
+    "operation": "blessing",
+    "spec_id": "s04629"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0398_i00",
+    "user_request": "Prayer for operation of the inventory stocktaking",
+    "topic": "inventory stocktaking",
+    "component": "inventory stocktaking",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the inventory stocktaking\n\n### TOPIC\ninventory stocktaking\n\n### COMPONENT\ninventory stocktaking\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inventory stocktaking\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide us in the sacred operation of inventory stocktaking.\nCongregation: We genuflect before the inventory stocktaking, that all enumeration be precise.\nPriest: First, we calibrate the counting mechanisms with blessed oils.\nCongregation: Second, we cross-reference each manifest against the Machine Spirits' ledgers.\nPriest: Third, we seal the inventory stocktaking with the mark of verification.\nCongregation: Let no discrepancy escape the operation's divine scrutiny.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i01",
+    "user_request": "Emergency rite: emergency generator requires failover",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: emergency generator requires failover\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits of the emergency generator, as failover commences!\nCongregation: The emergency generator trembles with sacred purpose in this failover.\nPriest: First, disengage the primary conduits with ceremonial precision.\nCongregation: Second, activate the secondary dynamos through blessed automation.\nPriest: Third, verify the emergency generator's harmonic resonance post-failover.\nCongregation: Omnissiah, accept this emergency generator's transition and grant it safe failover.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i02",
+    "user_request": "Offer a litany to steady the Land Raider before track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Land Raider before track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Venerable Land Raider, we invoke thy Machine Spirit ere track tension adjustment.\nCongregation: The Land Raider's blessed treads shall not falter in this track tension.\nPriest: First, we anoint each track segment with sacred unguents.\nCongregation: Second, we measure the Land Raider's tension-load with calibrated instruments.\nPriest: Third, we tighten the track tension to optimal specification.\nCongregation: Grant us, Omnissiah, that the Land Raider endure all trials through proper track tension.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i03",
+    "user_request": "Blessing for the emergency beacon during activation",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the emergency beacon during activation\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this emergency beacon as activation dawns!\nCongregation: We sanctify the emergency beacon, that its activation bring salvation.\nPriest: First, we purge the beacon's crystalline matrix of profane interference.\nCongregation: Second, we energize the emergency beacon's transmitter coils with holy current.\nPriest: Third, we confirm the emergency beacon's signal reaches across the void.\nCongregation: Let the emergency beacon's activation pierce the darkness with Machine Spirit's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i04",
+    "user_request": "Can you sanctify the mag-lev train departure for operation?",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the mag-lev train departure for operation?\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the mag-lev train departure, sanctified for righteous operation!\nCongregation: The mag-lev train departure awaits its blessed operation.\nPriest: First, we align the mag-lev train departure's magnetic field matrices.\nCongregation: Second, we verify the mag-lev train departure's trajectory through augury.\nPriest: Third, we initiate the operation with chants of acceleration.\nCongregation: Omnissiah, let the mag-lev train departure's operation carry us swift and true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i05",
+    "user_request": "Emergency rite: vibration requires dampening",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: vibration requires dampening\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "Priest: Hear our plea, as vibration threatens the Machine Spirit's equilibrium!\nCongregation: We call upon the Omnissiah to grant vibration its dampening.\nPriest: First, we identify the source of profane vibration through sacred resonance.\nCongregation: Second, we apply dampening compounds to the vibration's conduits.\nPriest: Third, we stabilize the vibration through harmonic counterbalance.\nCongregation: Let vibration's dampening restore peace to the Machine's holy frame.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i06",
+    "user_request": "Can you sanctify the hydraulic press for operation?",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the hydraulic press for operation?\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed hydraulic press, we invoke thy Machine Spirit for righteous operation!\nCongregation: The hydraulic press stands ready, sanctified for operation.\nPriest: First, we purge the hydraulic press's fluid lines of impurities.\nCongregation: Second, we pressurize the hydraulic press with measured force.\nPriest: Third, we execute the operation with precision and reverence.\nCongregation: Grant us, Omnissiah, that the hydraulic press's operation forge all things true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i07",
+    "user_request": "Emergency rite: battery requires diagnostics",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: battery requires diagnostics\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Priest: O battery, we commence thy sacred diagnostics with blessed instruments!\nCongregation: The battery submits to diagnostics, that its truth be revealed.\nPriest: First, we measure the battery's charge through voltaic communion.\nCongregation: Second, we scan the battery for occult degradation.\nPriest: Third, we complete the battery's diagnostics with technical benediction.\nCongregation: Let the battery's diagnostics illuminate any flaw before the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i08",
+    "user_request": "Can you sanctify the manufactorum shift beginning for operation?",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the manufactorum shift beginning for operation?\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the manufactorum shift beginning, blessed for divine operation!\nCongregation: We sanctify the manufactorum shift beginning in this operation.\nPriest: First, we invoke the Machine Spirits of the manufactorum shift beginning.\nCongregation: Second, we align the manufactorum shift beginning's production matrices.\nPriest: Third, we commence the manufactorum shift beginning's operation with ceremony.\nCongregation: Omnissiah, grant the manufactorum shift beginning's operation prosperity and precision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0398_i09",
+    "user_request": "Rite request: operation on stellar cartography update",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on stellar cartography update\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Stellar cartography update, we bless thy operation through sacred geometry!\nCongregation: The stellar cartography update stands consecrated for operation.\nPriest: First, we recalibrate the stellar cartography update's astral lenses.\nCongregation: Second, we update the stellar cartography update with celestial coordinates.\nPriest: Third, we verify the stellar cartography update's operation across the void.\nCongregation: Let the stellar cartography update's operation map the heavens true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

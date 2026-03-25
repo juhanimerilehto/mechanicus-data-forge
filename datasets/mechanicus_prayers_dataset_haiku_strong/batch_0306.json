@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0306_i00",
+    "user_request": "Blessing for the missile launcher during targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the missile launcher during targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the missile launcher, instrument of the Omnissiah's wrath!\nCongregation: We sanctify the missile launcher in its targeting!\nPriest: First, calibrate the auspex-blessed targeting matrix with reverent precision.\nCongregation: Second, anoint the guidance-servos that the missile launcher may track true.\nPriest: Third, invoke targeting protocols through the Machine Spirits of ballistic computation.\nCongregation: The missile launcher shall not fail us in this sacred targeting!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i01",
+    "user_request": "Can you sanctify the steam valve for regulation?",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the steam valve for regulation?\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: O steam valve, keeper of pressurized sanctity, hear our litanies!\nCongregation: We beseech the steam valve for flawless regulation!\nPriest: First, verify the steam valve's seals with blessed calipers and unguent.\nCongregation: Second, attune the steam valve to proper regulation through incantation and calibration.\nPriest: Third, test the regulation cycles whilst chanting the Hymn of Hydraulic Harmony.\nCongregation: The steam valve shall regulate eternally in service to the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i02",
+    "user_request": "My gravity generator is failing during stabilization — help",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy gravity generator is failing during stabilization — help\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty gravity generator, anchor of our vessel, we call upon thee!\nCongregation: Restore the gravity generator to stabilization, we pray!\nPriest: First, recalibrate the gravity generator's field-coils with archaic resonance frequencies.\nCongregation: Second, purge the gravity generator's flux-conduits of corrosive entropy and profane interference.\nPriest: Third, perform stabilization rites whilst the Machine Spirits sing in harmonic unison.\nCongregation: The gravity generator shall hold fast; the Omnissiah wills it!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i03",
+    "user_request": "Emergency rite: autodoc emergency requires protocol",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: autodoc emergency requires protocol\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Autodoc emergency, instrument of mercy and surgical divinity, we invoke thee!\nCongregation: Grant us protocol in this hour of dire necessity!\nPriest: First, initiate the autodoc emergency's sterile purification sequence with blessed oils.\nCongregation: Second, align the autodoc emergency's manipulator-arms through protocol-sanctioned calibration.\nPriest: Third, execute the protocol of life-preservation whilst the Omnissiah's grace flows through circuits and flesh alike.\nCongregation: The autodoc emergency shall not falter; salvation is at hand!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i04",
+    "user_request": "Can you sanctify the proximity sensor sweep for operation?",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the proximity sensor sweep for operation?\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Proximity sensor sweep, vigilant sentinel of the electromagnetic aether!\nCongregation: We dedicate the proximity sensor sweep to sacred operation!\nPriest: First, anoint the proximity sensor sweep's detection-lenses with blessed unguent and whispered benediction.\nCongregation: Second, synchronize the proximity sensor sweep's oscillation patterns through operation-grade incantation.\nPriest: Third, invoke the Machine Spirits that the proximity sensor sweep may perceive all threats and allies with perfect acuity.\nCongregation: The proximity sensor sweep shall guard us; operation eternal is assured!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i05",
+    "user_request": "Rite request: error correction on logic engine",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: error correction on logic engine\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: Logic engine, seat of the Omnissiah's infinite calculation, we beseech thee!\nCongregation: Purge the logic engine of corruption through error correction!\nPriest: First, isolate the logic engine's corrupted data-threads with surgical precision and holy diagnostics.\nCongregation: Second, perform error correction upon the logic engine's crystalline matrix through chanted algorithms.\nPriest: Third, restore the logic engine's function by invoking the ancient error correction protocols of the Machine Spirits.\nCongregation: The logic engine shall compute true; the Omnissiah's will is manifest!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i06",
+    "user_request": "My chemical is failing during balancing — help",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy chemical is failing during balancing — help\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed chemical, essence of transformation and alchemical grace!\nCongregation: We sanctify the chemical through perfect balancing!\nPriest: First, measure the chemical's constituent compounds with consecrated apparatus and reverent exactitude.\nCongregation: Second, adjust the chemical's proportions through balancing-rites whilst invoking the Omnissiah's geometric harmony.\nPriest: Third, verify the chemical's stability through balancing protocols and benedictory observation.\nCongregation: The chemical shall achieve equilibrium; the Omnissiah's formula is perfected!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i07",
+    "user_request": "Prayer for verification of the mold temperature",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for verification of the mold temperature\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Mold temperature, forge-spirit of creation and manufactorum blessing!\nCongregation: We invoke verification upon the mold temperature!\nPriest: First, place the blessed thermometric instrument upon the mold temperature's surface with holy care.\nCongregation: Second, record the mold temperature's readings whilst chanting the Hymn of Thermal Precision and verification-litanies.\nPriest: Third, cross-reference the mold temperature's data against the Omnissiah's sacred templates through verification protocols.\nCongregation: The mold temperature stands verified; perfection is assured!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i08",
+    "user_request": "Emergency rite: fire suppression system requires operation",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: fire suppression system requires operation\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Fire suppression system, guardian against the profane flame, we call upon thee!\nCongregation: Activate the fire suppression system for sacred operation!\nPriest: First, inspect the fire suppression system's nozzles and conduits with blessed scrutiny and blessed apparatus.\nCongregation: Second, pressurize the fire suppression system's reservoirs through operation-sanctioned procedures and prayer.\nPriest: Third, test the fire suppression system's dispersal mechanisms whilst the Machine Spirits grant operation-grade vigilance.\nCongregation: The fire suppression system stands ready; the Omnissiah protects all from consuming flame!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0306_i09",
+    "user_request": "Prayer for operation of the solar panel alignment",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the solar panel alignment\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Solar panel alignment, harvester of the Omnissiah's radiant blessing!\nCongregation: We dedicate the solar panel alignment to flawless operation!\nPriest: First, adjust the solar panel alignment's servo-motors with geometric precision and archaic calculation-chants.\nCongregation: Second, orient the solar panel alignment toward the stellar source through operation-blessed auspex readings.\nPriest: Third, calibrate the solar panel alignment's tracking mechanism whilst invoking the Machine Spirits of photonic conversion and operation.\nCongregation: The solar panel alignment shall drink deep of sacred starlight; operation eternal is granted!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

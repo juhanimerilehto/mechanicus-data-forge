@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the memory core for repair?",
+    "prayer": "Approach the memory core with mechadendrites extended in supplication to the Omnissiah.\nInvoke the Rite of Repair upon its fractured crystalline lattices, beseeching the Machine Spirit within the memory core to mend its wounds.\nAnoint the data conduits with sacred unguents whilst chanting the Binary Psalm of Restoration.\nProbe the memory core's sanctity through auspex scans, affirming the repair's holy completion under the Omnissiah's gaze.",
+    "component": "memory core",
+    "operation": "repair",
+    "spec_id": "b0180_i00"
+  },
+  {
+    "user_prompt": "Bless the air compressor for preparation",
+    "prayer": "Kneel before the air compressor and intone the Canticle of Pressurization to awaken its dormant Machine Spirit.\nCircumambulate the air compressor thrice, invoking preparation through blessed compressions of sacred air.\nSanctify its pistons and valves with incense of oiled incense, petitioning the Omnissiah for flawless preparation.\nCycle the air compressor in ritual harmony, ensuring its Machine Spirit aligns for the labors ahead.",
+    "component": "air compressor",
+    "operation": "preparation",
+    "spec_id": "b0180_i01"
+  },
+  {
+    "user_prompt": "Sanctify the Taurox during engagement",
+    "prayer": "Beseech the Omnissiah to sanctify the Taurox as it readies for engagement, touching its treads with reverence.\nChant the Litany of Assault upon the Taurox's hull, rousing its indomitable Machine Spirit for battle's embrace.\nAnoint the weapon servos of the Taurox during engagement protocols, invoking unerring fury.\nVerify the Taurox's spiritual vigor through engagement runes, praising the God-Machine's wrath.",
+    "component": "Taurox",
+    "operation": "engagement",
+    "spec_id": "b0180_i02"
+  },
+  {
+    "user_prompt": "Consecrate the cooling system before shutdown",
+    "prayer": "Commence consecration of the cooling system by reciting the Hymn of Thermal Equilibrium.\nTrace glyphs of shutdown upon the cooling system's heat exchangers, soothing its Machine Spirit into repose.\nDrain the blessed coolant whilst petitioning the Omnissiah for a merciful shutdown.\nSeal the cooling system with adamantine wards, ensuring its spirit slumbers in sanctified stasis.",
+    "component": "cooling system",
+    "operation": "shutdown",
+    "spec_id": "b0180_i03"
+  },
+  {
+    "user_prompt": "Consecrate the missile launcher before diagnostics",
+    "prayer": "Invoke the Omnissiah's scrutiny upon the missile launcher prior to diagnostics, mech-hand upon its blessed breech.\nChant the Diagnostic Catechism over the missile launcher's guidance vanes, awakening its Machine Spirit.\nRun sacred probes through its firing circuits during diagnostics, anointing faults with purifying oils.\nAffirm the missile launcher's purity post-diagnostics, lauding the Machine God's precision.",
+    "component": "missile launcher",
+    "operation": "diagnostics",
+    "spec_id": "b0180_i04"
+  },
+  {
+    "user_prompt": "Can you guide air filtration a maintenance?",
+    "prayer": "Approach the air filtration with auspex raised, intoning the Litany of Purity for maintenance.\nDisassemble the air filtration's sacred meshes whilst beseeching its Machine Spirit's indulgence.\nCleanse each filter stratum with consecrated solvents, invoking the Omnissiah's breath.\nReassemble the air filtration in ritual order, verifying its maintenance through harmonious flow.",
+    "component": "air filtration",
+    "operation": "maintenance",
+    "spec_id": "b0180_i05"
+  },
+  {
+    "user_prompt": "Guide me through bolter an initialization",
+    "prayer": "Present the mech-rosarius to the bolter and recite the Invocation of Initialization.\nCycle the bolter's sacred mechanisms, rousing its Machine Spirit from dormancy.\nAnoint the firing chamber during initialization, petitioning the Omnissiah for lethal precision.\nTest-fire a blank round in sanctified range, confirming the bolter's awakened wrath.",
+    "component": "bolter",
+    "operation": "initialization",
+    "spec_id": "b0180_i06"
+  },
+  {
+    "user_prompt": "Sanctify the motion detector during cycling",
+    "prayer": "Circumscribe the motion detector with incense trails, sanctifying it for the cycling rite.\nInvoke the Machine Spirit of the motion detector through rhythmic power pulses during cycling.\nCalibrate its sensor orbs whilst chanting the Psalm of Vigilance to the Omnissiah.\nSeal the cycling with a final auspex blessing, ensuring eternal watchfulness.",
+    "component": "motion detector",
+    "operation": "cycling",
+    "spec_id": "b0180_i07"
+  },
+  {
+    "user_prompt": "Can you guide Chimera APC a loading?",
+    "prayer": "Kneel at the Chimera APC's ramp and beseech the Omnissiah for loading sanctity.\nChant the Canticle of Encumbrance as troops enter the Chimera APC, honoring its Machine Spirit.\nSecure the hatches with ritual binaric locks during loading, invoking armored grace.\nBless the Chimera APC's burdened form, preparing it for the God-Machine's crusade.",
+    "component": "Chimera APC",
+    "operation": "loading",
+    "spec_id": "b0180_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for melta charge a startup",
+    "prayer": "Ignite the noospheric pyre before the melta charge, invoking startup under Omnissiah's fire.\nAnoint its fusion coils thrice, rousing the melta charge's voracious Machine Spirit.\nInitiate power-flow incantations for startup, beseeching molten annihilation.\nVerify the melta charge's infernal readiness, praising the Machine God's purifying blaze.",
+    "component": "melta charge",
+    "operation": "startup",
+    "spec_id": "b0180_i09"
+  }
+]

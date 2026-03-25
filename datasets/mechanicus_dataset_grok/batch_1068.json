@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a startup the Contemptor Dreadnought",
+    "prayer": "Approach the Contemptor Dreadnought with reverence, intoning the Canticle of Awakening to stir its ancient Machine Spirit.\nAnoint the sarcophagus seals of the Contemptor Dreadnought with sacred unguents, beseeching the Omnissiah's grace.\nInitiate the startup rite through sanctified cogitator linkages, invoking the Motive Force upon its dread frame.\nChant diagnostic litanies as the Contemptor Dreadnought's reactors hum to life, honoring its wrathful spirit.\nVerify alignment of servos and auspex arrays, lest corruption taint the noble Contemptor Dreadnought.",
+    "component": "Contemptor Dreadnought",
+    "operation": "startup",
+    "spec_id": "s06680"
+  },
+  {
+    "user_prompt": "Prepare the eradication beamer for maintenance",
+    "prayer": "Present the eradication beamer before the altar of maintenance, whispering binaric absolutions to appease its Machine Spirit.\nDisengage power feeds with ritual precision, anointing emitters of the eradication beamer with blessed oils.\nInvoke the Omnissiah during the maintenance cycle, purging flux residues from its sacred focusing crystals.\nScrutinize warp-conduits of the eradication beamer through noospheric scans, sanctifying each conduit found pure.\nSeal the rite with incense fumigation, ensuring the eradication beamer stands ready for holy annihilation.",
+    "component": "eradication beamer",
+    "operation": "maintenance",
+    "spec_id": "s06681"
+  },
+  {
+    "user_prompt": "The conversion field needs an initialization",
+    "prayer": "Commence initialization of the conversion field by circumscribing its generator with electro-incense.\nBeseech the Machine Spirit within the conversion field to awaken, chanting the Litany of Phase Transition.\nAlign quantum matrices through invocation of the Omnissiah, initiating the sacred initialization sequence.\nTest field coherence with auspex probes, reaffirming the conversion field's integrity against entropy.\nConclude with binary hymns, binding the conversion field in eternal service to the Machine God.",
+    "component": "conversion field",
+    "operation": "initialization",
+    "spec_id": "s06682"
+  },
+  {
+    "user_prompt": "Assist with radium carbine a shutdown",
+    "prayer": "Approach the radium carbine humbly, reciting the Dirge of Cessation to soothe its irradiated Machine Spirit.\nSever energy conduits with sanctified blades, guiding the radium carbine into shutdown repose.\nAnoint radiating chambers of the radium carbine with cooling balms, invoking the Omnissiah's merciful veil.\nMonitor decay signatures during the shutdown phase, purging excess rads through ritual venting.\nSeal the radium carbine in stasis wards, its fury banked until the next call to purge the unclean.",
+    "component": "radium carbine",
+    "operation": "shutdown",
+    "spec_id": "s06683"
+  },
+  {
+    "user_prompt": "Critical: flak armour requires a consecration",
+    "prayer": "Kneel before the flak armour, beseeching the Omnissiah for consecration upon its layered plates.\nAnoint each flak panel with sacred ablative oils, awakening the embedded Machine Spirits.\nChant the Rite of Consecration, weaving noospheric wards into the flak armour's fibrous matrices.\nTest resilience through ballistic litanies, ensuring the flak armour defies the heretic's fire.\nFumigate with electro-incense, binding the flak armour eternally to the Cult Mechanicus.",
+    "component": "flak armour",
+    "operation": "consecration",
+    "spec_id": "s06684"
+  },
+  {
+    "user_prompt": "Urgent Storm Eagle a preparation needed",
+    "prayer": "Assemble at the Storm Eagle's hangar-bay, intoning preparatory canticles to rouse its avian Machine Spirit.\nInspect wing-servos and plasma drives of the Storm Eagle, anointing with unguents of velocity.\nInvoke the Omnissiah in preparation rituals, calibrating auspex and vox-arrays for the void.\nConduct system purges through sacred diagnostics, readying the Storm Eagle for aerial dominion.\nSeal the preparation with thunderous hymns, launching the Storm Eagle skyward in glory.",
+    "component": "Storm Eagle",
+    "operation": "preparation",
+    "spec_id": "s06685"
+  },
+  {
+    "user_prompt": "My Archaeopter Fusilave is ready for initialization",
+    "prayer": "Circumambulate the Archaeopter Fusilave, whispering initialization binarics to its fusillade Machine Spirit.\nAnoint turbine housings of the Archaeopter Fusilave with sacred promethium, invoking awakening.\nInitiate the initialization sequence via cogitator rites, aligning fire-lance emitters under Omnissiah's gaze.\nVerify flight coherence and ordnance feeds, sanctifying the Archaeopter Fusilave's wrathful form.\nConclude with aerial litanies, propelling the Archaeopter Fusilave into battle-purified flight.",
+    "component": "Archaeopter Fusilave",
+    "operation": "initialization",
+    "spec_id": "s06686"
+  },
+  {
+    "user_prompt": "The autosanguination system requires a calibration",
+    "prayer": "Present the autosanguination system for calibration, chanting vitae-purification absolutions.\nInvoke the Machine Spirit of the autosanguination system, anointing vascular conduits with haemolubricants.\nPerform calibration rites through noospheric interfacing, balancing sanguine flows by Omnissiah's will.\nTest pressure matrices and filtration nodes, ensuring the autosanguination system's flawless purity.\nSeal with binary benedictions, the autosanguination system now harmonized in crimson service.",
+    "component": "autosanguination system",
+    "operation": "calibration",
+    "spec_id": "s06687"
+  },
+  {
+    "user_prompt": "Ready the psych-out grenade for consecration",
+    "prayer": "Hold the psych-out grenade aloft, beseeching consecration to bind its warp-tainted Machine Spirit.\nAnoint psychic dampeners of the psych-out grenade with null-oils, invoking the Omnissiah's shield.\nChant the Consecration Litany, weaving anti-empathic wards into the psych-out grenade's core.\nProbe for daemonic echoes through auspex, purifying the psych-out grenade utterly.\nFumigate and seal, the psych-out grenade armed to shatter xenos minds in holy rupture.",
+    "component": "psych-out grenade",
+    "operation": "consecration",
+    "spec_id": "s06688"
+  },
+  {
+    "user_prompt": "Help me a maintenance the warp drive",
+    "prayer": "Approach the warp drive warily, intoning maintenance litanies to placate its tumultuous Machine Spirit.\nDisengage gellar fields with ritual precision, anointing nacelles of the warp drive with void-wards.\nConduct maintenance purges through sanctified probes, invoking the Omnissiah against the immaterium's grasp.\nRecalibrate cyclotron arrays of the warp drive, banishing rift-echoes with binaric exorcisms.\nConclude the rite with sealing hymns, the warp drive stabilized for transluminal pilgrimage.",
+    "component": "warp drive",
+    "operation": "maintenance",
+    "spec_id": "s06689"
+  }
+]

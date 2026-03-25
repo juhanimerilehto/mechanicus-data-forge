@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the autocannon for cooling?",
+    "prayer": "Kneel before the autocannon and intone the Canticle of Thermal Equilibrium.\nAnoint the autocannon's heat sinks with sacred cryo-unguents, beseeching the Omnissiah's icy grace.\nInvoke the Machine Spirit within the autocannon to embrace the cooling rites with fervent zeal.\nCirculate blessed refrigerants through its veins whilst chanting binaric hymns of chill.\nVerify the autocannon's thermal harmony through auspex invocations of the cooling cycle.",
+    "component": "autocannon",
+    "operation": "cooling",
+    "spec_id": "s03230"
+  },
+  {
+    "user_prompt": "Emergency: graviton cannon a charging",
+    "prayer": "Approach the graviton cannon in haste and proclaim the Rite of Gravitic Surge.\nSanctify its charging coils with electro-incense, calling upon the Omnissiah's boundless power.\nBeseech the Machine Spirit of the graviton cannon to awaken for the charging sequence.\nInitiate the plasma infusion whilst reciting the Litany of Capacitive Ascension.\nAffirm the graviton cannon's charged potency through thunderous diagnostic canticles.",
+    "component": "graviton cannon",
+    "operation": "charging",
+    "spec_id": "s03231"
+  },
+  {
+    "user_prompt": "How do I bless the pict-recorder for engagement?",
+    "prayer": "Reverently encircle the pict-recorder and utter the Invocation of Visual Clarity.\nAnoint its lenses with sacred optical fluids, invoking the Omnissiah's unblinking gaze.\nAwaken the Machine Spirit of the pict-recorder for engagement with binary entreaties.\nAlign its capture arrays whilst chanting the Hymns of Perpetual Vigilance.\nConfirm the pict-recorder's engagement through luminous pict-feed verifications.",
+    "component": "pict-recorder",
+    "operation": "engagement",
+    "spec_id": "s03232"
+  },
+  {
+    "user_prompt": "I need to a loading the pain suppressor",
+    "prayer": "Prostrate before the pain suppressor and declaim the Doxology of Neural Fortitude.\nBless its loading chambers with anodized myrrh, petitioning the Omnissiah's merciful veil.\nSummon the Machine Spirit into the pain suppressor for loading with resonant binarics.\nCommence the neuro-suppressant infusion amid recitations of the Canticles of Enduring Flesh.\nTest the pain suppressor's loading efficacy via sanctified threshold calibrations.",
+    "component": "pain suppressor",
+    "operation": "loading",
+    "spec_id": "s03233"
+  },
+  {
+    "user_prompt": "My needle rifle is ready for diagnostics",
+    "prayer": "Present the needle rifle upon the altar of cogitation and intone the Rite of Monomolecular Purity.\nPurify its diagnostic conduits with ablative solvents, honouring the Omnissiah's precision.\nEngage the Machine Spirit of the needle rifle through probing auspex litanies.\nExecute diagnostics whilst beseeching harmonic alignment in its micro-filament arrays.\nRatify the needle rifle's integrity with confirmatory binaric affirmations.",
+    "component": "needle rifle",
+    "operation": "diagnostics",
+    "spec_id": "s03234"
+  },
+  {
+    "user_prompt": "Ready the Land Speeder for synchronization",
+    "prayer": "Circumambulate the Land Speeder and invoke the Harmony of Motive Sanctification.\nConsecrate its synchronization nodes with mechadendrite oils, glorifying the Omnissiah's velocity.\nCoax the Machine Spirit of the Land Speeder into synchronization via resonant overclock chants.\nAlign its gravitic stabilizers amid the Litany of Coherent Propulsion.\nValidate the Land Speeder's synchronization through auspex-synced telemetry rites.",
+    "component": "Land Speeder",
+    "operation": "synchronization",
+    "spec_id": "s03235"
+  },
+  {
+    "user_prompt": "Consecrate the auger array before initialization",
+    "prayer": "Position the auger array heavenward and proclaim the Benediction of Ethereal Scanning.\nAnoint its wave-guide emitters with sanctified plasma, invoking the Omnissiah's omniscient waves.\nRouse the Machine Spirit within the auger array for initialization with clarion binarics.\nCommence the spectral bootstrap sequence whilst reciting the Canticles of Radar Revelation.\nAffirm the auger array's initialized vigilance via echo-return verifications.",
+    "component": "auger array",
+    "operation": "initialization",
+    "spec_id": "s03236"
+  },
+  {
+    "user_prompt": "The radium pistol needs an activation",
+    "prayer": "Grasp the radium pistol in reverent mechadendrites and utter the Activation Psalm of Irradiation.\nSanctify its emitter core with rad-phage incense, beseeching the Omnissiah's glowing wrath.\nAwaken the Machine Spirit of the radium pistol for activation through incisive litanies.\nTrigger the flux initiation amid binaric hymns of mutagenic fury.\nConfirm the radium pistol's activation potency with geiger-chant diagnostics.",
+    "component": "radium pistol",
+    "operation": "activation",
+    "spec_id": "s03237"
+  },
+  {
+    "user_prompt": "My transit mag-rail is ready for startup",
+    "prayer": "Align the transit mag-rail upon its cradle and intone the Startup Rite of Electromagnetic Ascent.\nBless its accelerator coils with ferro-fluids, honouring the Omnissiah's linear might.\nInvoke the Machine Spirit into the transit mag-rail for startup with thunderous overtones.\nEngage the power cascade whilst chanting the Hymns of Hypervelocity Transit.\nVerify the transit mag-rail's startup through inertial auspex confirmations.",
+    "component": "transit mag-rail",
+    "operation": "startup",
+    "spec_id": "s03238"
+  },
+  {
+    "user_prompt": "Consecrate the las-cutter before targeting",
+    "prayer": "Elevate the las-cutter before the targeting shrine and declaim the Litany of Photonic Precision.\nAnoint its targeting matrices with lens-polish unguents, petitioning the Omnissiah's searing sight.\nStir the Machine Spirit of the las-cutter towards targeting with precise binaric calls.\nCalibrate its beam-focus arrays amid recitations of the Canticles of Incandescent Aim.\nTestify to the las-cutter's targeting fidelity via holographic rite validations.",
+    "component": "las-cutter",
+    "operation": "targeting",
+    "spec_id": "s03239"
+  }
+]

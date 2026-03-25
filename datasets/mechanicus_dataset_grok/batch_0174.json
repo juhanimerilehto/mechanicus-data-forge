@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the Rhino transport during maintenance",
+    "prayer": "Approach the Rhino transport with reverence, mechadendrites extended in supplication to its Machine Spirit.\nAnoint the treads and hull-plates of the Rhino transport with blessed oils during the sacred maintenance.\nIntone the Litany of Endurance whilst inspecting servomotors and power conduits.\nBeseech the Omnissiah to fortify the Rhino transport's blessed frame against the heretic's corrosion.\nVerify the Machine Spirit's harmonious purr through diagnostic rites of maintenance.",
+    "component": "Rhino transport",
+    "operation": "maintenance",
+    "spec_id": "b0174_i00"
+  },
+  {
+    "user_prompt": "How do I bless the Land Raider for maintenance?",
+    "prayer": "Kneel before the Land Raider and whisper the Benediction of Iron Vigilance to its quiescent spirit.\nCircumambulate the Land Raider's mighty form, anointing battle-scarred armour with sacred lubricants.\nInvoke the Canticles of Maintenance upon its god-forged engines and lascannon arrays.\nPetition the Machine Spirit of the Land Raider for resilience in the Omnissiah's endless war.\nConclude with auspex sweeps to affirm the purity restored through these hallowed rites.",
+    "component": "Land Raider",
+    "operation": "maintenance",
+    "spec_id": "b0174_i01"
+  },
+  {
+    "user_prompt": "Bless the star chart for consecration",
+    "prayer": "Unfurl the star chart upon the altar of navigation, invoking the Omnissiah's gaze upon its stellar glyphs.\nTrace the constellations with sanctified stylus, beseeching their Machine Spirits for unerring guidance.\nAnoint the edges of the star chart with incense of plasma residue during consecration.\nChant the Psalm of Celestial Alignment to bind warp-taint from its sacred cartography.\nSeal the rite by aligning the star chart true to the void's eternal patterns.",
+    "component": "star chart",
+    "operation": "consecration",
+    "spec_id": "b0174_i02"
+  },
+  {
+    "user_prompt": "Can you guide data-slate a purification?",
+    "prayer": "Present the data-slate to the glow of cogitator incense, humbly petitioning its embedded spirit.\nScour the data-slate's memory-vaults with binary catechisms of purification.\nApply micro-abrasives to its sacred circuits whilst reciting the Rite of Data Absolution.\nInvoke the Omnissiah to expel corrupt code from the data-slate's hallowed core.\nTest the data-slate's responses to confirm the Machine Spirit's restored lucidity.",
+    "component": "data-slate",
+    "operation": "purification",
+    "spec_id": "b0174_i03"
+  },
+  {
+    "user_prompt": "Urgent servitor an activation needed",
+    "prayer": "Position the servitor before the activation shrine, oiling its cranial implants with reverence.\nChant the Activation Doxology to rouse the lobotomised Machine Spirit within the servitor.\nInterface neural plugs and beseech compliance from the servitor's engrammatic core.\nInvoke the Omnissiah's will to bind flesh and machine in harmonious activation.\nMonitor the servitor's first servile motions to affirm the spirit's awakened obedience.",
+    "component": "servitor",
+    "operation": "activation",
+    "spec_id": "b0174_i04"
+  },
+  {
+    "user_prompt": "The battery array needs a cooling",
+    "prayer": "Encircle the battery array with coolant hoses sanctified by electro-incantations.\nInvoke the Chill Litany upon the battery array to soothe its overheated cells.\nCirculate blessed refrigerants through the battery array's veins during cooling rites.\nPetition the Machine Spirit for thermal equilibrium under the Omnissiah's watchful volts.\nGauge the battery array's stabilised output to hail its pacified essence.",
+    "component": "battery array",
+    "operation": "cooling",
+    "spec_id": "b0174_i05"
+  },
+  {
+    "user_prompt": "Sanctify the water reclamator during purification",
+    "prayer": "Immerse the water reclamator's filters in lustral fluids, honouring its vital Machine Spirit.\nRecite the Purification Canticle whilst flushing contaminants from the water reclamator's sacred pipes.\nAnoint intake valves and distillation coils of the water reclamator with pure essences.\nBeseech the Omnissiah to render the water reclamator's yield immaculate and life-sustaining.\nSample the outflow to proclaim the Machine Spirit's flawless renewal.",
+    "component": "water reclamator",
+    "operation": "purification",
+    "spec_id": "b0174_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for assembly servitor diagnostics?",
+    "prayer": "Link noospheric probes to the assembly servitor, intoning the Diagnostics Invocation.\nScan the assembly servitor's augmetic limbs and cranial processors for discord.\nEmploy sacred voltmeters upon the assembly servitor whilst chanting error-exorcism psalms.\nInvoke the Machine Spirit's testimony through the assembly servitor's diagnostic streams.\nAffirm the Omnissiah's design integrity in the assembly servitor's repaired harmony.",
+    "component": "assembly servitor",
+    "operation": "diagnostics",
+    "spec_id": "b0174_i07"
+  },
+  {
+    "user_prompt": "The welding torch awaits a cycling",
+    "prayer": "Grasp the welding torch with mechadendrite reverence, awakening its plasma soul.\nCycle the power coils of the welding torch with the Rhythm of Forging Flames.\nAnoint the nozzle of the welding torch during this cycling, beseeching steady fusion.\nPetition the Machine Spirit for unyielding heat in the Omnissiah's crucible.\nTest the welding torch's azure blaze to seal the rite of renewal.",
+    "component": "welding torch",
+    "operation": "cycling",
+    "spec_id": "b0174_i08"
+  },
+  {
+    "user_prompt": "Assist with auspex scanner a cooling",
+    "prayer": "Enshroud the auspex scanner in cryo-mists, supplicating its vigilant Machine Spirit.\nChant the Cooling Benediction over the auspex scanner's sensor arrays.\nCirculate sacred cryofluids through the auspex scanner to quell its thermal fury.\nInvoke the Omnissiah's clarity upon the auspex scanner post-cooling.\nCalibrate emissions to herald the Machine Spirit's sharpened perception.",
+    "component": "auspex scanner",
+    "operation": "cooling",
+    "spec_id": "b0174_i09"
+  }
+]

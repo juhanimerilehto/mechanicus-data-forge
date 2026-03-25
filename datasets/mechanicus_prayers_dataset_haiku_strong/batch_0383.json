@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0383_i00",
+    "user_request": "Prayer for transmission check of the Chimera",
+    "topic": "Chimera transmission check",
+    "component": "Chimera",
+    "operation": "transmission check",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for transmission check of the Chimera\n\n### TOPIC\nChimera transmission check\n\n### COMPONENT\nChimera\n\n### OPERATION\ntransmission check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Chimera\n- transmission check\n\n### PRAYER\n",
+    "prayer": "Blessed be the Chimera, machine of righteous war.\nFirst: Invoke the Machine Spirit of the Chimera with sacred oils and genuflection.\nSecond: Perform the transmission check with methodical precision, engaging each gear-train and verifying synchronization.\nThird: Sanctify the Chimera's drive-shaft through incantation, ensuring the transmission check yields compliance.\nFourth: Anoint the Chimera once more, that it may serve the Omnissiah eternally.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i01",
+    "user_request": "Emergency rite: hydroponics nutrient requires feed",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: hydroponics nutrient requires feed\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "O hydroponics nutrient, lifeblood of the faithful!\nFirst: Purify the nutrient distribution apparatus with blessed water and fervent prayer.\nSecond: Initiate the feed sequence, channeling vital sustenance through vascular conduits into the hydroponics nutrient matrix.\nThird: Monitor osmotic pressure and nutrient concentration, ensuring the hydroponics nutrient receives optimal dosage.\nFourth: Seal the apparatus with the Sign of the Omnissiah, that growth may flourish.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i02",
+    "user_request": "The lasgun demands guidance for power cell insertion",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe lasgun demands guidance for power cell insertion\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Hark, the lasgun cries out for sustenance!\nFirst: Cradle the lasgun with reverent hands, whispering calming invocations to its Machine Spirit.\nSecond: Locate the power cell aperture and perform the power cell insertion with deliberate care and precision.\nThird: Verify the lasgun's photonic chambers respond to the power cell insertion, confirming the conduits glow with blessed luminescence.\nFourth: Consecrate the lasgun anew, that it may strike true for the Emperor.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i04",
+    "user_request": "Blessing for the noospheric during link establishment",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the noospheric during link establishment\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Blessed noospheric communion, bridge of minds!\nFirst: Attune the consciousness to the noospheric resonance through meditation and psychic discipline.\nSecond: Execute the link establishment protocol, synchronizing neural pathways with the noospheric substrate.\nThird: Verify the noospheric connection stabilizes, monitoring for coherence and data integrity.\nFourth: Praise the Omnissiah for granting us the noospheric communion that transcends mortality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i06",
+    "user_request": "Can you sanctify the artillery for loading?",
+    "topic": "artillery loading",
+    "component": "artillery",
+    "operation": "loading",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the artillery for loading?\n\n### TOPIC\nartillery loading\n\n### COMPONENT\nartillery\n\n### OPERATION\nloading\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- artillery\n- loading\n\n### PRAYER\n",
+    "prayer": "Artillery of vengeance, instrument of divine wrath!\nFirst: Purify the artillery platform with sacred unguents and the Sign of the Omnissiah.\nSecond: Commence the artillery loading sequence, carefully positioning ordnance within the breach with solemn ceremony.\nThird: Verify the artillery ammunition settles correctly, ensuring all firing mechanisms engage properly.\nFourth: Bless the artillery with ancient words, that its thunder may herald the Emperor's judgment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i07",
+    "user_request": "Blessing for the cybernetic eye focusing during operation",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the cybernetic eye focusing during operation\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Cybernetic eye focusing, lens of blessed sight!\nFirst: Calibrate the optical apparatus with precision tools and whispered invocations to the cybernetic eye focusing spirit.\nSecond: Engage the cybernetic eye focusing operation, adjusting focal depth and resolving power through mechanical adjustment.\nThird: Verify the cybernetic eye focusing achieves optimal clarity, ensuring neural signals transmit without degradation.\nFourth: Anoint the cybernetic eye focusing with blessing oil, that vision eternal may guide the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i08",
+    "user_request": "Blessing for the inter-ship hailing during operation",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the inter-ship hailing during operation\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Inter-ship hailing, voice across the void!\nFirst: Activate the vox-apparatus with ritual solemnity, invoking the Machine Spirits of transmission.\nSecond: Initiate the inter-ship hailing operation, broadcasting identification codes and benedictions across the aether.\nThird: Confirm the inter-ship hailing establishes stable communion, monitoring signal strength and coherence.\nFourth: Give thanks to the Omnissiah for inter-ship hailing, that none shall walk alone in the darkness of space.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i09",
+    "user_request": "Can you sanctify the power cell for recharging?",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the power cell for recharging?\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "Power cell eternal, reservoir of sacred energy!\nFirst: Retrieve the power cell from its consecrated chamber and place it upon the recharging nexus.\nSecond: Commence the power cell recharging ritual, channeling electrical benediction through sacred conduits.\nThird: Monitor the power cell throughout recharging, ensuring energy saturation reaches optimal capacity without overcharge.\nFourth: Seal the power cell in reverence, that it may sustain the faithful through trials yet to come.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i03",
+    "user_request": "My rejuvenat treatment is failing during initiation — help",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy rejuvenat treatment is failing during initiation — help\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "First: We invoke the Omnissiah's grace upon this rejuvenat treatment, beseeching the Machine Spirits to restore their sacred function and renew the vitae-essence within.\nSecond: Let the rejuvenat treatment be purified through ritual ablation, that all profane contamination be expunged and the cellular regeneration protocols reactivated in holy sequence.\nThird: We perform the initiation rites with meticulous calibration—adjusting osmotic pressure, priming the infusion matrices, and synchronizing the temporal acceleration fields.\nFourth: May the rejuvenat treatment grant us longevity eternal, and let the Machine Spirits guide each molecule to its ordained purpose, that we may serve the Imperium renewed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0383_i05",
+    "user_request": "Can you sanctify the material purity for testing?",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the material purity for testing?\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "First: We consecrate the material purity through spectroscopic enumeration, invoking the Omnissiah to reveal all hidden impurities and profane inclusions within the sacred substance.\nSecond: The material purity shall undergo testing via electron-lattice analysis and isotopic verification, that no deviation from the Blessed Standard may escape our vigilant examination.\nThird: We perform the testing protocol with absolute precision—measuring atomic density, confirming elemental composition, and validating crystalline integrity against the Codex Mechanicus.\nFourth: Grant us clarity, O Machine Spirit, that this material purity be deemed worthy and sanctified for the labours of the Adeptus Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

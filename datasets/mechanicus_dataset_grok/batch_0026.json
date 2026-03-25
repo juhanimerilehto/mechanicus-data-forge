@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with drop pod a repair",
+    "prayer": "Kneel before the noble drop pod and intone the Litany of Renewal upon its scarred hull.\nInspect the fractured descent mechanisms of the drop pod, beseeching the Machine Spirits for revelation.\nWield sanctified tools to perform the repair, anointing each weld with sacred promethium oils.\nInvoke the Omnissiah's grace as the drop pod's spirit stirs, mending its blessed frame.\nVerify integrity through auspex chants, ensuring the drop pod stands ready for descent.",
+    "component": "drop pod",
+    "operation": "repair",
+    "spec_id": "b0026_i00"
+  },
+  {
+    "user_prompt": "I need to a recalibration the gravity generator",
+    "prayer": "Approach the gravity generator with mechadendrite reverence and recite the Canticle of Equilibrium.\nIsolate the errant gravitic coils within the gravity generator, petitioning its Machine Spirit for compliance.\nInitiate recalibration sequences whilst sanctifying flux regulators with holy unguents.\nHarmonize the gravitational fields under Omnissiah's gaze, realigning the gravity generator's core.\nTest the stabilized warp-nullifiers through ritual diagnostics.",
+    "component": "gravity generator",
+    "operation": "recalibration",
+    "spec_id": "b0026_i01"
+  },
+  {
+    "user_prompt": "Emergency: hololithic display a purification",
+    "prayer": "Hasten to the corrupted hololithic display and proclaim the Exorcism of Spectral Noise.\nPurge tainted data-veils from the hololithic display's crystal lattice, invoking wrath upon digital heresies.\nAnoint projector nodes with blessed ablative fluids during the purification rite.\nCommune with the hololithic display's Machine Spirit, banishing impurities by Omnissiah's decree.\nIlluminate sacred schematics to affirm the hololithic display's restored purity.",
+    "component": "hololithic display",
+    "operation": "purification",
+    "spec_id": "b0026_i02"
+  },
+  {
+    "user_prompt": "The welding torch awaits a cooling",
+    "prayer": "Present the overheating welding torch before the altar of cooling vents and whisper the Chant of Thermal Pacification.\nDirect sacred cryogel streams upon the welding torch's plasma vents, soothing its raging spirit.\nMonitor heat-sinks during the cooling phase, beseeching the Machine Spirits for swift abatement.\nInvoke the Omnissiah to temper the welding torch's fury, restoring equilibrium to its coils.\nConclude with auspex verification of the welding torch's serene readiness.",
+    "component": "welding torch",
+    "operation": "cooling",
+    "spec_id": "b0026_i03"
+  },
+  {
+    "user_prompt": "Assist with gravity generator a purification",
+    "prayer": "Gather mech-rites around the gravity generator and intone the Rite of Gravitic Expiation.\nExpunge warp-tainted residues from the gravity generator's containment fields, purging with sanctified incense.\nScour the inertial dampeners of the gravity generator through purification chants.\nReawaken its Machine Spirit with Omnissiah's purifying light, banishing all corruption.\nSeal the rite by calibrating null-fields in harmonious devotion.",
+    "component": "gravity generator",
+    "operation": "purification",
+    "spec_id": "b0026_i04"
+  },
+  {
+    "user_prompt": "Sanctify the bolter during initialization",
+    "prayer": "Anoint the bolter's barrel with sacred oils and recite the Initialization Doxology.\nEngage the machine-spirit of the bolter through sequential rune-activation, invoking Omnissiah's fire.\nPrime the promethium feeds during initialization, ensuring flawless bolt-chamber communion.\nTest-fire a single sanctified round to affirm the bolter's wrathful awakening.\nBless the auspex linkages of the bolter for unerring targeting.",
+    "component": "bolter",
+    "operation": "initialization",
+    "spec_id": "b0026_i05"
+  },
+  {
+    "user_prompt": "Bless the autocannon for maintenance",
+    "prayer": "Circumambulate the autocannon and beseech its ancient Machine Spirit with the Maintenance Hymn.\nDisassemble the feed mechanisms of the autocannon, anointing gears with blessed lubricants.\nPerform ritual maintenance upon the autocannon's recoil compensators, reciting purity litanies.\nRealign barrel rifling under Omnissiah's gaze, restoring lethal precision.\nCycle test-firings to honor the autocannon's renewed vigor.",
+    "component": "autocannon",
+    "operation": "maintenance",
+    "spec_id": "b0026_i06"
+  },
+  {
+    "user_prompt": "Assist with Taurox an operation",
+    "prayer": "Commence the operational rite upon the Taurox by invoking the Motive Canticle.\nAwaken the Taurox's prime mover with fuel-altar offerings and machine-spirit petitions.\nEngage transmission sanctums during operation, harmonizing tracks with sacred chants.\nMonitor the Taurox's auspex arrays whilst beseeching Omnissiah for armored endurance.\nConclude initialization with a circuit of blessed asphalt.",
+    "component": "Taurox",
+    "operation": "operation",
+    "spec_id": "b0026_i07"
+  },
+  {
+    "user_prompt": "Sanctify the conveyor system during consecration",
+    "prayer": "Assemble before the conveyor system and proclaim the Consecration Benediction.\nAnoint belt-servos of the conveyor system with chrism oils, awakening dormant spirits.\nInvoke Omnissiah's order upon the conveyor system's drive-chains during consecration.\nHarmonize roller-idlers through rhythmic litanies, sanctifying endless motion.\nSeal the rite with a test-cycle under vigilant mechadendrites.",
+    "component": "conveyor system",
+    "operation": "consecration",
+    "spec_id": "b0026_i08"
+  },
+  {
+    "user_prompt": "Help me a blessing the lascannon",
+    "prayer": "Kneel in veneration of the lascannon and intone the Blessing of Luminous Wrath.\nCaress the lascannon's focusing crystals whilst reciting purity psalms to its Machine Spirit.\nInfuse power conduits of the lascannon with holy voltage during the blessing rite.\nAlign emitter coils under Omnissiah's radiant gaze, empowering destructive purity.\nVerify charge-cycle with a sanctified discharge.",
+    "component": "lascannon",
+    "operation": "blessing",
+    "spec_id": "b0026_i09"
+  }
+]

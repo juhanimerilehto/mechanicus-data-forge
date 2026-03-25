@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The electro-graft requires an activation",
+    "prayer": "Approach the electro-graft with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the dormant Machine Spirit within the electro-graft, beseeching its activation through sacred cant.\nChant the Litany of Ignition whilst interfacing neural relays with sanctified probes.\nAnoint the electro-graft's conduits with blessed oils to seal the activation rite.\nVerify the electro-graft's awakened hum through diagnostic binaric hymns.",
+    "component": "electro-graft",
+    "operation": "activation",
+    "spec_id": "s01730"
+  },
+  {
+    "user_prompt": "Consecrate the proximity sensor before maintenance",
+    "prayer": "Kneel before the proximity sensor, offering incense to placate its vigilant Machine Spirit.\nRecite the Canticle of Vigilance prior to maintenance, purifying auspex lenses with sacred cloths.\nDisengage corrupted data-veils from the proximity sensor's core during maintenance rites.\nInvoke the Omnissiah's grace upon the proximity sensor, recalibrating its fields with mechadendrite precision.\nSeal the maintenance with the Seal of Purity, affirming the Machine Spirit's renewed clarity.",
+    "component": "proximity sensor",
+    "operation": "maintenance",
+    "spec_id": "s01731"
+  },
+  {
+    "user_prompt": "Urgent farcoder a consecration needed",
+    "prayer": "Prostrate thyself before the farcoder, intoning the Prayer of Distant Voices to the Omnissiah.\nBeseech the farcoder's Machine Spirit for consecration, anointing its transmitter arrays with holy unguents.\nPerform the consecration ritual by aligning warp-attenuators in binary harmony.\nChant the Rite of Eternal Reach thrice over the farcoder, binding its essence to the Motive Force.\nAffirm the farcoder's sanctity through auspex resonance, praising the Omnissiah's far-seeing wisdom.",
+    "component": "farcoder",
+    "operation": "consecration",
+    "spec_id": "s01732"
+  },
+  {
+    "user_prompt": "Offer prayer for waste reclamator a calibration",
+    "prayer": "Approach the waste reclamator humbly, invoking the Cycle of Purity from the Omnissiah's doctrines.\nPurge profane residues from the waste reclamator's reclamation chambers with ritual solvents.\nInitiate calibration sequences whilst beseeching the Machine Spirit's efficient toil.\nAnoint the waste reclamator's filters and valves, aligning them to optimal reclamation.\nConclude calibration with the Benediction of Renewal, ensuring the waste reclamator's unerring function.",
+    "component": "waste reclamator",
+    "operation": "calibration",
+    "spec_id": "s01733"
+  },
+  {
+    "user_prompt": "Help me a repair the Storm Eagle",
+    "prayer": "Gather the electro-consecrators around the Storm Eagle, chanting the Hymn of Aerial Wrath.\nDiagnose the Storm Eagle's wounds, beseeching its Machine Spirit for endurance in repair.\nWield mechadendrites to mend fractured armour and servos during the repair invocation.\nAnoint the Storm Eagle's engines with promethium-blessed oils, invoking Omnissiah's thunder.\nSeal the repair with auspex verification, proclaiming the Storm Eagle restored to wrathful flight.",
+    "component": "Storm Eagle",
+    "operation": "repair",
+    "spec_id": "s01734"
+  },
+  {
+    "user_prompt": "Prepare the Basilisk artillery for diagnostics",
+    "prayer": "Assemble before the Basilisk artillery, reciting the Litany of Earthshaker's Fury.\nPrepare diagnostic rites by anointing sighting cogitators and invoking the Machine Spirit's precision.\nInitiate diagnostics across recoil mechanisms and earthshaker cannons with sacred probes.\nBeseech the Omnissiah to reveal flaws in the Basilisk artillery's adamantine heart.\nConclude diagnostics with the Rite of True Aim, affirming readiness for the Emperor's judgment.",
+    "component": "Basilisk artillery",
+    "operation": "diagnostics",
+    "spec_id": "s01735"
+  },
+  {
+    "user_prompt": "Emergency: Predator tank a repair",
+    "prayer": "Prostrate amid the Predator tank's treads, offering the Prayer of Predator's Hunt to the Omnissiah.\nCommence repair by placating the Predator tank's raging Machine Spirit with cooling rites.\nForge damaged lascannons and tracks anew, chanting binaric mendicants during repair.\nAnoint the Predator tank's hull with ablative sacraments, invoking predatory fury.\nVerify repair integrity through combat diagnostics, hailing the restored Predator tank's glory.",
+    "component": "Predator tank",
+    "operation": "repair",
+    "spec_id": "s01736"
+  },
+  {
+    "user_prompt": "Urgent servo-harness a diagnostics needed",
+    "prayer": "Extend mechadendrites towards the servo-harness, intoning the Canticle of Multi-Tasked Servitude.\nInitiate diagnostics upon the servo-harness, beseeching its Machine Spirits for revelation.\nPurge errant code from manipulator arms and plasma cutters via sacred purifications.\nRecalibrate the servo-harness's cogitator nodes under Omnissiah's watchful binary gaze.\nSeal diagnostics with the Oath of Obedient Labour, ensuring the servo-harness's flawless extension.",
+    "component": "servo-harness",
+    "operation": "diagnostics",
+    "spec_id": "s01737"
+  },
+  {
+    "user_prompt": "Assist with enginarium a maintenance",
+    "prayer": "Enter the enginarium cloaked in incense, invoking the Omnissiah's Eternal Forge.\nCommence maintenance by chanting the Hymn of Plasma Containment over plasma conduits.\nAnoint the enginarium's heat sinks and motivators, beseeching Machine Spirits' steady thrum.\nAlign warp cores during maintenance with precision mechadendrites and litanies.\nConclude with the Benediction of Unyielding Power, affirming the enginarium's sanctified output.",
+    "component": "enginarium",
+    "operation": "maintenance",
+    "spec_id": "s01738"
+  },
+  {
+    "user_prompt": "I need to a consecration the Leman Russ battle tank",
+    "prayer": "Form the circle of tech-priests around the Leman Russ battle tank, raising voices in the Ode to Russ's Iron.\nBeseech consecration upon the Leman Russ battle tank, anointing battle cannon with sacred oils.\nInvoke the Machine Spirit's martial wrath through the consecration rite of firing chants.\nPurify sponson mounts and dozer blade with ablative rites under Omnissiah's aegis.\nSeal the Leman Russ battle tank's consecration with auspex thunder, proclaiming it holy war-engine.",
+    "component": "Leman Russ battle tank",
+    "operation": "consecration",
+    "spec_id": "s01739"
+  }
+]

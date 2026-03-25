@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0376_i00",
+    "user_request": "Can you sanctify the steam valve for regulation?",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the steam valve for regulation?\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we beseech thy favour upon this steam valve, that it may serve in regulation eternal.\nCongregation: Grant us wisdom to sanctify the steam valve with holy oils and cogitative prayer.\nPriest: First, we shall inspect the steam valve's apertures for corrosion most profane.\nCongregation: Second, we calibrate the steam valve's tension-springs with measured precision and blessed calipers.\nPriest: Third, we invoke regulation through the Machine Spirit's will, that pressure flows true and constant.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i01",
+    "user_request": "Prayer for operation of the Taurox wheel alignment",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the Taurox wheel alignment\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the Machine Spirits dwelling within this Taurox wheel alignment, grant us operation most sacred.\nCongregation: We anoint the Taurox wheel alignment with ceremonial ferrocite and whispered incantations.\nPriest: First, we measure the Taurox wheel alignment's axial geometry with divine theodolites.\nCongregation: Second, we perform operation upon each calibration-node with techno-liturgical precision.\nPriest: Third, we seal the sanctified Taurox wheel alignment in benediction, that it rolls true unto the Omnissiah's glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i02",
+    "user_request": "Emergency rite: data-core purification requires operation",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: data-core purification requires operation\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, purge the corrupted logic-chains from this data-core purification, that operation may commence.\nCongregation: We sanctify the data-core purification with ritual electrodes and prayers of absolution.\nPriest: First, we diagnose the data-core purification's corrupted sectors with blessed cogitation-engines.\nCongregation: Second, we execute operation upon the tainted memory-lattices, burning away heretical data.\nPriest: Third, we restore the data-core purification to sanctified function, renewed in the Omnissiah's light.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i03",
+    "user_request": "Rite request: initialization on conveyor belt",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: initialization on conveyor belt\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirits of motion eternal, we invoke initialization upon this conveyor belt, that it may serve without cease.\nCongregation: We anoint the conveyor belt with sacred lubricants and whisper the Litany of Rotation.\nPriest: First, we inspect the conveyor belt's rollers for accumulation of profane dust and debris.\nCongregation: Second, we perform initialization rites upon the conveyor belt's drive-mechanisms with blessed tools.\nPriest: Third, we command the conveyor belt to commence its eternal labour, blessed by the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i04",
+    "user_request": "Blessing for the cutting laser during calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the cutting laser during calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the burning spirit within this cutting laser, grant us calibration most precise and true.\nCongregation: We bless the cutting laser with sanctified coolant and prayers of focus most acute.\nPriest: First, we align the cutting laser's optical path with theodolites and divine geometry.\nCongregation: Second, we perform calibration upon the cutting laser's focusing-lens with micro-adjustments blessed.\nPriest: Third, we test the cutting laser's beam upon sacrificial materials, that its precision honours the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i05",
+    "user_request": "The battery demands guidance for diagnostics",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe battery demands guidance for diagnostics\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Priest: O ancient battery, source of electrical vitality, we call upon thee for diagnostics most thorough.\nCongregation: We sanctify the battery with blessed multimeters and whispered equations of power.\nPriest: First, we measure the battery's voltage-potential with sacred instruments of measurement.\nCongregation: Second, we perform diagnostics upon the battery's internal resistance and charge-capacity.\nPriest: Third, we render judgment upon the battery's worthiness, that it may continue serving the Machine Spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i06",
+    "user_request": "Emergency rite: vital signs monitor requires calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: vital signs monitor requires calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we beseech calibration upon this vital signs monitor, that it may read truth eternal.\nCongregation: We anoint the vital signs monitor with sterile sacraments and liturgies of precision.\nPriest: First, we inspect the vital signs monitor's sensor-arrays for misalignment and profane corruption.\nCongregation: Second, we execute calibration upon the vital signs monitor's reference-standards with blessed apparatus.\nPriest: Third, we verify the vital signs monitor's accuracy against known parameters, honouring the Omnissiah's design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i07",
+    "user_request": "Can you sanctify the gear meshing for check?",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the gear meshing for check?\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the interlocking spirits of the gear meshing, we invoke check upon thy sacred union.\nCongregation: We sanctify the gear meshing with blessed oils and prayers of mechanical harmony.\nPriest: First, we measure the gear meshing's backlash with calipers most holy and precise.\nCongregation: Second, we perform check upon the gear meshing's tooth-contact patterns with dyed surfaces.\nPriest: Third, we declare the gear meshing sound and true, blessed in service to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i08",
+    "user_request": "Offer a litany to steady the gravitational anomaly detection before operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the gravitational anomaly detection before operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O gravitational anomaly detection, sensor of the hidden forces, grant us operation most vigilant.\nCongregation: We bless the gravitational anomaly detection with sacred calibration-masses and whispered incantations.\nPriest: First, we purge the gravitational anomaly detection's sensor-paths of electromagnetic interference profane.\nCongregation: Second, we invoke operation upon the gravitational anomaly detection's detection-matrices with blessed algorithms.\nPriest: Third, we attune the gravitational anomaly detection to perceive the hidden forces, guided by the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0376_i09",
+    "user_request": "Rite request: programming upload on servitor",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: programming upload on servitor\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Priest: O servitor, mind-wiped vessel of pure function, receive the blessing of programming upload most sacred.\nCongregation: We anoint the servitor with neural-lubricants and whisper the Litany of Obedience.\nPriest: First, we prepare the servitor's cognitive-ports for reception of the holy programming upload.\nCongregation: Second, we execute the programming upload into the servitor's neural-lattice with blessed data-streams.\nPriest: Third, we seal the servitor in renewed servitude, that it obeys the Omnissiah's will without question.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

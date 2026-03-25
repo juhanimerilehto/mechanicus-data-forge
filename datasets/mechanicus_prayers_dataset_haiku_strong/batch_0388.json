@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0388_i00",
+    "user_request": "The augmetic limb demands guidance for installation",
+    "topic": "augmetic limb installation",
+    "component": "augmetic limb",
+    "operation": "installation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe augmetic limb demands guidance for installation\n\n### TOPIC\naugmetic limb installation\n\n### COMPONENT\naugmetic limb\n\n### OPERATION\ninstallation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- augmetic limb\n- installation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the augmetic limb, blessed instrument of the Omnissiah's will.\nCongregation: We honor the augmetic limb, and seek its installation upon this worthy servant.\nPriest: First, anneal the servo-articulations with sacred oils; second, calibrate the neural-synapse conduits; third, invoke the Machine Spirit of the augmetic limb through installation protocols.\nCongregation: The augmetic limb shall grant strength eternal to those who receive it.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i01",
+    "user_request": "Blessing for the bike squadron during pre-flight",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the bike squadron during pre-flight\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Priest: Sanctify the bike squadron, swift as the Emperor's judgment.\nCongregation: We invoke pre-flight blessings upon the bike squadron, that it may ride true.\nPriest: Verify fuel-reactant levels; inspect the suspensor-coils for fracture; attune the pilot-machine interfaces through the pre-flight rites.\nCongregation: The bike squadron shall surge forth unblemished, blessed by the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i02",
+    "user_request": "Rite request: operation on servitor crane",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on servitor crane\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Servitor crane, iron angel of the forge, hear our supplication.\nCongregation: Grant unto the servitor crane the clarity to perform its operation without fault.\nPriest: Engage the hydraulic pressure-regulators; synchronize the manipulator-limbs with cogitator-directives; commence the operation with Machine Spirit guidance.\nCongregation: The servitor crane shall lift and labor, bound in eternal servitude to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i03",
+    "user_request": "Blessing for the wear during inspection",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the wear during inspection\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "Priest: Let us examine the wear upon our sacred mechanisms.\nCongregation: Grant us wisdom to perceive the wear through diligent inspection and blessed sight.\nPriest: Measure the corrosion-depth with calibrated instruments; document the wear patterns across stressed surfaces; conclude the inspection with anointing of protective compounds.\nCongregation: Thus we honor the wear and preserve the machine's sanctity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i04",
+    "user_request": "Rite request: operation on thermal dissipation rite",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on thermal dissipation rite\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The thermal dissipation rite demands our reverent attention.\nCongregation: We seek the operation of the thermal dissipation rite, that heat may be banished.\nPriest: Purge the cooling-channels of accumulated sludge; activate the thermal dissipation rite through prescribed incantations; monitor the temperature-gauges as operation proceeds.\nCongregation: The thermal dissipation rite shall restore equilibrium to the overheated forge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i05",
+    "user_request": "Prayer for engagement of the pain suppressor",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for engagement of the pain suppressor\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken the pain suppressor from its dormant state.\nCongregation: We beseech the engagement of the pain suppressor, mercy-bringer to the faithful.\nPriest: Route the analgesic compounds through neural-pathways; initiate the pain suppressor's chemical cascade; seal the feedback-loops with blessed wax-seals.\nCongregation: The pain suppressor shall ease suffering, a gift of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i06",
+    "user_request": "Offer a litany to steady the encryption before key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the encryption before key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Priest: Encryption, guardian of secrets, stand firm against the void's corruption.\nCongregation: Bless the encryption as it prepares for key generation in the sacred dark.\nPriest: Initialize the pseudo-random number generators with blessed entropy; establish the encryption protocols through binary incantation; execute key generation with the Omnissiah's watchful eye.\nCongregation: The encryption shall shield our knowledge eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i07",
+    "user_request": "My force field is failing during activation — help",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy force field is failing during activation — help\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: The force field trembles; its activation falters before us.\nCongregation: Restore the force field to potency through blessed activation and divine will.\nPriest: Recalibrate the energy-capacitor matrices; purge corrupted activation-sequences from memory-core; reinvoke the force field through sanctified power-conduits.\nCongregation: The force field shall blaze forth, impenetrable as the Emperor's faith.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i08",
+    "user_request": "Rite request: operation on relay station handoff",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on relay station handoff\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The relay station handoff approaches, moment of sacred transition.\nCongregation: We pray the relay station handoff performs its operation without hesitation.\nPriest: Synchronize the signal-transference protocols between stations; execute the relay station handoff through blessed handshakes; confirm data-integrity across the operation threshold.\nCongregation: The relay station handoff shall bridge the void, unbroken and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0388_i09",
+    "user_request": "Prayer for operation of the stellar cartography update",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the stellar cartography update\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The stellar cartography update awaits its operation upon the astrographic-engines.\nCongregation: Grant the stellar cartography update flawless operation in the depths of the void.\nPriest: Load the new stellar coordinates into the cogitator's blessed memory; execute the stellar cartography update across all navigation-systems; verify the operation through star-sight confirmation.\nCongregation: The stellar cartography update shall guide our path through the infinite dark.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

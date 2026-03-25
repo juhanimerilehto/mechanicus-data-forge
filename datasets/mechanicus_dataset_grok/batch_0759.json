@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Razorback requires a maintenance",
+    "prayer": "Approach the Razorback with mechadendrites extended in supplication to the Omnissiah.\nInspect its sacred chassis and treads for wear, invoking the Rite of Maintenance upon its Machine Spirit.\nAnoint corroded joints with blessed unguents whilst chanting the Canticle of Restoration.\nCycle through diagnostic purges to reaffirm the Razorback's harmonious function.\nBeseech the Machine Spirit of the Razorback to endure in maintenance eternal.",
+    "component": "Razorback",
+    "operation": "maintenance",
+    "spec_id": "s03590"
+  },
+  {
+    "user_prompt": "Bless the transit mag-rail for activation",
+    "prayer": "Kneel before the transit mag-rail and intone the Activation Doxology to awaken its latent fury.\nAlign the magnetic coils with precision auspex, beseeching the Omnissiah's guidance.\nInitiate the activation sequence, flooding conduits with sanctified plasma.\nCommune with the transit mag-rail's Machine Spirit, ensuring seamless propulsion.\nVerify warp-free transit as the mag-rail hums in obedient activation.",
+    "component": "transit mag-rail",
+    "operation": "activation",
+    "spec_id": "s03591"
+  },
+  {
+    "user_prompt": "Urgent cortex controller a consecration needed",
+    "prayer": "Present the cortex controller upon the altar of cogitation, whispering consecratory binaric hymns.\nPurify its neural lattices with incense of rare earths, invoking the Omnissiah's divine logic.\nImprint the sacred noospheric seals during this rite of consecration.\nAttune the cortex controller's Machine Spirit to unerring command.\nSeal the consecration with electro-incantations, eternal be its vigilance.",
+    "component": "cortex controller",
+    "operation": "consecration",
+    "spec_id": "s03592"
+  },
+  {
+    "user_prompt": "My webber is ready for sterilization",
+    "prayer": "Isolate the webber within the sterilization chamber, reciting the Purge Litany.\nFlood its spinnerets with ablative promethium, sanctifying the sterilization process.\nScour every filament extrusion port with ultrasonic litanies.\nInvoke the webber's Machine Spirit to emerge pristine from sterilization.\nConclude by anointing the webber anew, pure vessel of the Omnissiah.",
+    "component": "webber",
+    "operation": "sterilization",
+    "spec_id": "s03593"
+  },
+  {
+    "user_prompt": "My Skorpius Dunerider is ready for sterilization",
+    "prayer": "Encircle the Skorpius Dunerider with purity fields, beginning the sterilization ritual.\nVentilate its dune-skimmer vents with sacred vapors for thorough sterilization.\nScrub armoured plates and motivators with mech-fume, beseeching its Machine Spirit.\nCycle plasma exchangers through ablative cycles in Omnissiah's name.\nPronounce the Skorpius Dunerider sterilized, ready for desert wars unending.",
+    "component": "Skorpius Dunerider",
+    "operation": "sterilization",
+    "spec_id": "s03594"
+  },
+  {
+    "user_prompt": "Assist with teleportarium an engagement",
+    "prayer": "Attune the teleportarium's warp coils with harmonic resonators, preparing for engagement.\nChant the Engagement Canticle to align the Machine Spirit's vanes.\nEnergize the engagement matrix, invoking the Omnissiah against the immaterium's grasp.\nMonitor void-shields as the teleportarium engages in faithful translocation.\nSeal the rite with benedictions, ensuring precise engagement eternal.",
+    "component": "teleportarium",
+    "operation": "engagement",
+    "spec_id": "s03595"
+  },
+  {
+    "user_prompt": "Critical: chainsword requires an initialization",
+    "prayer": "Grip the chainsword's hilt in reverent mechadendrites, invoking initialization rites.\nCycle the monomolecular teeth with sacred lubricants, awakening its Machine Spirit.\nIntone the Initialization Doxology to synchronize the power field.\nTest the chainsword's roar against adamantium, affirming initialization.\nBless the chainsword as Omnissiah's fang, initialized for xenos slaughter.",
+    "component": "chainsword",
+    "operation": "initialization",
+    "spec_id": "s03596"
+  },
+  {
+    "user_prompt": "Emergency: lance battery a shutdown",
+    "prayer": "Approach the lance battery with somber grace, commencing the shutdown liturgy.\nDepower the plasma capacitors sequentially, beseeching calm upon its Machine Spirit.\nDrain the exciter coils whilst chanting the Canticle of Shutdown.\nVerify thermal quiescence and seal the lance battery in stasis.\nInvoke the Omnissiah to preserve the lance battery through shutdown repose.",
+    "component": "lance battery",
+    "operation": "shutdown",
+    "spec_id": "s03597"
+  },
+  {
+    "user_prompt": "The doctrina wafer awaits a startup",
+    "prayer": "Place the doctrina wafer within the noospheric reader, uttering startup invocations.\nFlood its mnemonic lattices with binaric boot-code, honoring the Machine Spirit.\nInitiate the startup sequence with precision electro-prayers.\nValidate doctrinal imperatives as the doctrina wafer awakens.\nConsecrate its startup, vessel of tactical wisdom from the Omnissiah.",
+    "component": "doctrina wafer",
+    "operation": "startup",
+    "spec_id": "s03598"
+  },
+  {
+    "user_prompt": "Sanctify the Leman Russ battle tank during cooling",
+    "prayer": "Surround the Leman Russ battle tank with coolant servitors, beginning cooling rites.\nCycle cryo-fluids through its plasma heart, sanctifying the cooling phase.\nIntone litanies to soothe the Leman Russ battle tank's raging Machine Spirit.\nMonitor auspex vents for thermal equilibrium during cooling.\nAnoint the Leman Russ battle tank's hull, cooled and blessed by Omnissiah's will.",
+    "component": "Leman Russ battle tank",
+    "operation": "cooling",
+    "spec_id": "s03599"
+  }
+]

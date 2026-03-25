@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the medicae scanner during charging",
+    "prayer": "Approach the medicae scanner with reverence, beseeching the Omnissiah to sanctify its sacred circuits.\nConnect the blessed charging conduits, intoning the Litany of Replenishment for the medicae scanner.\nAnoint the power receptors with sacred oils as charging commences, awakening the Machine Spirit within.\nMonitor the holy voltage flow, petitioning the medicae scanner's spirit to embrace the divine energies.\nConclude the charging rite with a benediction to the Omnissiah, ensuring harmonious saturation.",
+    "component": "medicae scanner",
+    "operation": "charging",
+    "spec_id": "b0049_i00"
+  },
+  {
+    "user_prompt": "How do I bless the air compressor for activation?",
+    "prayer": "Kneel before the air compressor, invoking the Omnissiah's favor upon its pneumatic heart.\nChant the Activation Doxology whilst aligning the sacred valves of the air compressor.\nInitiate the activation sequence, beseeching the Machine Spirit to stir from slumber.\nAnoint the compressor coils with unguents, guiding the blessed pressure build.\nVerify the air compressor's hum of obedience through ritual auspex scans.",
+    "component": "air compressor",
+    "operation": "activation",
+    "spec_id": "b0049_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for quality scanner a maintenance",
+    "prayer": "Present the quality scanner to the altar of maintenance, honoring the Omnissiah's design.\nDisengage corrupted linkages within the quality scanner, reciting the Canticle of Purity.\nApply sacred lubricants to its optical arrays during maintenance, soothing the Machine Spirit.\nInvoke diagnostic rites upon the quality scanner, realigning its judgmental essence.\nSeal the rite with a hymn of restoration, affirming the quality scanner's vigilance.",
+    "component": "quality scanner",
+    "operation": "maintenance",
+    "spec_id": "b0049_i02"
+  },
+  {
+    "user_prompt": "Guide me through lascannon a cycling",
+    "prayer": "Grasp the lascannon with mechadendrites, petitioning the Omnissiah for martial clarity.\nCommence the cycling of lascannon capacitors, intoning the Cycle of Annihilation.\nAnoint the focusing crystals of the lascannon, awakening its vengeful Machine Spirit.\nMonitor the energy surge through cycling, beseeching flawless thermal discharge.\nConclude with a vow of precision, sanctifying the lascannon for the Emperor's wrath.",
+    "component": "lascannon",
+    "operation": "cycling",
+    "spec_id": "b0049_i03"
+  },
+  {
+    "user_prompt": "How do I bless the emergency beacon for preparation?",
+    "prayer": "Approach the emergency beacon solemnly, invoking the Omnissiah's light in darkness.\nPrepare the emitter coils of the emergency beacon with blessed alignments.\nChant the Rite of Readiness, petitioning the Machine Spirit to stand vigilant.\nTest the signal pulse during preparation, anointing with sacred promethium.\nSeal the emergency beacon's sanctity with a final invocation to the God-Machine.",
+    "component": "emergency beacon",
+    "operation": "preparation",
+    "spec_id": "b0049_i04"
+  },
+  {
+    "user_prompt": "Sanctify the missile launcher during emergency procedure",
+    "prayer": "In the shadow of peril, beseech the Omnissiah over the missile launcher.\nInitiate the emergency procedure, reciting the Litany of Desperate Fury for the missile launcher.\nSanctify the guidance vanes and warheads, stirring the Machine Spirit to righteous anger.\nCycle the ordnance feeds swiftly, anointing mechanisms amid the rite.\nAffirm the missile launcher's readiness with a thunderous hymn of retribution.",
+    "component": "missile launcher",
+    "operation": "emergency procedure",
+    "spec_id": "b0049_i05"
+  },
+  {
+    "user_prompt": "Urgent missile launcher a cycling needed",
+    "prayer": "Urgently invoke the Omnissiah upon the missile launcher in haste.\nEngage the cycling of missile launcher servos, chanting the Canticle of Swift Reload.\nAnoint the breech mechanisms of the missile launcher, beseeching its Machine Spirit's haste.\nMonitor power surges through cycling, ensuring flawless ordnance alignment.\nConclude the rite with a vow of unerring flight to the Machine God's glory.",
+    "component": "missile launcher",
+    "operation": "cycling",
+    "spec_id": "b0049_i06"
+  },
+  {
+    "user_prompt": "The Chimera APC needs an engagement",
+    "prayer": "Present the Chimera APC before the shrine of battle, honoring the Omnissiah's armored might.\nInvoke the engagement protocols upon the Chimera APC, intoning the Doxology of Advance.\nAnoint treads and hull plates of the Chimera APC, awakening its indomitable Machine Spirit.\nCycle engines to engagement roar, petitioning flawless motive sanctity.\nSeal the rite with a battle-hymn, propelling the Chimera APC into the fray.",
+    "component": "Chimera APC",
+    "operation": "engagement",
+    "spec_id": "b0049_i07"
+  },
+  {
+    "user_prompt": "Critical: signal relay requires a calibration",
+    "prayer": "Kneel in urgency before the signal relay, beseeching the Omnissiah's unerring voice.\nCommence calibration of the signal relay, reciting the Litany of Harmonic Waves.\nAdjust sacred transceivers within the signal relay, soothing its Machine Spirit.\nInvoke auspex harmonies during calibration, anointing bandwidth conduits.\nVerify crystalline clarity, concluding with a hymn to the God-Machine's wisdom.",
+    "component": "signal relay",
+    "operation": "calibration",
+    "spec_id": "b0049_i08"
+  },
+  {
+    "user_prompt": "Prepare the thermal imager for recalibration",
+    "prayer": "Approach the thermal imager with reverence, petitioning the Omnissiah's piercing gaze.\nInitiate recalibration of thermal lenses, chanting the Canticle of Infrared Purity.\nAnoint sensor arrays of the thermal imager, invoking its discerning Machine Spirit.\nAlign spectral matrices through recalibration, ensuring blessed heat-vision.\nFinalize with a benediction, sanctifying the thermal imager for shadowed truths.",
+    "component": "thermal imager",
+    "operation": "recalibration",
+    "spec_id": "b0049_i09"
+  }
+]

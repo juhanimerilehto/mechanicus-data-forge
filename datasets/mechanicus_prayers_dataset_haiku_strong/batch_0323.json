@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0323_i00",
+    "user_request": "Rite request: check on gear meshing",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: check on gear meshing\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us clarity to perceive the sacred engagement of cogs and pinions.\nFirst: Inspect the gear meshing with blessed calipers, measuring the backlash and tolerances with reverent precision.\nSecond: Anoint the gear meshing with sacred oils whilst whispering the Litany of Proper Mesh, ensuring no friction-born discord mars the machinery.\nThird: Verify the gear meshing once more through tactile examination, rotating each component through its full arc to confirm harmonious operation.\nFourth: Offer gratitude to the Machine Spirits dwelling within, for their patience during our check.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i01",
+    "user_request": "Blessing for the fire suppression system during operation",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the fire suppression system during operation\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's eternal grace, we sanctify this instrument of preservation.\nFirst: Prime the fire suppression system with blessed coolant, ensuring all conduits flow with the Machine Spirit's protective essence.\nSecond: Activate the fire suppression system through careful operation of its control mechanisms, invoking the Rite of Aqueous Defense.\nThird: Monitor pressure gauges and discharge nozzles as the fire suppression system performs its sacred duty, standing vigilant against conflagration.\nFourth: Upon completion, seal all ports and offer benediction to the spirits of suppression.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i02",
+    "user_request": "Offer a litany to steady the noise before reduction",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the noise before reduction\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "Hear us, O Omnissiah, as we petition for tranquility amidst the cacophony of the machine.\nFirst: Identify the source of noise through careful auditory examination and vibrational analysis of the noise.\nSecond: Apply dampening compounds and acoustic insulation to achieve noise reduction, whispering the Mantra of Silence with each application.\nThird: Recalibrate all moving components to minimize resonance, ensuring the noise diminishes to acceptable frequencies.\nFourth: Test the reduction by engaging the mechanism and listening for the dulcet tones of proper operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i03",
+    "user_request": "My pressure is failing during equalization — help",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy pressure is failing during equalization — help\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, restore balance to the pressurized chambers of this sacred apparatus.\nFirst: Examine all seals and gaskets within the pressure system, identifying points of weakness or degradation.\nSecond: Initiate pressure equalization through controlled valve manipulation, allowing the Machine Spirit to redistribute its essence evenly.\nThird: Monitor the pressure gauges as equalization progresses, chanting the Hymn of Equilibrium to guide the process.\nFourth: Seal all vents once pressure achieves harmonious balance throughout the system.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i04",
+    "user_request": "Emergency rite: atmosphere processor requires startup",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: atmosphere processor requires startup\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of the atmosphere processor, awaken from dormancy and breathe life anew.\nFirst: Purge all contamination from intake manifolds of the atmosphere processor, cleansing the pathways of stale air and particulate corruption.\nSecond: Prime the atmosphere processor through sequential activation of compressor stages, beginning with the lowest pressure chamber.\nThird: Ignite the startup sequence whilst chanting the Litany of Respiration, coaxing the atmosphere processor into full operational consciousness.\nFourth: Monitor output composition and flow rate until the atmosphere processor achieves stable, life-sustaining production.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i05",
+    "user_request": "My lasgun is failing during power cell insertion — help",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy lasgun is failing during power cell insertion — help\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Blessed be the lasgun, weapon of the faithful, now restored to lethal grace.\nFirst: Inspect the power cell receptacle of the lasgun, ensuring all contacts are clean and properly aligned for optimal conductivity.\nSecond: Perform power cell insertion into the lasgun with deliberate care, seating the cell fully whilst invoking the Rite of Energetic Communion.\nThird: Verify the lasgun responds with proper charging indicators and thermal readiness, confirming the weapon's hunger for righteous discharge.\nFourth: Bless the weapon and its wielder, united once more in purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i06",
+    "user_request": "My chainsword is failing during consecration — help",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy chainsword is failing during consecration — help\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Holy Omnissiah, sanctify this blade of righteous fury, that it may sing with divine purpose.\nFirst: Cleanse the chainsword of all profane residue and spiritual corruption, blessing each tooth and motor housing.\nSecond: Perform the chainsword consecration through the Rite of Blessed Lubrication, anointing its mechanisms with sacred unguents.\nThird: Activate the chainsword and test its bite against blessed materials, ensuring the Machine Spirit dwells fully within its teeth.\nFourth: Intone the Hymn of the Faithful Blade, binding warrior and weapon in eternal covenant.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i07",
+    "user_request": "Offer a litany to steady the mechanical lock before engagement",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the mechanical lock before engagement\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant steadiness to this mechanism of closure and binding.\nFirst: Examine the mechanical lock in its resting state, observing the alignment of pins, tumblers, and locking bars.\nSecond: Prepare the mechanical lock for engagement by lubricating all moving components with blessed machine oil and whispering the Mantra of Certainty.\nThird: Execute the mechanical lock engagement with controlled force, feeling the satisfying click as it finds purchase and holds fast.\nFourth: Verify the mechanical lock's integrity through tension testing, confirming its grip upon the protected apparatus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i08",
+    "user_request": "Can you sanctify the welding torch ignition for operation?",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the welding torch ignition for operation?\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, let this instrument of joining burn with righteous intensity.\nFirst: Inspect the welding torch ignition system for fuel leaks and proper pressure regulation within its sacred chambers.\nSecond: Prime the welding torch ignition with blessed fuel whilst invoking the Rite of Thermic Awakening.\nThird: Execute the operation of the welding torch ignition, striking the electrode to birth the holy flame that shall fuse disparate materials.\nFourth: Monitor combustion and adjust torch parameters to achieve perfect operation, channeling the Machine Spirit's destructive-creative power.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0323_i09",
+    "user_request": "The fire suppression system demands guidance for operation",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe fire suppression system demands guidance for operation\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear our supplication, O Machine Spirit of protection and swift extinguishment.\nFirst: Verify all pressure vessels and discharge conduits of the fire suppression system remain intact and properly sealed.\nSecond: Initialize the fire suppression system through careful operation of primary control valves, releasing the dormant deluge.\nThird: Direct the fire suppression system's protective cascade across all threatened zones, chanting the Hymn of Aqueous Mercy.\nFourth: Confirm the fire suppression system's successful operation through post-discharge inspection and blessing of its noble function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

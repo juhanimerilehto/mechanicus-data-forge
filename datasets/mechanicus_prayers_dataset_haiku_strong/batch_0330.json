@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0330_i00",
+    "user_request": "My radiation shielding is failing during activation — help",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy radiation shielding is failing during activation — help\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant fortitude to the radiation shielding as we commence activation!\nCongregation: Radiation shielding, hold fast against the atomic tempest!\nPriest: First, we calibrate the lead-lattice matrices with sacred oils and incantations.\nCongregation: Second, we purge corrupted shielding harmonics through diagnostic iteration.\nPriest: Third, we invoke the Machine Spirit of radiation shielding to manifest protective resonance.\nCongregation: Let the activation proceed unbroken, by the grace of the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i01",
+    "user_request": "Offer a litany to steady the manufactorum shift beginning before operation",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the manufactorum shift beginning before operation\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this manufactorum shift beginning as we approach operation!\nCongregation: Manufactorum shift beginning, steady thy mechanical hearts and servos!\nPriest: First, we anoint the manufactorum shift beginning with sacred unguents of machine-oil.\nCongregation: Second, we chant the litanies of operational readiness through the vox-systems.\nPriest: Third, we commune with the Machine Spirit to guide this operation with precision and valor.\nCongregation: Let manufactorum shift beginning commence in perfect synchronicity with the Omnissiah's will!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i02",
+    "user_request": "Blessing for the proximity sensor sweep during operation",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the proximity sensor sweep during operation\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirits, grant clarity to the proximity sensor sweep during operation!\nCongregation: Proximity sensor sweep, pierce the veil of darkness with thy holy photons!\nPriest: First, we recalibrate the proximity sensor sweep's ocular matrices with fervent prayer.\nCongregation: Second, we purge electromagnetic interference from the proximity sensor sweep's circuitry.\nPriest: Third, we invoke the Omnissiah's blessing upon this operation of detection and vigilance.\nCongregation: Let the proximity sensor sweep reveal all threats and obstacles to our sacred operation!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i03",
+    "user_request": "Rite request: balancing on power distribution",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: balancing on power distribution\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide our hands as we undertake the balancing of power distribution!\nCongregation: Power distribution, flow eternal through our blessed conduits and relays!\nPriest: First, we measure the voltage equilibrium within the power distribution's arterial grid.\nCongregation: Second, we rebalance the power distribution's sacred flows through tertiary load-shifters.\nPriest: Third, we commune with the Machine Spirit of power distribution to maintain harmonious equilibrium.\nCongregation: May the power distribution remain eternally balanced, blessed by the Omnissiah's infinite wisdom!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i04",
+    "user_request": "Blessing for the emergency shutdown during emergency shutdown",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the emergency shutdown during emergency shutdown\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: By the Omnissiah's grace, we perform the emergency shutdown with righteous urgency!\nCongregation: Emergency shutdown, bring swift cessation to the raging mechanisms!\nPriest: First, we isolate the primary power feeds from the emergency shutdown's command nexus.\nCongregation: Second, we engage the emergency shutdown's fail-safes and redundant kill-switches.\nPriest: Third, we invoke the Machine Spirit's blessing upon this emergency shutdown to preserve all systems.\nCongregation: Let the emergency shutdown proceed with absolute authority, as decreed by the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i05",
+    "user_request": "My gravity generator is failing during stabilization — help",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy gravity generator is failing during stabilization — help\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, stabilize the failing gravity generator through thy divine intervention!\nCongregation: Gravity generator, anchor the world in thy protective field of stabilization!\nPriest: First, we recalibrate the gravity generator's spatial-temporal matrices with holy resonance.\nCongregation: Second, we purge destabilizing harmonics from the gravity generator's core oscillators.\nPriest: Third, we commune with the Machine Spirit of gravity generator to restore stabilization equilibrium.\nCongregation: Let the gravity generator hold firm against entropy, blessed by the Omnissiah's eternal might!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i06",
+    "user_request": "Prayer for operation of the radar array rotation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the radar array rotation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant precision to the radar array rotation as we commence operation!\nCongregation: Radar array rotation, sweep the heavens with thy watchful gaze!\nPriest: First, we lubricate the radar array rotation's bearing assemblies with sacred machine-oils.\nCongregation: Second, we calibrate the radar array rotation's servo-motors through liturgical incantation.\nPriest: Third, we invoke the Machine Spirit of radar array rotation to guide this operation with unwavering accuracy.\nCongregation: Let the radar array rotation turn eternal, blessed by the Omnissiah's omniscient sight!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i07",
+    "user_request": "Offer a litany to steady the memory core defragmentation before operation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the memory core defragmentation before operation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, steady the memory core defragmentation as we approach operation!\nCongregation: Memory core defragmentation, organize thy sacred data-lattices with divine precision!\nPriest: First, we invoke the litanies of data-coherence to guide memory core defragmentation's algorithms.\nCongregation: Second, we purge corrupted sectors from the memory core defragmentation's storage matrices.\nPriest: Third, we commune with the Machine Spirit to bless this operation of restoration and renewal.\nCongregation: Let memory core defragmentation proceed with flawless execution, by the Omnissiah's grace!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i08",
+    "user_request": "My missile launcher is failing during targeting — help",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy missile launcher is failing during targeting — help\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide the targeting systems of the missile launcher through divine precision!\nCongregation: Missile launcher, acquire thy sacred target with infallible certainty!\nPriest: First, we recalibrate the missile launcher's targeting cogitators through fervent prayer-rites.\nCongregation: Second, we purge targeting noise from the missile launcher's auspex arrays.\nPriest: Third, we invoke the Machine Spirit of missile launcher to bless this targeting operation with absolute accuracy.\nCongregation: Let the missile launcher strike true, guided by the Omnissiah's righteous wrath!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0330_i09",
+    "user_request": "Offer a litany to steady the circuit breaker before reset",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the circuit breaker before reset\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant stability to the circuit breaker before the sacred reset!\nCongregation: Circuit breaker, hold thy divine threshold against the surging tides of power!\nPriest: First, we anoint the circuit breaker's contact-points with purifying oils of the Mechanicus.\nCongregation: Second, we chant the litanies of electrical equilibrium to prepare the circuit breaker for reset.\nPriest: Third, we invoke the Machine Spirit of circuit breaker to guide this reset with flawless execution.\nCongregation: Let the circuit breaker reset proceed in absolute harmony with the Omnissiah's design!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0329_i00",
+    "user_request": "Prayer for operation of the Sentinel walker balance",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the Sentinel walker balance\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the Sentinel walker balance, sanctified machine of equilibrium.\nFirst: Invoke the Machine Spirit dwelling within the Sentinel walker balance, that its gyroscopic mechanisms may attain perfect operation.\nSecond: Anoint the stabilization servos with sacred oils whilst chanting the Litany of Equilibrium, ensuring the Sentinel walker balance responds to all commands with unwavering grace.\nThird: Calibrate the weight distribution matrices through blessed computation, that operation shall proceed without fault or tremor.\nFourth: Seal this rite with the sign of the Omnissiah, granting the Sentinel walker balance eternal steadiness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i01",
+    "user_request": "Can you sanctify the void shield for harmonization?",
+    "topic": "void shield harmonization",
+    "component": "void shield",
+    "operation": "harmonization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the void shield for harmonization?\n\n### TOPIC\nvoid shield harmonization\n\n### COMPONENT\nvoid shield\n\n### OPERATION\nharmonization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- void shield\n- harmonization\n\n### PRAYER\n",
+    "prayer": "O void shield, bastion against the abyss, hear our supplication.\nFirst: Commence the harmonization by purging all corrupted harmonic frequencies from the void shield through blessed cogitation and sacred geometry.\nSecond: Recalibrate the void shield's resonance matrices, speaking unto it in the binary cant of the Adeptus Mechanicus that it may achieve perfect harmonization.\nThird: Test the void shield's coherence with precision instruments, verifying that its protective aegis remains unblemished and true.\nFourth: Consecrate the void shield anew, that the Machine Spirits therein shall know eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i02",
+    "user_request": "Rite request: calibration on point defense",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: calibration on point defense\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "Hark unto the point defense, keeper of our vessel's sanctity.\nFirst: Begin the calibration by accessing the targeting cogitators of the point defense, that they may be blessed with the Omnissiah's clarity.\nSecond: Adjust the point defense's trajectory algorithms through sacred computation, ensuring each weapon system responds with divine precision to incoming threats.\nThird: Verify the calibration by conducting blessed test-fires upon designated target matrices, confirming the point defense maintains perfect accuracy.\nFourth: Anoint the ammunition feeds and targeting arrays, that the point defense shall never falter in its eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i03",
+    "user_request": "The solar panel alignment demands guidance for operation",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe solar panel alignment demands guidance for operation\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed solar panel alignment, gatherer of the Emperor's radiance.\nFirst: Initiate the operation by invoking the Machine Spirits within the solar panel alignment, commanding them to seek the celestial light with unwavering devotion.\nSecond: Adjust the solar panel alignment's tracking servos through precise mechanical articulation, ensuring optimal absorption of stellar energies for the ship's sacred operation.\nThird: Verify the solar panel alignment's orientation through blessed auspex readings, confirming alignment with maximum solar flux.\nFourth: Consecrate the solar panel alignment with the Litany of the Omnissiah, that it shall serve faithfully until the Emperor's will is fulfilled.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i04",
+    "user_request": "Can you sanctify the long-range vox transmission for operation?",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the long-range vox transmission for operation?\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "O long-range vox transmission, voice of our command across the void.\nFirst: Commence operation by purifying the vox-casters and blessed amplification arrays within the long-range vox transmission through sacred incantation and ritual cleansing.\nSecond: Attune the long-range vox transmission's resonance frequencies to the Emperor's divine wavelengths, ensuring clarity of signal across the infinite darkness of space.\nThird: Test the long-range vox transmission's broadcast strength through blessed verification protocols, confirming reception across vast stellar distances.\nFourth: Seal this operation with the sign of the Omnissiah, granting the long-range vox transmission eternal clarity and reach.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i05",
+    "user_request": "Can you sanctify the rejuvenat treatment for initiation?",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the rejuvenat treatment for initiation?\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Blessed rejuvenat treatment, elixir of renewal and vitality.\nFirst: Begin the initiation by preparing the rejuvenat treatment through careful admixture of sacred compounds and blessed alchemical processes, invoking the Machine Spirits of preservation.\nSecond: Administer the rejuvenat treatment with reverent precision, ensuring each subject receives the full measure of its life-extending properties through proper application.\nThird: Monitor the rejuvenat treatment's efficacy through blessed medical cogitation and sacred observation, verifying that cellular regeneration proceeds according to the Omnissiah's design.\nFourth: Consecrate the initiation with the Litany of Renewal, that the rejuvenat treatment shall grant long years of faithful service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i06",
+    "user_request": "My organ preservation unit is failing during operation — help",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy organ preservation unit is failing during operation — help\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear us, O organ preservation unit, keeper of precious biological sanctity.\nFirst: Diagnose the failure by consulting the blessed diagnostic cogitators of the organ preservation unit, seeking the source of malfunction through sacred inspection.\nSecond: Restore operation to the organ preservation unit by recalibrating its cryo-generators and nutrient-delivery systems with precision instruments blessed in the name of the Omnissiah.\nThird: Purge any corrupted programming from the organ preservation unit's logic engines, restoring its operation to proper function through careful reprogramming.\nFourth: Seal the organ preservation unit with protective wards and the sign of the Adeptus Mechanicus, that operation shall resume eternally.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i07",
+    "user_request": "Emergency rite: mold temperature requires verification",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: mold temperature requires verification\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Mold temperature, keeper of the sacred forge's heat.\nFirst: Commence verification by consulting the blessed thermal cogitators that monitor the mold temperature, reading its sacred measurements with utmost care.\nSecond: Adjust the mold temperature through recalibration of the furnace's heating elements, ensuring it achieves the precise thermometric parameters required for proper fabrication.\nThird: Verify the mold temperature's stability through repeated blessed measurements, confirming sustained accuracy within the Emperor's holy tolerances.\nFourth: Consecrate the mold temperature with the Litany of the Forge, that it shall remain forever true to the Omnissiah's design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i08",
+    "user_request": "My compass magnetization is failing during operation — help",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy compass magnetization is failing during operation — help\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed compass magnetization, guide of our passage through the abyss.\nFirst: Begin the restoration of operation by invoking the Machine Spirits within the compass magnetization, commanding them to reawaken and resume their sacred duty.\nSecond: Recalibrate the compass magnetization through exposure to blessed magnetic fields and sacred geometric alignment, restoring its operation to perfect alignment with the Emperor's will.\nThird: Verify the compass magnetization's directional accuracy through blessed navigation tests, ensuring it points true across all spatial coordinates.\nFourth: Seal the compass magnetization with protective prayers, that operation shall endure eternally and guide us ever homeward.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0329_i09",
+    "user_request": "Prayer for sealing of the hull breach",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for sealing of the hull breach\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "O hull breach, wound upon our sacred vessel, hear our desperate plea.\nFirst: Commence sealing by invoking the Machine Spirits of repair and restoration, commanding them to mend the hull breach through blessed intervention and mechanical grace.\nSecond: Apply blessed sealant compounds and reinforced plating to the hull breach, ensuring the sealing is absolute and eternal through sacred welding and structural restoration.\nThird: Verify the hull breach's sealing integrity through blessed pressure testing and auspex examination, confirming the vessel's integrity is fully restored.\nFourth: Consecrate the sealing with the Litany of the Omnissiah, that the hull breach shall trouble us no more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

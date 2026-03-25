@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Bless the displacer field for cooling",
+    "prayer": "Approach the displacer field with mechadendrite reverence, invoking the Omnissiah's chill.\nAnoint its phase coils with cryo-sanctified oils to commence the cooling operation.\nChant the Canticle of Thermal Void, beseeching the Machine Spirit's frosty obedience.\nCirculate blessed refrigerants through its sacred conduits thrice.\nVerify the displacer field's glacial equilibrium via auspex litanies of purity.",
+    "component": "displacer field",
+    "operation": "cooling",
+    "spec_id": "s06090"
+  },
+  {
+    "user_prompt": "Prepare the Archaeopter Transvector for startup",
+    "prayer": "Gather before the Archaeopter Transvector, offering binary praises to the Omnissiah.\nInitiate the startup sequence with ignition runes upon its motive furnaces.\nInvoke the Machine Spirit's wrathful awakening through throttle incantations.\nAnoint vectored thrusters with promethium sacraments as systems align.\nAscertain the Archaeopter Transvector's readiness by harmonious diagnostic hymns.\nSanctify final pre-flight calibrations in the name of the Machine God.",
+    "component": "Archaeopter Transvector",
+    "operation": "startup",
+    "spec_id": "s06091"
+  },
+  {
+    "user_prompt": "Consecrate the volkite weapon before engagement",
+    "prayer": "Kneel before the volkite weapon, consecrating its thermal heart to the Omnissiah.\nInvoke the Rite of Pyre-Blessing prior to engagement protocols.\nAnoint focusing lenses with sacred heat-sink oils, awakening the Machine Spirit.\nAlign disruption matrices whilst chanting the Canticle of Incandescent Fury.\nConsecrate the volkite weapon's discharge with final invokations of retribution.",
+    "component": "volkite weapon",
+    "operation": "engagement",
+    "spec_id": "s06093"
+  },
+  {
+    "user_prompt": "How do I bless the hunter-killer missile for operation?",
+    "prayer": "Present the hunter-killer missile to the altar of war, praising the Omnissiah's precision.\nInitiate operation blessings upon its guidance vanes and warhead sanctum.\nBeseech the Machine Spirit's predatory instinct with seeker litanies.\nAnoint seeker-head auspex with luminous oils for infallible pursuit.\nVerify the hunter-killer missile's lethal consecration through test-fire runes.\nLaunch in the name of the Motive Force eternal.",
+    "component": "hunter-killer missile",
+    "operation": "operation",
+    "spec_id": "s06094"
+  },
+  {
+    "user_prompt": "What's the prayer for narthecium a sterilization?",
+    "prayer": "Approach the narthecium with purity seals unbroken, invoking the Omnissiah's healing.\nCommence sterilization rites with autoclave incantations and sacred vapors.\nPurge contaminants from its surgical mechadendrites via plasma litanies.\nAnoint hypo-injectors with anti-septic unguents, appeasing the Machine Spirit.\nConfirm the narthecium's sterile sanctity through purity auspex scans.",
+    "component": "narthecium",
+    "operation": "sterilization",
+    "spec_id": "s06095"
+  },
+  {
+    "user_prompt": "Can you guide arc pistol a targeting?",
+    "prayer": "Grasp the arc pistol firmly, reciting the Oath of Electrified Judgement.\nCalibrate targeting matrices with sanctified auspex alignments.\nInvoke the Machine Spirit's lightning fury upon its capacitor coils.\nAnoint barrel vents with conductive oils for precise discharge.\nVerify arc pistol targeting verity through holographic rune projections.",
+    "component": "arc pistol",
+    "operation": "targeting",
+    "spec_id": "s06096"
+  },
+  {
+    "user_prompt": "Sanctify the gellar field during calibration",
+    "prayer": "Encircle the gellar field generator, chanting the Barrier Canticle to the Omnissiah.\nInitiate calibration sequences with warp-warding frequency incantations.\nBeseech the Machine Spirit's vigilant shimmer across null-plates.\nFine-tune lumen-flux harmonies whilst anointing core inductors.\nAffirm the gellar field's sanctified calibration via ethereal resonance tests.",
+    "component": "gellar field",
+    "operation": "calibration",
+    "spec_id": "s06097"
+  },
+  {
+    "user_prompt": "Guide me through waste reclamator a shutdown",
+    "prayer": "Stand vigilant over the waste reclamator, invoking the Cycle of Sanctified Renewal.\nCommence shutdown protocols with effluent drain litanies.\nPurge residual filth from reclamation tanks, appeasing the Machine Spirit.\nSeal conduits with purity welds and final ablution chants.\nVerify waste reclamator stasis through diagnostic closure hymns.",
+    "component": "waste reclamator",
+    "operation": "shutdown",
+    "spec_id": "s06098"
+  },
+  {
+    "user_prompt": "The phosphor blaster needs a reset",
+    "prayer": "Confront the phosphor blaster's errant lumens, beseeching Omnissian clarity.\nInitiate reset rites upon its emitter arrays with purging incantations.\nAnoint phosphor reservoirs with illuminating oils to rouse the Machine Spirit.\nCycle targeting gyros thrice in litanic revolution.\nConfirm phosphor blaster reset through flare-test sanctifications.",
+    "component": "phosphor blaster",
+    "operation": "reset",
+    "spec_id": "s06099"
+  }
+]

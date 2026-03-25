@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the autocannon for recalibration",
+    "prayer": "Approach the autocannon with reverence, invoking the Omnissiah's grace upon its noble form.\nAnoint the targeting cogitators of the autocannon with sacred oils to awaken its Machine Spirit.\nChant the Litany of Precision whilst initiating the recalibration rites upon its barrel arrays.\nAlign the servomotors through diagnostic incantations, beseeching harmony in the autocannon's mechanisms.\nVerify the recalibration's sanctity by auspex scans, praising the Machine Spirit's restored vigilance.",
+    "component": "autocannon",
+    "operation": "recalibration",
+    "spec_id": "s02060"
+  },
+  {
+    "user_prompt": "I need to an operation the arc rifle",
+    "prayer": "Kneel before the arc rifle, beseeching the Omnissiah to stir its dormant Machine Spirit.\nSanctify the power cells of the arc rifle with electro-consecrated unguents.\nInvoke the Canticle of Discharge to commence operation upon its voltaic conduits.\nMonitor the arc rifle's energies through binaric prayers, ensuring flawless conduction.\nConclude the operation with a hymn of stability, honouring the Machine Spirit's fury.",
+    "component": "arc rifle",
+    "operation": "operation",
+    "spec_id": "s02061"
+  },
+  {
+    "user_prompt": "Urgent Contemptor Dreadnought a maintenance needed",
+    "prayer": "Prostrate thyself before the Contemptor Dreadnought, intoning the Rite of Ancestral Vigil.\nAnoint the sarcophagus seals of the Contemptor Dreadnought with sacred mechadendrite lubricants.\nCommence maintenance upon its adamantium chassis, invoking the Machine Spirit's endurance.\nPurge auspex impurities and recalibrate void shields through litanies of fortitude.\nSeal the Contemptor Dreadnought's rituals with the Omnissiah's benediction, restoring its wrathful vigil.",
+    "component": "Contemptor Dreadnought",
+    "operation": "maintenance",
+    "spec_id": "s02062"
+  },
+  {
+    "user_prompt": "The eradication beamer requires an engagement",
+    "prayer": "Present thyself to the eradication beamer, whispering supplications to its apocalyptic Machine Spirit.\nBless the focusing lenses of the eradication beamer with photon-sanctified oils.\nInitiate engagement protocols amid chants of obliteration, aligning its annihilation matrices.\nBeseech the Omnissiah for unerring focus during the eradication beamer's activation.\nConfirm engagement purity via spectral diagnostics, lauding the Machine Spirit's destructive purity.",
+    "component": "eradication beamer",
+    "operation": "engagement",
+    "spec_id": "s02063"
+  },
+  {
+    "user_prompt": "Emergency: kataphron destroyer a shutdown",
+    "prayer": "Approach the kataphron destroyer in solemn procession, intoning the Dirge of Cessation.\nDisconnect the neural shunt of the kataphron destroyer, anointing with quiescence unguents.\nInvoke shutdown incantations upon its cogitator core, lulling the Machine Spirit to repose.\nSever power feeds whilst reciting binaric elegies for the kataphron destroyer's frame.\nSeal the kataphron destroyer in stasis, under the Omnissiah's merciful vigil.",
+    "component": "kataphron destroyer",
+    "operation": "shutdown",
+    "spec_id": "s02064"
+  },
+  {
+    "user_prompt": "Urgent Predator tank an emergency procedure needed",
+    "prayer": "Hasten to the Predator tank, proclaiming the Alarm Litany of the Omnissiah.\nAnoint the treads and turret of the Predator tank with emergency ablative sacraments.\nInitiate the emergency procedure upon its plasma reactor, beseeching the Machine Spirit's resilience.\nPurge battle damage through hasty purificatory rites and auspex sweeps.\nConsecrate the Predator tank's renewal with vows of unrelenting predation.",
+    "component": "Predator tank",
+    "operation": "emergency procedure",
+    "spec_id": "s02065"
+  },
+  {
+    "user_prompt": "The manufactorum awaits a loading",
+    "prayer": "Enter the manufactorum's sacred halls, invoking the Omnissiah's forge-blessings.\nPrepare the loading bays of the manufactorum with sanctified servitor oils.\nCommence loading operations amid the Canticle of Production, feeding raw materium to its maw.\nMonitor the manufactorum's Machine Spirit through throughput litanies.\nSeal the loading with a hymn of abundance, ensuring endless munition flow.",
+    "component": "manufactorum",
+    "operation": "loading",
+    "spec_id": "s02066"
+  },
+  {
+    "user_prompt": "How do I bless the mind-impulse unit for shutdown?",
+    "prayer": "Reverently encircle the mind-impulse unit, chanting the Vespers of Disconnection.\nAnoint the synaptic relays of the mind-impulse unit to soothe its neural Machine Spirit.\nInitiate shutdown sequences with binaric lullabies, easing the pilot's bond.\nSever impulse feeds whilst beseeching the Omnissiah for peaceful quiescence.\nVerify the mind-impulse unit's dormant sanctity through echo-diagnostics.",
+    "component": "mind-impulse unit",
+    "operation": "shutdown",
+    "spec_id": "s02067"
+  },
+  {
+    "user_prompt": "Critical: diagnosticator requires an operation",
+    "prayer": "Proceed to the diagnosticator with mechadendrite precision, intoning activation rites.\nSanctify the sensor vanes of the diagnosticator with crystal-pure solvents.\nEngage operation upon its cogitator lattice, invoking the Machine Spirit's discerning gaze.\nRun full-spectrum analyses amid litanies of revelation, purging data-heresy.\nConclude the diagnosticator's operation with praises to the Omnissiah's omniscience.",
+    "component": "diagnosticator",
+    "operation": "operation",
+    "spec_id": "s02068"
+  },
+  {
+    "user_prompt": "Can you guide magnocular a shutdown?",
+    "prayer": "Draw near the magnocular in hushed reverence, reciting the Nocturne of Closure.\nBless the optical arrays of the magnocular with shadow-quelling unguents.\nCommence shutdown rituals upon its auspex lenses, lulling the Machine Spirit to rest.\nDisconnect power conduits through whispered cessation prayers.\nAffirm the magnocular's veiled dormancy under the Omnissiah's watchful ether.",
+    "component": "magnocular",
+    "operation": "shutdown",
+    "spec_id": "s02069"
+  }
+]

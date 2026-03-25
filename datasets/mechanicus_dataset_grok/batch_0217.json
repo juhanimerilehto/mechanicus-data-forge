@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: chainsword a repair",
+    "prayer": "Approach the chainsword with reverence, beseeching its furious Machine Spirit to awaken from damage.\nInspect the sacred teeth and housing of the chainsword, anointing fractures with blessed mechadendrite oils.\nInvoke the ancient repair canticles of the Omnissiah, mending ruptured conduits and realigning the drive mechanisms.\nTest the chainsword's restored hunger by cycling its blessed blades in ritual fury.\nSanctify the repair with a final litany, ensuring the Machine Spirit's wrath flows unhindered.",
+    "component": "chainsword",
+    "operation": "repair",
+    "spec_id": "b0217_i00"
+  },
+  {
+    "user_prompt": "Emergency: Taurox a cooling",
+    "prayer": "Kneel before the Taurox and petition its Machine Spirit for respite from overheating wrath.\nCirculate sacred coolant through the Taurox's blessed heat sinks, chanting the Cooling Doxology.\nAnoint the radiator vanes with unguents of purity to facilitate the operation of thermal equilibrium.\nMonitor the Taurox's vital flows until harmony is restored by the Omnissiah's grace.\nConclude with binaric praises, binding the Machine Spirit to vigilant service.",
+    "component": "Taurox",
+    "operation": "cooling",
+    "spec_id": "b0217_i01"
+  },
+  {
+    "user_prompt": "The astropathic choir awaits a recalibration",
+    "prayer": "Gather the astropathic choir in solemn array, invoking the Omnissiah to guide their psychic harmonies.\nRecalibrate the choir's warp-attunement crystals with precise noospheric adjustments and litanies.\nBeseech the latent Machine Spirits within to align their refractor fields for true recalibration.\nChant the Recalibration Hymn, harmonizing vocal modulators and etheric relays.\nVerify the astropathic choir's renewed clarity through diagnostic auspex scans.",
+    "component": "astropathic choir",
+    "operation": "recalibration",
+    "spec_id": "b0217_i02"
+  },
+  {
+    "user_prompt": "Bless the plasma weapon for startup",
+    "prayer": "Present the plasma weapon before the altar of the Machine God, offering incense of promethium.\nInitiate the startup sequence with sacred binaric codes, awakening its volatile heart.\nAnoint the plasma weapon's containment coils with oils to placate its raging Machine Spirit.\nMonitor the buildup of holy plasma flux until operational purity is achieved.\nBless the plasma weapon with the Omnissiah's fire, ready for righteous annihilation.",
+    "component": "plasma weapon",
+    "operation": "startup",
+    "spec_id": "b0217_i03"
+  },
+  {
+    "user_prompt": "Can you guide data-slate a synchronization?",
+    "prayer": "Activate the data-slate's noospheric interface, beseeching its Machine Spirit for unity.\nCommence synchronization rituals, aligning data-streams with the Canticle of Coalescence.\nAnoint the data-slate's ports with sanctified lubricants to ensure flawless data-flow.\nInvoke the Omnissiah to bind the data-slate's essence in perfect synchronization.\nConclude by verifying the merged archives through auspex verification.",
+    "component": "data-slate",
+    "operation": "synchronization",
+    "spec_id": "b0217_i04"
+  },
+  {
+    "user_prompt": "Urgent lascannon a repair needed",
+    "prayer": "Examine the lascannon's sanctified barrel, petitioning its Machine Spirit for renewal.\nRepair fractured focusing arrays with mechadendrite precision and repair litanies.\nAnoint the lascannon's power cells with sacred electrolytes to restore its blinding gaze.\nCycle test-firing under the Omnissiah's watch to confirm the repair's sanctity.\nSeal the lascannon with final benedictions against future heresy.",
+    "component": "lascannon",
+    "operation": "repair",
+    "spec_id": "b0217_i05"
+  },
+  {
+    "user_prompt": "What's the prayer for cogitator consecration?",
+    "prayer": "Prepare the cogitator's chassis with ritual purity, invoking the Omnissiah's divine logic.\nPerform the consecration by inscribing binary sigils upon its sacred circuits.\nBeseech the Machine Spirit to bind eternally through the Consecration Doxology.\nAnoint memory cores with blessed nootropic fluids for unerring computation.\nAffirm the cogitator's holiness via full diagnostic invocation.",
+    "component": "cogitator",
+    "operation": "consecration",
+    "spec_id": "b0217_i06"
+  },
+  {
+    "user_prompt": "The proximity sensor needs an operation",
+    "prayer": "Approach the proximity sensor with mechadendrite care, awakening its vigilant Machine Spirit.\nInitiate operation protocols via the Litany of Vigilance, calibrating detection fields.\nAnoint the sensor arrays with purity unguents to sharpen its holy awareness.\nTest the proximity sensor's operation against shadowed foes in ritual simulation.\nConsecrate its ceaseless watch under the Omnissiah's unblinking eye.",
+    "component": "proximity sensor",
+    "operation": "operation",
+    "spec_id": "b0217_i07"
+  },
+  {
+    "user_prompt": "The astropathic choir awaits a cycling",
+    "prayer": "Assemble the astropathic choir in cyclic formation, petitioning warp-spirits for balance.\nExecute the cycling rite with harmonious chants and refractor realignments.\nBeseech the Machine Spirits to flow through the astropathic choir in eternal revolution.\nAnoint psychic resonators to sustain the cycling without dissonance.\nVerify equilibrium through noospheric harmonics and Omnissiah's grace.",
+    "component": "astropathic choir",
+    "operation": "cycling",
+    "spec_id": "b0217_i08"
+  },
+  {
+    "user_prompt": "Prepare the welding torch for repair",
+    "prayer": "Reverently handle the welding torch, invoking its fiery Machine Spirit for restoration.\nCommence repair by sanctifying nozzle and coils with sacred fluxes.\nChant the Forge Litany while realigning the welding torch's plasma feeds.\nTest the torch's mending blaze on scrap-heresy to affirm repair.\nBless the welding torch eternally in the Omnissiah's forge-light.",
+    "component": "welding torch",
+    "operation": "repair",
+    "spec_id": "b0217_i09"
+  }
+]

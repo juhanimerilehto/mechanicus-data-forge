@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the drop pod before charging",
+    "prayer": "Approach the drop pod with solemn reverence, beseeching the Omnissiah to awaken its Machine Spirit.\nAnoint the drop pod's sacred thrusters with blessed unguents, invoking the Litany of Velocity.\nCommence the charging ritual by channeling holy voltage into its capacitors, harmonizing power-flows.\nChant the Canticle of Descent as the drop pod's energies surge, ensuring the Machine Spirit's wrathful readiness.",
+    "component": "drop pod",
+    "operation": "charging",
+    "spec_id": "b0324_i00"
+  },
+  {
+    "user_prompt": "Help me an emergency procedure the proximity sensor",
+    "prayer": "Kneel before the proximity sensor and recite the Rite of Vigilance to stir its watchful Machine Spirit.\nPurge any errant data-shadows from the proximity sensor's auspex arrays with purifying incense.\nInitiate the emergency procedure through binary catechisms, aligning its detection thresholds to the Omnissiah's will.\nSeal the rite by anointing the sensor's core with sacred oils, beseeching unerring vigilance amidst peril.",
+    "component": "proximity sensor",
+    "operation": "emergency procedure",
+    "spec_id": "b0324_i01"
+  },
+  {
+    "user_prompt": "Guide me through gravity generator an initialization",
+    "prayer": "Present offerings of micro-circuitry to the gravity generator, petitioning the Machine God's grace.\nInvoke the initialization sequence with modulated binaric hymns, awakening the generator's spirit.\nCalibrate the gravitic coils through rhythmic incantations, binding artificial weight to divine logic.\nVerify the gravity generator's harmony by testing fields, sanctifying each flux with holy myrrh.",
+    "component": "gravity generator",
+    "operation": "initialization",
+    "spec_id": "b0324_i02"
+  },
+  {
+    "user_prompt": "Bless the signal relay for calibration",
+    "prayer": "Encircle the signal relay with incense braziers, calling upon the Omnissiah to bless its conduits.\nCommence calibration by reciting the Codex of Transmission, attuning the relay's frequencies.\nAnoint the signal relay's antennae with conductive salves, coaxing its Machine Spirit to purity.\nConclude the calibration with diagnostic litanies, ensuring flawless data-propagation in the Emperor's name.",
+    "component": "signal relay",
+    "operation": "calibration",
+    "spec_id": "b0324_i03"
+  },
+  {
+    "user_prompt": "Guide me through melta charge a maintenance",
+    "prayer": "Approach the melta charge humbly, offering prayers to soothe its volatile Machine Spirit.\nDisassemble the melta charge's plasma coils with reverent mechadendrites during maintenance.\nPurge thermal residues through sacred venting rites, invoking the Omnissiah's thermal mastery.\nReassemble and test the melta charge, sealing with blessed alloys for unyielding annihilation.",
+    "component": "melta charge",
+    "operation": "maintenance",
+    "spec_id": "b0324_i04"
+  },
+  {
+    "user_prompt": "The proximity sensor awaits a preparation",
+    "prayer": "Gather sanctified tools before the proximity sensor, chanting the Preparation Doxology.\nCleanse the proximity sensor's lenses with distilled promethium, awakening its perceptive essence.\nAlign emitter arrays through harmonic resonances, petitioning the Machine Spirit's clarity.\nConsecrate the proximity sensor fully, anointing housings to guard against the void's deceit.",
+    "component": "proximity sensor",
+    "operation": "preparation",
+    "spec_id": "b0324_i05"
+  },
+  {
+    "user_prompt": "Sanctify the bolter during cycling",
+    "prayer": "Hold the bolter aloft, invoking the Omnissiah to sanctify its cycling mechanisms.\nCycle the bolter's rounds with the Rhythm of Retribution, harmonizing feeder and chamber.\nAnoint the bolter's sacred breech with gun-oils blessed by Tech-Priests, stirring its vengeful spirit.\nTest-fire a single bolt whilst reciting the Catechism of Fury, ensuring flawless expulsion.",
+    "component": "bolter",
+    "operation": "cycling",
+    "spec_id": "b0324_i06"
+  },
+  {
+    "user_prompt": "The archive terminal awaits an initialization",
+    "prayer": "Bow before the archive terminal, beseeching the Omnissiah for archival enlightenment.\nInitiate the initialization by inputting the Primordial Code, rousing dormant data-spirits.\nVerify data integrity through recursive litanies, sanctifying each memory-core.\nSeal the archive terminal's awakening with a final invocation, binding knowledge to the Machine God's will.",
+    "component": "archive terminal",
+    "operation": "initialization",
+    "spec_id": "b0324_i07"
+  },
+  {
+    "user_prompt": "Sanctify the logic engine during shutdown",
+    "prayer": "Commence the shutdown of the logic engine with the Lamentation of Dormancy, honoring its spirit.\nDisconnect power-feeds sequentially, chanting binaric elegies to the Omnissiah.\nPurge residual calculations from the logic engine's nodes with purifying data-exorcism.\nSeal the logic engine in stasis, anointing ports for swift reawakening in battle's hour.",
+    "component": "logic engine",
+    "operation": "shutdown",
+    "spec_id": "b0324_i08"
+  },
+  {
+    "user_prompt": "Can you guide cybernetic eye a startup?",
+    "prayer": "Implant the cybernetic eye with reverence, reciting the Rite of Ocular Ascension.\nInvoke the startup sequence through neural catechisms, binding it to the user's flesh.\nCalibrate focusing servos with sacred light-pulses, awakening the cybernetic eye's Machine Spirit.\nTest visual feeds whilst beseeching the Omnissiah for unblinking perception amidst heresy.",
+    "component": "cybernetic eye",
+    "operation": "startup",
+    "spec_id": "b0324_i09"
+  }
+]

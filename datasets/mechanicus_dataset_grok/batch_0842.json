@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the Dreadnought during reset",
+    "prayer": "Approach the mighty Dreadnought with reverence, beseeching the Omnissiah for its reset.\nInitiate the reset sequence upon its sarcophagus core, purging errant data-daemons.\nAnoint the lexmechanic interfaces with sacred unguents as the Machine Spirit stirs.\nChant the Canticle of Reawakening to sanctify the Dreadnought's eternal vigil.\nVerify auspex integrity, praising the Dreadnought's renewed wrath.",
+    "component": "Dreadnought",
+    "operation": "reset",
+    "spec_id": "s04420"
+  },
+  {
+    "user_prompt": "I need to a consecration the standard template construct",
+    "prayer": "Kneel before the standard template construct, invoking the Omnissiah's ancient designs.\nAnoint its crystalline matrices with consecrated oils for the consecration rite.\nRecite the Doxology of Purity, awakening dormant Machine Spirits within.\nSeal the standard template construct's sanctity with binary psalms of endurance.\nAffirm its flawless replication through noospheric communion.",
+    "component": "standard template construct",
+    "operation": "consecration",
+    "spec_id": "s04421"
+  },
+  {
+    "user_prompt": "Help me a startup the microbead",
+    "prayer": "Grasp the microbead in sanctified mechadendrites, murmuring the startup invocation.\nInterface vox-circuits with litanies, beseeching the Machine Spirit's clarity.\nInitiate the startup sequence, calibrating frequencies to Omnissiah's harmony.\nTest the microbead's communion with binaric hails of vigilance.\nBless its eternal whispers across the void.",
+    "component": "microbead",
+    "operation": "startup",
+    "spec_id": "s04422"
+  },
+  {
+    "user_prompt": "The narthecium needs a loading",
+    "prayer": "Present the narthecium upon the medicae altar for loading preparations.\nInfuse its pharma-reservoirs with blessed reagents amid binaric hymns.\nInvoke the healing Machine Spirit during the solemn loading cycle.\nSanctify the narthecium's injectors, sealing against profane corruptions.\nVerify purity through chem-auspex, honoring the Omnissiah's mercy.",
+    "component": "narthecium",
+    "operation": "loading",
+    "spec_id": "s04423"
+  },
+  {
+    "user_prompt": "Critical: plasma pistol requires a calibration",
+    "prayer": "Seize the plasma pistol, intoning the Calibration Canticle of flux mastery.\nAlign plasma coils with precision mechadendrites under Omnissiah's gaze.\nExecute the calibration rite, expunging containment anomalies.\nTest-fire sanctified bolts into the heretic void, affirming the plasma pistol's fury.\nPraise its thermal purity restored.",
+    "component": "plasma pistol",
+    "operation": "calibration",
+    "spec_id": "s04424"
+  },
+  {
+    "user_prompt": "The lightning claw awaits a cooling",
+    "prayer": "Approach the lightning claw, its talons aglow with battle's residue.\nInitiate the cooling cycle with cryogenic sacraments to soothe the Machine Spirit.\nAnoint adamantium blades whilst reciting Litanies of Thermal Repose.\nMonitor auspex vents until the lightning claw achieves sanctified chill.\nInvoke Omnissiah's endurance for its rending grasp.",
+    "component": "lightning claw",
+    "operation": "cooling",
+    "spec_id": "s04425"
+  },
+  {
+    "user_prompt": "Guide me through manipulator mechadendrite a consecration",
+    "prayer": "Extend the manipulator mechadendrite before the Omnissiah's shrine.\nConsecrate its servo-motors with electro-incense and holy lubricants.\nAwaken grasping spirits through binaric consecration chants.\nTest manipulative dexterity in ritual forms, honoring the manipulator mechadendrite.\nSeal its obedience with noospheric benediction.",
+    "component": "manipulator mechadendrite",
+    "operation": "consecration",
+    "spec_id": "s04426"
+  },
+  {
+    "user_prompt": "My radium carbine is ready for synchronization",
+    "prayer": "Shoulder the radium carbine, beseeching synchronization with augmetic sinews.\nLink rad-emitter arrays via noospheric rite, invoking harmonious Machine Spirits.\nChant the Synchronization Psalm to align lethal rad-emanations.\nConfirm the radium carbine's unity through targeting litanies.\nPraise its irradiated precision eternal.",
+    "component": "radium carbine",
+    "operation": "synchronization",
+    "spec_id": "s04427"
+  },
+  {
+    "user_prompt": "Prepare the auto-senses array for emergency procedure",
+    "prayer": "Mobilize the auto-senses array for emergency procedure, crying to the Omnissiah.\nPurge sensor corruptions with diagnostic purges in the emergency procedure.\nRealign optic and auditory servos amid Litanies of Perceptual Clarity.\nValidate the auto-senses array's hyper-vigilance against xenos perils.\nSanctify its unblinking gaze.",
+    "component": "auto-senses array",
+    "operation": "emergency procedure",
+    "spec_id": "s04428"
+  },
+  {
+    "user_prompt": "The pteraxii sterylizor needs a diagnostics",
+    "prayer": "Present the pteraxii sterylizor for diagnostics, probing with mechadendrite auspex.\nInitiate deep diagnostic scans of toxin reservoirs and flight servitors.\nInterrogate the Machine Spirit's compliance throughout diagnostics.\nExpunge any heretical variances, restoring lethal sanctity.\nAffirm the pteraxii sterylizor's winged purity.",
+    "component": "pteraxii sterylizor",
+    "operation": "diagnostics",
+    "spec_id": "s04429"
+  }
+]

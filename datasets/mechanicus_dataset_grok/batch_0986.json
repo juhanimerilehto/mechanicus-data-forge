@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with omni-tool a blessing",
+    "prayer": "Approach the omni-tool with mechadendrites outstretched in veneration.\nInvoke the Omnissiah's grace to bestow blessing upon the omni-tool's sacred mechanisms.\nAnoint its multi-faceted heads with sacred oils whilst beseeching the Machine Spirit's favour.\nChant the Rite of Blessing over the omni-tool, harmonizing its manifold functions.\nVerify the blessed resonance within the omni-tool through auspex invocation.",
+    "component": "omni-tool",
+    "operation": "blessing",
+    "spec_id": "s05860"
+  },
+  {
+    "user_prompt": "Emergency: waste reclamator a blessing",
+    "prayer": "Kneel urgently before the waste reclamator and intone the Canticle of Purification.\nPour lustral elixirs upon the waste reclamator's reclamation coils in blessing.\nBeseech the Omnissiah to grant swift blessing to the waste reclamator's processors.\nCommand the Machine Spirit of the waste reclamator to arise in sanctified purity.\nSeal the blessing with electro-incantations, purging all unclean essences.",
+    "component": "waste reclamator",
+    "operation": "blessing",
+    "spec_id": "s05861"
+  },
+  {
+    "user_prompt": "Sanctify the Hellhound during calibration",
+    "prayer": "Encircling the Hellhound, recite the Litany of Infernal Precision during calibration.\nSanctify the Hellhound's promethium injectors with ablative unguents.\nInvoke the Machine Spirits of the Hellhound to align in Omnissian calibration.\nAdjust the Hellhound's auspex arrays whilst chanting alignment doxologies.\nConfirm the Hellhound's sanctified calibration through plasma-flame augury.",
+    "component": "Hellhound",
+    "operation": "calibration",
+    "spec_id": "s05862"
+  },
+  {
+    "user_prompt": "Help me a synchronization the Whirlwind",
+    "prayer": "Commence synchronization by laying hands upon the Whirlwind's vox-relays.\nChant the Hymn of Coherent Frequencies to synchronize the Whirlwind's missile batteries.\nBeseech the Omnissiah for unity within the Whirlwind's cogitator core.\nAnoint targeting servos of the Whirlwind, invoking harmonious Machine Spirits.\nTest the Whirlwind's synchronization with thunderous salvo incantation.",
+    "component": "Whirlwind",
+    "operation": "synchronization",
+    "spec_id": "s05863"
+  },
+  {
+    "user_prompt": "What's the prayer for enginarium a preparation?",
+    "prayer": "Prepare the enginarium by circumambulating its plasma conduits in reverence.\nIgnite preparation rites with sacred promethium flares upon the enginarium's heart.\nInvoke the Machine Spirits of the enginarium to ready for Omnissian labours.\nAnoint turbine housings whilst reciting the Canticle of Preparable Vigour.\nSeal enginarium preparation through harmonic resonance diagnostics.",
+    "component": "enginarium",
+    "operation": "preparation",
+    "spec_id": "s05864"
+  },
+  {
+    "user_prompt": "What's the prayer for data-loom an activation?",
+    "prayer": "Position before the data-loom and utter the Incantation of Data Awakening.\nInitiate activation by threading binary litanies through the data-loom's spools.\nBeseech the Omnissiah to enliven the Machine Spirit within the data-loom.\nWeave activation protocols with mechadendrite precision upon the data-loom.\nAffirm activation success via noospheric weave verification.",
+    "component": "data-loom",
+    "operation": "activation",
+    "spec_id": "s05865"
+  },
+  {
+    "user_prompt": "Assist with servo-skull a consecration",
+    "prayer": "Elevate the servo-skull in consecrated suspensors for consecration.\nIntone the Rite of Bone-Binding over the servo-skull's auspex orbs.\nAnoint the servo-skull's cranial implants with sanctified myrrh-unguents.\nInvoke the Omnissiah to bind the Machine Spirit eternally to the servo-skull.\nConclude consecration with hovering aegis invocation and optic alignment.",
+    "component": "servo-skull",
+    "operation": "consecration",
+    "spec_id": "s05866"
+  },
+  {
+    "user_prompt": "How do I bless the Contemptor Dreadnought for shutdown?",
+    "prayer": "Approach the Contemptor Dreadnought in solemn procession for shutdown.\nBless its sarcophagus seals whilst chanting the Lullaby of Dormant Ancients.\nBeseech the Machine Spirit of the Contemptor Dreadnought to embrace peaceful repose.\nInitiate blessed shutdown sequences upon the Contemptor Dreadnought's cogitators.\nSeal with Omnissian wards, ensuring vigilant slumber within the Contemptor Dreadnought.",
+    "component": "Contemptor Dreadnought",
+    "operation": "shutdown",
+    "spec_id": "s05867"
+  },
+  {
+    "user_prompt": "Ready the amplivisor for initialization",
+    "prayer": "Attune the amplivisor's lenses with reverent mechadendrite caresses.\nCommence initialization by reciting the Doxology of Augmented Vision.\nInvoke the Machine Spirit of the amplivisor to awaken in crystalline clarity.\nCalibrate amplification matrices during initialization with sacred volt-chants.\nVerify amplivisor initialization through spectral harmony auspex.",
+    "component": "amplivisor",
+    "operation": "initialization",
+    "spec_id": "s05868"
+  },
+  {
+    "user_prompt": "Sanctify the cryo-chamber during cooling",
+    "prayer": "Encincture the cryo-chamber and intone the Canticle of Eternal Frost.\nSanctify cooling coils of the cryo-chamber with cryo-lustral vapours.\nBeseech Omnissiah's chill breath upon the cryo-chamber's thermodynamic heart.\nInitiate cooling rites whilst anointing the cryo-chamber's stasis fields.\nConfirm sanctified cooling through cryogenic entropy diagnostics.",
+    "component": "cryo-chamber",
+    "operation": "cooling",
+    "spec_id": "s05869"
+  }
+]

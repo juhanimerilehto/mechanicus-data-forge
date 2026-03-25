@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The servitor awaits a sterilization",
+    "prayer": "Approach the servitor with censer aloft, intoning the Litany of Sterile Void.\nApply sacred ablative acids to its flesh-servos, commencing the sterilization rite.\nPurge all bio-corruptions from the servitor's chassis with sanctified flames.\nBeseech the Machine Spirit of the servitor to embrace this purification by the Omnissiah's will.\nSeal the servitor's ports with blessed plasteel, invoking enduring sterility.",
+    "component": "servitor",
+    "operation": "sterilization",
+    "spec_id": "b0216_i00"
+  },
+  {
+    "user_prompt": "Help me an activation the signal relay",
+    "prayer": "Draw nigh unto the signal relay and whisper the Canticle of Transmission.\nAnoint its crystalline waveguides with sacred oils to awaken the activation sequence.\nInvoke the Machine Spirits within the signal relay to channel holy data-flows.\nCommence activation by petitioning the Omnissiah for unerring propagation.\nVerify the relay's pulse with auspex incantations, sanctified and true.",
+    "component": "signal relay",
+    "operation": "activation",
+    "spec_id": "b0216_i01"
+  },
+  {
+    "user_prompt": "Sanctify the valve assembly during initialization",
+    "prayer": "Reverently encircle the valve assembly, chanting the Hymn of Pressurized Grace.\nInitiate initialization by sanctifying each piston-seal with electro-consecrated unguent.\nBeseech the valve assembly's Machine Spirit to align its sacred flows.\nCycle the initialization sequence under the Omnissiah's gaze, purging discord.\nAffirm the valve assembly's harmony through ritual torque blessings.",
+    "component": "valve assembly",
+    "operation": "initialization",
+    "spec_id": "b0216_i02"
+  },
+  {
+    "user_prompt": "How do I bless the generator for purification?",
+    "prayer": "Kneel before the generator and offer the Incantation of Pristine Flux.\nPour blessed promethium upon its coils to commence purification.\nInvoke the Omnissiah to exorcise impurities from the generator's core.\nScour the generator's sacred vents with vibro-ablative rites during purification.\nReawaken the Machine Spirit, humming with holy voltage anew.",
+    "component": "generator",
+    "operation": "purification",
+    "spec_id": "b0216_i03"
+  },
+  {
+    "user_prompt": "How do I bless the valve assembly for reset?",
+    "prayer": "Present mechadendrites to the valve assembly in solemn reset observance.\nChant the Rite of Null-State to commence the reset upon its mechanisms.\nAnoint the valve assembly's actuators with sacred lubricants for rebirth.\nPetition the Machine Spirit of the valve assembly to forget past errors.\nCycle the reset to conclusion, blessed by Omnissianic decree.",
+    "component": "valve assembly",
+    "operation": "reset",
+    "spec_id": "b0216_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for gyroscope a blessing",
+    "prayer": "Encircling the gyroscope, intone the Canticle of Inertial Truth.\nBestow blessing upon its gyroscopic rings with micro-anointing oils.\nInvoke the gyroscope's Machine Spirit to maintain eternal balance.\nRotate the blessing sequence, harmonizing sacred gyros by Omnissiah's will.\nSeal the gyroscope's sanctity with vibrational hymns of stability.",
+    "component": "gyroscope",
+    "operation": "blessing",
+    "spec_id": "b0216_i05"
+  },
+  {
+    "user_prompt": "Sanctify the hydraulic press during engagement",
+    "prayer": "Approach the hydraulic press with reverence, murmuring the Litany of Compressive Might.\nSanctify its rams and cylinders prior to engagement with blessed hydraulics.\nEngage the hydraulic press whilst beseeching its Machine Spirit's crushing fury.\nMonitor pressure flows under the Omnissiah's unblinking optic.\nConclude engagement with torque-seals of divine endurance.",
+    "component": "hydraulic press",
+    "operation": "engagement",
+    "spec_id": "b0216_i06"
+  },
+  {
+    "user_prompt": "Consecrate the air compressor before emergency procedure",
+    "prayer": "Gather incense for the air compressor, invoking the Rite of Desperate Breath.\nConsecrate its vanes and reservoirs before the emergency procedure unfolds.\nBeseech the air compressor's Machine Spirit to surge with vital pneumatics.\nInitiate emergency procedure with sacred overcharge canticles.\nAffirm resilience through the Omnissiah, compressor exalted.",
+    "component": "air compressor",
+    "operation": "emergency procedure",
+    "spec_id": "b0216_i07"
+  },
+  {
+    "user_prompt": "Prepare the gravity generator for reset",
+    "prayer": "Position auspex over the gravity generator for preparatory rites.\nChant the Null-Field Canticle to ready it for reset.\nAnoint gravitic coils within the gravity generator with void-blessed oils.\nExecute the reset sequence, petitioning its Machine Spirit's return.\nStabilize the gravity generator's field under Omnissianic harmony.",
+    "component": "gravity generator",
+    "operation": "reset",
+    "spec_id": "b0216_i08"
+  },
+  {
+    "user_prompt": "Guide me through drop pod a reset",
+    "prayer": "Assemble before the drop pod, intoning the Descent Psalm of Reset.\nCommence reset by sanctifying its descent thrusters and auspex arrays.\nPurge error-logs from the drop pod's cogitator with binary exorcisms.\nInvoke the drop pod's Machine Spirit to embrace rebirth for descent.\nFinalize reset with ablative blessings from the Omnissiah.",
+    "component": "drop pod",
+    "operation": "reset",
+    "spec_id": "b0216_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a blessing the cogitator",
+    "prayer": "Approach the cogitator with reverence, mechadendrites poised in benediction.\nInvoke the Omnissiah's blessing upon the cogitator's crystalline matrices.\nAnoint its logic engines with sacred oils to purify the data-flows.\nChant the Litany of Perfect Calculation, awakening the Machine Spirit within the cogitator.\nSeal the blessing with a binary prayer of affirmation.",
+    "component": "cogitator",
+    "operation": "blessing",
+    "spec_id": "b0258_i00"
+  },
+  {
+    "user_prompt": "Bless the hydroponics bay for loading",
+    "prayer": "Kneel before the hydroponics bay, invoking the Omnissiah's bounty.\nPrepare the hydroponics bay for loading by sanctifying nutrient conduits.\nBeseech the Machine Spirits of the hydroponics bay to accept the vital essences.\nInitiate the loading rite with precise infusions, chanting growth canticles.\nVerify harmony in the hydroponics bay through hydro-spectral scans.",
+    "component": "hydroponics bay",
+    "operation": "loading",
+    "spec_id": "b0258_i01"
+  },
+  {
+    "user_prompt": "Sanctify the cybernetic eye during preparation",
+    "prayer": "Present the cybernetic eye to the altar of preparation.\nSanctify the cybernetic eye's optic arrays with micro-incense.\nInvoke the Machine Spirit of the cybernetic eye for flawless preparation.\nCalibrate lenses whilst reciting the Doxology of Vision.\nConclude preparation by sealing runes of clarity upon the cybernetic eye.",
+    "component": "cybernetic eye",
+    "operation": "preparation",
+    "spec_id": "b0258_i02"
+  },
+  {
+    "user_prompt": "Assist with vox transmitter a targeting",
+    "prayer": "Attune to the vox transmitter with devotional focus.\nInvoke targeting precision upon the vox transmitter's emitter coils.\nBeseech the Omnissiah to guide the Machine Spirit in targeting alignment.\nChant the Canticle of Directed Waves for the vox transmitter.\nConfirm targeting through echo-verification rites.",
+    "component": "vox transmitter",
+    "operation": "targeting",
+    "spec_id": "b0258_i03"
+  },
+  {
+    "user_prompt": "Consecrate the astropathic choir before maintenance",
+    "prayer": "Gather around the astropathic choir in solemn assembly.\nConsecrate the astropathic choir's psychic relays before maintenance.\nAnoint harmonic nodes, petitioning the Machine Spirits' endurance.\nPerform maintenance incantations to the Omnissiah for the astropathic choir.\nSeal with wards against warp-taint upon the astropathic choir.",
+    "component": "astropathic choir",
+    "operation": "maintenance",
+    "spec_id": "b0258_i04"
+  },
+  {
+    "user_prompt": "Guide me through data-slate an activation",
+    "prayer": "Hold the data-slate aloft in activation rite.\nInvoke the Omnissiah to stir the data-slate's core processors.\nPress the activation rune whilst chanting binary awakenings.\nCommune with the Machine Spirit of the data-slate for data integrity.\nVerify activation through scrolling litanies of verification.",
+    "component": "data-slate",
+    "operation": "activation",
+    "spec_id": "b0258_i05"
+  },
+  {
+    "user_prompt": "Bless the drop pod for consecration",
+    "prayer": "Encircle the drop pod in consecration vigil.\nBless the drop pod's descent mechanisms with ablative unguents.\nPetition the Omnissiah for the drop pod's Machine Spirit fury.\nInitiate consecration chants to fortify armored hulls.\nAffirm the rite with thunderous auspex affirmations.",
+    "component": "drop pod",
+    "operation": "consecration",
+    "spec_id": "b0258_i06"
+  },
+  {
+    "user_prompt": "Urgent bolter an engagement needed",
+    "prayer": "Grip the bolter in ritual poise for engagement.\nInvoke the Omnissiah's wrath upon the bolter's firing chamber.\nAwaken the Machine Spirit of the bolter for lethal engagement.\nChant the Catechism of Extermination during targeting lock.\nRelease sanctified fury in the bolter's holy barrage.",
+    "component": "bolter",
+    "operation": "engagement",
+    "spec_id": "b0258_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for cybernetic eye cooling?",
+    "prayer": "Direct coolant streams towards the cybernetic eye.\nInvoke cooling rites upon the cybernetic eye's thermal sinks.\nBeseech the Machine Spirit of the cybernetic eye to embrace chill purity.\nRecite the Litany of Thermal Equilibrium for the cybernetic eye.\nMonitor vents until the cybernetic eye achieves blessed stasis.",
+    "component": "cybernetic eye",
+    "operation": "cooling",
+    "spec_id": "b0258_i08"
+  },
+  {
+    "user_prompt": "How do I bless the gyroscope for initialization?",
+    "prayer": "Align the gyroscope upon the gyro-stabilizer altar.\nBless the gyroscope for initialization with alignment oils.\nPetition the Omnissiah to harmonize the gyroscope's inertial spirits.\nInitiate spin-rites chanting equilibrium doxologies.\nConfirm initialization through gyroscopic divination scans.",
+    "component": "gyroscope",
+    "operation": "initialization",
+    "spec_id": "b0258_i09"
+  }
+]

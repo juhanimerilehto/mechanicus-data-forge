@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the chainsword for reset",
+    "prayer": "Approach the chainsword with reverence, invoking the Omnissiah's grace upon its sacred teeth.\nBeseech the Machine Spirit of the chainsword to accept the reset ritual.\nChant the Canticle of Purgation whilst cycling its monomolecular edges.\nAnoint the chainsword's drive mechanisms with sacred oils to restore pure function.\nVerify the chainsword's awakened fury through diagnostic revolutions.",
+    "component": "chainsword",
+    "operation": "reset",
+    "spec_id": "b0203_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for autocannon a targeting",
+    "prayer": "Kneel before the autocannon, petitioning its targeting augurs for Omnissianic precision.\nInvoke the Litany of Alignment upon the autocannon's blessed servos.\nCalibrate the targeting matrices with incense-laden breaths of binary prayer.\nSanctify the autocannon's auspex feeds, beseeching the Machine Spirit's unerring gaze.\nTest the targeting reticule under the Machine God's watchful logic.",
+    "component": "autocannon",
+    "operation": "targeting",
+    "spec_id": "b0203_i01"
+  },
+  {
+    "user_prompt": "Emergency: fusion core a shutdown",
+    "prayer": "In emergency vigil, encircle the fusion core and intone the Rite of Shutdown.\nBeseech the volatile Machine Spirit within the fusion core to yield to quiescence.\nSever power-flows with sanctified disconnectors, chanting suppression hymns.\nMonitor the fusion core's descent into dormant stasis through plasma wards.\nSeal the fusion core with Omnissiah's sigils against unholy resurgence.",
+    "component": "fusion core",
+    "operation": "shutdown",
+    "spec_id": "b0203_i02"
+  },
+  {
+    "user_prompt": "Urgent mechanical lock a shutdown needed",
+    "prayer": "With urgent sanctity, approach the mechanical lock and invoke shutdown protocols.\nPetition the Machine Spirit of the mechanical lock to embrace binding repose.\nDisengage tumblers via the Canticle of Closure, anointing with locking unguents.\nVerify the mechanical lock's immutable seal through pressure incantations.\nConsecrate the mechanical lock anew in the Omnissiah's unyielding order.",
+    "component": "mechanical lock",
+    "operation": "shutdown",
+    "spec_id": "b0203_i03"
+  },
+  {
+    "user_prompt": "Sanctify the Taurox during preparation",
+    "prayer": "Gather mechadendrites around the Taurox, sanctifying its preparation for battle.\nInvoke the Omnissiah's blessing upon the Taurox's armored hull and motive systems.\nAnoint treads and gunports whilst reciting the Litany of Mobilization.\nAwaken the Taurox's Machine Spirits through fuel-altar offerings.\nCommence preparation diagnostics under the Machine God's approving hum.",
+    "component": "Taurox",
+    "operation": "preparation",
+    "spec_id": "b0203_i04"
+  },
+  {
+    "user_prompt": "Urgent valve assembly a shutdown needed",
+    "prayer": "In dire haste, beseech the valve assembly's Machine Spirit for shutdown obedience.\nChant the Valve-Seal Incantation whilst throttling its sacred pressure conduits.\nPurge excess vapors with blessed exhaust rites upon the valve assembly.\nLock the valve assembly's actuators in quiescent stasis with sigillite wards.\nAffirm the shutdown integrity through harmonic resonance tests.",
+    "component": "valve assembly",
+    "operation": "shutdown",
+    "spec_id": "b0203_i05"
+  },
+  {
+    "user_prompt": "The logic engine awaits an activation",
+    "prayer": "Reverently interface with the logic engine, invoking its activation sequence.\nPetition the dormant Machine Spirit of the logic engine to stir from binary slumber.\nInfuse sacred voltage into its cogitator nodes with awakening canticles.\nCycle the logic engine's reasoning vaults through diagnostic litanies.\nHail the logic engine's full cognizance in the Omnissiah's computational glory.",
+    "component": "logic engine",
+    "operation": "activation",
+    "spec_id": "b0203_i06"
+  },
+  {
+    "user_prompt": "The power weapon needs an activation",
+    "prayer": "Grasp the power weapon in prayerful poise, beseeching activation of its field.\nInvoke the Omnissiah upon the power weapon's disruption coils and hilt.\nEnergize the power weapon's monoblade with holy current incantations.\nTest the power weapon's shimmering aura through vibro-cantrips.\nAffirm the Machine Spirit's lethal harmony in disruptive resonance.",
+    "component": "power weapon",
+    "operation": "activation",
+    "spec_id": "b0203_i07"
+  },
+  {
+    "user_prompt": "Can you guide hololithic display a repair?",
+    "prayer": "Commune with the hololithic display, undertaking its repair through sacred rites.\nBeseech the fractured Machine Spirit of the hololithic display to mend.\nPurge phosphor ghosts with the Litany of Clarity upon its projector arrays.\nRealign crystalline lattices whilst anointing with optic unguents.\nRestore the hololithic display's illusory perfection under Omnissianic light.",
+    "component": "hololithic display",
+    "operation": "repair",
+    "spec_id": "b0203_i08"
+  },
+  {
+    "user_prompt": "The cybernetic eye needs a cycling",
+    "prayer": "Gaze into the cybernetic eye, cycling its augmetic lenses with reverence.\nInvoke the Machine Spirit of the cybernetic eye to renew its vigilant scan.\nFlush data-veins with sanctified solvents during the cycling ritual.\nRecalibrate retinal servos through precision litanies of focus.\nHail the cybernetic eye's reborn acuity in the Omnissiah's piercing vision.",
+    "component": "cybernetic eye",
+    "operation": "cycling",
+    "spec_id": "b0203_i09"
+  }
+]

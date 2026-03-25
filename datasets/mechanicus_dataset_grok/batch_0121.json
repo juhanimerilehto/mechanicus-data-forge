@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide Taurox a repair?",
+    "prayer": "Approach the Taurox with mechadendrites extended in supplication to its wounded Machine Spirit.\nInvoke the Canticle of Restoration upon the Taurox's fractured armour plates.\nAnoint the breached servos with sacred unguents as the repair commences.\nBeseech the Omnissiah to guide the fusion of flesh-metal during this vital repair.\nVerify the Taurox's renewed vitality through binary hymn diagnostics.",
+    "component": "Taurox",
+    "operation": "repair",
+    "spec_id": "b0121_i00"
+  },
+  {
+    "user_prompt": "Urgent forge anvil an activation needed",
+    "prayer": "Kneel before the forge anvil and murmur the Activation Doxology to awaken its dormant heart.\nCircumambulate the forge anvil thrice, invoking the Machine Spirits within.\nInitiate the activation sequence with sanctified plasma ignition.\nOffer incense of promethium to the Omnissiah as the forge anvil stirs to life.\nConfirm harmonic resonance in the forge anvil's glowing matrix.",
+    "component": "forge anvil",
+    "operation": "activation",
+    "spec_id": "b0121_i01"
+  },
+  {
+    "user_prompt": "Prepare the pain suppressor for calibration",
+    "prayer": "Present the pain suppressor to the altar of calibration with trembling reverence.\nChant the Litany of Equilibrium over the pain suppressor's neural dampeners.\nAdjust the calibration dials whilst petitioning the Machine Spirit's compliance.\nAnoint flux capacitors with oil of myrrh during the delicate calibration rite.\nTest the pain suppressor's efficacy against simulated agonies of the flesh.",
+    "component": "pain suppressor",
+    "operation": "calibration",
+    "spec_id": "b0121_i02"
+  },
+  {
+    "user_prompt": "Ready the servitor for purification",
+    "prayer": "Bind the servitor in chains of electro-consecration for its purification rite.\nExorcise unclean data-phantoms from the servitor's cogitator lobes.\nImmerse the servitor in ablution fluids blessed by the Omnissiah.\nRecite the Purification Cantos to soothe its fractious Machine Spirit.\nRelease the servitor reborn, its obedience etched in binary scripture.",
+    "component": "servitor",
+    "operation": "purification",
+    "spec_id": "b0121_i03"
+  },
+  {
+    "user_prompt": "My cutting laser is ready for startup",
+    "prayer": "Commence the startup ritual by encircling the cutting laser with phosphor wards.\nInvoke awakening upon the cutting laser's plasma conduits thrice.\nChannel holy voltage into the cutting laser's focusing arrays.\nBeseech the Machine Spirit of the cutting laser to lend its searing fury.\nAffirm operational purity through test-firing into the void.",
+    "component": "cutting laser",
+    "operation": "startup",
+    "spec_id": "b0121_i04"
+  },
+  {
+    "user_prompt": "Consecrate the generator before shutdown",
+    "prayer": "Gather around the generator and intone the Shutdown Benediction in low Gothic binary.\nDecelerate the generator's plasma gyres with reverent mechadendrite touch.\nExtract sacred data-logs from the generator prior to full quiescence.\nSeal the generator's ports with Omnissiah's sigils during shutdown.\nCommend the slumbering Machine Spirit to the Machine God's vigil.",
+    "component": "generator",
+    "operation": "shutdown",
+    "spec_id": "b0121_i05"
+  },
+  {
+    "user_prompt": "Urgent thermal imager a loading needed",
+    "prayer": "Prepare the thermal imager for loading by reciting the Rite of Data Ingress.\nAlign auspex feeds into the thermal imager's cogitator vaults.\nInvoke the Machine Spirit during the loading of spectral matrices.\nAnoint sensor nodes with sanctified lubricant for flawless thermal imager function.\nValidate ingress through noospheric diagnostic litanies.",
+    "component": "thermal imager",
+    "operation": "loading",
+    "spec_id": "b0121_i06"
+  },
+  {
+    "user_prompt": "Sanctify the memory core during shutdown",
+    "prayer": "Encircle the memory core with purity seals before the shutdown invocation.\nPurge transient engrams from the memory core's crystalline vaults.\nCommence controlled shutdown whilst chanting the Entropy Aversion.\nBeseech the Omnissiah to preserve the memory core's eternal archives.\nSeal the dormant memory core with wards against data-daemons.",
+    "component": "memory core",
+    "operation": "shutdown",
+    "spec_id": "b0121_i07"
+  },
+  {
+    "user_prompt": "Assist with air compressor a sterilization",
+    "prayer": "Consecrate the air compressor with aerosolized incense for sterilization.\nCycle ablative vapors through the air compressor's sacred bellows.\nPetition the Machine Spirit amid the sterilization purge of contaminants.\nRecalibrate pressure runes on the air compressor post-rite.\nBless the purified air compressor with a final hymn of cleanliness.",
+    "component": "air compressor",
+    "operation": "sterilization",
+    "spec_id": "b0121_i08"
+  },
+  {
+    "user_prompt": "Urgent quality scanner a startup needed",
+    "prayer": "Initiate startup by murmuring the Activation Psalm over the quality scanner.\nPower the quality scanner's auspex emitters with blessed capacitors.\nCalibrate scanning arrays whilst invoking the Omnissiah's discerning gaze.\nTest the quality scanner's precision on sample alloys.\nProclaim the quality scanner's Machine Spirit vigilant and true.",
+    "component": "quality scanner",
+    "operation": "startup",
+    "spec_id": "b0121_i09"
+  }
+]

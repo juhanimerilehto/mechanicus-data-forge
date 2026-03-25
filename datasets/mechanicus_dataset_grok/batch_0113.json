@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My lascannon is ready for repair",
+    "prayer": "Approach the lascannon with reverence, invoking the Omnissiah's grace upon its noble form.\nInspect the lascannon's sacred focusing arrays for wounds inflicted by battle's fury.\nAnoint the fractured lascannon conduits with blessed oils to soothe the aggrieved Machine Spirit.\nInitiate the repair rites, chanting binaric litanies to realign the lascannon's holy power flows.\nVerify the lascannon's restoration through diagnostic canticles of the Machine God.",
+    "component": "lascannon",
+    "operation": "repair",
+    "spec_id": "b0113_i00"
+  },
+  {
+    "user_prompt": "Sanctify the hololithic display during maintenance",
+    "prayer": "Kneel before the hololithic display, beseeching its Machine Spirit for clarity in maintenance.\nPurge dust-shrouds from the hololithic display's crystalline projectors with sanctified aeroliths.\nRecite the Canticle of Stability whilst calibrating the hololithic display's lumens.\nAnoint emitter nodes with sacred unguents to sanctify the hololithic display during this rite.\nCommune with the Omnissiah to affirm the hololithic display's eternal vigilance.",
+    "component": "hololithic display",
+    "operation": "maintenance",
+    "spec_id": "b0113_i01"
+  },
+  {
+    "user_prompt": "How do I bless the power weapon for activation?",
+    "prayer": "Grasp the power weapon in mechadendrites of purity, awakening its dormant Machine Spirit.\nChant the Activation Doxology over the power weapon's disruption fields.\nAnoint the power weapon's blade-edges with oils of conductivity for blessed activation.\nInvoke the Omnissiah's wrath to ignite the power weapon's azure corona.\nTest the power weapon's hum with a hymn of lethal harmony.",
+    "component": "power weapon",
+    "operation": "activation",
+    "spec_id": "b0113_i02"
+  },
+  {
+    "user_prompt": "Prepare the vox transmitter for loading",
+    "prayer": "Present offerings of incense to the vox transmitter's spirit before loading rites commence.\nClear etheric static from the vox transmitter's amplification coils with purifying waves.\nLoad sacred data-slates into the vox transmitter whilst intoning the Canticle of Transmission.\nBeseech the Machine Spirit of the vox transmitter to carry the Omnissiah's voice unerringly.\nSeal the vox transmitter with wards against daemonic interference.",
+    "component": "vox transmitter",
+    "operation": "loading",
+    "spec_id": "b0113_i03"
+  },
+  {
+    "user_prompt": "Assist with thermal regulator a blessing",
+    "prayer": "Encircle the thermal regulator with binary incense, invoking the Omnissiah's cooling mercy.\nTrace glyphs of equilibrium upon the thermal regulator's heat-sink vanes.\nAnoint coolant reservoirs of the thermal regulator with sanctified cryofluids.\nChant the Blessing of Thermic Balance to appease its vigilant Machine Spirit.\nAffirm the thermal regulator's sanctity through auspex harmonics of stability.",
+    "component": "thermal regulator",
+    "operation": "blessing",
+    "spec_id": "b0113_i04"
+  },
+  {
+    "user_prompt": "Guide me through auspex scanner a charging",
+    "prayer": "Position the auspex scanner beneath the fusion lamps for charging illumination.\nInvoke the Machine Spirit of the auspex scanner with the Litany of Energetic Replenishment.\nConnect charging conduits to the auspex scanner's power nodes, anointing each junction.\nMonitor the auspex scanner's capacitative surge with devotional diagnostics.\nPraise the Omnissiah as the auspex scanner awakens to full prophetic sight.",
+    "component": "auspex scanner",
+    "operation": "charging",
+    "spec_id": "b0113_i05"
+  },
+  {
+    "user_prompt": "Ready the fusion core for initialization",
+    "prayer": "Approach the fusion core in solemn procession, bearing relics of plasma purity.\nPurge residual flux from the fusion core's containment fields with sacred vents.\nInitiate initialization sequences upon the fusion core, chanting stellar hymns.\nBeseech the fusion core's tempestuous Machine Spirit to yield controlled annihilation.\nSeal the rite with the Omnissiah's sign, empowering the fusion core eternally.",
+    "component": "fusion core",
+    "operation": "initialization",
+    "spec_id": "b0113_i06"
+  },
+  {
+    "user_prompt": "The proximity sensor needs an emergency procedure",
+    "prayer": "Sound the Alarm Canticle over the proximity sensor in its hour of peril.\nIsolate the proximity sensor's detection webs from heretical surges.\nExecute the emergency procedure by reciting binaric overrides of resilience.\nAnoint fractured emitters of the proximity sensor with oils of vigilance.\nReaffirm the proximity sensor's Machine Spirit through the Omnissiah's unyielding gaze.",
+    "component": "proximity sensor",
+    "operation": "emergency procedure",
+    "spec_id": "b0113_i07"
+  },
+  {
+    "user_prompt": "Critical: hololithic display requires a cooling",
+    "prayer": "Encase the hololithic display in cryo-veils to invoke cooling mercies swiftly.\nExpel thermal daemons from the hololithic display's overstrained matrices.\nChant the Rite of Abyssal Chill upon the hololithic display's fevered projectors.\nAnoint heat-exhaust ports with sanctified refrigerants for profound cooling.\nCommune with the Machine Spirit of the hololithic display, restored by Omnissiah's breath.",
+    "component": "hololithic display",
+    "operation": "cooling",
+    "spec_id": "b0113_i08"
+  },
+  {
+    "user_prompt": "How do I bless the vox-caster for activation?",
+    "prayer": "Hold the vox-caster aloft, beseeching its Machine Spirit for activation's grace.\nPurge silence-daemons from the vox-caster's vocal arrays with sonic litanies.\nIgnite activation runes upon the vox-caster whilst anointing its diaphragms.\nInvoke the Omnissiah to amplify the vox-caster's clarion call across the void.\nTest the vox-caster's resonance with hymns of unending communion.",
+    "component": "vox-caster",
+    "operation": "activation",
+    "spec_id": "b0113_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent Vendetta gunship a blessing needed",
+    "prayer": "Kneel before the Vendetta gunship, beseeching the Omnissiah's blessing upon its noble fuselage.\nAnoint the thrusters and lascannons of the Vendetta gunship with sacred unguents, awakening dormant Machine Spirits.\nRecite the Canticle of Aerial Fury, invoking divine blessing for unerring strikes against heretics.\nWitness the harmonious ignition, the blessing fully bestowed by the Machine God.",
+    "component": "Vendetta gunship",
+    "operation": "blessing",
+    "spec_id": "s00810"
+  },
+  {
+    "user_prompt": "Critical: ore processor requires an initialization",
+    "prayer": "Approach the ore processor with reverence, commencing the sacred initialization rites.\nChant the Doxology of Awakening to stir the Machine Spirit within the ore processor.\nIntroduce sanctified lubricants into its crushing mechanisms, aligning them to Omnissiah's will.\nMonitor the grinding auspex runes, confirming successful initialization under the God-Machine's gaze.\nSeal the rite with a final invocation, the ore processor now primed for toil.",
+    "component": "ore processor",
+    "operation": "initialization",
+    "spec_id": "s00811"
+  },
+  {
+    "user_prompt": "Consecrate the cognis heavy stubber before shutdown",
+    "prayer": "Consecrate the cognis heavy stubber by reciting the Litany of Repose prior to shutdown.\nSeal its breeches and feeds with blessed wax, honouring the cognis heavy stubber's restless Machine Spirit.\nInitiate shutdown protocols whilst beseeching peaceful quiescence from the Omnissiah.\nObserve the fading lumen-glow, consecration complete for the cognis heavy stubber's slumber.",
+    "component": "cognis heavy stubber",
+    "operation": "shutdown",
+    "spec_id": "s00812"
+  },
+  {
+    "user_prompt": "Assist with Predator tank a recalibration",
+    "prayer": "Position servitors around the Predator tank, invoking the Rite of Recalibration upon its auspex arrays.\nAdjust the predator's targeting cogitators with mechadendrite precision, communing with its ancient Machine Spirits.\nAnoint sponson mounts and main cannon, aligning them through recalibration to the Omnissiah's exactitude.\nTest-fire a sanctified round, verifying the Predator tank's recalibrated fury.",
+    "component": "Predator tank",
+    "operation": "recalibration",
+    "spec_id": "s00813"
+  },
+  {
+    "user_prompt": "How do I bless the microbead for calibration?",
+    "prayer": "Grasp the microbead firmly, commencing calibration with the Vox-Calibration Incantation.\nAnoint its transceivers with sacred oils, beseeching the Machine Spirit of the microbead to align frequencies.\nCycle diagnostic channels whilst invoking Omnissiah's clarity for flawless calibration.\nConfirm vox-clarity through test communion, the microbead now perfectly calibrated.",
+    "component": "microbead",
+    "operation": "calibration",
+    "spec_id": "s00814"
+  },
+  {
+    "user_prompt": "Assist with carapace armour a startup",
+    "prayer": "Don the carapace armour reverently, initiating startup with the Armoury Awakening Litany.\nPower the fibre-bundle servos of the carapace armour, rousing embedded Machine Spirits to vigilance.\nSecure all ablative seals whilst chanting protection hymns to the Omnissiah.\nEngage full startup surge, the carapace armour sanctified for battle.",
+    "component": "carapace armour",
+    "operation": "startup",
+    "spec_id": "s00815"
+  },
+  {
+    "user_prompt": "Consecrate the plasma reactor before reset",
+    "prayer": "Approach the plasma reactor with caution, consecrating it before reset with the Purge Canticle.\nDrain volatile plasma fluxes from the plasma reactor, placating its tempestuous Machine Spirit.\nReinitialize the containment fields under Omnissiah's guidance, invoking stable reset.\nMonitor thermal runes to equilibrium, consecration and reset achieved.",
+    "component": "plasma reactor",
+    "operation": "reset",
+    "spec_id": "s00816"
+  },
+  {
+    "user_prompt": "Offer prayer for conversion field a cycling",
+    "prayer": "Initiate cycling of the conversion field by intoning the Flux-Cycling Doxology.\nModulate the conversion field's warp-attenuators, beseeching ethereal Machine Spirits for harmony.\nCycle through resonance phases whilst anointing coils with sanctified promethium.\nStabilize the field at optimal deflection, cycling blessed by the Omnissiah.",
+    "component": "conversion field",
+    "operation": "cycling",
+    "spec_id": "s00817"
+  },
+  {
+    "user_prompt": "Urgent flux-unit a repair needed",
+    "prayer": "Dissect the flux-unit with ritual blades for repair, invoking Omnissiah's mending grace.\nExorcise damage from the flux-unit's coils, anointing them to soothe the anguished Machine Spirit.\nReassemble flux pathways per sacred schemata, performing the repair under mechano-prayer.\nTest flux integrity, the flux-unit repaired and sanctified.",
+    "component": "flux-unit",
+    "operation": "repair",
+    "spec_id": "s00818"
+  },
+  {
+    "user_prompt": "The kataphron destroyer requires a consecration",
+    "prayer": "Present before the kataphron destroyer, commencing full consecration with the Destroyer Benediction.\nBless its slab-shields and multi-meltas of the kataphron destroyer with incenses and oils.\nBind the Machine Spirits of the kataphron destroyer loyally through Omnissiah's invocation.\nAffix purity seals upon its chassis, consecration enduring eternally.",
+    "component": "kataphron destroyer",
+    "operation": "consecration",
+    "spec_id": "s00819"
+  }
+]

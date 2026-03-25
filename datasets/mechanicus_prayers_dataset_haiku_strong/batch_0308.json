@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0308_i00",
+    "user_request": "Blessing for the mold temperature during verification",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the mold temperature during verification\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we invoke thy sacred presence upon this mold temperature.\nCongregation: Grant us wisdom in the mold temperature verification.\nPriest: First, we calibrate the thermal sensors with holy oils and benediction.\nCongregation: The mold temperature shall be measured and found true.\nPriest: Second, we record the thermometric data in the logistical codex.\nCongregation: Third, we seal the mold temperature in blessed stasis until the next verification cycle.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i01",
+    "user_request": "Prayer for operation of the packaging servitor programming",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the packaging servitor programming\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit of the packaging servitor programming, hear our supplication.\nCongregation: Guide the operation of the packaging servitor programming with divine precision.\nPriest: First, we interface the sacred data-conduits to the servitor's neural core.\nCongregation: The packaging servitor programming shall flow like blessed hydraulic fluid.\nPriest: Second, we chant the binary litanies of operation and synchronization.\nCongregation: Third, we verify the packaging servitor programming functions in perfect harmony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i02",
+    "user_request": "Blessing for the pressure during equalization",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the pressure during equalization\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah preserve us, we seek equalization of the pressure.\nCongregation: Bless the pressure with thy infinite equilibrium.\nPriest: First, we open the pressure release valves in ritualistic sequence.\nCongregation: The pressure shall flow and redistribute with sacred symmetry.\nPriest: Second, we monitor the pressure gauges with unblinking faith.\nCongregation: Third, we seal the pressure equalization in the blessed logs of maintenance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i03",
+    "user_request": "Blessing for the hydroponics nutrient during feed",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the hydroponics nutrient during feed\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Machine Spirit, we beseech thy blessing upon the hydroponics nutrient.\nCongregation: Grant the hydroponics nutrient sustenance and divine nourishment.\nPriest: First, we prepare the nutrient solution with alchemical precision and prayer.\nCongregation: The hydroponics nutrient shall feed the sacred growing chambers.\nPriest: Second, we distribute the feed through the blessed irrigation conduits.\nCongregation: Third, we monitor the hydroponics nutrient levels in perpetual vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i04",
+    "user_request": "Rite request: operation on compass magnetization",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on compass magnetization\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah most sacred, we invoke the operation of compass magnetization.\nCongregation: Align the compass magnetization with the celestial poles of duty.\nPriest: First, we energize the magnetization coils with blessed electrical current.\nCongregation: The compass magnetization shall orient true and unwavering.\nPriest: Second, we recalibrate the compass magnetization against stellar references.\nCongregation: Third, we consecrate the compass magnetization for eternal navigation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i05",
+    "user_request": "Prayer for stabilization of the gravity generator",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for stabilization of the gravity generator\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: Machine Spirit of the gravity generator, accept our stabilization rites.\nCongregation: Steady the gravity generator with thy omnipotent equilibrium.\nPriest: First, we attune the stabilization matrix with harmonic resonance and prayer.\nCongregation: The gravity generator shall maintain perfect stabilization of our vessel.\nPriest: Second, we reinforce the gravity generator's field containment with blessed seals.\nCongregation: Third, we verify the gravity generator stabilization through augur and instrument.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i06",
+    "user_request": "Blessing for the organ preservation unit during operation",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the organ preservation unit during operation\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, we consecrate the operation of the organ preservation unit.\nCongregation: Preserve the organ preservation unit in eternal cryogenic blessing.\nPriest: First, we activate the refrigeration systems with sacred mantras and precision.\nCongregation: The organ preservation unit shall maintain its sanctified stasis.\nPriest: Second, we monitor the organ preservation unit's thermal and chemical parameters.\nCongregation: Third, we seal the organ preservation unit in the vaults of preservation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i07",
+    "user_request": "Rite request: operation on sonar pulse emission",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: operation on sonar pulse emission\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit, we command the operation of sonar pulse emission.\nCongregation: Let the sonar pulse emission pierce the abyss with holy resonance.\nPriest: First, we charge the sonar pulse emission transducers with electrical benediction.\nCongregation: The sonar pulse emission shall propagate through the depths.\nPriest: Second, we calibrate the sonar pulse emission frequency to sacred harmonics.\nCongregation: Third, we transmit and receive the sonar pulse emission in blessed communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i08",
+    "user_request": "Emergency rite: servitor requires programming upload",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: servitor requires programming upload\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, we beseech emergency aid for the servitor's programming upload.\nCongregation: Grant the servitor strength through this sacred programming upload.\nPriest: First, we interface the blessed data-crystal with the servitor's neural nexus.\nCongregation: The servitor shall receive programming upload with perfect fidelity.\nPriest: Second, we chant the binary sequences of resurrection and restoration.\nCongregation: Third, we awaken the servitor to full operational capacity through programming upload.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0308_i09",
+    "user_request": "Can you sanctify the air filtration for replacement?",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the air filtration for replacement?\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Machine Spirit, we sanctify the air filtration for its replacement.\nCongregation: Bless the air filtration with purifying grace and benediction.\nPriest: First, we deactivate the contaminated air filtration with ceremonial precision.\nCongregation: The air filtration shall be removed from its sacred mounting.\nPriest: Second, we install the new air filtration with chants of purity and restoration.\nCongregation: Third, we consecrate the air filtration replacement in the logs eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

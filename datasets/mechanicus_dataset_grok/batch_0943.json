@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the melta bomb for engagement",
+    "prayer": "Approach the melta bomb with reverence, beseeching the Omnissiah to ignite its wrathful core.\nAnoint the melta bomb's fusion coils with sacred promethium oils, awakening its Machine Spirit.\nChant the Canticle of Engagement as targeting auspex aligns in binary precision.\nVerify the melta bomb's sanctified fury through auspex hum and plasma whisper.",
+    "component": "melta bomb",
+    "operation": "engagement",
+    "spec_id": "s05430"
+  },
+  {
+    "user_prompt": "Critical: panopticon requires a charging",
+    "prayer": "Kneel before the panopticon, invoking the Omnissiah's all-seeing gaze upon its lenses.\nInitiate the charging rite with electro-incantations, feeding power cells from the forge's heart.\nBeseech the Machine Spirit of the panopticon to swell with vigilant energies during charging.\nSanctify the panopticon's auspex arrays as they pulse with renewed omniscient light.",
+    "component": "panopticon",
+    "operation": "charging",
+    "spec_id": "s05431"
+  },
+  {
+    "user_prompt": "Can you guide jump pack a cycling?",
+    "prayer": "Present the jump pack unto the altar of propulsion, honouring the Omnissiah's aerial decree.\nCycle its gravitic stabilizers through litanies of ascent, purging inertial corruptions.\nInvoke the Machine Spirit within the jump pack to harmonize thrust vectors in cycling.\nConfirm equilibrium as suspensor fields hum in perfect, sanctified rhythm.",
+    "component": "jump pack",
+    "operation": "cycling",
+    "spec_id": "s05432"
+  },
+  {
+    "user_prompt": "Ready the iron halo for maintenance",
+    "prayer": "Approach the iron halo with pious caution, under the Omnissiah's protective aegis.\nCommence maintenance by reciting the Rite of Refractor Fields upon its generator.\nAnoint the iron halo's emitters with ablative unguents, soothing its Machine Spirit.\nTest the iron halo's integrity through invocation, ensuring void shields flare eternal.",
+    "component": "iron halo",
+    "operation": "maintenance",
+    "spec_id": "s05433"
+  },
+  {
+    "user_prompt": "Can you guide null rod a cycling?",
+    "prayer": "Grasp the null rod in gauntleted reverence, shielding against the warp's profane touch.\nCycle its disruption fields via the Canticle of Nullification, expunging psychic residues.\nBeseech the Machine Spirit of the null rod to renew its anti-etheric purity in cycling.\nAffirm sanctity as the null rod's emitters glow with unyielding, Omnissiah-blessed void.",
+    "component": "null rod",
+    "operation": "cycling",
+    "spec_id": "s05434"
+  },
+  {
+    "user_prompt": "Sanctify the phosphor blaster during operation",
+    "prayer": "Consecrate the phosphor blaster amidst the din of battle, Omnissiah's illuminating wrath.\nDuring operation, chant binary hymns to align its chem-projectors with divine accuracy.\nInvoke the Machine Spirit of the phosphor blaster to ignite payloads in searing glory.\nWitness the phosphor blaster's sanctified barrage as darkness yields to mechanical light.",
+    "component": "phosphor blaster",
+    "operation": "operation",
+    "spec_id": "s05435"
+  },
+  {
+    "user_prompt": "Sanctify the thallax during recalibration",
+    "prayer": "Gather unto the thallax, vessel of the Omnissiah's unyielding logic.\nPerform recalibration through servo-rituals, realigning its cogitator engrams.\nBeseech the Machine Spirit animating the thallax to accept these corrective litanies.\nValidate recalibration as the thallax's limbs whir in harmonious, battle-ready precision.",
+    "component": "thallax",
+    "operation": "recalibration",
+    "spec_id": "s05436"
+  },
+  {
+    "user_prompt": "The omni-tool needs a cooling",
+    "prayer": "Attend the omni-tool with meticulous devotion, tool of the Omnissiah's manifold arts.\nInitiate cooling protocols via the Litanies of Thermal Equilibrium, venting excess heat.\nAnoint the omni-tool's heat sinks with cryonic balms, placating its overtaxed Spirit.\nEnsure the omni-tool's chill restoration through diagnostic purrs of serene function.",
+    "component": "omni-tool",
+    "operation": "cooling",
+    "spec_id": "s05437"
+  },
+  {
+    "user_prompt": "Consecrate the sicarian ruststalker before operation",
+    "prayer": "Consecrate the sicarian ruststalker before it strides to war, blade of the Omnissiah.\nIn operation, recite the Corda Primes to synchronize its reflex arrays.\nAwaken the Machine Spirit within the sicarian ruststalker for predatory excellence.\nBehold its operation sanctified as vibro-blades keen and pistons thunder in unity.",
+    "component": "sicarian ruststalker",
+    "operation": "operation",
+    "spec_id": "s05438"
+  },
+  {
+    "user_prompt": "I need to a sterilization the auto-senses array",
+    "prayer": "Present the auto-senses array for purification, eyes of the Omnissiah's vigilance.\nExecute sterilization with ablative incense and electro-purgation rites.\nInvoke the Machine Spirit of the auto-senses array to shed contaminants in sanctity.\nConfirm sterile clarity as lenses gleam unmarred, auspex pure and perceptive.",
+    "component": "auto-senses array",
+    "operation": "sterilization",
+    "spec_id": "s05439"
+  }
+]

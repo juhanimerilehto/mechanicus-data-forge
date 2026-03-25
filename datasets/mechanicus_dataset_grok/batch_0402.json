@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: servo-arm requires a preparation",
+    "prayer": "Approach the servo-arm with due reverence, intoning the Canticle of Awakening to rouse its dormant Machine Spirit.\nAnoint the servo-arm's hydraulic pistons and articulated claws with sacred unguents during the preparation rites.\nInvoke the Omnissiah's grace to align its motivators for flawless articulation.\nVerify the servo-arm's readiness through diagnostic binaric chants and auspex communion.",
+    "component": "servo-arm",
+    "operation": "preparation",
+    "spec_id": "s00020"
+  },
+  {
+    "user_prompt": "Guide me through storm bolter a preparation",
+    "prayer": "Present thyself before the storm bolter, whispering the Litany of Priming to honour its Machine Spirit.\nCommence preparation by sanctifying its twin-linked barrels with ablative incense and electro-consecrated oils.\nCalibrate the storm bolter's firing servos whilst beseeching the Omnissiah for unerring fury.\nConclude the preparation with a test-cycle invocation, ensuring harmonious ammunition feed.",
+    "component": "storm bolter",
+    "operation": "preparation",
+    "spec_id": "s00021"
+  },
+  {
+    "user_prompt": "Sanctify the conversion beamer during charging",
+    "prayer": "Encircle the conversion beamer with purity seals as charging commences, invoking the Hymn of Containment.\nMonitor the plasma coils of the conversion beamer, anointing them to soothe its tempestuous Machine Spirit.\nBeseech the Omnissiah to stabilize the charging flux within the conversion beamer's heart.\nSeal the rite upon full capacitance, proclaiming the Machine Spirit's sanctified vigour.",
+    "component": "conversion beamer",
+    "operation": "charging",
+    "spec_id": "s00022"
+  },
+  {
+    "user_prompt": "Help me a preparation the mind-impulse unit",
+    "prayer": "Recline in contemplation before the mind-impulse unit, chanting the Doxology of Neural Sync.\nInitiate preparation by threading noospheric litanies into the mind-impulse unit's synaptic webs.\nAwaken its Machine Spirit with cranial electro-incense, forging unity for the pilot's will.\nAffirm the mind-impulse unit's bond through recursive thought-purge and final invocation.",
+    "component": "mind-impulse unit",
+    "operation": "preparation",
+    "spec_id": "s00023"
+  },
+  {
+    "user_prompt": "My graviton cannon is ready for blessing",
+    "prayer": "Lift high the graviton cannon in veneration, reciting the Benediction of Mass-Manipulation.\nBestow blessing upon its gravitic emitters, suffusing the graviton cannon with Omnissiah's crushing might.\nCommune deeply with the graviton cannon's Machine Spirit, aligning warp-null fields in harmony.\nConsecrate the blessing with a test-pulse, echoing the Emperor's wrath eternal.",
+    "component": "graviton cannon",
+    "operation": "blessing",
+    "spec_id": "s00024"
+  },
+  {
+    "user_prompt": "The energy core awaits a shutdown",
+    "prayer": "Gather around the energy core as shutdown approaches, intoning the Requiem of Dormancy.\nEase the energy core's plasma throes with coolant sacraments, lulling its Machine Spirit to rest.\nExecute the shutdown sequence under the Omnissiah's watchful binary gaze.\nSeal the energy core in stasis slumber with wards against entropic corruption.",
+    "component": "energy core",
+    "operation": "shutdown",
+    "spec_id": "s00025"
+  },
+  {
+    "user_prompt": "I need to a charging the galvanic rifle",
+    "prayer": "Position the galvanic rifle upon the altar of charging, invoking the Canticle of Electrodynamic Surge.\nAnoint its induction coils whilst the galvanic rifle draws power, awakening its galvanic Machine Spirit.\nBeseech the Omnissiah to infuse the charging cells with lethal precision.\nUpon culmination, verify the galvanic rifle's potency through resonant hymnals.",
+    "component": "galvanic rifle",
+    "operation": "charging",
+    "spec_id": "s00026"
+  },
+  {
+    "user_prompt": "Prepare the arc rifle for charging",
+    "prayer": "Commence the arc rifle's charging with the Incantation of Lightning Containment.\nSanctify the arc rifle's voltaic capacitors, channelling the Omnissiah's thunder into its frame.\nHarmonize the arc rifle's Machine Spirit amidst the building tempest of energy.\nFinalize charging with a purity seal and auspex affirmation of arc-readiness.",
+    "component": "arc rifle",
+    "operation": "charging",
+    "spec_id": "s00027"
+  },
+  {
+    "user_prompt": "Critical: cenobyte servitor requires an operation",
+    "prayer": "Assemble before the cenobyte servitor, proclaiming the Rite of Vital Recalibration for its operation.\nInterface with the cenobyte servitor's cogitator core, invoking its lobotomized Machine Spirit to obedience.\nExecute operation protocols whilst anointing its cranial augmetics with neural balms.\nConclude with the Omnissiah's sigil, binding the cenobyte servitor to flawless servitude.",
+    "component": "cenobyte servitor",
+    "operation": "operation",
+    "spec_id": "s00028"
+  },
+  {
+    "user_prompt": "Help me a synchronization the geigeer sink",
+    "prayer": "Align the geigeer sink in noospheric congruence, beginning the synchronization litany.\nThread binaric harmonies into the geigeer sink's flux regulators, awakening its resonant Machine Spirit.\nBeseech the Omnissiah for perfect synchronization amidst quantum variances.\nAffix the rite with oscillatory seals, ensuring the geigeer sink's eternal attunement.",
+    "component": "geigeer sink",
+    "operation": "synchronization",
+    "spec_id": "s00029"
+  }
+]

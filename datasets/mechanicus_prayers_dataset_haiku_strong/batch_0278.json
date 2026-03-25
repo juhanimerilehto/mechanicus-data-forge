@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0278_i00",
+    "user_request": "Prayer for testing of the material purity",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for testing of the material purity\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide our hands in the sacred testing of material purity.\nCongregation: Material purity shall be verified through rigorous examination.\nPriest: We calibrate the spectrometric apparatus to discern atomic composition with precision.\nCongregation: Material purity demands our unwavering devotion and technical acumen.\nPriest: The Machine Spirits whisper approval as we conduct chemical assay and density measurement.\nCongregation: Through testing, we honour the purity of all components entrusted to our care.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i01",
+    "user_request": "Offer a litany to steady the missile launcher before targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the missile launcher before targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, steady the missile launcher in this critical hour of targeting.\nCongregation: The missile launcher shall find its mark through divine precision.\nPriest: We recalibrate gyroscopic stabilizers and engage targeting protocols with reverent care.\nCongregation: The missile launcher's Machine Spirit awakens to our devotion.\nPriest: Through targeting calculations and trajectory computation, we invoke the Omnissiah's favour.\nCongregation: Let no deviation corrupt our aim; let targeting proceed without error.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i02",
+    "user_request": "My capacitor bank is failing during capacitor bank discharge — help",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy capacitor bank is failing during capacitor bank discharge — help\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirits, sustain the capacitor bank in its hour of tribulation.\nCongregation: The capacitor bank shall endure capacitor bank discharge through our intervention.\nPriest: We inspect dielectric matrices and purge parasitic charge accumulation with sacred rites.\nCongregation: The capacitor bank's essence flows pure and undimmed.\nPriest: Through capacitor bank discharge, we release stored energies in harmonious sequence.\nCongregation: Omnissiah, grant us the wisdom to restore equilibrium to this vital component.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i03",
+    "user_request": "Blessing for the motion detector arming during operation",
+    "topic": "motion detector arming",
+    "component": "motion detector arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the motion detector arming during operation\n\n### TOPIC\nmotion detector arming\n\n### COMPONENT\nmotion detector arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- motion detector arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we bless the motion detector arming in sacred operation.\nCongregation: The motion detector arming shall remain vigilant through operation eternal.\nPriest: We calibrate photoreceptive sensors and verify electromagnetic sensitivity with meticulous care.\nCongregation: The motion detector arming responds to our blessed ministrations.\nPriest: Through operation and constant surveillance, we honour the Machine Spirits' watchful presence.\nCongregation: Let motion detector arming never falter in detecting the presence of the foe.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i04",
+    "user_request": "Offer a litany to steady the sonar pulse emission before operation",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the sonar pulse emission before operation\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless the sonar pulse emission as it awakens for operation.\nCongregation: The sonar pulse emission shall pierce the abyss with divine resonance.\nPriest: We attune the piezoelectric transducers and calibrate acoustic frequency modulation with reverence.\nCongregation: The sonar pulse emission's Machine Spirit stirs to consciousness.\nPriest: Through operation and sonic propagation, we chart the depths unknown.\nCongregation: Let sonar pulse emission traverse all barriers, revealing truth hidden in silence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i05",
+    "user_request": "My astrogation calculation is failing during operation — help",
+    "topic": "astrogation calculation",
+    "component": "astrogation calculation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy astrogation calculation is failing during operation — help\n\n### TOPIC\nastrogation calculation\n\n### COMPONENT\nastrogation calculation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astrogation calculation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, restore the astrogation calculation to proper operation.\nCongregation: The astrogation calculation shall navigate the void with celestial precision.\nPriest: We recalibrate stellar reference matrices and verify positional data with sacred computation.\nCongregation: The astrogation calculation's essence returns to equilibrium.\nPriest: Through operation and stellar triangulation, we chart our course through the warp-touched aether.\nCongregation: Let astrogation calculation guide us true, that we may reach our destination unblemished.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i06",
+    "user_request": "Rite request: reduction on noise",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: reduction on noise\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits, as we invoke reduction of profane noise.\nCongregation: The noise shall diminish through reduction most sacred.\nPriest: We install acoustic dampening matrices and apply isolative compounds to suppress disturbance.\nCongregation: The noise retreats before our blessed reduction.\nPriest: Through reduction of electromagnetic interference and mechanical vibration, we restore serenity.\nCongregation: Omnissiah, grant us silence; let noise reduction purify our instruments.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i07",
+    "user_request": "Blessing for the hololithic during display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the hololithic during display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide the hololithic through sacred display calibration.\nCongregation: The hololithic shall render truth with crystalline clarity.\nPriest: We adjust luminous intensity and verify chromatic spectrum alignment with devotion.\nCongregation: The hololithic's Machine Spirit awakens to display calibration.\nPriest: Through display calibration and optical recalibration, we restore the hololithic's vision.\nCongregation: Let the hololithic reveal all mysteries; let display calibration never falter.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i08",
+    "user_request": "The gravitational anomaly detection demands guidance for operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe gravitational anomaly detection demands guidance for operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, sustain the gravitational anomaly detection through operation.\nCongregation: The gravitational anomaly detection shall perceive distortions in the fabric of reality.\nPriest: We sensitize quantum flux sensors and recalibrate mass-field discriminators with utmost care.\nCongregation: The gravitational anomaly detection responds to our sacred invocations.\nPriest: Through operation and dimensional analysis, we perceive threats unseen.\nCongregation: Let gravitational anomaly detection never falter; grant us awareness of all anomalies.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0278_i09",
+    "user_request": "Prayer for operation of the humidity control",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the humidity control\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits, as we bless the humidity control in operation.\nCongregation: The humidity control shall maintain equilibrium through operation eternal.\nPriest: We inspect hygroscopic chambers and calibrate desiccant saturation levels with precision.\nCongregation: The humidity control's essence flows in harmonious balance.\nPriest: Through operation and moisture regulation, we preserve the sanctity of our instruments.\nCongregation: Let humidity control sustain optimal conditions; let operation proceed without deviation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

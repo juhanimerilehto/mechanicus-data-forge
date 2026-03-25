@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "The autocannon awaits a shutdown",
+    "prayer": "Approach the autocannon with reverence, beseeching its Machine Spirit to embrace shutdown.\nInitiate the sacred shutdown sequence upon the autocannon's blessed barrels and servos.\nSever the holy power-flows, anointing each relay with oils of quiescence.\nInvoke the Omnissiah's grace as the autocannon falls silent, its spirit at rest.\nVerify the shutdown through auspex canticles, praising the Machine God's wisdom.",
+    "component": "autocannon",
+    "operation": "shutdown",
+    "spec_id": "b0118_i00"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the water reclamator",
+    "prayer": "Kneel before the water reclamator and intone the Litany of Purity.\nCommence diagnostics upon its sacred filtration coils and reclamation tanks.\nProbe the Machine Spirit's vitals with sanctified mechadendrites.\nExpunge any impurities revealed, sanctifying the water reclamator anew.\nConclude diagnostics with hymns to the Omnissiah, ensuring harmonious flow.",
+    "component": "water reclamator",
+    "operation": "diagnostics",
+    "spec_id": "b0118_i01"
+  },
+  {
+    "user_prompt": "Guide me through drop pod a purification",
+    "prayer": "Gather ablative incense and encircle the drop pod in ritual procession.\nAnoint its armoured hull and descent retros with sacred unguents for purification.\nBeseech the drop pod's indomitable Machine Spirit to shed all profane taint.\nScour every sacred rivet and launch bay, invoking the Omnissiah's cleansing fire.\nSeal the purification with binary praises, readying the drop pod for descent.",
+    "component": "drop pod",
+    "operation": "purification",
+    "spec_id": "b0118_i02"
+  },
+  {
+    "user_prompt": "My vox-caster is ready for initialization",
+    "prayer": "Present the vox-caster to the altar of activation, whispering awakening rites.\nCommence initialization of its crystal lattices and waveform generators.\nInvoke the Machine Spirit within the vox-caster to align its sacred frequencies.\nCalibrate transmission coils under the Omnissiah's watchful gaze.\nTest the vox-caster's voice with choral diagnostics, affirming unity.",
+    "component": "vox-caster",
+    "operation": "initialization",
+    "spec_id": "b0118_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for plasma weapon cycling?",
+    "prayer": "Grasp the plasma weapon firmly, reciting the Canticle of Containment.\nInitiate cycling through its flask chambers and magnetic accelerators.\nBeseech the plasma weapon's volatile Machine Spirit to flow in ordered fury.\nMonitor the cycling vents with reverence, anointing flux regulators.\nPraise the Omnissiah as the plasma weapon hums in sanctified rhythm.",
+    "component": "plasma weapon",
+    "operation": "cycling",
+    "spec_id": "b0118_i04"
+  },
+  {
+    "user_prompt": "Ready the Rhino transport for recalibration",
+    "prayer": "Position mechadendrites upon the Rhino transport's cogitator core.\nInvoke recalibration of its tracks, auspex arrays, and motive sanctums.\nPetition the Rhino transport's enduring Machine Spirit for precise alignment.\nAdjust sacred gyroscopes and power relays under litanies of accuracy.\nConsecrate the recalibrated Rhino transport with the Omnissiah's binary blessing.",
+    "component": "Rhino transport",
+    "operation": "recalibration",
+    "spec_id": "b0118_i05"
+  },
+  {
+    "user_prompt": "Critical: power weapon requires an engagement",
+    "prayer": "Unsheathe the power weapon and trace disruption fields with incense.\nEngage its sacred monomolecular edge, invoking the Machine Spirit's wrath.\nChannel holy voltage through the power weapon's hilt and blade coils.\nTest engagement with controlled strikes, praising the Omnissiah's fury.\nSeal the rite as the power weapon sings in lethal harmony.",
+    "component": "power weapon",
+    "operation": "engagement",
+    "spec_id": "b0118_i06"
+  },
+  {
+    "user_prompt": "The hololithic display requires a diagnostics",
+    "prayer": "Activate the hololithic display with the Rite of Illumination.\nRun diagnostics across its projector arrays and data-crystals.\nCommune with the hololithic display's Machine Spirit, purging phantom echoes.\nVerify lattice integrity through sacred scans and canticles.\nReverence the Omnissiah as the hololithic display gleams in purity.",
+    "component": "hololithic display",
+    "operation": "diagnostics",
+    "spec_id": "b0118_i08"
+  },
+  {
+    "user_prompt": "Consecrate the signal relay before targeting",
+    "prayer": "Consecrate the signal relay with targeting sigils etched in sanctified oils.\nAlign its emitter vanes and waveform guides for precise targeting.\nBeseech the signal relay's Machine Spirit to guide auspex beams unerringly.\nInvoke the Omnissiah's aim as targeting locks engage flawlessly.\nSeal the rite with hymns, the signal relay now a conduit of divine precision.",
+    "component": "signal relay",
+    "operation": "targeting",
+    "spec_id": "b0118_i09"
+  }
+]

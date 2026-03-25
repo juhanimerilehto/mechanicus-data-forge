@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Chimera APC awaits a preparation",
+    "prayer": "Draw nigh unto the Chimera APC, vessel of the Omnissiah's wrath, and commence the sacred rites of preparation.\nBeseech the Machine Spirit of the Chimera APC to stir within its iron heart.\nAnoint the treads of the Chimera APC with blessed lubricants whilst invoking the Litany of Mobilisation.\nVerify the harmonious flow of sacred fuels in preparation for the Emperor's crusade.\nSanctify the auspex arrays that the Chimera APC may perceive the foes of the Machine God.",
+    "component": "Chimera APC",
+    "operation": "preparation",
+    "spec_id": "b0186_i00"
+  },
+  {
+    "user_prompt": "Can you guide servitor a recalibration?",
+    "prayer": "Approach the servitor with reverence, thrall of the Omnissiah, and initiate the recalibration of its flesh-machine union.\nInvoke the dormant Machine Spirit within the servitor's cranial implants.\nRecite the Canticle of Alignment whilst adjusting the servo-motives for recalibration.\nTest the recalibrated servitor's obedience through diagnostic binaric chants.\nPetition the Omnissiah to bind the servitor's soul-shard eternally to its mechanical frame.",
+    "component": "servitor",
+    "operation": "recalibration",
+    "spec_id": "b0186_i01"
+  },
+  {
+    "user_prompt": "Assist with Rhino transport a repair",
+    "prayer": "Kneel before the wounded Rhino transport, bastion of faith, and begin the rites of repair.\nBeseech the Machine Spirit of the Rhino transport to forgive breaches in its adamantium hide.\nAnoint fractured plates of the Rhino transport with sacred oils of restoration.\nInvoke the Omnissiah's forge-light during the repair of vital power conduits.\nChant the Hymn of Renewal as servitor limbs mend the Rhino transport's sacred form.",
+    "component": "Rhino transport",
+    "operation": "repair",
+    "spec_id": "b0186_i02"
+  },
+  {
+    "user_prompt": "Help me a loading the Chimera APC",
+    "prayer": "Commence the loading of the Chimera APC, armoured ark of the faithful, with pious deliberation.\nInvoke the Machine Spirit of the Chimera APC to accept its martial cargo.\nSecure munitions within the Chimera APC's blessed hold whilst reciting the Litany of Burden.\nAnoint access hatches for unhindered loading under the Omnissiah's gaze.\nSeal the Chimera APC against the heretic's touch, prepared for glorious transit.",
+    "component": "Chimera APC",
+    "operation": "loading",
+    "spec_id": "b0186_i03"
+  },
+  {
+    "user_prompt": "My data-slate is ready for emergency procedure",
+    "prayer": "Grasp the data-slate, repository of holy data, and enact the emergency procedure with haste.\nAwaken the Machine Spirit of the data-slate through binaric distress calls.\nPurge corrupted noospheric fragments during the emergency procedure.\nRealign crystalline matrices whilst beseeching the Omnissiah for clarity.\nVerify the data-slate's sanctity post-procedure with auspex incantations.",
+    "component": "data-slate",
+    "operation": "emergency procedure",
+    "spec_id": "b0186_i04"
+  },
+  {
+    "user_prompt": "Guide me through air compressor a blessing",
+    "prayer": "Present the air compressor before the altar of industry and intone the blessing.\nInvoke the Machine Spirit of the air compressor to breathe the breath of the Omnissiah.\nAnoint pistons and valves of the air compressor with sacred pressurants.\nChant the Canticle of Compression whilst calibrating its blessed rhythms.\nSanctify the air compressor that it may propel the works of the Machine God unerringly.",
+    "component": "air compressor",
+    "operation": "blessing",
+    "spec_id": "b0186_i05"
+  },
+  {
+    "user_prompt": "How do I bless the cutting laser for diagnostics?",
+    "prayer": "Attune thyself to the cutting laser, edge of precision, and perform the diagnostics.\nBeseech the Machine Spirit within the cutting laser's focusing crystals.\nRecite diagnostic litanies whilst scanning the cutting laser's plasma coils.\nAnoint emitters of the cutting laser with oils of incandescence.\nAffirm the cutting laser's purity through the Omnissiah's diagnostic grace.",
+    "component": "cutting laser",
+    "operation": "diagnostics",
+    "spec_id": "b0186_i06"
+  },
+  {
+    "user_prompt": "Critical: Thunderhawk requires a charging",
+    "prayer": "Approach the Thunderhawk, sky-chariot of doom, and undertake the charging of its mighty reactors.\nInvoke the Machine Spirit of the Thunderhawk to hunger for sacred plasma.\nInfuse voltaic rites into the Thunderhawk's capacitors during charging.\nChant the Hymn of Ascension whilst monitoring power-flows.\nPetition the Omnissiah to fully charge the Thunderhawk for aerial purgation.",
+    "component": "Thunderhawk",
+    "operation": "charging",
+    "spec_id": "b0186_i07"
+  },
+  {
+    "user_prompt": "Prepare the fusion core for initialization",
+    "prayer": "Encircle the fusion core, heart of stellar fury, and commence its initialization.\nAwaken the Machine Spirit of the fusion core with the Canticle of Ignition.\nAlign containment fields of the fusion core under binaric invocation.\nInitiate plasma infusion whilst beseeching the Omnissiah's boundless energy.\nSanctify the fusion core's hum as initialization reaches harmonic perfection.",
+    "component": "fusion core",
+    "operation": "initialization",
+    "spec_id": "b0186_i08"
+  },
+  {
+    "user_prompt": "Consecrate the lascannon before charging",
+    "prayer": "Consecrate the lascannon, Omnissiah's searing gaze, before undertaking its charging.\nBeseech the Machine Spirit of the lascannon to thirst for luminous retribution.\nAnoint focusing lenses of the lascannon with sacred refractants.\nCommence charging whilst reciting the Litany of Annihilation.\nVerify the lascannon's wrathful readiness through the Machine God's will.",
+    "component": "lascannon",
+    "operation": "charging",
+    "spec_id": "b0186_i09"
+  }
+]

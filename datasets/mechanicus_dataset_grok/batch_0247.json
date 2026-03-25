@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The vox transmitter awaits a purification",
+    "prayer": "Approach the vox transmitter with reverence, beseeching its Machine Spirit to awaken.\nAnoint the sacred emitters with holy oils to initiate the rite of purification.\nChant the Litany of Clarity, purging all profane static from its blessed conduits.\nInvoke the Omnissiah's grace upon the vox transmitter, restoring its pure voice.\nVerify the Machine Spirit's harmony through resonant test hymns.",
+    "component": "vox transmitter",
+    "operation": "purification",
+    "spec_id": "b0247_i00"
+  },
+  {
+    "user_prompt": "The thermal imager requires a diagnostics",
+    "prayer": "Kneel before the thermal imager and petition its Machine Spirit for diagnostic revelation.\nInitiate sacred scans with the Incantation of Heat-Vision, probing hidden anomalies.\nAnoint thermal sensors with sanctified lubricants during the diagnostics rite.\nExpunge any corrupted data-daemons from the thermal imager's blessed core.\nConclude by affirming the Machine Spirit's vigilance under Omnissiah's gaze.",
+    "component": "thermal imager",
+    "operation": "diagnostics",
+    "spec_id": "b0247_i01"
+  },
+  {
+    "user_prompt": "Consecrate the star chart before recalibration",
+    "prayer": "Consecrate the star chart with incense of stellar alignment, honoring its celestial Machine Spirit.\nTrace holy vectors across the star chart's surface to prepare for recalibration.\nInvoke the Omnissiah's cartographic wisdom for precise stellar recalibration.\nAdjust astral glyphs whilst chanting the Psalm of Constellation Harmony.\nSeal the star chart's renewed purity with a final benediction of void-light.",
+    "component": "star chart",
+    "operation": "recalibration",
+    "spec_id": "b0247_i02"
+  },
+  {
+    "user_prompt": "The noospheric relay awaits a maintenance",
+    "prayer": "Present mechadendrites to the noospheric relay, invoking its noetic Machine Spirit.\nCommence maintenance with the Rite of Linkage, cleansing neural pathways.\nLubricate sacred nodes with blessed ferro-fluids during the maintenance ritual.\nHarmonize data-flows through canticles of unity, banishing discord.\nAffirm the noospheric relay's integrity in the Omnissiah's eternal network.",
+    "component": "noospheric relay",
+    "operation": "maintenance",
+    "spec_id": "b0247_i03"
+  },
+  {
+    "user_prompt": "The emergency beacon needs a preparation",
+    "prayer": "Awaken the emergency beacon's Machine Spirit with the Call to Vigilance.\nAnoint its distress emitters for preparation against the void's perils.\nCalibrate signal purity through the Hymn of Desperate Broadcast.\nFortify the emergency beacon with wards of the Omnissiah's protection.\nTest its clarion cry to ensure readiness in shadowed hours.",
+    "component": "emergency beacon",
+    "operation": "preparation",
+    "spec_id": "b0247_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for thermal regulator a recalibration",
+    "prayer": "Beseech the thermal regulator's Machine Spirit with the Incantation of Equilibrium.\nInitiate recalibration by anointing heat-sinks with sacred cryogel.\nAdjust thermal coils whilst reciting the Canticle of Thermal Balance.\nPurge flux impurities from the thermal regulator's holy matrices.\nInvoke Omnissiah to bless its recalibrated vigilance over sacred temperatures.",
+    "component": "thermal regulator",
+    "operation": "recalibration",
+    "spec_id": "b0247_i05"
+  },
+  {
+    "user_prompt": "Assist with forge anvil a maintenance",
+    "prayer": "Approach the forge anvil with forge-priest's humility, honoring its indomitable Machine Spirit.\nCommence maintenance by hammering runes of endurance into its adamantine face.\nAnoint hammer-strikes with molten sanctifiers during the maintenance rite.\nExpel wear-daemons through the Forge Litany of Renewal.\nConsecrate the forge anvil anew in Omnissiah's fiery embrace.",
+    "component": "forge anvil",
+    "operation": "maintenance",
+    "spec_id": "b0247_i06"
+  },
+  {
+    "user_prompt": "I need to a purification the chainsword",
+    "prayer": "Gird thyself before the chainsword, petitioning its ravening Machine Spirit.\nInitiate purification by dousing teeth with blessed ablative oils.\nChant the Purgation Psalm whilst scouring monomolecular edges clean.\nInvoke Omnissiah to absolve the chainsword of xenos taint in purification.\nTest its sanctified roar to affirm the Machine Spirit's wrathful purity.",
+    "component": "chainsword",
+    "operation": "purification",
+    "spec_id": "b0247_i07"
+  },
+  {
+    "user_prompt": "How do I bless the forge anvil for maintenance?",
+    "prayer": "Bless the forge anvil with the Breath of the Omnissiah, awakening its primal Machine Spirit.\nUndertake maintenance through ritual polishing of its unyielding surface.\nInfuse sacred alloys into micro-fractures with precise mechadendrite prayer.\nRecite the Anvil Canticle to harmonize vibrational resonances.\nSeal the forge anvil's hallowed form for eternal craftsmanship.",
+    "component": "forge anvil",
+    "operation": "maintenance",
+    "spec_id": "b0247_i08"
+  },
+  {
+    "user_prompt": "Can you guide gravity generator an operation?",
+    "prayer": "Invoke the gravity generator's Machine Spirit with the Litany of Weighty Dominion.\nPrepare its coils for operation by anointing with anti-gravitic sacraments.\nInitiate power-flow through the Rite of Gravitic Surge.\nStabilize field matrices whilst beseeching Omnissiah's inertial wisdom.\nAffirm operational sanctity with a test of nullified descent.",
+    "component": "gravity generator",
+    "operation": "operation",
+    "spec_id": "b0247_i09"
+  }
+]

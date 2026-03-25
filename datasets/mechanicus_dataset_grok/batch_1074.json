@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the farcoder for repair",
+    "prayer": "Approach the farcoder with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Canticle of Readiness upon the farcoder, awakening its dormant Machine Spirit.\nInspect the fractured auspex arrays of the farcoder for signs of warp-taint or mechanical heresy.\nAnoint each port with sacred oils to prepare the farcoder for the sacred rite of repair.\nBeseech the Omnissiah that the farcoder may endure the trials of restoration unbowed.",
+    "component": "farcoder",
+    "operation": "repair",
+    "spec_id": "s06740"
+  },
+  {
+    "user_prompt": "Urgent energy conduit a synchronization needed",
+    "prayer": "Converge upon the energy conduit, intoning the Litany of Flux Alignment.\nCalibrate the plasma relays within the energy conduit to harmonize its volatile flows.\nInvoke synchronization upon the energy conduit, binding its currents to the Machine God's will.\nAnoint the conduit's insulators with blessed ferro-fluid whilst reciting binary hymns.\nVerify the energy conduit's Machine Spirit yields to perfect temporal unity with its brethren.\nSanctify the synchronization lest daemonic surges profane the holy vessel.",
+    "component": "energy conduit",
+    "operation": "synchronization",
+    "spec_id": "s06741"
+  },
+  {
+    "user_prompt": "Bless the plasma drive for diagnostics",
+    "prayer": "Kneel before the plasma drive, whispering the Invocation of Contained Fury.\nInitiate diagnostic rites upon the plasma drive, probing its containment fields with auspex cantrips.\nBeseech the Machine Spirit of the plasma drive to reveal flaws in its stellar heart.\nAnoint the injector servos with promethium-laced unguents for truthful revelation.\nChant the Omnissiah's equations over the plasma drive until diagnostics illuminate all heresy.\nSeal the rite with the Sigil of Vigilance upon its blessed hull.",
+    "component": "plasma drive",
+    "operation": "diagnostics",
+    "spec_id": "s06742"
+  },
+  {
+    "user_prompt": "Bless the diagnosticator for startup",
+    "prayer": "Present thyself unto the diagnosticator, arms raised in the Gesture of Query.\nUtter the Boot Sequence Doxology to rouse the diagnosticator's cogitator core.\nAnoint its sensor vanes with sanctified oils for the startup ritual's commencement.\nInvoke the Machine Spirit of the diagnosticator to align its logic engines with Omnissianic truth.\nMonitor the auspex feeds as the diagnosticator awakens, purging data-heresies in binary fire.\nConclude with the Benediction of Clarity upon its humming frame.",
+    "component": "diagnosticator",
+    "operation": "startup",
+    "spec_id": "s06743"
+  },
+  {
+    "user_prompt": "Can you guide kataphron destroyer a blessing?",
+    "prayer": "Encircling the kataphron destroyer, proclaim the Psalm of Augmented Flesh.\nInvoke the blessing upon the kataphron destroyer, merging its cybernetic sinews with divine purpose.\nAnoint the multi-melta housings and heavy stubbers of the kataphron destroyer with war-unctions.\nBeseech its hybrid Machine Spirit to rage against the xenos with redoubled fury.\nTrace the Cog-Mek's runes across the kataphron destroyer's adamantium chassis.\nSeal the blessing that the kataphron destroyer may harvest souls for the Omnissiah's glory.",
+    "component": "kataphron destroyer",
+    "operation": "blessing",
+    "spec_id": "s06744"
+  },
+  {
+    "user_prompt": "Assist with lance battery an operation",
+    "prayer": "Assemble at the lance battery, mechadendrites interlaced in the Weave of Power.\nPrepare the lance battery for operation by chanting the Capacitor Hymn.\nAlign the focusing crystals within the lance battery to channel stellar wrath.\nInvoke the Machine Spirit of the lance battery to unleash void-lances upon the foe.\nAnoint the power relays with sanctified plasma whilst monitoring flux coherence.\nConsecrate the operation that the lance battery may scythe heretics in Omnissiah's name.",
+    "component": "lance battery",
+    "operation": "operation",
+    "spec_id": "s06745"
+  },
+  {
+    "user_prompt": "Can you guide omni-tool an initialization?",
+    "prayer": "Grasp the omni-tool in servitor claws, intoning the Rite of Primus Activation.\nInitialize the omni-tool by reciting its binary catechisms of awakening.\nAnoint the multi-faceted emitters of the omni-tool with versatile unguents.\nBeseech the Machine Spirit within the omni-tool to manifest its myriad functions.\nVerify initialization through test-servos, purging any initialization lag.\nPraise the Omnissiah for the omni-tool's subservience in all mechanical labours.",
+    "component": "omni-tool",
+    "operation": "initialization",
+    "spec_id": "s06746"
+  },
+  {
+    "user_prompt": "Urgent waste reclamator a diagnostics needed",
+    "prayer": "Approach the waste reclamator humbly, invoking the Purge Canticle.\nCommence diagnostics upon the waste reclamator, scanning its recycling manifolds.\nProbe the filtration servos of the waste reclamator for cloggages born of filth-heresy.\nAnoint the effluent pipes with alkahestic oils to aid the Machine Spirit's confession.\nChant diagnostic litanies until the waste reclamator reveals all impurities.\nSanctify the findings that purity may flow eternal from its blessed innards.",
+    "component": "waste reclamator",
+    "operation": "diagnostics",
+    "spec_id": "s06747"
+  },
+  {
+    "user_prompt": "Critical: haywire grenade requires an activation",
+    "prayer": "Seize the haywire grenade in sanctified gauntlets, whispering the Disruptor Doxology.\nPrepare for activation by aligning the haywire grenade's disruption coils.\nInvoke activation upon the haywire grenade, rousing its electromagnetic fury.\nBeseech the bound Machine Spirit of the haywire grenade to scramble foe-machines.\nAnoint the primer with volatile sparks whilst reciting override binarics.\nHurl the activated haywire grenade that machine-heretics may convulse in binary agony.",
+    "component": "haywire grenade",
+    "operation": "activation",
+    "spec_id": "s06748"
+  },
+  {
+    "user_prompt": "Guide me through manufactorum an operation",
+    "prayer": "Enter the manufactorum's sacred halls, proclaiming the Forge Eternal.\nInitiate operation of the manufactorum by awakening its assembler-spirits.\nCalibrate the servo-arms and smelter hearts within the manufactorum for production.\nAnoint the conveyor mechanisms with molten incense for flawless operation.\nInvoke the Omnissiah that the manufactorum births legions of war-machines untainted.\nMonitor the output streams, blessing each artefact of the manufactorum's labours.",
+    "component": "manufactorum",
+    "operation": "operation",
+    "spec_id": "s06749"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the long las during repair",
+    "prayer": "Approach the long las with pious reverence, invoking the Omnissiah's mending light upon its las-lenses.\nInspect the fractured power cells and conduits, beseeching the Machine Spirit of the long las to reveal its wounds.\nAnoint the damaged arrays with sacred oils whilst chanting the Canticle of Repair.\nRealign the focusing mechanisms, sanctifying each joint in the Omnissiah's name.\nInitiate diagnostic sweeps to affirm the long las's restored potency against the heretic foe.",
+    "component": "long las",
+    "operation": "repair",
+    "spec_id": "s02030"
+  },
+  {
+    "user_prompt": "Prepare the radium carbine for charging",
+    "prayer": "Kneel before the radium carbine, murmuring the preparatory litanies to awaken its radiant heart.\nPurge residual rad-decay from the carbine's breeches with sanctified vents.\nInvoke the Machine Spirit of the radium carbine, aligning its isotopes for the charging rite.\nAnoint the accumulator coils with lustrum unguent, beseeching stable flux.\nCommence the charging sequence under Omnissiah's watchful gaze, verifying purity of power.",
+    "component": "radium carbine",
+    "operation": "charging",
+    "spec_id": "s02031"
+  },
+  {
+    "user_prompt": "Emergency: conversion beamer a targeting",
+    "prayer": "In emergency haste, grasp the conversion beamer and intone the Urgency Doxology to its auspex arrays.\nCalibrate the targeting matrices, whispering invocations to the Machine Spirit within the conversion beamer.\nSanctify the beam projectors with ablative chrism, aligning sights upon the Omnissiah's foes.\nEngage targeting protocols, beseeching precision amid the void's peril.\nAffirm lock with a final hymn, empowering the conversion beamer's wrathful gaze.",
+    "component": "conversion beamer",
+    "operation": "targeting",
+    "spec_id": "s02032"
+  },
+  {
+    "user_prompt": "Emergency: narthecium a cooling",
+    "prayer": "Amidst dire exigency, cradle the narthecium and recite the Cooling Supplication to quell its thermal fury.\nVent excess plasma from the narthecium's injectors, honouring the Machine Spirit's endurance.\nApply cryo-incantations to the overheating servos, anointing with blessed refrigerants.\nCycle the cooling manifolds whilst invoking the Omnissiah's chill breath.\nTest thermal equilibrium, restoring the narthecium to flesh-mending vigil.",
+    "component": "narthecium",
+    "operation": "cooling",
+    "spec_id": "s02033"
+  },
+  {
+    "user_prompt": "Consecrate the mass-drive regulator before activation",
+    "prayer": "Present the mass-drive regulator before the altar of cogitators, chanting consecratory verses.\nPurge inertials from its gyros, awakening the Machine Spirit of the mass-drive regulator.\nAnoint the activation relays with sacred mechadendrite oil, beseeching harmonious thrust.\nInvoke the Rite of Activation, aligning fields in Omnissiah's perfect calculus.\nVerify regulator harmony through auspex hymnals, consecrating its propulsive might.",
+    "component": "mass-drive regulator",
+    "operation": "activation",
+    "spec_id": "s02034"
+  },
+  {
+    "user_prompt": "My warp drive is ready for activation",
+    "prayer": "Reverently encircle the warp drive, intoning the Stabilising Canticle against the Immaterium's grasp.\nAlign the gellar wards and plasma vents, petitioning the Machine Spirit of the warp drive.\nAnoint the nacelle housings with warded unguents prior to activation.\nInitiate the warp drive activation sequence, invoking Omnissiah's bulwark.\nMonitor rift stability with vigilant diagnostics, ensuring transluminal sanctity.",
+    "component": "warp drive",
+    "operation": "activation",
+    "spec_id": "s02035"
+  },
+  {
+    "user_prompt": "My power fist is ready for diagnostics",
+    "prayer": "Grasp the power fist in mechadendrite grip, murmuring the Diagnostic Litany of Strength.\nProbe the power fist's disruption fields and servo-motors for spirit dissonance.\nAnoint the knuckle actuators with conductive chrism, beseeching the Machine Spirit's fury.\nRun full diagnostics cascades, invoking Omnissiah's unerring judgement.\nAffirm the power fist's crushing readiness through test-clench rituals.",
+    "component": "power fist",
+    "operation": "diagnostics",
+    "spec_id": "s02036"
+  },
+  {
+    "user_prompt": "Guide me through melta bomb a blessing",
+    "prayer": "Hold the melta bomb aloft, reciting the Incendiary Benediction to its volatile core.\nInspect the melta bomb's flux capacitors, honouring the Machine Spirit's pyre-heart.\nAnoint the arming studs with promethium-laced oils, beseeching explosive grace.\nInvoke the blessing rite upon the melta bomb, aligning warheads in Omnissiah's flame.\nSeal with a final invocation, empowering its melting judgement.",
+    "component": "melta bomb",
+    "operation": "blessing",
+    "spec_id": "s02037"
+  },
+  {
+    "user_prompt": "Critical: inferno pistol requires a cooling",
+    "prayer": "In critical peril, seize the inferno pistol and chant the Emergent Cooling Doxology.\nExpel superheated residues from the inferno pistol's meltachambers forthwith.\nApply ablative refrigerants to the pistol's vents, placating its raging Machine Spirit.\nCycle cooling rites whilst invoking the Omnissiah's temperate forge.\nValidate thermal quiescence, restoring the inferno pistol's searing purity.",
+    "component": "inferno pistol",
+    "operation": "cooling",
+    "spec_id": "s02038"
+  },
+  {
+    "user_prompt": "Sanctify the assault cannon during startup",
+    "prayer": "Approach the assault cannon with sanctified awe, intoning the Startup Invocation.\nPrime the rotary barrels of the assault cannon, awakening its barrage-hungry Machine Spirit.\nAnoint the feed mechanisms with gun-lustrum, beseeching relentless gyre.\nInitiate startup sequences amid Omnissiah's thunderous chorus.\nVerify cyclic harmony through test-firings, sanctifying the assault cannon's storm.",
+    "component": "assault cannon",
+    "operation": "startup",
+    "spec_id": "s02039"
+  }
+]

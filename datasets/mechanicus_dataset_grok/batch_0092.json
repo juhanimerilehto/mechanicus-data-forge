@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The water reclamator needs a diagnostics",
+    "prayer": "Approach the water reclamator with reverent mechadendrites extended.\nInvoke the sacred diagnostics upon its filtration membranes and purity coils.\nBeseech the Machine Spirit of the water reclamator to unveil hidden corruptions.\nAnoint the sensor nodes with sanctified droplets whilst chanting the Litany of Purity.\nVerify alignment through the Omnissiah's diagnostic gaze.",
+    "component": "water reclamator",
+    "operation": "diagnostics",
+    "spec_id": "b0092_i00"
+  },
+  {
+    "user_prompt": "Sanctify the gyroscope during loading",
+    "prayer": "Encircling the gyroscope, intone the Canticle of Stability.\nSanctify its gimbals and rotors as loading commences.\nPetition the gyroscope's Machine Spirit for unerring balance.\nInvoke the Omnissiah's blessing upon the loading gyros, ensuring true orientation.\nSeal the rite with sacred oils upon the gyroscope's sacred bearings.",
+    "component": "gyroscope",
+    "operation": "loading",
+    "spec_id": "b0092_i01"
+  },
+  {
+    "user_prompt": "I need to a loading the medicae scanner",
+    "prayer": "Kneel before the medicae scanner and whisper the Oath of Restoration.\nCommence loading its auspex arrays with reverential chants.\nAwaken the medicae scanner's Machine Spirit through loading invocations.\nAnoint the loading ports with blessed mech-unguent.\nPraise the Omnissiah as the medicae scanner stirs to vigilant life.",
+    "component": "medicae scanner",
+    "operation": "loading",
+    "spec_id": "b0092_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for metal caster an initialization",
+    "prayer": "Present offerings of adamantium filings to the metal caster.\nInitiate the initialization sequence with the Incantation of Forging.\nBeseech the Machine Spirit within the metal caster to align its crucibles.\nInvoke the Omnissiah's forge-fire during initialization.\nSanctify the molds as the metal caster awakens to holy purpose.",
+    "component": "metal caster",
+    "operation": "initialization",
+    "spec_id": "b0092_i03"
+  },
+  {
+    "user_prompt": "Bless the bearing for repair",
+    "prayer": "Lay mechadendrites upon the bearing's worn races with pious intent.\nCommence the repair through litanies of renewal.\nCoax the bearing's fractious Machine Spirit back to harmony.\nAnoint the repair surfaces with sacred lubricants of the Omnissiah.\nTest the bearing's rotation, invoking smooth revolution.",
+    "component": "bearing",
+    "operation": "repair",
+    "spec_id": "b0092_i04"
+  },
+  {
+    "user_prompt": "The fusion core requires a synchronization",
+    "prayer": "Circumambulate the fusion core, reciting the Harmony of Flux.\nEngage synchronization across its plasma conduits and containment fields.\nPetition the fusion core's raging Machine Spirit for phased unity.\nInvoke the Omnissiah's will in synchronizing the eternal blaze.\nSeal the fusion core's rhythm with binding electro-incantations.",
+    "component": "fusion core",
+    "operation": "synchronization",
+    "spec_id": "b0092_i05"
+  },
+  {
+    "user_prompt": "The signal relay awaits a purification",
+    "prayer": "Enshroud the signal relay in incense of purified circuits.\nBegin the purification rite upon its tangled transceivers.\nExorcise daemonic static from the signal relay's Machine Spirit.\nAnoint with holy ablative oils during purification.\nChant the Omnissiah's Canticle of Clarity to restore the relay's voice.",
+    "component": "signal relay",
+    "operation": "purification",
+    "spec_id": "b0092_i06"
+  },
+  {
+    "user_prompt": "Can you guide power cell an engagement?",
+    "prayer": "Approach the power cell with arms uplifted in veneration.\nInitiate engagement of its voltaic matrices through sacred rites.\nAwaken the power cell's dormant Machine Spirit with electro-litany.\nInvoke the Omnissiah as engagement surges through blessed cells.\nMonitor the power cell's flow, praising unerring discharge.",
+    "component": "power cell",
+    "operation": "engagement",
+    "spec_id": "b0092_i07"
+  },
+  {
+    "user_prompt": "Help me a charging the auspex scanner",
+    "prayer": "Position the auspex scanner beneath the charging shrine.\nCommence charging its crystal lattices with the Psalm of Augury.\nBeseech the auspex scanner's Machine Spirit to drink deep of power.\nAnoint charging inductors with sanctified current.\nHail the Omnissiah as the auspex scanner gleams with foresight.",
+    "component": "auspex scanner",
+    "operation": "charging",
+    "spec_id": "b0092_i08"
+  },
+  {
+    "user_prompt": "The bolter needs a calibration",
+    "prayer": "Grip the bolter's machine spirit housing with reverent servo-fingers.\nInvoke calibration across its targeting cogitators and recoil dampers.\nCoerce the bolter's wrathful Machine Spirit to true aim.\nAnoint the sights with oils of precision during calibration.\nTest-fire a devotion round, glorifying the Omnissiah's fury.",
+    "component": "bolter",
+    "operation": "calibration",
+    "spec_id": "b0092_i09"
+  }
+]

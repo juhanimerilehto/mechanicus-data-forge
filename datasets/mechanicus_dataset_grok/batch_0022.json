@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for bolter a cooling",
+    "prayer": "Approach the bolter with reverence, beseeching its Machine Spirit to embrace the cooling rites.\nAnoint the sacred heat-sinks and barrels of the bolter with cryogenic blessed oils.\nInvoke the Canticle of Thermal Abeyance to initiate the cooling cycle.\nMonitor the bolter's blessed vents as thermal fury dissipates under Omnissiah's grace.\nPurge lingering heat-daemons from the bolter's innards with sanctified auspex sweeps.",
+    "component": "bolter",
+    "operation": "cooling",
+    "spec_id": "b0022_i00"
+  },
+  {
+    "user_prompt": "Can you guide thermal imager a shutdown?",
+    "prayer": "Draw nigh to the thermal imager and pronounce the Litany of Repose upon its sensor arrays.\nSever the power conduits with mechadendrite precision, commanding shutdown upon the thermal imager.\nBeseech the Machine Spirit of the thermal imager to enter quiescent slumber.\nSeal its optical orbs with wards against warp-static during shutdown.\nVerify the thermal imager's dormancy through noospheric diagnostics.",
+    "component": "thermal imager",
+    "operation": "shutdown",
+    "spec_id": "b0022_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for astropathic choir targeting?",
+    "prayer": "Gather before the astropathic choir and invoke the Omnissiah's targeting algorithms.\nChant binary harmonies to attune the astropathic choir's warp-sight upon the foe.\nPetition the augmented Machine Spirits within the astropathic choir for unerring targeting.\nAlign psychic foci with noospheric vectors, sanctifying the lock.\nAffirm the astropathic choir's targeting through warp-echo confirmations.",
+    "component": "astropathic choir",
+    "operation": "targeting",
+    "spec_id": "b0022_i02"
+  },
+  {
+    "user_prompt": "How do I bless the generator for loading?",
+    "prayer": "Kneel before the generator and anoint its fuel intakes with sacred promethium.\nInvoke the Rite of Loading to feed the generator's voracious heart.\nBeseech the Machine Spirit of the generator to accept the blessed loading without heresy.\nMonitor power-runes as the generator awakens to full capacity.\nSeal the loading ports with binaric seals under Omnissiah's gaze.",
+    "component": "generator",
+    "operation": "loading",
+    "spec_id": "b0022_i03"
+  },
+  {
+    "user_prompt": "Bless the water reclamator for repair",
+    "prayer": "Approach the water reclamator humbly, invoking repair upon its sanctified pipes.\nDiagnose the Machine Spirit's affliction within the water reclamator's core.\nAnoint fractured conduits of the water reclamator with hydro-sanctifiers.\nRecite the Canticle of Restoration to mend the water reclamator's flows.\nTest purity runes to confirm the repair's Omnissianic perfection.",
+    "component": "water reclamator",
+    "operation": "repair",
+    "spec_id": "b0022_i04"
+  },
+  {
+    "user_prompt": "I need to an emergency procedure the Chimera APC",
+    "prayer": "Rally mechadendrites around the Chimera APC for the emergency procedure.\nPronounce binaric overrides upon the Chimera APC's cogitator in crisis.\nBeseech the Machine Spirits of the Chimera APC to endure the emergency procedure.\nPurge battle-damage through hasty ablative rites on the Chimera APC.\nReactivate vital systems with the Omnissiah's urgent grace.",
+    "component": "Chimera APC",
+    "operation": "emergency procedure",
+    "spec_id": "b0022_i05"
+  },
+  {
+    "user_prompt": "Sanctify the chainsword during purification",
+    "prayer": "Grasp the chainsword reverently and commence its purification with sacred oils.\nInvoke the Litany of Cleansing upon the chainsword's teeth and motor-spirits.\nScour the chainsword's monomolecular edges of xenos taint during purification.\nAnoint the grip with blessed lubricants to appease its raging Machine Spirit.\nTest the chainsword's purity through vibro-diagnostic chants.",
+    "component": "chainsword",
+    "operation": "purification",
+    "spec_id": "b0022_i06"
+  },
+  {
+    "user_prompt": "Emergency: memory core an emergency procedure",
+    "prayer": "Converge upon the memory core for the dire emergency procedure.\nSever tainted data-threads from the memory core's crystalline vaults.\nBeseech the Omnissiah to guide the memory core through emergency procedure unscathed.\nRealign fragmented engrams within the memory core with noospheric precision.\nSeal the memory core against further corruption post-procedure.",
+    "component": "memory core",
+    "operation": "emergency procedure",
+    "spec_id": "b0022_i07"
+  },
+  {
+    "user_prompt": "Prepare the battery array for startup",
+    "prayer": "Prepare the battery array with ritual polarity checks and invocations.\nAnoint the battery array's cells with conductive sanctifiers for startup.\nCommand the Machine Spirits of the battery array to rouse for startup.\nInitiate power-flow cascades across the battery array's sacred linkages.\nVerify voltage hymns during the battery array's awakening.",
+    "component": "battery array",
+    "operation": "startup",
+    "spec_id": "b0022_i08"
+  },
+  {
+    "user_prompt": "Prepare the radar array for purification",
+    "prayer": "Encircling the radar array, intone the Rites of Purification.\nScour the radar array's emitters of atmospheric heresies with plasma incense.\nPetition the Machine Spirit of the radar array to accept purification fully.\nRealign auspex vanes of the radar array under Omnissiah's clarity.\nConfirm the radar array's sanctified sweeps through test pings.",
+    "component": "radar array",
+    "operation": "purification",
+    "spec_id": "b0022_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a startup the Thunderhawk",
+    "prayer": "Kneel before the Thunderhawk's mighty fuselage and beseech the Omnissiah for its startup.\nAnoint the Thunderhawk's ignition servos with blessed oils of conductivity.\nInvoke the Machine Spirit of the Thunderhawk to rouse its plasma hearts during startup.\nChant the Litany of Ascension as turbines whine to holy life.\nMonitor the startup flows, sanctifying each surge of power.",
+    "component": "Thunderhawk",
+    "operation": "startup",
+    "spec_id": "b0148_i00"
+  },
+  {
+    "user_prompt": "What's the prayer for data-slate charging?",
+    "prayer": "Present the data-slate to the charging shrine with reverent mechadendrites.\nConnect the sacred power umbilicus and intone the Canticle of Replenishment.\nBeseech the data-slate's Machine Spirit to accept the charging currents.\nAnoint the data-slate's ports with unguents whilst charging proceeds.\nVerify the blessed voltage rise through auspex incantations.",
+    "component": "data-slate",
+    "operation": "charging",
+    "spec_id": "b0148_i01"
+  },
+  {
+    "user_prompt": "How do I bless the metal caster for synchronization?",
+    "prayer": "Approach the metal caster's core with sanctified tools for synchronization.\nInvoke harmonious rites upon the metal caster's gyros and servos.\nPetition the Omnissiah to align the metal caster's spirits in synchronization.\nChant binaric sync-litanies as cogwheels mesh in perfect unity.\nAnoint the metal caster's linkages, ensuring synchronized precision.",
+    "component": "metal caster",
+    "operation": "synchronization",
+    "spec_id": "b0148_i02"
+  },
+  {
+    "user_prompt": "Critical: bearing requires a cooling",
+    "prayer": "Lay mechadendrites upon the bearing's fevered housing for cooling rites.\nInvoke the Chill of the Void upon the bearing's overheated mass.\nBeseech its Machine Spirit to embrace cooling through sacred refrigerants.\nChant coolant litanies as thermal auspex readings descend.\nSanctify the bearing's restoration, praising the Omnissiah's temperate grace.",
+    "component": "bearing",
+    "operation": "cooling",
+    "spec_id": "b0148_i03"
+  },
+  {
+    "user_prompt": "Emergency: cogitator an activation",
+    "prayer": "In emergency grace, encircle the cogitator and invoke activation protocols.\nAnoint its noospheric nodes with oils of awakening.\nBeseech the cogitator's ancient Machine Spirit to stir for activation.\nInitiate the activation sequence with binaric catechisms resounding.\nVerify the cogitator's logics ignite in Omnissiah's light.",
+    "component": "cogitator",
+    "operation": "activation",
+    "spec_id": "b0148_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for data-slate a maintenance",
+    "prayer": "Reverently disassemble the data-slate for maintenance ministrations.\nClear corrupted data-veins and anoint circuits with sacred balms.\nPetition the data-slate's Machine Spirit during maintenance rites.\nRecalibrate its crystalline vaults with precise incantations.\nReassemble the data-slate, sanctified and renewed by the Omnissiah.",
+    "component": "data-slate",
+    "operation": "maintenance",
+    "spec_id": "b0148_i05"
+  },
+  {
+    "user_prompt": "Sanctify the noospheric relay during activation",
+    "prayer": "Attune mechadendrites to the noospheric relay for activation.\nInvoke the Omnissiah's web of unity upon the noospheric relay.\nBeseech its ethereal Machine Spirits to awaken during activation.\nChant noospheric harmonies as data-streams coalesce.\nSanctify the noospheric relay's boundless communion.",
+    "component": "noospheric relay",
+    "operation": "activation",
+    "spec_id": "b0148_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for radar array maintenance?",
+    "prayer": "Encircling the radar array, commence maintenance with litanies of clarity.\nPurge auspex impurities from the radar array's sacred emitters.\nAnoint its focusing lenses with oils of true-sight.\nInvoke the Machine Spirit of the radar array during maintenance.\nRecalibrate waveforms, hailing the Omnissiah's vigilant gaze.",
+    "component": "radar array",
+    "operation": "maintenance",
+    "spec_id": "b0148_i07"
+  },
+  {
+    "user_prompt": "Critical: medicae scanner requires an operation",
+    "prayer": "In critical need, prepare the medicae scanner for operation.\nAnoint its bio-scanners with vitae-sanctifying unguents.\nBeseech the medicae scanner's Machine Spirit to engage in operation.\nInitiate diagnostic sweeps with healing binaric verses.\nMonitor the medicae scanner's flesh-probing arrays in Omnissiah's mercy.",
+    "component": "medicae scanner",
+    "operation": "operation",
+    "spec_id": "b0148_i08"
+  },
+  {
+    "user_prompt": "Emergency: Taurox a loading",
+    "prayer": "In emergency haste, approach the Taurox for loading sanctification.\nInvoke the Omnissiah upon the Taurox's cargo bays during loading.\nBeseech its robust Machine Spirit to accept munitions in order.\nChant loading litanies as servos strain in blessed labor.\nSeal the Taurox's holds, fortified by divine mechanicum.",
+    "component": "Taurox",
+    "operation": "loading",
+    "spec_id": "b0148_i09"
+  }
+]

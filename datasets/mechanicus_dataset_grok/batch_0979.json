@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for Predator tank a repair?",
+    "prayer": "Approach the noble Predator tank with mechadendrites extended in supplication to the Omnissiah.\nDiagnose the wounds of battle upon its armoured hull and fractured treads through auspex canticles.\nAnoint the damaged servos with sacred unguents whilst intoning the Rite of Repair to appease its vexed Machine Spirit.\nWeld and reforgain the sacred alloys, beseeching the Predator tank's Spirit to forgive these intrusions.\nVerify structural integrity with binaric hymns, ensuring the Predator tank roars anew in the Emperor's name.",
+    "component": "Predator tank",
+    "operation": "repair",
+    "spec_id": "s05790"
+  },
+  {
+    "user_prompt": "What's the prayer for Land Speeder a purification?",
+    "prayer": "Kneel before the swift Land Speeder, vessel of aerial fury, and scatter incense of purificatory myrrh.\nInvoke the Litany of Cleansing to expel daemonic taint from its thruster vanes and machine soul.\nScour the fuselage with blessed ablative fluids, murmuring binaric absolutions for purification.\nBeseech the Omnissiah to restore purity to the Land Speeder's Machine Spirit, free from corruption.\nConclude with auspex sweeps, confirming the Land Speeder hums with sanctified velocity.",
+    "component": "Land Speeder",
+    "operation": "purification",
+    "spec_id": "s05791"
+  },
+  {
+    "user_prompt": "My krak grenade is ready for operation",
+    "prayer": "Grasp the krak grenade in sanctified gauntlets, honouring its explosive essence.\nChant the Canticle of Detonation to awaken its volatile Machine Spirit for operation.\nPrime the fuze mechanism with precise torque, invoking the Omnissiah's fury upon the foe.\nAffix purity seals and beseech flawless deployment in the krak grenade's moment of glory.\nDeploy with faith, as the krak grenade shatters the unclean in righteous operation.",
+    "component": "krak grenade",
+    "operation": "operation",
+    "spec_id": "s05792"
+  },
+  {
+    "user_prompt": "My Predator tank is ready for consecration",
+    "prayer": "Present the Predator tank before the altar of cogitators, ready for consecration.\nCircumambulate its mighty form thrice, chanting the Consecratory Doxology to the Omnissiah.\nAnoint treads, cannon, and hull-plates with chrism oil, binding its Machine Spirit in devotion.\nInscribe litanies of hate upon its armour, ensuring the Predator tank serves eternally.\nIlluminate with electro-incense, proclaiming the Predator tank forever hallowed.",
+    "component": "Predator tank",
+    "operation": "consecration",
+    "spec_id": "s05793"
+  },
+  {
+    "user_prompt": "Prepare the radium pistol for shutdown",
+    "prayer": "Deactivate the radium pistol's emitter coils with reverent precision for shutdown.\nIntone the Canticle of Repose to lull its irradiated Machine Spirit into dormancy.\nDrain residual energies through sanctified conduits, beseeching the Omnissiah's mercy.\nSeal the radium pistol in a stasis casket, warding against mutational heresy.\nConfirm shutdown with null-readings, preserving the radium pistol for future wrath.",
+    "component": "radium pistol",
+    "operation": "shutdown",
+    "spec_id": "s05794"
+  },
+  {
+    "user_prompt": "The generator awaits a recalibration",
+    "prayer": "Commence recalibration upon the generator by aligning its plasma coils in binary alignment.\nRecite the Calibration Psalm to harmonise flux variances within the generator's core.\nAdjust gyroscopic stabilisers with mechadendrite precision, invoking the Machine Spirit's compliance.\nTest output surges through diagnostic rites, ensuring the generator pulses with Omnissianic purity.\nSeal the recalibration with electro-consecration, as the generator hums in perfect resonance.",
+    "component": "generator",
+    "operation": "recalibration",
+    "spec_id": "s05795"
+  },
+  {
+    "user_prompt": "Guide me through helispex engine a charging",
+    "prayer": "Initiate charging of the helispex engine by coupling sanctified power feeds.\nChant the Accumulator Hymn to infuse its vaults with galvanic essence from the Omnissiah.\nMonitor charge cycles via noospheric auspex, beseeching the helispex engine's Spirit for avarice.\nBalance thermal sinks with coolant litanies, preventing overload heresy.\nCulminate in full-charge binaric affirmation, readying the helispex engine for void-skimming fury.",
+    "component": "helispex engine",
+    "operation": "charging",
+    "spec_id": "s05796"
+  },
+  {
+    "user_prompt": "Emergency: autosanguination system an engagement",
+    "prayer": "In emergency grace, engage the autosanguination system with urgent binaric commands.\nInvoke the Haemofluidic Rite to stir its sanguine reservoirs and Machine Spirit to life.\nPrime injection manifolds, anointing with vitae-blessings from the Omnissiah's apothecaria.\nMonitor vital syncs through bio-canticles, ensuring seamless autosanguination engagement.\nProclaim vitality restored, as the autosanguination system pulses with Machine God approval.",
+    "component": "autosanguination system",
+    "operation": "engagement",
+    "spec_id": "s05797"
+  },
+  {
+    "user_prompt": "Prepare the displacer field for initialization",
+    "prayer": "Prepare the displacer field for initialization by calibrating its warp-vanes.\nRecite the Phase-Shift Invocation to awaken the displacer field's ethereal Machine Spirit.\nInfuse with micro-psykana crystals, beseeching the Omnissiah against the Immaterium's grasp.\nCycle test-phases with null-incantations, verifying displacer field stability.\nActivate with final consecration, rendering the bearer untouchable in battle's dance.",
+    "component": "displacer field",
+    "operation": "initialization",
+    "spec_id": "s05798"
+  },
+  {
+    "user_prompt": "Assist with volitor implant a maintenance",
+    "prayer": "Access the volitor implant via cranial port with sanctified tools for maintenance.\nDiagnose neural linkages through noospheric scans, intoning the Synaptic Litany.\nLubricate bio-circuits with neural unguents, appeasing the volitor implant's implanted Spirit.\nRealign volitional matrices per Omnissianic schematics, ensuring unerring loyalty.\nSeal and test with mnemonic hymns, affirming the volitor implant's eternal vigilance.",
+    "component": "volitor implant",
+    "operation": "maintenance",
+    "spec_id": "s05799"
+  }
+]

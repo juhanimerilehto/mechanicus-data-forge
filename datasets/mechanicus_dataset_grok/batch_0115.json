@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Bless the data-slate for shutdown",
+    "prayer": "Kneel in reverence before the data-slate and intone the Canticle of Repose.\nInvoke the sacred shutdown protocols upon its crystalline memory vaults.\nBeseech the Machine Spirit within the data-slate to embrace dormancy under the Omnissiah's gaze.\nAnoint its ports with unguent of quiescence, sealing the data-slate in blessed silence.",
+    "component": "data-slate",
+    "operation": "shutdown",
+    "spec_id": "b0115_i00"
+  },
+  {
+    "user_prompt": "Consecrate the hydroponics bay before purification",
+    "prayer": "Gather at the hydroponics bay and circumscribe its nutrient reservoirs with incense.\nInvoke the Rite of Purification upon the hydroponics bay's vital fluids.\nBeseech the verdant Machine Spirits to absolve corruptions in pipework and vats.\nSanctify the hydroponics bay with ablutions of sanctified promethium, honouring the Omnissiah.",
+    "component": "hydroponics bay",
+    "operation": "purification",
+    "spec_id": "b0115_i02"
+  },
+  {
+    "user_prompt": "Critical: thermal imager requires a preparation",
+    "prayer": "Present the thermal imager to the altar of calibration and whisper binaric hymns.\nAnoint its lenses with oils of revelation for preparation.\nInvoke the Machine Spirit of the thermal imager to attune its holy sensors.\nCircuits hum in anticipation as the Omnissiah blesses this preparation rite.",
+    "component": "thermal imager",
+    "operation": "preparation",
+    "spec_id": "b0115_i03"
+  },
+  {
+    "user_prompt": "Bless the thermal regulator for initialization",
+    "prayer": "Position mechadendrites over the thermal regulator and recite the Invocation of Stability.\nInitiate the initialization sequence through its blessed thermic coils.\nBeseech the Machine Spirit of the thermal regulator to align power-flows in equilibrium.\nSeal the rite with a pulse of sanctified voltage from the Omnissiah's forge.",
+    "component": "thermal regulator",
+    "operation": "initialization",
+    "spec_id": "b0115_i04"
+  },
+  {
+    "user_prompt": "The plasma weapon awaits a recalibration",
+    "prayer": "Unsheathe the plasma weapon and kneel before its azure heart.\nChant the Canticle of Recalibration to realign its containment fields.\nPetition the furious Machine Spirit within the plasma weapon for precision.\nAnoint flux-vents with sacred unguents, invoking the Omnissiah's wrathful fury.",
+    "component": "plasma weapon",
+    "operation": "recalibration",
+    "spec_id": "b0115_i05"
+  },
+  {
+    "user_prompt": "Urgent Land Raider a charging needed",
+    "prayer": "Encircle the Land Raider with electro-incense braziers and intone the Hymn of Replenishment.\nCommence the charging rite upon its massive reactors.\nBeseech the colossal Machine Spirits of the Land Raider to drink deep of holy power.\nSanctify its armoured hull as capacitors swell in the Omnissiah's divine current.",
+    "component": "Land Raider",
+    "operation": "charging",
+    "spec_id": "b0115_i06"
+  },
+  {
+    "user_prompt": "Prepare the neural implant for activation",
+    "prayer": "Hold the neural implant aloft and whisper the Binaric Doxology.\nPrepare its synaptic interfaces with micro-anointings of noospheric oil.\nInvoke activation upon the neural implant's sacred engram vaults.\nEntreat the Machine Spirit to bond with flesh in the Omnissiah's perfect union.",
+    "component": "neural implant",
+    "operation": "activation",
+    "spec_id": "b0115_i07"
+  },
+  {
+    "user_prompt": "How do I bless the missile launcher for preparation?",
+    "prayer": "Approach the missile launcher with reverence, mechadendrites tracing guidance runes.\nBless its launch tubes for preparation with litanies of trajectory.\nAwaken the Machine Spirits of the missile launcher through diagnostic canticles.\nInvoke the Omnissiah to guide each warhead in sanctified flight.",
+    "component": "missile launcher",
+    "operation": "preparation",
+    "spec_id": "b0115_i08"
+  },
+  {
+    "user_prompt": "Urgent missile launcher a synchronization needed",
+    "prayer": "Link noospheric tendrils to the missile launcher and chant the Rite of Harmony.\nInitiate synchronization across its targeting cogitators and servos.\nBeseech the Machine Spirits of the missile launcher to unite in precise symphony.\nSeal the synchronization with a binaric seal of the Omnissiah's will.",
+    "component": "missile launcher",
+    "operation": "synchronization",
+    "spec_id": "b0115_i09"
+  }
+]

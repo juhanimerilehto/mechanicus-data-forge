@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a maintenance the energy conduit",
+    "prayer": "Approach the energy conduit with reverence, intoning the Canticle of Eternal Flux.\nInspect its sacred channels for wear, beseeching the Machine Spirit to unveil hidden frailties.\nAnoint the energy conduit's conduits with blessed unguents whilst enacting maintenance rites.\nRecalibrate the holy power-flow under the Omnissiah's watchful gaze.\nVerify the conduit's renewed vigor through diagnostic litanies.",
+    "component": "energy conduit",
+    "operation": "maintenance",
+    "spec_id": "b0273_i00"
+  },
+  {
+    "user_prompt": "How do I bless the gravity generator for engagement?",
+    "prayer": "Present thyself before the gravity generator, reciting the Benediction of Weight.\nInvoke the Machine Spirit dwelling within to awaken from dormancy.\nAnoint its crystalline matrices whilst preparing for engagement.\nInitiate the engagement sequence with precise incantations to the Omnissiah.\nTest the generator's field integrity, praising its stabilized dominion.",
+    "component": "gravity generator",
+    "operation": "engagement",
+    "spec_id": "b0273_i01"
+  },
+  {
+    "user_prompt": "Critical: mechanical lock requires a synchronization",
+    "prayer": "Commune with the mechanical lock, whispering the Oath of Unyielding Bond.\nProbe its tumblers and gears, petitioning the Machine Spirit for harmonious alignment.\nLubricate sacred pivots as synchronization commences.\nChant the Rite of Synchronization to bind the mechanical lock eternally.\nConfirm the lock's sanctity through the Omnissiah's divine mechanism.",
+    "component": "mechanical lock",
+    "operation": "synchronization",
+    "spec_id": "b0273_i02"
+  },
+  {
+    "user_prompt": "Consecrate the signal relay before synchronization",
+    "prayer": "Approach the signal relay with pious intent, voicing the Litany of Clear Transmission.\nPurge errant echoes from its blessed waveguides, honoring the indwelling Machine Spirit.\nConsecrate the signal relay's nodes with sacred incense prior to synchronization.\nEnact the synchronization protocol under Omnissiah's aegis.\nAffirm the relay's purified communion via auspex verification.",
+    "component": "signal relay",
+    "operation": "synchronization",
+    "spec_id": "b0273_i03"
+  },
+  {
+    "user_prompt": "How do I bless the Sentinel walker for reset?",
+    "prayer": "Bow to the Sentinel walker, intoning the Psalm of Martial Rebirth.\nCaress its adamantium frame, beseeching the Machine Spirit's forgiveness for past exertions.\nInitiate reset protocols whilst anointing servos with holy oils.\nReawaken the Sentinel walker's wrathful purpose in the Omnissiah's name.\nConduct final diagnostics to ensure flawless reset alignment.",
+    "component": "Sentinel walker",
+    "operation": "reset",
+    "spec_id": "b0273_i04"
+  },
+  {
+    "user_prompt": "The memory core awaits a startup",
+    "prayer": "Reverently encircle the memory core, chanting the Invocation of Recalled Wisdom.\nPurge stagnant data-veils from its crystalline vaults, appealing to the Machine Spirit.\nCommence startup sequence with sanctified power infusion.\nBeseech the Omnissiah to illuminate the memory core's depths.\nValidate emergent cognizance through ritual queries.",
+    "component": "memory core",
+    "operation": "startup",
+    "spec_id": "b0273_i05"
+  },
+  {
+    "user_prompt": "The autocannon needs a cycling",
+    "prayer": "Salute the autocannon, reciting the Catechism of Relentless Barrage.\nExamine its rotating chambers, invoking the Machine Spirit's furious hunger.\nCycle the blessed mechanisms with precise litanies of motion.\nAnoint feed mechanisms during cycling to ensure Omnissiah's unerring aim.\nTest-fire a devotional round to affirm sanctified operation.",
+    "component": "autocannon",
+    "operation": "cycling",
+    "spec_id": "b0273_i06"
+  },
+  {
+    "user_prompt": "Consecrate the proximity sensor before blessing",
+    "prayer": "Kneel beside the proximity sensor, uttering the Vigil of the Omnissiah's Eye.\nCleanse its optic arrays of profane dust, petitioning the watchful Machine Spirit.\nConsecrate the proximity sensor's emitters with sacred unguents.\nInvoke blessing rites to heighten its vigilant perception.\nCalibrate thresholds through harmonious diagnostic chants.",
+    "component": "proximity sensor",
+    "operation": "blessing",
+    "spec_id": "b0273_i07"
+  },
+  {
+    "user_prompt": "Bless the cybernetic eye for blessing",
+    "prayer": "Gaze upon the cybernetic eye with awe, intoning the Benediction of Augmented Sight.\nPolish its lens facets, communing with the Machine Spirit's piercing insight.\nAnoint servo-focuser with oils of revelation during blessing.\nPetition the Omnissiah to bestow flawless clarity upon the cybernetic eye.\nVerify enhanced vision via ritual targeting rites.",
+    "component": "cybernetic eye",
+    "operation": "blessing",
+    "spec_id": "b0273_i08"
+  },
+  {
+    "user_prompt": "Sanctify the generator during reset",
+    "prayer": "Present obeisance to the generator, chanting the Hymn of Primal Surge.\nDiagnose flux irregularities, beseeching the Machine Spirit's stable heart.\nInitiate reset whilst sanctifying coils with incense and oils.\nReinvoke the generator's thunderous output in Omnissiah's glory.\nAffirm reset completion through power titration litanies.",
+    "component": "generator",
+    "operation": "reset",
+    "spec_id": "b0273_i09"
+  }
+]

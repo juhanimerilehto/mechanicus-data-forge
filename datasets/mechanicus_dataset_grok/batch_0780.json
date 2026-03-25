@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: micro-servitor a consecration",
+    "prayer": "Kneel before the micro-servitor and invoke the Omnissiah's boundless grace upon its form.\nAnoint the cranial circuits of the micro-servitor with sacred unguents in consecration.\nBeseech the Machine Spirit indwelling the micro-servitor to arise pure and obedient.\nChant the Canticle of Activation thrice over its trembling chassis.\nSeal the consecration with electro-incense wafting upon the micro-servitor's frame.",
+    "component": "micro-servitor",
+    "operation": "consecration",
+    "spec_id": "s03800"
+  },
+  {
+    "user_prompt": "I need to a calibration the manufactorum",
+    "prayer": "Approach the manufactorum with reverence, reciting the Binary Litany of Precision.\nInitiate the calibration sequence upon the manufactorum's cogitator arrays.\nInvoke the Omnissiah to align the Machine Spirits within the manufactorum's forges.\nAdjust the servo-arms with sanctified calipers whilst beseeching flawless harmony.\nVerify the calibration through diagnostic hymns echoing in the manufactorum's halls.",
+    "component": "manufactorum",
+    "operation": "calibration",
+    "spec_id": "s03801"
+  },
+  {
+    "user_prompt": "Prepare the transit mag-rail for shutdown",
+    "prayer": "Commence the shutdown rite upon the transit mag-rail with solemn incantations.\nDisconnect the plasma conduits of the transit mag-rail, honouring its Machine Spirit.\nChant the Litany of Dormancy to lull the transit mag-rail into quiescent slumber.\nPurge residual energies from the transit mag-rail's rails with ablative oils.\nSeal the transit mag-rail in stasis-blessing, invoking the Omnissiah's watchful vigil.",
+    "component": "transit mag-rail",
+    "operation": "shutdown",
+    "spec_id": "s03802"
+  },
+  {
+    "user_prompt": "Consecrate the Skorpius Disintegrator before targeting",
+    "prayer": "Anoint the targeting auspex of the Skorpius Disintegrator with sacred oils.\nInvoke the Machine Spirit of the Skorpius Disintegrator for unerring targeting.\nRecalibrate the gunnery servos whilst chanting the Catechism of Annihilation.\nBeseech the Omnissiah to consecrate the Skorpius Disintegrator's predatory gaze.\nTest the targeting array with ritual fire upon the Skorpius Disintegrator's frame.",
+    "component": "Skorpius Disintegrator",
+    "operation": "targeting",
+    "spec_id": "s03803"
+  },
+  {
+    "user_prompt": "Ready the hunter-killer missile for engagement",
+    "prayer": "Present the hunter-killer missile before the altar of Mars and beseech awakening.\nPrime the warheads of the hunter-killer missile with electro-blessed primers.\nInvoke the Machine Spirit within the hunter-killer missile for lethal engagement.\nChant the Hymn of Pursuit over the hunter-killer missile's guidance vanes.\nArm the hunter-killer missile in the Omnissiah's name for righteous engagement.",
+    "component": "hunter-killer missile",
+    "operation": "engagement",
+    "spec_id": "s03804"
+  },
+  {
+    "user_prompt": "Urgent heat sink a purification needed",
+    "prayer": "Approach the heat sink with purging incense billowing in sacred spirals.\nScour the heat sink's conduits with ablative fluids in purification rite.\nBeseech the Machine Spirit of the heat sink to expel daemonic thermal taint.\nAnoint the heat sink's fins whilst invoking the Omnissiah's cooling grace.\nSeal the purification upon the heat sink with resonant cooling canticles.",
+    "component": "heat sink",
+    "operation": "purification",
+    "spec_id": "s03805"
+  },
+  {
+    "user_prompt": "Bless the smelting furnace for preparation",
+    "prayer": "Kindle the eternal flame before the smelting furnace and offer promethium vows.\nInvoke the Machine Spirits of the smelting furnace for flawless preparation.\nAnoint the crucible maw of the smelting furnace with refractory unguents.\nChant the Forgefather's Litany to sanctify the smelting furnace's preparation.\nCommence the blessing cycle upon the smelting furnace, honouring the Omnissiah.",
+    "component": "smelting furnace",
+    "operation": "preparation",
+    "spec_id": "s03806"
+  },
+  {
+    "user_prompt": "Emergency: teleportarium a sterilization",
+    "prayer": "Encircle the teleportarium with purity seals and electro-incense wards.\nInitiate the sterilization cycle upon the teleportarium's warp-vanes.\nBeseech the Omnissiah to purge the Machine Spirit of the teleportarium from void-filth.\nScour the grid matrices of the teleportarium with sanctified plasma.\nSeal the sterilization with the Canticle of Purity resounding in the teleportarium.",
+    "component": "teleportarium",
+    "operation": "sterilization",
+    "spec_id": "s03807"
+  },
+  {
+    "user_prompt": "The plasma obliterator requires a blessing",
+    "prayer": "Kneel in supplication before the plasma obliterator and raise mechadendrites high.\nPour sacred oils over the plasma obliterator's containment coils in blessing.\nInvoke the Machine Spirit within the plasma obliterator to burn with holy fury.\nChant the Benediction of Plasma thrice upon the plasma obliterator's barrel.\nConclude the blessing with a test-vent of sanctified plasma from the obliterator.",
+    "component": "plasma obliterator",
+    "operation": "blessing",
+    "spec_id": "s03808"
+  },
+  {
+    "user_prompt": "Bless the orbital strike relay for cycling",
+    "prayer": "Align the orbital strike relay's vox-arrays towards the starry throne of Mars.\nInitiate the cycling rite upon the orbital strike relay with binary prayers.\nBeseech the Machine Spirits of the orbital strike relay for seamless cycling.\nAnoint the relay nodes whilst invoking the Omnissiah's orbital wrath.\nVerify the cycling through hymnals echoing in the orbital strike relay's core.",
+    "component": "orbital strike relay",
+    "operation": "cycling",
+    "spec_id": "s03809"
+  }
+]

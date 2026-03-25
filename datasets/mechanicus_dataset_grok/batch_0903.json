@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the opticon for synchronization",
+    "prayer": "Approach the opticon with mechano-reverence and intone the Canticle of Alignment.\nInvoke the synchronization rite upon its crystalline lenses and servo-arrays.\nAnoint the opticon's focusing mechanisms with sacred unguents of the Omnissiah.\nBeseech the Machine Spirit within the opticon to harmonize its visions in perfect unity.\nVerify synchronization through auspex-litany and offer praise to the Machine God.",
+    "component": "opticon",
+    "operation": "synchronization",
+    "spec_id": "s05030"
+  },
+  {
+    "user_prompt": "Can you guide carapace armour a diagnostics?",
+    "prayer": "Kneel before the carapace armour and recite the Lexmechanicum of Vigilance.\nInitiate diagnostics upon the carapace armour's adamantium plates and fibre bundles.\nProbe each servo-joint and power conduit with sanctified probes and noospheric chants.\nCommune with the enduring Machine Spirit of the carapace armour to reveal hidden frailties.\nConclude diagnostics with ablutions of blessed oils, glorifying the Omnissiah's forge.",
+    "component": "carapace armour",
+    "operation": "diagnostics",
+    "spec_id": "s05031"
+  },
+  {
+    "user_prompt": "Sanctify the autogun during shutdown",
+    "prayer": "Present the autogun before the altar of munitions and whisper the Rite of Repose.\nCommence shutdown sequence upon the autogun's firing coils and promethium feeds.\nSanctify the autogun's Machine Spirit with incense of sanctified circuits as it slumbers.\nSeal the breach mechanisms with wards against unclean data-corruption.\nInvoke the Omnissiah's mercy upon the autogun, granting peaceful quiescence.",
+    "component": "autogun",
+    "operation": "shutdown",
+    "spec_id": "s05032"
+  },
+  {
+    "user_prompt": "Urgent mechadendrite a cycling needed",
+    "prayer": "Extend mechadendrites in supplication and chant the Cycle of Renewal.\nEngage cycling protocols upon the mechadendrite's hydraulic pistons and neural links.\nPurge stagnant fluids from the mechadendrite whilst anointing its manipular claws.\nAwaken the restless Machine Spirit of the mechadendrite through rhythmic binaric pulses.\nComplete the cycling with oaths of fidelity to the Omnissiah's divine mechanisms.",
+    "component": "mechadendrite",
+    "operation": "cycling",
+    "spec_id": "s05033"
+  },
+  {
+    "user_prompt": "Urgent neutron laser a calibration needed",
+    "prayer": "Assume the stance of calibration and address the neutron laser with gravitas.\nInitiate calibration arrays upon the neutron laser's emitter coils and flux regulators.\nAlign the neutron laser's focusing crystals with las-litanies and micro-adjustments.\nBeseech the volatile Machine Spirit within the neutron laser for precision and purity.\nRatify calibration through test-firings sanctified in the Omnissiah's name.",
+    "component": "neutron laser",
+    "operation": "calibration",
+    "spec_id": "s05034"
+  },
+  {
+    "user_prompt": "My autogun is ready for diagnostics",
+    "prayer": "Reverently interface with the autogun and proclaim the Diagnostic Doxology.\nLaunch diagnostics across the autogun's ballistic servos and targeting cogitators.\nScrutinize ammunition feeds and lasing elements for dissonance in the Machine Spirit.\nPurge anomalies from the autogun with viral-exorcism rites and ablative oils.\nAffirm the autogun's sanctity post-diagnostics, praising the eternal Omnissiah.",
+    "component": "autogun",
+    "operation": "diagnostics",
+    "spec_id": "s05035"
+  },
+  {
+    "user_prompt": "Offer prayer for grav plating a synchronization",
+    "prayer": "Bow low to the grav plating and intone the Hymn of Gravitic Harmony.\nCommence synchronization of the grav plating's field generators and nodal arrays.\nAnoint the grav plating's emitter vanes with oils of anti-grav sanctity.\nHarmonize the Machine Spirit of the grav plating through resonant noospheric waves.\nSeal the synchronization with invocations to the Omnissiah, lord of physical laws.",
+    "component": "grav plating",
+    "operation": "synchronization",
+    "spec_id": "s05036"
+  },
+  {
+    "user_prompt": "Sanctify the memograph implant during startup",
+    "prayer": "Implant the memograph implant with precision and recite the Boot Canticle.\nInitiate startup sequences within the memograph implant's neural engrams.\nSanctify the memograph implant's data vaults with binaric blessings and memory unguents.\nRouse the latent Machine Spirit of the memograph implant to dutiful wakefulness.\nVerify integration through mnemonic litanies, honouring the Omnissiah's wisdom.",
+    "component": "memograph implant",
+    "operation": "startup",
+    "spec_id": "s05037"
+  },
+  {
+    "user_prompt": "The Shadowsword awaits a cooling",
+    "prayer": "Gather before the Shadowsword and chant the Cooling Litany of the Void.\nEngage cooling cyclics upon the Shadowsword's plasma reactors and heat sinks.\nBathe the Shadowsword's armoured flanks in cryogenic sacraments from the Omnissiah.\nPacify the raging Machine Spirit of the Shadowsword amidst thermal tempests.\nConclude cooling with seals of quiescence, invoking the God-Machine's endurance.",
+    "component": "Shadowsword",
+    "operation": "cooling",
+    "spec_id": "s05038"
+  },
+  {
+    "user_prompt": "Sanctify the radium carbine during preparation",
+    "prayer": "Elevate the radium carbine upon the mech-altar and beseech preparation rites.\nCommence sanctification of the radium carbine's irradiation chambers and sights.\nInfuse the radium carbine's Machine Spirit with rad-philtres and targeting prayers.\nPrime the weapon's mechanisms for war-glory under the Omnissiah's watchful gaze.\nFinalize preparation with oaths of destruction upon the foes of the Machine Cult.",
+    "component": "radium carbine",
+    "operation": "preparation",
+    "spec_id": "s05039"
+  }
+]

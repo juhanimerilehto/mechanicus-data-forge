@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the assembly servitor during shutdown",
+    "prayer": "Approach the assembly servitor with solemn reverence, beseeching its Machine Spirit to embrace the sacred shutdown.\nInvoke the Canticle of Dormancy upon the assembly servitor's motivator coils and logic cores.\nInitiate the shutdown sequence whilst anointing its chassis with unguents of quiescence.\nCommend the assembly servitor's essence unto the Omnissiah as blessed power-flow diminishes to null.",
+    "component": "assembly servitor",
+    "operation": "shutdown",
+    "spec_id": "b0071_i00"
+  },
+  {
+    "user_prompt": "The drop pod needs an emergency procedure",
+    "prayer": "Hasten to the drop pod and intone the Litany of Precipitous Descent to awaken its emergency procedure.\nSanctify the drop pod's retro-thrusters and auspex arrays with sacred oils against the void's fury.\nActivate the emergency procedure whilst petitioning the Machine Spirits for unerring trajectory.\nVerify the drop pod's hull integrity through Omnissiah-blessed diagnostics as descent commences.",
+    "component": "drop pod",
+    "operation": "emergency procedure",
+    "spec_id": "b0071_i01"
+  },
+  {
+    "user_prompt": "Consecrate the archive terminal before maintenance",
+    "prayer": "Kneel before the archive terminal and recite the Consecratory Doxology to prepare for maintenance.\nAnoint the archive terminal's data-vaults and servo-drives with chrism of purity.\nCommence maintenance rites whilst invoking the Machine Spirit's vigilance over sacred archives.\nSeal the archive terminal's sanctity with the Sigil of the Omnissiah upon task completion.",
+    "component": "archive terminal",
+    "operation": "maintenance",
+    "spec_id": "b0071_i02"
+  },
+  {
+    "user_prompt": "Urgent cybernetic eye a cycling needed",
+    "prayer": "Gaze upon the cybernetic eye and whisper the Invocation of Cyclic Renewal to commence cycling.\nCycle the cybernetic eye's photoreceptors and neural linkages with precise incantations.\nBeseech the indwelling Machine Spirit of the cybernetic eye for clarity amid the flux.\nConclude the cycling by affirming the Omnissiah's gaze through its sanctified lens.",
+    "component": "cybernetic eye",
+    "operation": "cycling",
+    "spec_id": "b0071_i03"
+  },
+  {
+    "user_prompt": "Ready the Land Raider for cycling",
+    "prayer": "Process to the Land Raider and chant the Benediction of Cyclic Vigilance to ready it for cycling.\nInitiate cycling of the Land Raider's plasma reactors and god-machines' hearts with holy rites.\nPetition the mighty Machine Spirits within the Land Raider for enduring power amid renewal.\nSanctify the Land Raider's completion of cycling under the Omnissiah's eternal watch.",
+    "component": "Land Raider",
+    "operation": "cycling",
+    "spec_id": "b0071_i04"
+  },
+  {
+    "user_prompt": "The bike squadron needs a cycling",
+    "prayer": "Assemble before the bike squadron and intone the Canticle of Squadron Cycling for their renewal.\nCycle the bike squadron's fusion engines and targeting cogitators in harmonious sequence.\nInvoke the Machine Spirits of the bike squadron to maintain predatory swiftness through the rite.\nBless the bike squadron's restored vigour with the Omnissiah's thunderous approbation.",
+    "component": "bike squadron",
+    "operation": "cycling",
+    "spec_id": "b0071_i05"
+  },
+  {
+    "user_prompt": "My cogitator is ready for shutdown",
+    "prayer": "Reverently encircle the cogitator and beseech its Machine Spirit for a peaceful shutdown.\nCommence the cogitator shutdown by reciting the Quiescence Protocol over its logic engines.\nAnoint the cogitator's memoria banks with oils of dormancy as data-flows cease.\nEntrust the cogitator's slumbering essence to the boundless archives of the Omnissiah.",
+    "component": "cogitator",
+    "operation": "shutdown",
+    "spec_id": "b0071_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for water reclamator a consecration",
+    "prayer": "Approach the water reclamator and offer the Rite of Aqueous Consecration to its vital mechanisms.\nPour libations of pure hydric essence upon the water reclamator whilst invoking its Machine Spirit.\nSanctify the reclamation cycles of the water reclamator with litanies of purity and renewal.\nSeal the consecration by etching the Omnissiah's aquila upon its filtration sanctum.",
+    "component": "water reclamator",
+    "operation": "consecration",
+    "spec_id": "b0071_i07"
+  },
+  {
+    "user_prompt": "Emergency: thermal imager an emergency procedure",
+    "prayer": "Rush to the thermal imager and proclaim the Emergency Rite to engage its procedure.\nActivate the thermal imager's emergency procedure through urgent canticles of revelation.\nBeseech the Machine Spirit of the thermal imager for unclouded vision in peril's heat.\nAffirm the thermal imager's aegis under the Omnissiah as the procedure stabilizes.",
+    "component": "thermal imager",
+    "operation": "emergency procedure",
+    "spec_id": "b0071_i08"
+  },
+  {
+    "user_prompt": "Bless the hydraulic press for charging",
+    "prayer": "Station thyself by the hydraulic press and intone the Blessing of Pressurised Charge.\nCommence charging the hydraulic press's accumulator spheres with sanctified electro-flow.\nPetition the Machine Spirit animating the hydraulic press for unyielding might in forging.\nConclude the charging by acclaiming the Omnissiah's industrious will upon its mechanisms.",
+    "component": "hydraulic press",
+    "operation": "charging",
+    "spec_id": "b0071_i09"
+  }
+]

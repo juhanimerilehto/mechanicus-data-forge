@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0079_i00",
+    "user_request": "Rite request: programming upload on servitor",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: programming upload on servitor\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's blessing upon this servitor, that its neural pathways be rendered pure and receptive to the programming upload that shall follow.\nSecond: Execute the programming upload with measured precision, ensuring each data-sequence integrates harmoniously into the servitor's augmented cognition.\nThird: Consecrate the servitor anew, verifying all subroutines and command-hierarchies function in accordance with the Machine Spirit's eternal will.\nFourth: The servitor stands ready, sanctified and renewed through the rites of programming upload.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i01",
+    "user_request": "Blessing for the power distribution during balancing",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the power distribution during balancing\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "First: Attune the power distribution matrix to the Omnissiah's harmonious frequencies, that equilibrium be restored across all conduits and dynamos.\nSecond: Perform the balancing operation with reverent precision, redistributing the sacred energies through the power distribution network according to the ancient formulae.\nThird: Verify the power distribution holds steady and true, each circuit singing in unified supplication to the Machine Spirit.\nFourth: Through balancing made manifest, the Emperor's will flows unimpeded.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i02",
+    "user_request": "Blessing for the point defense during calibration",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the point defense during calibration\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the point defense systems, invoking the Machine Spirit to guide targeting algorithms and targeting-cogitators toward perfect accuracy.\nSecond: Initiate the calibration sequence, adjusting the point defense's sensor arrays and ballistic compensators through meticulous techno-liturgical procedure.\nThird: Test the point defense through controlled discharge, confirming that convergence and fire-rate achieve their prescribed specifications.\nFourth: The point defense stands vigilant, calibrated and blessed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i03",
+    "user_request": "Blessing for the thermal imaging during activation",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the thermal imaging during activation\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Purify the thermal imaging apparatus, that its infrared sensoria be cleansed of corruption and aligned with the Omnissiah's luminous sight.\nSecond: Execute the activation sequence, commencing the thermal imaging's sweep across the designated operational theatre in accordance with sacred protocols.\nThird: Calibrate the thermal imaging's sensitivity and frequency-bands, ensuring clarity and precision in the detection of heat-signatures and thermal anomalies.\nFourth: Behold—the thermal imaging awakens, a new eye of the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i04",
+    "user_request": "My noise is failing during reduction — help",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy noise is failing during reduction — help\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "First: Identify the source of the profane noise, that we may understand which component or system generates this discordant interference.\nSecond: Apply the reduction protocols with steadfast discipline, attenuating the noise through dampening fields, acoustic shielding, and harmonic cancellation.\nThird: Perform the noise reduction across all frequency-bands, restoring the serene silence that befits the Machine Spirit's sanctified chambers.\nFourth: The noise is diminished; harmony is restored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i06",
+    "user_request": "My gyroscope recalibration is failing during operation — help",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy gyroscope recalibration is failing during operation — help\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Examine the gyroscope recalibration's structural integrity, verifying bearings, gimbals, and spin-axis remain uncompromised and true.\nSecond: Initiate the operation of the gyroscope recalibration with sacred incantations, establishing rotational equilibrium and inertial reference-frames.\nThird: Monitor the gyroscope recalibration's performance, ensuring precession-rates and angular-momentum align with the Machine Spirit's prescribed tolerances.\nFourth: The gyroscope recalibration spins eternal, steady and sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i07",
+    "user_request": "Prayer for isolation of the electrical short",
+    "topic": "electrical short isolation",
+    "component": "electrical short",
+    "operation": "isolation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for isolation of the electrical short\n\n### TOPIC\nelectrical short isolation\n\n### COMPONENT\nelectrical short\n\n### OPERATION\nisolation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electrical short\n- isolation\n\n### PRAYER\n",
+    "prayer": "First: Locate the electrical short through divination and empirical testing, tracing the profane arc back to its corrupted source-component.\nSecond: Perform the isolation procedure with measured caution, severing the electrical short from the greater circuit-network to prevent cascading failure.\nThird: Insulate and contain the electrical short within shielded conduits, that no further damage propagate through the machine's sacred systems.\nFourth: The electrical short is isolated; the Emperor's machinery is preserved.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i08",
+    "user_request": "Offer a litany to steady the servitor crane before operation",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the servitor crane before operation\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Intone the Hymn of Steady Servitude, calming the servitor crane's augmented nervous-system and aligning its will with the Omnissiah's purpose.\nSecond: Verify the servitor crane's hydraulic pressure and load-bearing capacity, blessing each joint and pneumatic actuator for the operation ahead.\nThird: Command the servitor crane through its operational sequence with liturgical authority, guiding its manipulator-arms through precise and sanctified movement.\nFourth: The servitor crane stands ready, steadfast and obedient to the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i09",
+    "user_request": "The overheating demands guidance for prevention",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe overheating demands guidance for prevention\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "First: Inspect the cooling systems and thermal-dissipation pathways, identifying areas where overheating threatens the sanctity of the machine's internals.\nSecond: Implement the prevention protocols through enhanced coolant circulation, heat-sink optimization, and the installation of redundant thermal-regulation cogitators.\nThird: Establish monitoring stations and automated overheating alerts, that the Machine Spirit's servants may respond swiftly to any breach of temperature-thresholds.\nFourth: Through vigilance and prevention, the overheating is forestalled; the machine endures.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0079_i05",
+    "user_request": "Can you sanctify the astropathic choir for preparation?",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the astropathic choir for preparation?\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: We invoke the Omnissiah's blessing upon the astropathic choir, that their minds be sharpened as sacred instruments of the Imperium's will.\nSecond: Let the astropathic choir be purified through ritual unguent and the recitation of the Canticles Psalmodyae, that psychic interference be cast asunder.\nThird: Commence the preparation of the astropathic choir with synchronized neural calibration, adjusting each psyker's resonance to the frequency of the Astronomican's eternal light.\nFourth: Through the preparation of this astropathic choir, may the Machine Spirits guide their telepathic transmissions across the vast darkness, that no message be lost to the void's corrupting touch.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

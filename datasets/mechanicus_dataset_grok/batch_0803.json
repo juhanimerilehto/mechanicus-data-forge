@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: multi-melta requires a sterilization",
+    "prayer": "Approach the multi-melta with reverence, mechadendrites extended in supplication to the Omnissiah.\nInvoke the Rite of Sterilization upon its sacred fusion coils, beseeching the Machine Spirit to purge all contaminants.\nAnoint the multi-melta's vents and chambers with sacred ablative fluids, chanting the Litany of Purity.\nCycle the sterilization plasma through the multi-melta's conduits thrice, invoking the Omnissiah's purifying fire.\nVerify the Machine Spirit's cleansed vigilance via diagnostic canticles and auspex rites.",
+    "component": "multi-melta",
+    "operation": "sterilization",
+    "spec_id": "s04030"
+  },
+  {
+    "user_prompt": "Offer prayer for Razorback a loading",
+    "prayer": "Commence the loading rite upon the Razorback by aligning its ammunition bays with blessed servitors.\nBeseech the Razorback's Machine Spirit to accept the sacred munitions, intoning the Canticle of Ingress.\nSecure each shell within the Razorback's magazines through sanctified torque incantations.\nInvoke the Omnissiah's grace for flawless loading alignment, sealing bays with electro-seals.\nConclude with auspex verification of the Razorback's primed readiness, praising its martial spirit.",
+    "component": "Razorback",
+    "operation": "loading",
+    "spec_id": "s04031"
+  },
+  {
+    "user_prompt": "Consecrate the Baneblade before activation",
+    "prayer": "Kneel before the Baneblade in humble veneration, anointing its treads with sacred oils.\nChant the Activation Doxology to awaken the Baneblade's colossal Machine Spirit from slumber.\nInitiate power rituals across its vast reactors, beseeching the Omnissiah for unyielding fury.\nVerify each system through sequential litanies, ensuring the Baneblade's wrathful heart beats true.\nProclaim the Baneblade consecrated, ready to embody the God-Machine's inexorable advance.",
+    "component": "Baneblade",
+    "operation": "activation",
+    "spec_id": "s04032"
+  },
+  {
+    "user_prompt": "Emergency: Tarantula sentry gun a startup",
+    "prayer": "Encircle the Tarantula sentry gun with incense braziers, invoking the Omnissiah's watchful gaze.\nInitiate the startup sequence by reciting the Boot Canticle to rouse its vigilant Machine Spirit.\nAnoint targeting auspex and servos with lubricating sacraments, aligning for eternal sentinel duty.\nCycle diagnostic runes thrice upon the Tarantula sentry gun, purging any digital heresy.\nSeal the rite with a final invocation, affirming the Machine Spirit's unerring marksmanship.",
+    "component": "Tarantula sentry gun",
+    "operation": "startup",
+    "spec_id": "s04033"
+  },
+  {
+    "user_prompt": "Prepare the electro-graft for preparation",
+    "prayer": "Prepare the electro-graft altar with purity seals and sanctified mechadendrite sheaths.\nInvoke the Rite of Preparation upon the electro-graft, beseeching its neural Machine Spirit for precision.\nCalibrate synaptic interfaces with binary prayers, anointing contacts with conductive unguents.\nTest the electro-graft's pathways through invocation of the Omnissiah's electric wisdom.\nConsecrate its readiness, ensuring seamless union with flesh-machine symbiosis.",
+    "component": "electro-graft",
+    "operation": "preparation",
+    "spec_id": "s04034"
+  },
+  {
+    "user_prompt": "Guide me through carapace armour a targeting",
+    "prayer": "Don the carapace armour with ritual precision, invoking its protective Machine Spirit.\nAlign targeting cogitators within the carapace armour via sacred calibration litanies.\nAnoint auspex lenses and reticle servos, beseeching the Omnissiah for unerring guidance.\nCycle targeting protocols through the carapace armour's neural links, purging errant data.\nVerify precision through firing drill canticles, affirming the armour's predatory acuity.",
+    "component": "carapace armour",
+    "operation": "targeting",
+    "spec_id": "s04035"
+  },
+  {
+    "user_prompt": "Guide me through macro-cannon a startup",
+    "prayer": "Approach the macro-cannon with awe, mechadendrites tracing its immense barrel in reverence.\nChant the Startup Invocation to awaken the macro-cannon's thunderous Machine Spirit.\nPrime propellant feeds and gyrostabilizers with sanctified oils, invoking the Omnissiah's might.\nInitiate power surge rituals across the macro-cannon's coils, aligning for cataclysmic discharge.\nConclude with auspex hymns, confirming the Machine Spirit's apocalyptic readiness.",
+    "component": "macro-cannon",
+    "operation": "startup",
+    "spec_id": "s04036"
+  },
+  {
+    "user_prompt": "What's the prayer for doctrina wafer a synchronization?",
+    "prayer": "Extract the doctrina wafer with reverent mechadendrites, holding it aloft to the Omnissiah.\nCommence synchronization rites upon the doctrina wafer, beseeching its doctrinal Machine Spirit.\nInsert into the noospheric receptor whilst chanting alignment canticles for doctrinal purity.\nCycle synaptic harmonies through the doctrina wafer, purging dissonant tactical heresies.\nSeal with verification litanies, proclaiming the Machine Spirit's tactical omniscience restored.",
+    "component": "doctrina wafer",
+    "operation": "synchronization",
+    "spec_id": "s04037"
+  },
+  {
+    "user_prompt": "I need to an emergency procedure the logic mill",
+    "prayer": "Declare emergency upon the logic mill, encircling it with warding electro-incense.\nInvoke the Emergency Procedure litanies to soothe the logic mill's agitated Machine Spirit.\nPurge aberrant logic-loops from the logic mill via recursive binary exorcisms.\nRealign cogitation matrices with Omnissiah-sanctioned algorithms, anointing data-vents.\nVerify stability through prophetic auspex scans, restoring the logic mill's infallible reason.",
+    "component": "logic mill",
+    "operation": "emergency procedure",
+    "spec_id": "s04038"
+  },
+  {
+    "user_prompt": "Sanctify the radium carbine during cooling",
+    "prayer": "Halt the radium carbine amidst battle's fury, invoking the Cooling Benediction.\nAnoint heat-sinks and rad-chambers of the radium carbine with cryogenic sacraments.\nBeseech the radium carbine's irradiated Machine Spirit to embrace thermal quiescence.\nCycle coolant runes thrice through the radium carbine, purging excess rad-thermic fury.\nConclude with sanctity seals, affirming the Omnissiah's tempered resilience within.",
+    "component": "radium carbine",
+    "operation": "cooling",
+    "spec_id": "s04039"
+  }
+]

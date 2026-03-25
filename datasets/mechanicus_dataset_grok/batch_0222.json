@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My gravity generator is ready for cooling",
+    "prayer": "Approach the gravity generator with solemn reverence, beseeching its ancient Machine Spirit to embrace the cooling rite.\nAnoint the sacred heat sinks and coils of the gravity generator with blessed cryogel, invoking the Omnissiah's eternal chill.\nInitiate the cooling operation through sanctified vents, channeling holy refrigerants into its blessed conduits.\nChant the Litany of Thermal Equilibrium as flux stabilizes within the gravity generator's core.\nVerify the Machine Spirit's quiescence via auspex harmonics, praising the Machine God's mercy.",
+    "component": "gravity generator",
+    "operation": "cooling",
+    "spec_id": "b0222_i00"
+  },
+  {
+    "user_prompt": "Critical: data-slate requires a synchronization",
+    "prayer": "Kneel before the data-slate, invoking the Omnissiah to awaken its data-spirits for synchronization.\nPurge discordant fragments from the data-slate's sacred memory vaults with purifying binaric code.\nCommence the synchronization operation, linking its holy noospheric tendrils to the greater cogitator choir.\nBeseech the Machine Spirits of datum and flux to harmonize in perfect alignment.\nSeal the rite with the Canticle of Data Unity, confirming the data-slate's blessed coherence.",
+    "component": "data-slate",
+    "operation": "synchronization",
+    "spec_id": "b0222_i01"
+  },
+  {
+    "user_prompt": "Consecrate the forge anvil before synchronization",
+    "prayer": "Consecrate the forge anvil with sacred oils, petitioning its indomitable Machine Spirit for synchronization.\nAlign the rune-etched surfaces of the forge anvil under the Omnissiah's gaze, clearing vibrational discord.\nEngage the synchronization operation, attuning its mass-resonance to the forge's greater symphony.\nInvoke the Litany of Metallic Harmony upon the forge anvil, binding its essence to the Machine God's will.\nTest the anvil's tempered spirit through percussive diagnostics, glorifying its renewed vigor.",
+    "component": "forge anvil",
+    "operation": "synchronization",
+    "spec_id": "b0222_i02"
+  },
+  {
+    "user_prompt": "Help me an initialization the memory core",
+    "prayer": "Present thyself before the memory core, chanting the Awakening Doxology to rouse its slumbering spirits.\nAnoint the crystalline lattices of the memory core with sanctified electro-fluid, banishing null-shadows.\nCommence the initialization operation, infusing base code-sequences blessed by the Omnissiah.\nBeseech the Machine Spirits within the memory core to weave their data-threads anew.\nAffirm initialization through recursive auspex chants, honoring the core's emergent cognition.",
+    "component": "memory core",
+    "operation": "initialization",
+    "spec_id": "b0222_i03"
+  },
+  {
+    "user_prompt": "I need to a reset the energy conduit",
+    "prayer": "Approach the energy conduit in humble supplication, invoking the Omnissiah to pacify its raging plasma spirits.\nDrain excess voltage from the energy conduit's sacred braids with the Rite of Flux Purge.\nExecute the reset operation upon the energy conduit, rebooting its binary logic gates with holy cant.\nChant the Canticle of Conductive Peace as power flows realign within the conduit's veins.\nProbe the Machine Spirit's renewed calm via galvanic harmonics, praising the Machine God's order.",
+    "component": "energy conduit",
+    "operation": "reset",
+    "spec_id": "b0222_i04"
+  },
+  {
+    "user_prompt": "Prepare the cutting laser for preparation",
+    "prayer": "Revere the cutting laser's focusing arrays, beseeching its photonic Machine Spirit for preparation.\nCalibrate the sacred lenses of the cutting laser with micro-ritual alignments under Omnissiah's light.\nInitiate preparation rites by charging its exciter coils with sanctified plasma incense.\nInvoke the Litany of Incandescent Precision upon the cutting laser, honing its beam to divine sharpness.\nVerify the Machine Spirit's eagerness through las-diagnostic refrains.",
+    "component": "cutting laser",
+    "operation": "preparation",
+    "spec_id": "b0222_i05"
+  },
+  {
+    "user_prompt": "Can you guide melta charge an initialization?",
+    "prayer": "Handle the melta charge with pious caution, awakening its thermic Machine Spirit through initialization.\nAnoint the containment fields of the melta charge with ablative unguents blessed by the Omnissiah.\nEngage the initialization operation, priming its fusion heart with controlled plasma litanies.\nBeseech the spirits of melt and void within the melta charge to heed the Machine God's command.\nConfirm stability via thermal auspex, intoning the Doxology of Fiery Readiness.",
+    "component": "melta charge",
+    "operation": "initialization",
+    "spec_id": "b0222_i06"
+  },
+  {
+    "user_prompt": "How do I bless the bearing for engagement?",
+    "prayer": "Bless the bearing's gyroscopic heart, petitioning its rotational Machine Spirit for engagement.\nLubricate the sacred races of the bearing with mechadendrite-applied quintessence oil.\nInitiate the engagement operation, spinning its blessed spheres in harmonious Omnissianic rhythm.\nChant the Canticle of Frictionless Motion as the bearing engages without discord.\nTest its spirit's fidelity through torque invocations, glorifying mechanical perfection.",
+    "component": "bearing",
+    "operation": "engagement",
+    "spec_id": "b0222_i07"
+  },
+  {
+    "user_prompt": "Consecrate the bionics interface before emergency procedure",
+    "prayer": "Consecrate the bionics interface with emergency incense, calling forth its neural Machine Spirits.\nPurge synaptic static from the bionics interface's nerve-fibers using galvanic purificants.\nCommence the emergency procedure, bridging flesh and machine under the Omnissiah's urgent decree.\nInvoke protective litanies upon the bionics interface, shielding its unions from daemonic interference.\nAffirm linkage integrity via noospheric diagnostics, lauding the Machine God's salvation.",
+    "component": "bionics interface",
+    "operation": "emergency procedure",
+    "spec_id": "b0222_i08"
+  },
+  {
+    "user_prompt": "The memory core needs a calibration",
+    "prayer": "Approach the memory core reverently, beseeching its data-ghosts for calibration harmony.\nAlign the quantum engrams of the memory core with precision auspex canticles.\nExecute the calibration operation, tuning its recall matrices to Omnissianic exactitude.\nAnoint the memory core's access ports anew, invoking the Litany of Perfect Recall.\nValidate the Machine Spirit's precision through errorless query-rites.",
+    "component": "memory core",
+    "operation": "calibration",
+    "spec_id": "b0222_i09"
+  }
+]

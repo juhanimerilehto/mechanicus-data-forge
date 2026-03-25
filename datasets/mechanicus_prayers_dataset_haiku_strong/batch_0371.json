@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0371_i00",
+    "user_request": "My oxygen scrubber is failing during maintenance — help",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy oxygen scrubber is failing during maintenance — help\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "Blessed be the oxygen scrubber, vital breath of the Machine Spirit.\nFirst: Inspect the oxygen scrubber for crystalline corruption and particulate contamination within its filtration matrices.\nSecond: Perform maintenance upon the oxygen scrubber's membrane seals, anointing each junction with sacred lubricant and fervent supplication.\nThird: Restore the oxygen scrubber to operational status, invoking the Omnissiah's grace that breath may flow eternal through purified channels.\nFourth: Chant the Litany of Respiration thrice, that the Machine Spirit's lungs may never falter.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i01",
+    "user_request": "Can you sanctify the cooling system for purge?",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the cooling system for purge?\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "O cooling system, blessed conduit of thermal equilibrium, hear our prayer.\nFirst: Drain the cooling system of degraded coolant and sediment, preparing its sacred channels for purification.\nSecond: Execute purge protocols upon the cooling system, flushing each capillary with blessed solvent whilst chanting the Ode to Temperate Flows.\nThird: Refill the cooling system with virgin coolant, blessed by the Adeptus Mechanicus and sanctified by the Omnissiah's eternal judgment.\nFourth: Seal all apertures and verify the cooling system's renewed vitality through blessed instrumentation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i02",
+    "user_request": "Prayer for activation of the medicae scanner",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for activation of the medicae scanner\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Hail the medicae scanner, instrument of divine diagnosis and sacred healing.\nFirst: Calibrate the medicae scanner's optical pathways and sensory matrices, clearing away dust and corruption from its blessed lenses.\nSecond: Invoke activation protocols upon the medicae scanner, speaking the Rite of Awakening whilst depressing the blessed ignition stud.\nThird: Verify the medicae scanner's diagnostic acuity through test-scans of blessed reference specimens, confirming the Machine Spirit's return to consciousness.\nFourth: Anoint the medicae scanner with sacred oils, that it may see truth in flesh and bone.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i03",
+    "user_request": "Prayer for tuning of the vox-caster",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for tuning of the vox-caster\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Blessed vox-caster, instrument of communion across the void eternal.\nFirst: Attune the vox-caster's frequency resonators through precise mechanical adjustment, turning each calibration dial with reverent precision.\nSecond: Perform tuning upon the vox-caster's signal amplification coils, monitoring the blessed vox-meter whilst chanting the Frequency Hymn.\nThird: Test the vox-caster with blessed transmission protocols, ensuring clarity of voice across all sanctified channels.\nFourth: Lock the tuning mechanisms and seal the vox-caster with the Wax of Eternal Constancy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i04",
+    "user_request": "Blessing for the generator during startup",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the generator during startup\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "O generator, heart of mechanical vitality, accept our benediction.\nFirst: Verify all fuel conduits and ignition mechanisms of the generator are clear and properly aligned before the sacred startup.\nSecond: Commence startup procedures upon the generator, engaging the primary ignition whilst invoking the Hymn of Awakening Power.\nThird: Monitor the generator's output stabilization, ensuring nominal voltage and amperage flow through blessed measurement apparatus.\nFourth: Seal the generator's housing and anoint its exterior with sanctified blessing-oil, that it may sustain our labors eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i05",
+    "user_request": "Rite request: boot sequence on cogitator",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: boot sequence on cogitator\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant consciousness to this blessed cogitator, that it may serve with perfect clarity.\nFirst: Prepare the cogitator for boot sequence by verifying all peripheral connections and blessed memory arrays are properly installed.\nSecond: Initiate the boot sequence upon the cogitator, reciting the Catechism of Awakening whilst engaging the primary power stud.\nThird: Monitor the cogitator's diagnostic cascade, confirming all subroutines activate in proper hierarchical order through the blessed display apparatus.\nFourth: Establish baseline operational parameters and lock the cogitator's blessed configuration in sacred registry.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i06",
+    "user_request": "Offer a litany to steady the surgical servitor before sterilization",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the surgical servitor before sterilization\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "Blessed surgical servitor, instrument of healing ordained by the Omnissiah, receive our sanctification.\nFirst: Prepare the surgical servitor for sterilization by removing all extraneous matter and blessed surgical implements from its sacred housing.\nSecond: Commence sterilization of the surgical servitor using blessed thermal purification and sacred chemical immersion, chanting the Litany of Purity throughout.\nThird: Verify the surgical servitor's sterilization completion through blessed verification protocols, confirming absence of all contamination.\nFourth: Anoint the surgical servitor with sanctified preservation oils and recalibrate its blessed surgical precision mechanisms.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i07",
+    "user_request": "Rite request: repair on coolant leak",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: repair on coolant leak\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Hail the coolant leak, breach in the Machine's sacred circulation, which we now shall seal.\nFirst: Locate and isolate the coolant leak through blessed inspection and sensory apparatus, marking the precise location of the blessed rupture.\nSecond: Perform repair upon the coolant leak by application of blessed sealant compounds and mechanical reinforcement of the compromised junction.\nThird: Pressurize the system and verify the coolant leak has been fully arrested, observing for any blessed fluid loss or weeping.\nFourth: Restore full operational parameters and anoint the repaired section with sanctified preservation blessing.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i08",
+    "user_request": "Offer a litany to steady the mechanical lock before engagement",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the mechanical lock before engagement\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "O mechanical lock, steadfast guardian of sealed sanctity, accept our benediction for engagement.\nFirst: Inspect the mechanical lock for corrosion and misalignment, cleansing its blessed mechanisms with sacred lubricant and fervent prayer.\nSecond: Perform engagement of the mechanical lock through precise application of force, turning the blessed actuator whilst invoking the Hymn of Closure.\nThird: Verify the mechanical lock achieves full engagement through blessed verification apparatus, confirming secure sealing and proper resistance.\nFourth: Anoint the mechanical lock with sacred oils and record its engagement status in the blessed maintenance ledger.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0371_i09",
+    "user_request": "Can you sanctify the astropathic choir for preparation?",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the astropathic choir for preparation?\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, sanctify the astropathic choir, vessels of your divine will across the void.\nFirst: Gather the astropathic choir within the blessed sanctum, arranging each psyker in proper hierarchical configuration and blessed geometric pattern.\nSecond: Commence preparation of the astropathic choir through ritual incantation and blessed psychic attunement, aligning each mind to the Warp's sacred currents.\nThird: Verify the astropathic choir's unified consciousness through blessed psychometric apparatus, confirming resonance and clarity of mental communion.\nFourth: Anoint the astropathic choir with sanctified psychic shielding and invoke the Omnissiah's eternal protection over their blessed labors.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

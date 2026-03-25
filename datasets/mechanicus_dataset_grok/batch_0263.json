@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the mechanical lock for sterilization",
+    "prayer": "Approach the mechanical lock with vials of purifying incense and beseech its Machine Spirit to awaken.\nAnoint the mechanical lock's tumblers and wards with sacred sterilants, invoking the Omnissiah's cleansing fire.\nChant the Rite of Sterilization over its sanctified gears, purging all unclean essences from bolt and chamber.\nSeal the mechanical lock with blessed seals, ensuring its purity endures in the Emperor's name.",
+    "component": "mechanical lock",
+    "operation": "sterilization",
+    "spec_id": "b0263_i00"
+  },
+  {
+    "user_prompt": "Prepare the gravity generator for operation",
+    "prayer": "Kneel before the gravity generator and recite the Canticle of Alignment to rouse its dormant spirit.\nCalibrate the gravity generator's sacred coils with mechadendrites, petitioning stable fields from the Omnissiah.\nInitiate preparatory rites for operation, anointing emitters with holy oils to bind warp-tainted fluxes.\nVerify the gravity generator's harmony through auspex invocations, readying it for dutiful service.",
+    "component": "gravity generator",
+    "operation": "operation",
+    "spec_id": "b0263_i01"
+  },
+  {
+    "user_prompt": "Guide me through fusion core a charging",
+    "prayer": "Encircle the fusion core with electro-incense braziers and invoke its raging Machine Spirit.\nCommence the charging sequence upon the fusion core, channeling plasma blessings from the Omnissiah's forge.\nMonitor the fusion core's plasma conduits with litanies of containment, lest the holy fury overwhelm.\nConclude charging with seals of stability, empowering the fusion core for unending vigilance.",
+    "component": "fusion core",
+    "operation": "charging",
+    "spec_id": "b0263_i02"
+  },
+  {
+    "user_prompt": "Prepare the astropathic choir for cooling",
+    "prayer": "Gather cryogenic unguents and approach the astropathic choir, beseeching its ethereal Machine Spirits.\nApply cooling rites to the astropathic choir's psychic resonators, whispering canticles of chill void.\nInvoke the Omnissiah to temper the astropathic choir's warp-strains with crystalline frost.\nConfirm the cooling through harmonic scans, restoring the astropathic choir to serene transmission.",
+    "component": "astropathic choir",
+    "operation": "cooling",
+    "spec_id": "b0263_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for augmetic limb sterilization?",
+    "prayer": "Present the augmetic limb upon the altar of purity and anoint its servo-fibers with sterilizing ablatives.\nChant the Sterilization Doxology over the augmetic limb, driving forth bio-corruptions from flesh-machine union.\nScour the augmetic limb's neural interfaces with sacred flames, honoring the Machine God's decree.\nSeal the augmetic limb with purity wards, its Machine Spirit now pristine for the flesh-throne.",
+    "component": "augmetic limb",
+    "operation": "sterilization",
+    "spec_id": "b0263_i04"
+  },
+  {
+    "user_prompt": "Consecrate the forge anvil before cycling",
+    "prayer": "Hammer the sign of the Omnissiah upon the forge anvil and rouse its indomitable spirit with forge-songs.\nAnoint the forge anvil's striking face before cycling, invoking endurance from molten tempests.\nInitiate the cycling rite upon the forge anvil, binding hammer-spirits in rhythmic consecration.\nBless the forge anvil's mechanisms with adamantine oils, perpetuating its sacred labor eternal.",
+    "component": "forge anvil",
+    "operation": "cycling",
+    "spec_id": "b0263_i05"
+  },
+  {
+    "user_prompt": "The assembly servitor needs a synchronization",
+    "prayer": "Interface with the assembly servitor's cogitator core and recite the Syncronis Litany to align its souls.\nPetition the Machine Spirits within the assembly servitor for synchronization, merging cog-threads in unity.\nAdjust the assembly servitor's limb-servos with precision mechadendrites, under Omnissiah's gaze.\nAffirm synchronization through binary hymns, rendering the assembly servitor a flawless artisan.",
+    "component": "assembly servitor",
+    "operation": "synchronization",
+    "spec_id": "b0263_i06"
+  },
+  {
+    "user_prompt": "The emergency bulkhead needs a sterilization",
+    "prayer": "Approach the emergency bulkhead with vats of caustic sanctifiers and awaken its guardian spirit.\nPerform the sterilization upon the emergency bulkhead's hydraulics, purging contaminants with holy acids.\nInvoke the Omnissiah to fortify the emergency bulkhead against void-breaches and unclean taint.\nSeal the emergency bulkhead with purity runes, vigilant and immaculate in defense.",
+    "component": "emergency bulkhead",
+    "operation": "sterilization",
+    "spec_id": "b0263_i07"
+  },
+  {
+    "user_prompt": "My autocannon is ready for repair",
+    "prayer": "Lay the autocannon before the repair shrine and beseech its wrathful Machine Spirit to mend.\nDiagnose fractures in the autocannon's barrel-lining with auspex-canticles, preparing for repair.\nAnoint shattered mechanisms of the autocannon with regenerative unguents from the Omnissiah's grace.\nReassemble and test-fire the autocannon in litanies of fury, restored to xenos-slaughtering glory.",
+    "component": "autocannon",
+    "operation": "repair",
+    "spec_id": "b0263_i08"
+  },
+  {
+    "user_prompt": "Can you guide thermal regulator a targeting?",
+    "prayer": "Calibrate the thermal regulator's targeting vanes with sacred gyro-compasses and invoke its aiming spirit.\nChant targeting rites upon the thermal regulator, aligning heat-lances with Omnissiah's precision.\nAnoint sensor-nodes of the thermal regulator for unerring focus amid plasma storms.\nVerify targeting integrity through ballistic hymns, empowering the thermal regulator's lethal gaze.",
+    "component": "thermal regulator",
+    "operation": "targeting",
+    "spec_id": "b0263_i09"
+  }
+]

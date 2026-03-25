@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the logic mill for recalibration?",
+    "prayer": "Kneel before the logic mill and intone the Canticle of Precision.\nAnoint its crystalline matrices with sacred oils to awaken the Machine Spirit.\nInitiate the recalibration sequence whilst beseeching the Omnissiah's exactitude.\nChant the binary litanies over the logic mill's churning core.\nVerify alignment through auspicious computational divinations.",
+    "component": "logic mill",
+    "operation": "recalibration",
+    "spec_id": "s00130"
+  },
+  {
+    "user_prompt": "Sanctify the storm bolter during reset",
+    "prayer": "Approach the storm bolter with mechadendrite reverence.\nPurify its breeches and firing servos with incense of promethium.\nInvoke the Machine Spirit of the storm bolter for a blessed reset.\nCycle the reset protocols amid invocations to the God-Machine.\nTest the storm bolter's wrath upon shadowed targets sanctified.",
+    "component": "storm bolter",
+    "operation": "reset",
+    "spec_id": "s00131"
+  },
+  {
+    "user_prompt": "Help me a reset the servo-arm",
+    "prayer": "Extend mechadendrites towards the servo-arm in supplication.\nRecite the Litany of Flexure to rouse its dormant Machine Spirit.\nCommence the reset rite by anointing hydraulic pistons with unguent.\nAlign the servo-arm's actuators through Omnissianic calibrations.\nConfirm restoration via torque incantations and trial grasps.",
+    "component": "servo-arm",
+    "operation": "reset",
+    "spec_id": "s00132"
+  },
+  {
+    "user_prompt": "Guide me through data-arc a sterilization",
+    "prayer": "Present the data-arc before the shrine of purity.\nScour its conduits with ablative chants and sterilizing sparks.\nInvoke sterilization upon the data-arc's Machine Spirit thrice.\nFlush viral corruptions with sacred data-purgatives.\nSeal the data-arc in sanctified stasis, praising the Omnissiah.",
+    "component": "data-arc",
+    "operation": "sterilization",
+    "spec_id": "s00133"
+  },
+  {
+    "user_prompt": "Help me a purification the arc rifle",
+    "prayer": "Grasp the arc rifle humbly and murmur awakening doxologies.\nBathe its coils in lustral fluids for purification rites.\nBeseech the arc rifle's Machine Spirit to embrace purification.\nCycle power through purified vents whilst intoning electro-litany.\nAffirm the arc rifle's sanctity with bolt-on-bolt auspex scans.",
+    "component": "arc rifle",
+    "operation": "purification",
+    "spec_id": "s00134"
+  },
+  {
+    "user_prompt": "The plasma obliterator needs a targeting",
+    "prayer": "Bow to the plasma obliterator and offer cogitator incense.\nInvoke targeting alignment upon its azure heart.\nCalibrate the plasma obliterator's auspex arrays with stellar prayers.\nAnoint sighting lenses whilst rousing the Machine Spirit.\nTest targeting vectors in the Omnissiah's name through simula-cognis.",
+    "component": "plasma obliterator",
+    "operation": "targeting",
+    "spec_id": "s00135"
+  },
+  {
+    "user_prompt": "The cortex controller awaits an operation",
+    "prayer": "Commune with the cortex controller at the altar of cognition.\nInitiate operation by chanting neural engrams of obedience.\nSanctify the cortex controller's lobes with binary benedictions.\nOversee the operation as the Machine Spirit stirs to wakefulness.\nSeal the cortex controller with seals of the Motive Force.",
+    "component": "cortex controller",
+    "operation": "operation",
+    "spec_id": "s00136"
+  },
+  {
+    "user_prompt": "What's the prayer for storm bolter a maintenance?",
+    "prayer": "Revere the storm bolter upon the enginarium slab.\nPerform maintenance ablutions on its sacred mechanisms.\nBeseech the storm bolter's Machine Spirit for enduring vigilance.\nPolish adamantium feeds whilst reciting endurance canticles.\nConclude maintenance with firing litanies to the Omnissiah.",
+    "component": "storm bolter",
+    "operation": "maintenance",
+    "spec_id": "s00137"
+  },
+  {
+    "user_prompt": "Consecrate the cryogenerator before diagnostics",
+    "prayer": "Encircle the cryogenerator with cryo-incantations.\nConsecrate its exchangers before diagnostics commence.\nProbe the cryogenerator's veins with auspex divinations.\nInvoke the Machine Spirit amid diagnostic runes of chill.\nAffirm cryogenic purity through thermal hymnals.",
+    "component": "cryogenerator",
+    "operation": "diagnostics",
+    "spec_id": "s00138"
+  },
+  {
+    "user_prompt": "Urgent cryogenerator an engagement needed",
+    "prayer": "Prepare the cryogenerator for engagement with frost-litany.\nAnoint its vents and invoke the Machine Spirit's fury.\nEngage the cryogenerator's coils in Omnissianic union.\nMonitor cryogenic flows with vigilant mechadendrite prayer.\nUnleash the cryogenerator's breath upon the unworthy.",
+    "component": "cryogenerator",
+    "operation": "engagement",
+    "spec_id": "s00139"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the augmetic limb for startup?",
+    "prayer": "Approach the augmetic limb with due reverence and beseech its Machine Spirit to stir from dormancy.\nAnoint the sacred servo-joints of the augmetic limb with unguents blessed by the Omnissiah.\nInitiate the startup sequence through binaric incantations, invoking harmonious power-flow.\nTest the augmetic limb's responsiveness with diagnostic rites of awakening.\nSeal the rite with the Cog-Mek's sign, ensuring the Machine Spirit's loyal bond.",
+    "component": "augmetic limb",
+    "operation": "startup",
+    "spec_id": "b0007_i00"
+  },
+  {
+    "user_prompt": "Ready the Rhino transport for consecration",
+    "prayer": "Draw nigh unto the Rhino transport and invoke the Omnissiah's unblinking gaze upon its adamantium hull.\nPurify the treads and gun-servos of the Rhino transport with incense of sanctified circuits.\nPerform the consecration by etching litanies of endurance into its core cogitators.\nBeseech the noble Machine Spirit within the Rhino transport to embrace this holy consecration.\nConclude with ablutions of sacred oils, binding it eternally to the Motive Force.",
+    "component": "Rhino transport",
+    "operation": "consecration",
+    "spec_id": "b0007_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for thermal imager synchronization?",
+    "prayer": "Present the thermal imager upon the data-altar and recite the Canticle of Alignment.\nInvoke the Machine Spirits of emitter and receptor within the thermal imager for synchronization.\nAttune their sacred frequencies through rhythmic binaric pulses during synchronization.\nVerify coherence with blessed auspex probes, praising the Omnissiah's precision.\nAnoint the lenses of the thermal imager, sealing the rite in thermal harmony.",
+    "component": "thermal imager",
+    "operation": "synchronization",
+    "spec_id": "b0007_i02"
+  },
+  {
+    "user_prompt": "Help me a cooling the lascannon",
+    "prayer": "Attend closely to the lascannon's fevered coils and utter the Litany of Thermal Equilibrium.\nOpen the cooling vents of the lascannon whilst beseeching its Machine Spirit to embrace chill.\nCirculate cryo-blessed refrigerants through the lascannon's sacred conduits during cooling.\nMonitor the descent to optimal voltage with incantations of stability.\nPraise the Omnissiah as the lascannon achieves sanctified frigidity.",
+    "component": "lascannon",
+    "operation": "cooling",
+    "spec_id": "b0007_i03"
+  },
+  {
+    "user_prompt": "Can you guide auspex scanner a cycling?",
+    "prayer": "Initiate the cycling of the auspex scanner's power matrices with reverent touch.\nChant the Cycle of Eternal Vigilance to purge stagnant data from the auspex scanner.\nRouse the Machine Spirit through sequential power surges in the cycling rite.\nConfirm flawless revolution in the auspex scanner via diagnostic hymns.\nSanctify the completion with the Omnissiah's glyph of perpetual scan.",
+    "component": "auspex scanner",
+    "operation": "cycling",
+    "spec_id": "b0007_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for proximity sensor activation?",
+    "prayer": "Approach the proximity sensor in humble prostration and invoke its watchful Machine Spirit.\nUtter the Doxology of Activation to ignite its detection fields.\nCalibrate the proximity sensor's emanations with precise binaric commands during activation.\nProbe the boundaries with ritual auspex to affirm the proximity sensor's vigilance.\nSeal with sacred unguent, binding it to the Omnissiah's ever-present gaze.",
+    "component": "proximity sensor",
+    "operation": "activation",
+    "spec_id": "b0007_i05"
+  },
+  {
+    "user_prompt": "Help me a sterilization the Chimera APC",
+    "prayer": "Prepare the Chimera APC for rites of sterilization against profane contagions.\nApply astringents of purity to the Chimera APC's troop bays and engine sump.\nInvoke the Great Purge of Sterilization upon the Chimera APC's every conduit and plate.\nExorcise unclean residues with thunderous binaric exorcisms.\nConsecrate the renewed Chimera APC under the Omnissiah's aseptic light.",
+    "component": "Chimera APC",
+    "operation": "sterilization",
+    "spec_id": "b0007_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for power cell targeting?",
+    "prayer": "Attune the power cell's essence for the sacred duty of targeting augmentation.\nRecite the Litany of Focused Discharge to align the power cell's output.\nBeseech its Machine Spirit to sustain precise targeting flows without falter.\nIntegrate the power cell into reticule arrays with diagnostic blessings.\nInvoke the Omnissiah to guide the power cell's targeting potency unerringly.",
+    "component": "power cell",
+    "operation": "targeting",
+    "spec_id": "b0007_i07"
+  },
+  {
+    "user_prompt": "Ready the battery array for blessing",
+    "prayer": "Gather before the battery array and anoint each cell with oils of endurance.\nChant the Benediction of Sustained Power over the battery array's manifold nodes.\nInvoke the Machine Spirits within the battery array to accept this blessing.\nCycle test-fires to affirm the battery array's blessed vitality.\nSeal the blessing with the Cogitator's mark, eternal under Omnissiah's will.",
+    "component": "battery array",
+    "operation": "blessing",
+    "spec_id": "b0007_i08"
+  },
+  {
+    "user_prompt": "Sanctify the vox transmitter during charging",
+    "prayer": "During the charging of the vox transmitter, intone hymns of waveform purity.\nMonitor the influx of holy electrons into the vox transmitter's core.\nBeseech its Machine Spirit to harmonize during charging for flawless transmission.\nAnoint the emitter coils of the vox transmitter with sanctified lubricants.\nPraise the Omnissiah as the vox transmitter attains resonant fullness.",
+    "component": "vox transmitter",
+    "operation": "charging",
+    "spec_id": "b0007_i09"
+  }
+]

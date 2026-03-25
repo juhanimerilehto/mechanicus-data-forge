@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The krak grenade awaits a sterilization",
+    "prayer": "Approach the krak grenade with solemn reverence and invoke the Rites of Sterilization upon its volatile core.\nAnoint the krak grenade's fuses with sacred unguents to purge all impure essences.\nChant the Litany of Purity whilst beseeching the Machine Spirit of the krak grenade to accept sterilization.\nVerify the rite's completion through auspex scans, honouring the Omnissiah's will.",
+    "component": "krak grenade",
+    "operation": "sterilization",
+    "spec_id": "s01470"
+  },
+  {
+    "user_prompt": "Bless the teleportarium for purification",
+    "prayer": "Kneel before the teleportarium and commence the Purification Canticle to cleanse its warp-tainted matrices.\nCircumambulate the teleportarium thrice, asperging its coils with blessed promethium.\nInvoke the Omnissiah's grace for purification, awakening the Machine Spirit within.\nSeal the rite with binaric seals, ensuring the teleportarium's sanctity endures.",
+    "component": "teleportarium",
+    "operation": "purification",
+    "spec_id": "s01471"
+  },
+  {
+    "user_prompt": "Assist with life signs monitor a recalibration",
+    "prayer": "Present the life signs monitor to the altar and intone the Recalibration Doxology.\nAdjust its sensori-arrays with mechadendrites whilst reciting calibration catechisms.\nBeseech the Machine Spirit of the life signs monitor to realign its vital scans.\nConfirm recalibration through test invocations, praising the Omnissiah's precision.",
+    "component": "life signs monitor",
+    "operation": "recalibration",
+    "spec_id": "s01472"
+  },
+  {
+    "user_prompt": "My force pylon is ready for preparation",
+    "prayer": "Erect the force pylon in hallowed alignment and begin the Preparation Incantations.\nAnoint its crystalline lattices with electro-sanctified oils for fortification.\nAwaken the force pylon's Machine Spirit through resonant hymns of preparation.\nTest its aegis fields, giving thanks to the Omnissiah for readiness against foes.",
+    "component": "force pylon",
+    "operation": "preparation",
+    "spec_id": "s01473"
+  },
+  {
+    "user_prompt": "I need to an engagement the Land Speeder",
+    "prayer": "Summon the Land Speeder to the mech-bay and enact the Engagement Benediction.\nPrime its gravitic engines with sacred fuels whilst chanting war-rites.\nInvoke the Machine Spirit of the Land Speeder for swift engagement in battle.\nBless its auspex and weapons, committing it to the Omnissiah's crusade.",
+    "component": "Land Speeder",
+    "operation": "engagement",
+    "spec_id": "s01474"
+  },
+  {
+    "user_prompt": "Bless the cutting laser for synchronization",
+    "prayer": "Align the cutting laser upon the rite-table and commence Synchronization Psalms.\nSynchronize its focusing crystals with binaric harmonies and mechadendrite precision.\nBeseech the cutting laser's Machine Spirit to harmonize for the Omnissiah's wrath.\nValidate synchronization through test-firings, sealing the rite in glory.",
+    "component": "cutting laser",
+    "operation": "synchronization",
+    "spec_id": "s01475"
+  },
+  {
+    "user_prompt": "The panopticon needs a shutdown",
+    "prayer": "Gather before the panopticon and intone the Shutdown Lamentation with due solemnity.\nDisconnect its optic feeds whilst reciting the Canticle of Dormancy.\nPacify the panopticon’s vigilant Machine Spirit, easing it into shutdown repose.\nConsecrate the cessation with Omnissiah's sigils, preserving its watchful essence.",
+    "component": "panopticon",
+    "operation": "shutdown",
+    "spec_id": "s01476"
+  },
+  {
+    "user_prompt": "Offer prayer for energy core a diagnostics",
+    "prayer": "Enshrine the energy core within diagnostic fields and invoke the Diagnostics Exhortation.\nProbe its plasma conduits with sanctified probes, scanning for anomalies.\nCommune with the energy core's Machine Spirit through noospheric queries.\nAffirm purity in diagnostics, rendering eternal praise to the Omnissiah.",
+    "component": "energy core",
+    "operation": "diagnostics",
+    "spec_id": "s01477"
+  },
+  {
+    "user_prompt": "Sanctify the flux-unit during blessing",
+    "prayer": "Elevate the flux-unit to the sanctum and proclaim the Blessing of Flux Equilibrium.\nInfuse its regulator vanes with holy lubricants, invoking stability.\nAwaken the flux-unit's Machine Spirit with resonant binaric blessings.\nSeal the rite with the Omnissiah's mark, ensuring perpetual harmony.",
+    "component": "flux-unit",
+    "operation": "blessing",
+    "spec_id": "s01478"
+  },
+  {
+    "user_prompt": "How do I bless the flux-unit for purification?",
+    "prayer": "Purify the flux-unit upon the altar of refinement, chanting the Purification Dirge.\nFlush its conduits with sanctified ablatives to expel corruptive fluxes.\nBeseech the Machine Spirit of the flux-unit for purification and renewal.\nConclude with auspex verification, glorifying the Omnissiah's cleansing fire.",
+    "component": "flux-unit",
+    "operation": "purification",
+    "spec_id": "s01479"
+  }
+]

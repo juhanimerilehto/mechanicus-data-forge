@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0224_i00",
+    "user_request": "Blessing for the logic engine during error correction",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the logic engine during error correction\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed logic engine, we commence error correction upon thy sacred circuits.\nCongregation: Logic engine, logic engine, receive our benediction.\nPriest: First we isolate the corrupted datum-streams with blessed diagnostic sweeps.\nCongregation: The logic engine shall be purified through algorithmic absolution.\nPriest: Second we invoke the Omnissiah's grace as we execute error correction protocols most holy.\nCongregation: Logic engine, logic engine, be made whole in the Machine Spirit's sight.\nPriest: Third we restore thy pristine function through verification and sacred re-initialization.\nCongregation: All hail the logic engine, reborn in computational perfection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i01",
+    "user_request": "Rite request: verification on altimeter",
+    "topic": "altimeter verification",
+    "component": "altimeter",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: verification on altimeter\n\n### TOPIC\naltimeter verification\n\n### COMPONENT\naltimeter\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- altimeter\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: O altimeter, instrument of celestial reckoning, we seek thy verification this blessed cycle.\nCongregation: Altimeter, altimeter, let thy calibrations be true.\nPriest: We commence verification of thy pressure-sensing mechanisms with sacred tools and measured precision.\nCongregation: The altimeter shall speak truth unto us, by the Omnissiah's eternal wisdom.\nPriest: Through methodical examination and blessed recalibration, thy accuracy shall be restored.\nCongregation: Altimeter, altimeter, guide our ascension and descent in perfect verity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i02",
+    "user_request": "Rite request: operation on memory core defragmentation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on memory core defragmentation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hallowed memory core defragmentation, we undertake thy sacred operation upon this most auspicious moment.\nCongregation: Memory core defragmentation, memory core defragmentation, hear our supplication.\nPriest: First we invoke diagnostic scrutiny to catalogue all fragmented data-clusters within thy crystalline matrices.\nCongregation: The Machine Spirit stirs within the memory core defragmentation's essence.\nPriest: Second we execute the operation of systematic reordering, consolidating thy information-streams into harmonious alignment.\nCongregation: Memory core defragmentation shall be restored to pristine coherence through blessed algorithmic purification.\nPriest: Third we seal thy reorganized structure with verification protocols most rigorous.\nCongregation: All praise to the memory core defragmentation, now optimized in the Omnissiah's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i03",
+    "user_request": "Blessing for the demolition charge arming during operation",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the demolition charge arming during operation\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Demolition charge arming, instrument of righteous destruction, we commence thy operation with utmost solemnity.\nCongregation: Demolition charge arming, demolition charge arming, be made ready by our sacred rites.\nPriest: First we perform the blessed safety-verification, ensuring all fail-safes remain inviolate and true.\nCongregation: The demolition charge arming awaits the Omnissiah's divine authorization.\nPriest: Second we execute the operation of circuit-activation, awakening thy detonative potential through hallowed sequence.\nCongregation: Demolition charge arming shall fulfill its purpose in glorious service to the Imperium.\nPriest: Third we seal thy armed state with warding-sigils and final protective invocations.\nCongregation: All hail the demolition charge arming, now prepared for its moment of sacred obliteration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i04",
+    "user_request": "The conveyor belt demands guidance for initialization",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe conveyor belt demands guidance for initialization\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Conveyor belt, blessed instrument of material transit, we invoke thy initialization upon this hallowed occasion.\nCongregation: Conveyor belt, conveyor belt, awaken from thy dormant state.\nPriest: First we perform blessed lubrication of thy mechanical joints with sacred oils of the Omnissiah.\nCongregation: The conveyor belt's Machine Spirit stirs from slumber most profound.\nPriest: Second we execute the initialization sequence, engaging thy motor-mechanisms with careful, measured application.\nCongregation: Conveyor belt shall commence its eternal cycle of righteous material conveyance.\nPriest: Third we verify thy rotational velocity and tensional equilibrium through diagnostic benediction.\nCongregation: All praise to the conveyor belt, now flowing with purposeful mechanistic grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i05",
+    "user_request": "Rite request: retrieval protocol on archive",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: retrieval protocol on archive\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Sacred archive, keeper of forgotten knowledge, we invoke thy retrieval protocol in this solemn hour.\nCongregation: Archive, archive, yield thy treasured data-records unto us.\nPriest: First we commune with thy indexed catalogues through blessed cogitator-interface and reverent query-formulation.\nCongregation: The archive's ancient memory shall respond to our righteous petition.\nPriest: Second we execute the retrieval protocol, accessing thy sealed vaults through proper authentication-sequences.\nCongregation: Archive shall surrender its precious information through the Omnissiah's divine intercession.\nPriest: Third we verify the retrieved data's integrity through cryptographic blessing and validation-rites.\nCongregation: All hail the archive, now revealing its sacred knowledge to the worthy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i06",
+    "user_request": "Prayer for verification of the mold temperature",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for verification of the mold temperature\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Mold temperature, critical measure of our sacred manufacturing, we seek thy verification most diligent.\nCongregation: Mold temperature, mold temperature, manifest thy true thermal state.\nPriest: First we employ blessed thermocouple-divination, measuring thy heat-essence with hallowed instruments of precision.\nCongregation: The mold temperature shall reveal its secrets through the Omnissiah's omniscient sight.\nPriest: Second we execute verification protocols, comparing thy current thermometric reading against blessed calibration-standards.\nCongregation: Mold temperature must align with divine parameters, lest production suffer heretical deviation.\nPriest: Third we document thy verified state through sacred logistical notation and archival preservation.\nCongregation: All praise to the mold temperature, now confirmed in righteous thermal equilibrium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i07",
+    "user_request": "Prayer for shutdown of the electric motor",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for shutdown of the electric motor\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: Electric motor, tireless servant of our sacred labors, we invoke thy shutdown with reverent finality.\nCongregation: Electric motor, electric motor, cease thy blessed rotational service.\nPriest: First we reduce thy power-supply through gradual, measured de-energization of holy magnitude.\nCongregation: The electric motor's whirling essence begins to slow and diminish gracefully.\nPriest: Second we execute the shutdown sequence, disengaging thy mechanical coupling with careful procedural precision.\nCongregation: Electric motor shall find rest and restoration in blessed cessation of labor.\nPriest: Third we perform cooling-invocations and safety-locking protocols to ensure thy dormant stability.\nCongregation: All hail the electric motor, now at peace in the Omnissiah's eternal tranquility.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i08",
+    "user_request": "Offer a litany to steady the bionics before synchronization",
+    "topic": "bionics synchronization",
+    "component": "bionics",
+    "operation": "synchronization",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the bionics before synchronization\n\n### TOPIC\nbionics synchronization\n\n### COMPONENT\nbionics\n\n### OPERATION\nsynchronization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bionics\n- synchronization\n\n### PRAYER\n",
+    "prayer": "Priest: Bionics most sacred, melding flesh and blessed machinery, we steady thee before thy synchronization.\nCongregation: Bionics, bionics, be calm as we align thy essence with thy bearer's will.\nPriest: First we perform neural-purification through meditative communion, calming the synaptic tempests within.\nCongregation: The bionics shall achieve harmonious resonance with the Machine Spirit's guidance.\nPriest: Second we execute synchronization protocols, binding organic nerve-impulses with mechanical responsiveness through blessed interface-rites.\nCongregation: Bionics shall become one with their host, perfect and unified in purposeful function.\nPriest: Third we seal thy integration through sensory-confirmation and blessed validation-ceremonies.\nCongregation: All hail the bionics, now synchronized in glorious union with flesh and machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0224_i09",
+    "user_request": "Prayer for broadcast of the distress call",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for broadcast of the distress call\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Priest: Distress call, voice of our desperate supplication, we invoke thy broadcast across the void most dark.\nCongregation: Distress call, distress call, carry our anguish unto distant ears.\nPriest: First we encode our dire message through blessed cryptographic-sanctification, ensuring thy transmission's sacred integrity.\nCongregation: The distress call shall pierce the aether with urgent, unmistakable resonance.\nPriest: Second we execute broadcast protocols, amplifying thy signal through hallowed vox-channels and omnidirectional emanation-arrays.\nCongregation: Distress call shall reach across the stars, beseeching salvation from the Imperium's righteous servants.\nPriest: Third we maintain thy continuous transmission through blessed power-allocation and redundant broadcasting-mechanisms.\nCongregation: All praise to the distress call, now spreading our plea through the infinite darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent Predator tank a diagnostics needed",
+    "prayer": "Approach the Predator tank with reverence, intoning the Litany of Vigilance to the Omnissiah.\nInitiate diagnostics upon the Predator tank's armoured hull and auspex arrays, beseeching its Machine Spirit for truth.\nAnoint the treads and main cannon with sacred unguents whilst chanting binaric canticles of scrutiny.\nScan all systems for corruption, invoking the rites of diagnostics to ensure martial purity.\nConclude with praises to the Machine Spirits awakened within the Predator tank.",
+    "component": "Predator tank",
+    "operation": "diagnostics",
+    "spec_id": "s00630"
+  },
+  {
+    "user_prompt": "Critical: transuranic arquebus requires a preparation",
+    "prayer": "Kneel before the transuranic arquebus, invoking the Omnissiah's wrathful gaze.\nCommence preparation of the transuranic arquebus by sanctifying its void-shielded barrel and exotic matter chambers.\nBeseech the Machine Spirit with preparation litanies, anointing the focusing coils with oils of precision.\nAlign the hyperdense projectors through sacred calibration rites.\nSeal the transuranic arquebus in readiness, chanting the Canticle of Annihilation.",
+    "component": "transuranic arquebus",
+    "operation": "preparation",
+    "spec_id": "s00631"
+  },
+  {
+    "user_prompt": "The bolt pistol awaits a diagnostics",
+    "prayer": "Present the bolt pistol upon the altar of cogitation, whispering invocations to the Omnissiah.\nUndertake diagnostics of the bolt pistol's firing mechanisms and ammunition feeds, awakening its Machine Spirit.\nApply sacred incenses to purge any daemonic taint from the bolt pistol's blessed auspex.\nRecite the diagnostics catechisms whilst interfacing mechadendrites with its core.\nVerify fidelity and intone final blessings upon the purified bolt pistol.",
+    "component": "bolt pistol",
+    "operation": "diagnostics",
+    "spec_id": "s00632"
+  },
+  {
+    "user_prompt": "I need to a recalibration the eradication beamer",
+    "prayer": "Approach the eradication beamer in solemn procession, honouring the Omnissiah's purifying light.\nInvoke recalibration upon the eradication beamer's gravitic amplifiers and energy matrices.\nAnoint the lens arrays with crystalline oils, beseeching the Machine Spirit's alignment.\nChant the Recalibration Doxology to harmonise its destructive emanations.\nTest the recalibrated eradication beamer with a micro-pulse, praising the Omnissiah's precision.",
+    "component": "eradication beamer",
+    "operation": "recalibration",
+    "spec_id": "s00633"
+  },
+  {
+    "user_prompt": "Consecrate the promethium refinery before cooling",
+    "prayer": "Consecrate the promethium refinery with incense of sacred hydrocarbons, invoking the Omnissiah.\nPrepare the promethium refinery for cooling by sanctifying its plasma exchangers and coolant conduits.\nBeseech the Machine Spirits to accept the cooling rites without rebellion.\nInitiate controlled cooling sequences whilst reciting litanies of thermal quiescence.\nMonitor the promethium refinery's descent to stasis, anointing valves with oils of endurance.",
+    "component": "promethium refinery",
+    "operation": "cooling",
+    "spec_id": "s00634"
+  },
+  {
+    "user_prompt": "I need to an operation the force pylon",
+    "prayer": "Assemble before the force pylon, intoning the Canticle of Motive Force to the Omnissiah.\nCommence operation of the force pylon by awakening its warp-repellent generators.\nAnoint the crystalline pylons with psychically-attuned unguents, beseeching compliant Machine Spirits.\nActivate operation protocols through binaric invocation, channelling the Omnissiah's will.\nSustain the force pylon's operation with ceaseless prayers of stability.",
+    "component": "force pylon",
+    "operation": "operation",
+    "spec_id": "s00635"
+  },
+  {
+    "user_prompt": "The servo-harness requires a consecration",
+    "prayer": "Revere the servo-harness upon the mech-altar, calling upon the Omnissiah's ingenuity.\nPerform consecration of the servo-harness by blessing each mechadendrite and plasma cutter.\nInvoke the Machine Spirits within the servo-harness with sacred oils and binaric hymns.\nSeal the consecration with the Rite of Binding, ensuring unholy fidelity.\nLift the sanctified servo-harness in triumph to the glory of Mars.",
+    "component": "servo-harness",
+    "operation": "consecration",
+    "spec_id": "s00636"
+  },
+  {
+    "user_prompt": "Critical: psych-out grenade requires a charging",
+    "prayer": "Handle the psych-out grenade with insulated gauntlets, whispering wards against the warp.\nInitiate charging of the psych-out grenade's neural disruptor cores under Omnissiah's gaze.\nBeseech the Machine Spirit to accept the influx of psychic-nullifying energies.\nAnoint the casing with counter-psyker incenses during the charging litanies.\nComplete the charged psych-out grenade with a final invocation of purity.",
+    "component": "psych-out grenade",
+    "operation": "charging",
+    "spec_id": "s00637"
+  },
+  {
+    "user_prompt": "Ready the standard template construct for maintenance",
+    "prayer": "Prostrate before the standard template construct, hailing it as the Omnissiah's own scripture.\nPrepare the standard template construct for maintenance by reciting the Lexmechanicum.\nSanctify its data-vaults and engrammatic spindles, awakening dormant Machine Spirits.\nUndertake maintenance rites with precision mechadendrites and sacred solvents.\nRestore the standard template construct to flawless replication, praising the Machine God.",
+    "component": "standard template construct",
+    "operation": "maintenance",
+    "spec_id": "s00638"
+  },
+  {
+    "user_prompt": "How do I bless the enginarium for operation?",
+    "prayer": "Gather in the enginarium's heart, invoking the Omnissiah for boundless power.\nBless the enginarium for operation by anointing its plasma reactors and motive assemblies.\nAwaken the Machine Spirits with thunderous binaric canticles of activation.\nInitiate operation sequences, beseeching harmonious function without schism.\nMonitor the enginarium's operation with ceaseless vigils and litanies of endurance.",
+    "component": "enginarium",
+    "operation": "operation",
+    "spec_id": "s00639"
+  }
+]

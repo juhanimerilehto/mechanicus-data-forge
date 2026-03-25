@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the chainsword for consecration?",
+    "prayer": "Kneel before the chainsword upon the forge-altar and anoint its adamantine teeth with sacred oils.\nInvoke the wrathful Machine Spirit of the chainsword through the Canticle of Endless Rendition.\nBeseech the Omnissiah to sanctify the chainsword in consecration, binding its motor to unyielding fury.\nCircumambulate the chainsword thrice, chanting binaric litanies to awaken its blessed hunger.\nSeal the consecration with a droplet of the priest's own mechadendrite vitae upon its activation rune.",
+    "component": "chainsword",
+    "operation": "consecration",
+    "spec_id": "b0214_i00"
+  },
+  {
+    "user_prompt": "Assist with proximity sensor a sterilization",
+    "prayer": "Present the proximity sensor to the sterilisation shrine and suffuse it with purifying incense vapors.\nScour the proximity sensor's sacred auspex arrays with ablative sanctified solvents.\nIntone the Rite of Sterilization over the proximity sensor, banishing all microbial corruptions from its holy sensors.\nPetition the vigilant Machine Spirit of the proximity sensor to endure this cleansing untainted.\nVerify purity through diagnostic hymns, ensuring the Omnissiah's flawlessness persists.",
+    "component": "proximity sensor",
+    "operation": "sterilization",
+    "spec_id": "b0214_i01"
+  },
+  {
+    "user_prompt": "My vox transmitter is ready for recalibration",
+    "prayer": "Align the vox transmitter upon the calibration cradle and recite the Lexicon of Frequencies.\nInitiate recalibration of the vox transmitter by modulating its sacred wave-forms with binary canticles.\nAnoint the vox transmitter's emitter coils with conductive unguents to harmonize its voice.\nInvoke the communicative Machine Spirit within the vox transmitter to attune to the noosphere's chorus.\nConclude recalibration by broadcasting the Omnissiah's affirmation through its purified channels.",
+    "component": "vox transmitter",
+    "operation": "recalibration",
+    "spec_id": "b0214_i02"
+  },
+  {
+    "user_prompt": "Consecrate the motion detector before loading",
+    "prayer": "Elevate the motion detector before the loading shrine and beseech its Machine Spirit's vigilance.\nSanctify the motion detector's sensor nodes with sacred oils prior to data infusion.\nChant the Litany of Detection as munitions load into the motion detector's blessed reservoirs.\nPetition the Omnissiah to fortify the motion detector against shadow-veiled foes.\nSeal the rite with a binaric seal upon its activation cogitator.",
+    "component": "motion detector",
+    "operation": "loading",
+    "spec_id": "b0214_i03"
+  },
+  {
+    "user_prompt": "Offer prayer for servitor an activation",
+    "prayer": "Position the servitor within the activation circle and intone the Awakening Protocol.\nAnoint the servitor's cranial implants with neural unguents to rouse its lobotomised essence.\nInvoke the obedient Machine Spirit of the servitor through electro-incantations.\nInitiate activation by linking its flesh-metal interfaces to the Omnissiah's will.\nCommand the servitor to rise and affirm its subservience with servile binaric chants.",
+    "component": "servitor",
+    "operation": "activation",
+    "spec_id": "b0214_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for battery array a synchronization",
+    "prayer": "Array the battery array upon the synchronization altar and harmonize its cells with resonant hymns.\nInitiate synchronization of the battery array by channeling holy voltage through its conduits.\nBeseech the enduring Machine Spirits within the battery array to unite in perfect flux.\nCirculate sacred electrolytes whilst petitioning the Omnissiah for unerring power-flow.\nVerify synchronization through luminous diagnostic runes aglow with divine coherence.",
+    "component": "battery array",
+    "operation": "synchronization",
+    "spec_id": "b0214_i05"
+  },
+  {
+    "user_prompt": "Urgent metal caster a cooling needed",
+    "prayer": "Enshroud the metal caster in cooling vapors from sanctified cryo-vents.\nInvoke the tempering Machine Spirit of the metal caster to embrace the chill of quiescence.\nChant the Cooling Canticle over the metal caster, drawing excess thermals into abyssal sinks.\nAnoint its refractory chambers with ablative oils to hasten descent into calm.\nPetition the Omnissiah to preserve the metal caster's form against thermal heresy.",
+    "component": "metal caster",
+    "operation": "cooling",
+    "spec_id": "b0214_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for cutting laser blessing?",
+    "prayer": "Present the cutting laser to the blessing font and suffuse its lenses with photonic unguents.\nIntone the Blessing of Precision over the cutting laser, aligning its beam to the Omnissiah's geometry.\nAwaken the incisive Machine Spirit within the cutting laser through las-oscillation hymns.\nCircumscribe its housing with mechadendrite touches, invoking unerring focus.\nSeal the blessing by firing a sanctified test-pulse into the void.",
+    "component": "cutting laser",
+    "operation": "blessing",
+    "spec_id": "b0214_i07"
+  },
+  {
+    "user_prompt": "Sanctify the fusion core during calibration",
+    "prayer": "Secure the fusion core within the calibration lattice and recite the Equation of Containment.\nInitiate calibration of the fusion core by modulating plasma flows with binaric precis.\nAnoint its magnetic constrictors to bind the fusion core's roiling heart.\nBeseech the furious Machine Spirit of the fusion core to yield stable output.\nAffirm calibration under the Omnissiah's gaze through radiant flux diagnostics.",
+    "component": "fusion core",
+    "operation": "calibration",
+    "spec_id": "b0214_i08"
+  },
+  {
+    "user_prompt": "The melta charge needs a consecration",
+    "prayer": "Elevate the melta charge upon the consecration plinth and anoint its thermic coils.\nInvoke the melting Machine Spirit of the melta charge with incendiary litanies.\nPerform consecration by infusing the melta charge with promethium vitae from the forge.\nChant the Rite of Liquefaction thrice around the melta charge to bind its destructive zeal.\nSeal with the Omnissiah's sigil etched in molten script upon its casing.",
+    "component": "melta charge",
+    "operation": "consecration",
+    "spec_id": "b0214_i09"
+  }
+]

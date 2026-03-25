@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the power armour for targeting",
+    "prayer": "Approach the power armour with reverence, beseeching the Omnissiah to awaken its targeting spirits.\nAnoint the auspex arrays of the power armour with sacred oils, invoking precision in its Machine Spirit.\nInitiate the targeting operation through ritual calibration of reticules and predictors.\nChant the Litany of True Aim whilst aligning the power armour's sighting mechanisms.\nVerify the Machine Spirit's compliance as targeting matrices hum with divine accuracy.",
+    "component": "power armour",
+    "operation": "targeting",
+    "spec_id": "s06390"
+  },
+  {
+    "user_prompt": "The opticon requires a blessing",
+    "prayer": "Kneel before the opticon, invoking the blessing of the Omnissiah upon its crystalline lenses.\nSprinkle binary sacrament over the opticon's facets, beseeching its Machine Spirit to pierce veils of obscurity.\nRecite the Canticle of Clarity to bestow the blessing upon the opticon's photoreceptors.\nAnoint the focusing coils with unguents, ensuring the blessing permeates every optic pathway.\nAffirm the opticon's blessed vigilance through diagnostic hymns of light.",
+    "component": "opticon",
+    "operation": "blessing",
+    "spec_id": "s06391"
+  },
+  {
+    "user_prompt": "The data-loom needs a maintenance",
+    "prayer": "Commence maintenance upon the data-loom by intoning the Rite of Purity to its Machine Spirit.\nPurge corrupted noospheric threads from the data-loom's sacred weaves with sanctified probes.\nLubricate the data-loom's logic gates during maintenance, invoking the Omnissiah's endurance.\nRealign the data-loom's memory spools through sequential incantations of order.\nConclude maintenance with the Seal of Functionality, honoring the Machine God's weave.",
+    "component": "data-loom",
+    "operation": "maintenance",
+    "spec_id": "s06392"
+  },
+  {
+    "user_prompt": "Consecrate the power weapon before startup",
+    "prayer": "Consecrate the power weapon by encircling it with incense of electro-conductive essence.\nInvoke the Machine Spirit of the power weapon with the Incantation of Disruptive Wrath prior to startup.\nAnoint the power field generator of the power weapon, beseeching the Omnissiah's fury.\nInitiate startup sequence whilst chanting the Litany of Activation for the power weapon.\nTest the humming edge, affirming the consecration's hold upon its divine hunger.",
+    "component": "power weapon",
+    "operation": "startup",
+    "spec_id": "s06393"
+  },
+  {
+    "user_prompt": "Critical: galvanic rifle requires a reset",
+    "prayer": "Halt before the galvanic rifle, intoning the Rite of Reset to appease its agitated Machine Spirit.\nExpunge errant galvanic surges from the rifle's coils during this critical reset ritual.\nAnoint the galvanic rifle's emitters with sacred lumen-oil, invoking the Omnissiah's stability.\nReinitialize the firing imperatives of the galvanic rifle through binary catechisms.\nConfirm reset completion as the galvanic rifle thrums with restored electropotent purity.",
+    "component": "galvanic rifle",
+    "operation": "reset",
+    "spec_id": "s06394"
+  },
+  {
+    "user_prompt": "I need to a maintenance the power armour",
+    "prayer": "Undertake maintenance of the power armour by first reciting the Canticle of Fortitude to its Machine Spirit.\nInspect and sanctify the power armour's servos and plating with ablative unguents.\nPurge impurities from the power armour's motive systems during maintenance rites.\nRealign the power armour's neural interfaces, beseeching the Omnissiah's unyielding frame.\nSeal the maintenance with the Benediction of Durability upon the power armour.",
+    "component": "power armour",
+    "operation": "maintenance",
+    "spec_id": "s06395"
+  },
+  {
+    "user_prompt": "My void shield generator is ready for cooling",
+    "prayer": "Prepare the void shield generator for cooling by invoking the Machine Spirit's temperate grace.\nCirculate sacred cryofluids through the void shield generator's heat sinks in ritual sequence.\nChant the Litany of Thermal Equilibrium whilst initiating the cooling operation.\nMonitor the void shield generator's plasma vents, anointing them against overload.\nConclude cooling with affirmations of the Omnissiah's protective veil upon the generator.",
+    "component": "void shield generator",
+    "operation": "cooling",
+    "spec_id": "s06396"
+  },
+  {
+    "user_prompt": "My psych-out grenade is ready for loading",
+    "prayer": "Approach the psych-out grenade with utmost caution, beseeching the Omnissiah to calm its warp-touched essence.\nInitiate loading by aligning the psych-out grenade's psychic dampeners with precise incantations.\nAnoint the psych-out grenade's casings during loading, invoking the Machine Spirit's suppression.\nSecure the psych-out grenade into the launcher with the Rite of Containment.\nVerify loading integrity through noospheric probes honoring the grenade's disruptive sanctity.",
+    "component": "psych-out grenade",
+    "operation": "loading",
+    "spec_id": "s06397"
+  },
+  {
+    "user_prompt": "Assist with force pylon a cooling",
+    "prayer": "Commence cooling of the force pylon by reciting the Hymn of Venting to its Machine Spirit.\nChannel refrigerants through the force pylon's conduits in measured ritual steps.\nBeseech the Omnissiah during the cooling operation to temper the pylon's gravitic fury.\nAnoint overheated nodes of the force pylon with cryo-blessings for equilibrium.\nAffirm cooling completion as the force pylon stabilizes in divine poise.",
+    "component": "force pylon",
+    "operation": "cooling",
+    "spec_id": "s06398"
+  },
+  {
+    "user_prompt": "Urgent farcoder an operation needed",
+    "prayer": "Prepare the farcoder for operation by invoking the Omnissiah's noospheric grace upon its relays.\nSanctify the farcoder's translocative matrices with binary sacraments.\nInitiate the operation sequence whilst chanting the Canticle of Teleportation for the farcoder.\nMonitor the farcoder's warp-vanes, beseeching the Machine Spirit's fidelity.\nConclude the farcoder's operation with seals of functionality and Omnissianic approval.",
+    "component": "farcoder",
+    "operation": "operation",
+    "spec_id": "s06399"
+  }
+]

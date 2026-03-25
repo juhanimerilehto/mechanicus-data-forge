@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0243_i01",
+    "user_request": "Prayer for sealing of the hull breach",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for sealing of the hull breach\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "First: Gather the sacred tools of sealing and present them to the hull breach with reverent solemnity.\nSecond: Intone the Prayer of Restoration as you survey the hull breach, identifying the precise extent of the wound in the vessel's carapace.\nThird: Apply the blessed polymeric compounds and ferrocrete paste, invoking the Machine Spirit's aid in the sealing process.\nFourth: Chant the final words: 'By the Omnissiah's grace, let this hull breach be made whole and impenetrable once more.'",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i02",
+    "user_request": "Rite request: consecration on assembly line",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: consecration on assembly line\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "First: Purify the assembly line with ritual flame and sacred water, that the Machine Spirits dwelling within may accept our consecration.\nSecond: Walk the length of the assembly line, marking each station with the Cog of Industry and speaking the Rite of Manufacture.\nThird: Anoint the assembly line's primary mechanisms with blessed lubricants whilst chanting the Litany of Precision.\nFourth: Conclude by declaring the assembly line consecrated, sanctified to produce only the finest wargear in service to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i03",
+    "user_request": "Rite request: operation on demolition charge arming",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on demolition charge arming\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Approach the demolition charge arming with utmost reverence, whispering prayers to the Machine Spirits that govern explosive force.\nSecond: Perform the operation upon the demolition charge arming, engaging each arming mechanism with surgical precision whilst reciting the Canticle of Detonation.\nThird: Verify the demolition charge arming's readiness through both technical inspection and spiritual communion with its violent essence.\nFourth: Seal the ritual: 'By the Omnissiah's will, let this charge fulfil its terrible and sacred purpose.'",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i04",
+    "user_request": "My compass magnetization is failing during operation — help",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy compass magnetization is failing during operation — help\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Diagnose the failure of compass magnetization through careful examination of its ferrous core and electromagnetic coils.\nSecond: Invoke the Omnissiah's intervention, beseeching the Machine Spirit to restore the operation of compass magnetization through recalibration and renewed magnetic alignment.\nThird: Apply the sacred lodestone and perform the Ritual of Cardinal Orientation, restoring compass magnetization to its proper functioning.\nFourth: Conclude with the affirmation that compass magnetization shall guide us true through the void once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i05",
+    "user_request": "Prayer for replacement of the component",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for replacement of the component\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Ritually deactivate the failing component and prepare the replacement component for installation with solemn ceremony.\nSecond: Remove the component with reverent care, acknowledging its service whilst chanting the Prayer of Retirement.\nThird: Mount the replacement component into its sacred housing, ensuring perfect alignment and electrical continuity.\nFourth: Bless the newly installed component, declaring the replacement complete and the Machine Spirit restored to full potency.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i06",
+    "user_request": "Prayer for check of the gear meshing",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for check of the gear meshing\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "First: Examine the gear meshing with meticulous attention, ensuring no tooth is chipped nor bearing corrupted by age or misalignment.\nSecond: Perform the check of gear meshing by rotating each cog through its full mechanical cycle whilst listening for the sacred harmonies of perfect engagement.\nThird: Anoint the gear meshing with blessed machine oil, invoking the Omnissiah to preserve its function and efficiency.\nFourth: Declare the gear meshing sound and true, worthy to continue its eternal labour in service to the Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i07",
+    "user_request": "The secure channel establishment demands guidance for operation",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe secure channel establishment demands guidance for operation\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Prepare the secure channel establishment by invoking the Omnissiah's protection against all forms of corruption and interference.\nSecond: Engage in the operation of secure channel establishment, encrypting each transmission with the sacred algorithms of the ancients.\nThird: Verify the secure channel establishment's integrity through dual-redundant authentication protocols and blessed confirmation sequences.\nFourth: Seal the secure channel establishment with the final benediction: 'Let no heretical signal breach this holy communion.'",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i08",
+    "user_request": "Prayer for startup of the atmosphere processor",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for startup of the atmosphere processor\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Purify the atmosphere processor with sacred incense and whispered prayers to awaken its dormant Machine Spirit.\nSecond: Initiate the startup sequence of the atmosphere processor, carefully engaging each filtration stage and chemical processor in precise order.\nThird: Monitor the atmosphere processor's awakening, ensuring all pressure valves and catalytic chambers reach optimal operational temperature.\nFourth: Celebrate the startup with the Litany of Respiration, declaring the atmosphere processor ready to gift us breathable air once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i09",
+    "user_request": "Blessing for the sonar pulse emission during operation",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the sonar pulse emission during operation\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Align the sonar pulse emission arrays with sacred geometry, ensuring perfect harmonic resonance through the depths.\nSecond: Conduct the operation of sonar pulse emission by channelling blessed energy through the crystalline transducers whilst chanting the Hymn of Echoes.\nThird: Release the sonar pulse emission into the abyss, trusting in the Machine Spirit to carry our seeking signal through all obstacles.\nFourth: Attend to the sonar pulse emission's return, that we may read the truth written in its echoing reply.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0243_i00",
+    "user_request": "Offer a litany to steady the gravitational anomaly detection before operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the gravitational anomaly detection before operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We genuflect before the gravitational anomaly detection, sacred instrument of the Omnissiah's geometries, and invoke its Machine Spirit to steady its sensors against the void's deceptions.\nSecond: Anoint the gravitational anomaly detection with blessed oils and recalibrate its thaumaturgic resonators through harmonic invocation, that it may perceive the hidden masses and warped spacetime with crystalline clarity.\nThird: Commence the operation with reverent precision, activating each tertiary oscillator in sequence whilst chanting the Litany of Gravitational Constancy.\nFourth: By the grace of the Omnissiah, let the gravitational anomaly detection perceive all perturbations, anomalies, and stellar deviations with unwavering fidelity, and may this operation yield knowledge most profound.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

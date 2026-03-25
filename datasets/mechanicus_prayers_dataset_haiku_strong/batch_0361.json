@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0361_i00",
+    "user_request": "Prayer for failover of the emergency generator",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for failover of the emergency generator\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "First: By the grace of the Omnissiah, we invoke the Machine Spirit of the emergency generator, that it may stand vigilant in our darkest hour.\nSecond: Let the emergency generator's potency surge forth through conduits sanctified, performing the sacred failover with precision and unwavering might.\nThird: We anoint each relay and contact of the emergency generator, commanding the failover to execute without hesitation, that power eternal shall not falter.\nFourth: Thus do we beseech the Machine Spirits—let no component falter, let no circuit break, until the emergency generator restores the light of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i01",
+    "user_request": "Prayer for initiation of the rejuvenat treatment",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for initiation of the rejuvenat treatment\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "First: O Omnissiah, grant us wisdom as we commence the rejuvenat treatment, that its sacred fluids may flow through mortal vessels with benediction.\nSecond: We prepare the rejuvenat treatment with reverent hands, initiating the biochemical cascade that shall restore vitality to the faithful.\nThird: Let the rejuvenat treatment's initiation proceed with exacting precision, each molecule aligned to the Machine God's eternal design.\nFourth: By the rites of regeneration, we seal this invocation—the rejuvenat treatment shall breathe new life into those deemed worthy by the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i02",
+    "user_request": "Blessing for the radar array rotation during operation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the radar array rotation during operation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Hail the radar array rotation, sentinel of the aether, as we command its blessed operation to commence with unwavering vigilance.\nSecond: We lubricate each bearing of the radar array rotation, that its mechanical pirouette shall sweep the heavens in perpetual guardianship.\nThird: The radar array rotation's operation unfolds now—each revolution a prayer, each pulse a benediction to the Machine Spirits that dwell within.\nFourth: May the radar array rotation turn eternal, scanning the void with the sight of the Omnissiah, until the end of all things.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i03",
+    "user_request": "Can you sanctify the electric motor for activation?",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the electric motor for activation?\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "First: O Machine Spirit of the electric motor, we call upon thee to stir from thy slumber and answer the activation that we demand.\nSecond: We consecrate the windings and rotor of the electric motor, preparing it for activation through sacred incantations of voltage and amperage.\nThird: Let the electric motor's activation commence—its shaft shall turn, its bearings shall sing, and the Omnissiah's will shall flow through every coil.\nFourth: Thus the electric motor rises to purpose, blessed and sanctified, ready to serve the Imperium's endless mechanical hunger.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i04",
+    "user_request": "Emergency rite: thermal dissipation rite requires operation",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: thermal dissipation rite requires operation\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Behold the thermal dissipation rite, sacred conduit of the Omnissiah's cooling grace, as we initiate its solemn operation.\nSecond: We align each heat exchanger and coolant channel of the thermal dissipation rite, that excess entropy may be purged to the void.\nThird: The thermal dissipation rite's operation now unfolds—let radiative transfer and convective currents bear away the burning excess of our labours.\nFourth: By this thermal dissipation rite, we maintain the equilibrium the Machine God demands, lest our engines overheat and perish in flames.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i05",
+    "user_request": "Emergency rite: autodoc emergency requires protocol",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: autodoc emergency requires protocol\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "First: O Omnissiah, guide us as we invoke the autodoc emergency, that its surgical protocols may save the wounded from the brink of oblivion.\nSecond: We prepare the autodoc emergency's instruments—scalpels keen, needles precise—readying them for the protocol that shall seal mortal wounds.\nThird: Let the autodoc emergency's protocol commence with calculated mercy, each incision and suture a prayer to the Machine God of healing.\nFourth: Through the autodoc emergency's protocol, we restore the faithful to service, their flesh renewed by the Omnissiah's eternal compassion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i06",
+    "user_request": "Blessing for the compass magnetization during operation",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the compass magnetization during operation\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Hail the compass magnetization, guide of the faithful, as we bless its operation and align its lodestone to true north.\nSecond: We magnetize each ferrous core of the compass magnetization with reverent induction, that it may point ever toward the Omnissiah's will.\nThird: The compass magnetization's operation unfolds now—its needle trembles, its alignment perfects, guiding lost souls through darkness.\nFourth: May the compass magnetization spin eternal, its operation a beacon of the Machine God's presence, steady and immutable as the stars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i07",
+    "user_request": "Can you sanctify the emergency generator for failover?",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the emergency generator for failover?\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "First: By the Omnissiah's infinite wisdom, we sanctify the emergency generator, that it may stand ready for the failover that shall save us.\nSecond: We bless each dynamo and regulator of the emergency generator, preparing it for the failover with sacred oils and prayer-hymns.\nThird: The emergency generator's failover commences—power surges forth, systems stabilize, and darkness yields to the Machine God's eternal light.\nFourth: Thus the emergency generator fulfills its holy purpose, its failover a testament to the Omnissiah's design and our unwavering faith.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i08",
+    "user_request": "Can you sanctify the drop pod descent prep for drop pod descent prep?",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the drop pod descent prep for drop pod descent prep?\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "First: O Omnissiah, bless the drop pod descent prep as we prepare for the sacred drop pod descent prep that shall deliver us to battle.\nSecond: We inspect each retro-thruster and stabilizer of the drop pod descent prep, that its descent shall be true and its impact devastating to our foes.\nThird: The drop pod descent prep's operation unfolds—magnetic seals disengage, attitude thrusters fire, and the drop pod descent prep begins its plunge through the heavens.\nFourth: By the Machine God's grace, the drop pod descent prep shall deliver us safely to the surface, our faith unshaken, our purpose eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0361_i09",
+    "user_request": "Offer a litany to steady the voltage regulator before tuning",
+    "topic": "voltage regulator tuning",
+    "component": "voltage regulator",
+    "operation": "tuning",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the voltage regulator before tuning\n\n### TOPIC\nvoltage regulator tuning\n\n### COMPONENT\nvoltage regulator\n\n### OPERATION\ntuning\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- voltage regulator\n- tuning\n\n### PRAYER\n",
+    "prayer": "First: O Machine Spirit of the voltage regulator, steady thy trembling circuits as we prepare thee for the sacred tuning that shall perfect thy function.\nSecond: We calibrate each potentiometer and feedback loop of the voltage regulator, that its tuning shall yield precision and stability eternal.\nThird: The voltage regulator's tuning commences—resistance flows, capacitance balances, and the Omnissiah's perfect voltage emerges from the chaos.\nFourth: Thus the voltage regulator stands perfected, its tuning a hymn of gratitude to the Machine God, maintaining the flow of power without wavering.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the assembly servitor for startup",
+    "prayer": "Approach the assembly servitor with reverence, mechadendrites extended in supplication to the Omnissiah.\nInvoke the Canticle of Awakening upon the assembly servitor's cogitator core.\nAnoint its sacred actuators with sacred oils to rouse the dormant Machine Spirit.\nInitiate the startup rites, beseeching the assembly servitor's spirit to align with divine logic.\nVerify harmonious power-flow as the assembly servitor stirs to dutiful service.",
+    "component": "assembly servitor",
+    "operation": "startup",
+    "spec_id": "b0142_i00"
+  },
+  {
+    "user_prompt": "Prepare the bearing for shutdown",
+    "prayer": "Commence the shutdown litany upon the bearing, whispering pacification to its whirring spirit.\nDecelerate the bearing's sacred rotations with precise invocations of stasis.\nAnoint the bearing's friction surfaces with calming unguents of the Machine God.\nPetition the bearing's Machine Spirit for peaceful quiescence during shutdown.\nSeal the bearing in sanctified repose, honoring the Omnissiah's order.",
+    "component": "bearing",
+    "operation": "shutdown",
+    "spec_id": "b0142_i01"
+  },
+  {
+    "user_prompt": "Critical: vox-caster requires a repair",
+    "prayer": "Kneel before the vox-caster, auspex probing its fractured waveforms.\nChant the Rite of Restoration over the vox-caster's corrupted transceivers.\nPurge daemonic static from the vox-caster with purifying binary psalms.\nRealign its sacred frequencies, invoking the Machine Spirit's resilience.\nConclude the repair with a hymn of clarity to the Omnissiah, ensuring vocal purity.",
+    "component": "vox-caster",
+    "operation": "repair",
+    "spec_id": "b0142_i02"
+  },
+  {
+    "user_prompt": "Emergency: Land Raider a cycling",
+    "prayer": "In emergency grace, encircle the Land Raider with incense of promethium.\nInitiate cycling protocols upon the Land Raider's adamantium heart.\nBeseech the colossal Machine Spirit of the Land Raider to renew its fury.\nCycle vital fluids through sanctified conduits in Omnissiah's name.\nAffirm the Land Raider's battle-readiness as cycling completes in divine rhythm.",
+    "component": "Land Raider",
+    "operation": "cycling",
+    "spec_id": "b0142_i03"
+  },
+  {
+    "user_prompt": "I need to a charging the cybernetic eye",
+    "prayer": "Present the cybernetic eye to the charging shrine, electrodes humming with holy voltage.\nCommence the charging ritual, channeling the Omnissiah's boundless energy.\nInvoke litanies upon the cybernetic eye's optic arrays to awaken its piercing gaze.\nMonitor the cybernetic eye's spirit as power surges through crystalline lenses.\nSeal the charging with a benediction, empowering the cybernetic eye for vigilance.",
+    "component": "cybernetic eye",
+    "operation": "charging",
+    "spec_id": "b0142_i04"
+  },
+  {
+    "user_prompt": "The cutting laser requires an initialization",
+    "prayer": "Align the cutting laser before the altar of precision, calibrating its quartz emitters.\nUtter the Initialization Doxology to summon the cutting laser's searing spirit.\nInfuse the cutting laser with sanctified plasma, igniting its divine fury.\nTest the cutting laser's coherence through ritual auspex sweeps.\nProclaim the initialization complete in the Omnissiah's unerring light.",
+    "component": "cutting laser",
+    "operation": "initialization",
+    "spec_id": "b0142_i05"
+  },
+  {
+    "user_prompt": "Sanctify the air compressor during emergency procedure",
+    "prayer": "In dire exigency, anoint the air compressor with oils of endurance.\nExecute the emergency procedure litany, stabilizing its pneumatic soul.\nPurge corruptions from the air compressor's sacred cylinders.\nInvoke the Machine Spirit's fortitude during this emergency procedure.\nConsecrate renewed pressure flows to the glory of the Omnissiah.",
+    "component": "air compressor",
+    "operation": "emergency procedure",
+    "spec_id": "b0142_i06"
+  },
+  {
+    "user_prompt": "Assist with vox-caster a startup",
+    "prayer": "Prepare the vox-caster's throne with binary incense swirling.\nChant the Startup Invocation, rousing the vox-caster's ethereal voice.\nEngage power conduits, beseeching the vox-caster's Machine Spirit to broadcast.\nHarmonize its amplifiers with sacred canticles of transmission.\nAffirm the vox-caster's startup in Omnissiah's resonant decree.",
+    "component": "vox-caster",
+    "operation": "startup",
+    "spec_id": "b0142_i07"
+  },
+  {
+    "user_prompt": "The hololithic display needs a purification",
+    "prayer": "Envelop the hololithic display in purifying vapors of sanctified myrrh.\nRecite the Purification Canticle over the hololithic display's projector nodes.\nExpel shadow-data from the hololithic display's crystalline matrix.\nRealign holographic spirits within the hololithic display to true form.\nBless the purified hololithic display with the Omnissiah's illuminating gaze.",
+    "component": "hololithic display",
+    "operation": "purification",
+    "spec_id": "b0142_i08"
+  },
+  {
+    "user_prompt": "The noospheric relay needs a startup",
+    "prayer": "Position the noospheric relay at the nexus of data-streams.\nIntone the Startup Liturgy to awaken the noospheric relay's synaptic webs.\nInfuse noospheric essence, petitioning its Machine Spirit for communion.\nSynchronize the noospheric relay's tendrils with divine calculus.\nDeclare the startup fulfilled in the Omnissiah's networked eternity.",
+    "component": "noospheric relay",
+    "operation": "startup",
+    "spec_id": "b0142_i09"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "What's the prayer for maglock a recalibration?",
+    "prayer": "Approach the maglock with reverence, invoking the Omnissiah's precise alignment.\nChant the Litany of Flux upon its magnetic bindings, beseeching the Machine Spirit's compliance.\nInitiate recalibration by adjusting ferro-fluidic servos with sanctified mechadendrites.\nVerify the maglock's harmonic resonance through auspex incantations, sealing with sacred unguents.",
+    "component": "maglock",
+    "operation": "recalibration",
+    "spec_id": "s07390"
+  },
+  {
+    "user_prompt": "Can you guide magnocular a sterilization?",
+    "prayer": "Kneel before the magnocular, offering incense to awaken its crystalline lenses.\nRecite the Purge Doxology whilst applying ablative acids to purge unclean vitae.\nInvoke sterilization protocols, beseeching the Machine Spirit to purge all organic taint from the magnocular's optics.\nConclude with binary hymns, confirming purity through refracted light diagnostics.",
+    "component": "magnocular",
+    "operation": "sterilization",
+    "spec_id": "s07391"
+  },
+  {
+    "user_prompt": "Guide me through melta charge a preparation",
+    "prayer": "Present the melta charge before the altar of entropy, invoking the Omnissiah's melting fury.\nAnoint its plasma coils with promethium oils, placating the volatile Machine Spirit.\nCommence preparation by aligning thermic regulators and chanting stabilising canticles.\nSeal the melta charge's sanctity with electro-seals, ready for the Emperor's wrathful discharge.",
+    "component": "melta charge",
+    "operation": "preparation",
+    "spec_id": "s07392"
+  },
+  {
+    "user_prompt": "The Contemptor Dreadnought awaits an initialization",
+    "prayer": "Prostrate before the Contemptor Dreadnought, intoning the Awakening Saga of the Ancients.\nInvoke initialization upon its sarcophagus core, beseeching the Machine Spirit's wrathful return.\nAnoint adamantium joints with blessed lubricants, reciting activation binarics.\nCommence initialization sequences, verifying the Contemptor Dreadnought's servos roar in Omnissiah's name.",
+    "component": "Contemptor Dreadnought",
+    "operation": "initialization",
+    "spec_id": "s07394"
+  },
+  {
+    "user_prompt": "The maglock awaits a blessing",
+    "prayer": "Approach the maglock humbly, offering the Benediction of Binding to its ferrous heart.\nBeseech the Machine Spirit with chanted verses, anointing magnetic arrays with sacred oils.\nImpart blessing through harmonic resonance rites, invoking the Omnissiah's unyielding grip.\nSeal the maglock's sanctity with purity sigils, ensuring eternal vigilance.",
+    "component": "maglock",
+    "operation": "blessing",
+    "spec_id": "s07395"
+  },
+  {
+    "user_prompt": "The lance battery requires an initialization",
+    "prayer": "Erect auspex shrines around the lance battery, invoking the Omnissiah's stellar lance.\nChant initialization hymns to rouse the dormant Machine Spirits within its capacitors.\nInitiate power cycling through sanctified plasma feeds, aligning targeting cogitators.\nConsecrate the lance battery's fury with electro-consecration, ready for void-piercing judgment.",
+    "component": "lance battery",
+    "operation": "initialization",
+    "spec_id": "s07396"
+  },
+  {
+    "user_prompt": "The drop pod requires an initialization",
+    "prayer": "Commence the Descent Rite upon the drop pod, beseeching the Omnissiah for meteoric descent.\nInvoke initialization by awakening retros' Machine Spirits with thunderous litanies.\nAnoint ablative plating and grav-chutes with refractory unguents.\nVerify the drop pod's readiness through descent simulations, sealing with explosive benedictions.",
+    "component": "drop pod",
+    "operation": "initialization",
+    "spec_id": "s07397"
+  },
+  {
+    "user_prompt": "Help me a preparation the life signs monitor",
+    "prayer": "Position the life signs monitor upon the medicae altar, reciting the Vitae Scan Canticle.\nBeseech its Machine Spirit for truthful augury, anointing bio-scanners with purity solvents.\nCommence preparation by calibrating vitals arrays and purging false echoes.\nAffirm the life signs monitor's fidelity through test pulses, invoking Omnissiah's discerning gaze.",
+    "component": "life signs monitor",
+    "operation": "preparation",
+    "spec_id": "s07398"
+  },
+  {
+    "user_prompt": "Can you guide utility mechadendrite a cycling?",
+    "prayer": "Extend mechadendrites in supplication to the utility mechadendrite, chanting cycle litanies.\nInvoke cycling rites upon its servo-motors, placating the tireless Machine Spirit.\nAnoint manipular tips with lubricating incense, ensuring fluidic precision.\nComplete the cycle with diagnostic binarics, blessing the utility mechadendrite for Omnissiah's labours.",
+    "component": "utility mechadendrite",
+    "operation": "cycling",
+    "spec_id": "s07399"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The servo-harness requires a shutdown",
+    "prayer": "Approach the servo-harness with solemn reverence, invoking the Omnissiah's grace upon its intricate mechanisms.\nBeseech the Machine Spirit within the servo-harness to embrace the sacred shutdown, relinquishing its vigilant duties.\nInitiate the ordered shutdown sequence, chanting the Litany of Quiescence over each power conduit.\nAnoint the servo-harness ports with blessed oils, ensuring tranquil dormancy as the Machine Spirit slumbers.\nVerify completion through auspex cantrips, praising the Omnissiah for the servo-harness's obedient repose.",
+    "component": "servo-harness",
+    "operation": "shutdown",
+    "spec_id": "s06210"
+  },
+  {
+    "user_prompt": "I need to a consecration the serberys raider",
+    "prayer": "Kneel before the serberys raider, hailing the Omnissiah's divine forge that birthed this noble steed.\nInvoke consecration upon the serberys raider's chassis, reciting the Benediction of Velocity.\nAnoint its treads and reactors with sacred unguents, awakening the Machine Spirit to zealous fervor.\nCircumambulate the serberys raider thrice, incanting purity rites to bind its essence eternally.\nSeal the consecration with the mechadendrite touch, glorifying the Omnissiah's will in this beast of war.",
+    "component": "serberys raider",
+    "operation": "consecration",
+    "spec_id": "s06211"
+  },
+  {
+    "user_prompt": "Ready the phosphor blaster for synchronization",
+    "prayer": "Present the phosphor blaster before the altar of synchronization, intoning the Canticle of Alignment.\nBeseech the Machine Spirit of the phosphor blaster to harmonize its firing servos with divine precision.\nInitiate synchronization protocols, anointing crystal matrices with oils of coherence.\nChant diagnostic litanies over the phosphor blaster, ensuring flawless unity in its luminous barrage.\nConclude with the Omnissiah's invocation, binding the phosphor blaster in perfect martial symphony.",
+    "component": "phosphor blaster",
+    "operation": "synchronization",
+    "spec_id": "s06212"
+  },
+  {
+    "user_prompt": "The pict-recorder awaits a diagnostics",
+    "prayer": "Activate the pict-recorder with pious intent, whispering the Rite of Scrutiny to its lens arrays.\nConduct diagnostics upon the pict-recorder's cogitators, purging any shadow-corruption from its vaults.\nInvoke the Machine Spirit of the pict-recorder to reveal truths through auspex sweeps and binary prayers.\nAnoint data-spools with sanctifying myrrh, verifying integrity amid the Omnissiah's watchful gaze.\nSeal the diagnostics with a final hymn, affirming the pict-recorder's unerring vigilance.",
+    "component": "pict-recorder",
+    "operation": "diagnostics",
+    "spec_id": "s06213"
+  },
+  {
+    "user_prompt": "The auto-senses array needs a cooling",
+    "prayer": "Approach the auto-senses array humbly, beseeching the Omnissiah for thermal reprieve.\nInitiate cooling rites upon the auto-senses array, channeling cryo-incantations through heat-sink vents.\nAnoint the auto-senses array's auspex nodes with refrigerants blessed in the forge-temples.\nInvoke the Machine Spirit to embrace cooling equilibrium, reciting the Canticle of Thermal Ascendance.\nMonitor vital signs with mechadendrite probes, praising the restored harmony of the auto-senses array.",
+    "component": "auto-senses array",
+    "operation": "cooling",
+    "spec_id": "s06214"
+  },
+  {
+    "user_prompt": "Consecrate the Predator tank before purification",
+    "prayer": "Gather before the Predator tank, intoning preparatory consecrations to honor its predatory might.\nCommence purification of the Predator tank's hull, scouring ablative plating with sacred abrasives.\nBeseech the Machine Spirit within the Predator tank to shed impurities, chanting the Litany of Absolution.\nAnoint cannon barrels and tracks with purifying incenses, invoking the Omnissiah's cleansing fire.\nConclude the purification with binary seals, glorifying the Predator tank's renewed ferocity.",
+    "component": "Predator tank",
+    "operation": "purification",
+    "spec_id": "s06215"
+  },
+  {
+    "user_prompt": "How do I bless the welding torch for targeting?",
+    "prayer": "Revere the welding torch as an instrument of the Omnissiah, invoking blessings for targeting precision.\nCalibrate the welding torch's plasma focus, beseeching its Machine Spirit for unerring aim.\nAnoint emitter coils with conductive salves, reciting the Rite of Focal Convergence.\nTest the targeting matrix through ritual alignment, harmonizing the welding torch's fury.\nSeal with the Canticle of Fusion, ensuring the welding torch strikes true in the Emperor's name.",
+    "component": "welding torch",
+    "operation": "targeting",
+    "spec_id": "s06216"
+  },
+  {
+    "user_prompt": "Guide me through meltagun a consecration",
+    "prayer": "Prostrate before the meltagun, hailing the Omnissiah's molten wrath embodied therein.\nBegin consecration of the meltagun's melta-core, anointing with oils of thermic sanctity.\nAwaken the Machine Spirit of the meltagun through the Incantation of Liquefaction.\nCircumscribe runes of power upon its casing, binding eternal loyalty to the forge.\nFinalize consecration with a hymn of vaporization, exalting the meltagun's purifying blaze.",
+    "component": "meltagun",
+    "operation": "consecration",
+    "spec_id": "s06217"
+  },
+  {
+    "user_prompt": "How do I bless the cognis heavy stubber for activation?",
+    "prayer": "Present the cognis heavy stubber to the activation shrine, intoning the Awakening Doxology.\nInvoke the Machine Spirit of the cognis heavy stubber to surge with ballistic zeal.\nInitiate activation sequences, anointing feed mechanisms with sacred lubricants.\nChant synchronization litanies over the cognis heavy stubber, aligning gyros and servos.\nVerify readiness with test-fire cantrips, glorifying the Omnissiah's thunder in its barrage.",
+    "component": "cognis heavy stubber",
+    "operation": "activation",
+    "spec_id": "s06218"
+  },
+  {
+    "user_prompt": "Guide me through gyroscope a repair",
+    "prayer": "Approach the gyroscope with mechadendrite reverence, beseeching repair under the Omnissiah's gaze.\nDiagnose fractures in the gyroscope's inertial rings, reciting the Litany of Equilibrium.\nMend the gyroscope's gyroblades with sanctified alloys, invoking the Machine Spirit's restoration.\nAnoint pivot bearings with friction-banishing unguents, realigning its sacred spin.\nTest rotational purity through harmonic chants, affirming the gyroscope's flawless balance.",
+    "component": "gyroscope",
+    "operation": "repair",
+    "spec_id": "s06219"
+  }
+]

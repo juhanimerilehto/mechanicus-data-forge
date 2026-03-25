@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the vox-caster for purification",
+    "prayer": "Approach the vox-caster with reverence, intoning the Litany of Static-Bane to awaken its Machine Spirit.\nAnoint the vox-caster's emitters with sacred oils, commencing the rite of purification.\nBeseech the Omnissiah to purge all heretical interference from its sacred circuits.\nChant diagnostic canticles over the vox-caster, affirming the Machine Spirit's restored purity.",
+    "component": "vox-caster",
+    "operation": "purification",
+    "spec_id": "s06720"
+  },
+  {
+    "user_prompt": "My needle rifle is ready for purification",
+    "prayer": "Kneel before the needle rifle, invoking the Benediction of Precision to rouse its dormant essence.\nApply ablative unguents to the needle rifle's toxin reservoirs, initiating purification.\nImplore the Machine Spirit of the needle rifle to expel corrupted filaments and warp-taint.\nConclude with auspex scans, verifying the Omnissiah's grace upon its sanctified form.",
+    "component": "needle rifle",
+    "operation": "purification",
+    "spec_id": "s06721"
+  },
+  {
+    "user_prompt": "Guide me through lance battery a purification",
+    "prayer": "Present thyself unto the lance battery, reciting the Canticle of Luminal Wrath.\nCommence purification by asperging its plasma conduits with sanctified promethium.\nExhort the Machine Spirits indwelling the lance battery to banish daemonic flux.\nTest-fire a micro-bolt whilst hymning the Omnissiah, ensuring flawless coherence.",
+    "component": "lance battery",
+    "operation": "purification",
+    "spec_id": "s06722"
+  },
+  {
+    "user_prompt": "My narthecium is ready for blessing",
+    "prayer": "Reverently grasp the narthecium, chanting the Hymn of Flesh-Mend to summon its beneficent Spirit.\nInvoke the Omnissiah's blessing upon the narthecium's injectors and servo-arms.\nAnoint its vials with the tears of Mars, sanctifying the sacred medicae fluids.\nAffirm the Machine Spirit's harmony through rhythmic auspex invocations.",
+    "component": "narthecium",
+    "operation": "blessing",
+    "spec_id": "s06723"
+  },
+  {
+    "user_prompt": "Sanctify the eradication beamer during purification",
+    "prayer": "Approach the eradication beamer in pious dread, intoning the Psalm of Annihilation.\nBegin purification by suffusing its focusing lenses with ablutionary myrrh.\nBeseech the Machine Spirit within the eradication beamer to cleanse all xenos corruption.\nCalibrate its death-ray with litanies, under the Omnissiah's unblinking gaze.",
+    "component": "eradication beamer",
+    "operation": "purification",
+    "spec_id": "s06724"
+  },
+  {
+    "user_prompt": "Sanctify the Hellhound during recalibration",
+    "prayer": "Circumambulate the Hellhound, voicing the Incantation of Infernal Reckoning.\nInitiate recalibration by anointing its tracks and promethium heart.\nCommand the Machine Spirits of the Hellhound to realign gyros and auspex arrays.\nInvoke the Omnissiah's fury, testing vents with purifying flame-bursts.",
+    "component": "Hellhound",
+    "operation": "recalibration",
+    "spec_id": "s06725"
+  },
+  {
+    "user_prompt": "Consecrate the plasma obliterator before calibration",
+    "prayer": "Consecrate the plasma obliterator with the Rite of Containment, awakening its volatile core.\nPrepare for calibration by incensing its magnetic bottles with sacred vapors.\nPlead with the Machine Spirit of the plasma obliterator to attune flux regulators.\nFinalize under Omnissiah's aegis, verifying thermal hymns resonate true.",
+    "component": "plasma obliterator",
+    "operation": "calibration",
+    "spec_id": "s06726"
+  },
+  {
+    "user_prompt": "Can you guide graviton pylon a loading?",
+    "prayer": "Station thyself at the graviton pylon, declaiming the Ode to Crushing Void.\nCommence loading by blessing ammunition servitors with electro-sanctifiers.\nUrge the Machine Spirits within the graviton pylon to accept munitions pure.\nSeal the rite with gravitic cantos, ensuring flawless chambering.",
+    "component": "graviton pylon",
+    "operation": "loading",
+    "spec_id": "s06727"
+  },
+  {
+    "user_prompt": "I need to an initialization the bolt pistol",
+    "prayer": "Grasp the bolt pistol firmly, intoning the Lexicon of Propellant Awakening.\nInitiate initialization via rune-etched power cells and sacred primers.\nAwaken the Machine Spirit of the bolt pistol with beseeching binaric prayer.\nCycle its mechanisms whilst hymning the Omnissiah, confirming readiness.",
+    "component": "bolt pistol",
+    "operation": "initialization",
+    "spec_id": "s06728"
+  },
+  {
+    "user_prompt": "What's the prayer for plasma pistol an engagement?",
+    "prayer": "Empower the plasma pistol with the Invocation of Stellar Fury.\nPrepare for engagement by aligning its coils through litanies of flux.\nExhort the indwelling Machine Spirit of the plasma pistol to unleash wrath.\nConsecrate the discharge with Omnissiah's thunder, venting excess heat in praise.",
+    "component": "plasma pistol",
+    "operation": "engagement",
+    "spec_id": "s06729"
+  }
+]

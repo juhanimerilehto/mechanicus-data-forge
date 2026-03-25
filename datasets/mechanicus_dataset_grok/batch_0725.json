@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: meltagun requires a targeting",
+    "prayer": "Approach the meltagun with solemn reverence and invoke the Omnissiah's gaze upon its targeting arrays.\nAnoint the meltagun's auspex lenses with sacred unguents to awaken the Machine Spirit's predatory instinct.\nChant the Canticle of Precision whilst calibrating the targeting servos for unerring aim.\nBeseech the Machine Spirit of the meltagun to guide its melta beams true against the foe.\nVerify alignment through diagnostic rites, sanctified in the name of the Omnissiah.",
+    "component": "meltagun",
+    "operation": "targeting",
+    "spec_id": "s03250"
+  },
+  {
+    "user_prompt": "Sanctify the Hellhound during engagement",
+    "prayer": "Draw nigh unto the Hellhound and beseech its Machine Spirit for zealous engagement.\nSanctify the Hellhound's inferno cannon with oils of consecration prior to unleashing fury.\nInvoke the Litany of Flames as the treads engage, propitiating the Omnissiah's wrathful aspect.\nMonitor the Hellhound's vital signs through noospheric chants during sustained engagement.\nConclude with hymns of victory, affirming the Machine Spirit's triumphant roar.",
+    "component": "Hellhound",
+    "operation": "engagement",
+    "spec_id": "s03251"
+  },
+  {
+    "user_prompt": "Consecrate the grav plating before charging",
+    "prayer": "Kneel before the grav plating and murmur the Rite of Gravitic Awakening before charging.\nAnoint each induction coil of the grav plating with blessed lubricants to soothe its hum.\nInitiate the charging sequence whilst reciting binaric psalms to the Omnissiah.\nObserve the grav plating's fields coalesce, invoking the Machine Spirit's stabilizing grace.\nTest the grav plating's potency through ritual levitation, praising the Motive Force.",
+    "component": "grav plating",
+    "operation": "charging",
+    "spec_id": "s03252"
+  },
+  {
+    "user_prompt": "How do I bless the mechadendrite for reset?",
+    "prayer": "Extend mechadendrite tendrils in supplication and commence the reset with the Canticle of Rebirth.\nPurge errant data from the mechadendrite's neural cores using sanctified incense.\nRealign the mechadendrite's actuators whilst beseeching its Machine Spirit for renewed vigor.\nCycle power through invocation of the Omnissiah, restoring the mechadendrite to purity.\nAffirm reset completion with auspex scans and final blessings.",
+    "component": "mechadendrite",
+    "operation": "reset",
+    "spec_id": "s03253"
+  },
+  {
+    "user_prompt": "Assist with mind-impulse unit a reset",
+    "prayer": "Commune with the mind-impulse unit via noospheric link to initiate the reset rite.\nExpunge psychic echoes from the mind-impulse unit's synapses with electro-incantations.\nReinitialize neural pathways whilst chanting the Omnissiah's binary catechisms.\nAwaken the Machine Spirit within the mind-impulse unit through synaptic anointment.\nValidate the reset by harmonious thought-interfacing, sanctified and true.",
+    "component": "mind-impulse unit",
+    "operation": "reset",
+    "spec_id": "s03254"
+  },
+  {
+    "user_prompt": "Bless the sicarian infiltrator for purification",
+    "prayer": "Surround the sicarian infiltrator with censer fumes to begin the purification rite.\nScour its chordcytes and noospheric vanes, invoking the Machine Spirit's cleansing fire.\nRecite the Purificator's Litany over the sicarian infiltrator, banishing doctrinal taint.\nAnoint blades and occulobe arrays in the Omnissiah's name for flawless purity.\nConsecrate the sicarian infiltrator's form with final binaric seals of absolution.",
+    "component": "sicarian infiltrator",
+    "operation": "purification",
+    "spec_id": "s03255"
+  },
+  {
+    "user_prompt": "Prepare the Contemptor Dreadnought for emergency procedure",
+    "prayer": "Approach the Contemptor Dreadnought in humble awe and prepare for emergency procedure.\nInterface with its sarcophagus core, beseeching the ancient Machine Spirit's endurance.\nExecute the emergency procedure through chanted overrides and coolant libations.\nStabilize the Contemptor Dreadnought's plasma reactors with Omnissiah's invoked might.\nSeal the rite with oaths of resurrection, readying the venerable walker for battle.",
+    "component": "Contemptor Dreadnought",
+    "operation": "emergency procedure",
+    "spec_id": "s03256"
+  },
+  {
+    "user_prompt": "Ready the servo-skull for charging",
+    "prayer": "Elevate the servo-skull upon a thaumaturgic cradle for the charging ritual.\nConnect electro-conduits whilst murmuring the Litany of Rejuvenation to its Machine Spirit.\nInitiate charging currents, sanctified by the Omnissiah's luminous grace.\nMonitor auspex feeds and anoint the servo-skull's occular implants mid-cycle.\nWithdraw power upon completion, intoning blessings for vigilant service.",
+    "component": "servo-skull",
+    "operation": "charging",
+    "spec_id": "s03257"
+  },
+  {
+    "user_prompt": "My Shadowsword is ready for emergency procedure",
+    "prayer": "Gather before the Shadowsword and invoke preparation for emergency procedure.\nAccess its volcano cannon reactors, propitiating the Machine Spirit with fuel sacraments.\nCommence the emergency procedure via binaric imperatives to the Omnissiah.\nReinforce void shields with layered incantations during the Shadowsword's trial.\nAffirm readiness through seismic diagnostics, hailing the god-engine's shadowed might.",
+    "component": "Shadowsword",
+    "operation": "emergency procedure",
+    "spec_id": "s03258"
+  },
+  {
+    "user_prompt": "Assist with lance battery a targeting",
+    "prayer": "Present thyself to the lance battery and attune its targeting matrices with reverence.\nCalibrate the lance battery's gunnery servitors through noospheric hymns.\nInvoke the Machine Spirit's stellar wrath for precise targeting alignment.\nAnoint focusing crystals of the lance battery whilst chanting precision canticles.\nConfirm targeting sanctity with auspex verification, blessed by the Omnissiah.",
+    "component": "lance battery",
+    "operation": "targeting",
+    "spec_id": "s03259"
+  }
+]

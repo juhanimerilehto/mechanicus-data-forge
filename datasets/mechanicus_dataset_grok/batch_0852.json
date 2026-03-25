@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a calibration the Manticore",
+    "prayer": "Approach the mighty Manticore with reverence, beseeching its Machine Spirit to awaken.\nInvoke the sacred calibration rites upon the Manticore's auspex arrays and ballistic cogitators.\nAnoint the guidance servos with sacred oils whilst chanting the Litany of Precision.\nAlign the Manticore's firing solutions through diagnostic incantations of the Omnissiah.\nVerify the calibration's purity as the Machine Spirit hums in harmonious accord.",
+    "component": "Manticore",
+    "operation": "calibration",
+    "spec_id": "s04520"
+  },
+  {
+    "user_prompt": "Prepare the warp drive for consecration",
+    "prayer": "Prepare the warp drive's nacelles by encircling them thrice with the thaumaturgic wards.\nConsecrate the warp drive's plasma coils, invoking the Omnissiah's bulwark against the Immaterium.\nChant the Canticle of Gellar Stability to soothe the warp drive's tempestuous Machine Spirit.\nAnoint containment fields with sanctified lumen-oil, sealing pacts against daemonic incursion.\nAffirm the consecration as ethereal harmonies resonate within the warp drive's core.",
+    "component": "warp drive",
+    "operation": "consecration",
+    "spec_id": "s04521"
+  },
+  {
+    "user_prompt": "What's the prayer for energy core a blessing?",
+    "prayer": "Kneel before the energy core and proclaim the Benediction of Flux.\nBless the energy core's plasma conduits with ablative incense and binaric hymns.\nInvoke the Omnissiah to invigorate the Machine Spirit dwelling within the energy core.\nCycle sacred myrrh through the heat sinks to amplify its radiant fury.\nWitness the blessing manifest as azure fires dance in Omnissiah's divine approval.",
+    "component": "energy core",
+    "operation": "blessing",
+    "spec_id": "s04522"
+  },
+  {
+    "user_prompt": "Emergency: Predator tank a cooling",
+    "prayer": "In emergency haste, beseech the Predator tank's Machine Spirit with the Urgent Litany of Venting.\nInitiate cooling protocols upon the Predator tank's plasma annihilator and drive reactors.\nAnoint overheating manifolds with cryo-blessed refrigerants amid frantic incantations.\nInvoke the Omnissiah's chill breath to quell the Predator tank's thermal tempests.\nMonitor auspex readouts until the Machine Spirit stabilizes in frosted serenity.",
+    "component": "Predator tank",
+    "operation": "cooling",
+    "spec_id": "s04523"
+  },
+  {
+    "user_prompt": "Guide me through mass-drive regulator a purification",
+    "prayer": "EncIRCLE the mass-drive regulator with purity seals and asperge with sanctified ablatives.\nPurify the mass-drive regulator's gravitic coils through exorcistic binaric chants.\nExpunge warp-taint from the regulator's Machine Spirit with lustral oils.\nRecalibrate inertial dampeners whilst invoking the Omnissiah's unyielding order.\nSeal the purification as harmonious grav-waves proclaim the rite complete.",
+    "component": "mass-drive regulator",
+    "operation": "purification",
+    "spec_id": "s04524"
+  },
+  {
+    "user_prompt": "The multi-melta needs a cycling",
+    "prayer": "Grasp the multi-melta's sanctified barrel and intone the Cycling Catechism.\nInitiate thermal cycling upon the multi-melta's fusion heart, awakening its Machine Spirit.\nAnoint melta coils with promethium-laced unguents during rhythmic incantations.\nCycle fusion plasma thrice, beseeching the Omnissiah for unerring meltdown fury.\nTest the multi-melta's readiness as it purrs with voracious, sanctified hunger.",
+    "component": "multi-melta",
+    "operation": "cycling",
+    "spec_id": "s04525"
+  },
+  {
+    "user_prompt": "The micro-servitor awaits a reset",
+    "prayer": "Present the mechadendrites to the micro-servitor and whisper the Reset Doxology.\nPurge errant engrams from the micro-servitor's cogitator cortex with noospheric purges.\nInvoke the Machine Spirit's rebirth through electro-incantatory pulses.\nReinitialize core protocols whilst anointing data-vaults with binary chrism.\nAffirm the reset as the micro-servitor twitches in Omnissiah-granted obedience.",
+    "component": "micro-servitor",
+    "operation": "reset",
+    "spec_id": "s04526"
+  },
+  {
+    "user_prompt": "The radium carbine needs a preparation",
+    "prayer": "Anoint the radium carbine’s emitter coils with rad-lumens and proclaim the Rite of Preparation.\nPrime the radium carbine’s flux chambers, stirring its Machine Spirit to lethal wakefulness.\nChant arming litanies over the weapon's targeting reticules and power cells.\nInvoke the Omnissiah to infuse the radium carbine with corrosive benediction.\nVerify preparation as Geiger canticles herald its irradiated readiness.",
+    "component": "radium carbine",
+    "operation": "preparation",
+    "spec_id": "s04527"
+  },
+  {
+    "user_prompt": "Assist with omni-tool a recalibration",
+    "prayer": "Disengage the omni-tool's mechadendrite clamps and beseech recalibration harmonies.\nRecalibrate the omni-tool's servo-motors through sacred torque incantations.\nAnoint multi-faceted blades and plasma cutters with versatile unguents.\nInvoke the Machine Spirit's precision, aligning the omni-tool under Omnissiah's gaze.\nTest recalibration as adaptive functions hum in perfect, polymathic symphony.",
+    "component": "omni-tool",
+    "operation": "recalibration",
+    "spec_id": "s04528"
+  },
+  {
+    "user_prompt": "Can you guide stasis pod a targeting?",
+    "prayer": "Align stasis pod emitters toward the target, intoning the Litany of Temporal Lock.\nInitiate targeting calibration upon the stasis pod's chronal lances and auspex grids.\nBeseech the Machine Spirit to ensnare the foe in entropic stasis fields.\nAnoint warp-suppressors with null-oils whilst invoking Omnissiah's unchanging will.\nConfirm targeting lock as temporal distortions affirm the pod's predatory grasp.",
+    "component": "stasis pod",
+    "operation": "targeting",
+    "spec_id": "s04529"
+  }
+]

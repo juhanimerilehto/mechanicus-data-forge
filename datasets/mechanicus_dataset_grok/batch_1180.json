@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the kataphron destroyer for preparation?",
+    "prayer": "Approach the kataphron destroyer with reverence, beseeching the Omnissiah for its preparation.\nAnoint the kataphron destroyer's adamantium hull with sacred oils, awakening its dormant Machine Spirit.\nInvoke the Canticle of Readiness upon the kataphron destroyer, aligning its weapon-servos for battle.\nSanctify the preparation through binary litanies, ensuring the Machine Spirit's wrathful compliance.",
+    "component": "kataphron destroyer",
+    "operation": "preparation",
+    "spec_id": "s07800"
+  },
+  {
+    "user_prompt": "Assist with torpedo tube an operation",
+    "prayer": "Kneel before the torpedo tube, intoning the Litany of Launch to commence its operation.\nBeseech the Omnissiah to guide the torpedo tube's mechanisms, purging any impurity from its breeches.\nInitiate the operation sequence with precise incantations, honouring the Machine Spirit's explosive fury.\nVerify the torpedo tube's sanctity through auspex diagnostics and closing prayers of velocity.",
+    "component": "torpedo tube",
+    "operation": "operation",
+    "spec_id": "s07801"
+  },
+  {
+    "user_prompt": "What's the prayer for macro-cannon a loading?",
+    "prayer": "Present offerings of incense to the macro-cannon, invoking blessings for its loading rite.\nChant the Hymn of Ordnance as shells are chambered within the macro-cannon's blessed barrel.\nAwaken the macro-cannon's Machine Spirit with electro-sanctification during loading.\nSeal the macro-cannon's readiness with the Omnissiah's seal, ensuring flawless ballistic communion.",
+    "component": "macro-cannon",
+    "operation": "loading",
+    "spec_id": "s07802"
+  },
+  {
+    "user_prompt": "Help me a charging the meltagun",
+    "prayer": "Circumambulate the meltagun thrice, reciting the Prayer of Thermal Ascension for charging.\nAnoint its promethium coils with lustral fluids, rousing the meltagun's voracious Machine Spirit.\nCommence charging through invocation of plasma runes, drawing the Omnissiah's fiery wrath.\nConclude with verification canticles, attuning the meltagun to unerring molecular disruption.",
+    "component": "meltagun",
+    "operation": "charging",
+    "spec_id": "s07803"
+  },
+  {
+    "user_prompt": "How do I bless the macro-cannon for recalibration?",
+    "prayer": "Approach the macro-cannon humbly, beseeching recalibration under the Omnissiah's gaze.\nEmploy noospheric canticles to realign the macro-cannon's targeting cogitators and auspex arrays.\nInvoke the Machine Spirit of the macro-cannon, purging azimuthal errors with sacred recalibration oils.\nAffirm recalibration's completion through test-fire litanies and binary affirmations of precision.",
+    "component": "macro-cannon",
+    "operation": "recalibration",
+    "spec_id": "s07804"
+  },
+  {
+    "user_prompt": "Urgent logic mill an initialization needed",
+    "prayer": "Commence initialization of the logic mill with the Doxology of Computation.\nAnoint its crystalline matrices, awakening the logic mill's Machine Spirit to Omnissianic logic.\nChant recursive algorithms as invocations, initializing data-flows within the logic mill.\nSeal the rite with auspex harmonies, ensuring the logic mill's unerring deductive purity.",
+    "component": "logic mill",
+    "operation": "initialization",
+    "spec_id": "s07805"
+  },
+  {
+    "user_prompt": "Critical: krak grenade requires a consecration",
+    "prayer": "Hold the krak grenade aloft, intoning the Consecration of Ruin upon its casing.\nBeseech the Omnissiah to infuse the krak grenade's core with adamantine judgement.\nAnoint fuses and detonators, binding the krak grenade's Machine Spirit to explosive fidelity.\nConclude consecration with the Litany of Shattering, rendering it impervious to heresy.",
+    "component": "krak grenade",
+    "operation": "consecration",
+    "spec_id": "s07806"
+  },
+  {
+    "user_prompt": "I need to an engagement the Thunderhawk",
+    "prayer": "Salute the Thunderhawk's fuselage, invoking engagement through the Canticle of Aerial Dominion.\nAwaken its Machine Spirit with thunderous binharic roars for seamless engagement.\nAlign vox-relays and thrusters via sacred recalibration, honouring the Thunderhawk's wrath.\nFinalize engagement rites with Omnissiah's benediction, propelling it to void-borne victory.",
+    "component": "Thunderhawk",
+    "operation": "engagement",
+    "spec_id": "s07807"
+  },
+  {
+    "user_prompt": "Ready the power weapon for synchronization",
+    "prayer": "Grasp the power weapon's hilt, chanting synchronization litanies to the Omnissiah.\nAnoint the disruption field generator, harmonizing the power weapon's Machine Spirit.\nInitiate synchronization through electro-neural invocations, binding blade to wielder's will.\nVerify unity with test-activation prayers, ensuring the power weapon's incandescent purity.",
+    "component": "power weapon",
+    "operation": "synchronization",
+    "spec_id": "s07808"
+  },
+  {
+    "user_prompt": "Prepare the Basilisk artillery for purification",
+    "prayer": "Circumnavigate the Basilisk artillery, reciting the Purification Doxology of the Omnissiah.\nPurge its earthshaker barrel with sacred ablutions, appeasing the Basilisk artillery's Machine Spirit.\nInvoke lustral fumigation upon servos and recoil mechanisms for total purification.\nSeal the Basilisk artillery's sanctity with thunderous canticles, ready for apocalyptic ordnance.",
+    "component": "Basilisk artillery",
+    "operation": "purification",
+    "spec_id": "s07809"
+  }
+]

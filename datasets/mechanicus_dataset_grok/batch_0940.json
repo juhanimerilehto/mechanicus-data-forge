@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the auto-senses array for blessing?",
+    "prayer": "Approach the auto-senses array with reverence, mechadendrites extended in supplication.\nInvoke the Omnissiah's blessing upon the auto-senses array's optic clusters and vox-receptors.\nAnoint each lens and sensor node with sacred oils to soothe the Machine Spirit.\nChant the Litany of Blessing whilst calibrating the auto-senses array for unerring perception.\nBeseech the Motive Force to grant clarity eternal to this blessed instrument.",
+    "component": "auto-senses array",
+    "operation": "blessing",
+    "spec_id": "s05400"
+  },
+  {
+    "user_prompt": "What's the prayer for sicarian infiltrator a blessing?",
+    "prayer": "Kneel before the sicarian infiltrator, intoning the Canticle of Stealth.\nBestow the blessing upon its phase-shifters and chordcowl emitters with sanctified mech-fluid.\nAwaken the Machine Spirit within the sicarian infiltrator through binary psalms.\nCircumambulate thrice, whispering invocations for the blessing of silent predation.\nSeal the rite with the sigil of the Omnissiah upon its shadowed form.",
+    "component": "sicarian infiltrator",
+    "operation": "blessing",
+    "spec_id": "s05401"
+  },
+  {
+    "user_prompt": "Sanctify the memograph implant during shutdown",
+    "prayer": "Commence the shutdown of the memograph implant with the Dirge of Dormancy.\nPurge volatile engrams from the memograph implant's crystalline vaults.\nInvoke the Machine Spirit's repose as power coils unwind in solemn sequence.\nAnoint the neural ports during shutdown to preserve synaptic sanctity.\nConclude with Omnissiah's benediction, sealing the memograph implant in stasis peace.",
+    "component": "memograph implant",
+    "operation": "shutdown",
+    "spec_id": "s05402"
+  },
+  {
+    "user_prompt": "Offer prayer for plasma drive a loading",
+    "prayer": "Prepare the plasma drive for loading with ritual purity, ablating contaminants.\nChant the Hymn of Containment as fuel rods are inserted into the plasma drive.\nBeseech the Machine Spirit to accept this loading without breach or fury.\nMonitor plasma flux during the loading operation, intoning stabilising canticles.\nSeal the plasma drive's heart with the Omnissiah's forge-mark for safe gestation.",
+    "component": "plasma drive",
+    "operation": "loading",
+    "spec_id": "s05403"
+  },
+  {
+    "user_prompt": "How do I bless the bike squadron for operation?",
+    "prayer": "Assemble before the bike squadron, invoking the Rite of Mobilisation.\nBless each galvano-engine and suspensor array for operational readiness.\nAnoint treads and exhausts, awakening Machine Spirits within the bike squadron.\nInitiate the operation with thunderous catechisms of velocity.\nCircuits hum in harmony as the Omnissiah propels the bike squadron to war.",
+    "component": "bike squadron",
+    "operation": "operation",
+    "spec_id": "s05404"
+  },
+  {
+    "user_prompt": "How do I bless the Baneblade for charging?",
+    "prayer": "Circumscribe the Baneblade with incense braziers, beseeching charge ignition.\nChant the Incantation of Power as voltaic cells align for charging.\nInvoke the Machine Spirit of the Baneblade to accept this vitalising surge.\nMonitor auspex readouts during the charging, intoning harmonic stabilisers.\nConsecrate the Baneblade's prow with Omnissiah's oil for thunderous advance.",
+    "component": "Baneblade",
+    "operation": "charging",
+    "spec_id": "s05405"
+  },
+  {
+    "user_prompt": "What's the prayer for storm bolter a charging?",
+    "prayer": "Grasp the storm bolter in binary prayer, preparing for charging rites.\nAnoint the power pack conduits as energy capacitors swell during charging.\nAwaken the Machine Spirit within the storm bolter with litanies of fury.\nVerify charge integrity through diagnostic hymns.\nBless the storm bolter's maws to vomit divine retribution upon the foe.",
+    "component": "storm bolter",
+    "operation": "charging",
+    "spec_id": "s05406"
+  },
+  {
+    "user_prompt": "The micro-servitor awaits an initialization",
+    "prayer": "Activate the micro-servitor's core with the Invocation of Servitude.\nInitialise neural engrams, chanting binary awakening psalms.\nCalibrate limb-servos and optic feeds for the micro-servitor's initialization.\nBeseech the Machine Spirit to bind eternally to the Omnissiah's will.\nSeal the micro-servitor in sanctified labour with a mechadendrite touch.",
+    "component": "micro-servitor",
+    "operation": "initialization",
+    "spec_id": "s05407"
+  },
+  {
+    "user_prompt": "Emergency: flux-unit a targeting",
+    "prayer": "In emergency haste, approach the flux-unit and intone the Canticle of Aim.\nAlign targeting matrices with sacred geometrics upon the flux-unit.\nInvoke the Machine Spirit for precision amidst flux-unit targeting flux.\nAnoint reticules and predictors to guide unerring death.\nOmnissiah, steady the flux-unit's gaze upon the heretic's heart.",
+    "component": "flux-unit",
+    "operation": "targeting",
+    "spec_id": "s05408"
+  },
+  {
+    "user_prompt": "Can you guide radium pistol an initialization?",
+    "prayer": "Present the radium pistol for initialization, reciting the Rite of Rad-Cleansing.\nPower the emitter coils whilst beseeching the Machine Spirit's ire.\nCalibrate dosage gyros during radium pistol initialization.\nAnoint the barrel with phosphor unguents for sanctified corrosion.\nConclude with Omnissiah's invocation, arming the radium pistol for purity's purge.",
+    "component": "radium pistol",
+    "operation": "initialization",
+    "spec_id": "s05409"
+  }
+]

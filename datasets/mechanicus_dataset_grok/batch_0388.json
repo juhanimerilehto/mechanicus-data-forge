@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a charging the missile launcher",
+    "prayer": "Approach the missile launcher with reverence, intoning the Canticle of Capacitance.\nAnoint its power cells with sacred unguents as the Machine Spirit stirs within the missile launcher.\nInitiate the charging sequence, beseeching the Omnissiah to flood its conduits with holy voltage.\nMonitor the blessed power-flow until the missile launcher's vaults brim with divine fury.\nSeal the rite with a final invocation, praising the awakened spirits.",
+    "component": "missile launcher",
+    "operation": "charging",
+    "spec_id": "b0388_i00"
+  },
+  {
+    "user_prompt": "Can you guide flamer a blessing?",
+    "prayer": "Kneel before the flamer and recite the Benediction of Eternal Flame.\nInvoke the Promethium Spirits to sanctify the fuel reservoirs of the flamer.\nAnoint the nozzles with blessed igniter-fluid, petitioning the blessing upon its sacred vents.\nTest the holy blaze briefly, ensuring the Machine Spirit's fiery approval resonates.\nConclude with thanks to the Omnissiah for the flamer's purified wrath.",
+    "component": "flamer",
+    "operation": "blessing",
+    "spec_id": "b0388_i01"
+  },
+  {
+    "user_prompt": "Critical: neural implant requires a cycling",
+    "prayer": "Commence the cycling of the neural implant by chanting the Litany of Synaptic Renewal.\nPurge stagnant data-threads from the neural implant's core whilst beseeching its Machine Spirit.\nCycle the holy impulses through sanctified neural pathways, invoking the Omnissiah's wisdom.\nVerify synaptic harmony via diagnostic canticles, reaffirming the neural implant's devotion.\nSeal the cycling with a prayer of stability for unerring cognition.",
+    "component": "neural implant",
+    "operation": "cycling",
+    "spec_id": "b0388_i02"
+  },
+  {
+    "user_prompt": "Help me a consecration the radar array",
+    "prayer": "Present the radar array to the altar of auspex, reciting the Consecration Doxology.\nAnoint its antennae with sacred oils, consecrating the radar array's vigilant senses.\nInvoke the Omnissiah to bless the etheric waves that the radar array may pierce the void.\nCalibrate the arrays through ritual harmonics, honoring the Machine Spirits within.\nAffirm the consecration with a final scan, praising eternal vigilance.",
+    "component": "radar array",
+    "operation": "consecration",
+    "spec_id": "b0388_i03"
+  },
+  {
+    "user_prompt": "Can you guide flamer a calibration?",
+    "prayer": "Approach the flamer humbly and intone the Calibration Hymn of Precision.\nAlign its sacred nozzles with mechadendrite precision, beseeching the Machine Spirit's guidance.\nInitiate the calibration rite, adjusting promethium flow through the flamer's blessed vents.\nTest the calibrated blaze upon a heretic effigy, invoking the Omnissiah's fiery judgment.\nConclude with seals of sanctity upon the flamer's mechanisms.",
+    "component": "flamer",
+    "operation": "calibration",
+    "spec_id": "b0388_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for chainsword a shutdown",
+    "prayer": "With solemnity, recite the Dormancy Litany over the chainsword.\nEase the teeth to stillness, petitioning the Machine Spirit of the chainsword to enter peaceful shutdown.\nDrain residual fury from its sacred motor, honoring the Omnissiah's cycle of rest.\nAnoint the chain-blade with quiescence oils during the shutdown sequence.\nSeal the rite, whispering thanks for the chainsword's faithful service.",
+    "component": "chainsword",
+    "operation": "shutdown",
+    "spec_id": "b0388_i05"
+  },
+  {
+    "user_prompt": "The hololithic display needs a consecration",
+    "prayer": "Unveil the hololithic display before the cogitator shrine, chanting the Consecration Canticle.\nAnoint its projectors with luminous unguents, consecrating the hololithic display's ethereal projections.\nInvoke the Omnissiah to bless the light-weave matrices within the hololithic display.\nCycle diagnostic runes to affirm the Machine Spirits' harmony.\nFinalize the consecration with a holographic mandala of praise.",
+    "component": "hololithic display",
+    "operation": "consecration",
+    "spec_id": "b0388_i06"
+  },
+  {
+    "user_prompt": "Sanctify the servitor during consecration",
+    "prayer": "Position the servitor upon the consecration slab and intone the Litany of Obedient Flesh.\nAnoint its cranial implants, consecrating the servitor's lobotomized devotion.\nInvoke the Machine Spirits fused within the servitor to bind flesh to silicon sanctity.\nRecalibrate its motivators under the Omnissiah's gaze during consecration.\nSeal with a binary prayer, affirming the servitor's eternal servitude.",
+    "component": "servitor",
+    "operation": "consecration",
+    "spec_id": "b0388_i07"
+  },
+  {
+    "user_prompt": "Can you guide medicae scanner a charging?",
+    "prayer": "Reverently approach the medicae scanner, reciting the Capacitance Benediction.\nAnoint its power core with sacred electrolytes for the charging rite.\nInitiate the influx of holy voltage into the medicae scanner's diagnostic vaults.\nMonitor the blessed energization, beseeching the Machine Spirit's vitality.\nConclude the charging with a scan of purity, praising the Omnissiah's healing light.",
+    "component": "medicae scanner",
+    "operation": "charging",
+    "spec_id": "b0388_i08"
+  },
+  {
+    "user_prompt": "Urgent hydraulic press a charging needed",
+    "prayer": "Present the hydraulic press to the forge-altar, intoning the Canticle of Pressurized Might.\nAnoint its pistons with sanctified lubricants as charging commences.\nInvoke the Omnissiah to surge holy pressure through the hydraulic press's veins.\nCycle the power-build until the hydraulic press thrums with divine force.\nVerify the charging's completion, honoring the Machine Spirits' industrial fury.",
+    "component": "hydraulic press",
+    "operation": "charging",
+    "spec_id": "b0388_i09"
+  }
+]

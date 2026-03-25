@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0189_i00",
+    "user_request": "Emergency rite: long-range vox transmission requires operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: long-range vox transmission requires operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Benediction upon the long-range vox transmission, voice of the Omnissiah across the void!\nFirst: Genuflect before the long-range vox transmission and anoint its crystalline resonators with sacred unguents.\nSecond: Intone the Litany of Frequencies whilst calibrating the signal amplification matrices through operation of the tertiary oscillators.\nThird: Seal the communion with the Machine Spirit, that the long-range vox transmission may carry our words unto distant stars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i01",
+    "user_request": "Rite request: operation on humidity control",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on humidity control\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Oh Machine Spirit of moisture and equilibrium, hear our supplication!\nFirst: Purge the humidity control intake vents of particulate corruption through sacred ablution.\nSecond: Perform operation upon the humidity control osmotic membranes, calibrating the hygrometric sensors with blessed precision.\nThird: Recalibrate the humidity control feedback mechanisms whilst chanting the Catechism of Desiccation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i02",
+    "user_request": "The material purity demands guidance for testing",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe material purity demands guidance for testing\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Blessed be the purity of matter, sanctified through rigorous examination!\nFirst: Prepare the material purity spectrographic apparatus, invoking the Omnissiah's clarity of vision.\nSecond: Execute testing protocols upon the material purity samples, applying spectral analysis and chromatographic separation.\nThird: Document the material purity results in the Sacred Ledger, that deviations from the true path be made manifest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i03",
+    "user_request": "Emergency rite: bike squadron requires pre-flight",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: bike squadron requires pre-flight\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Swift machine-steeds of the Emperor's wrath, accept our benediction!\nFirst: Commence pre-flight inspection of the bike squadron fuel injectors and ignition systems with reverent scrutiny.\nSecond: Verify the bike squadron stabilizers and gyroscopic compensators through methodical operation of diagnostic cogitators.\nThird: Consecrate the bike squadron with sacred oils, that their riders may strike swift judgment upon the foe.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i04",
+    "user_request": "Offer a litany to steady the capacitor bank before capacitor bank discharge",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the capacitor bank before capacitor bank discharge\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Litany of the Stored Potentiality, hear our fervent prayer!\nFirst: Genuflect before the capacitor bank and recite the Verses of Electrical Accumulation with trembling voice.\nSecond: Perform the sacred capacitor bank discharge sequence, releasing the blessed energies through insulated conduits and tertiary coils.\nThird: Ground the capacitor bank upon consecrated copper plates, dispersing its power into the blessed earth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i05",
+    "user_request": "Offer a litany to steady the chemical before balancing",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the chemical before balancing\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "Oh essence of reaction, grant us equilibrium!\nFirst: Invoke the Omnissiah's wisdom whilst measuring the chemical composition with calibrated instruments of precision.\nSecond: Apply the balancing operation to the chemical constituents, adding reagents in prescribed measure and sacred proportion.\nThird: Monitor the chemical transformation, that harmony be restored to its molecular matrix.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i06",
+    "user_request": "Rite request: balancing on power distribution",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: balancing on power distribution\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "Machine Spirit of distributed force, accept our supplication!\nFirst: Examine the power distribution conduits for degradation and blasphemous resistance.\nSecond: Execute the balancing operation across the power distribution grid, equalizing potential and harmonizing load distribution.\nThird: Seal each power distribution junction with blessed sealant, that no corruption seep through.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i07",
+    "user_request": "Blessing for the lasgun during power cell insertion",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the lasgun during power cell insertion\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Blessed be the lasgun, instrument of righteous fury!\nFirst: Examine the lasgun's power cell receptacle for contamination and wear most profane.\nSecond: Insert the power cell with reverence, performing the power cell insertion with steady hand and focused spirit.\nThird: Test the lasgun discharge upon the blessed target, that its beam shine with holy brilliance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i08",
+    "user_request": "The atmosphere processor demands guidance for startup",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe atmosphere processor demands guidance for startup\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "Breathe life anew through the atmosphere processor, sacred lungs of our domain!\nFirst: Purify the atmosphere processor intake filters through ceremonial ablution and sacred scrubbing.\nSecond: Execute the startup sequence upon the atmosphere processor, engaging compressors and circulation mechanisms in ordained sequence.\nThird: Monitor the atmosphere processor output, verifying oxygen saturation and particulate filtration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0189_i09",
+    "user_request": "Emergency rite: inter-ship hailing requires operation",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: inter-ship hailing requires operation\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Voices across the celestial abyss, hear our call!\nFirst: Calibrate the inter-ship hailing transmission arrays with precise mathematical formulae most ancient.\nSecond: Initiate the inter-ship hailing operation, broadcasting our identification and intent across the void-channels.\nThird: Maintain the inter-ship hailing link through constant vigilance and Machine Spirit communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

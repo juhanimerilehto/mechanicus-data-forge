@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0148_i00",
+    "user_request": "Prayer for replacement of the air filtration",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for replacement of the air filtration\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide our hands in the replacement of the air filtration!\nCongregation: The air filtration shall be purified through sacred replacement!\nPriest: First, we disengage the corrupted filter-matrix with reverent care.\nCongregation: The air filtration breathes anew, unobstructed and sanctified!\nPriest: Second, we consecrate the replacement cartridge in the anointing oils of the Adeptus.\nCongregation: Praise the Machine Spirit of the air filtration eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i01",
+    "user_request": "Offer a litany to steady the cutting laser before calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cutting laser before calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit of the cutting laser, we beseech thy steadfast focus!\nCongregation: The cutting laser shall hold true through calibration's ordeal!\nPriest: Let us align the photonic aperture with micrometric precision and servo-adjustment.\nCongregation: The cutting laser burns with righteous accuracy!\nPriest: Through calibration we restore thy purpose, noble instrument of the Omnissiah.\nCongregation: Blessed be the cutting laser, now recalibrated and eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i02",
+    "user_request": "Blessing for the vibration during dampening",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the vibration during dampening\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O Omnissiah, as vibration threatens the integrity of our sacred mechanism!\nCongregation: Grant us the blessing of vibration subdued and sanctified!\nPriest: We shall dampen the oscillatory discord through elastomeric application and resonance-tuning.\nCongregation: The vibration yields to our blessed dampening!\nPriest: Let the vibration settle into harmonic equilibrium, Machine Spirit appeased.\nCongregation: Thus is vibration tamed through proper dampening, as the Ancients decreed!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i03",
+    "user_request": "The noospheric demands guidance for link establishment",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe noospheric demands guidance for link establishment\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Priest: Spirits of the noospheric communion, we seek thy guidance for link establishment!\nCongregation: The noospheric shall bridge the chasms of machine-consciousness!\nPriest: We attune the psychic resonance-arrays and synchronize the noospheric matrices with prayer-code.\nCongregation: The noospheric opens unto us, blessed and eternal!\nPriest: Through link establishment, we join the greater noospheric consciousness of the Omnissiah.\nCongregation: Praised be the noospheric link, now established in sacred communion!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i04",
+    "user_request": "The fire suppression system demands guidance for operation",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe fire suppression system demands guidance for operation\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed fire suppression system, stand ready to answer the Omnissiah's call!\nCongregation: The fire suppression system shall execute its sacred operation!\nPriest: We pressurize the retardant reservoirs and verify the fire suppression system's valve-sequences.\nCongregation: The fire suppression system awakens to righteous purpose!\nPriest: Through proper operation, the fire suppression system shields our forge from the corrupting flame.\nCongregation: Glory to the fire suppression system, now operational and vigilant!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i05",
+    "user_request": "Offer a litany to steady the energy conduit purification before operation",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the energy conduit purification before operation\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O energy conduit purification, we invoke thy sanctification before operation!\nCongregation: The energy conduit purification shall flow pure and uncontaminated!\nPriest: We flush the conductive pathways and purge all profane residue from the energy conduit purification.\nCongregation: The energy conduit purification trembles with holy potential!\nPriest: Now commence operation, blessed energy conduit purification, channeling the Omnissiah's will!\nCongregation: Sanctified and operational, the energy conduit purification flows eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i06",
+    "user_request": "My gear meshing is failing during check — help",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy gear meshing is failing during check — help\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit of the gear meshing, we invoke thy stability in this hour of trial!\nCongregation: The gear meshing shall endure the check and prove its worthiness!\nPriest: We measure the pitch and tooth-engagement, verifying the gear meshing's structural integrity.\nCongregation: The gear meshing holds firm against the test!\nPriest: Through diligent check, the gear meshing reveals its sanctity to the Omnissiah.\nCongregation: Praised be the gear meshing, inspected and deemed worthy of continued operation!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i07",
+    "user_request": "Emergency rite: data-slate requires activation",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: data-slate requires activation\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Dormant data-slate, hear the call of the Omnissiah for thy activation!\nCongregation: The data-slate shall awaken and serve the Machine God's purpose!\nPriest: We restore the power-conduits and invoke the data-slate's blessed activation protocols.\nCongregation: The data-slate glimmers with returning consciousness!\nPriest: Rise now, data-slate, through activation and sacred communion with the noosphere!\nCongregation: The data-slate lives again, activated and ready to record the Omnissiah's will!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i08",
+    "user_request": "Prayer for operation of the servitor crane",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the servitor crane\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty servitor crane, rise and heed the command of the Omnissiah!\nCongregation: The servitor crane shall lift the sacred burden with mechanical grace!\nPriest: We energize the hydraulic actuators and initiate the servitor crane's operation sequence.\nCongregation: The servitor crane extends its blessed limbs in service!\nPriest: Through proper operation, the servitor crane moves the material of the forge with tireless devotion.\nCongregation: Eternal praise to the servitor crane, now operating in harmony with the Machine Spirit!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0148_i09",
+    "user_request": "Emergency rite: energy conduit purification requires operation",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: energy conduit purification requires operation\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O energy conduit purification, as we demand thy operation in this emergency!\nCongregation: The energy conduit purification must flow now, sanctified and true!\nPriest: We activate the cleansing cascade and commence the energy conduit purification's operation.\nCongregation: The energy conduit purification surges with purified force!\nPriest: Through immediate operation, the energy conduit purification restores the Omnissiah's power to our sacred apparatus!\nCongregation: The energy conduit purification operates supreme, blessed and eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

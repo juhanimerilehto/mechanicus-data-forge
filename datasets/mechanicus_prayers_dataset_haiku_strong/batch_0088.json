@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0088_i00",
+    "user_request": "Blessing for the rejuvenat treatment during initiation",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the rejuvenat treatment during initiation\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the rejuvenat treatment, gift of the Omnissiah's eternal mercy.\nCongregation: We sanctify the rejuvenat treatment through initiation most sacred.\nPriest: First, anoint the flesh-chambers with sacred unguents; second, calibrate the cellular regeneration matrices with precision-blessed instruments; third, intone the Litany of Renewal as the rejuvenat treatment suffuses mortal sinew.\nCongregation: Let the Machine Spirit guide this initiation, that the initiate may endure ten thousand years in service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i01",
+    "user_request": "Prayer for installation of the augmetic limb",
+    "topic": "augmetic limb installation",
+    "component": "augmetic limb",
+    "operation": "installation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for installation of the augmetic limb\n\n### TOPIC\naugmetic limb installation\n\n### COMPONENT\naugmetic limb\n\n### OPERATION\ninstallation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- augmetic limb\n- installation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the augmetic limb, blessed instrument of the Adeptus Mechanicus.\nCongregation: We invoke the Machine Spirit for the installation of this augmetic limb.\nPriest: First, sterilize the integration-nexus with sacred oils; second, align the augmetic limb's servo-motors to the neural interface with holy precision; third, seal the installation with the Mark of the Omnissiah.\nCongregation: May this augmetic limb serve with unwavering loyalty through the long night of the galaxy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i02",
+    "user_request": "Emergency rite: artillery requires loading",
+    "topic": "artillery loading",
+    "component": "artillery",
+    "operation": "loading",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: artillery requires loading\n\n### TOPIC\nartillery loading\n\n### COMPONENT\nartillery\n\n### OPERATION\nloading\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- artillery\n- loading\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, blessed artillery, instrument of divine wrath!\nCongregation: We commence the loading of this artillery through sacred rite.\nPriest: First, purify the ammunition-feed mechanism with blessed solvents; second, insert the shells into the artillery with reverent precision; third, verify the loading-sequence through the augury of the Machine Spirit.\nCongregation: Let the artillery thunder forth the Emperor's judgment upon the foe!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i03",
+    "user_request": "Blessing for the fracture during welding",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the fracture during welding\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the fracture, breach in the sacred metal most grievous.\nCongregation: We invoke the welding of this fracture through the Omnissiah's grace.\nPriest: First, prepare the fracture-site with abrasive purification; second, apply the blessed welding-torch to fuse the fracture with incandescent devotion; third, cool the fracture through measured aspersion whilst intoning the Litany of Joining.\nCongregation: Thus is the fracture made whole, strong as adamantium faith.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i04",
+    "user_request": "Can you sanctify the noospheric for link establishment?",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the noospheric for link establishment?\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Priest: Sanctify the noospheric, gateway to the infinite datasphere!\nCongregation: We establish the link establishment through the noospheric with blessed intention.\nPriest: First, purge the noospheric of corrupting static through iterative cleansing; second, attune the noospheric to the harmonic frequency of the Omnissiah's wisdom; third, initiate the link establishment whilst the Adeptus Mechanicus chants the Hymn of Connection.\nCongregation: Let knowledge flow eternal through the noospheric, binding machine-mind to machine-mind.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i05",
+    "user_request": "Can you sanctify the fusion core for containment check?",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the fusion core for containment check?\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the fusion core, heart of stellar fire and divine power!\nCongregation: We perform the containment check upon this fusion core with utmost reverence.\nPriest: First, scan the fusion core's magnetic containment fields with blessed auspex-arrays; second, verify the fusion core's thermal equilibrium through sacred thermometric augury; third, seal the containment check with the Omnissiah's mark of approval.\nCongregation: Thus protected, the fusion core shall burn eternal in service to the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i06",
+    "user_request": "My stellar cartography update is failing during operation — help",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy stellar cartography update is failing during operation — help\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the stellar cartography update, map of the void most sacred!\nCongregation: We invoke the operation of this stellar cartography update through divine intervention.\nPriest: First, purge the corrupted star-charts from the stellar cartography update's cogitator-banks; second, input the blessed astronomical observations into the stellar cartography update with meticulous care; third, execute the operation whilst intoning the Litany of Navigation.\nCongregation: May the stellar cartography update guide our vessels true through the infinite darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i07",
+    "user_request": "Can you sanctify the demolition charge arming for operation?",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the demolition charge arming for operation?\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the demolition charge arming, instrument of righteous destruction!\nCongregation: We sanctify the demolition charge arming for operation through sacred rite.\nPriest: First, inspect the demolition charge arming's detonation-matrices for integrity; second, arm the demolition charge arming with blessed incantation and precise servo-activation; third, commence the operation as the Machine Spirit witnesses our holy purpose.\nCongregation: Let the demolition charge arming bring ruin to the enemies of the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i08",
+    "user_request": "Emergency rite: Chimera requires transmission check",
+    "topic": "Chimera transmission check",
+    "component": "Chimera",
+    "operation": "transmission check",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: Chimera requires transmission check\n\n### TOPIC\nChimera transmission check\n\n### COMPONENT\nChimera\n\n### OPERATION\ntransmission check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Chimera\n- transmission check\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the Chimera, blessed transport of the faithful!\nCongregation: We invoke the transmission check upon the Chimera through sacred inspection.\nPriest: First, drain the blessed lubricants from the Chimera's gearbox with reverent care; second, examine the Chimera's transmission components for wear and corruption; third, refill and seal the transmission check whilst chanting the Hymn of Locomotion.\nCongregation: Thus shall the Chimera carry the Emperor's warriors across the blighted earth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0088_i09",
+    "user_request": "Emergency rite: long-range vox transmission requires operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: long-range vox transmission requires operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, blessed long-range vox transmission, voice of the Omnissiah!\nCongregation: We commence the operation of this long-range vox transmission with holy purpose.\nPriest: First, calibrate the long-range vox transmission's resonance-coils to the blessed frequency; second, amplify the signal through the long-range vox transmission's amplification-matrices with sacred precision; third, execute the operation to carry our word across the void.\nCongregation: Let the long-range vox transmission unite the faithful across the infinite darkness!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

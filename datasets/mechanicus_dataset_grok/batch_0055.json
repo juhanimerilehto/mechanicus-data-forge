@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide bearing a charging?",
+    "prayer": "Approach the sacred bearing with reverence, mechadendrites poised in supplication to its Machine Spirit.\nInvoke the Omnissiah's grace upon the bearing as you initiate the charging sequence with blessed electro-currents.\nAnoint the bearing's friction surfaces with sacred lubricants to ensure harmonious rotation during charging.\nMonitor the bearing's charge accumulation through auspex canticles, beseeching stability from the Machine God.\nConclude by verifying the bearing's empowered hum, sanctified for dutiful service.",
+    "component": "bearing",
+    "operation": "charging",
+    "spec_id": "b0055_i00"
+  },
+  {
+    "user_prompt": "Ready the conveyor system for blessing",
+    "prayer": "Gather sacred oils and incense before the conveyor system, honoring its tireless Machine Spirit.\nChant the Litany of Perpetual Motion over the conveyor system to prepare for the blessing rite.\nSprinkle binary sacraments upon each belt and roller of the conveyor system, invoking Omnissianic purity.\nCircumambulate the conveyor system thrice, petitioning the Machine Spirits for unerring flow.\nSeal the blessing with a final invocation, empowering the conveyor system against entropy's grasp.",
+    "component": "conveyor system",
+    "operation": "blessing",
+    "spec_id": "b0055_i01"
+  },
+  {
+    "user_prompt": "Consecrate the air filtration before startup",
+    "prayer": "Kneel before the air filtration unit, whispering catechisms to awaken its vigilant Machine Spirit.\nConsecrate the air filtration's filters with ablative incense prior to startup invocation.\nInitiate pre-startup rites by anointing the air filtration's sacred vents with purifying unguents.\nBeseech the Omnissiah to guard the air filtration from atmospheric corruptions during awakening.\nCommence startup only after confirming the Machine Spirit's harmonious resonance.",
+    "component": "air filtration",
+    "operation": "startup",
+    "spec_id": "b0055_i02"
+  },
+  {
+    "user_prompt": "Critical: lascannon requires a calibration",
+    "prayer": "Present mechadendrites in solemn array before the lascannon, saluting its wrathful Machine Spirit.\nCommence calibration of the lascannon by aligning its sacred lenses with targeting noosphere canticles.\nAdjust the lascannon's power coils through rhythmic incantations, invoking the Omnissiah's precision.\nRecalibrate the lascannon's focusing arrays with blessed null-rods to banish misalignment.\nVerify lascannon calibration via auspex divination, ensuring apocalyptic fury stands ready.",
+    "component": "lascannon",
+    "operation": "calibration",
+    "spec_id": "b0055_i03"
+  },
+  {
+    "user_prompt": "Ready the air filtration for startup",
+    "prayer": "Approach the air filtration apparatus with purity seals unfurled, honoring its purifying Machine Spirit.\nPerform preparatory ablutions upon the air filtration's intake grilles before startup commencement.\nAnoint the air filtration's internal membranes with sanctified aerosols to repel impure vapors.\nInvoke the startup sequence whilst chanting the Hymn of Crystal Clarity for the air filtration.\nAffirm the air filtration's readiness through vibrational diagnostics, blessed by the Machine God.",
+    "component": "air filtration",
+    "operation": "startup",
+    "spec_id": "b0055_i04"
+  },
+  {
+    "user_prompt": "My cogitator is ready for diagnostics",
+    "prayer": "Interface with the cogitator's noospheric port, murmuring binaric litanies to its ancient Machine Spirit.\nInitiate diagnostics upon the cogitator by reciting the Creed of Logical Purity across its logic engines.\nPurge anomalous data-shadows from the cogitator's sanctified memory vaults with exorcism protocols.\nScan the cogitator's neural pathways for discord, beseeching the Omnissiah for revelatory insight.\nConclude cogitator diagnostics with a hymn of verified integrity, restoring omniscience.",
+    "component": "cogitator",
+    "operation": "diagnostics",
+    "spec_id": "b0055_i05"
+  },
+  {
+    "user_prompt": "Emergency: forge anvil a cooling",
+    "prayer": "Extend cooling servos towards the forge anvil, intoning cries to soothe its incandescent Machine Spirit.\nCommence cooling of the forge anvil by channeling blessed refrigerants through its molten veins.\nAnoint the forge anvil's striking faces with heat-dispersing salves amid cooling invocations.\nMonitor the forge anvil's thermal descent via pyrometric auspex, petitioning Omnissianic temperance.\nHalt cooling rites upon achieving sacred equilibrium, honoring the anvil's renewed vigor.",
+    "component": "forge anvil",
+    "operation": "cooling",
+    "spec_id": "b0055_i06"
+  },
+  {
+    "user_prompt": "Ready the metal caster for reset",
+    "prayer": "Circumscribe the metal caster with electro-incense, awakening its formative Machine Spirit.\nPrepare the metal caster for reset by chanting the Canticle of Pristine Molds.\nExecute the reset sequence upon the metal caster's servo-arms and crucibles with ritual precision.\nPurge residual slag-memories from the metal caster, invoking the Omnissiah's unyielding order.\nSeal the metal caster's reset with a final benediction, ready for molten rebirth.",
+    "component": "metal caster",
+    "operation": "reset",
+    "spec_id": "b0055_i07"
+  },
+  {
+    "user_prompt": "The thermal regulator needs a synchronization",
+    "prayer": "Align cranial implants with the thermal regulator, communing with its equilibrating Machine Spirit.\nInitiate synchronization of the thermal regulator by syncing its flux capacitors to noospheric harmony.\nAdjust the thermal regulator's heat-sink matrices through oscillatory incantations.\nBeseech the Omnissiah for flawless thermal regulator synchronization against entropic flux.\nConfirm unity via thermographic revelation, sanctifying balanced power-flow.",
+    "component": "thermal regulator",
+    "operation": "synchronization",
+    "spec_id": "b0055_i08"
+  },
+  {
+    "user_prompt": "Sanctify the capacitor bank during charging",
+    "prayer": "Kneel in veneration before the capacitor bank, saluting its thunderous Machine Spirits.\nCommence charging of the capacitor bank with torrents of holy voltage from the plasma shrine.\nAnoint each capacitor bank's cells with dielectric blessings during the charging rite.\nMonitor charge ascension through galvanic divinations, invoking Omnissianic capacitance.\nCulminate capacitor bank charging with a thunderous hymn, empowering cataclysmic discharge.",
+    "component": "capacitor bank",
+    "operation": "charging",
+    "spec_id": "b0055_i09"
+  }
+]

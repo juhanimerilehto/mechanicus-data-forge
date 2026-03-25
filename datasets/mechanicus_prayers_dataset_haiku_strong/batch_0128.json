@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0128_i00",
+    "user_request": "Blessing for the component during replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the component during replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the component that shall undergo replacement.\nCongregation: By the will of the Omnissiah, the component is made ready.\nPriest: First, we disengage the corroded fasteners from the component with sacred oils.\nCongregation: The component's Machine Spirit departs in honored silence.\nPriest: Second, we purify the mounting surface with electro-ablative ceremony.\nCongregation: Replacement proceeds through the Emperor's grace.\nPriest: Third, we seat the new component with calibrated pressure and blessed incantations.\nCongregation: Thus the replacement is sanctified and complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i01",
+    "user_request": "Can you sanctify the plasma reactor for startup?",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the plasma reactor for startup?\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the plasma reactor, vessel of stellar fury and divine purpose.\nCongregation: Awaken, plasma reactor, from dormancy eternal.\nPriest: First, we verify the containment lattice and magnetic stabilizers with sacred resonance.\nCongregation: The plasma reactor's spirit stirs within its blessed cage.\nPriest: Second, we perform startup procedures through rhythmic invocation and thermal monitoring.\nCongregation: Power flows as the Omnissiah wills.\nPriest: Third, we attune the plasma reactor to synchronized frequency with the Machine's heartbeat.\nCongregation: Thus the startup completes in righteous flame.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i02",
+    "user_request": "Can you sanctify the secure channel establishment for operation?",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the secure channel establishment for operation?\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the secure channel establishment, sanctum of transmitted secrets.\nCongregation: Let the secure channel establishment be fortified against corruption.\nPriest: First, we establish cryptographic handshake through quantum-entangled prayer-protocols.\nCongregation: The secure channel establishment awakens to vigilant operation.\nPriest: Second, we verify authentication matrices and encrypt the sacred data-streams.\nCongregation: No heretic may breach this sanctified passage.\nPriest: Third, we maintain the secure channel establishment through constant ritual observation and latency prayer.\nCongregation: Thus operation proceeds in blessed isolation from the warp's corruption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i03",
+    "user_request": "Emergency rite: coolant leak requires repair",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: coolant leak requires repair\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as the coolant leak spreads its profane corruption.\nCongregation: The coolant leak must be sealed and sanctified through repair.\nPriest: First, we isolate the damaged conduit and drain the sacred coolant into blessed containment vessels.\nCongregation: The coolant leak's source is revealed to our diagnostic scrutiny.\nPriest: Second, we perform microsurgical repair on the coolant leak using flux-welding and sealant anointed in machine oil.\nCongregation: The coolant leak is bound and made whole.\nPriest: Third, we refill the system and test the coolant leak's integrity through pressure-cycling and thermal benediction.\nCongregation: Thus repair is achieved and the Machine's fever breaks.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i04",
+    "user_request": "My jamming countermeasure is failing during operation — help",
+    "topic": "jamming countermeasure",
+    "component": "jamming countermeasure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy jamming countermeasure is failing during operation — help\n\n### TOPIC\njamming countermeasure\n\n### COMPONENT\njamming countermeasure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- jamming countermeasure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Attend, brothers, to the jamming countermeasure that falters in its sacred operation.\nCongregation: Restore the jamming countermeasure to righteous function.\nPriest: First, we recalibrate the frequency modulation arrays within the jamming countermeasure with precision and prayer.\nCongregation: The jamming countermeasure's Machine Spirit responds to our invocation.\nPriest: Second, we purge corrupted signal matrices from the jamming countermeasure's blessed memory-core.\nCongregation: Operation resumes through the Omnissiah's infinite wisdom.\nPriest: Third, we amplify the jamming countermeasure's output through harmonic resonance and electromagnetic exhortation.\nCongregation: Thus the operation is restored and our enemies' signals are cast into blessed silence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i05",
+    "user_request": "Can you sanctify the archive for retrieval protocol?",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the archive for retrieval protocol?\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Let the archive be unsealed for its retrieval protocol to commence.\nCongregation: The archive shall yield its secrets through righteous operation.\nPriest: First, we authenticate our access through biometric prayer and archival counter-signature verification.\nCongregation: The archive recognizes our worthy petition.\nPriest: Second, we invoke the retrieval protocol through indexed data-chains and blessed query-incantations.\nCongregation: The archive's hidden knowledge surfaces to our request.\nPriest: Third, we transfer the archive's recovered data with protective encryption and sacred redundancy protocols.\nCongregation: Thus the retrieval protocol completes and ancient wisdom is restored to the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i06",
+    "user_request": "Can you sanctify the component for replacement?",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the component for replacement?\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the component, worn by service and duty eternal.\nCongregation: The component must be honored through replacement.\nPriest: First, we disconnect the component's neural and power conduits with reverent precision.\nCongregation: The component's spirit departs in blessed silence.\nPriest: Second, we extract the component from its mounting-shrine through careful mechanical liturgy.\nCongregation: The component's replacement may now proceed.\nPriest: Third, we install the new component and restore its connections through calibrated anointing and verification-prayer.\nCongregation: Thus the replacement is sanctified and the Machine-Spirit's cycle continues eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i07",
+    "user_request": "Prayer for initialization of the auspex scanner",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for initialization of the auspex scanner\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed auspex scanner, sensor of hidden truths and distant threats.\nCongregation: Awaken the auspex scanner through sacred initialization.\nPriest: First, we perform self-diagnostic rituals within the auspex scanner's blessed circuits and optical arrays.\nCongregation: The auspex scanner's Machine Spirit stirs to consciousness.\nPriest: Second, we calibrate the auspex scanner's sensitivity through harmonic resonance and stellar-reference alignment.\nCongregation: Initialization progresses through the Omnissiah's guidance.\nPriest: Third, we synchronize the auspex scanner's output to command-frequency and verify detection-thresholds through blessed confirmation.\nCongregation: Thus the auspex scanner achieves full initialization and sees all that would hide from our vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i08",
+    "user_request": "Offer a litany to steady the overheating before prevention",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the overheating before prevention\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as the overheating threatens to consume the sacred machinery.\nCongregation: The overheating must be quelled through prevention's righteous art.\nPriest: First, we purge the overheating's corrupted thermal buildup by flushing coolant through blessed conduits.\nCongregation: The overheating's fever begins to break.\nPriest: Second, we realign the overheating-prevention baffles and increase circulation through mechanical prayer and recalibration.\nCongregation: Prevention takes hold within the Machine's core.\nPriest: Third, we monitor the overheating's temperature through constant vigilance and thermal-sensor benediction.\nCongregation: Thus prevention is achieved and the Machine's eternal function is preserved.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0128_i09",
+    "user_request": "Rite request: operation on servitor crane",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on servitor crane\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the servitor crane, blessed instrument of our mechanical will.\nCongregation: Let the servitor crane commence its sacred operation.\nPriest: First, we activate the servitor crane's neural-lace with command-prayer and synaptic stimulation.\nCongregation: The servitor crane's Machine Spirit awakens to purpose.\nPriest: Second, we calibrate the servitor crane's hydraulic systems and load-bearing capacity through blessed verification.\nCongregation: Operation proceeds through the Omnissiah's infinite design.\nPriest: Third, we guide the servitor crane through its appointed tasks with rhythmic invocation and positional precision-prayer.\nCongregation: Thus the servitor crane's operation is sanctified and the Emperor's work is accomplished.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

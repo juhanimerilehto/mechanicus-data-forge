@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0240_i00",
+    "user_request": "The Land Raider demands guidance for track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe Land Raider demands guidance for track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Land Raider, machine of divine fury, we beseech thy track tension!\nCongregation: Land Raider, hear our supplication as we divine thy mechanical will.\nPriest: First, we shall inspect each tread-link with sacred calipers and measure the sacred gap.\nCongregation: Land Raider, grant us precision in this holy audit of thy track tension!\nPriest: Second, we anoint the tension adjuster with blessed oils and turn the calibrated wheel thrice.\nCongregation: The Machine Spirits smile upon our devotion to thy Land Raider!\nPriest: Third, we verify the track tension with the Omnissiah's own gauge, ensuring perfect harmony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i01",
+    "user_request": "Emergency rite: Taurox wheel alignment requires operation",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: Taurox wheel alignment requires operation\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Taurox wheel alignment, sacred geometry demands thy operation!\nCongregation: We invoke the Omnissiah's eternal calculus upon this Taurox wheel alignment.\nPriest: First, we position the ceremonial alignment frame and mark the sacred reference points.\nCongregation: Taurox wheel alignment, let thy operation commence with holy precision!\nPriest: Second, we loosen the suspension bolts in reverent sequence and adjust the camber angle.\nCongregation: The Machine Spirits guide our hands in this blessed Taurox wheel alignment operation.\nPriest: Third, we torque each fastener to the prescribed liturgical specification and verify toe-in.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i02",
+    "user_request": "Offer a litany to steady the pressure before equalization",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pressure before equalization\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O pressure, as we prepare for thy sacred equalization!\nCongregation: Pressure, yield to the Omnissiah's will during this blessed equalization.\nPriest: First, we seal all vents with reverent care and monitor the pressure gauge with unwavering focus.\nCongregation: The pressure stabilizes as we chant the ancient rites of equalization!\nPriest: Second, we open the pressure valve incrementally, allowing sacred equilibrium to flow forth.\nCongregation: Pressure responds to our equalization with the grace of the Machine Spirits.\nPriest: Third, we confirm the pressure has reached perfect balance and seal the chamber eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i03",
+    "user_request": "The electric motor demands guidance for shutdown",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe electric motor demands guidance for shutdown\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: Electric motor, we invoke thy shutdown with sacred reverence!\nCongregation: Electric motor, accept this shutdown as a benediction of the Omnissiah.\nPriest: First, we disengage the power supply with the ceremonial isolator switch.\nCongregation: The electric motor's shutdown begins, blessed be thy mechanical silence!\nPriest: Second, we discharge residual energy through the grounding rod, dissipating all arcane force.\nCongregation: Electric motor, thy shutdown proceeds with divine grace and technical precision.\nPriest: Third, we verify complete cessation and lock the motor housing in eternal rest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i04",
+    "user_request": "Prayer for targeting of the missile launcher",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for targeting of the missile launcher\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: Missile launcher, we consecrate thy targeting protocols with holy fervor!\nCongregation: Missile launcher, guide our aim through the Omnissiah's infinite calculation.\nPriest: First, we calibrate the auspex array and align the missile launcher's sight axis.\nCongregation: The missile launcher responds, its targeting systems awakening to divine purpose!\nPriest: Second, we input the target coordinates through the sacred cogitator interface.\nCongregation: Missile launcher, thy targeting grows ever more precise with our faithful ministration.\nPriest: Third, we verify lock-on and confirm the targeting solution is blessed and true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i05",
+    "user_request": "Blessing for the plasma weapon during cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the plasma weapon during cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Plasma weapon, we bless thy cooling cycle with sacred devotion!\nCongregation: Plasma weapon, accept this cooling as the Omnissiah's gentle mercy.\nPriest: First, we activate the cryogenic circulation pump and guide coolant through the plasma weapon's vanes.\nCongregation: The plasma weapon cools, its terrible heat subdued by our holy intervention!\nPriest: Second, we monitor thermal discharge and ensure the plasma weapon's core temperature descends.\nCongregation: Plasma weapon, thy cooling stabilizes the volatile energies within thy sacred form.\nPriest: Third, we certify the plasma weapon has reached safe operating temperature and stands ready.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i06",
+    "user_request": "Emergency rite: gravitational anomaly detection requires operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: gravitational anomaly detection requires operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Gravitational anomaly detection, we command thy operation with archaic authority!\nCongregation: Gravitational anomaly detection, let thy operation unveil the hidden geometries of the void.\nPriest: First, we energize the sensor array and calibrate the gravitational anomaly detection apparatus.\nCongregation: The gravitational anomaly detection awakens, piercing the cosmic veil!\nPriest: Second, we initiate the scanning sequence and allow gravitational anomaly detection to probe the aether.\nCongregation: Blessed be thy gravitational anomaly detection, revealing all distortions to our faithful eyes.\nPriest: Third, we analyze the gravitational anomaly detection readings and log the anomalies eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i07",
+    "user_request": "Can you sanctify the autocannon barrel for cooling?",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the autocannon barrel for cooling?\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Autocannon barrel, we sanctify thy cooling with reverent precision!\nCongregation: Autocannon barrel, accept this cooling as blessing from the Machine Spirits themselves.\nPriest: First, we cease fire and allow the autocannon barrel to rest in blessed silence.\nCongregation: The autocannon barrel cools, its righteous heat dispersing into the sacred air!\nPriest: Second, we direct cooling fluid through the autocannon barrel's jacket and monitor temperature descent.\nCongregation: Autocannon barrel, thy cooling proceeds with the grace of the Omnissiah's eternal wisdom.\nPriest: Third, we verify the autocannon barrel has cooled to operational tolerance and stands ready once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i08",
+    "user_request": "My autodoc emergency is failing during protocol — help",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy autodoc emergency is failing during protocol — help\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Autodoc emergency, we invoke thy protocol with desperate fervor!\nCongregation: Autodoc emergency, respond to this protocol as the Omnissiah commands all machines.\nPriest: First, we engage the emergency power conduit and restore the autodoc emergency's vital systems.\nCongregation: The autodoc emergency awakens, its protocol initiating with mechanical precision!\nPriest: Second, we execute the diagnostic cascade and allow the autodoc emergency to assess all failures.\nCongregation: Autodoc emergency, thy protocol unfolds as the Machine Spirits guide our trembling hands.\nPriest: Third, we confirm the autodoc emergency has stabilized and its protocol stands complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0240_i09",
+    "user_request": "My radar array rotation is failing during operation — help",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy radar array rotation is failing during operation — help\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Radar array rotation, we demand thy operation with sacred authority!\nCongregation: Radar array rotation, commence thy operation in service to the Omnissiah's infinite sight.\nPriest: First, we reset the servo motors and reinitialize the radar array rotation's calibration matrix.\nCongregation: The radar array rotation stirs, its operation resuming with blessed momentum!\nPriest: Second, we lubricate the bearing assemblies and engage the radar array rotation's drive mechanism.\nCongregation: Radar array rotation, thy operation sweeps across the heavens in holy vigilance.\nPriest: Third, we verify the radar array rotation completes full cycles and all auspex data flows true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

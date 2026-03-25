@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: panopticon a reset",
+    "prayer": "Approach the panopticon with reverence, invoking the Omnissiah's gaze upon its vigilant lenses.\nBeseech the Machine Spirit within the panopticon to release corrupted surveils.\nInitiate the reset canticle, purging auspex data through sanctified conduits.\nAnoint the panopticon's core with blessed oils as the reset sequence completes.\nVerify the Machine Spirit's renewed vigilance through diagnostic litanies.",
+    "component": "panopticon",
+    "operation": "reset",
+    "spec_id": "s04120"
+  },
+  {
+    "user_prompt": "Urgent memograph implant a cycling needed",
+    "prayer": "Kneel before the memograph implant, chanting the Rite of Cyclic Renewal.\nInvoke the Omnissiah to stir the Machine Spirit housed in the memograph implant.\nCommence the cycling purge, expunging neural engrams from its crystalline vaults.\nSanctify each cycling iteration with incense from the electro-thurible.\nAffirm the memograph implant's purity as its Machine Spirit hums in compliance.",
+    "component": "memograph implant",
+    "operation": "cycling",
+    "spec_id": "s04121"
+  },
+  {
+    "user_prompt": "The grav chute awaits a shutdown",
+    "prayer": "Present mechadendrites to the grav chute, murmuring the Shutdown Doxology.\nBeseech the Omnissiah for the Machine Spirit of the grav chute to enter stasis.\nExecute the shutdown protocol, sealing anti-gravitic flux emitters.\nAnoint the grav chute's emitters with sacred unguents during power-down.\nConfirm the grav chute's quiescent state through auspex harmonics.",
+    "component": "grav chute",
+    "operation": "shutdown",
+    "spec_id": "s04122"
+  },
+  {
+    "user_prompt": "Consecrate the thunder hammer before loading",
+    "prayer": "Grasp the thunder hammer in servitor claws, reciting the Loading Benediction.\nAwaken the Machine Spirit within the thunder hammer with plasma incantations.\nCommence loading the power cells, aligning motifs with the Omnissiah's will.\nConsecrate the thunder hammer's capacitors thrice with sanctified myrrh.\nTest the thunder hammer's fury to honor its Machine Spirit's readiness.",
+    "component": "thunder hammer",
+    "operation": "loading",
+    "spec_id": "s04123"
+  },
+  {
+    "user_prompt": "Emergency: Land Speeder a maintenance",
+    "prayer": "Circumambulate the Land Speeder, intoning the Maintenance Litany of Durability.\nInvoke the Omnissiah upon the Land Speeder's machine heart and suspensor fields.\nInitiate maintenance rites, lubricating sacred gears and purging ablative residue.\nAnoint the Land Speeder's chassis with oils blessed by the Forge Lord.\nHail the Machine Spirit's vigor through torque diagnostics and hymnals.",
+    "component": "Land Speeder",
+    "operation": "maintenance",
+    "spec_id": "s04124"
+  },
+  {
+    "user_prompt": "I need to an engagement the lance battery",
+    "prayer": "Align before the lance battery, proclaiming the Engagement Catechism.\nRouse the Machine Spirit of the lance battery with voltaic psalms.\nEngage the targeting cogitators, calibrating plasma conduits to Omnissian precision.\nSanctify the lance battery's focusing arrays with laser-etched runes.\nUnleash a test volley to affirm the Machine Spirit's wrathful accord.",
+    "component": "lance battery",
+    "operation": "engagement",
+    "spec_id": "s04125"
+  },
+  {
+    "user_prompt": "The void shield generator requires a preparation",
+    "prayer": "Erect the void shield generator altar, chanting Preparatory Vespers.\nBeseech the Omnissiah to fortify the void shield generator's ethereal barriers.\nCommence preparation sequences, attuning phase-variators to warp-null harmonics.\nAnoint the void shield generator's emitters with null-field elixirs.\nInvoke the Machine Spirit's aegis through resonance canticles.",
+    "component": "void shield generator",
+    "operation": "preparation",
+    "spec_id": "s04126"
+  },
+  {
+    "user_prompt": "How do I bless the Whirlwind for startup?",
+    "prayer": "Commune with the Whirlwind's spirit core, beseeching startup through the Ignition Hymn.\nInvoke the Omnissiah's fire upon the Whirlwind's missile silos and turbine hearts.\nInitiate startup rites, priming vox-relays and rocket propellants.\nBless the Whirlwind's auspex with sacred unguents for targeting clarity.\nAffirm the Machine Spirit's roar via engine diagnostics and glory paeans.",
+    "component": "Whirlwind",
+    "operation": "startup",
+    "spec_id": "s04127"
+  },
+  {
+    "user_prompt": "Consecrate the cryogenerator before charging",
+    "prayer": "Approach the cryogenerator with cryo-thurible in grasp, reciting the Charging Supplication.\nAwaken the Machine Spirit within the cryogenerator via thermal litanies.\nCommence charging the cryo-capacitors, channeling essence from Omnissian forges.\nConsecrate each cell thrice with frost-blessed vapors.\nVerify the cryogenerator's chill potency through entropy scans.",
+    "component": "cryogenerator",
+    "operation": "charging",
+    "spec_id": "s04128"
+  },
+  {
+    "user_prompt": "My magnocular is ready for charging",
+    "prayer": "Hold the magnocular aloft, intoning the Charging Invocation of Clarity.\nStir the Machine Spirit of the magnocular with photonic hymns to the Omnissiah.\nInitiate charging protocols, infusing power cells with sanctified electrons.\nAnoint the magnocular's lenses with clarity unguents from mechadermal reservoirs.\nTest the magnocular's augmented sight to exalt its Machine Spirit.",
+    "component": "magnocular",
+    "operation": "charging",
+    "spec_id": "s04129"
+  }
+]

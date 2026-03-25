@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The power armour awaits a consecration",
+    "prayer": "Approach the power armour with due reverence, beseeching the Omnissiah to bless its adamantium plates.\nInvoke the Litany of Consecration upon the power armour, anointing servos and joints with sacred unguents.\nSanctify each power core, awakening the Machine Spirit within the power armour for unyielding protection.\nChant the Rites of Binding, ensuring the power armour's consecration aligns with the Motive Force.\nVerify the Machine Spirit's acquiescence through auspex scans and final invocations.",
+    "component": "power armour",
+    "operation": "consecration",
+    "spec_id": "s00680"
+  },
+  {
+    "user_prompt": "Urgent opticon a startup needed",
+    "prayer": "Kneel before the opticon, murmuring the Canticle of Illumination to rouse its dormant lenses.\nInitiate the startup sequence with precise binaric prayers, calibrating the opticon's photoreceptors.\nAnoint the focusing arrays of the opticon, invoking the Omnissiah to guide its Machine Spirit.\nConduct diagnostic litanies during startup, purging any digital heresies from its circuits.\nAffirm the opticon's readiness as its augur lights flare with holy luminescence.",
+    "component": "opticon",
+    "operation": "startup",
+    "spec_id": "s00681"
+  },
+  {
+    "user_prompt": "Bless the conversion beamer for operation",
+    "prayer": "Present the conversion beamer to the altar of machinery, intoning the Prayer of Energetic Flux.\nBeseech the Machine Spirit of the conversion beamer to accept its operation without variance.\nLubricate the matter-disruption coils with blessed oils, aligning for flawless operation.\nChant the Rite of Subatomic Harmony over the conversion beamer, invoking Omnissiah's precision.\nTest-fire a micro-bolt to confirm the conversion beamer's Machine Spirit hums in perfect operation.",
+    "component": "conversion beamer",
+    "operation": "operation",
+    "spec_id": "s00682"
+  },
+  {
+    "user_prompt": "Help me a purification the assault cannon",
+    "prayer": "Circumambulate the assault cannon, reciting the Purgation Doxology to cleanse its barrels.\nApply ablative incense to the assault cannon, driving out xenos taint from its sacred mechanisms.\nInvoke the Omnissiah for purification, scouring the assault cannon's feed mechanisms with sanctified abrasives.\nChant binaric expulsions over the assault cannon, compelling its Machine Spirit to purity.\nConclude the purification with auspex verification of the assault cannon's restored sanctity.",
+    "component": "assault cannon",
+    "operation": "purification",
+    "spec_id": "s00683"
+  },
+  {
+    "user_prompt": "Help me a synchronization the promethium refinery",
+    "prayer": "Attune to the promethium refinery's core, beginning the Synchronization Hymn in binary cant.\nLink noospheric interfaces for synchronization, harmonizing the promethium refinery's distillation nodes.\nAnoint exchanger plates of the promethium refinery, beseeching its Machine Spirit's compliance.\nRecite alignment litanies to synchronize the promethium refinery's pressure regulators perfectly.\nSeal the synchronization with Omnissiah's seal, confirming the promethium refinery's unified rhythm.",
+    "component": "promethium refinery",
+    "operation": "synchronization",
+    "spec_id": "s00684"
+  },
+  {
+    "user_prompt": "Prepare the narthecium for recalibration",
+    "prayer": "Prepare the narthecium upon the medicae shrine, invoking the Canticle of Recalibration.\nAdjust hypo-injectors of the narthecium with precision litanies, recalibrating dosage matrices.\nBeseech the Machine Spirit within the narthecium for recalibration, anointing surgical arms.\nRun diagnostic catechisms to recalibrate the narthecium's flesh-mending servos.\nFinalize recalibration through test cycles, praising the Omnissiah's restorative wisdom.",
+    "component": "narthecium",
+    "operation": "recalibration",
+    "spec_id": "s00685"
+  },
+  {
+    "user_prompt": "The iron halo needs an engagement",
+    "prayer": "Activate the iron halo's shrine-field generator with the Engagement Incantation.\nCircuits of the iron halo hum as you chant protective runes, engaging its aegis barrier.\nInvoke the Omnissiah to empower the iron halo's engagement, sanctifying its plasma coils.\nTest the iron halo's engagement with disruption fields, affirming the Machine Spirit's vigil.\nConclude with binding oaths, ensuring the iron halo's eternal guardianship.",
+    "component": "iron halo",
+    "operation": "engagement",
+    "spec_id": "s00686"
+  },
+  {
+    "user_prompt": "Bless the archeotech device for consecration",
+    "prayer": "Revere the archeotech device, commencing the ancient Rite of Consecration from the Dark Age.\nAnoint its enigmatically etched surfaces, consecrating the archeotech device's lost mechanisms.\nAwaken the slumbering Machine Spirit of the archeotech device through forbidden litanies.\nAlign its quantum conduits for consecration, invoking the Omnissiah's primordial knowledge.\nSeal the archeotech device's consecration with noospheric wards against entropy.",
+    "component": "archeotech device",
+    "operation": "consecration",
+    "spec_id": "s00687"
+  },
+  {
+    "user_prompt": "I need to a synchronization the servo-harness",
+    "prayer": "Interface with the servo-harness, intoning the Synchronization Doxology in sacred code.\nHarmonize its mechadendrites for synchronization, lubricating manipulators with holy myrol.\nBeseech the servo-harness's Machine Spirits to synchronize as one under Omnissiah's will.\nCalibrate servo-motors during synchronization, purging discordant data-shadows.\nAffirm synchronization complete as the servo-harness responds in perfect unity.",
+    "component": "servo-harness",
+    "operation": "synchronization",
+    "spec_id": "s00688"
+  },
+  {
+    "user_prompt": "Critical: Whirlwind requires a shutdown",
+    "prayer": "Approach the Whirlwind with solemnity, beginning the Shutdown Lament to ease its fury.\nDisconnect plasma feeds while chanting quiescence litanies over the Whirlwind.\nInvoke the Omnissiah to guide the Whirlwind's Machine Spirit into peaceful shutdown.\nPurge ordnance queues and seal hatches, ensuring orderly shutdown protocols.\nVerify total quiescence through auspex, praising the Whirlwind's disciplined repose.",
+    "component": "Whirlwind",
+    "operation": "shutdown",
+    "spec_id": "s00689"
+  }
+]

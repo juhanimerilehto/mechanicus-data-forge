@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the Vindicator for operation",
+    "prayer": "Approach the noble Vindicator with reverence, intoning the Litany of Mobilisation.\nAnoint its siege cannon and adamantium hull with blessed oils, awakening the Machine Spirit within the Vindicator.\nInitiate the operation sequences, beseeching the Omnissiah to infuse the Vindicator with unyielding fury.\nVerify alignment through diagnostic canticles, ensuring the Vindicator stands primed for battle's embrace.",
+    "component": "Vindicator",
+    "operation": "operation",
+    "spec_id": "s08110"
+  },
+  {
+    "user_prompt": "Urgent plasma reactor a consecration needed",
+    "prayer": "Kneel before the plasma reactor's glowing core, chanting the Rite of Containment.\nCircumscribe consecration glyphs upon its containment fields, invoking the Machine Spirits of plasma fury.\nPour sacred promethium upon the reactor coils during this vital consecration, lest instability claim the faithful.\nMonitor flux readings with auspex invocations, sealing the plasma reactor in the Omnissiah's grace.",
+    "component": "plasma reactor",
+    "operation": "consecration",
+    "spec_id": "s08111"
+  },
+  {
+    "user_prompt": "Guide me through conveyor system a preparation",
+    "prayer": "Commence preparation by laying hands upon the conveyor system's primary cogitator.\nChant the Canticle of Smooth Transit over the conveyor system's belts and servos, placating their Machine Spirits.\nLubricate axles with sanctified mechadendrite oil, aligning for flawless preparation.\nTest the conveyor system's rhythm through rhythmic incantations, under the Omnissiah's watchful gaze.\nAffirm operational purity with final auspex sweeps.",
+    "component": "conveyor system",
+    "operation": "preparation",
+    "spec_id": "s08112"
+  },
+  {
+    "user_prompt": "The servo-harness needs an activation",
+    "prayer": "Present the servo-harness before the altar of activation, whispering binaric awakening codes.\nAnoint each mechadendrite of the servo-harness with electro-consecrated unguents.\nInvoke the Machine Spirits bound within the servo-harness, initiating the activation rite.\nCycle power through its limbs whilst beseeching the Omnissiah for augmented might.\nConfirm the servo-harness's responsiveness via neural-link diagnostics.",
+    "component": "servo-harness",
+    "operation": "activation",
+    "spec_id": "s08113"
+  },
+  {
+    "user_prompt": "Ready the phosphor blaster for engagement",
+    "prayer": "Approach the phosphor blaster with solemnity, reciting the Incantation of Illuminated Wrath.\nCalibrate its phosphor reservoirs and engagement coils, honouring the Machine Spirit's hunger.\nAnoint the phosphor blaster's muzzle for engagement, invoking the Omnissiah's searing light.\nInitiate test-cycling with litanies of fire, ensuring the phosphor blaster yearns for xenos flesh.",
+    "component": "phosphor blaster",
+    "operation": "engagement",
+    "spec_id": "s08114"
+  },
+  {
+    "user_prompt": "Urgent volitor implant an operation needed",
+    "prayer": "Prepare the volitor implant's neural interfaces with utmost precision for operation.\nChant binaric hymns over the volitor implant, summoning its Machine Spirit to vigilance.\nCommence the operation by integrating flesh-metal bonds, beseeching the Omnissiah's guidance.\nStabilise synaptic relays through electro-psalmic rites upon the volitor implant.\nValidate volitor implant functionality with auspex neural scans.",
+    "component": "volitor implant",
+    "operation": "operation",
+    "spec_id": "s08115"
+  },
+  {
+    "user_prompt": "Critical: melta bomb requires a preparation",
+    "prayer": "Handle the melta bomb with reverent gauntlets, beginning preparation rites.\nInscribe warding runes upon the melta bomb's casing, appeasing its volatile Machine Spirit.\nPrime the fusion core during preparation, anointing with sacred ablative compounds.\nInvoke the Omnissiah's melting gaze, readying the melta bomb for heretic annihilation.\nConduct micro-diagnostic litanies to affirm the melta bomb's lethal purity.",
+    "component": "melta bomb",
+    "operation": "preparation",
+    "spec_id": "s08116"
+  },
+  {
+    "user_prompt": "Emergency: void shield an operation",
+    "prayer": "Surround the void shield generator in preparation for operation, intoning barrier canticles.\nAnoint emitter nodes with phase-consecrated oils, awakening the Machine Spirits of the void shield.\nActivate the operation flux through invocation of the Omnissiah's impenetrable aegis.\nTest deflection fields with probing auspex lances upon the void shield.\nSeal the rite with final binaric affirmations.",
+    "component": "void shield",
+    "operation": "operation",
+    "spec_id": "s08117"
+  },
+  {
+    "user_prompt": "My cognis heavy stubber is ready for cycling",
+    "prayer": "Present the cognis heavy stubber to the machine altar for cycling initiation.\nChant the Cycle of Eternal Vigilance over the cognis heavy stubber's auto-loader.\nLubricate its blessed barrels whilst cycling ammunition feeds, honouring the Machine Spirit.\nInvoke the Omnissiah to guide the cognis heavy stubber's relentless barrage.\nVerify cycling integrity through ballistic psalmody.",
+    "component": "cognis heavy stubber",
+    "operation": "cycling",
+    "spec_id": "s08118"
+  },
+  {
+    "user_prompt": "Sanctify the omni-tool during consecration",
+    "prayer": "Lay the omni-tool upon the consecration slab, beginning sacred rites.\nEtch micro-runes of utility upon the omni-tool's chassis during consecration.\nAnoint its multi-faceted emitters, beseeching the Machine Spirits of versatility.\nCycle diagnostic protocols under the Omnissiah's light, perfecting the omni-tool.\nAffirm consecration with resonant hymn-vibrations.",
+    "component": "omni-tool",
+    "operation": "consecration",
+    "spec_id": "s08119"
+  }
+]

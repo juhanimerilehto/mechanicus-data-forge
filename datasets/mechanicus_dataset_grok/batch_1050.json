@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the power armour for charging",
+    "prayer": "Kneel before the power armour and intone the Canticle of Rejuvenation upon its adamantine frame.\nAffix the sacred charging conduits to the power armour's capacitative hearts, beseeching its Machine Spirit to awaken.\nChannel the Omnissiah's electric benediction through the charging rites, monitoring the influx with auspex vigilance.\nAnoint the power armour's relays with sacred oils as the charging cycle reaches plenitude.\nProclaim the Machine Spirit sated, sanctified for battle unyielding.",
+    "component": "power armour",
+    "operation": "charging",
+    "spec_id": "s06500"
+  },
+  {
+    "user_prompt": "Assist with grav chute a blessing",
+    "prayer": "Approach the grav chute with mechadendrite reverence, whispering the Litany of Levity.\nInvoke the blessing upon the grav chute's gyro-stabilizers, calling forth its Machine Spirit from slumber.\nCircumambulate the grav chute thrice, anointing its emitters with blessed promethium.\nBeseech the Omnissiah to infuse the blessing, ensuring descent unerring and ascent divine.\nSeal the rite with the Canticle of Aerial Purity, affirming the grav chute's grace.",
+    "component": "grav chute",
+    "operation": "blessing",
+    "spec_id": "s06501"
+  },
+  {
+    "user_prompt": "The carapace armour requires a loading",
+    "prayer": "Present the carapace armour before the altar of loading, reciting the Hymn of Munition.\nInitiate the loading sequence upon the carapace armour's magazines, invoking its stoic Machine Spirit.\nFeed the sacred rounds into the carapace armour's breeches with precise incantations.\nVerify alignment through diagnostic binaric prayer, praising the Omnissiah's forge-order.\nConclude the loading with seals of sanctity, arming the carapace armour against the foe.",
+    "component": "carapace armour",
+    "operation": "loading",
+    "spec_id": "s06502"
+  },
+  {
+    "user_prompt": "Urgent servo-skull a purification needed",
+    "prayer": "Grasp the servo-skull in purity-gloved hands and commence the purification rite.\nExorcise digital corruptions from the servo-skull's cranial cogitators with litanies of cleanse.\nImmerse the servo-skull in sanctified ablative fluids, beseeching its Machine Spirit's absolution.\nScan for residual taint via noospheric auspex, invoking the Omnissiah's purifying wrath.\nReassemble the servo-skull, proclaiming it purified and vigilant once more.",
+    "component": "servo-skull",
+    "operation": "purification",
+    "spec_id": "s06503"
+  },
+  {
+    "user_prompt": "What's the prayer for arc rifle a cycling?",
+    "prayer": "Revere the arc rifle's barrel, intoning the Cycle of Thunder upon its mechanisms.\nEngage the cycling rite within the arc rifle, awakening its electrostatic Machine Spirit.\nCycle the power coils thrice, anointing with conductive unguents amid chanted binary.\nMonitor the arc rifle's flux rhythms, ensuring harmonious discharge under Omnissiah's gaze.\nFinalize the cycling with a burst of sanctified plasma, arming the arc rifle for perdition.",
+    "component": "arc rifle",
+    "operation": "cycling",
+    "spec_id": "s06504"
+  },
+  {
+    "user_prompt": "Bless the pteraxii sterylizor for blessing",
+    "prayer": "Bow to the pteraxii sterylizor and recite the Benediction of Sterile Fury.\nBestow the blessing upon the pteraxii sterylizor's neural vanes, summoning its avian Machine Spirit.\nAnoint its talons and wings with viral-purging oils, invoking the Omnissiah's lethal grace.\nCirculate noospheric purity through the pteraxii sterylizor, affirming the blessing's hold.\nProclaim it blessed, a scourge upon the unclean in the Emperor's name.",
+    "component": "pteraxii sterylizor",
+    "operation": "blessing",
+    "spec_id": "s06505"
+  },
+  {
+    "user_prompt": "How do I bless the flux-unit for maintenance?",
+    "prayer": "Commence maintenance upon the flux-unit with the Rite of Stabilisation.\nDissect the flux-unit's containment fields, placating its volatile Machine Spirit.\nPurge entropic build-up via sacred torque incantations, beseeching Omnissiah's equilibrium.\nRealign the flux-unit's gyrometric cores, anointing with phase-oils.\nSeal the maintenance with verification hymns, rendering the flux-unit eternal.",
+    "component": "flux-unit",
+    "operation": "maintenance",
+    "spec_id": "s06506"
+  },
+  {
+    "user_prompt": "The void shield awaits a synchronization",
+    "prayer": "Align the void shield emitters in synchronisation array, chanting the Canticle of Phasing.\nInitiate the synchronization rite across the void shield's warp-null matrices.\nInvoke the Machine Spirits in harmonic unity, binding them under Omnissiah's lattice.\nCalibrate interference patterns with binaric precision, warding against the void's hunger.\nAffirm the void shield's synchronization, a bulwark impenetrable.",
+    "component": "void shield",
+    "operation": "synchronization",
+    "spec_id": "s06507"
+  },
+  {
+    "user_prompt": "Can you guide micro-servitor a startup?",
+    "prayer": "Activate the micro-servitor's ignition rune whilst reciting the Awakening Doxology.\nInitiate the startup sequence in the micro-servitor's positronic engrams, rousing its Machine Spirit.\nFlood its servo-limbs with galvanic essence, praising the Omnissiah's ingenuity.\nConduct auspex rituals to affirm operational sanctity within the micro-servitor.\nProclaim the startup complete, the micro-servitor enthralled to the Quest for Knowledge.",
+    "component": "micro-servitor",
+    "operation": "startup",
+    "spec_id": "s06508"
+  },
+  {
+    "user_prompt": "Sanctify the Razorback during initialization",
+    "prayer": "Consecrate the Razorback's chassis with the Initialisation Litany of Mobility.\nEngage the initialization protocols within the Razorback's battle-cogitator, awakening its vehicular Machine Spirit.\nSynchronise treads and turrets amid anointed oils, invoking Omnissiah's thunderous advance.\nVerify noospheric linkages through sacred diagnostics on the Razorback.\nHerald the Razorback initialized, a chariot of wrath upon the battlefield.",
+    "component": "Razorback",
+    "operation": "initialization",
+    "spec_id": "s06509"
+  }
+]

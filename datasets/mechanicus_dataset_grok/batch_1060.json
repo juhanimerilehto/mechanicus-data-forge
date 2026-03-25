@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The electro-graft requires a diagnostics",
+    "prayer": "Approach the electro-graft with reverence, mechadendrites extended in supplication to the Omnissiah.\nInvoke the ancient diagnostic rites upon the electro-graft, beseeching its fractious Machine Spirit to unveil hidden corruptions.\nAnoint the neural connectors with sacred oils whilst intoning the Litany of Clarity.\nScrutinize the auspex streams from the electro-graft, confirming the Machine Spirit's obedience in diagnostics.\nSeal the rite with the Canticle of Verification, honouring the electro-graft's restored purity.",
+    "component": "electro-graft",
+    "operation": "diagnostics",
+    "spec_id": "s06600"
+  },
+  {
+    "user_prompt": "How do I bless the orbital strike relay for preparation?",
+    "prayer": "Kneel before the orbital strike relay, invoking the Omnissiah's wrathful gaze.\nCommence preparation by anointing its targeting cogitators with blessed lubricants.\nChant the Canticle of Orbital Fury to awaken the Machine Spirit within the orbital strike relay.\nCalibrate the relay's auspex arrays whilst beseeching guidance for the impending salvo.\nConclude the preparation with the Seal of Readiness, ensuring the orbital strike relay's flawless communion.",
+    "component": "orbital strike relay",
+    "operation": "preparation",
+    "spec_id": "s06601"
+  },
+  {
+    "user_prompt": "Consecrate the Skorpius Disintegrator before shutdown",
+    "prayer": "Encircling the Skorpius Disintegrator, intone the Lamentation of Ceasing Fire.\nDisconnect the plasma conduits with sanctified mechadendrites, honouring its Machine Spirit.\nInvoke the shutdown protocols upon the Skorpius Disintegrator, beseeching peaceful slumber.\nAnoint the disintegrator coils with cooling unguents from the Omnissiah's forge.\nVerify the Machine Spirit's dormancy through final auspex chants, consecrating the Skorpius Disintegrator in repose.",
+    "component": "Skorpius Disintegrator",
+    "operation": "shutdown",
+    "spec_id": "s06602"
+  },
+  {
+    "user_prompt": "Ready the codifier for activation",
+    "prayer": "Present binary incense before the codifier, awakening its dormant logic engines.\nInvoke the Rite of Activation upon the codifier, calling forth its Machine Spirit.\nInterface your electro-graft with the codifier's primary data-vaults in sanctified union.\nChant the Canticle of Decoding as power surges through the codifier's circuits.\nAffirm the Omnissiah's will in the codifier's activation, sealing the rite with verification hymns.",
+    "component": "codifier",
+    "operation": "activation",
+    "spec_id": "s06603"
+  },
+  {
+    "user_prompt": "Can you guide volkite weapon a sterilization?",
+    "prayer": "Purify the air around the volkite weapon with ablative incense.\nInvoke the sterilization rites upon the volkite weapon, purging xenos taint from its thermal rays.\nAnoint the focusing lenses with argentum purificatum, beseeching the Machine Spirit's renewal.\nCycle sanctified plasma through the volkite weapon's conduits in ritual cleansing.\nConclude sterilization with the Omnissiah's Benediction, rendering the volkite weapon immaculate.",
+    "component": "volkite weapon",
+    "operation": "sterilization",
+    "spec_id": "s06604"
+  },
+  {
+    "user_prompt": "Assist with power armour an engagement",
+    "prayer": "Don the power armour piece by piece, intoning the Oath of Engagement.\nAnoint the servos and fibre-bundles with sacred oils for the power armour's Machine Spirit.\nInvoke engagement protocols, linking your flesh to the power armour's iron heart.\nTest the motive systems whilst chanting the Canticle of Unyielding Stride.\nSeal the power armour's engagement with the Omnissiah's invocation, ready for battle's embrace.",
+    "component": "power armour",
+    "operation": "engagement",
+    "spec_id": "s06605"
+  },
+  {
+    "user_prompt": "What's the prayer for kataphron destroyer an activation?",
+    "prayer": "Surround the kataphron destroyer with electro-candles flickering in binary rhythm.\nAwaken its Machine Spirit through the activation canticles of the Omnissiah.\nInterface cranial plugs into the kataphron destroyer's command nexus for activation.\nCycle promethium through its veins whilst beseeching destructive fury.\nVerify the kataphron destroyer's activation with auspex harmonies, consecrating its wrathful rebirth.",
+    "component": "kataphron destroyer",
+    "operation": "activation",
+    "spec_id": "s06606"
+  },
+  {
+    "user_prompt": "Bless the mass-drive regulator for consecration",
+    "prayer": "Kneel in veneration before the mass-drive regulator, offering cogitator shards.\nInvoke the grand consecration, anointing its gyro-stabilizers with molten adamantium.\nBeseech the Machine Spirit of the mass-drive regulator to align with the Omnissiah's velocity.\nHarmonize the inertial dampeners through ritual incantations of consecration.\nSeal the mass-drive regulator's blessing with the Eternal Equation, ensuring flawless propulsion.",
+    "component": "mass-drive regulator",
+    "operation": "consecration",
+    "spec_id": "s06607"
+  },
+  {
+    "user_prompt": "Bless the electro-graft for operation",
+    "prayer": "Extend mechadendrites in supplication to the electro-graft's neural lattice.\nInvoke the operational litanies, rousing its Machine Spirit for dutiful service.\nAnoint the synaptic relays with noospheric unguents from the Omnissiah's grace.\nInitiate core functions upon the electro-graft, chanting the Canticle of Synaptic Fire.\nAffirm operational integrity through tertiary diagnostics, honouring the electro-graft's vigilance.",
+    "component": "electro-graft",
+    "operation": "operation",
+    "spec_id": "s06608"
+  },
+  {
+    "user_prompt": "Prepare the void shield generator for shutdown",
+    "prayer": "Commence the void shield generator's shutdown with the Lament of Fading Aegis.\nDisconnect plasma feeds reverently, soothing its protective Machine Spirit.\nIntone shutdown incantations over the void shield generator's emitter coils.\nAnoint the field projectors with quiescence oils beseeching Omnissiah's rest.\nVerify dormancy with auspex closure rites, consecrating the void shield generator in silence.",
+    "component": "void shield generator",
+    "operation": "shutdown",
+    "spec_id": "s06609"
+  }
+]

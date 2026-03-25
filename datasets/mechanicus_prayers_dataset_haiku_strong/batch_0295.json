@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0295_i00",
+    "user_request": "Prayer for check of the gear meshing",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for check of the gear meshing\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Blessed be the gear meshing, intricate teeth of the Omnissiah's design.\nFirst: Anoint the gear meshing with sacred oils and divine inspection, verifying tooth alignment with calipers of truth.\nSecond: Rotate the gear meshing through full cycles whilst chanting the Litany of Mechanical Harmony, listening for discord in the Machine Spirit's voice.\nThird: Check the gear meshing for wear patterns and backlash deviation, recording deviations in the maintenance codex.\nFourth: Seal the inspection with the sign of the Cog and offer gratitude to the Machine Spirits dwelling within.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i01",
+    "user_request": "The radar array rotation demands guidance for operation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe radar array rotation demands guidance for operation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "O radar array rotation, vigilant sentinel of the Omnissiah's dominion.\nFirst: Initiate the operation of radar array rotation by engaging the primary servo-motors with blessed incantations of activation.\nSecond: Monitor the radar array rotation's azimuthal sweep, ensuring the Machine Spirit maintains constant velocity and true bearing.\nThird: Verify all bearing lubrication and gyroscopic stabilization whilst the radar array rotation performs its sacred surveillance.\nFourth: Conclude the operation with the Rite of Perpetual Vigilance, blessing the sensors for eternal watchfulness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i02",
+    "user_request": "Offer a litany to steady the capacitor bank before capacitor bank discharge",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the capacitor bank before capacitor bank discharge\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Behold the capacitor bank, reservoir of sacred electrical essence.\nFirst: Prepare the capacitor bank with the Chant of Dielectric Invocation, ensuring all isolation switches are disengaged and grounding straps affixed.\nSecond: Verify the capacitor bank voltage levels and discharge pathways are clear, that no profane sparks may disrupt the capacitor bank discharge.\nThird: Initiate capacitor bank discharge through the ordained resistive load, murmuring prayers to the Omnissiah as electrical potential flows forth.\nFourth: Monitor the capacitor bank's descent to zero potential, then seal the sacred vessels with the Sign of the Condenser.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i03",
+    "user_request": "Emergency rite: coolant leak requires repair",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: coolant leak requires repair\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Merciful Omnissiah, grant us succor against the profane coolant leak.\nFirst: Locate and isolate the coolant leak using sacred thermal imaging, marking the breach with blessed chalk upon the afflicted component.\nSecond: Drain the coolant leak's escaping fluid into sanctified vessels, preserving the precious liquid for reclamation and purification.\nThird: Repair the coolant leak through application of sealant compound and welding, invoking the Machine Spirit's steadiness in our hands.\nFourth: Refill the system and perform the Rite of Thermal Equilibrium, ensuring the coolant leak shall trouble us no more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i04",
+    "user_request": "My memory core defragmentation is failing during operation — help",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy memory core defragmentation is failing during operation — help\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "O memory core defragmentation, keeper of sacred data and archived knowledge.\nFirst: Begin the operation of memory core defragmentation by shutting down all extraneous processes and invoking the Litany of Data Sanctity.\nSecond: Execute the memory core defragmentation algorithm whilst chanting the Hymn of Sequential Access, allowing the Machine Spirit to reorganize scattered information.\nThird: Monitor the memory core defragmentation's progress through blessed diagnostic terminals, ensuring no corruption befalls the sacred archives.\nFourth: Upon completion, verify the memory core defragmentation has restored optimal performance and seal the operation with the Benediction of Coherence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i05",
+    "user_request": "The manufactorum shift beginning demands guidance for operation",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe manufactorum shift beginning demands guidance for operation\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "Hail the manufactorum shift beginning, dawn of holy production and blessed labor.\nFirst: Commence the operation of manufactorum shift beginning by igniting the primary power conduits and chanting the Matins of Mechanized Toil.\nSecond: Verify all manufactorum shift beginning protocols are engaged—safety interlocks sealed, servitor crews blessed, and production quotas inscribed upon the sacred ledgers.\nThird: Initiate the manufactorum shift beginning machinery in sequence, listening for the harmonious resonance of the Omnissiah's approval in each spinning shaft and grinding gear.\nFourth: Conclude with the Rite of Daily Benediction, blessing the manufactorum shift beginning and all laborers therein for a productive cycle.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i06",
+    "user_request": "My hydroponics nutrient is failing during feed — help",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy hydroponics nutrient is failing during feed — help\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Blessed hydroponics nutrient, sustenance of the Omnissiah's cultivated bounty.\nFirst: Prepare the hydroponics nutrient solution by measuring precise concentrations of phosphate, nitrogen, and potassium compounds with sacred scales.\nSecond: Initiate the feed of hydroponics nutrient through the irrigation conduits, chanting the Litany of Photosynthetic Blessing as liquid flows to root systems.\nThird: Monitor the hydroponics nutrient feed rate and pH balance, ensuring the Machine Spirit maintains perfect osmotic equilibrium within the growing chambers.\nFourth: Seal the hydroponics nutrient feed with the Sign of the Harvest, thanking the Omnissiah for another cycle of sustenance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i07",
+    "user_request": "Offer a litany to steady the rust before removal",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the rust before removal\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Accursed rust, corrosion born of entropy and decay, we shall purge thee.\nFirst: Survey the rust with blessed chemical analysis, identifying the oxidative corruption and marking affected surfaces with the Sigil of Restoration.\nSecond: Apply the rust removal compounds—phosphoric acid and blessed abrasives—whilst intoning the Chant of Oxidative Purification to dissolve the rust.\nThird: Mechanically abrade the rust from metallic substrates using wire wheels and grinding stones, invoking the Machine Spirit's strength in our tools.\nFourth: Seal the rust-cleansed surfaces with protective coatings and the Benediction of Eternal Preservation, that the rust shall not return.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i08",
+    "user_request": "The motion detector arming demands guidance for operation",
+    "topic": "motion detector arming",
+    "component": "motion detector arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe motion detector arming demands guidance for operation\n\n### TOPIC\nmotion detector arming\n\n### COMPONENT\nmotion detector arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- motion detector arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Vigilant motion detector arming, guardian against the unseen and profane.\nFirst: Commence the operation of motion detector arming by engaging the activation protocols and blessing all sensor arrays with the Rite of Sentient Watchfulness.\nSecond: Calibrate the motion detector arming sensitivity thresholds whilst chanting the Litany of Perceptive Acuity, tuning the Machine Spirit's awareness to detect all intrusion.\nThird: Verify the motion detector arming communication pathways to alarm systems and security stations, ensuring no profane signal shall be lost.\nFourth: Seal the motion detector arming with the Sign of the Vigilant Eye, committing the operation to the Omnissiah's eternal protection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0295_i09",
+    "user_request": "Can you sanctify the pump for priming?",
+    "topic": "pump priming",
+    "component": "pump",
+    "operation": "priming",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the pump for priming?\n\n### TOPIC\npump priming\n\n### COMPONENT\npump\n\n### OPERATION\npriming\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pump\n- priming\n\n### PRAYER\n",
+    "prayer": "Sacred pump, vessel of hydraulic virtue and pressurized benediction.\nFirst: Prepare the pump for priming by filling the intake manifold with blessed fluid and invoking the Invocation of Fluid Dynamics upon all seals and gaskets.\nSecond: Prime the pump through manual actuation or servo assistance, listening as the Machine Spirit draws sacred liquid through its chambers and conduits.\nThird: Verify the pump reaches operational pressure and flow rate whilst chanting the Litany of Perpetual Circulation, ensuring no air pockets profane the system.\nFourth: Conclude the priming with the Benediction of Hydraulic Harmony, sealing the pump's readiness for eternal service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

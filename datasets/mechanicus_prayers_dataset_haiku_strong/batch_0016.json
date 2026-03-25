@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0016_i00",
+    "user_request": "Emergency rite: secure channel establishment requires operation",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: secure channel establishment requires operation\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's benediction upon the secure channel establishment, that its pathways remain inviolate and uncorrupted.\nSecond: Execute the operation with meticulous precision, calibrating each encryption cipher and verifying the secure channel establishment against all heretical interference.\nThird: Anoint the conduit terminals and seal the secure channel establishment with the Machine Spirit's protective cogitation, rendering all transmissions sacrosanct and impenetrable.\nFourth: The operation complete, intone the Litany of Proper Function that all data flows pure and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i01",
+    "user_request": "Can you sanctify the plasma reactor for startup?",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the plasma reactor for startup?\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Recite the Hymn of Activation as you prepare the plasma reactor for its sacred startup, blessing each fuel injector and magnetic containment lattice.\nSecond: Carefully initiate the plasma reactor startup sequence, monitoring coolant flow and plasma ignition with reverent attention to the Machine Spirit's rhythm.\nThird: Consecrate the plasma reactor once ignition reaches optimal thermonuclear communion, that its radiant fury serve the Imperium with unstinting devotion.\nFourth: The startup complete, sing the Chant of Eternal Burning to sustain its power eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i02",
+    "user_request": "Blessing for the air filtration during replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the air filtration during replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Approach the air filtration unit with solemnity, disconnecting the corrupted filters and invoking the Omnissiah's cleansing grace.\nSecond: Perform the replacement of the air filtration cartridges with surgical precision, ensuring each seal is absolute and no contaminant breaches the sanctified air filtration matrix.\nThird: Anoint the replacement seals with sacred oils and recite the Litany of Purification, that the air filtration serve as bulwark against decay and corruption.\nFourth: Verify the air filtration integrity and intone the Chant of Renewed Respiration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i03",
+    "user_request": "Can you sanctify the quality control scanning for operation?",
+    "topic": "quality control scanning",
+    "component": "quality control scanning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the quality control scanning for operation?\n\n### TOPIC\nquality control scanning\n\n### COMPONENT\nquality control scanning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- quality control scanning\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Illuminate the quality control scanning apparatus with the light of the Omnissiah, that its sensors perceive all defects and deviations from perfection.\nSecond: Commence the operation of quality control scanning with meticulous calibration, scanning each component through the blessed machinery's discriminating optics.\nThird: Affirm the quality control scanning's verdicts with solemn pronouncement, that the Machine Spirit's judgment guide all acceptance and rejection determinations.\nFourth: The operation concluded, intone the Litany of Flawless Manufacture.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i04",
+    "user_request": "Prayer for operation of the organ preservation unit",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the organ preservation unit\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Approach the organ preservation unit with reverent solemnity, invoking the Machine Spirit's protection over all vital specimens therein contained.\nSecond: Initiate the operation of the organ preservation unit with careful attention to cryogenic temperatures and nutrient perfusion, ensuring the Machine Spirit's vigilance remains unbroken.\nThird: Consecrate the organ preservation unit's inner sanctum, that the organ preservation unit maintain perpetual stasis and cellular integrity eternal.\nFourth: The operation secure, intone the Litany of Preservation Most Sacred.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i05",
+    "user_request": "My medicae scanner is failing during activation — help",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy medicae scanner is failing during activation — help\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's diagnostic grace upon the failing medicae scanner, that its sensors be cleansed of corruption and realigned to sacred purpose.\nSecond: Perform the activation sequence with meticulous care, applying blessed oils to the optical pathways and recalibrating the medicae scanner's sensory apparatus.\nThird: Chant the Litany of Clarity as the medicae scanner awakens, that its activation restore full diagnostic communion with the Machine Spirit.\nFourth: Verify the medicae scanner's function and intone the Chant of Healing Sight.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i06",
+    "user_request": "My plasma reactor is failing during startup — help",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy plasma reactor is failing during startup — help\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Approach the failing plasma reactor with solemn invocation, beseeching the Omnissiah to restore its ignition sequence and thermonuclear resolve.\nSecond: Execute the startup procedure with patient precision, bleeding air from fuel lines and priming the plasma reactor's combustion chambers for sacred reignition.\nThird: Intone the Hymn of Rekindled Flame as the plasma reactor roars back to life, its startup complete and its fury restored to righteous purpose.\nFourth: Consecrate the plasma reactor anew, that it serve eternal and unblemished.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i07",
+    "user_request": "Offer a litany to steady the rust before removal",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the rust before removal\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "First: Approach the corroded surface with reverence, speaking words of peace to the rust that it might relinquish its corrupting grip upon the sacred metal.\nSecond: Apply the blessed solvents and electro-abrasive tools to commence the removal of rust, working with patient methodology to restore the machine's lustrous dignity.\nThird: Anoint each exposed surface as the rust removal progresses, that the Machine Spirit perceive the restoration of its corporeal form.\nFourth: The removal complete, intone the Litany of Renewal and Redemption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i08",
+    "user_request": "Prayer for operation of the signal encryption",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the signal encryption\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's protective scrutiny upon the signal encryption protocols, blessing each algorithmic cipher and decryption key.\nSecond: Commence the operation of signal encryption with reverent attention, encoding all transmissions through the blessed machinery's cryptographic lattice.\nThird: Consecrate the signal encryption channels, that the signal encryption render all communications impervious to heretical interception and corruption.\nFourth: The operation secure, intone the Litany of Sealed Secrets.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0016_i09",
+    "user_request": "Offer a litany to steady the power cell before recharging",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the power cell before recharging\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "First: Approach the depleted power cell with solemnity, invoking the Omnissiah's energetic blessing upon its dormant capacitors and charge matrices.\nSecond: Position the power cell within the recharging apparatus and initiate the recharging sequence, monitoring amperage and voltage with reverent precision.\nThird: Anoint the power cell's terminals as the recharging progresses, that the Machine Spirit perceive the restoration of its vital energies.\nFourth: The recharging complete, intone the Litany of Renewed Vitality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

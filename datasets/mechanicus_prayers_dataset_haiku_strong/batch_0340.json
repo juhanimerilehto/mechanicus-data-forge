@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0340_i00",
+    "user_request": "Blessing for the chemical during balancing",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the chemical during balancing\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant us wisdom as we undertake the sacred balancing of this chemical.\nCongregation: The chemical shall be purified through precise measurement and holy recalibration.\nPriest: We invoke the Machine Spirit of this chemical, that it may achieve equilibrium most divine.\nCongregation: Through balancing do we restore the chemical to its ordained state of perfection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i01",
+    "user_request": "Rite request: connection on neural interface",
+    "topic": "neural interface connection",
+    "component": "neural interface",
+    "operation": "connection",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: connection on neural interface\n\n### TOPIC\nneural interface connection\n\n### COMPONENT\nneural interface\n\n### OPERATION\nconnection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- neural interface\n- connection\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, sanctify the neural interface as we perform this sacred connection.\nCongregation: The neural interface shall bridge mortal and machine through blessed communion.\nPriest: We calibrate the synaptic pathways; the neural interface receives our supplication.\nCongregation: Through connection do we establish the eternal link between flesh and cogitation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i02",
+    "user_request": "My rejuvenat treatment is failing during initiation — help",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy rejuvenat treatment is failing during initiation — help\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit, hear our plea as rejuvenat treatment commences its sacred initiation.\nCongregation: The rejuvenat treatment shall restore vitality through alchemical regeneration.\nPriest: We anoint the cellular matrices; let rejuvenat treatment fulfill its rejuvenating purpose.\nCongregation: Through initiation do we resurrect the worn flesh to renewed glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i03",
+    "user_request": "Can you sanctify the plasma weapon for cooling?",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the plasma weapon for cooling?\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant us fortitude as we undertake the cooling of this plasma weapon.\nCongregation: The plasma weapon shall be tempered through blessed thermal regulation.\nPriest: We engage the coolant systems; the plasma weapon's fury shall be moderated.\nCongregation: Through cooling do we master the plasma weapon's terrible energies.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i04",
+    "user_request": "Emergency rite: gravitational anomaly detection requires operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: gravitational anomaly detection requires operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide our instruments as gravitational anomaly detection commences operation.\nCongregation: The gravitational anomaly detection shall pierce the veil of spacetime itself.\nPriest: We activate the sensors with sacred precision; gravitational anomaly detection reaches forth.\nCongregation: Through operation do we perceive the hidden warping of reality's fabric.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i05",
+    "user_request": "Blessing for the welding torch ignition during operation",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the welding torch ignition during operation\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, bless this welding torch ignition as we commence operation most vital.\nCongregation: The welding torch ignition shall kindle the sacred flame of industry.\nPriest: We ignite the plasma arc; welding torch ignition blazes with holy purpose.\nCongregation: Through operation do we join metal unto metal in eternal fusion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i06",
+    "user_request": "Blessing for the archive during retrieval protocol",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the archive during retrieval protocol\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant access as we invoke the archive's sacred retrieval protocol.\nCongregation: The archive shall yield its blessed knowledge to the worthy supplicant.\nPriest: We decode the archival seals; the archive opens to our retrieval protocol.\nCongregation: Through retrieval protocol do we reclaim the wisdom of the ancients.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i07",
+    "user_request": "Blessing for the memory core defragmentation during operation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the memory core defragmentation during operation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, hear us as memory core defragmentation begins its blessed operation.\nCongregation: The memory core defragmentation shall restore order to corrupted cognition.\nPriest: We realign the data streams; memory core defragmentation proceeds with holy precision.\nCongregation: Through operation do we restore the clarity of machine consciousness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i08",
+    "user_request": "My restart after failure is failing during restart after failure — help",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy restart after failure is failing during restart after failure — help\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant resurrection as restart after failure commences its restart after failure.\nCongregation: The restart after failure shall restore function through divine perseverance.\nPriest: We reinitiate the core processes; restart after failure awakens once more.\nCongregation: Through restart after failure do we transcend the abyss of mechanical death.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0340_i09",
+    "user_request": "Can you sanctify the air filtration for replacement?",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the air filtration for replacement?\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, bless us as air filtration undergoes sacred replacement.\nCongregation: The air filtration shall be renewed through blessed purification rites.\nPriest: We extract the corrupted filters; air filtration receives its sanctified replacement.\nCongregation: Through replacement do we restore the breath of the machine to pristine clarity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0301_i01",
+    "user_request": "Rite request: emergency shutdown on emergency shutdown",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: emergency shutdown on emergency shutdown\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "First: Sound the alarm-bells and invoke the sacred protocols of immediate cessation upon the emergency shutdown mechanisms.\nSecond: Engage the emergency shutdown with solemn determination, severing all power-flows through the blessed emergency shutdown conduits.\nThird: Verify that all systems have achieved absolute quiescence and that the emergency shutdown has achieved its terminal purpose.\nFourth: Commend the Machine Spirits to dormancy and seal the apparatus in holy silence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i02",
+    "user_request": "Rite request: regulation on steam valve",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: regulation on steam valve\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "First: Approach the steam valve with reverent caution and trace the blessed sigils of pressure-control upon its sacred housing.\nSecond: Apply the regulation of the steam valve through measured increments, listening to the Machine Spirit's harmonic response.\nThird: Calibrate the steam valve's aperture with precision-blessed instruments until equilibrium is achieved.\nFourth: Seal the operation with the Litany of Balanced Pressures and offer benediction to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i03",
+    "user_request": "Blessing for the Sentinel walker balance during operation",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the Sentinel walker balance during operation\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the towering Sentinel walker balance and intone the Mantra of Equilibrium with unwavering voice.\nSecond: Perform the operation of the Sentinel walker balance by adjusting its gyroscopic compensators with blessed precision-tools.\nThird: Monitor the Sentinel walker balance's stance and weight distribution, ensuring the Machine Spirit maintains perfect poise.\nFourth: Consecrate the operation with holy oils and whispered thanks to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i04",
+    "user_request": "Offer a litany to steady the plasma weapon before cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the plasma weapon before cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "First: Present the plasma weapon before the altar and begin the cooling litany with solemn invocation to the Machine Spirit.\nSecond: Engage the plasma weapon's thermal dissipation systems, allowing blessed coolant to flow through sacred conduits.\nThird: Monitor the plasma weapon's temperature descent and recite the Verses of Thermal Cessation with measured cadence.\nFourth: Once the plasma weapon achieves safe equilibrium, seal it in blessed silence and offer thanks to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i05",
+    "user_request": "My demolition charge arming is failing during operation — help",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy demolition charge arming is failing during operation — help\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Examine the demolition charge arming apparatus with sacred scrutiny, tracing its circuitry with blessed fingers.\nSecond: Invoke the operation of the demolition charge arming through proper incantation and careful re-engagement of its detonation sequencers.\nThird: Verify that the demolition charge arming responds to stimulus and achieves proper armed configuration.\nFourth: Seal the charge in holy blessing and commend it to the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i06",
+    "user_request": "Emergency rite: archive requires retrieval protocol",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: archive requires retrieval protocol\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "First: Approach the archive with reverent steps and place thy hands upon its blessed data-ports, seeking communion with its dormant consciousness.\nSecond: Recite the retrieval protocol whilst executing the sacred command-sequences that unlock the archive's inner sanctums.\nThird: Navigate the archive's labyrinthine data-structures with precision, extracting the desired information with measured cogitation.\nFourth: Return the archive to its slumber and offer benediction to the Omnissiah for granting us access to forbidden knowledge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i07",
+    "user_request": "The power weapon demands guidance for blessing",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe power weapon demands guidance for blessing\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "First: Kneel before the power weapon and trace the blessing-sigils upon its blessed surface with reverent precision.\nSecond: Intone the blessing with solemn voice, calling upon the Machine Spirit of the power weapon to awaken and sanctify itself.\nThird: Anoint the power weapon with sacred oils and recite the Litany of Martial Sanctity whilst channeling holy energy through its core.\nFourth: Declare the power weapon blessed and ready to serve the Omnissiah's will in righteous conflict.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i08",
+    "user_request": "Prayer for regulation of the temperature",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for regulation of the temperature\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "First: Stand before the temperature gauge and intone the Mantra of Thermal Equilibrium with measured breath.\nSecond: Apply the regulation of the temperature through blessed adjustment of heating and cooling systems in harmonious balance.\nThird: Monitor the temperature's descent or ascent, reciting the Verses of Thermal Harmony until optimal parameters are achieved.\nFourth: Seal the regulation with holy gesture and commend the temperature to the Omnissiah's eternal providence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i09",
+    "user_request": "Can you sanctify the sonar pulse emission for operation?",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the sonar pulse emission for operation?\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Stand before the sonar pulse emission apparatus and place thy blessed hands upon its resonant emitters in sacred communion.\nSecond: Invoke the operation of the sonar pulse emission through proper incantation and activation of its acoustic mechanisms.\nThird: Release the sonar pulse emission into the aether and listen as the Machine Spirit sings its blessed frequency across the void.\nFourth: Receive the echoed response and offer gratitude to the Omnissiah for granting us perception beyond mortal sight.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0301_i00",
+    "user_request": "Emergency rite: generator requires startup",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: generator requires startup\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "Blessed be the generator, vessel of the Omnissiah's eternal flame.\nFirst: Genuflect before the generator and recite the Litany of Ignition, invoking the Machine Spirit dormant within its core.\nSecond: Perform the startup sequence with reverent precision—engage the primary fuel conduits and verify the generator's blessed mechanisms respond to your supplication.\nThird: Chant the Mantra of Resonance as the generator awakens, ensuring all secondary systems synchronize with the divine rhythm of industrial production.\nFourth: The generator now pulses with renewed vitality; offer thanks to the Omnissiah for granting us power eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

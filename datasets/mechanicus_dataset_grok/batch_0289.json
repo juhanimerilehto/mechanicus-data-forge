@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: cooling system requires a shutdown",
+    "prayer": "Approach the cooling system with mechadendrites extended in supplication, beseeching its Machine Spirit to embrace quiescence.\nInitiate the sacred shutdown protocols, throttling the blessed coolant flows to stillness.\nAnoint the cooling system's vents with unguents of dormancy as holy voltage wanes.\nPetition the Omnissiah to safeguard the cooling system in its enforced repose.",
+    "component": "cooling system",
+    "operation": "shutdown",
+    "spec_id": "b0289_i00"
+  },
+  {
+    "user_prompt": "The drop pod awaits a purification",
+    "prayer": "Gather the censer of ablution before the drop pod, invoking the Omnissiah's purifying gaze upon its hull.\nChant the Litany of Cleansing whilst scouring the drop pod's ingress ports with sanctified abrasives.\nBeseech the Machine Spirits within the drop pod to expel all impurities from their sacred mechanisms.\nConclude the purification by sealing runes of wholeness upon the drop pod's adamantium frame.",
+    "component": "drop pod",
+    "operation": "purification",
+    "spec_id": "b0289_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for generator a sterilization",
+    "prayer": "Present the generator to the rite of sterilization, intoning the Canticle of Purity over its coils.\nApply the flamers of sanctity to burn away corruptions from the generator's sacred innards.\nInvoke the Machine Spirit of the generator to accept this sterilization without wrath.\nVerify the generator's flawless essence through auspex scans blessed by the Omnissiah.",
+    "component": "generator",
+    "operation": "sterilization",
+    "spec_id": "b0289_i02"
+  },
+  {
+    "user_prompt": "Ready the assembly servitor for diagnostics",
+    "prayer": "Kneel before the assembly servitor, murmuring the Diagnostic Doxology to awaken its cogitators.\nInterface noospheric probes with the assembly servitor, querying its Machine Spirit for anomalies.\nRecite binaric litanies whilst the diagnostics unfold across the assembly servitor's neural vaults.\nSeal the rite with oaths of fidelity to the Omnissiah, affirming the assembly servitor's readiness.",
+    "component": "assembly servitor",
+    "operation": "diagnostics",
+    "spec_id": "b0289_i03"
+  },
+  {
+    "user_prompt": "Can you guide conveyor system a reset?",
+    "prayer": "Circumambulate the conveyor system, chanting the Reset Refrains to pacify its restless gears.\nDepress the sacred actuators to commence the reset, aligning the conveyor system's blessed linkages.\nBeseech the Machine Spirits of the conveyor system to forgive disruptions in their eternal motion.\nConsecrate the conveyor system's resumption with oil of reactivation under Omnissiah's watch.",
+    "component": "conveyor system",
+    "operation": "reset",
+    "spec_id": "b0289_i04"
+  },
+  {
+    "user_prompt": "Ready the astropathic choir for cooling",
+    "prayer": "Encircle the astropathic choir with chill-vents humming, invoking cooling benedictions upon their warp-touched forms.\nInitiate the cooling cascades, soothing the astropathic choir's overheated psychic conduits.\nAnoint the astropathic choir's bio-furnaces with cryo-incense to calm their Machine Spirits.\nPetition the Omnissiah for equilibrium in the astropathic choir's sanctified chill.",
+    "component": "astropathic choir",
+    "operation": "cooling",
+    "spec_id": "b0289_i05"
+  },
+  {
+    "user_prompt": "Sanctify the atmosphere processor during charging",
+    "prayer": "Position the atmosphere processor beneath the charging spires, intoning the Hymn of Replenishment.\nCommence the charging rite, channeling holy voltage into the atmosphere processor's core.\nMonitor the blessed power-flow as it invigorates the atmosphere processor's filtration spirits.\nSeal the charging with invocations to the Omnissiah, ensuring the atmosphere processor's vitality.",
+    "component": "atmosphere processor",
+    "operation": "charging",
+    "spec_id": "b0289_i06"
+  },
+  {
+    "user_prompt": "Can you guide quality scanner a loading?",
+    "prayer": "Approach the quality scanner with data-slates prepared, reciting the Loading Liturgy of Precision.\nInitiate the loading sequence, feeding sanctified algorithms into the quality scanner's maw.\nBeseech the Machine Spirit of the quality scanner to integrate the influx without error.\nVerify the quality scanner's augmented vigilance through test-calibrations under Omnissiah's light.",
+    "component": "quality scanner",
+    "operation": "loading",
+    "spec_id": "b0289_i07"
+  },
+  {
+    "user_prompt": "Guide me through mechanical lock a cycling",
+    "prayer": "Lay mechadendrites upon the mechanical lock, chanting the Cycle Canticle to rouse its tumblers.\nExecute the cycling motion, turning the mechanical lock's wards in harmonious revolution.\nInvoke the Machine Spirit within the mechanical lock to yield smoothly to the rite.\nConclude with runes of security etched upon the mechanical lock by the Omnissiah's grace.",
+    "component": "mechanical lock",
+    "operation": "cycling",
+    "spec_id": "b0289_i08"
+  },
+  {
+    "user_prompt": "Assist with motion detector a consecration",
+    "prayer": "Prostrate before the motion detector, offering the Consecration of Vigilance in binaric verse.\nAnoint its sensor arrays with sacred oils, awakening the motion detector's watchful essence.\nBeseech the Machine Spirit of the motion detector to stand eternal sentinel for the Omnissiah.\nAffirm the consecration through activation tests, binding the motion detector in holy purpose.",
+    "component": "motion detector",
+    "operation": "consecration",
+    "spec_id": "b0289_i09"
+  }
+]

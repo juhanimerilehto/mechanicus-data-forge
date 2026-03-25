@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Prepare the vox-caster for cycling",
+    "prayer": "Approach the vox-caster with reverence, beseeching the Omnissiah to stir its dormant Machine Spirit.\nAnoint the emitter arrays of the vox-caster with sacred oils, invoking the Litany of Transmission.\nInitiate the cycling rites upon its frequency modulators, chanting the Canticle of Harmonic Flux.\nVerify the vox-caster's awakened essence through diagnostic auspex, sanctifying its readiness for cycling.\nPraise the Machine Spirit's compliance in the name of the Omnissiah.",
+    "component": "vox-caster",
+    "operation": "cycling",
+    "spec_id": "s00330"
+  },
+  {
+    "user_prompt": "Urgent grav plating a targeting needed",
+    "prayer": "Kneel before the grav plating, intoning the Prayer of Gravitic Stability to rouse its ancient Machine Spirit.\nPurify the targeting servos of the grav plating with incense of sanctified circuits.\nAlign the targeting matrices through ritual calibration, beseeching Omnissianic precision.\nInvoke the Rite of Targeting Lock upon the grav plating's emitters, ensuring flawless vector control.\nConclude with auspex verification, glorifying the Machine Spirit's unerring guidance.",
+    "component": "grav plating",
+    "operation": "targeting",
+    "spec_id": "s00331"
+  },
+  {
+    "user_prompt": "My servo-harness is ready for operation",
+    "prayer": "Present the servo-harness to the altar of gears, awakening its manifold Machine Spirits with the Doxology of Mechadendrites.\nAnoint each manipulator arm of the servo-harness with blessed lubricants, chanting preparatory litanies.\nCommence the operation sequence upon the servo-harness, invoking the Omnissiah's operational benediction.\nTest each servo of the servo-harness through ritual exertion, beseeching flawless mechanical communion.\nSeal the rite with the Canticle of Readiness, honoring the Machine Spirits' vigilance.",
+    "component": "servo-harness",
+    "operation": "operation",
+    "spec_id": "s00332"
+  },
+  {
+    "user_prompt": "Prepare the plasma caliver for purification",
+    "prayer": "Approach the plasma caliver in solemn procession, imploring the Omnissiah to purify its plasma conduits.\nScour the plasma caliver's containment fields with sacred abrasives, expelling daemonic corruptions.\nChant the Purification Doxology over the plasma caliver, anointing its vents with holy promethium.\nCycle the plasma caliver's core through ablative rites, beseeching the Machine Spirit's renewal.\nAffirm purity via thermographic auspex, lauding the Omnissiah's cleansing fire.",
+    "component": "plasma caliver",
+    "operation": "purification",
+    "spec_id": "s00333"
+  },
+  {
+    "user_prompt": "The panopticon needs a blessing",
+    "prayer": "Gather before the panopticon, intoning the Litany of Vigilance to summon its watchful Machine Spirit.\nPolish the optic lenses of the panopticon with cloths of sanctified silk, invoking clarity.\nBestow the blessing of targeting acuity upon the panopticon, tracing binaric sigils upon its frame.\nActivate the blessing cycle whilst beseeching the Omnissiah's all-seeing gaze.\nConsecrate with incense, verifying the panopticon's exalted perception.",
+    "component": "panopticon",
+    "operation": "blessing",
+    "spec_id": "s00334"
+  },
+  {
+    "user_prompt": "The memograph implant needs a calibration",
+    "prayer": "Recline in ritual repose for the memograph implant, invoking the Omnissiah to harmonize its neural lattices.\nAdminister noospheric sacraments to the memograph implant, awakening its archival Machine Spirit.\nPerform calibration rites upon the memograph implant's mnemonic coils, chanting alignment canticles.\nFine-tune synaptic interfaces through auspex invocation, ensuring data purity.\nSeal the calibration with a vow of fidelity to the Machine Spirit's boundless knowledge.",
+    "component": "memograph implant",
+    "operation": "calibration",
+    "spec_id": "s00335"
+  },
+  {
+    "user_prompt": "Emergency: lightning claw an engagement",
+    "prayer": "Grip the lightning claw firmly, beseeching the Omnissiah to ignite its disruptive energies.\nAnoint the adamantium talons of the lightning claw with conductive unguents.\nInitiate engagement protocols upon the lightning claw, intoning the Storm Canticle.\nTest rending arcs against sanctified targets, invoking the Machine Spirit's wrathful fury.\nConclude the rite affirming the lightning claw's lethal readiness.",
+    "component": "lightning claw",
+    "operation": "engagement",
+    "spec_id": "s00336"
+  },
+  {
+    "user_prompt": "My volitor implant is ready for purification",
+    "prayer": "Isolate the volitor implant within a field of stasis, imploring Omnissianic purification.\nFlush the volitor implant's gyroscopic nodes with sacred solvents, expelling impurities.\nChant the Rite of Aerial Cleansing over the volitor implant, anointing its vanes.\nCycle purification fluxes through the volitor implant, awakening its Machine Spirit.\nConfirm aerial purity via suspensor tests, praising the Omnissiah's lift.",
+    "component": "volitor implant",
+    "operation": "purification",
+    "spec_id": "s00338"
+  },
+  {
+    "user_prompt": "Help me a calibration the void shield generator",
+    "prayer": "Erect the void shield generator before the shrine of barriers, rousing its protective Machine Spirit.\nCalibrate the phase inductors of the void shield generator with precision canticles.\nInvoke the Calibration Doxology upon the void shield generator, tracing warding runes.\nTest null-field integrity through ritual dissonance, beseeching unbreachable aegis.\nSanctify the void shield generator's vigil in the Omnissiah's eternal name.",
+    "component": "void shield generator",
+    "operation": "calibration",
+    "spec_id": "s00339"
+  }
+]

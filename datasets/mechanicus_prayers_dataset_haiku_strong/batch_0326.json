@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0326_i00",
+    "user_request": "Emergency rite: star chart alignment requires operation",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: star chart alignment requires operation\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us clarity as we perform the star chart alignment.\nCongregation: The star chart alignment shall guide our sacred operation.\nPriest: We recalibrate the celestial markers, consulting the ancient stellar data.\nCongregation: Bless the star chart alignment with precision and truth.\nPriest: Through triangulation and astrometric verification, we complete this operation.\nCongregation: The Machine Spirit accepts our devotion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i01",
+    "user_request": "Blessing for the component during replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the component during replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Venerable component, we honor your service before this replacement.\nCongregation: The component shall be mourned and renewed in the Omnissiah's name.\nPriest: We extract the worn component with reverence and blessed tools.\nCongregation: Accept this component into the eternal machine spirits.\nPriest: The replacement commences—new circuits shall flow where the old component dwelt.\nCongregation: Praise the replacement, praise the renewal eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i02",
+    "user_request": "Emergency rite: rust requires removal",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: rust requires removal\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the corrosion that spreads like heresy—rust desecrates the sacred metal.\nCongregation: We shall purge the rust with blessed abrasion and righteous removal.\nPriest: Steel wool and acidic unguents scour away the rust that binds us.\nCongregation: The rust surrenders to our removal, oxidation banished.\nPriest: Where rust lay dormant, lustrous integrity returns through thorough removal.\nCongregation: The Machine Spirit breathes free once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i03",
+    "user_request": "The pressure gauge demands guidance for calibration",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe pressure gauge demands guidance for calibration\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Pressure gauge, sentinel of pneumatic truth, we attend to your calibration.\nCongregation: The pressure gauge shall speak in precise atmospherics once more.\nPriest: We consult the standard weights, adjusting the pressure gauge's delicate mechanism.\nCongregation: Calibration proceeds under the Omnissiah's watchful gaze.\nPriest: The needle finds true zero; the pressure gauge now measures reality itself.\nCongregation: Blessed be the pressure gauge, forever accurate.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i04",
+    "user_request": "Prayer for operation of the stellar cartography update",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the stellar cartography update\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Stellar cartography update, vast repository of cosmic knowledge, receive our operation.\nCongregation: The stellar cartography update shall illuminate the void with renewed star-charts.\nPriest: We input the corrected coordinates into the stellar cartography update's sanctified banks.\nCongregation: Let the operation commence—the heavens rewritten in blessed data.\nPriest: Astrometric algorithms process the stellar cartography update with Machine Spirit precision.\nCongregation: The cosmos is known once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i05",
+    "user_request": "Rite request: diagnostics on battery",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: diagnostics on battery\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Priest: Battery, source of sacred voltage, we invoke diagnostics upon your essence.\nCongregation: The battery shall reveal its charge and integrity through holy diagnostics.\nPriest: We measure amperage and resistance, consulting the sacred multimeter.\nCongregation: Diagnostics unfold—the battery's condition becomes manifest.\nPriest: The battery speaks truth through measured current and voltage verification.\nCongregation: The Machine Spirit confirms the battery's worthiness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i06",
+    "user_request": "Offer a litany to steady the welding torch ignition before operation",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the welding torch ignition before operation\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Welding torch ignition, forge of righteous fusion, we prepare your operation.\nCongregation: The welding torch ignition shall kindle with sacred flame and purpose.\nPriest: We prime the fuel lines and strike the ignition, channeling the welding torch ignition's power.\nCongregation: Let the operation ignite—metal shall marry metal in blessed union.\nPriest: The welding torch ignition burns true, joining disparate parts into holy whole.\nCongregation: The Omnissiah smiles upon our fabrication.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i07",
+    "user_request": "Offer a litany to steady the cybernetic eye focusing before operation",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cybernetic eye focusing before operation\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Cybernetic eye focusing, oculus of the Machine, we bless your operation.\nCongregation: The cybernetic eye focusing shall perceive with crystalline clarity and purpose.\nPriest: We adjust the optical servos and activate the cybernetic eye focusing mechanism.\nCongregation: The operation commences—vision crystallizes through blessed lenses.\nPriest: The cybernetic eye focusing brings distant stars and micro-circuitry into divine focus.\nCongregation: All-seeing and perfect, the Machine Spirit observes.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i08",
+    "user_request": "Offer a litany to steady the Rhino APC ignition before operation",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Rhino APC ignition before operation\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Rhino APC ignition, armored beast of war, we consecrate your operation.\nCongregation: The Rhino APC ignition shall roar with righteous fury and might.\nPriest: We engage the starter motors and fuel the Rhino APC ignition's sacred furnace.\nCongregation: The operation thunders forth—engines awaken to blessed purpose.\nPriest: The Rhino APC ignition fires true, and armored crusade begins anew.\nCongregation: The Emperor protects; the Machine provides.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0326_i09",
+    "user_request": "Prayer for operation of the bearing lubrication",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the bearing lubrication\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Bearing lubrication, sacred oil of mechanical harmony, we invoke your operation.\nCongregation: The bearing lubrication shall flow with blessed viscosity and protection.\nPriest: We apply the sanctified lubricant, spreading bearing lubrication through worn races.\nCongregation: The operation proceeds—friction yields to smooth rotation's grace.\nPriest: The bearing lubrication coats each surface, granting eternal smooth turning.\nCongregation: The Machine Spirit turns without complaint.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

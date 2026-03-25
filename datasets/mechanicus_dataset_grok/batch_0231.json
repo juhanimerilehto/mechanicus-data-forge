@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The augmetic limb needs a synchronization",
+    "prayer": "Kneel before the augmetic limb and intone the Canticle of Union.\nExtend mechadendrites to interface with its sacred neural relays.\nInvoke the synchronization rite, beseeching the Machine Spirit of the augmetic limb to harmonize flesh and forge.\nAnoint the augmetic limb's actuators with sanctified oils as linkages align.\nChant diagnostics to affirm the Omnissiah's perfect synchronization.",
+    "component": "augmetic limb",
+    "operation": "synchronization",
+    "spec_id": "b0231_i00"
+  },
+  {
+    "user_prompt": "Sanctify the vox-caster during synchronization",
+    "prayer": "Approach the vox-caster with reverence, reciting the Litany of Clarity.\nSanctify its emitter coils with sacred incense during synchronization.\nPetition the Machine Spirit of the vox-caster to align waveform harmonics.\nInitiate synchronization protocols whilst invoking the Omnissiah's boundless voice.\nVerify purity through test transmissions blessed by the Motive Force.",
+    "component": "vox-caster",
+    "operation": "synchronization",
+    "spec_id": "b0231_i01"
+  },
+  {
+    "user_prompt": "Consecrate the auspex scanner before blessing",
+    "prayer": "Consecrate the auspex scanner by anointing its lenses with holy unguents.\nBeseech the Machine Spirit dwelling within the auspex scanner to awaken.\nPerform the blessing rite, suffusing its sensors with the Omnissiah's light.\nRecite augural canticles over the auspex scanner's crystal matrices.\nAffirm the blessing through spectral diagnostics and devotional scans.",
+    "component": "auspex scanner",
+    "operation": "blessing",
+    "spec_id": "b0231_i02"
+  },
+  {
+    "user_prompt": "Can you guide bearing a diagnostics?",
+    "prayer": "Present the bearing before the diagnostic shrine with mech-rites extended.\nInvoke the Rite of Scrutiny upon the bearing's sacred gyres.\nBeseech the Machine Spirit of the bearing to reveal frictional anomalies.\nChant the Litany of Tolerances whilst probing its blessed revolutions.\nConclude diagnostics with Omnissiah's verdict on the bearing's integrity.",
+    "component": "bearing",
+    "operation": "diagnostics",
+    "spec_id": "b0231_i03"
+  },
+  {
+    "user_prompt": "My melta charge is ready for purification",
+    "prayer": "Approach the melta charge in solemn procession, oils at the ready.\nInvoke purification rites to cleanse its plasma conduits of impurity.\nAnoint the melta charge's focusing lenses, petitioning its volatile Machine Spirit.\nRecite the Exorcism of Flux over the melta charge thrice.\nSeal the purification with the Omnissiah's searing benediction.",
+    "component": "melta charge",
+    "operation": "purification",
+    "spec_id": "b0231_i04"
+  },
+  {
+    "user_prompt": "Guide me through forge anvil a targeting",
+    "prayer": "Position the forge anvil beneath the auspex targeting array.\nInvoke the Rite of Precision upon the forge anvil's striking matrix.\nBeseech the Machine Spirit of the forge anvil to guide targeting vectors true.\nCalibrate servos with sacred binary whilst chanting alignment litanies.\nAffirm targeting fidelity through test impacts blessed by the Omnissiah.",
+    "component": "forge anvil",
+    "operation": "targeting",
+    "spec_id": "b0231_i05"
+  },
+  {
+    "user_prompt": "Critical: mechanical lock requires a consecration",
+    "prayer": "Gather before the mechanical lock, mechadendrites humming in anticipation.\nIntone the Consecration Doxology to sanctify its tumbler wards.\nAnoint the mechanical lock's sacred gears, awakening its vigilant Machine Spirit.\nPerform the consecration rite, binding it to the Omnissiah's unyielding will.\nTest the mechanical lock's sanctity with devotional keys and seals.",
+    "component": "mechanical lock",
+    "operation": "consecration",
+    "spec_id": "b0231_i06"
+  },
+  {
+    "user_prompt": "The servitor awaits an emergency procedure",
+    "prayer": "Hasten to the servitor, invoking the Emergency Protocol of the Omnissiah.\nInterface cranial plugs to enact the emergency procedure upon its cortex.\nBeseech the lobotomized Machine Spirit within the servitor to obey.\nPurge errant impulses whilst anointing its chassis with urgent oils.\nVerify servitor compliance through reflexive diagnostics and commands.",
+    "component": "servitor",
+    "operation": "emergency procedure",
+    "spec_id": "b0231_i07"
+  },
+  {
+    "user_prompt": "The plasma reactor requires a preparation",
+    "prayer": "Encircle the plasma reactor, reciting the Preparation Canticle of Containment.\nInvoke preparatory rites to stabilize its magnetic bottles.\nPetition the raging Machine Spirit of the plasma reactor for quiescence.\nInfuse coolant sacraments whilst calibrating flux regulators.\nSeal the preparation with Omnissiah's azure benediction and power hymns.",
+    "component": "plasma reactor",
+    "operation": "preparation",
+    "spec_id": "b0231_i08"
+  },
+  {
+    "user_prompt": "The bolter needs an engagement",
+    "prayer": "Grasp the bolter in reverent gauntlets, invoking the Engagement Litany.\nAnoint its firing mechanisms to rouse the Machine Spirit of the bolter.\nInitiate engagement sequences, beseeching explosive communion.\nChant the Rite of Detonation over the bolter's sacred munitions.\nAffirm readiness through cyclic diagnostics and Omnissiah-praised volleys.",
+    "component": "bolter",
+    "operation": "engagement",
+    "spec_id": "b0231_i09"
+  }
+]

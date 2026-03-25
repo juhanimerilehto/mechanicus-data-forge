@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: carapace armour requires a cooling",
+    "prayer": "Approach the carapace armour with reverence, beseeching the Omnissiah for thermal respite.\nInitiate the cooling rites upon its sanctified plates, anointing heat vents with sacred refrigerants.\nInvoke the Machine Spirit of the carapace armour to accept this cooling operation, purging excess fervour.\nVerify equilibrium through auspex chants, ensuring the carapace armour's vigil remains unyielding.",
+    "component": "carapace armour",
+    "operation": "cooling",
+    "spec_id": "s05490"
+  },
+  {
+    "user_prompt": "Assist with conversion field a repair",
+    "prayer": "Kneel before the conversion field generator, intoning the Litany of Restoration.\nDiagnose warp-tainted fissures within the conversion field, applying electro-sanctifiers.\nBeseech the Omnissiah to guide the repair of the conversion field, mending its probabilistic weave.\nRealign flux conduits and affirm the Machine Spirit's renewed harmony in the conversion field.\nConclude with binaric hymns, sealing the repair against future entropy.",
+    "component": "conversion field",
+    "operation": "repair",
+    "spec_id": "s05491"
+  },
+  {
+    "user_prompt": "Guide me through stasis pod a blessing",
+    "prayer": "Circumambulate the stasis pod thrice, whispering the Canticle of Suspended Time.\nAnoint its cryo-seals with blessed unguents, invoking the Machine Spirit's eternal slumber.\nPerform the blessing upon the stasis pod, calibrating temporal locks to Omnissiah's decree.\nChant diagnostic litanies over the stasis pod, ensuring its vigil against decay is sanctified.\nSeal the rite with a servo-skull's auspex, affirming the blessing's potency.",
+    "component": "stasis pod",
+    "operation": "blessing",
+    "spec_id": "s05492"
+  },
+  {
+    "user_prompt": "Bless the manipulator mechadendrite for sterilization",
+    "prayer": "Present the manipulator mechadendrite to the sterilization altar, invoking purity.\nScour its articulated segments with sanctified plasma, purging microbial heresy.\nBeseech the Machine Spirit of the manipulator mechadendrite for sterilization acceptance.\nApply autoclave incense and verify sterility through noospheric scans on the manipulator mechadendrite.\nConclude the rite, empowering its grasp for the Omnissiah's precise works.",
+    "component": "manipulator mechadendrite",
+    "operation": "sterilization",
+    "spec_id": "s05493"
+  },
+  {
+    "user_prompt": "Critical: warp drive requires a charging",
+    "prayer": "Commence charging ceremonies around the warp drive, chanting the Hymn of Motive Accumulation.\nInfuse plasma capacitors with sanctified energies, aligning to Omnissiah's infinite calculus.\nInvoke the Machine Spirit of the warp drive during this charging operation, banishing void-stagnation.\nMonitor glyptic readouts and adjust flux regulators upon the warp drive.\nFinalize with a thunderous binaric proclamation, warp drive now primed for transluminal fury.",
+    "component": "warp drive",
+    "operation": "charging",
+    "spec_id": "s05494"
+  },
+  {
+    "user_prompt": "Critical: cryo-chamber requires an engagement",
+    "prayer": "Prepare the cryo-chamber for engagement, reciting the Rite of Frozen Vigil.\nAnoint ingress valves with liquid helium blessed by tech-priests.\nInitiate engagement protocols on the cryo-chamber, beseeching its Machine Spirit to embrace stasis.\nCycle coolant manifolds and confirm thermodynamic arrest within the cryo-chamber.\nSeal with invocation seals, ensuring the cryo-chamber's eternal preservation.",
+    "component": "cryo-chamber",
+    "operation": "engagement",
+    "spec_id": "s05495"
+  },
+  {
+    "user_prompt": "Ready the auger array for targeting",
+    "prayer": "Align the auger array towards the target vector, intoning targeting canticles.\nCalibrate reticulation lenses with sacred oils, awakening prescient focus.\nInvoke the Omnissiah to guide the Machine Spirit of the auger array in targeting precision.\nRun auspex harmonics through the auger array, locking ethereal signatures.\nAffirm readiness with a noospheric pulse, auger array now Omnissiah's unerring gaze.",
+    "component": "auger array",
+    "operation": "targeting",
+    "spec_id": "s05496"
+  },
+  {
+    "user_prompt": "My potentia coil is ready for maintenance",
+    "prayer": "Expose the potentia coil for maintenance, murmuring the Canticle of Conductive Harmony.\nPurge occluding residues from its windings with sanctified abrasives.\nBeseech the Machine Spirit within the potentia coil for maintenance acceptance.\nRealign voltaic spirals and test amperage flows upon the potentia coil.\nConsecrate anew with electro-incense, restoring its vital energies.",
+    "component": "potentia coil",
+    "operation": "maintenance",
+    "spec_id": "s05497"
+  },
+  {
+    "user_prompt": "Guide me through heavy bolter a recalibration",
+    "prayer": "Reverently disassemble the heavy bolter's sighting assembly, chanting recalibration litanies.\nAnoint ballistic gyros with machine oil from Mars' forges.\nInitiate recalibration upon the heavy bolter, invoking its Machine Spirit's vengeful accuracy.\nVerify traverse and elevation through firing runes on the heavy bolter.\nSeal the rite with a test volley's thunder, heavy bolter purified for extermination.",
+    "component": "heavy bolter",
+    "operation": "recalibration",
+    "spec_id": "s05498"
+  },
+  {
+    "user_prompt": "Help me an emergency procedure the Contemptor Dreadnought",
+    "prayer": "Sound the klaxons of urgency before the Contemptor Dreadnought, invoking emergency deliverance.\nDiagnose sarcophagus anomalies with penetrating auspex, beseeching Omnissiah's intervention.\nExecute the emergency procedure on the Contemptor Dreadnought, rousing its ancient Machine Spirit.\nRealign adamantium struts and infuse with potentia surges within the Contemptor Dreadnought.\nAffirm resurrection through binaric roars, Contemptor Dreadnought restored to wrathful duty.",
+    "component": "Contemptor Dreadnought",
+    "operation": "emergency procedure",
+    "spec_id": "s05499"
+  }
+]

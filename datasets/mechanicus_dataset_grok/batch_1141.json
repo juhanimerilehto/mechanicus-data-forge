@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the Razorback before reset",
+    "prayer": "Approach the Razorback with reverence, invoking the Omnissiah's unerring light.\nConsecrate the Razorback's sacred chassis with blessed oils prior to reset.\nBeseech the Machine Spirit within the Razorback to embrace the reset rite.\nInitiate the reset protocols whilst intoning the Litany of Renewal.\nVerify the Razorback's restored harmony through diagnostic canticles.",
+    "component": "Razorback",
+    "operation": "reset",
+    "spec_id": "s07410"
+  },
+  {
+    "user_prompt": "The Shadowsword requires a diagnostics",
+    "prayer": "Draw nigh unto the Shadowsword, saluting its shadowed glory under the Omnissiah.\nInvoke the Machine Spirits of the Shadowsword to awaken for diagnostics.\nCommence diagnostics upon the Shadowsword with precision auspex sweeps.\nAnoint vulnerable circuits as revelations unfold in binary hymnody.\nSanctify the Shadowsword's findings with the Seal of Cogitation Pure.",
+    "component": "Shadowsword",
+    "operation": "diagnostics",
+    "spec_id": "s07411"
+  },
+  {
+    "user_prompt": "Critical: cryo-chamber requires an operation",
+    "prayer": "Hasten to the cryo-chamber, intoning the Canticle of Suspended Vitality.\nPrepare the cryo-chamber for operation by beseeching its cryogenic Machine Spirit.\nInitiate the operation sequence upon the cryo-chamber with sacred cryo-lubricants.\nMonitor vital flows as the Omnissiah guides the cryo-chamber's inner mysteries.\nConclude with rites affirming the cryo-chamber's flawless stasis.",
+    "component": "cryo-chamber",
+    "operation": "operation",
+    "spec_id": "s07412"
+  },
+  {
+    "user_prompt": "The bolter requires a maintenance",
+    "prayer": "Present thyself before the bolter, honoring its adamantium wrath.\nPerform maintenance upon the bolter by cleansing its firing mechanisms with unguents.\nInvoke the Machine Spirit of the bolter to accept this maintenance ritual.\nRealign the bolter's sacred gyros whilst chanting the Boltman's Benediction.\nTest-fire a sanctified round to affirm the bolter's lethal purity.",
+    "component": "bolter",
+    "operation": "maintenance",
+    "spec_id": "s07413"
+  },
+  {
+    "user_prompt": "Sanctify the transit mag-rail during maintenance",
+    "prayer": "Approach the transit mag-rail in humble supplication to the Motive Force.\nSanctify the transit mag-rail during maintenance with electro-consecrated oils.\nExorcise flux impurities from the transit mag-rail's coils and rails.\nReinvigorate the Machine Spirit through maintenance incantations of acceleration.\nBless the transit mag-rail's path with the Omnissiah's inexorable momentum.",
+    "component": "transit mag-rail",
+    "operation": "maintenance",
+    "spec_id": "s07414"
+  },
+  {
+    "user_prompt": "Urgent surgical servitor an initialization needed",
+    "prayer": "Converge upon the surgical servitor, whispering the Oath of Flesh-Machine Union.\nAwaken the surgical servitor's Machine Spirit for initialization.\nCommence initialization of the surgical servitor with neural incense.\nCalibrate its blades and injectors under the Omnissiah's surgical gaze.\nSeal the surgical servitor's readiness with a vow of precise incision.",
+    "component": "surgical servitor",
+    "operation": "initialization",
+    "spec_id": "s07415"
+  },
+  {
+    "user_prompt": "Prepare the codifier for reset",
+    "prayer": "Kneel before the codifier, offering the Binary Prayer of Decryption.\nPrepare the codifier for reset by anointing its data-vaults.\nBeseech the codifier's Machine Spirit to yield to the reset sacrament.\nExecute the reset upon the codifier with chanted checksums.\nAffirm the codifier's reborn clarity through noospheric communion.",
+    "component": "codifier",
+    "operation": "reset",
+    "spec_id": "s07416"
+  },
+  {
+    "user_prompt": "Ready the Archaeopter Fusilave for consecration",
+    "prayer": "Assemble at the Archaeopter Fusilave, invoking the Wings of the Omnissiah.\nReady the Archaeopter Fusilave for consecration with aerial benedictions.\nAnoint its fusillade bays and pinions for the rite.\nInvoke the Machine Spirits of the Archaeopter Fusilave in harmonious flight.\nConsecrate fully as thunderous glory manifests in its frame.",
+    "component": "Archaeopter Fusilave",
+    "operation": "consecration",
+    "spec_id": "s07417"
+  },
+  {
+    "user_prompt": "Critical: maglock requires a diagnostics",
+    "prayer": "Hasten to the maglock, reciting the Canticle of Unyielding Grasp.\nInitiate diagnostics upon the maglock to probe its magnetic sanctity.\nBeseech the maglock's Machine Spirit for truthful revelations.\nPurify any flux anomalies during diagnostics with sanctified current.\nSeal the maglock's diagnostics with the Omnissiah's binding vow.",
+    "component": "maglock",
+    "operation": "diagnostics",
+    "spec_id": "s07418"
+  },
+  {
+    "user_prompt": "Bless the orbital strike relay for synchronization",
+    "prayer": "Prostrate before the orbital strike relay, hailing the Void's Fury.\nBless the orbital strike relay for synchronization with stellar incense.\nAlign its transponders whilst invoking the Machine Spirits aloft.\nCommence synchronization of the orbital strike relay in cataclysmic harmony.\nAffirm the relay's lethal attunement through apocalyptic auspex.",
+    "component": "orbital strike relay",
+    "operation": "synchronization",
+    "spec_id": "s07419"
+  }
+]

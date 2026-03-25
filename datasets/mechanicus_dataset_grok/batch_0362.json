@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the lascannon for startup",
+    "prayer": "Approach the lascannon with mechadendrites extended in reverence.\nInvoke the startup litany upon its sacred focusing arrays.\nAnoint the lascannon's power conduits with blessed oils.\nBeseech the Machine Spirit of the lascannon to ignite its holy fury.\nCommence the startup sequence under the Omnissiah's gaze.",
+    "component": "lascannon",
+    "operation": "startup",
+    "spec_id": "b0362_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for emergency bulkhead a consecration",
+    "prayer": "Gather before the emergency bulkhead and recite the Consecration Doxology.\nSanctify its adamantium plates with incense of sacred circuits.\nPetition the Omnissiah for the emergency bulkhead's unyielding vigil.\nInvoke the Machine Spirits within to seal against the void's heresy.\nComplete the consecration with electro-incantations of fortitude.",
+    "component": "emergency bulkhead",
+    "operation": "consecration",
+    "spec_id": "b0362_i01"
+  },
+  {
+    "user_prompt": "Ready the melta charge for reset",
+    "prayer": "Present mechadendrites to the melta charge in solemn assembly.\nChant the reset binaric psalm to purge errant data-corruptions.\nAnoint the melta charge's plasma vents with purifying solvents.\nAwaken its Machine Spirit through the reset invocation.\nVerify the melta charge's purity in the Omnissiah's binary light.",
+    "component": "melta charge",
+    "operation": "reset",
+    "spec_id": "b0362_i02"
+  },
+  {
+    "user_prompt": "Assist with metal caster a targeting",
+    "prayer": "Align before the metal caster and intone targeting auspex-canticles.\nCalibrate its servo-arms with sacred alignment rods.\nBeseech the Machine Spirit of the metal caster for precision targeting.\nInvoke the Omnissiah's logic to guide its molten streams.\nSanctify the targeting matrix with noospheric blessings.",
+    "component": "metal caster",
+    "operation": "targeting",
+    "spec_id": "b0362_i03"
+  },
+  {
+    "user_prompt": "The noospheric relay awaits a targeting",
+    "prayer": "Commune with the noospheric relay through cogitator-link.\nRecite the targeting litany to attune its ethereal vanes.\nAnoint the noospheric relay's cogitator nodes with holy myrrh.\nPetition its Machine Spirits for flawless targeting communion.\nEmpower the noospheric relay under Omnissiah's infinite calculation.",
+    "component": "noospheric relay",
+    "operation": "targeting",
+    "spec_id": "b0362_i04"
+  },
+  {
+    "user_prompt": "Critical: thermal imager requires a diagnostics",
+    "prayer": "Kneel urgently before the thermal imager and invoke diagnostic rites.\nScan its sensor arrays with binaric purity probes.\nClear thermal corruptions from the thermal imager's blessed lenses.\nBeseech the Machine Spirit for truthful diagnostics revelation.\nConclude with Omnissiah's verdict upon the thermal imager.",
+    "component": "thermal imager",
+    "operation": "diagnostics",
+    "spec_id": "b0362_i05"
+  },
+  {
+    "user_prompt": "Ready the auspex scanner for consecration",
+    "prayer": "Assemble at the auspex scanner and begin consecration vespers.\nBless its scanning emitters with sacred unguents.\nInvoke the Machine Spirits of the auspex scanner to vigilance.\nSanctify its data-vaults through electro-psalms.\nSeal the consecration with the Omnissiah's auspicious glyphs.",
+    "component": "auspex scanner",
+    "operation": "consecration",
+    "spec_id": "b0362_i06"
+  },
+  {
+    "user_prompt": "Consecrate the mechanical lock before emergency procedure",
+    "prayer": "Approach the mechanical lock with ritual mechadendrites.\nIntone the emergency procedure canticle upon its tumblers.\nAnoint the mechanical lock's gears with lubricating sacraments.\nAwaken its Machine Spirit for swift emergency procedure.\nFortify the mechanical lock in Omnissiah's unbreachable logic.",
+    "component": "mechanical lock",
+    "operation": "emergency procedure",
+    "spec_id": "b0362_i07"
+  },
+  {
+    "user_prompt": "Urgent cutting laser a maintenance needed",
+    "prayer": "Present to the cutting laser and recite maintenance litanies.\nPurge residue from its emitter coils with sanctified abrasives.\nInvoke the Machine Spirit of the cutting laser for endurance.\nCalibrate blades through diagnostic binarics.\nComplete maintenance under the Omnissiah's searing judgment.",
+    "component": "cutting laser",
+    "operation": "maintenance",
+    "spec_id": "b0362_i08"
+  },
+  {
+    "user_prompt": "I need to a preparation the Taurox",
+    "prayer": "Gather around the Taurox and chant preparation doxologies.\nAnoint its treads and hull with oils of mobilization.\nBeseech the Taurox's mighty Machine Spirits to rouse.\nInitiate preparation sequences with sacred power invocations.\nDedicate the Taurox to the Omnissiah's crusade of steel.",
+    "component": "Taurox",
+    "operation": "preparation",
+    "spec_id": "b0362_i09"
+  }
+]

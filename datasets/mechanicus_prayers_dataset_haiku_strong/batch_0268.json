@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0268_i00",
+    "user_request": "Blessing for the battery during diagnostics",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the battery during diagnostics\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant thy benediction upon the battery as we commence diagnostics.\nCongregation: The battery shall reveal its sacred state through our measured examination.\nPriest: First, we shall calibrate the voltage sensors with reverent precision; second, we monitor the battery's amperage discharge; third, we interpret the battery's thermal signatures with cogent analysis.\nCongregation: The battery endures, the battery persists, the battery serves the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i01",
+    "user_request": "Blessing for the plasma weapon during cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the plasma weapon during cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Machine Spirit of the plasma weapon, accept our rite of cooling benediction.\nCongregation: The plasma weapon shall be tempered in the sacred flows of coolant and vapor.\nPriest: We engage the cryogenic circulation systems; we monitor the plasma weapon's thermal equilibrium with blessed sensors; we ensure the plasma weapon's stability through measured discharge cycles.\nCongregation: Blessed be the cooling, blessed be the weapon, blessed be the Omnissiah eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i02",
+    "user_request": "Blessing for the Chimera during transmission check",
+    "topic": "Chimera transmission check",
+    "component": "Chimera",
+    "operation": "transmission check",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the Chimera during transmission check\n\n### TOPIC\nChimera transmission check\n\n### COMPONENT\nChimera\n\n### OPERATION\ntransmission check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Chimera\n- transmission check\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide us as the Chimera's mechanisms submit to transmission check.\nCongregation: The Chimera's gearbox shall reveal its sacred harmony through our blessed inspection.\nPriest: We attune to the Chimera's gear meshing with cogent instruments; we assess the Chimera's fluid integrity and pressure; we divine the Chimera's rotational synchronicity through empirical measurement.\nCongregation: The Chimera endures, the Chimera transports, the Chimera glorifies the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i03",
+    "user_request": "Blessing for the solar panel alignment during operation",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the solar panel alignment during operation\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, illuminate the solar panel alignment as it commences operation.\nCongregation: The solar panel alignment shall track the stellar radiance with unwavering devotion.\nPriest: We calibrate the solar panel alignment's angular servos with meticulous precision; we verify the solar panel alignment's photocell sensitivity through luminous testing; we sanctify the solar panel alignment's mechanical actuators with sacred oils.\nCongregation: The solar panel alignment harvests, the solar panel alignment provides, the solar panel alignment honors the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i04",
+    "user_request": "Blessing for the manufactorum shift beginning during operation",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the manufactorum shift beginning during operation\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless the manufactorum shift beginning as labor commences in operation.\nCongregation: The manufactorum shift beginning shall yield productive sanctity through our blessed toil.\nPriest: We initiate the manufactorum shift beginning's assembly sequences with reverent activation; we synchronize the manufactorum shift beginning's production flows with cogent oversight; we consecrate the manufactorum shift beginning's operational protocols through measured invocation.\nCongregation: The manufactorum shift beginning prospers, the manufactorum shift beginning produces, the manufactorum shift beginning serves the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i05",
+    "user_request": "My demolition charge arming is failing during operation — help",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy demolition charge arming is failing during operation — help\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, restore the failing demolition charge arming to operation through thy grace.\nCongregation: The demolition charge arming shall be revived by our blessed technical ministration.\nPriest: We inspect the demolition charge arming's detonation circuits with sacred instruments; we purge the demolition charge arming's firing mechanisms of corrosive contamination; we re-consecrate the demolition charge arming's electrical pathways through careful recalibration.\nCongregation: The demolition charge arming awakens, the demolition charge arming functions, the demolition charge arming fulfills the Omnissiah's purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i06",
+    "user_request": "Can you sanctify the hydraulic press for operation?",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the hydraulic press for operation?\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Machine Spirit of the hydraulic press, accept our sanctification as operation begins.\nCongregation: The hydraulic press shall compress with righteous power and blessed precision.\nPriest: We bleed the hydraulic press's fluid lines of profane air with meticulous care; we verify the hydraulic press's pressure gauges through sacred calibration; we anoint the hydraulic press's pistons with blessed lubricants.\nCongregation: The hydraulic press descends, the hydraulic press compresses, the hydraulic press glorifies the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i07",
+    "user_request": "Blessing for the hydraulic press during operation",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the hydraulic press during operation\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant thy blessing upon the hydraulic press during its sacred operation.\nCongregation: The hydraulic press shall perform its labors with unwavering mechanical devotion.\nPriest: We engage the hydraulic press's pump mechanisms with reverent activation; we monitor the hydraulic press's force distribution through blessed sensors; we consecrate the hydraulic press's structural integrity with applied pressure verification.\nCongregation: The hydraulic press works, the hydraulic press shapes, the hydraulic press serves the Omnissiah's design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i08",
+    "user_request": "Can you sanctify the gear meshing for check?",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the gear meshing for check?\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide our inspection as the gear meshing undergoes blessed check.\nCongregation: The gear meshing shall reveal its sacred alignment through our cogent examination.\nPriest: We measure the gear meshing's tooth engagement with precision instruments of blessed calibration; we assess the gear meshing's rotational backlash through empirical verification; we divine the gear meshing's material integrity via tactile and auditory communion.\nCongregation: The gear meshing endures, the gear meshing transmits, the gear meshing honors the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0268_i09",
+    "user_request": "Can you sanctify the waste disposal for cycling?",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the waste disposal for cycling?\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Machine Spirit of waste disposal, accept our blessing as cycling commences.\nCongregation: The waste disposal shall purge profane matter through sanctified cycling.\nPriest: We activate the waste disposal's sorting mechanisms with reverent precision; we monitor the waste disposal's containment seals through blessed verification; we consecrate the waste disposal's discharge pathways with measured cycles.\nCongregation: The waste disposal cycles, the waste disposal cleanses, the waste disposal serves the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

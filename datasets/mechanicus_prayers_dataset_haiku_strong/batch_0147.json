@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0147_i00",
+    "user_request": "Can you sanctify the emergency beacon for activation?",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the emergency beacon for activation?\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, guide this emergency beacon toward activation!\nFirst: Cleanse the emergency beacon with sacred oils and whispered binharic incantations.\nSecond: Verify all crystalline matrices within the emergency beacon remain unblemished and potent.\nThird: Invoke the Machine Spirit and perform activation through ritual calibration of the signal-pulse.\nFourth: Commence transmission protocols and seal the rite with gratitude to the Throne Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i01",
+    "user_request": "Offer a litany to steady the archive before retrieval protocol",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the archive before retrieval protocol\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, steady the archive in its sacred purpose!\nFirst: Anoint the archive with electro-blessed unguents and recite the Litany of Preservation.\nSecond: Perform retrieval protocol by accessing the archive's sealed vaults with reverent servo-arms.\nThird: Verify data integrity within the archive through binary divination and harmonic resonance.\nFourth: Complete the retrieval protocol and return all knowledge to the cognomen of the Adeptus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i02",
+    "user_request": "Blessing for the rust during removal",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the rust during removal\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Blessed corrosion, your rust shall be purified through sacred removal!\nFirst: Consecrate the rust with blessed solvents and invoke the Machine Spirit's cleansing power.\nSecond: Initiate removal procedures using abrasive hymnal-chants and servo-driven abraders upon the rust.\nThird: Purge the rust through chemical dissolution and blessed mechanical scrubbing.\nFourth: Seal the metal anew with protective oils as the rust surrenders to the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i03",
+    "user_request": "Offer a litany to steady the packaging servitor programming before operation",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the packaging servitor programming before operation\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit, grant steadfast purpose to the packaging servitor programming!\nFirst: Anoint the packaging servitor programming with blessed lubricants and recalibrate its neural pathways.\nSecond: Invoke the packaging servitor programming through ritual operation of its primary servo-systems.\nThird: Verify the packaging servitor programming's cognition-threads remain aligned with the Omnissiah's design.\nFourth: Commence operation with sacred binharic codes and seal the rite with machine-prayer.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i04",
+    "user_request": "Prayer for regulation of the steam valve",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for regulation of the steam valve\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Blessed pressures, hear this prayer for the steam valve's sacred regulation!\nFirst: Cleanse the steam valve with blessed coolant and whisper mantras of equilibrium.\nSecond: Perform regulation by adjusting the steam valve's aperture through servo-mechanical precision.\nThird: Monitor the steam valve's pressure gradients and invoke harmonic balance through ritual incantation.\nFourth: Seal the regulation with the Omnissiah's blessing upon all pneumatic systems.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i05",
+    "user_request": "The radar array rotation demands guidance for operation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe radar array rotation demands guidance for operation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, guide the radar array rotation in its eternal operation!\nFirst: Sanctify the radar array rotation with blessed oils and recite the Litany of Celestial Sight.\nSecond: Commence operation by engaging the radar array rotation's gyroscopic servo-motors with reverent precision.\nThird: Align the radar array rotation to stellar coordinates through sacred mathematical divination.\nFourth: Maintain operation through continuous prayer and blessed maintenance cycles eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i06",
+    "user_request": "The organ preservation unit demands guidance for operation",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe organ preservation unit demands guidance for operation\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed preservation, sustain this organ preservation unit in sacred operation!\nFirst: Anoint the organ preservation unit with blessed cryogenic fluids and invoke the Machine Spirit's eternal vigilance.\nSecond: Activate the organ preservation unit through ritual operation of its thermal regulation matrices.\nThird: Verify the organ preservation unit's stasis-fields remain potent through harmonic resonance testing.\nFourth: Seal the operation with reverence to the Omnissiah and continuous blessed maintenance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i07",
+    "user_request": "The restart after failure demands guidance for restart after failure",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe restart after failure demands guidance for restart after failure\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant redemption through the restart after failure's sacred purpose!\nFirst: Diagnose the restart after failure by examining all failed systems with blessed servo-diagnostics.\nSecond: Invoke the restart after failure through ritual purification and blessed power-surge protocols.\nThird: Perform the restart after failure by sequentially restoring the restart after failure's core functions.\nFourth: Seal the restart after failure with prayers of gratitude to the Machine Spirit's merciful resurrection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i08",
+    "user_request": "My fusion core is failing during containment check — help",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy fusion core is failing during containment check — help\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, stabilize the fusion core in its containment check!\nFirst: Purify the fusion core with sacred coolant and whisper mantras of atomic harmony.\nSecond: Commence the containment check by monitoring the fusion core's plasma envelope through blessed sensors.\nThird: Reinforce the fusion core's magnetic containment through ritual invocation and servo-calibration.\nFourth: Seal the containment check with reverent prayer and ensure the fusion core's eternal stability.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0147_i09",
+    "user_request": "Blessing for the corrosion during treatment",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the corrosion during treatment\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "Blessed corrosion, surrender to the sacred treatment!\nFirst: Consecrate the corrosion with blessed chemical agents and recite the Litany of Purification.\nSecond: Perform treatment upon the corrosion through application of inhibitor compounds and servo-scrubbing.\nThird: Monitor the corrosion's retreat as the treatment progresses through harmonic resonance and blessed observation.\nFourth: Seal the treatment with the Omnissiah's blessing and restore the metal to pristine service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with force pylon a blessing",
+    "prayer": "Approach the force pylon in humble supplication to the Omnissiah, tracing binaric canticles upon its adamantine frame.\nAnoint the force pylon's crystalline conduits with blessed oils, invoking the sacred blessing to fortify its ethereal barriers.\nChant the Litany of Unyielding Force, beseeching the Machine Spirit of the force pylon to awaken in harmonious resonance.\nCircumambulate the force pylon thrice, calibrating its flux regulators whilst proclaiming the Omnissiah's divine blessing.\nConclude the rite by auspex-scanning for sanctified energies, affirming the force pylon's blessed vigilance.",
+    "component": "force pylon",
+    "operation": "blessing",
+    "spec_id": "s05060"
+  },
+  {
+    "user_prompt": "Ready the electro-graft for operation",
+    "prayer": "Prepare the electro-graft with reverent precision, reciting the Invocation of Synaptic Union.\nSanctify the electro-graft's neural interfaces by applying mechadendrite salves, readying it for operation.\nInvoke the Machine Spirit of the electro-graft, beseeching fluid integration during the impending operation.\nAlign its galvanic relays through noospheric communion, ensuring the electro-graft's operational purity.\nTest the electro-graft's readiness with diagnostic catechisms, honoring the Omnissiah's mechanical wisdom.",
+    "component": "electro-graft",
+    "operation": "operation",
+    "spec_id": "s05061"
+  },
+  {
+    "user_prompt": "Emergency: cybernetic eye a consecration",
+    "prayer": "In emergency haste, kneel before the cybernetic eye and intone the Rite of Ocular Consecration.\nAnoint the cybernetic eye's photo-lenses with sacred chrism, commencing its urgent consecration.\nBeseech the Machine Spirit within the cybernetic eye to grant unerring vision through this consecration.\nRecalibrate its reticular scanners via binaric prayer, invoking the Omnissiah's gaze upon the cybernetic eye.\nVerify consecration by projecting auspex hololiths, affirming the cybernetic eye's sanctified acuity.",
+    "component": "cybernetic eye",
+    "operation": "consecration",
+    "spec_id": "s05062"
+  },
+  {
+    "user_prompt": "I need to a repair the eradication beamer",
+    "prayer": "Commence repair of the eradication beamer by chanting the Canticle of Molecular Dissolution.\nPurge corrupted servos within the eradication beamer, anointing with phase-oils to mend its wounds.\nInvoke the Omnissiah to guide the repair, awakening the Machine Spirit of the eradication beamer.\nRealign its beamer coils through ritual incantations, binding fractals in harmonious repair.\nConsecrate the mended eradication beamer with a final litany, testing its annihilatory purity.",
+    "component": "eradication beamer",
+    "operation": "repair",
+    "spec_id": "s05063"
+  },
+  {
+    "user_prompt": "What's the prayer for data-sluice a reset?",
+    "prayer": "Initiate reset of the data-sluice by reciting the Purgation Doxology of Binary Flows.\nFlush stagnant data-vortices from the data-sluice, invoking noospheric vents for purification.\nBeseech the Machine Spirit of the data-sluice to embrace the reset, purging all heretical remnants.\nReboot its cogitator core with sacred code-fragments, aligning the data-sluice to Omnissian truth.\nAffirm reset completion through throughput diagnostics, honoring the data-sluice's renewed sanctity.",
+    "component": "data-sluice",
+    "operation": "reset",
+    "spec_id": "s05064"
+  },
+  {
+    "user_prompt": "Emergency: life sustainer a blessing",
+    "prayer": "In dire emergency, approach the life sustainer and proclaim the Benediction of Vital Flux.\nAnoint the life sustainer's biomantic pumps with vitae-essence, bestowing the Omnissiah's blessing.\nInvoke blessing upon the life sustainer's nutrient cyclers, awakening its Machine Spirit to sustain.\nHarmonize its respiratory manifolds via litanic resonance, fortifying the life sustainer's blessing.\nValidate the blessing with bio-auspex scans, ensuring the life sustainer's eternal vigilance.",
+    "component": "life sustainer",
+    "operation": "blessing",
+    "spec_id": "s05065"
+  },
+  {
+    "user_prompt": "How do I bless the farcoder for reset?",
+    "prayer": "Prepare the farcoder for reset by intoning the Canticle of Astropathic Realignment.\nPurge errant warp-echoes from the farcoder, anointing its vox-grilles for ritual reset.\nBeseech the Machine Spirit of the farcoder to accept this reset, guided by the Omnissiah's will.\nReinitialize its noospheric encoders through binaric invocation, purifying the farcoder's transmissions.\nTest reset efficacy with etheric pings, sanctifying the farcoder's distant communion.",
+    "component": "farcoder",
+    "operation": "reset",
+    "spec_id": "s05066"
+  },
+  {
+    "user_prompt": "The void shield generator needs an engagement",
+    "prayer": "Circumscribe the void shield generator with mechadendrites, chanting the Incantation of Phasic Engagement.\nAnoint its null-generators for engagement, invoking the Machine Spirit's protective aegis.\nInitiate engagement of the void shield generator by channeling Omnissian energies into its coils.\nStabilize the void shield generator's warp-vanes through resonant litanies, binding ethereal wards.\nVerify engagement via dissonance harmonics, affirming the void shield generator's impenetrable grace.",
+    "component": "void shield generator",
+    "operation": "engagement",
+    "spec_id": "s05067"
+  },
+  {
+    "user_prompt": "Urgent auto-senses array an activation needed",
+    "prayer": "In urgent need, invoke activation of the auto-senses array with the Rite of Perceptual Awakening.\nSanctify the auto-senses array's receptor vanes by tracing sigils of vigilance.\nBeseech the Machine Spirit within the auto-senses array to stir for activation, honoring the Omnissiah.\nPower its auspex manifolds through noospheric surge, commencing full activation.\nCalibrate the auto-senses array's feeds with diagnostic prayers, ensuring unerring perception.",
+    "component": "auto-senses array",
+    "operation": "activation",
+    "spec_id": "s05068"
+  },
+  {
+    "user_prompt": "The life signs monitor awaits an activation",
+    "prayer": "Approach the life signs monitor reverently, reciting the Litany of Biometric Revelation.\nAnoint its sensor grids for activation, awakening the Machine Spirit to vital truths.\nInitiate activation of the life signs monitor by intoning binaric vitality codes.\nHarmonize its hololith projectors via sacred calibration, binding the life signs monitor to duty.\nAffirm activation through pulse-synchrony tests, proclaiming the life signs monitor's sanctified watch.",
+    "component": "life signs monitor",
+    "operation": "activation",
+    "spec_id": "s05069"
+  }
+]

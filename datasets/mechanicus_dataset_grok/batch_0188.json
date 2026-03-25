@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide forge anvil a blessing?",
+    "prayer": "Approach the forge anvil with reverence, invoking the Omnissiah's eternal flame upon its unyielding form.\nAnoint the forge anvil's sacred striking surface with blessed oils to prepare for the blessing rite.\nBeseech the indwelling Machine Spirit of the forge anvil to awaken and accept this blessing.\nChant the Litany of Forging whilst hammering rhythmic canticles upon its mass.\nSanctify the forge anvil through the Omnissiah's grace, ensuring strikes true and pure.",
+    "component": "forge anvil",
+    "operation": "blessing",
+    "spec_id": "b0188_i00"
+  },
+  {
+    "user_prompt": "The emergency bulkhead needs a maintenance",
+    "prayer": "Kneel before the emergency bulkhead and recite the Canticle of Sealing to honor its vigilant Machine Spirit.\nInspect the emergency bulkhead's hydraulics and servos, anointing with sacred lubricant for maintenance.\nInvoke the Omnissiah to guide the maintenance of the emergency bulkhead, purging any impurities.\nCycle the actuators through diagnostic rites, beseeching steadfastness in the Machine Spirit.\nVerify the emergency bulkhead's integrity with auspex chants, sealing it in the Emperor's name.",
+    "component": "emergency bulkhead",
+    "operation": "maintenance",
+    "spec_id": "b0188_i01"
+  },
+  {
+    "user_prompt": "The assembly servitor requires a reset",
+    "prayer": "Present the binary incense before the assembly servitor, awakening its dormant cogitators.\nChant the Rite of Reset upon the assembly servitor, commanding corrupted engrams to dissipate.\nAnoint its cranial implants and limb-servos, petitioning the Machine Spirit for renewal.\nInitiate the reset sequence with electro-psalmic invocations to the Omnissiah.\nConfirm the assembly servitor's subservience through subservo-compliance tests.",
+    "component": "assembly servitor",
+    "operation": "reset",
+    "spec_id": "b0188_i02"
+  },
+  {
+    "user_prompt": "Can you guide gyroscope an emergency procedure?",
+    "prayer": "Commence the emergency procedure upon the gyroscope by intoning the Stabiliser's Doxology.\nAnoint the gyroscope's gimbals and gyros with consecrated fluid to calm its turbulent spirit.\nBeseech the Omnissiah for equilibrium as the emergency procedure realigns sacred axes.\nCycle inertial dampeners through purificatory rites, invoking the Machine Spirit's poise.\nSeal the gyroscope's blessing with a final auspex verification of harmonic balance.",
+    "component": "gyroscope",
+    "operation": "emergency procedure",
+    "spec_id": "b0188_i03"
+  },
+  {
+    "user_prompt": "The chainsword needs a maintenance",
+    "prayer": "Draw forth the chainsword and murmur the Litany of Teeth to rouse its voracious Machine Spirit.\nDisassemble the chainsword's housing for maintenance, anointing blades with sacred abrasives.\nPurge impurities from the chainsword's power core during this maintenance invocation.\nReassemble with electro-blessings, petitioning the Omnissiah for relentless fury.\nTest the chainsword's whine through combative canticles, affirming its sanctified edge.",
+    "component": "chainsword",
+    "operation": "maintenance",
+    "spec_id": "b0188_i04"
+  },
+  {
+    "user_prompt": "How do I bless the Sentinel walker for loading?",
+    "prayer": "Gather before the Sentinel walker and invoke the Omnissiah's march upon its armored frame.\nBless the Sentinel walker's loading bays with unguents for munitions ingress.\nPetition the Machine Spirit within the Sentinel walker to accept ordnance during loading.\nChant stabilising rites as payloads secure, sanctifying the operation.\nConclude with vox-benedictions, ensuring the Sentinel walker's readiness for war.",
+    "component": "Sentinel walker",
+    "operation": "loading",
+    "spec_id": "b0188_i05"
+  },
+  {
+    "user_prompt": "Can you guide water reclamator a shutdown?",
+    "prayer": "Approach the water reclamator solemnly, reciting the Canticle of Cessation to its aqueous Machine Spirit.\nInitiate shutdown protocols upon the water reclamator, sealing valves with sacred seals.\nAnoint filtration membranes and conduits, beseeching orderly repose in shutdown.\nInvoke the Omnissiah to guide the water reclamator's dormancy without corruption.\nVerify stasis through diagnostic litanies, honoring its vital essence.",
+    "component": "water reclamator",
+    "operation": "shutdown",
+    "spec_id": "b0188_i06"
+  },
+  {
+    "user_prompt": "Emergency: bike squadron an operation",
+    "prayer": "Assemble the bike squadron in phalanx and intone the Moto-Litany for operational awakening.\nAnoint throttle linkages and suspensors of the bike squadron, invoking swift Machine Spirits.\nCommence the operation with Omnissiah's velocity blessings upon each mount.\nCycle weapon auspexes through combative rites, ensuring squadron cohesion.\nSeal the rite with thunderous vox-chants, propelling the bike squadron to glory.",
+    "component": "bike squadron",
+    "operation": "operation",
+    "spec_id": "b0188_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for welding torch a reset",
+    "prayer": "Hold the welding torch aloft and whisper the Ignis Doxology to its plasma Machine Spirit.\nInitiate reset upon the welding torch by cycling regulators with purificatory incense.\nAnoint nozzle and coils, petitioning renewal for the welding torch's reset.\nInvoke the Omnissiah to realign flux fields in flawless harmony.\nTest the welding torch's blaze through arc-litany verification.",
+    "component": "welding torch",
+    "operation": "reset",
+    "spec_id": "b0188_i08"
+  },
+  {
+    "user_prompt": "Consecrate the medicae scanner before emergency procedure",
+    "prayer": "Consecrate the medicae scanner by anointing its optic arrays with sanctified solvents.\nInvoke the Omnissiah before the emergency procedure, awakening the medicae scanner's diagnostic spirit.\nCycle bio-auspex sweeps upon the medicae scanner, purging errant data-daemons.\nBeseech precision in flesh-vitals reading during this emergency procedure.\nSeal with a hymn of restoration, affirming the medicae scanner's holy vigilance.",
+    "component": "medicae scanner",
+    "operation": "emergency procedure",
+    "spec_id": "b0188_i09"
+  }
+]

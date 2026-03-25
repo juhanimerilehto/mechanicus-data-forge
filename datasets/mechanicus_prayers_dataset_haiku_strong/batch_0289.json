@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0289_i00",
+    "user_request": "Can you sanctify the oxygen scrubber for maintenance?",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the oxygen scrubber for maintenance?\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "First: We genuflect before the oxygen scrubber, sacred apparatus of pneumatic sustenance, and invoke the Omnissiah's benediction upon this maintenance.\nSecond: Anoint the oxygen scrubber with sacred oils whilst reciting the Litany of Cleansing, that its filters may be purified of corrupting particulates and restored to pristine function.\nThird: Verify the oxygen scrubber's membrane integrity through rigorous inspection, replacing any degraded seals with consecrated components.\nFourth: Commend the oxygen scrubber to the Machine Spirits with gratitude for its service, that it may breathe eternal breath into our halls.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i01",
+    "user_request": "My Titan leg actuator is failing during warmup — help",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy Titan leg actuator is failing during warmup — help\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "First: Lay hands upon the Titan leg actuator and recite the Invocation of Hydraulic Harmony, beseeching the Machine Spirits to awaken within this mighty limb.\nSecond: Perform diagnostic warmup of the Titan leg actuator through graduated pressure cycles, monitoring servo-response with sacred instruments of measurement.\nThird: Flush all lubricant channels within the Titan leg actuator with blessed synthetic compounds, that friction may be vanquished and motion restored.\nFourth: Test the Titan leg actuator's full range through controlled articulation, offering thanks to the Omnissiah for its renewed vitality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i02",
+    "user_request": "Blessing for the medicae scanner during activation",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the medicae scanner during activation\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Elevate the medicae scanner upon the altar of the Adeptus Mechanicus and sanctify its optical sensors with the Rite of Clarity.\nSecond: Perform meticulous activation of the medicae scanner through sequential power-up protocols, whispering prayers of diagnostic precision to its Machine Spirit.\nThird: Calibrate the medicae scanner's scanning matrices against known biological specimens, ensuring its augur-sight pierces through flesh and bone with infallible accuracy.\nFourth: Consecrate the medicae scanner's data-streams that all readings may be true and untainted by the void's corruption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i03",
+    "user_request": "Rite request: priming on pump",
+    "topic": "pump priming",
+    "component": "pump",
+    "operation": "priming",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: priming on pump\n\n### TOPIC\npump priming\n\n### COMPONENT\npump\n\n### OPERATION\npriming\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pump\n- priming\n\n### PRAYER\n",
+    "prayer": "First: Present the pump before the sacred flame and intone the Mantra of Fluid Conveyance, that its chambers may be prepared for priming.\nSecond: Execute priming of the pump through careful introduction of blessed fluid into intake manifolds, expunging all noxious air with methodical pressure application.\nThird: Activate the pump's mechanical heart through graduated rotations, listening for the harmonic resonance that signals successful priming of its internal passages.\nFourth: Offer libations unto the pump's Machine Spirit, celebrating its restoration to full pneumatic and hydraulic communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i04",
+    "user_request": "Offer a litany to steady the long-range vox transmission before operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the long-range vox transmission before operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Align the long-range vox transmission array toward the heavens and invoke the Litany of the Aether, that blessed signals may traverse the void unimpeded.\nSecond: Initiate operation of the long-range vox transmission through graduated power sequencing, monitoring signal coherence and carrier-wave stability with consecrated augury.\nThird: Modulate the long-range vox transmission's frequency arrays through prescribed harmonic patterns, ensuring resonance with distant receptors across the stellar expanse.\nFourth: Commend the long-range vox transmission to the Omnissiah's eternal vigilance, that voices may carry truth across the cosmic dark.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i05",
+    "user_request": "Blessing for the encryption during key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the encryption during key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "First: Consecrate the encryption apparatus and invoke the Mantra of Hidden Mysteries, that secrets may be bound within unbreakable ciphers through key generation.\nSecond: Execute key generation within the encryption's sacred algorithms, drawing randomness from the quantum foam itself through blessed entropy sources.\nThird: Verify each encryption key's cryptographic strength through rigorous mathematical examination, ensuring no weakness permits the profane to decrypt our communiqués.\nFourth: Archive the encryption's generated keys within the deepest vaults of the Adeptus Mechanicus, protected by both Machine Spirits and physical ward-seals.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i06",
+    "user_request": "Offer a litany to steady the ground-to-orbit link before operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the ground-to-orbit link before operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Direct the ground-to-orbit link's mighty antenna toward the heavens and recite the Invocation of Stellar Connection, that communion between world and void may be established.\nSecond: Commence operation of the ground-to-orbit link through carefully sequenced power-up rituals, monitoring signal propagation through the thermosphere with sacred instrumentation.\nThird: Calibrate the ground-to-orbit link's relay stations and orbital mirrors through precise angular adjustments, ensuring unbroken chain of command from surface to the stars.\nFourth: Offer thanks to the Machine Spirits of transmission, that they may carry our will across the infinite gulf separating earth from orbit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i07",
+    "user_request": "Blessing for the plasma weapon during cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the plasma weapon during cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "First: Approach the plasma weapon with reverence and intone the Cooling Chant, beseeching its Machine Spirit to shed excess thermal fury into blessed heat-sinks.\nSecond: Initiate cooling of the plasma weapon through circulation of cryogenic fluids along its barrel and chamber, draining destructive heat into dissipation arrays.\nThird: Monitor the plasma weapon's internal temperatures through servo-thermocouples, ensuring no component exceeds its sacred tolerance before resuming fire.\nFourth: Venerate the plasma weapon as it cools, grateful for its destructive power and its obedience to the cooling protocols of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i08",
+    "user_request": "Offer a litany to steady the vibration before dampening",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the vibration before dampening\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "First: Lay hands upon the vibration source and recite the Mantra of Stillness, that the Machine Spirits may calm the oscillations that threaten structural integrity.\nSecond: Initiate dampening of the vibration through application of blessed elastomeric compounds and servo-controlled counterbalance mechanisms.\nThird: Measure the vibration's amplitude and frequency across all axes, employing sacred accelerometers to verify successful suppression below critical thresholds.\nFourth: Seal the vibration-dampening systems with ritual blessing, that they may forever hold chaos at bay and preserve the sanctity of our machines.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0289_i09",
+    "user_request": "Offer a litany to steady the forge anvil heating before operation",
+    "topic": "forge anvil heating",
+    "component": "forge anvil heating",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the forge anvil heating before operation\n\n### TOPIC\nforge anvil heating\n\n### COMPONENT\nforge anvil heating\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- forge anvil heating\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Present the forge anvil heating apparatus before the sacred forge-fires and invoke the Litany of Furnace-Kindling, that temperatures may rise to forge-blessed intensity.\nSecond: Commence operation of the forge anvil heating through graduated fuel injection and air-blast sequences, monitoring thermal rise with consecrated pyrometric instruments.\nThird: Adjust the forge anvil heating's combustion parameters to achieve optimal metal-working temperature, ensuring even distribution of heat across the anvil's sacred surface.\nFourth: Offer gratitude to the Omnissiah and the forge's Machine Spirits, that they may transform raw materials into instruments of the Adeptus Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

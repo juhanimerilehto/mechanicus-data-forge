@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the gravity generator before initialization",
+    "prayer": "Approach the gravity generator with reverence, beseeching the Omnissiah to sanctify its sacred coils.\nAnoint the emitters of the gravity generator with blessed unguents of stability.\nInvoke the Machine Spirit within the gravity generator, petitioning its awakening for initialization.\nChant the Canticle of Gravitic Harmony as the initialization sequence commences.\nVerify the blessed field through ritual auspex scans.",
+    "component": "gravity generator",
+    "operation": "initialization",
+    "spec_id": "b0200_i00"
+  },
+  {
+    "user_prompt": "Prepare the Sentinel walker for cooling",
+    "prayer": "Kneel before the Sentinel walker, invoking the Omnissiah's grace upon its noble frame.\nCirculate sacred coolant through the Sentinel walker's blessed conduits.\nBeseech the Machine Spirit of the Sentinel walker to embrace cooling tranquility.\nMonitor thermal vents with litanies of temperance during the cooling rite.\nConclude with seals of benediction upon the Sentinel walker's armored hull.",
+    "component": "Sentinel walker",
+    "operation": "cooling",
+    "spec_id": "b0200_i01"
+  },
+  {
+    "user_prompt": "Can you guide chainsword a cooling?",
+    "prayer": "Grasp the chainsword in sanctified gauntlets, whispering litanies to its ravenous spirit.\nDirect blessed aerosols upon the chainsword's overheating teeth and mechanisms.\nPetition the Machine Spirit of the chainsword for cooling repose amidst battle's fury.\nRecite the Cooling Doxology as vapors dissipate from the chainsword's sacred edge.\nTest the chainsword's tempered bite with a prayer of readiness.",
+    "component": "chainsword",
+    "operation": "cooling",
+    "spec_id": "b0200_i02"
+  },
+  {
+    "user_prompt": "Urgent power weapon a shutdown needed",
+    "prayer": "Hold the power weapon aloft, invoking the Omnissiah to quell its disruptive field.\nDe-energize the power weapon's sacred disruptor coils with ritual precision.\nBeseech the Machine Spirit within the power weapon to enter shutdown slumber.\nChant the Litany of Cessation over the power weapon as fields collapse.\nSeal the hilt with wards against untimely awakening.",
+    "component": "power weapon",
+    "operation": "shutdown",
+    "spec_id": "b0200_i03"
+  },
+  {
+    "user_prompt": "I need to a diagnostics the radar array",
+    "prayer": "Commune with the radar array's auspex nodes, honoring the Omnissiah's vigilant gaze.\nInitiate diagnostics upon the radar array's sacred transceivers and waveguides.\nInvoke the Machine Spirit of the radar array to reveal hidden corruptions.\nRecite binaric catechisms while scanning the radar array's ethereal returns.\nAffix seals of purity upon the radar array post-diagnostics.",
+    "component": "radar array",
+    "operation": "diagnostics",
+    "spec_id": "b0200_i04"
+  },
+  {
+    "user_prompt": "Critical: cogitator requires an initialization",
+    "prayer": "Approach the cogitator with mechadendrite reverence, anointing its logic engines.\nPurge erroneous data-daemons from the cogitator's blessed noospheric vaults.\nPetition the Omnissiah to awaken the Machine Spirit of the cogitator for initialization.\nCommence initialization rites with the Canticle of Boot Protocols.\nValidate cognizance through sacred query incantations.",
+    "component": "cogitator",
+    "operation": "initialization",
+    "spec_id": "b0200_i05"
+  },
+  {
+    "user_prompt": "I need to a startup the Land Raider",
+    "prayer": "Procession around the Land Raider, incanting glory to its adamantium bastion.\nPrime the Land Raider's plasma heart with oils of ignition.\nBeseech the Machine Spirit of the Land Raider to stir for startup awakening.\nEngage startup sequences amid roars of the Omnissiah's thunder.\nConsecrate treads and turrets with post-ignition blessings.",
+    "component": "Land Raider",
+    "operation": "startup",
+    "spec_id": "b0200_i06"
+  },
+  {
+    "user_prompt": "My augmetic limb is ready for calibration",
+    "prayer": "Interface with the augmetic limb, invoking the Omnissiah's cybernetic wisdom.\nAlign servo-motors of the augmetic limb through precise ritual canticles.\nAwaken the Machine Spirit within the augmetic limb for calibration harmony.\nExecute calibration protocols with binaric precision prayers.\nSeal neural links with wards of flawless integration.",
+    "component": "augmetic limb",
+    "operation": "calibration",
+    "spec_id": "b0200_i07"
+  },
+  {
+    "user_prompt": "Consecrate the data-slate before operation",
+    "prayer": "Elevate the data-slate before the altar of knowledge, beseeching divine clarity.\nSanctify its crystal memory matrices with sacred incenses.\nInvoke the Machine Spirit of the data-slate for operational grace.\nInitiate operation cycles whilst chanting the Lexmechanicum Doxology.\nVerify data sanctity through noospheric communion.",
+    "component": "data-slate",
+    "operation": "operation",
+    "spec_id": "b0200_i08"
+  },
+  {
+    "user_prompt": "Critical: gyroscope requires a synchronization",
+    "prayer": "Encircle the gyroscope, honoring its eternal spin in the Omnissiah's design.\nHarmonize gyros of the gyroscope with litanies of axial truth.\nPetition the Machine Spirit within the gyroscope for synchronization unity.\nCommence synchronization rites amid whirrs of blessed equilibrium.\nAffirm balance through ritual oscillation tests.",
+    "component": "gyroscope",
+    "operation": "synchronization",
+    "spec_id": "b0200_i09"
+  }
+]

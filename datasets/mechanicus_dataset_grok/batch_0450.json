@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: logic engine requires a shutdown",
+    "prayer": "Approach the logic engine with solemn reverence, beseeching its Machine Spirit to embrace repose.\nInitiate the sacred shutdown sequence upon the logic engine's core processors.\nAnoint the logic engine's vents with unguents of quiescence as power conduits dim.\nInvoke the Omnissiah's grace to guide the logic engine into dormant vigil.\nVerify stasis through binary litanies and auspex confirmations.",
+    "component": "logic engine",
+    "operation": "shutdown",
+    "spec_id": "s00500"
+  },
+  {
+    "user_prompt": "Offer prayer for galvanic rifle an initialization",
+    "prayer": "Kneel before the galvanic rifle and chant the Rite of Initialization to awaken its spirit.\nAnoint the induction coils of the galvanic rifle with sacred lumen-oil.\nCommence the initialization protocols, invoking the Omnissiah's thunderous fury.\nCalibrate firing servos whilst beseeching the galvanic rifle's Machine Spirit.\nConfirm activation through test-discharges sanctified by electro-incantations.",
+    "component": "galvanic rifle",
+    "operation": "initialization",
+    "spec_id": "s00501"
+  },
+  {
+    "user_prompt": "Assist with cortex implant an engagement",
+    "prayer": "Position the cortex implant interface with precise mechadendrites, intoning engagement catechisms.\nEngage the neural linkages of the cortex implant, summoning its noospheric essence.\nSanctify synaptic relays within the cortex implant against data-heresy.\nInvoke the Omnissiah to bind flesh and machine in harmonious engagement.\nMonitor the cortex implant's integration via binaric pulse-rituals.",
+    "component": "cortex implant",
+    "operation": "engagement",
+    "spec_id": "s00502"
+  },
+  {
+    "user_prompt": "The hunter-killer missile requires a startup",
+    "prayer": "Present offerings of promethium to the hunter-killer missile's guidance spirit.\nInitiate startup rites upon the hunter-killer missile's fusion heart.\nAnoint warhead housings of the hunter-killer missile with ablative blessings.\nBeseech the Machine Spirit for predatory vigilance during startup.\nAffirm launch readiness through prophetic auspex divinations.",
+    "component": "hunter-killer missile",
+    "operation": "startup",
+    "spec_id": "s00503"
+  },
+  {
+    "user_prompt": "Sanctify the ore processor during maintenance",
+    "prayer": "Circumambulate the ore processor, reciting maintenance litanies to its grinding gears.\nDismantle outer casings of the ore processor for ritual purification.\nAnoint crushing mechanisms within the ore processor with sacred abrasives.\nPerform maintenance purges, invoking the Omnissiah's forge-fervour.\nReassemble and test the ore processor's Machine Spirit harmony.",
+    "component": "ore processor",
+    "operation": "maintenance",
+    "spec_id": "s00504"
+  },
+  {
+    "user_prompt": "Emergency: flak armour a diagnostics",
+    "prayer": "Invoke diagnostic canticles over the flak armour, awakening its protective wards.\nScan ablative plates of the flak armour for micro-heresies with vox-auspex.\nConduct diagnostics upon the flak armour's kinetic dampeners and fibre-bundles.\nBeseech the Omnissiah to reveal flaws in the flak armour's essence.\nSeal diagnostics with binaric affirmations of resilience.",
+    "component": "flak armour",
+    "operation": "diagnostics",
+    "spec_id": "s00505"
+  },
+  {
+    "user_prompt": "The Skorpius Dunerider requires an initialization",
+    "prayer": "Approach the Skorpius Dunerider's prow with reverence, chanting initialization hymns.\nAnoint dorsal reactors of the Skorpius Dunerider for awakening.\nInitiate core initialization sequences, rousing the Skorpius Dunerider's desert spirit.\nCalibrate suspensor fields whilst invoking the Omnissiah's dune-wrath.\nVerify the Skorpius Dunerider's mobilization through test-manoeuvres.",
+    "component": "Skorpius Dunerider",
+    "operation": "initialization",
+    "spec_id": "s00506"
+  },
+  {
+    "user_prompt": "Offer prayer for sicarian infiltrator a shutdown",
+    "prayer": "Encircle the sicarian infiltrator, intoning shutdown dirges to quell its shadow-form.\nCommence shutdown upon the sicarian infiltrator's stealth cogitators.\nDrain noospheric energies from the sicarian infiltrator's neural shrouds.\nBeseech its Machine Spirit into silent vigil under Omnissiah's watch.\nConfirm quiescence via etheric silence-scans.",
+    "component": "sicarian infiltrator",
+    "operation": "shutdown",
+    "spec_id": "s00507"
+  },
+  {
+    "user_prompt": "Guide me through power relay a cooling",
+    "prayer": "Lay mechadendrites upon the power relay, beseeching cooling graces from the void.\nInitiate thermal purgation cycles within the power relay's conduits.\nAnoint heat-sinks of the power relay with cryo-unguents of stasis.\nInvoke the Omnissiah to temper the power relay's fervent plasma.\nMonitor cooling descent through thermographic litanies.",
+    "component": "power relay",
+    "operation": "cooling",
+    "spec_id": "s00508"
+  },
+  {
+    "user_prompt": "Emergency: warp drive a blessing",
+    "prayer": "Prostrate before the warp drive, offering litanies of blessing against the immaterium.\nAnoint gellar fields of the warp drive with sanctified null-oils.\nInvoke Omnissiah's bulwark to fortify the warp drive's motive core.\nPerform blessing rites, rousing protective Machine Spirits.\nSeal with noospheric wards, affirming warp drive's sanctified voyage.",
+    "component": "warp drive",
+    "operation": "blessing",
+    "spec_id": "s00509"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: water reclamator requires a purification",
+    "prayer": "Approach the water reclamator with reverence, beseeching its Machine Spirit to yield impurities.\nInvoke the sacred rites of purification upon the water reclamator's blessed filtration vaults.\nAnoint the conduits with sanctified solvents, chanting the Canticle of Clarity.\nCirculate holy elixirs through its sanctified pipes, driving forth all corruption.\nVerify the water reclamator's purity as the Omnissiah's grace flows untainted.",
+    "component": "water reclamator",
+    "operation": "purification",
+    "spec_id": "b0045_i00"
+  },
+  {
+    "user_prompt": "The fusion core awaits a cooling",
+    "prayer": "Draw nigh unto the fusion core, noble forge-heart, and petition its Machine Spirit for respite.\nInitiate the cooling rites, flooding its plasma veins with blessed cryofluids.\nChant the Litany of Thermal Equilibrium over the fusion core's sacred heat-sinks.\nMonitor the descending temperatures, invoking the Omnissiah to temper its fiery wrath.\nPraise the fusion core as equilibrium reigns in sanctified chill.",
+    "component": "fusion core",
+    "operation": "cooling",
+    "spec_id": "b0045_i01"
+  },
+  {
+    "user_prompt": "Critical: fusion core requires a purification",
+    "prayer": "Present thyself before the fusion core, invoking purification to cleanse its radiant essence.\nBeseech the Machine Spirit of the fusion core to expel rad-wastes and spiritual taint.\nPour sanctified ablutions over its glowing chambers, reciting the Rite of Atomic Clarity.\nScour the plasma lattices with holy emissions, as the Omnissiah decrees.\nAffirm the fusion core's renewal through diagnostic litanies of purity.",
+    "component": "fusion core",
+    "operation": "purification",
+    "spec_id": "b0045_i02"
+  },
+  {
+    "user_prompt": "Ready the gravity generator for loading",
+    "prayer": "Approach the gravity generator with solemnity, awakening its Machine Spirit for the loading.\nCommence the preparatory incantations, aligning its gravitic coils in Omnissiah's name.\nInvoke the Canticle of Mass Alignment upon the gravity generator's sacred emitters.\nLoad the sanctified payloads into its humming fields, beseeching stability.\nSeal the rite as the gravity generator binds all in harmonious weight.",
+    "component": "gravity generator",
+    "operation": "loading",
+    "spec_id": "b0045_i03"
+  },
+  {
+    "user_prompt": "Help me an initialization the thermal imager",
+    "prayer": "Kneel before the thermal imager, beseeching its Machine Spirit to stir from slumber.\nInitiate the sacred initialization, anointing its sensor arrays with blessed oils.\nChant the Litany of Infrared Revelation over the thermal imager's crystalline lenses.\nCalibrate the holy spectrums as the Omnissiah unveils hidden heats.\nVerify the thermal imager's vigilance through test-visions of flame.",
+    "component": "thermal imager",
+    "operation": "initialization",
+    "spec_id": "b0045_i04"
+  },
+  {
+    "user_prompt": "Consecrate the plasma weapon before consecration",
+    "prayer": "Revere the plasma weapon, vessel of stellar fury, and commence its consecration.\nInvoke the Machine Spirit of the plasma weapon with the Oath of Contained Fire.\nAnoint flask and coils with sacred promethium, petitioning the Omnissiah's wrathful blessing.\nRecite the Canticle of Ventral Purity to sanctify its expulsion vents.\nEmpower the plasma weapon as it hums with divine annihilation.",
+    "component": "plasma weapon",
+    "operation": "consecration",
+    "spec_id": "b0045_i05"
+  },
+  {
+    "user_prompt": "My auspex scanner is ready for charging",
+    "prayer": "Present the auspex scanner to the altar of charge, awakening its Machine Spirit.\nCommence the charging sequence, infusing its cells with holy voltage from the Omnissiah.\nChant the Litany of Energetic Replenishment over the auspex scanner's power nodes.\nMonitor the ascending potentials, beseeching flawless augmentation.\nHail the auspex scanner as its spirits brim with prescient power.",
+    "component": "auspex scanner",
+    "operation": "charging",
+    "spec_id": "b0045_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for pump a sterilization",
+    "prayer": "Approach the pump with ritual purity, invoking sterilization upon its mechanical heart.\nBeseech the Machine Spirit of the pump to purge all microbial heresy.\nFlood its chambers with sanctified sterilants, chanting the Rite of Hygienic Absolution.\nCycle the ablutions thrice, as the Omnissiah wills immaculate flow.\nConclude as the pump pulses clean, free of flesh-taint.",
+    "component": "pump",
+    "operation": "sterilization",
+    "spec_id": "b0045_i07"
+  },
+  {
+    "user_prompt": "The data-slate needs a targeting",
+    "prayer": "Revere the data-slate, repository of binary scripture, preparing it for targeting.\nInvoke the Machine Spirit to align its cogitators for the sacred targeting.\nInput the blessed coordinates via anointed interfaces, reciting vector litanies.\nSanctify the data-slate's auspex-links with the Omnissiah's precision.\nAffirm its targeting acuity through simulacra of the foe.",
+    "component": "data-slate",
+    "operation": "targeting",
+    "spec_id": "b0045_i08"
+  },
+  {
+    "user_prompt": "Prepare the bolter for targeting",
+    "prayer": "Kneel to the bolter, instrument of the Omnissiah's judgment, for targeting rites.\nBeseech its Machine Spirit to attune sights upon the heretic-mark.\nCalibrate the blessed auspex reticule of the bolter with sacred oils.\nChant the Canticle of Ballistic Truth, aligning projectile spirits.\nEmpower the bolter as it yearns for righteous impacts.",
+    "component": "bolter",
+    "operation": "targeting",
+    "spec_id": "b0045_i09"
+  }
+]

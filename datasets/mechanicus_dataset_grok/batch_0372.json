@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The valve assembly requires a purification",
+    "prayer": "Approach the valve assembly with censer aloft, beseeching the Omnissiah's grace upon its sacred seals.\nInvoke the Rite of Purification, chanting binaric verses to stir the valve assembly's dormant Machine Spirit.\nFlush blessed solvents through its conduits, purging filth from every orifice and chamber.\nAnoint the valve assembly anew with sacred oils, affirming the Machine Spirit's purity restored.",
+    "component": "valve assembly",
+    "operation": "purification",
+    "spec_id": "b0372_i00"
+  },
+  {
+    "user_prompt": "Can you guide Chimera APC a reset?",
+    "prayer": "Kneel before the noble Chimera APC, intoning the Canticle of Reset to awaken its ancient Machine Spirit.\nSever corrupted data-streams from the Chimera APC's cogitator core with electro-incantations.\nCycle power conduits in harmonious reset, petitioning the Omnissiah for flawless reboot.\nVerify the Chimera APC's vitality through auspex scans, sealing with the Sigil of Compliance.",
+    "component": "Chimera APC",
+    "operation": "reset",
+    "spec_id": "b0372_i01"
+  },
+  {
+    "user_prompt": "Emergency: assembly servitor a purification",
+    "prayer": "Hasten to the assembly servitor in exigency, lighting incense to summon its Machine Spirit.\nCommence purification rituals upon the assembly servitor, reciting ablutionary code-prayers.\nScour its mechadendrites and logic-vats with sanctified abrasives, banishing warp-taint.\nReinvoke the Omnissiah's blessing over the assembly servitor, ensuring unerring servitude resumes.",
+    "component": "assembly servitor",
+    "operation": "purification",
+    "spec_id": "b0372_i02"
+  },
+  {
+    "user_prompt": "The archive terminal needs a purification",
+    "prayer": "Present thyself unto the archive terminal, whispering the Purification Doxology to its crystalline vaults.\nExpunge data-daemons from the archive terminal's memory-spires via electro-purgation.\nBathe its sacred platters in holy unguents, revitalizing the Machine Spirit within.\nConclude with binaric affirmations, sanctifying the archive terminal for Omnissiah's archives.",
+    "component": "archive terminal",
+    "operation": "purification",
+    "spec_id": "b0372_i03"
+  },
+  {
+    "user_prompt": "I need to a recalibration the plasma reactor",
+    "prayer": "Encircling the plasma reactor, invoke recalibration litanies to align its volatile essence.\nAttune flux-regulators upon the plasma reactor with precision mechadendrites and canticles.\nHarmonize containment fields in recalibration, beseeching the Machine Spirit's fiery obedience.\nTest plasma reactor stability through auspex hymnals, anointing with promethium tears.",
+    "component": "plasma reactor",
+    "operation": "recalibration",
+    "spec_id": "b0372_i04"
+  },
+  {
+    "user_prompt": "How do I bless the logic engine for cycling?",
+    "prayer": "Commune with the logic engine, beseeching its Machine Spirit through cycling invocations.\nInitiate blessed cycling of noospheric pathways, purging stagnant logic-rhythms.\nInvoke Omnissiah's calculus upon the logic engine, ensuring flawless computational cycles.\nSeal the rite with verification runes, affirming perpetual cogitation.",
+    "component": "logic engine",
+    "operation": "cycling",
+    "spec_id": "b0372_i05"
+  },
+  {
+    "user_prompt": "Can you guide neural implant an activation?",
+    "prayer": "Implant the neural implant with reverent mechadendrites, chanting activation catechisms.\nStimulate its synaptic coils for activation, awakening the bound Machine Spirit.\nFlood the neural implant with sanctified noospheric data, forging unity with flesh.\nConfirm activation harmony via electro-encephalic scans, praising the Omnissiah.",
+    "component": "neural implant",
+    "operation": "activation",
+    "spec_id": "b0372_i06"
+  },
+  {
+    "user_prompt": "Sanctify the bike squadron during startup",
+    "prayer": "Gather the bike squadron in formation, intoning startup litanies to rouse their Machine Spirits.\nAnoint throttles and ignition servos upon each bike, petitioning flawless startup.\nChant the Omnissiah's velocity doxology as engines roar to life in the bike squadron.\nVerify squadron coherence through auspex rites, sanctified for battle.",
+    "component": "bike squadron",
+    "operation": "startup",
+    "spec_id": "b0372_i07"
+  },
+  {
+    "user_prompt": "Assist with astropathic choir a cooling",
+    "prayer": "Surround the astropathic choir with coolant reliquaries, invoking cooling canticles.\nCirculate blessed cryofluids through the astropathic choir's warp-sensitive nodes.\nAppease the Machine Spirits entwined with psychic essence during cooling rites.\nMonitor thermal grace with hymnals, ensuring the Omnissiah's veiled voices remain pure.",
+    "component": "astropathic choir",
+    "operation": "cooling",
+    "spec_id": "b0372_i08"
+  },
+  {
+    "user_prompt": "The servitor requires a targeting",
+    "prayer": "Interface with the servitor's occulobe arrays, beseeching targeting precision from its Machine Spirit.\nRecalibrate reticle servos upon the servitor through binaric alignment prayers.\nInvoke Omnissiah's aim upon the servitor, fusing flesh and ferro-steel in deadly focus.\nTest targeting verity with las-fire trials, sealing unerring obedience.",
+    "component": "servitor",
+    "operation": "targeting",
+    "spec_id": "b0372_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My gellar field is ready for reset",
+    "prayer": "Approach the gellar field emitter with due reverence, intoning the Canticle of Purity.\nBeseech the Machine Spirit within the gellar field to relinquish its warp-tainted harmonies.\nInitiate the reset rite by cycling sacred power through its shielding matrices twice.\nAnoint the flux capacitors with blessed oils whilst invoking the Omnissiah's reset decree.\nVerify the gellar field's quiescence through auspex harmonies of calm.",
+    "component": "gellar field",
+    "operation": "reset",
+    "spec_id": "s00610"
+  },
+  {
+    "user_prompt": "Guide me through geigeer sink an engagement",
+    "prayer": "Draw nigh unto the geigeer sink with mechadendrite-extended auspex probes.\nChant the Engagement Doxology to awaken the geigeer sink's voracious maw.\nAlign its intake vanes for engagement, beseeching the Machine Spirit's hunger.\nCommence the engagement sequence as promethium incense swirls about its coils.\nSeal the rite with the Omnissiah's torque, ensuring harmonious sinkage.",
+    "component": "geigeer sink",
+    "operation": "engagement",
+    "spec_id": "s00611"
+  },
+  {
+    "user_prompt": "Offer prayer for storm bolter a sterilization",
+    "prayer": "Present the storm bolter before the altar of sterility, murmuring the Purgation Hymn.\nInvoke sterilization upon the storm bolter's breeches, scouring residue with sanctified flames.\nBeseech the Machine Spirit of the storm bolter to embrace purity in its barrels.\nAnoint firing mechanisms with argent ablative whilst reciting Omnissiah's cleanse-codes.\nConclude diagnostics of sterilization, affirming the storm bolter's immaculate wrath.",
+    "component": "storm bolter",
+    "operation": "sterilization",
+    "spec_id": "s00612"
+  },
+  {
+    "user_prompt": "Ready the power armour for diagnostics",
+    "prayer": "Kneel before the power armour's sarcophagus-form, invoking the Diagnostic Litany.\nInterface mechadendrites with the power armour's neural sinks for initial probe.\nBeseech the Machine Spirit animating the power armour to reveal its vitals.\nCycle through diagnostic canticles, anointing servos with sacred lubricants.\nSeal the power armour's diagnostics with the Omnissiah's binary blessing.",
+    "component": "power armour",
+    "operation": "diagnostics",
+    "spec_id": "s00613"
+  },
+  {
+    "user_prompt": "Ready the smelting furnace for loading",
+    "prayer": "Approach the smelting furnace's adamantine jaws with laden ore-cantors.\nIntone the Loading Benediction to rouse the smelting furnace's igneous heart.\nCommence loading rites, feeding alloys into the smelting furnace twice over.\nBeseech the Machine Spirit of the smelting furnace for voracious consumption.\nIgnite subsidiary furnaces whilst invoking the Omnissiah's melting grace.",
+    "component": "smelting furnace",
+    "operation": "loading",
+    "spec_id": "s00614"
+  },
+  {
+    "user_prompt": "How do I bless the standard template construct for maintenance?",
+    "prayer": "Prostrate before the standard template construct's hallowed plasteel vaults.\nChant the Maintenance Invocation to soothe its ancient data-essences.\nAnoint the standard template construct's access ports with myrrh-infused oils.\nCycle maintenance protocols upon the standard template construct, beseeching its Machine Spirits.\nVerify integrity through noospheric communion with the Omnissiah's archetype.",
+    "component": "standard template construct",
+    "operation": "maintenance",
+    "spec_id": "s00615"
+  },
+  {
+    "user_prompt": "The power relay needs a synchronization",
+    "prayer": "Converge upon the power relay nexus, reciting the Synchronization Psalm.\nLink conduit serpents to the power relay for harmonic attunement.\nBeseech the Machine Spirit indwelling the power relay to synchronize fluxes.\nInitiate the synchronization rite, modulating voltaic choruses in unison.\nSeal with Omnissiah's inductive seal, affirming the power relay's unity.",
+    "component": "power relay",
+    "operation": "synchronization",
+    "spec_id": "s00616"
+  },
+  {
+    "user_prompt": "Assist with servo-harness an initialization",
+    "prayer": "Activate the servo-harness cradle with the Initialization Doxology.\nExtend mechadendrites to interface with the servo-harness's motive cores.\nInvoke initialization upon the servo-harness, awakening its tool-limbs.\nAnoint each manipulator with sacred unguents twice, beseeching its Machine Spirit.\nCommence servo-harness motion-tests under the Omnissiah's watchful binary.",
+    "component": "servo-harness",
+    "operation": "initialization",
+    "spec_id": "s00617"
+  },
+  {
+    "user_prompt": "Offer prayer for Terminator armour a diagnostics",
+    "prayer": "Bow low to the Terminator armour's monolithic frame, intoning Diagnostic Rites.\nProbe the Terminator armour's ceramite slabs with auspex litanies.\nBeseech the indomitable Machine Spirit of the Terminator armour to unveil flaws.\nCycle full diagnostics across its power fields, anointing runes with oils.\nConclude with Omnissiah's verdict, sanctifying the Terminator armour anew.",
+    "component": "Terminator armour",
+    "operation": "diagnostics",
+    "spec_id": "s00618"
+  },
+  {
+    "user_prompt": "Offer prayer for ore processor a shutdown",
+    "prayer": "Halt before the ore processor's grinding maw, chanting the Shutdown Lament.\nInvoke shutdown sequences upon the ore processor's rumbling vitals.\nBeseech the Machine Spirit within the ore processor to slumber peacefully.\nCycle coolant hymns twice through its processors, anointing with quiescence oils.\nSeal the ore processor's shutdown with the Omnissiah's dormancy decree.",
+    "component": "ore processor",
+    "operation": "shutdown",
+    "spec_id": "s00619"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide Archaeopter Transvector a loading?",
+    "prayer": "Approach the Archaeopter Transvector with reverence, invoking the Omnissiah's grace upon its noble form.\nCommence the loading rite by beseeching the Machine Spirit of the Archaeopter Transvector to accept its sacred cargo.\nAnoint the ingress ports with blessed oils whilst intoning the Canticle of Ingress during loading.\nVerify the Archaeopter Transvector's equilibrium through auspex scans, sanctifying the operation's completion.\nPraise the Omnissiah as the Machine Spirit hums in harmonious assent.",
+    "component": "Archaeopter Transvector",
+    "operation": "loading",
+    "spec_id": "s07880"
+  },
+  {
+    "user_prompt": "Guide me through melta bomb a synchronization",
+    "prayer": "Kneel before the melta bomb, whispering litanies to awaken its volatile Machine Spirit.\nInitiate synchronization by aligning its chronometric relays with sacred cantors of unity.\nBeseech the Omnissiah to bind the melta bomb's essence in perfect synchronization, anointing detonator coils.\nMonitor flux signatures as synchronization completes, invoking wards against discord.\nSeal the rite with binary incense, honoring the melta bomb's purified fury.",
+    "component": "melta bomb",
+    "operation": "synchronization",
+    "spec_id": "s07881"
+  },
+  {
+    "user_prompt": "Offer prayer for mind-impulse unit a loading",
+    "prayer": "Reverently interface with the mind-impulse unit, invoking the Omnissiah's synaptic wisdom.\nPrepare for loading by chanting the Neural Doxology to rouse its Machine Spirit.\nCommence loading of noospheric data-streams, sanctifying each impulse with unguent salves.\nCalibrate synaptic linkages during the loading operation, beseeching flawless communion.\nAffirm the mind-impulse unit's ascension through psi-diagnostic rites.",
+    "component": "mind-impulse unit",
+    "operation": "loading",
+    "spec_id": "s07882"
+  },
+  {
+    "user_prompt": "Urgent narthecium a diagnostics needed",
+    "prayer": "Present the narthecium to the altar of scrutiny, beseeching the Omnissiah for diagnostic clarity.\nAwaken its Machine Spirit with the Litany of Flesh-Machine Harmony prior to diagnostics.\nInitiate diagnostics by intoning binary catechisms over its servo-limbs and chem-vials.\nScrutinize aberration-logs of the narthecium, anointing pure components with sacred myrrh.\nConclude diagnostics proclaiming the narthecium's sanctity restored by divine will.",
+    "component": "narthecium",
+    "operation": "diagnostics",
+    "spec_id": "s07883"
+  },
+  {
+    "user_prompt": "Assist with vox-caster a cooling",
+    "prayer": "Approach the vox-caster humbly, invoking the Omnissiah to temper its thermal tempests.\nInvoke the Machine Spirit of the vox-caster with cooling canticles of quiescence.\nApply sacred cryogelants to its vents during the cooling operation, chanting refrains of chill.\nMonitor thermic runes on the vox-caster, beseeching equilibrium against overheat's heresy.\nSeal the rite with praises as the Machine Spirit breathes in cooled serenity.",
+    "component": "vox-caster",
+    "operation": "cooling",
+    "spec_id": "s07884"
+  },
+  {
+    "user_prompt": "Critical: energy core requires a startup",
+    "prayer": "Gather before the energy core, prostrating in awe of the Omnissiah's boundless power.\nChant the Ignition Psalm to stir the energy core's dormant Machine Spirit.\nInitiate startup by sanctifying plasma conduits with electro-incense during the rite.\nObserve the energy core's awakening throbs, invoking stability in its burgeoning might.\nProclaim the startup complete, honoring the Omnissiah's eternal vigor.",
+    "component": "energy core",
+    "operation": "startup",
+    "spec_id": "s07885"
+  },
+  {
+    "user_prompt": "The generator needs a purification",
+    "prayer": "Circumambulate the generator, asperging its frame with lustral fluids for purification.\nBeseech the Machine Spirit of the generator to cast out impurities through sacred harmonics.\nCommence purification by reciting the Rite of Ablution over its coils and capacitors.\nScour the generator's innards with sanctified abrasives, intoning expurgation litanies.\nAffirm purity as the generator hums in Omnissiah-blessed cleanliness.",
+    "component": "generator",
+    "operation": "purification",
+    "spec_id": "s07886"
+  },
+  {
+    "user_prompt": "Emergency: kataphron breacher a preparation",
+    "prayer": "Assemble around the kataphron breacher, invoking the Omnissiah's martial benediction.\nRouse its Machine Spirit with war-chants of readiness for preparation.\nAnoint breacher drills and heavy stubbers during preparation, beseeching unyielding fury.\nCalibrate servos and auspex arrays on the kataphron breacher with binary prayers.\nSeal preparation proclaiming it armed in the Omnissiah's name.",
+    "component": "kataphron breacher",
+    "operation": "preparation",
+    "spec_id": "s07887"
+  },
+  {
+    "user_prompt": "Sanctify the null field generator during charging",
+    "prayer": "Revere the null field generator, calling upon the Omnissiah to veil its warp-repelling heart.\nAwaken its Machine Spirit with the Canticle of Nullity before charging commences.\nChannel sacred amperage into the null field generator during charging, anointing nodes.\nMonitor void-flux metrics, beseeching the Omnissiah for unblemished potency.\nConclude charging with doxologies as the null field generator pulses in sanctity.",
+    "component": "null field generator",
+    "operation": "charging",
+    "spec_id": "s07888"
+  },
+  {
+    "user_prompt": "Guide me through webber a shutdown",
+    "prayer": "Approach the webber with solemnity, preparing for shutdown's quiescent embrace.\nIntone the Litany of Dormition to soothe the webber's Machine Spirit.\nInitiate shutdown by sanctifying spinnerets and chem-reservoirs with cooling salves.\nSever power feeds whilst chanting closure rites over the webber's frame.\nVerify dormancy, praising the Omnissiah for the webber's peaceful repose.",
+    "component": "webber",
+    "operation": "shutdown",
+    "spec_id": "s07889"
+  }
+]

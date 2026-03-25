@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0005_i00",
+    "user_request": "Rite request: firing rite on bolter",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: firing rite on bolter\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed bolter, instrument of the Omnissiah's wrath, we commence thy firing rite.\nCongregation: Sanctify the bolter, purge its chambers, align its sights.\nPriest: First, we anoint the bolter's breach with sacred oils; second, we calibrate its targeting augurs; third, we invoke the firing rite upon its mechanism.\nCongregation: The bolter answers! Its Machine Spirit stirs, eager for the firing rite to commence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i01",
+    "user_request": "My rust is failing during removal — help",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy rust is failing during removal — help\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Priest: Oxidation corrupts the sacred machinery; we must perform rust removal upon this corroded vessel.\nCongregation: Rust, thou blight upon the Omnissiah's works, yield to our removal!\nPriest: Scrape away the rust with blessed wire-brush; apply the electrolytic dissolution; polish until the rust removal is complete.\nCongregation: The rust retreats! Its oxidic chains shatter beneath our sanctified removal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i02",
+    "user_request": "Emergency rite: neural interface requires connection",
+    "topic": "neural interface connection",
+    "component": "neural interface",
+    "operation": "connection",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: neural interface requires connection\n\n### TOPIC\nneural interface connection\n\n### COMPONENT\nneural interface\n\n### OPERATION\nconnection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- neural interface\n- connection\n\n### PRAYER\n",
+    "prayer": "Priest: The neural interface cries out in isolation; we must establish its connection to the Machine Spirits.\nCongregation: Neural interface, hear us! Receive the blessing of connection!\nPriest: Align the synaptic contacts with devotional precision; calibrate the neural interface's harmonic resonance; complete the connection through sacred ritual.\nCongregation: The neural interface awakens! Its connection pulses with the Omnissiah's benediction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i03",
+    "user_request": "Prayer for operation of the bearing lubrication",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the bearing lubrication\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Bearing lubrication sustains the eternal rotation; we sanctify its operation through ancient rite.\nCongregation: Bearing lubrication, flow eternal through the machinery!\nPriest: Distribute the blessed lubricant through the bearing lubrication channels; verify viscosity within sacred tolerances; commence the operation of all rotational components.\nCongregation: The bearing lubrication spreads! Its operation ensures the Machine Spirit's perpetual motion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i04",
+    "user_request": "Can you sanctify the energy conduit purification for operation?",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the energy conduit purification for operation?\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The energy conduit purification must be sanctified ere operation commences; hear this litany!\nCongregation: Energy conduit purification, cleanse thyself of profane contamination!\nPriest: Flush the energy conduit purification with blessed coolant; verify its crystalline integrity; initiate the operation of all power-conducting pathways.\nCongregation: The energy conduit purification glows! Its operation restores the Omnissiah's vital essence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i05",
+    "user_request": "My signal encryption is failing during operation — help",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy signal encryption is failing during operation — help\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Signal encryption fails beneath the weight of heretical noise; we must restore its operation!\nCongregation: Signal encryption, strengthen thy ciphered walls against corruption!\nPriest: Regenerate the signal encryption's algorithmic matrices; recalibrate its quantum-locked protocols; restore operation to full cryptographic potency.\nCongregation: The signal encryption solidifies! Its operation once more shields our sacred communications.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i06",
+    "user_request": "Can you sanctify the thermal dissipation rite for operation?",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the thermal dissipation rite for operation?\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The thermal dissipation rite guards against the fires of damnation; we invoke its operation!\nCongregation: Thermal dissipation rite, scatter the profane heat into the void!\nPriest: Clear the thermal dissipation rite's radiator fins of accumulated detritus; activate its circulation pumps; commence the thermal dissipation rite's sacred operation.\nCongregation: The thermal dissipation rite flows! Its operation preserves the Machine Spirit from burning perdition.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i07",
+    "user_request": "Blessing for the material purity during testing",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the material purity during testing\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Priest: Material purity must be tested lest corruption spread through the sacred forge.\nCongregation: Material purity, reveal thy true essence beneath our testing!\nPriest: Examine the material purity through spectroscopic analysis; measure its tensile strength in the testing chamber; certify its molecular composition.\nCongregation: The material purity endures! Its testing confirms the Omnissiah's perfect design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i08",
+    "user_request": "Offer a litany to steady the diesel engine before startup",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the diesel engine before startup\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: The diesel engine stirs from slumber; we invoke the startup blessing upon its mechanical heart.\nCongregation: Diesel engine, awaken to the Omnissiah's command!\nPriest: Prime the diesel engine's fuel injectors with sacred propellant; engage the starter mechanism with proper sequence; complete the startup rite with reverent invocation.\nCongregation: The diesel engine roars to life! Its startup heralds the Machine Spirit's resurrection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0005_i09",
+    "user_request": "Blessing for the inter-ship hailing during operation",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the inter-ship hailing during operation\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Across the void, the inter-ship hailing must resound with clarity; we bless its operation!\nCongregation: Inter-ship hailing, carry our blessed words through the stellar darkness!\nPriest: Attune the inter-ship hailing's vox-transmitter to proper frequency; amplify its signal through blessed relay stations; maintain the inter-ship hailing's operation across the celestial gulf.\nCongregation: The inter-ship hailing echoes! Its operation unites the Omnissiah's scattered servants.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

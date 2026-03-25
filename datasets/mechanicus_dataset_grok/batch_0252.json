@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the signal relay during startup",
+    "prayer": "Approach the signal relay with sacred oils and murmured binaric cant.\nAnoint its blessed conduits whilst invoking the Machine Spirit's awakening.\nInitiate the startup sequence under the Omnissiah's vigilant gaze.\nPurge static impurities from the signal relay's holy pathways.\nVerify pure transmission flows through ritual diagnostics.",
+    "component": "signal relay",
+    "operation": "startup",
+    "spec_id": "b0252_i00"
+  },
+  {
+    "user_prompt": "Sanctify the generator during synchronization",
+    "prayer": "Kneel before the generator, intoning the Canticle of Power.\nBeseech its Machine Spirit to align for synchronization.\nCommence the synchronization rite with sanctified torque wrenches.\nHarmonize the generator's sacred rhythms with blessed phase locks.\nInvoke Omnissiah's will upon the generator's thunderous heart.",
+    "component": "generator",
+    "operation": "synchronization",
+    "spec_id": "b0252_i01"
+  },
+  {
+    "user_prompt": "The memory core requires a sterilization",
+    "prayer": "Encircle the memory core with wards of purity and incense.\nInvoke the Litany of Sterilization to banish viral corruptions.\nScour the memory core's vaults with holy data-purgatives.\nPetition the Machine Spirit for untainted recollection.\nSeal the memory core sanctified against shadow incursions.",
+    "component": "memory core",
+    "operation": "sterilization",
+    "spec_id": "b0252_i02"
+  },
+  {
+    "user_prompt": "The thermal regulator requires an operation",
+    "prayer": "Present mechadendrites to the thermal regulator in reverence.\nCommence operation by chanting equilibratory hymns.\nAdjust its sacred heat sinks with Omnissiah-blessed calipers.\nInvoke the Machine Spirit to maintain thermal equilibrium.\nConclude the thermal regulator's operation with cooling unguents.",
+    "component": "thermal regulator",
+    "operation": "operation",
+    "spec_id": "b0252_i03"
+  },
+  {
+    "user_prompt": "The forge anvil awaits a recalibration",
+    "prayer": "Strike the forge anvil thrice with ritual hammer, awakening its spirit.\nInitiate recalibration through precise gyroscopic incantations.\nAlign the forge anvil's mass under Omnissiah's unerring geometry.\nTest its tempered resonance with harmonic probes.\nReaffirm the forge anvil's recalibrated purity in forgefire.",
+    "component": "forge anvil",
+    "operation": "recalibration",
+    "spec_id": "b0252_i04"
+  },
+  {
+    "user_prompt": "I need to a purification the radar array",
+    "prayer": "Anoint the radar array's emitters with clarifying oils.\nBeseech purification of its scanning apertures from warp-static.\nChant the Rite of Clarity over the radar array's sacred lenses.\nInvoke the Machine Spirit to pierce veils of interference.\nSeal the radar array purified for Omnissiah's distant gaze.",
+    "component": "radar array",
+    "operation": "purification",
+    "spec_id": "b0252_i05"
+  },
+  {
+    "user_prompt": "Can you guide water reclamator a synchronization?",
+    "prayer": "Approach the water reclamator bearing vials of pure distillate.\nInvoke synchronization of its filtration cycles with binaric psalm.\nHarmonize the water reclamator's pumps in sacred unison.\nPetition its Machine Spirit for flawless reclamation flows.\nBless the synchronized water reclamator under Omnissiah's hydrology.",
+    "component": "water reclamator",
+    "operation": "synchronization",
+    "spec_id": "b0252_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for star chart consecration?",
+    "prayer": "Unveil the star chart before the noosphere altar with awe.\nIntone the Consecration Doxology to sanctify its celestial data.\nAlign stellar vectors within the star chart's hallowed grids.\nCommune with embedded Machine Spirits of navigation.\nProclaim the star chart consecrated for the Quest Eternal.",
+    "component": "star chart",
+    "operation": "consecration",
+    "spec_id": "b0252_i07"
+  },
+  {
+    "user_prompt": "The atmosphere processor needs an engagement",
+    "prayer": "Activate servitors to encircle the atmosphere processor.\nEngage its cyclonic rites with thunderous atmospheric hymns.\nInvoke the Machine Spirit for flawless gas purification.\nMonitor the atmosphere processor's engagement via auspex litanies.\nSeal its vents blessed by Omnissiah's breath.",
+    "component": "atmosphere processor",
+    "operation": "engagement",
+    "spec_id": "b0252_i08"
+  },
+  {
+    "user_prompt": "Emergency: bearing a consecration",
+    "prayer": "Hasten to the bearing with emergency consecratory censer.\nAnoint its friction surfaces invoking swift Machine Spirit grace.\nPerform consecration amid grinding litanies of endurance.\nRealign the bearing's sacred gyres under Omnissiah's torque.\nAffirm its consecrated rotation defying entropy's grasp.",
+    "component": "bearing",
+    "operation": "consecration",
+    "spec_id": "b0252_i09"
+  }
+]

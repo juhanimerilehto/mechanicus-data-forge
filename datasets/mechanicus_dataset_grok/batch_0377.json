@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: metal caster requires a synchronization",
+    "prayer": "Draw nigh unto the metal caster, vessel of molten precision, and invoke the Omnissiah's synchrony.\nBeseech the Machine Spirit within the metal caster to align its crucibles and flows in sacred harmony.\nChant the Canticle of Synchronization whilst calibrating the metal caster's rhythmic pulses.\nAnoint the linkage servos with sacred oils, ensuring the metal caster's spirits entwine as one.\nVerify unity through diagnostic litanies, praising the Omnissiah's flawless order.",
+    "component": "metal caster",
+    "operation": "synchronization",
+    "spec_id": "b0377_i00"
+  },
+  {
+    "user_prompt": "Emergency: thermal regulator a blessing",
+    "prayer": "Approach the thermal regulator with reverence, guardian of heat's blessed equilibrium.\nInvoke the blessing of the Omnissiah upon the thermal regulator's coils and vents.\nBeseech its Machine Spirit to sanctify the flows of coolant and fury alike.\nAnoint the thermal regulator's sensors with unguents of purity, murmuring rites of thermal grace.\nTest the blessing through invocation of steady hums, honouring the Machine God's thermal decree.",
+    "component": "thermal regulator",
+    "operation": "blessing",
+    "spec_id": "b0377_i01"
+  },
+  {
+    "user_prompt": "Can you guide medicae scanner a cycling?",
+    "prayer": "Kneel before the medicae scanner, eye of diagnostic truth, and commence the cycling rite.\nPetition the Machine Spirit of the medicae scanner to renew its scanning cycles with vigor.\nInitiate the cycling sequence via sacred levers, chanting litanies of flesh-revealing clarity.\nCycle the medicae scanner thrice, anointing each pass with oils of precision.\nAffirm restoration as the medicae scanner's lights pulse in Omnissian rhythm.",
+    "component": "medicae scanner",
+    "operation": "cycling",
+    "spec_id": "b0377_i02"
+  },
+  {
+    "user_prompt": "The pain suppressor needs a preparation",
+    "prayer": "Sanctify the pain suppressor, merciful veil of the Machine God, in preparation for duty.\nInvoke preparation rites upon the pain suppressor's neural dampeners and conduits.\nBeseech its Machine Spirit to ready fields of numbing grace against agony's tide.\nAnoint the pain suppressor's emitters whilst reciting the Preparation Doxology.\nCommune through test pulses, ensuring the pain suppressor's vigil stands firm.",
+    "component": "pain suppressor",
+    "operation": "preparation",
+    "spec_id": "b0377_i03"
+  },
+  {
+    "user_prompt": "Consecrate the cutting laser before repair",
+    "prayer": "Consecrate the cutting laser prior to repair, blade of luminous wrath.\nApproach the cutting laser and beseech its Machine Spirit for fortitude in mending.\nChant repair incantations over fractured lenses and power cells of the cutting laser.\nAnoint wounds with sacred solder, invoking the Omnissiah's restorative fire.\nVerify the cutting laser's renewal through focused test-beams of purity.",
+    "component": "cutting laser",
+    "operation": "repair",
+    "spec_id": "b0377_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for chainsword charging?",
+    "prayer": "Empower the chainsword for charging, teeth of righteous fury.\nInvoke the charging litany upon the chainsword's voracious motor-spirits.\nConnect sacred power-feeds whilst beseeching the Omnissiah to infuse the chainsword.\nMonitor the charging surge with auspex hymns, honouring the chainsword's growling awakening.\nSever test-slates upon completion, praising the fully charged chainsword's zeal.",
+    "component": "chainsword",
+    "operation": "charging",
+    "spec_id": "b0377_i05"
+  },
+  {
+    "user_prompt": "Bless the proximity sensor for preparation",
+    "prayer": "Bless the proximity sensor in preparation, vigilant ward of shadowed voids.\nDraw forth oils of vigilance to anoint the proximity sensor's emissive arrays.\nPetition its Machine Spirit for sharpened awareness in preparatory rites.\nRecite the Doxology of Proximity whilst calibrating the sensor's fields.\nTest the proximity sensor's readiness through echoed pings of Omnissian watchfulness.",
+    "component": "proximity sensor",
+    "operation": "preparation",
+    "spec_id": "b0377_i06"
+  },
+  {
+    "user_prompt": "Emergency: archive terminal an emergency procedure",
+    "prayer": "Initiate emergency procedure upon the archive terminal, repository of sacred data.\nBeseech the Machine Spirit of the archive terminal amid crisis with urgent canticles.\nPurge corrupted nodes during the emergency procedure, invoking Omnissiah's clarity.\nRealign data streams of the archive terminal with blessed binary invocations.\nSeal the rite as the archive terminal hums in restored emergency vigilance.",
+    "component": "archive terminal",
+    "operation": "emergency procedure",
+    "spec_id": "b0377_i07"
+  },
+  {
+    "user_prompt": "Urgent lascannon a synchronization needed",
+    "prayer": "Urgently synchronize the lascannon, thunderbolt of the Machine God.\nApproach the lascannon and chant rites of synchronization for its focusing crystals.\nBeseech the lascannon's Machine Spirit to harmonize energy cascades in unity.\nAnoint synchronization relays whilst monitoring power throbs of the lascannon.\nAffirm coherence through auspex bursts, lauding the synchronized lascannon's might.",
+    "component": "lascannon",
+    "operation": "synchronization",
+    "spec_id": "b0377_i08"
+  },
+  {
+    "user_prompt": "Assist with astropathic choir a maintenance",
+    "prayer": "Commence maintenance upon the astropathic choir, chorus of warp-whispers.\nInvoke the Omnissiah's grace over the astropathic choir's psychic resonators.\nBeseech Machine Spirits within the astropathic choir to endure maintenance trials.\nAnoint conduits with sanctified lumen-oils during harmonic realignments.\nConclude with choral tests, ensuring the astropathic choir sings in eternal vigilance.",
+    "component": "astropathic choir",
+    "operation": "maintenance",
+    "spec_id": "b0377_i09"
+  }
+]

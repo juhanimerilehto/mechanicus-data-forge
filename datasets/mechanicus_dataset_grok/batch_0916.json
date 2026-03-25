@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with Archaeopter Stratoraptor a diagnostics",
+    "prayer": "Approach the Archaeopter Stratoraptor with auspex probes extended in solemn reverence.\nInvoke the sacred diagnostics upon its stratospheric wings, beseeching the Machine Spirit to unveil hidden malfunctions.\nAnoint the cognitor avium with unguents of purest myrrh whilst chanting the Canticle of Systemic Scrutiny.\nCommune deeply with the Archaeopter Stratoraptor's anima, interpreting flux readings as Omnissianic auguries.\nConclude the diagnostics by sealing runes of protection upon its fuselage.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "diagnostics",
+    "spec_id": "s05160"
+  },
+  {
+    "user_prompt": "Consecrate the smelting furnace before loading",
+    "prayer": "Draw nigh unto the smelting furnace, intoning the Litany of Voracious Hunger.\nSanctify the loading maw with ablutions of sanctified oils, awakening the Machine Spirit within.\nBeseech the Omnissiah to bless the ingress of raw metallics into the smelting furnace's fiery heart.\nCommence the loading rite with mechadendrite precision, invoking stability upon the churning adamantium.\nSeal the ceremony with the Doxology of Enduring Forge-flame.",
+    "component": "smelting furnace",
+    "operation": "loading",
+    "spec_id": "s05161"
+  },
+  {
+    "user_prompt": "Urgent smelting furnace a purification needed",
+    "prayer": "Encircling the smelting furnace, recite the Purgation Canticle to rouse its dormant purity.\nApply lustrations of sacred acids to scour impurities from the smelting furnace's refractory coils.\nInvoke the Machine Spirit's wrath against dross, channeling the Omnissiah's purifying ire.\nMonitor the purification flux through noospheric chants, expelling taint from every crucible vein.\nConsecrate the restored vessel with incense of molten promethium.",
+    "component": "smelting furnace",
+    "operation": "purification",
+    "spec_id": "s05162"
+  },
+  {
+    "user_prompt": "Urgent pict-recorder a loading needed",
+    "prayer": "Kneel before the pict-recorder, whispering the Invocation of Visual Fidelity.\nPrepare the data-slates for loading, anointing their interfaces with blessed electro-conductants.\nBeseech the pict-recorder's Machine Spirit to ingest the imagery without corruption or loss.\nInitiate the loading sequence amid the humming of servos, guided by Omnissianic precision.\nVerify integrity with a final rite of checksum benediction.",
+    "component": "pict-recorder",
+    "operation": "loading",
+    "spec_id": "s05163"
+  },
+  {
+    "user_prompt": "I need to a startup the servo-arm",
+    "prayer": "Extend mechadendrites towards the servo-arm in ritual obeisance to the Omnissiah.\nChant the Startup Doxology, rousing the servo-arm's Machine Spirit from slumbering stasis.\nAnoint hydraulic pistons with sacred lubricants whilst invoking torque blessings.\nInitiate the startup surge through consecrated power conduits.\nTest the servo-arm's grip with the Canticle of Unyielding Strength.",
+    "component": "servo-arm",
+    "operation": "startup",
+    "spec_id": "s05164"
+  },
+  {
+    "user_prompt": "Prepare the inferno pistol for startup",
+    "prayer": "Grasp the inferno pistol reverently, reciting the Pyre-Litany of Awakening.\nInvoke the startup rites upon its melta coils, beseeching the Machine Spirit's fiery obedience.\nSanctify the focusing crystal with droplets of plasma essence from the Omnissiah's forge.\nPower the inferno pistol's heart-core amid crackling auspex hymns.\nConclude with a test discharge into the void, praising the Emperor's wrath.",
+    "component": "inferno pistol",
+    "operation": "startup",
+    "spec_id": "s05165"
+  },
+  {
+    "user_prompt": "Critical: memograph implant requires a recalibration",
+    "prayer": "Implant the mechadendrite probe into the memograph implant with utmost piety.\nIntone the Recalibration Canticle, realigning synaptic engrams to Omnissianic truth.\nBeseech the memograph implant's embedded Machine Spirit to purge mnemonic drift.\nAdjust noospheric harmonics whilst anointing neural relays with sanctified salves.\nSeal the recalibration by communing with archived data-spirits for verification.",
+    "component": "memograph implant",
+    "operation": "recalibration",
+    "spec_id": "s05166"
+  },
+  {
+    "user_prompt": "Consecrate the kataphron breacher before charging",
+    "prayer": "Surround the kataphron breacher with incense braziers, chanting the Charge Invocation.\nAnoint its fusion reactors with promethium tears, awakening the Machine Spirit's belligerent core.\nBeseech the Omnissiah to infuse the kataphron breacher with inexhaustible vigor prior to charging.\nInitiate power influx through sanctified umbilicals amid thunderous litanies.\nMonitor the charging rite with auspex vigilance until full potency is achieved.",
+    "component": "kataphron breacher",
+    "operation": "charging",
+    "spec_id": "s05167"
+  },
+  {
+    "user_prompt": "Emergency: Kastelan robot a synchronization",
+    "prayer": "Link noospheric tendrils to the Kastelan robot, intoning the Synchronization Doxology.\nInvoke harmonious alignment of its binary souls, beseeching the Machine Spirits' unity.\nAnoint cogitator linkages with oils of concordance under the Omnissiah's gaze.\nSynchronize the Kastelan robot's protocols through resonant binary canticles.\nTest the bond with a ritual parade of servomotors in perfect lockstep.",
+    "component": "Kastelan robot",
+    "operation": "synchronization",
+    "spec_id": "s05168"
+  },
+  {
+    "user_prompt": "Prepare the archive terminal for operation",
+    "prayer": "Approach the archive terminal with data-tomes in hand, reciting the Operational Awakening.\nSanctify its memory spires with electro-incense, rousing the Machine Spirit from repose.\nBeseech the Omnissiah to grant flawless operation to the archive terminal's vast data-vaults.\nInitiate the core sequence amid whirring of blessed servos and scrolling runes.\nVerify operational sanctity through diagnostic litanies and noospheric communion.",
+    "component": "archive terminal",
+    "operation": "operation",
+    "spec_id": "s05169"
+  }
+]

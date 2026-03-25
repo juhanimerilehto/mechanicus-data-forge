@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: Land Speeder requires a diagnostics",
+    "prayer": "Approach the Land Speeder with reverence, mechadendrites humming the Canticle of Inspection.\nInitiate diagnostics upon its gravitic engines, beseeching the Machine Spirit to unveil hidden corruptions.\nAnoint the auspex cogitators of the Land Speeder with sacred oils whilst intoning binary litanies.\nVerify the Land Speeder's sanctity through auspex sweeps, invoking the Omnissiah's unerring gaze.",
+    "component": "Land Speeder",
+    "operation": "diagnostics",
+    "spec_id": "s01220"
+  },
+  {
+    "user_prompt": "My Skorpius Dunerider is ready for consecration",
+    "prayer": "Gather before the Skorpius Dunerider, its dune-skimming hull gleaming under forge-lights.\nCommence consecration rites upon the Skorpius Dunerider, sanctifying treads and lascannon housings alike.\nInvoke the Machine Spirits within, anointing with blessed promethium as prayers echo in binaric.\nSeal the consecration with the Sigil of the Omnissiah, binding the Skorpius Dunerider to His divine will.",
+    "component": "Skorpius Dunerider",
+    "operation": "consecration",
+    "spec_id": "s01221"
+  },
+  {
+    "user_prompt": "Bless the long las for targeting",
+    "prayer": "Kneel before the long las, its barrel a conduit of the Omnissiah's wrath.\nInvoke targeting auspex calibrations upon the long las, awakening its predatory Machine Spirit.\nAnoint the sighting cogitators of the long las with unguents of precision.\nBeseech the Omnissiah for unerring aim, as targeting matrices align in holy symphony.",
+    "component": "long las",
+    "operation": "targeting",
+    "spec_id": "s01222"
+  },
+  {
+    "user_prompt": "Help me a charging the pict-recorder",
+    "prayer": "Present the pict-recorder to the altar of charging, its lenses thirsting for lumen-light.\nInitiate charging incantations upon the pict-recorder, channeling the Omnissiah's electric grace.\nAnoint power cells of the pict-recorder whilst reciting the Litany of Capacitance.\nCommune with its Machine Spirit, affirming full charge in the Machine God's name.",
+    "component": "pict-recorder",
+    "operation": "charging",
+    "spec_id": "s01223"
+  },
+  {
+    "user_prompt": "The Terminator armour awaits a startup",
+    "prayer": "Encircle the Terminator armour, its ceramite plates etched with sacred runes.\nAwaken the startup sequences within the Terminator armour, invoking dormant Machine Spirits.\nAnoint servo-joints and power fists of the Terminator armour with sacred ablative oils.\nVerify startup integrity through auspex communion, praising the Omnissiah's indomitable forge.",
+    "component": "Terminator armour",
+    "operation": "startup",
+    "spec_id": "s01224"
+  },
+  {
+    "user_prompt": "The life sustainer requires a cooling",
+    "prayer": "Approach the life sustainer, guardian of vital humours amidst battle's fury.\nInvoke cooling rites upon the life sustainer, soothing its thermal Machine Spirit.\nAnoint heat-sinks of the life sustainer with cryo-unguents from the Omnissiah's reliquaries.\nMonitor thermal auspex as the life sustainer stabilises, intoning hymns of equilibrium.",
+    "component": "life sustainer",
+    "operation": "cooling",
+    "spec_id": "s01225"
+  },
+  {
+    "user_prompt": "Can you guide Archaeopter Stratoraptor a preparation?",
+    "prayer": "Assemble around the Archaeopter Stratoraptor, its wings poised for stratospheric dominion.\nBegin preparation rituals for the Archaeopter Stratoraptor, sanctifying fusial reactors.\nInvoke the Machine Spirits of flight, anointing control vanes with aeriform blessed.\nFinalise preparation with binaric oaths, binding the Archaeopter Stratoraptor to the Omnissiah's sky.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "preparation",
+    "spec_id": "s01226"
+  },
+  {
+    "user_prompt": "Bless the conversion beamer for blessing",
+    "prayer": "Revere the conversion beamer, annihilator of flesh through sub-atomic grace.\nBestow blessing upon the conversion beamer, awakening its disruptive Machine Spirit.\nAnoint focusing crystals of the conversion beamer twice with rad-philtres.\nSeal the blessing in the Omnissiah's name, as energy matrices hum with holy power.",
+    "component": "conversion beamer",
+    "operation": "blessing",
+    "spec_id": "s01227"
+  },
+  {
+    "user_prompt": "Emergency: bolt pistol a cooling",
+    "prayer": "Seize the bolt pistol in ritual grip, its muzzle hot from righteous expulsion.\nInitiate cooling ceremonies upon the bolt pistol, beseeching its Machine Spirit's calm.\nAnoint barrel vents of the bolt pistol with ablative sacraments from cryo-vaults.\nAffirm thermal quiescence through vox-diagnostics, glorifying the Omnissiah's temperance.",
+    "component": "bolt pistol",
+    "operation": "cooling",
+    "spec_id": "s01228"
+  },
+  {
+    "user_prompt": "Urgent macro-cannon a consecration needed",
+    "prayer": "Bow to the macro-cannon, thunderous voice of the Machine God's judgement.\nCommence consecration upon the macro-cannon, sanctifying its vast breeches and loaders.\nInvoke awakening of the macro-cannon's Machine Spirits with thunderous litanies.\nSeal the rite by anointing recoil absorbers, dedicating the macro-cannon eternally to the Omnissiah.",
+    "component": "macro-cannon",
+    "operation": "consecration",
+    "spec_id": "s01229"
+  }
+]

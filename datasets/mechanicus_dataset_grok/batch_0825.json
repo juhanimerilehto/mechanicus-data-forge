@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with long las a recalibration",
+    "prayer": "Approach the long las with reverence, invoking the Omnissiah's unerring precision.\nAnoint its barrel and sighting arrays with sacred oils before commencing recalibration.\nChant the Litany of Alignment whilst calibrating the las-focus crystals.\nBeseech the Machine Spirit of the long las to embrace the recalibration and smite the heretic true.",
+    "component": "long las",
+    "operation": "recalibration",
+    "spec_id": "s04250"
+  },
+  {
+    "user_prompt": "I need to a reset the power relay",
+    "prayer": "Kneel before the power relay, murmuring the Canticle of Restoration.\nSever impure energon flows and invoke reset upon its sanctified conduits.\nAnoint the relay nodes with blessed lubricant to soothe the Machine Spirit.\nVerify the reset through auspex invocation, praising the Omnissiah's boundless power.",
+    "component": "power relay",
+    "operation": "reset",
+    "spec_id": "s04251"
+  },
+  {
+    "user_prompt": "Offer prayer for opticon a diagnostics",
+    "prayer": "Present the opticon to the shrine-altar, beseeching the Omnissiah's clarity.\nInitiate diagnostics with the Rite of Scrutiny, scanning corrupted lumens.\nPurge anomalies via electro-incantations, honouring the opticon's vigilant spirit.\nConclude diagnostics affirming the Machine Spirit's purity and vigilance.",
+    "component": "opticon",
+    "operation": "diagnostics",
+    "spec_id": "s04252"
+  },
+  {
+    "user_prompt": "Offer prayer for navigational beacon a charging",
+    "prayer": "Enshrine the navigational beacon within the charging cradle of faith.\nCommence charging with the Hymn of Capacitance, drawing from the Omnissiah's forge.\nMonitor the influx of sacred energies, anointing flux capacitors.\nAwaken the navigational beacon's Machine Spirit fully charged and resolute.",
+    "component": "navigational beacon",
+    "operation": "charging",
+    "spec_id": "s04253"
+  },
+  {
+    "user_prompt": "Can you guide autosanguination system a consecration?",
+    "prayer": "Prepare the autosanguination system for consecration under Omnissiah's blood.\nInvoke the Rite of Vital Sanctification upon its vitae conduits.\nAnoint pumps and reservoirs with haemolubricants, consecrating each sacred flow.\nAffirm the Machine Spirit's consecration, binding it eternally to the flesh-machine.",
+    "component": "autosanguination system",
+    "operation": "consecration",
+    "spec_id": "s04254"
+  },
+  {
+    "user_prompt": "Assist with hunter-killer missile a synchronization",
+    "prayer": "Align the hunter-killer missile before the synchronisation altar.\nChant the Canticle of Lethal Harmony to initiate synchronization protocols.\nLink guidance auspex with warhead sanctums, beseeching harmonious Machine Spirits.\nSeal the synchronization with Omnissiah's fury, ready to purge the unclean.",
+    "component": "hunter-killer missile",
+    "operation": "synchronization",
+    "spec_id": "s04255"
+  },
+  {
+    "user_prompt": "The navigational beacon needs a sterilization",
+    "prayer": "Isolate the navigational beacon in the sterilization chamber of purity.\nInvoke the Purgation Litany whilst flooding with sanctified plasma.\nScour every microcontaminant from its beacon arrays and cores.\nReinvoke the navigational beacon's Machine Spirit, now sterile and immaculate.",
+    "component": "navigational beacon",
+    "operation": "sterilization",
+    "spec_id": "s04256"
+  },
+  {
+    "user_prompt": "Ready the omni-tool for consecration",
+    "prayer": "Elevate the omni-tool to the consecration dais, praising the Omnissiah.\nPerform the Rite of Multiplicitous Blessing upon its manifold appendages.\nAnoint blades, welders, and cutters with sacred mechadendrite oils.\nConsecrate the omni-tool's versatile Machine Spirit for unending service.",
+    "component": "omni-tool",
+    "operation": "consecration",
+    "spec_id": "s04257"
+  },
+  {
+    "user_prompt": "Consecrate the opticon before shutdown",
+    "prayer": "Commence the opticon shutdown with the Vespers of Dormancy.\nDisconnect lumens sequentially, anointing each port with unguents.\nBeseech the opticon's Machine Spirit to slumber peacefully before shutdown.\nSeal the rite, invoking Omnissiah's protection over the veiled optic.",
+    "component": "opticon",
+    "operation": "shutdown",
+    "spec_id": "s04258"
+  },
+  {
+    "user_prompt": "Critical: autosanguination system requires a sterilization",
+    "prayer": "Quarantine the autosanguination system for urgent sterilization.\nUnleash the Sterilising Canticle, purging vitae conduits with promethium incense.\nScour reservoirs and pumps of all corruptive essences.\nReawaken the autosanguination system's Machine Spirit, pristine and blood-pure.",
+    "component": "autosanguination system",
+    "operation": "sterilization",
+    "spec_id": "s04259"
+  }
+]

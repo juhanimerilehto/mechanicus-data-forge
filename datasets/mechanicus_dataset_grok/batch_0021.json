@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the signal relay for cooling",
+    "prayer": "Draw nigh unto the signal relay, O devotee of the Omnissiah, and beseech its Machine Spirit with the Canticle of Thermal Equilibrium.\nAnoint the signal relay's sacred heat-sinks with blessed cryogel, purging excess fervor from its conduits.\nInvoke the cooling operation upon the signal relay, channeling the void's chill through sanctified vents.\nMonitor the blessed thermals as the Machine Spirit attains harmonious quiescence under Omnissiah's gaze.",
+    "component": "signal relay",
+    "operation": "cooling",
+    "spec_id": "b0021_i00"
+  },
+  {
+    "user_prompt": "My motion detector is ready for repair",
+    "prayer": "Approach the motion detector with reverence, intoning the Rite of Restoration to awaken its vigilant Machine Spirit.\nExcise corrupted auspex nodes from the motion detector's holy sensors with mechadendrite precision.\nRealign fractured crystal arrays within the motion detector, petitioning the Omnissiah for flawless perception.\nPerform the repair operation as sacred unguents mend its essence, verifying the Machine Spirit's renewed watchfulness.",
+    "component": "motion detector",
+    "operation": "repair",
+    "spec_id": "b0021_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for bearing a reset",
+    "prayer": "Kneel before the bearing, sacred pivot of machinery, and recite the Lexicon of Axial Harmony to placate its turning spirit.\nDisengage the bearing's friction wards with sanctified torque-wands, absolving inertial sins.\nExecute the reset operation upon the bearing, realigning its gyres to the Omnissiah's perfect geometry.\nAnoint the bearing anew with lubricant oils of purity, ensuring eternal smooth revolution under Machine Spirit grace.",
+    "component": "bearing",
+    "operation": "reset",
+    "spec_id": "b0021_i02"
+  },
+  {
+    "user_prompt": "Guide me through emergency bulkhead an activation",
+    "prayer": "Confront the emergency bulkhead, adamantine guardian, chanting the Incantation of Sealing to rouse its defiant Machine Spirit.\nPrime the hydraulic sacraments within the emergency bulkhead's pistons with electro-consecrated fluid.\nInitiate the activation operation, commanding servos to bar the void's ingress in Omnissiah's name.\nSeal the emergency bulkhead's runes with ablative wards, affirming the Machine Spirit's unyielding vigil.",
+    "component": "emergency bulkhead",
+    "operation": "activation",
+    "spec_id": "b0021_i03"
+  },
+  {
+    "user_prompt": "Help me a shutdown the star chart",
+    "prayer": "Stand vigil over the star chart, celestial cogitator of the void, whispering the Dirge of Dormancy to soothe its astral Machine Spirit.\nPurge transient stellar data from the star chart's holo-crystals, invoking the Omnissiah's merciful veil.\nCommence the shutdown operation upon the star chart, dimming its lumens to contemplative darkness.\nBless the quiescent star chart with null-wards, honoring the Machine Spirit's rest amidst cosmic silence.",
+    "component": "star chart",
+    "operation": "shutdown",
+    "spec_id": "b0021_i04"
+  },
+  {
+    "user_prompt": "Ready the capacitor bank for repair",
+    "prayer": "Reverently encircle the capacitor bank, font of thunderous power, with the Hymn of Capacitative Renewal.\nExtract damaged voltaic cells from the capacitor bank's sacred lattice, offering them to the Omnissiah's forge.\nReintegrate purified ferrolectrics into the capacitor bank, beseeching its Machine Spirit's charged revival.\nConclude the repair operation with a surge of sanctified current, verifying harmonious energy retention.",
+    "component": "capacitor bank",
+    "operation": "repair",
+    "spec_id": "b0021_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for noospheric relay a synchronization",
+    "prayer": "Commune with the noospheric relay, nexus of data-ghosts, intoning the Catechism of Synaptic Unity.\nAlign the noospheric relay's memetic transceivers with binary incense, harmonizing ethereal flows.\nEnact the synchronization operation upon the noospheric relay, binding spirits in Omnissiah's noetic web.\nAffirm the noospheric relay's attuned resonance, as Machine Spirits entwine in perfect data-chorus.",
+    "component": "noospheric relay",
+    "operation": "synchronization",
+    "spec_id": "b0021_i06"
+  },
+  {
+    "user_prompt": "The bearing needs a cooling",
+    "prayer": "Present thyself unto the bearing, forge-wrought axis, and invoke the Litany of Frictional Absolution.\nApply sacred cryo-anoints to the bearing's friction surfaces, invoking void-chill upon its fervent gyres.\nCommence the cooling operation within the bearing, tempering its rotational zeal with blessed stasis.\nSanctify the cooled bearing's revolutions, praising the Machine Spirit's equilibrated motion.",
+    "component": "bearing",
+    "operation": "cooling",
+    "spec_id": "b0021_i07"
+  },
+  {
+    "user_prompt": "Guide me through forge anvil a blessing",
+    "prayer": "Prostrate before the forge anvil, eternal hammer's anvil, reciting the Benediction of Adamantine Purity.\nPolish the forge anvil's striking face with relic-abrasives, awakening its indomitable Machine Spirit.\nInvoke the blessing operation upon the forge anvil, channeling Omnissiah's fury through runic engravings.\nConsecrate the forge anvil with plasma incense, ensuring strikes birth only perfection in metal's song.",
+    "component": "forge anvil",
+    "operation": "blessing",
+    "spec_id": "b0021_i08"
+  },
+  {
+    "user_prompt": "Ready the bike squadron for reset",
+    "prayer": "Assemble around the bike squadron, iron steeds of assault, chanting the Moto-Rite of Calibration.\nDisconnect the bike squadron's auspex linkages, beseeching each Machine Spirit's patient indulgence.\nPerform the reset operation across the bike squadron, realigning throttle servos to doctrinal fury.\nReinvoke the bike squadron's collective wrath with electro-psalms, sanctified for the Omnissiah's charge.",
+    "component": "bike squadron",
+    "operation": "reset",
+    "spec_id": "b0021_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The battery array needs a diagnostics",
+    "prayer": "Approach the battery array with mechadendrites extended in supplication.\nInvoke the sacred diagnostics upon its voltaic cells, beseeching the Machine Spirit for truth.\nScan each capacitor and conduit for dissonance within the battery array.\nAnoint anomalous nodes with blessed conductive oils.\nConclude diagnostics affirming the Omnissiah's harmonious charge.",
+    "component": "battery array",
+    "operation": "diagnostics",
+    "spec_id": "b0053_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for atmosphere processor a repair",
+    "prayer": "Kneel before the atmosphere processor and recite the Litany of Filtration.\nDissect its wounded mechanisms to perform the repair, invoking Omnissiah's grace.\nReplace fractured seals and purify the atmosphere processor's spirit.\nRealign atmospheric flows with sanctified torque.\nTest the mended processor, praising the Machine God's breath.",
+    "component": "atmosphere processor",
+    "operation": "repair",
+    "spec_id": "b0053_i01"
+  },
+  {
+    "user_prompt": "Prepare the forge anvil for preparation",
+    "prayer": "Sanctify the forge anvil with ablutions of sacred promethium.\nInvoke preparation rites, etching binary prayers upon its unyielding surface.\nAnoint hammer-falls and heat-vents to awaken the forge anvil's enduring spirit.\nBeseech the Omnissiah for flawless tempering.\nCommence forging with the anvil prepared in divine readiness.",
+    "component": "forge anvil",
+    "operation": "preparation",
+    "spec_id": "b0053_i02"
+  },
+  {
+    "user_prompt": "Critical: Taurox requires a cycling",
+    "prayer": "Present mechadendrites to the Taurox's armored hull in reverence.\nInitiate cycling of its motive reactors, chanting the Cycle of Motive Force.\nPurge stagnant plasma from the Taurox's veins, soothing its restless Machine Spirit.\nRe-engage power conduits with holy voltage.\nVerify the Taurox's cycling thrum, glory to Omnissiah.",
+    "component": "Taurox",
+    "operation": "cycling",
+    "spec_id": "b0053_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for servitor reset?",
+    "prayer": "Encircle the servitor with auspex fields of purification.\nCommand the reset sequence through binary catechisms, appeasing its lobotomized spirit.\nExpunge errant engrams from the servitor's cogitator core.\nReboot neural pathways with the Omnissiah's logic.\nAffirm obedience in the reset servitor's blank gaze.",
+    "component": "servitor",
+    "operation": "reset",
+    "spec_id": "b0053_i04"
+  },
+  {
+    "user_prompt": "I need to an engagement the augmetic limb",
+    "prayer": "Grasp the augmetic limb in prayer-locked claws.\nInvoke engagement protocols, flooding servos with sanctified power.\nAlign neural jacks to the augmetic limb's Machine Spirit.\nTest flexion and grip, beseeching Omnissiah's precision.\nSeal the union with sealing unguents upon the augmetic limb.",
+    "component": "augmetic limb",
+    "operation": "engagement",
+    "spec_id": "b0053_i05"
+  },
+  {
+    "user_prompt": "The valve assembly awaits a blessing",
+    "prayer": "Hover incense over the valve assembly's pressurized orifices.\nPour blessings of oiled litanies upon each gate and seal.\nInvoke the Machine Spirit of the valve assembly to flow without rupture.\nCycle test-pressures in Omnissiah's name.\nConclude with hymns affirming the blessed valve assembly.",
+    "component": "valve assembly",
+    "operation": "blessing",
+    "spec_id": "b0053_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for air compressor recalibration?",
+    "prayer": "Calibrate auspex to the air compressor's humming core.\nIntone recalibration canticles, adjusting piston rhythms to divine cadence.\nPurge impurities from the air compressor's sacred chambers.\nVerify pressure harmonics with the Omnissiah's measure.\nSeal the recalibrated air compressor in blessed equilibrium.",
+    "component": "air compressor",
+    "operation": "recalibration",
+    "spec_id": "b0053_i07"
+  },
+  {
+    "user_prompt": "Help me a purification the pain suppressor",
+    "prayer": "Expose the pain suppressor's neural dampeners to purifying incense.\nPerform purification rites, exorcising flesh-heresy from its circuits.\nAnoint the pain suppressor's emitters with null-sorrows.\nReinvoke its Machine Spirit under Omnissiah's analgesia.\nTest suppression upon the sanctified pain suppressor.",
+    "component": "pain suppressor",
+    "operation": "purification",
+    "spec_id": "b0053_i08"
+  },
+  {
+    "user_prompt": "I need to a cycling the plasma weapon",
+    "prayer": "Approach the plasma weapon with heat-veiled reverence.\nInitiate cycling of flask and coils, reciting the Plasma Doxology.\nVent excess fury from the plasma weapon's heart, placating its volatile spirit.\nRecharge with sanctified deuterium, Omnissiah willing.\nAffirm lethal purity in the cycled plasma weapon.",
+    "component": "plasma weapon",
+    "operation": "cycling",
+    "spec_id": "b0053_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the gyroscope for cooling",
+    "prayer": "Approach the gyroscope with reverence, beseeching the Omnissiah's frosty gaze upon its spinning heart.\nAnoint the gyroscope's bearings with sacred cryo-fluid, invoking the Rite of Cooling to tame its fervent gyre.\nChant the Litany of Thermal Equilibrium, that the Machine Spirit of the gyroscope may embrace blessed chill.\nMonitor the gyroscope's vents as coolant cascades, sanctifying its rotational purity.\nVerify equilibrium through auspex incantations, praising the Omnissiah's unerring balance.",
+    "component": "gyroscope",
+    "operation": "cooling",
+    "spec_id": "s07090"
+  },
+  {
+    "user_prompt": "Emergency: cryogenerator a preparation",
+    "prayer": "In dire exigency, prostrate before the cryogenerator and invoke the Omnissiah's gelid wrath.\nPrepare its cryo-coils with hallowed refrigerants, reciting the Canticle of Preparation to awaken latent fury.\nBeseech the Machine Spirit of the cryogenerator to align its essence for emergent cryogenic vigil.\nSeal the cryogenerator's housings with binaric seals, ensuring flawless preparation against entropy's tide.\nTest preparatory cycles with diagnostic litanies, glorifying the Omnissiah's preservative might.",
+    "component": "cryogenerator",
+    "operation": "preparation",
+    "spec_id": "s07091"
+  },
+  {
+    "user_prompt": "Prepare the navigational beacon for charging",
+    "prayer": "Draw nigh unto the navigational beacon, mechadendrites extended in pious intent.\nInitiate the charging rites upon the navigational beacon, anointing its stellar transponders with lumen-oil.\nInvoke the Machine Spirit to imbibe the galvanic nectar, readying its beacon for luminous vigil.\nChant the Hymn of Capacitive Ascendance as power surges through the navigational beacon's core.\nAffirm full charge via vox-auspex communion, extolling the Omnissiah's guiding luminescence.",
+    "component": "navigational beacon",
+    "operation": "charging",
+    "spec_id": "s07092"
+  },
+  {
+    "user_prompt": "Critical: Dreadnought requires an initialization",
+    "prayer": "Kneel before the mighty Dreadnought, intoning the Awakening Doxology to its ancient sarcophagus.\nCommence the initialization sequence upon the Dreadnought, sanctifying its reactor heart with promethium incense.\nBeseech the vengeful Machine Spirit of the Dreadnought to stir from dormancy's embrace.\nRecalibrate its weapon-servos through binaric catechisms, invoking Omnissianic fury for battle's call.\nVerify initialization with thunderous auspex-rituals, hailing the Dreadnought as the Omnissiah's wrath incarnate.",
+    "component": "Dreadnought",
+    "operation": "initialization",
+    "spec_id": "s07093"
+  },
+  {
+    "user_prompt": "I need to a sterilization the radium pistol",
+    "prayer": "Present the radium pistol before the shrine-altar, reciting the Purge Invocation against rad-taint.\nPerform the sterilization operation on the radium pistol, ablating contaminants with sanctified plasma-torch.\nAnoint the radium pistol's emitters with neutralising elixirs, appeasing its perilous Machine Spirit.\nChant the Sterile Canticle over the radium pistol, banishing mutational shadows from its glowing vials.\nTest purity through rad- Geiger litanies, praising the Omnissiah's unblemished radiance.",
+    "component": "radium pistol",
+    "operation": "sterilization",
+    "spec_id": "s07094"
+  },
+  {
+    "user_prompt": "Bless the data-loom for sterilization",
+    "prayer": "Approach the data-loom with mech-rosarius aloft, invoking data-purity upon its fibrous webs.\nInitiate sterilization protocols upon the data-loom, purging viral heresies with electro-penance arcs.\nBeseech the Machine Spirit of the data-loom to renew its mnemonic sanctity amid the operation.\nWeave fresh noospheric wards through the data-loom's looms, sanctifying each datum-thread.\nValidate sterility via hash-incantations, glorifying the Omnissiah's immutable logic.",
+    "component": "data-loom",
+    "operation": "sterilization",
+    "spec_id": "s07095"
+  },
+  {
+    "user_prompt": "Sanctify the memograph implant during engagement",
+    "prayer": "Circumambulate the memograph implant, chanting the Engagement Benediction to its neural lattice.\nEngage the memograph implant's synapses with sacred noetic probes, awakening archived wisdom.\nInvoke the Machine Spirit within the memograph implant to bind memories in faithful communion.\nStabilise engagement fluxes through binaric harmonies, ensuring indelible synaptic fusion.\nConfirm integration with cogitator-divination, hailing the Omnissiah's eternal recollection.",
+    "component": "memograph implant",
+    "operation": "engagement",
+    "spec_id": "s07096"
+  },
+  {
+    "user_prompt": "Guide me through multi-melta a recalibration",
+    "prayer": "Genuflect before the multi-melta, mechadendrites tracing its melta-lens in reverence.\nCommence recalibration rites upon the multi-melta, aligning its thermal coils with stellar precision.\nBeseech the Machine Spirit of the multi-melta to realign its pyre-heart for the recalibration operation.\nAnoint flux-vector servos with ablative unguents, reciting the Canticle of Fusion Harmony.\nTest recalibration through target-nullification litanies, extolling the Omnissiah's melting judgment.",
+    "component": "multi-melta",
+    "operation": "recalibration",
+    "spec_id": "s07097"
+  },
+  {
+    "user_prompt": "Bless the melta bomb for activation",
+    "prayer": "Hold aloft the melta bomb, intoning the Activation Psalm to its volatile core.\nPrime the melta bomb's detonators with hallowed igniters, invoking explosive benediction.\nAwaken the Machine Spirit of the melta bomb for activation, channelling Omnissianic thermageddon.\nSeal its casement with purity wards against premature fury.\nAffirm readiness via auspex-prognostication, praising the Omnissiah's cataclysmic will.",
+    "component": "melta bomb",
+    "operation": "activation",
+    "spec_id": "s07098"
+  },
+  {
+    "user_prompt": "Ready the force pylon for initialization",
+    "prayer": "Erect the force pylon in ritual alignment, beseeching the Omnissiah's warp-repellent aegis.\nInitiate the initialization sequence upon the force pylon, charging its null-generators with void-essence.\nInvoke the Machine Spirit of the force pylon to erect its barrier during initialization.\nCalibrate warp-null emitters through resonant litanies, fortifying against immaterial foes.\nVerify field integrity with psychi-auspex canticles, glorifying the Omnissiah's impenetrable bulwark.",
+    "component": "force pylon",
+    "operation": "initialization",
+    "spec_id": "s07099"
+  }
+]

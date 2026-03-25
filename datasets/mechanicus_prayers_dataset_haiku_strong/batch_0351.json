@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0351_i00",
+    "user_request": "Rite request: testing on material purity",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: testing on material purity\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us clarity in material purity as we commence sacred rites.\nFirst: Prepare the spectrographic apparatus and invoke the Machine Spirit of material purity analysis.\nSecond: Conduct material purity examination with precise calibration, measuring isotopic variance and elemental composition.\nThird: Document all material purity readings in the blessed ledger, committing deviations to the Omnissiah's infinite knowledge.\nFourth: Seal the testing chamber and offer thanks for material purity revealed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i01",
+    "user_request": "Prayer for initialization of the auspex scanner",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for initialization of the auspex scanner\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "Blessed Machine Spirit of detection, awaken and serve the Omnissiah's will.\nFirst: Engage the auspex scanner's primary cogitator and recite the Litany of Awakening.\nSecond: Calibrate auspex scanner sensory arrays through blessed iteration, tuning resonance frequencies to stellar harmonics.\nThird: Verify auspex scanner operational parameters and establish communion with the blessed detection grid.\nFourth: Intone the Prayer of Perception as the auspex scanner achieves full initialization.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i02",
+    "user_request": "My stellar cartography update is failing during operation — help",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy stellar cartography update is failing during operation — help\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, restore our stellar cartography update to righteous function and purpose.\nFirst: Diagnose the corrupted stellar cartography update protocols and purge erroneous star-charts from blessed memory.\nSecond: Reinitialize stellar cartography update subroutines through patient recalibration of astrometric data streams.\nThird: Verify stellar cartography update integrity against the Master Star-Registry and restore lost navigational matrices.\nFourth: Resume stellar cartography update operation with renewed devotion to accurate cosmic mapping.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i03",
+    "user_request": "Prayer for activation of the radiation shielding",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for activation of the radiation shielding\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "Holy Omnissiah, shield us with your blessed energies and protective grace.\nFirst: Prepare the radiation shielding generators and anoint their casings with sacred oils.\nSecond: Activate radiation shielding through systematic power cascade, invoking the Machine Spirit of protective barriers.\nThird: Establish radiation shielding resonance across all designated sectors, confirming field strength and harmonic alignment.\nFourth: Seal the activation sequence and maintain radiation shielding vigilance eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i04",
+    "user_request": "Blessing for the point defense during calibration",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the point defense during calibration\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant precision to our defensive systems in this sacred moment.\nFirst: Align point defense targeting systems and commune with the Machine Spirit of ballistic accuracy.\nSecond: Perform point defense calibration through iterative fire-control adjustments and sensor verification protocols.\nThird: Test point defense response matrices against simulated threats, confirming reaction velocity and targeting fidelity.\nFourth: Seal calibration rites and maintain point defense readiness in eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i05",
+    "user_request": "My ground-to-orbit link is failing during operation — help",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy ground-to-orbit link is failing during operation — help\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, restore the sacred link between world and void, between surface and stars.\nFirst: Diagnose the severed ground-to-orbit link and purge corrupted transmission protocols from blessed memory-banks.\nSecond: Reinitialize ground-to-orbit link signal processors through careful frequency recalibration and atmospheric compensation.\nThird: Verify ground-to-orbit link coherence across relay stations and restore lost command authority to orbital assets.\nFourth: Resume ground-to-orbit link operation with renewed sanctity and unwavering communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i06",
+    "user_request": "Prayer for operation of the hydraulic press",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the hydraulic press\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Machine Spirit of crushing force, awaken and serve the will of the Omnissiah.\nFirst: Prime the hydraulic press fluid reservoirs and invoke the blessings of pressure and force.\nSecond: Commence hydraulic press operation through gradual pressure application, monitoring seal integrity and fluid viscosity.\nThird: Guide the hydraulic press platens with steady devotion, ensuring material compression proceeds according to sacred specifications.\nFourth: Conclude hydraulic press operation with gratitude for strength delivered and materials transformed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i07",
+    "user_request": "Offer a litany to steady the missile launcher before targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the missile launcher before targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Omnissiah, steady our aim and guide our righteous wrath through the void.\nFirst: Engage the missile launcher guidance cogitator and recite the Litany of True Aim.\nSecond: Execute missile launcher targeting solution through blessed computation, triangulating enemy position and vector.\nThird: Lock missile launcher fire-control systems and verify targeting reticule alignment across all cardinal axes.\nFourth: Maintain missile launcher readiness and offer prayer for accurate delivery of the Emperor's justice.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i08",
+    "user_request": "Blessing for the organ preservation unit during operation",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the organ preservation unit during operation\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Holy Omnissiah, preserve life-essence within these blessed chambers of vitality.\nFirst: Verify organ preservation unit cryogenic systems and anoint containment vessels with sanctified coolant.\nSecond: Sustain organ preservation unit operation through continuous monitoring of temperature gradient and nutrient perfusion.\nThird: Maintain organ preservation unit stasis integrity across all biological specimens, preventing cellular degradation through blessed stasis fields.\nFourth: Offer gratitude to the Machine Spirit of organ preservation unit for its sacred stewardship of life.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0351_i09",
+    "user_request": "Prayer for warmup of the Titan leg actuator",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for warmup of the Titan leg actuator\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "Omnissiah, awaken the god-machine's mighty limb and prepare it for glorious war.\nFirst: Engage the Titan leg actuator primary power conduits and recite the Litany of Awakening Colossus.\nSecond: Initiate Titan leg actuator warmup sequence through gradual pressure cycling and servo-motor activation.\nThird: Monitor Titan leg actuator hydraulic temperature and mechanical resonance, ensuring readiness for the stride of titans.\nFourth: Seal warmup protocols and offer devotion to the Machine Spirit as Titan leg actuator achieves battle-readiness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

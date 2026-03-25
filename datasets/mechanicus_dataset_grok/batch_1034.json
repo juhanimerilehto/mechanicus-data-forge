@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "How do I bless the Valkyrie gunship for purification?",
+    "prayer": "Approach the Valkyrie gunship in solemn procession, invoking the Omnissiah's purifying gaze.\nAnoint the Valkyrie gunship's fuselage with ablative sacraments to scour away impurity.\nBeseech the Machine Spirit within the Valkyrie gunship to embrace the purification operation.\nChant the Canticle of Flame over its thrusters, expunging daemonic taint.\nVerify sanctity through auspex harmonics, praising the Omnissiah's unerring light.",
+    "component": "Valkyrie gunship",
+    "operation": "purification",
+    "spec_id": "s06340"
+  },
+  {
+    "user_prompt": "Urgent cortex implant a repair needed",
+    "prayer": "Kneel before the cortex implant, murmuring the Litany of Restoration.\nExtract damaged noospheric threads from the cortex implant with sanctified mechadendrites.\nInvoke the Machine Spirit of the cortex implant, guiding the repair through binaric prayer.\nRealign synaptic conduits with precision canticles of the Omnissiah.\nTest neural interfaces, affirming the flesh-machine harmony.",
+    "component": "cortex implant",
+    "operation": "repair",
+    "spec_id": "s06341"
+  },
+  {
+    "user_prompt": "Help me a shutdown the panopticon",
+    "prayer": "Circumambulate the panopticon thrice, intoning the Doxology of Obedience.\nDisconnect primary oculi feeds while beseeching the panopticon’s Machine Spirit to quiesce.\nInitiate the shutdown operation via ritual override codes etched in adamantium.\nSeal data-vaults with wards of the Omnissiah against rogue impulses.\nConfirm dormancy through vox-silence diagnostics.",
+    "component": "panopticon",
+    "operation": "shutdown",
+    "spec_id": "s06342"
+  },
+  {
+    "user_prompt": "The webber requires a repair",
+    "prayer": "Present mechadendrites to the webber, reciting the Hymn of Mending Webs.\nPurge filament-clogged reservoirs from the webber with sacred solvents.\nCoax the webber's Machine Spirit back to vigour through repair incantations.\nRealign expulsion coils under the Omnissiah's watchful algorithms.\nCycle test-firing to affirm predatory readiness.",
+    "component": "webber",
+    "operation": "repair",
+    "spec_id": "s06343"
+  },
+  {
+    "user_prompt": "Help me a sterilization the data-arc",
+    "prayer": "Encircle the data-arc with purity fields, chanting the Purge of the Unclean.\nFlush viral corruptions from the data-arc's crystalline vaults.\nInvoke sterilization operation upon its noospheric conduits with flamens of binary fire.\nAnoint surviving logic-cores with the oil of the Omnissiah.\nScan for residual heresy, proclaiming data-purity.",
+    "component": "data-arc",
+    "operation": "sterilization",
+    "spec_id": "s06344"
+  },
+  {
+    "user_prompt": "Ready the warp drive for synchronization",
+    "prayer": "Commence alignment rites around the warp drive, invoking Motive Force harmonies.\nCalibrate gellar flux generators within the warp drive for unity.\nBeseech the warp drive's tempestuous Machine Spirit to yield to synchronization.\nHarmonize plasma conduits through Omnissiah-blessed oscillations.\nAffirm coherence via warp-echo auspex.",
+    "component": "warp drive",
+    "operation": "synchronization",
+    "spec_id": "s06345"
+  },
+  {
+    "user_prompt": "Emergency: photolenses a synchronization",
+    "prayer": "Approach the photolenses with optic reverence, intoning Syncronis Cantos.\nPurge refractive impurities from the photolenses' crystal matrices.\nInitiate synchronization operation, aligning focal arrays to the Omnissiah's light.\nInvoke the Machine Spirits of the photolenses for crystalline concord.\nValidate through spectrum incantations.",
+    "component": "photolenses",
+    "operation": "synchronization",
+    "spec_id": "s06346"
+  },
+  {
+    "user_prompt": "Help me a cooling the cortex implant",
+    "prayer": "Enfold the cortex implant in cryo-reliquaries, whispering Cooling Doxologies.\nEvoke thermal vents to draw excess fervour from the cortex implant.\nBeseech its Machine Spirit to embrace cooling equilibrium under Omnissiah's breath.\nMonitor synaptic thermals with chilled mechadendrite probes.\nRestore baseline stasis through frost-incantations.",
+    "component": "cortex implant",
+    "operation": "cooling",
+    "spec_id": "s06348"
+  },
+  {
+    "user_prompt": "Guide me through serberys raider a diagnostics",
+    "prayer": "Process to the serberys raider, auspex in hand for the Rite of Scrutiny.\nInterface with its cyber-ox neural cowl, invoking diagnostic litanies.\nProbe the serberys raider's Machine Spirit for faults in limb-servos and auspex.\nRecite Omnissiah's algorithms to reveal hidden discord.\nAffirm predatory vitality through motility tests.",
+    "component": "serberys raider",
+    "operation": "diagnostics",
+    "spec_id": "s06349"
+  }
+]

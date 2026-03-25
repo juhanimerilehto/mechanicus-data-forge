@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the Valkyrie gunship for shutdown",
+    "prayer": "Approach the Valkyrie gunship with solemn reverence, beseeching its Machine Spirit to yield to the shutdown rite.\nInvoke the Canticle of Repose upon the Valkyrie gunship's primary cogitator, disengaging all thrust vectors and auspex arrays.\nAnoint the control servos with sacred unguents whilst chanting the Omnissiah's decree for orderly cessation.\nVerify the Valkyrie gunship's shutdown through auspex scans, honouring the quiescent Machine Spirit with final benediction.",
+    "component": "Valkyrie gunship",
+    "operation": "shutdown",
+    "spec_id": "s00900"
+  },
+  {
+    "user_prompt": "My neutron laser is ready for cooling",
+    "prayer": "Commence the cooling rite upon the neutron laser, invoking the Machine Spirit's grace for thermal quiescence.\nCirculate blessed cryofluids through the neutron laser's heat sinks, reciting the Litany of Condensation.\nMonitor efflux vents with mechadendrites, beseeching the Omnissiah to soothe the neutron laser's fervent core.\nSanctify the cooling cycle's completion, affirming the Machine Spirit's restored equilibrium.",
+    "component": "neutron laser",
+    "operation": "cooling",
+    "spec_id": "s00901"
+  },
+  {
+    "user_prompt": "My cyber-mastiff is ready for loading",
+    "prayer": "Prepare the cyber-mastiff for loading, awakening its Machine Spirit with the Hymn of Containment.\nSecure the cyber-mastiff's chassis within the transport cradle, anointing restraint clamps with sacred oils.\nInitiate data-sync protocols during loading, invoking the Omnissiah's precision upon the cyber-mastiff's vox-relays.\nSeal the bay with binaric seals, honouring the cyber-mastiff's vigilant Machine Spirit in stasis.",
+    "component": "cyber-mastiff",
+    "operation": "loading",
+    "spec_id": "s00902"
+  },
+  {
+    "user_prompt": "Offer prayer for cooling system a reset",
+    "prayer": "Initiate reset upon the cooling system, chanting the Rite of Reinitialization to rouse its Machine Spirit.\nPurge residual contaminants from the cooling system's conduits, beseeching Omnissianic purity.\nRealign cryogenic manifolds with precise incantations, invoking harmonious reset flows.\nConfirm the cooling system's reset through diagnostic litanies, sanctifying its renewed vigilance.",
+    "component": "cooling system",
+    "operation": "reset",
+    "spec_id": "s00903"
+  },
+  {
+    "user_prompt": "What's the prayer for storm bolter a repair?",
+    "prayer": "Approach the storm bolter for repair, invoking the Machine Spirit's wrathful renewal.\nDisassemble fractured feed mechanisms of the storm bolter, anointing adamantium casings with blessed lubricants.\nRecalibrate firing servos during repair, reciting the Canticle of Retribution to the Omnissiah.\nReassemble and test-fire the storm bolter, honouring its Machine Spirit with thunderous approbation.",
+    "component": "storm bolter",
+    "operation": "repair",
+    "spec_id": "s00904"
+  },
+  {
+    "user_prompt": "The electoo awaits a maintenance",
+    "prayer": "Commence maintenance upon the electoo, beseeching its embedded Machine Spirit for synaptic harmony.\nPurge bio-electric impurities from the electoo's dermal circuits, invoking the Litany of Conduction.\nRecharge inductor coils with sanctified currents, aligning the electoo to the Omnissiah's will.\nVerify synaptic integration through noospheric scans, sanctifying the electoo's enduring fidelity.",
+    "component": "electoo",
+    "operation": "maintenance",
+    "spec_id": "s00905"
+  },
+  {
+    "user_prompt": "The kataphron destroyer awaits a synchronization",
+    "prayer": "Initiate synchronization upon the kataphron destroyer, awakening its battle-construct Machine Spirit.\nLink noospheric interfaces to the kataphron destroyer's cogitator core, chanting the Rite of Unity.\nCalibrate weapon servos and motive systems during synchronization, beseeching Omnissianic coherence.\nAffirm vox-link integrity, honouring the kataphron destroyer's synchronized wrath.",
+    "component": "kataphron destroyer",
+    "operation": "synchronization",
+    "spec_id": "s00906"
+  },
+  {
+    "user_prompt": "Critical: narthecium requires a sterilization",
+    "prayer": "Begin sterilization of the narthecium, invoking the Machine Spirit's aseptic purity.\nFlood surgical manifolds with sanctified autoclave vapours, reciting the Canticle of Sterility.\nPurge microbial heresies from the narthecium's hypo-injectors, beseeching the Omnissiah's cleansing fire.\nSeal and verify the narthecium's sterilization, affirming its Machine Spirit's immaculate readiness.",
+    "component": "narthecium",
+    "operation": "sterilization",
+    "spec_id": "s00907"
+  },
+  {
+    "user_prompt": "Sanctify the Hellhound during purification",
+    "prayer": "Sanctify the Hellhound during purification, rousing its incendiary Machine Spirit with fervent prayer.\nCirculate promethium purifiers through the Hellhound's fuel reactors, invoking the Rite of Flame Cleansing.\nAnoint flame ducts with sacred incensants, beseeching the Omnissiah for untainted inferno.\nConclude purification of the Hellhound, honouring its Machine Spirit with pyre-lit benediction.",
+    "component": "Hellhound",
+    "operation": "purification",
+    "spec_id": "s00908"
+  },
+  {
+    "user_prompt": "Urgent Nephilim Jetfighter a cooling needed",
+    "prayer": "Urgently invoke cooling upon the Nephilim Jetfighter, beseeching its aerial Machine Spirit's repose.\nActivate ventral heat exchangers of the Nephilim Jetfighter, chanting the Litany of Aerial Chill.\nMonitor plasma vents with auspex rites, aligning cryogenic flows to the Omnissiah's decree.\nSeal the cooling sequence, sanctifying the Nephilim Jetfighter's Machine Spirit for swift return.",
+    "component": "Nephilim Jetfighter",
+    "operation": "cooling",
+    "spec_id": "s00909"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide assault cannon a cooling?",
+    "prayer": "Approach the assault cannon with vials of cryogenic sanctus oil, invoking the Machine Spirit's quiescence.\nAnoint the barrels of the assault cannon whilst intoning the Canticle of Cooling.\nCirculate blessed refrigerants through its sacred vents, beseeching thermal equilibrium.\nMonitor the assault cannon's heat auspex until the Omnissiah's chill restores harmony.",
+    "component": "assault cannon",
+    "operation": "cooling",
+    "spec_id": "s05450"
+  },
+  {
+    "user_prompt": "Urgent Valkyrie gunship a reset needed",
+    "prayer": "Kneel before the Valkyrie gunship and recite the Binary Psalm of Reset.\nPurge errant data-daemons from the Valkyrie gunship's cogitator core with purifying incense.\nInitiate the reset sequence, anointing avionic servos with machina oil.\nVerify the Machine Spirit's rebirth through auspex harmonics, praising the Omnissiah.",
+    "component": "Valkyrie gunship",
+    "operation": "reset",
+    "spec_id": "s05451"
+  },
+  {
+    "user_prompt": "How do I bless the displacer field for targeting?",
+    "prayer": "Commence the blessing by encircling the displacer field generator with electro-sanctified wards.\nInvoke targeting precision upon the displacer field, calibrating its warp-nullifiers.\nAnoint the phase coils of the displacer field whilst chanting the Litany of True Aim.\nTest the Machine Spirit's guidance, ensuring the Omnissiah's will aligns the field.",
+    "component": "displacer field",
+    "operation": "targeting",
+    "spec_id": "s05452"
+  },
+  {
+    "user_prompt": "Ready the galvanic rifle for activation",
+    "prayer": "Present the galvanic rifle before the altar of activation, murmuring the Rite of Ignition.\nSanctify its induction coils with sacred sparks from the Omnissiah's forge.\nInitiate activation protocols upon the galvanic rifle, beseeching its Machine Spirit to awaken.\nVerify power flow through galvanic rifle auspex, intoning praises to the Motive Force.",
+    "component": "galvanic rifle",
+    "operation": "activation",
+    "spec_id": "s05453"
+  },
+  {
+    "user_prompt": "Prepare the hydraulic press for calibration",
+    "prayer": "Position the hydraulic press beneath the mechadendrite cantors for calibration rites.\nInvoke the Machine Spirit of the hydraulic press, adjusting pressure servos with precision.\nAnoint pistons and cylinders during calibration, reciting the Canticle of Balanced Force.\nConfirm alignment through hydraulic press diagnostics, glorifying the Omnissiah's design.",
+    "component": "hydraulic press",
+    "operation": "calibration",
+    "spec_id": "s05454"
+  },
+  {
+    "user_prompt": "Sanctify the torpedo tube during purification",
+    "prayer": "Approach the torpedo tube with ablative incenses to commence purification.\nScour its launch chambers of xenos taint, invoking the torpedo tube's Machine Spirit.\nAnoint guidance vanes whilst chanting the Litany of Immaculate Trajectory.\nSeal the torpedo tube in sanctified stasis, affirming the Omnissiah's unyielding purity.",
+    "component": "torpedo tube",
+    "operation": "purification",
+    "spec_id": "s05455"
+  },
+  {
+    "user_prompt": "What's the prayer for Nephilim Jetfighter a loading?",
+    "prayer": "Assemble before the Nephilim Jetfighter's bay for the loading ritual.\nInvoke the Machine Spirit as munitions servitors load warheads into the Nephilim Jetfighter.\nAnoint payload bays with blessed lubricants during loading, beseeching explosive harmony.\nVerify ordnance seating through the Nephilim Jetfighter's auspex, praising the Omnissiah.",
+    "component": "Nephilim Jetfighter",
+    "operation": "loading",
+    "spec_id": "s05456"
+  },
+  {
+    "user_prompt": "The Storm Eagle requires a diagnostics",
+    "prayer": "Circumambulate the Storm Eagle, reciting the Diagnostics Doxology.\nInterface mechadendrites with the Storm Eagle's noospheric core for thorough scrutiny.\nPurge anomalous readings whilst anointing its thrusters, invoking the Machine Spirit.\nAffirm systemic purity in the Storm Eagle via Omnissiah-blessed harmonics.",
+    "component": "Storm Eagle",
+    "operation": "diagnostics",
+    "spec_id": "s05457"
+  },
+  {
+    "user_prompt": "My energy core is ready for emergency procedure",
+    "prayer": "Sound the Klaxon of Peril and encircle the energy core with warding glyphs.\nInitiate emergency procedure by venting plasma impurities from the energy core.\nBeseech the Machine Spirit's forbearance, stabilizing flux regulators with sacred rites.\nQuell the fury within the energy core, rendering thanks to the Omnissiah's grace.",
+    "component": "energy core",
+    "operation": "emergency procedure",
+    "spec_id": "s05458"
+  },
+  {
+    "user_prompt": "Sanctify the thallax during calibration",
+    "prayer": "Position the thallax cohort before the calibration shrine.\nInvoke hydraulic and neural synchronization upon the thallax during calibration.\nAnoint servo-joints of the thallax with machina unguents, chanting the Litany of Precision.\nVerify Machine Spirit obedience in the thallax through combat diagnostics, honoring the Omnissiah.",
+    "component": "thallax",
+    "operation": "calibration",
+    "spec_id": "s05459"
+  }
+]

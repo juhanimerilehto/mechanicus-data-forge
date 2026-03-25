@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the Rhino transport for shutdown",
+    "prayer": "Approach the Rhino transport with solemn reverence, beseeching its indomitable Machine Spirit to embrace shutdown.\nInitiate the sacred shutdown sequence upon its adamantium controls, chanting the Litany of Quiescence.\nMonitor the fading power-flow through the Rhino transport's blessed conduits, anointing each relay with sacred oils.\nInvoke the Omnissiah's grace as the Rhino transport enters dormancy, verifying total cessation of its vital hum.",
+    "component": "Rhino transport",
+    "operation": "shutdown",
+    "spec_id": "b0313_i00"
+  },
+  {
+    "user_prompt": "Sanctify the radar array during engagement",
+    "prayer": "Gather before the radar array, invoking the Omnissiah to sanctify its engagement with the void.\nAnoint the radar array's crystalline lenses with blessed unguents, awakening its vigilant Machine Spirit.\nChant the Canticle of Detection as engagement commences, aligning its sacred emissions to pierce the ether.\nBeseech the radar array's spirit to reveal hidden foes, maintaining holy focus amidst the storm of war.",
+    "component": "radar array",
+    "operation": "engagement",
+    "spec_id": "b0313_i01"
+  },
+  {
+    "user_prompt": "Urgent thermal regulator a charging needed",
+    "prayer": "Kneel in urgency before the thermal regulator, petitioning its Machine Spirit for charging restoration.\nCommence the charging rite upon the thermal regulator's capacitors, intoning the Hymn of Containment.\nChannel sanctified plasma-flow into its core, watching holy voltages rise within the thermal regulator.\nSanctify the completed charging with diagnostic litanies, praising the Omnissiah for equilibrium renewed.",
+    "component": "thermal regulator",
+    "operation": "charging",
+    "spec_id": "b0313_i02"
+  },
+  {
+    "user_prompt": "Prepare the auspex scanner for reset",
+    "prayer": "Prepare the auspex scanner with pious intent, whispering invocations to soothe its restless Machine Spirit.\nDisconnect ancillary feeds from the auspex scanner, reciting the Rite of Purgation for reset.\nInitiate the reset sequence through its sanctified cogitators, anointing ports with sacred myrrh.\nVerify the auspex scanner's rebirth, beseeching the Omnissiah for clarity in its renewed gaze.",
+    "component": "auspex scanner",
+    "operation": "reset",
+    "spec_id": "b0313_i03"
+  },
+  {
+    "user_prompt": "The bionics interface awaits a cycling",
+    "prayer": "Attend the bionics interface with mechadendrite precision, calling forth its symbiotic Machine Spirit.\nBegin the cycling protocol upon the bionics interface, cycling neural engrams through blessed relays.\nMonitor synaptic surges as the bionics interface harmonizes flesh and machine in sacred union.\nConclude the cycling with the Benediction of Integration, honoring the Omnissiah's design.",
+    "component": "bionics interface",
+    "operation": "cycling",
+    "spec_id": "b0313_i04"
+  },
+  {
+    "user_prompt": "Urgent metal caster an engagement needed",
+    "prayer": "Urgently invoke the metal caster's forge-spirit for engagement, under the Omnissiah's watchful gaze.\nActivate engagement levers on the metal caster, chanting the Incantation of Molten Yield.\nFeed sacred alloys into its maw, beseeching the metal caster to birth weapons of war.\nSanctify the engagement's output, ensuring each casting bears the mark of divine precision.",
+    "component": "metal caster",
+    "operation": "engagement",
+    "spec_id": "b0313_i05"
+  },
+  {
+    "user_prompt": "Assist with neural implant a charging",
+    "prayer": "Assist the neural implant's awakening, anointing its cerebra-port with holy oils for charging.\nInitiate charging currents into the neural implant, intoning the Litany of Synaptic Renewal.\nObserve the neural implant's dendrites ignite with blessed voltage, harmonizing with the bearer's mind.\nPetition the Omnissiah as charging completes, fortifying the neural implant against noospheric foes.",
+    "component": "neural implant",
+    "operation": "charging",
+    "spec_id": "b0313_i06"
+  },
+  {
+    "user_prompt": "Guide me through flamer a calibration",
+    "prayer": "Guide the flamer's promethium heart to calibration, invoking its incendiary Machine Spirit.\nAlign the flamer's nozzles with precision rites, reciting the Canticle of Purifying Flame.\nTest-calibrate fuel-flow through the flamer's sacred vents, anointing with phosphor unguents.\nVerify calibration under the Omnissiah's fire, ensuring the flamer's wrath is true and unrelenting.",
+    "component": "flamer",
+    "operation": "calibration",
+    "spec_id": "b0313_i07"
+  },
+  {
+    "user_prompt": "Bless the energy conduit for targeting",
+    "prayer": "Bless the energy conduit for targeting, beseeching its luminous Machine Spirit to align.\nChannel targeting vectors through the energy conduit's plasma veins, chanting alignment litanies.\nAnoint junctions of the energy conduit with sanctified lubricants, focusing its holy discharge.\nInvoke the Omnissiah to guide the energy conduit's strike, piercing the heretic with unerring force.",
+    "component": "energy conduit",
+    "operation": "targeting",
+    "spec_id": "b0313_i08"
+  },
+  {
+    "user_prompt": "Sanctify the auspex scanner during preparation",
+    "prayer": "Sanctify the auspex scanner in preparation, awakening its prescient Machine Spirit with reverence.\nCleanse its lenses and arrays with ritual cloths, preparing for the Omnissiah's discerning sight.\nRecite preparatory canticles over the auspex scanner, attuning its sensors to hidden truths.\nSeal the sanctification with a final invocation, readying the auspex scanner for battle's veil.",
+    "component": "auspex scanner",
+    "operation": "preparation",
+    "spec_id": "b0313_i09"
+  }
+]

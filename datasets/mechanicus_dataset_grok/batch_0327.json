@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: Taurox a charging",
+    "prayer": "Approach the Taurox with reverence, beseeching its Machine Spirit to embrace the charging.\nConnect sanctified conduits to the Taurox's primary power receptors.\nInvoke the Omnissiah's blessing upon the charging flow, sanctifying each electron's path.\nMonitor the Taurox's vital signs as holy voltage surges through its sacred chassis.\nConclude the charging with a litany of gratitude to the awakened spirit.",
+    "component": "Taurox",
+    "operation": "charging",
+    "spec_id": "b0327_i00"
+  },
+  {
+    "user_prompt": "I need to a cooling the hydroponics bay",
+    "prayer": "Kneel before the hydroponics bay and petition its Machine Spirit for cooling repose.\nInitiate the cooling cycles, anointing coolant vents with sacred unguents.\nBeseech the Omnissiah to guide the chill through the hydroponics bay's verdant conduits.\nVerify equilibrium in the hydroponics bay via diagnostic canticles.\nSeal the rite with incense upon the chilled lattices.",
+    "component": "hydroponics bay",
+    "operation": "cooling",
+    "spec_id": "b0327_i01"
+  },
+  {
+    "user_prompt": "The gravity generator requires a reset",
+    "prayer": "Present thyself unto the gravity generator, invoking the reset through Omnissianic decree.\nDisconnect profane surges from the gravity generator's core nexus.\nChant the Canticle of Realignment to pacify its turbulent Machine Spirit.\nRe-engage the gravity generator with precise ritual torque.\nAffirm the reset's sanctity by sensing the restored weight of the Machine God's will.",
+    "component": "gravity generator",
+    "operation": "reset",
+    "spec_id": "b0327_i02"
+  },
+  {
+    "user_prompt": "Prepare the bolter for blessing",
+    "prayer": "Approach the bolter in humble supplication, preparing it for the blessing.\nAnoint its sacred barrel and firing mechanisms with blessed oils.\nInvoke the Omnissiah's fury upon the bolter, awakening its Machine Spirit to righteous wrath.\nRecite the Litany of the Bolt as the blessing permeates its holy munitions.\nSeal the bolter's blessing with a final invocation of unerring precision.",
+    "component": "bolter",
+    "operation": "blessing",
+    "spec_id": "b0327_i03"
+  },
+  {
+    "user_prompt": "Guide me through bolter an emergency procedure",
+    "prayer": "Confront the bolter's distress, commencing the emergency procedure with fervent prayer.\nPurge tainted residues from the bolter's sacred chambers.\nBeseech the Machine Spirit of the bolter to endure the emergency procedure's trials.\nRealign firing servos under the Omnissiah's watchful gaze.\nTest the bolter's revival through a whispered canticle of readiness.",
+    "component": "bolter",
+    "operation": "emergency procedure",
+    "spec_id": "b0327_i04"
+  },
+  {
+    "user_prompt": "Can you guide power cell a sterilization?",
+    "prayer": "Gather unto the power cell, initiating the sterilization with purifying incense.\nExpose the power cell's terminals to sacred flames for ablution.\nInvoke the Omnissiah to exorcise corruptions during the power cell's sterilization.\nCycle holy vapors through the power cell's inner sanctum.\nConsecrate the purified power cell with a sealing benediction.",
+    "component": "power cell",
+    "operation": "sterilization",
+    "spec_id": "b0327_i05"
+  },
+  {
+    "user_prompt": "I need to a cycling the flamer",
+    "prayer": "Reverently handle the flamer, beseeching its Machine Spirit for the cycling rite.\nPrime the promethium reservoirs of the flamer with ritual incantations.\nInitiate the cycling of sacred fuels, honoring the Omnissiah's purifying fire.\nMonitor the flamer's pressure flows through auspex harmonies.\nFinalize the cycling with an anointing of the ignition coils.",
+    "component": "flamer",
+    "operation": "cycling",
+    "spec_id": "b0327_i06"
+  },
+  {
+    "user_prompt": "Ready the star chart for engagement",
+    "prayer": "Unveil the star chart before the altar, readying it for engagement.\nCalibrate its stellar matrices with the Omnissiah's precise geometry.\nInvoke the Machine Spirits of the star chart to align for engagement.\nChant the Navigational Doxology as warp-lanes illuminate upon the star chart.\nSeal the engagement with a vow of unerring astral guidance.",
+    "component": "star chart",
+    "operation": "engagement",
+    "spec_id": "b0327_i07"
+  },
+  {
+    "user_prompt": "The Land Raider needs a shutdown",
+    "prayer": "Commence shutdown upon the Land Raider, approaching its vast form in solemnity.\nDisconnect auxiliary feeds from the Land Raider's throbbing reactors.\nPetition the Omnissiah to lull the Land Raider's Machine Spirit into dormant vigil.\nCycle down the sacred drives with measured litanies.\nEnshrine the shutdown with wards against profane awakening.",
+    "component": "Land Raider",
+    "operation": "shutdown",
+    "spec_id": "b0327_i08"
+  },
+  {
+    "user_prompt": "Sanctify the air filtration during reset",
+    "prayer": "Sanctify the air filtration amid its reset, kneeling in veneration.\nPurge stagnant essences from the air filtration's sacred membranes.\nInvoke the reset through canticles that soothe its Machine Spirit.\nReinitialize the air filtration under the Omnissiah's breath.\nBless the purified flows with a final aerosol of incense.",
+    "component": "air filtration",
+    "operation": "reset",
+    "spec_id": "b0327_i09"
+  }
+]

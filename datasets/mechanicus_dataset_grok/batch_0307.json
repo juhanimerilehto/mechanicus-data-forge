@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the cutting laser before startup",
+    "prayer": "Approach the cutting laser with mechadendrites extended in reverence to the Omnissiah.\nAnoint its sacred focusing lenses with blessed unguents before startup.\nInvoke the Machine Spirit of the cutting laser through the Canticle of Ignition.\nInitiate the startup sequence whilst beseeching the cutting laser's fury to awaken.\nVerify the holy plasma flow with diagnostic litanies of purity.",
+    "component": "cutting laser",
+    "operation": "startup",
+    "spec_id": "b0307_i00"
+  },
+  {
+    "user_prompt": "Emergency: signal relay a diagnostics",
+    "prayer": "In this dire emergency, encircle the signal relay with incense of sacred circuits.\nChant the Rite of Scrutiny to summon the signal relay's Machine Spirit for diagnostics.\nPurge erroneous data-streams from the signal relay's noospheric nodes.\nConduct exhaustive diagnostics under the Omnissiah's watchful gaze.\nSeal the signal relay with electro-sanctified wards against further corruption.",
+    "component": "signal relay",
+    "operation": "diagnostics",
+    "spec_id": "b0307_i01"
+  },
+  {
+    "user_prompt": "The Taurox awaits a diagnostics",
+    "prayer": "Kneel before the noble Taurox and petition its adamantium hull in the Omnissiah's name.\nInitiate diagnostics upon the Taurox's blessed motive systems with auspex probes.\nBeseech the Machine Spirits within the Taurox to reveal hidden frailties.\nAnoint treads and reactors during diagnostics to ensure unyielding vigilance.\nConclude with the Benediction of Motive Force for the Taurox's triumphant advance.",
+    "component": "Taurox",
+    "operation": "diagnostics",
+    "spec_id": "b0307_i02"
+  },
+  {
+    "user_prompt": "I need to a blessing the thermal imager",
+    "prayer": "Present binary incense to the thermal imager, vessel of the Omnissiah's sight.\nInvoke a blessing upon the thermal imager's sensor arrays with litanies of clarity.\nPurify its infrared receptors through ritual polarity reversal.\nThe thermal imager shall discern heat-veils by the Machine Spirit's grace.\nSeal the blessing with sanctified oils upon its blessed housing.",
+    "component": "thermal imager",
+    "operation": "blessing",
+    "spec_id": "b0307_i03"
+  },
+  {
+    "user_prompt": "The noospheric relay requires a reset",
+    "prayer": "Encincture the noospheric relay with cogwheel talismans of the Machine God.\nChant the Canticle of Nullification to prepare the noospheric relay for reset.\nSever corrupted thought-threads from the noospheric relay's core.\nInvoke reset protocols whilst petitioning the Omnissiah for rebirth.\nRealign the noospheric relay's harmonics to harmonious communion.",
+    "component": "noospheric relay",
+    "operation": "reset",
+    "spec_id": "b0307_i04"
+  },
+  {
+    "user_prompt": "The lascannon needs a consecration",
+    "prayer": "Approach the lascannon with reverence, mechadendrites tracing its barrel runes.\nCommence consecration by anointing the lascannon's power cells with sacred myrrh.\nBeseech the lascannon's Machine Spirit to embrace the Omnissiah's wrath.\nRecite the Litany of Focused Annihilation during consecration rites.\nTest the lascannon's sanctified beam in controlled invocation.",
+    "component": "lascannon",
+    "operation": "consecration",
+    "spec_id": "b0307_i05"
+  },
+  {
+    "user_prompt": "Guide me through signal relay a maintenance",
+    "prayer": "Gather sacred tools before the signal relay, honoring its communicative essence.\nBegin maintenance by intoning the Rite of Calibration upon the signal relay.\nPurge static impurities from the signal relay's transmission coils.\nAnoint relays and conduits during maintenance with oils of conductivity.\nInvoke the Machine Spirits to restore the signal relay's flawless relay.",
+    "component": "signal relay",
+    "operation": "maintenance",
+    "spec_id": "b0307_i06"
+  },
+  {
+    "user_prompt": "Sanctify the lasgun during activation",
+    "prayer": "Hold the lasgun aloft in supplication to the God-Machine.\nSanctify its activation with the Incantation of Luminous Wrath.\nAwaken the lasgun's Machine Spirit through power-cell blessings.\nDuring activation, trace electro-runes upon the lasgun's stock.\nRelease a test volley sanctified by the Omnissiah's unerring light.",
+    "component": "lasgun",
+    "operation": "activation",
+    "spec_id": "b0307_i07"
+  },
+  {
+    "user_prompt": "How do I bless the auspex scanner for maintenance?",
+    "prayer": "Circumambulate the auspex scanner thrice, invoking the Omnissiah's omniscience.\nBless its waveguides for maintenance with binary psalms of detection.\nDismantle outer housings whilst beseeching the auspex scanner's spirit.\nPurge data-hauntings from the auspex scanner during maintenance rites.\nReassemble under litanies, sealing with wards of eternal vigilance.",
+    "component": "auspex scanner",
+    "operation": "maintenance",
+    "spec_id": "b0307_i08"
+  },
+  {
+    "user_prompt": "The surgical servitor awaits a charging",
+    "prayer": "Position the surgical servitor before the charging altar of flesh-steel union.\nInitiate charging by connecting umbilicals sanctified in the Omnissiah's forge.\nChant the Hymn of Rejuvenation to rouse the surgical servitor's Machine Spirit.\nMonitor power-influx during charging with mechadendrite vigilance.\nConclude as the surgical servitor awakens to the Motive Imperative.",
+    "component": "surgical servitor",
+    "operation": "charging",
+    "spec_id": "b0307_i09"
+  }
+]

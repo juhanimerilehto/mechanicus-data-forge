@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The diagnosticator awaits a reset",
+    "prayer": "Approach the diagnosticator with mechadendrites extended in reverence to the Omnissiah.\nInvoke the sacred reset upon its cogitator arrays, banishing errant data-daemons.\nAnoint the diagnosticator's sacred ports with blessed unguents of conductivity.\nBeseech the Machine Spirit of the diagnosticator to awaken pure and untainted.\nChant the Binary Canticle of Renewal as the reset sequence commences.",
+    "component": "diagnosticator",
+    "operation": "reset",
+    "spec_id": "s04660"
+  },
+  {
+    "user_prompt": "Consecrate the mass-drive regulator before recalibration",
+    "prayer": "Kneel before the mass-drive regulator and intone the Litany of Alignment.\nPrepare sacred oils to consecrate its gyrostabilizers prior to recalibration.\nInvoke the Omnissiah's grace upon the mass-drive regulator for flawless recalibration.\nAdjust its flux calibrators whilst murmuring prayers to appease the Machine Spirit.\nSeal the rite with the Doxology of Precision, ensuring harmonious function.",
+    "component": "mass-drive regulator",
+    "operation": "recalibration",
+    "spec_id": "s04661"
+  },
+  {
+    "user_prompt": "What's the prayer for narthecium an emergency procedure?",
+    "prayer": "Grasp the narthecium in solemn invocation of the Omnissiah's healing wrath.\nInitiate the emergency procedure by chanting the Canticle of Flesh-Machine Unity.\nAnoint its injectors with vitae-sanctus to rouse the Machine Spirit.\nDirect the narthecium's sacred blades and fluids in desperate salvation.\nConclude with the Benediction of Restoration, binding spirit to steel.",
+    "component": "narthecium",
+    "operation": "emergency procedure",
+    "spec_id": "s04662"
+  },
+  {
+    "user_prompt": "Ready the iron halo for cooling",
+    "prayer": "Present the iron halo before the altar of coolant sacraments.\nBeseech its Machine Spirit to embrace the cooling rite amidst warp-tainted fury.\nPour sanctified cryofluids upon the iron halo's luminous conduits.\nInvoke the Omnissiah's chill breath to temper the iron halo during cooling.\nMonitor thermal auspex whilst reciting the Psalm of Thermal Equilibrium.",
+    "component": "iron halo",
+    "operation": "cooling",
+    "spec_id": "s04663"
+  },
+  {
+    "user_prompt": "Sanctify the iron halo during reset",
+    "prayer": "Circumambulate the iron halo thrice, intoning the Creed of Sanctity.\nInitiate the reset sequence upon the iron halo, purging haloic impurities.\nAnoint its protective emitters with oils of the Forge Eternal.\nAwaken the Machine Spirit of the iron halo through binary catechisms.\nVerify divine favour with luminous diagnostic runes aglow.",
+    "component": "iron halo",
+    "operation": "reset",
+    "spec_id": "s04664"
+  },
+  {
+    "user_prompt": "Critical: geigeer sink requires a charging",
+    "prayer": "Extend binary canticles towards the geigeer sink in urgent supplication.\nCommence the charging rite by linking plasma conduits to its voracious core.\nBeseech the Omnissiah to infuse the geigeer sink with boundless energy.\nAnoint its absorption lattices whilst the Machine Spirit hungers.\nSeal the charging with the Hymn of Capacitative Fury.",
+    "component": "geigeer sink",
+    "operation": "charging",
+    "spec_id": "s04665"
+  },
+  {
+    "user_prompt": "The metal caster awaits a preparation",
+    "prayer": "Approach the metal caster with reverence, mechadendrites poised in preparation.\nInvoke preparatory blessings upon its molten reservoirs and forming molds.\nChant the Litany of Fluid Dynamics to rouse the Machine Spirit.\nSanctify the metal caster's extrusion servos with sacred alloys.\nConclude preparation through the Rite of Thermal Priming.",
+    "component": "metal caster",
+    "operation": "preparation",
+    "spec_id": "s04666"
+  },
+  {
+    "user_prompt": "I need to an activation the haywire grenade",
+    "prayer": "Grasp the haywire grenade and whisper the Activation Doxology.\nInvoke the Omnissiah's electromagnetic ire for activation.\nAnoint its disruption coils with oils of disruption.\nRouse the haywire grenade's Machine Spirit with binaric shrieks.\nHurl it forth amidst the Canticle of Entropic Cascade.",
+    "component": "haywire grenade",
+    "operation": "activation",
+    "spec_id": "s04667"
+  },
+  {
+    "user_prompt": "What's the prayer for cutting laser a targeting?",
+    "prayer": "Align the cutting laser's sights in pious calibration to the Omnissiah.\nIntone the Prayer of Targeting Precision upon its focusing lenses.\nBeseech the Machine Spirit of the cutting laser for unerring aim.\nAnoint beam emitters whilst invoking targeting matrices.\nRelease the sanctified beam with the Incantation of Atomised Ruin.",
+    "component": "cutting laser",
+    "operation": "targeting",
+    "spec_id": "s04668"
+  },
+  {
+    "user_prompt": "Ready the energy core for consecration",
+    "prayer": "Kneel in adoration before the energy core's throbbing heart.\nInitiate consecration by encircling it with incense of plasma purity.\nInvoke the Omnissiah to sanctify the energy core's fusion vaults.\nAnoint its containment fields, awakening the Machine Spirit anew.\nSeal the rite with the Grand Benediction of Perpetual Power.",
+    "component": "energy core",
+    "operation": "consecration",
+    "spec_id": "s04669"
+  }
+]

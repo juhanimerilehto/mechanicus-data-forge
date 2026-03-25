@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Dreadnought awaits a purification",
+    "prayer": "Approach the venerable Dreadnought with prostrated reverence, beseeching its ancient Machine Spirit.\nAnoint its sarcophagus and adamantium chassis with sacred unguents of purification.\nChant the Canticles of Scouring to invoke the rites of purification upon the Dreadnought.\nPurge corrupted essences through electro-incantations and blessed incense.\nVerify the Dreadnought's sanctity by auspex communion with the Omnissiah.",
+    "component": "Dreadnought",
+    "operation": "purification",
+    "spec_id": "s00040"
+  },
+  {
+    "user_prompt": "I need to a cooling the data-loom",
+    "prayer": "Kneel before the sacred data-loom, invoking the ancient cooling protocols.\nCirculate cryogenic refrigerants through its fibre-optic conduits.\nRecite the Hymns of Thermal Abeyance upon the data-loom's cooling vents.\nBeseech the Machine Spirits to quell the febrile overcharge within the data-loom.\nAffirm cryogenic equilibrium through ritual thermographic scans.",
+    "component": "data-loom",
+    "operation": "cooling",
+    "spec_id": "s00041"
+  },
+  {
+    "user_prompt": "The diagnosticator awaits a diagnostics",
+    "prayer": "Present thyself unto the diagnosticator with mechadendrite reverence.\nInitiate the sacred diagnostics sequence upon its cogitator arrays.\nChant the Lexicon of Fault-Revelation as diagnostic runes illuminate.\nCommune deeply with the diagnosticator's Machine Spirit for veritas unveiled.\nSanctify the diagnosticator's findings in the Omnissiah's binary light.",
+    "component": "diagnosticator",
+    "operation": "diagnostics",
+    "spec_id": "s00042"
+  },
+  {
+    "user_prompt": "Assist with gyroscope a diagnostics",
+    "prayer": "Approach the gyroscope assembly with gyro-stabilised precision.\nEngage the diagnostics rites, aligning its rotational sanctums.\nInvoke the Omnissiah to expose discordant oscillations in the gyroscope.\nAnoint crystalline bearings with consecrated lubricants during diagnostics.\nCalibrate the gyroscope's equilibrium through binaric harmonisation.",
+    "component": "gyroscope",
+    "operation": "diagnostics",
+    "spec_id": "s00043"
+  },
+  {
+    "user_prompt": "Emergency: graviton pylon a maintenance",
+    "prayer": "In dire exigency, ritualise maintenance upon the graviton pylon.\nInspect quantum emitters with auspex veneration for the graviton pylon.\nPerform sanctifying invocations over each gravitic coil in maintenance.\nBeseech the Machine Spirit of the graviton pylon to fortify its aegis.\nSeal structural integrities with electro-consecrated runes.",
+    "component": "graviton pylon",
+    "operation": "maintenance",
+    "spec_id": "s00044"
+  },
+  {
+    "user_prompt": "The eradication beamer needs a targeting",
+    "prayer": "Attune thyself to the eradication beamer's targeting matrices.\nChant litanies of ballistic precision for the eradication beamer.\nInvoke the Omnissiah to align its targeting reticules unerringly.\nCalibrate photonic lenses whilst beseeching the Machine Spirit.\nTest the eradication beamer's targeting verity on simulacra foes.",
+    "component": "eradication beamer",
+    "operation": "targeting",
+    "spec_id": "s00045"
+  },
+  {
+    "user_prompt": "Help me a cooling the melta bomb",
+    "prayer": "Handle the melta bomb with ritual caution in cooling rites.\nApply cryogenic unguents to pacify its plasmic fury.\nRecite the Sutras of Thermal Quelling upon the melta bomb.\nInvoke Machine Spirits to stabilise the volatile core during cooling.\nConfirm the melta bomb's thermal quiescence by auspex vigil.",
+    "component": "melta bomb",
+    "operation": "cooling",
+    "spec_id": "s00046"
+  },
+  {
+    "user_prompt": "The conversion field awaits a diagnostics",
+    "prayer": "Approach the conversion field generator in warp-attuned reverence.\nInitiate diagnostics upon the shimmering conversion field.\nProbe its nucleon coils with sanctified auspex during diagnostics.\nBeseech the Omnissiah for revelation of any daemonic taint in the conversion field.\nPurge anomalies with binaric exorcism rites.",
+    "component": "conversion field",
+    "operation": "diagnostics",
+    "spec_id": "s00047"
+  },
+  {
+    "user_prompt": "Consecrate the heavy bolter before charging",
+    "prayer": "Consecrate the heavy bolter with oils of adamantic potency.\nCommence charging rites by loading promethium cells with litanies.\nInvoke the Machine Spirit of the heavy bolter to embrace the influx.\nMonitor energetic ascension through voltmetric incantations.\nBless the fully charged heavy bolter for the Omnissiah's thunderous judgement.",
+    "component": "heavy bolter",
+    "operation": "charging",
+    "spec_id": "s00048"
+  },
+  {
+    "user_prompt": "The void shield generator awaits an operation",
+    "prayer": "Prepare the void shield generator for operational consecration.\nInitiate the operation sequence with invocations to the Omnissiah.\nAttune phase-vortex generators to weave impenetrable voids.\nCommune with the void shield generator's Machine Spirits in operation.\nAffirm its aegis endures through ritual field-stress trials.",
+    "component": "void shield generator",
+    "operation": "operation",
+    "spec_id": "s00049"
+  }
+]

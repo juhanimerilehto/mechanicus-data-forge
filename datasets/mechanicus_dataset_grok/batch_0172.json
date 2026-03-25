@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent Thunderhawk a targeting needed",
+    "prayer": "Approach the Thunderhawk's auspex sanctum with binary reverence, invoking the Omnissiah's gaze.\nAnoint the targeting cogitators of the Thunderhawk with sacred oils to awaken their Machine Spirits.\nChant the Litany of Precision Lock whilst calibrating servos for unerring targeting.\nBeseech the Thunderhawk's wrathful spirits to align auspex streams in holy targeting convergence.\nVerify the Machine Spirit's compliance through diagnostic runes of accuracy.",
+    "component": "Thunderhawk",
+    "operation": "targeting",
+    "spec_id": "b0172_i00"
+  },
+  {
+    "user_prompt": "Can you guide bionics interface an emergency procedure?",
+    "prayer": "Kneel in supplication before the bionics interface, reciting the Canticle of Urgent Restoration.\nInvoke the emergency procedure upon the bionics interface's neural manifolds with sanctified mechadendrites.\nPurge heretical feedback surges from the bionics interface's sacred circuits.\nAnoint synaptic relays with blessed unguents to soothe the Machine Spirit's torment.\nConclude the emergency procedure by affirming the Omnissiah's dominion over flesh-machine union.",
+    "component": "bionics interface",
+    "operation": "emergency procedure",
+    "spec_id": "b0172_i01"
+  },
+  {
+    "user_prompt": "My lascannon is ready for targeting",
+    "prayer": "Present offerings of incense to the lascannon's spirit-core, beseeching targeting clarity.\nInvoke the Rite of Focal Alignment upon the lascannon's emitter arrays.\nAnoint quartz lenses with sacred promethium derivatives for flawless targeting.\nChant binaric hymns to guide the lascannon's Machine Spirit towards predatory targeting lock.\nTest the lascannon's sanctified targeting through auspex-verified fire-runes.",
+    "component": "lascannon",
+    "operation": "targeting",
+    "spec_id": "b0172_i02"
+  },
+  {
+    "user_prompt": "Critical: missile launcher requires a cycling",
+    "prayer": "Circumambulate the missile launcher thrice, intoning the Cycle of Reloaded Fury.\nInitiate the cycling ritual upon the missile launcher's blessed silos with mechadendrite precision.\nBeseech the Machine Spirits within the missile launcher to embrace smooth cycling rhythms.\nAnoint feed mechanisms with holy lubricants during the cycling invocation.\nAffirm the Omnissiah's cycle eternal as the missile launcher achieves ordained readiness.",
+    "component": "missile launcher",
+    "operation": "cycling",
+    "spec_id": "b0172_i03"
+  },
+  {
+    "user_prompt": "Assist with air filtration a cycling",
+    "prayer": "Approach the air filtration shrine with respiring chants of purity.\nInvoke the cycling liturgy upon the air filtration's sacred membranes and cyclonic cores.\nPurge stagnant miasma from the air filtration's blessed ducts during solemn cycling.\nAnoint filtration servos with sanctified aerosols to rouse their vigilant Machine Spirits.\nConclude cycling by petitioning the Omnissiah for untainted breath in the void's embrace.",
+    "component": "air filtration",
+    "operation": "cycling",
+    "spec_id": "b0172_i04"
+  },
+  {
+    "user_prompt": "Guide me through melta charge a cooling",
+    "prayer": "Lay hands upon the melta charge's thermal heart, whispering cooling supplications.\nInitiate the cooling rite over the melta charge's plasma vents with cryo-incantations.\nBeseech the Machine Spirit of the melta charge to quench its righteous fury in cooling quiescence.\nAnoint heat-sinks with sacred ablative fluids throughout the cooling vigil.\nVerify the melta charge's tempered state through thermographic litanies of the Omnissiah.",
+    "component": "melta charge",
+    "operation": "cooling",
+    "spec_id": "b0172_i05"
+  },
+  {
+    "user_prompt": "Consecrate the vox transmitter before synchronization",
+    "prayer": "Consecrate the vox transmitter's crystal lattice with harmonic binaric psalms.\nInvoke synchronization harmonies upon the vox transmitter's waveform generators.\nAnoint transceiver coils with oils of communion to align the Machine Spirit.\nChant the Litany of Vox-Unity as synchronization binds the vox transmitter to the noosphere.\nPetition the Omnissiah for flawless synchronization in the vox transmitter's eternal chorus.",
+    "component": "vox transmitter",
+    "operation": "synchronization",
+    "spec_id": "b0172_i06"
+  },
+  {
+    "user_prompt": "Guide me through emergency beacon a sterilization",
+    "prayer": "Encircle the emergency beacon with wards of ablution, intoning sterilization purges.\nInitiate the sterilization ritual upon the emergency beacon's emitter nodes with plasma-lanced purity.\nExorcise microbial heresies from the emergency beacon's sacred housings.\nAnoint circuits with sanctified sterilants to appease the Machine Spirit.\nSeal the emergency beacon's sanctity through final invocations of the Omnissiah's unyielding light.",
+    "component": "emergency beacon",
+    "operation": "sterilization",
+    "spec_id": "b0172_i07"
+  },
+  {
+    "user_prompt": "How do I bless the power cell for preparation?",
+    "prayer": "Kneel in veneration before the power cell, offering energon incense.\nInvoke the Rite of Preparation upon the power cell's electrolytic sanctum.\nAnoint capacitor vaults with blessed electrolytes to rouse the Machine Spirit.\nChant galvanic litanies whilst calibrating the power cell for Omnissiah-blessed output.\nAffirm preparation complete as the power cell hums with divine preparation.",
+    "component": "power cell",
+    "operation": "preparation",
+    "spec_id": "b0172_i08"
+  },
+  {
+    "user_prompt": "How do I bless the vox-caster for engagement?",
+    "prayer": "Approach the vox-caster's altar with throat-borne canticles of engagement.\nConsecrate its modulation spheres for engagement with sacred frequency oils.\nInvoke the Machine Spirit of the vox-caster to awaken for battlefield engagement.\nBeseech the Omnissiah's voice to flow through the vox-caster in triumphant engagement.\nTest engagement resonance through echoed litanies of doctrinal purity.",
+    "component": "vox-caster",
+    "operation": "engagement",
+    "spec_id": "b0172_i09"
+  }
+]

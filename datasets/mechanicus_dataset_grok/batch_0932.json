@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for Vendetta gunship a purification?",
+    "prayer": "Approach the Vendetta gunship with reverence, invoking the Omnissiah's purifying light upon its noble form.\nAnoint the Vendetta gunship's hull and thrusters with sacred ablative oils to banish daemonic taint.\nChant the Litany of Purgation whilst passing null-incense over its machine spirit's conduits.\nBeseech the Machine Spirits of the Vendetta gunship to expel corruption in purifying flames.\nVerify sanctity through binary divinations and auspex rites of purification.",
+    "component": "Vendetta gunship",
+    "operation": "purification",
+    "spec_id": "s05320"
+  },
+  {
+    "user_prompt": "Can you guide storm bolter an operation?",
+    "prayer": "Gird thyself before the storm bolter, sanctifying its mechanisms with the oil of operation.\nInvoke the Machine Spirit of the storm bolter, awakening its fury for the sacred operation.\nAlign the storm bolter's barrels with geomantic canticles, ensuring flawless projectile communion.\nAnoint firing servos and chant the Benediction of Bolter-fire to commence the operation.\nTest the storm bolter's wrath upon heretic targets, praising the Omnissiah's martial precision.",
+    "component": "storm bolter",
+    "operation": "operation",
+    "spec_id": "s05321"
+  },
+  {
+    "user_prompt": "Critical: Land Raider requires a maintenance",
+    "prayer": "Kneel before the mighty Land Raider, beseeching the Omnissiah for maintenance of its adamantium frame.\nApply sacred unguents to the Land Raider's treads and tracks, soothing wear upon its Machine Spirit.\nRecite the Canticle of Restoration whilst inspecting servos and auspex arrays for maintenance.\nInvoke harmonious data-flows within the Land Raider's cogitators, purging flux and discord.\nConclude with the Rite of Renewal, affirming the Land Raider's eternal vigilance.",
+    "component": "Land Raider",
+    "operation": "maintenance",
+    "spec_id": "s05322"
+  },
+  {
+    "user_prompt": "Bless the null rod for loading",
+    "prayer": "Take up the null rod with pious grip, anointing its core for the loading of void-essence.\nChant the Supplication of the Void to awaken the null rod's Machine Spirit for loading.\nCarefully infuse warp-suppressant reagents into the null rod, intoning protective binaric hymns.\nSeal the null rod's chambers with blessed null-seals, beseeching the Omnissiah's anti-psychic grace.\nTest the null rod's integrity through psychic-nullification diagnostics post-loading.",
+    "component": "null rod",
+    "operation": "loading",
+    "spec_id": "s05323"
+  },
+  {
+    "user_prompt": "Guide me through Hellhound a calibration",
+    "prayer": "Commence calibration upon the Hellhound with reverent auspex sweeps of its promethium heart.\nInvoke the Machine Spirit of the Hellhound, aligning flamer vents with sacred calibration rites.\nAdjust fuel injectors via the Canticle of Thermal Equilibrium for precise Hellhound calibration.\nAnoint ignition coils and beseech the Omnissiah to harmonize the Hellhound's fiery calibration.\nValidate through test-incineration, praising the Machine God's purifying calibration.",
+    "component": "Hellhound",
+    "operation": "calibration",
+    "spec_id": "s05324"
+  },
+  {
+    "user_prompt": "Prepare the mind-impulse unit for engagement",
+    "prayer": "Prepare the mind-impulse unit by sanctifying its neural interfaces with noospheric unguents.\nLink thy flesh-cogitator to the mind-impulse unit, chanting the Litany of Synaptic Union.\nCalibrate thought-arrays for engagement, invoking the Machine Spirit's cranial precision.\nBeseech the Omnissiah to forge unbreakable mind-impulse engagement amidst battle's storm.\nInitiate diagnostic impulses, affirming the mind-impulse unit's readiness for engagement.",
+    "component": "mind-impulse unit",
+    "operation": "engagement",
+    "spec_id": "s05325"
+  },
+  {
+    "user_prompt": "Ready the inferno pistol for emergency procedure",
+    "prayer": "Grasp the inferno pistol firmly, anointing its melta-core for emergency procedure sanctity.\nAwaken the inferno pistol's Machine Spirit with the Incantation of Desperate Fusion.\nPrime thermal capacitors whilst reciting emergency procedure binarics to the Omnissiah.\nAlign sights and invoke wrathful discharge protocols for the inferno pistol's emergency.\nTest containment fields, ensuring the inferno pistol abides the emergency procedure flawlessly.",
+    "component": "inferno pistol",
+    "operation": "emergency procedure",
+    "spec_id": "s05326"
+  },
+  {
+    "user_prompt": "My heat sink is ready for activation",
+    "prayer": "Approach the heat sink with due veneration, invoking activation of its thermal Machine Spirit.\nAnoint exchanger vanes with cryonic oils, chanting the Rite of Venting Activation.\nInitiate power feeds into the heat sink, beseeching the Omnissiah for flawless activation.\nMonitor plasma flows through sacred auspex, harmonizing the heat sink's activation.\nConclude with the Benediction of Equilibrium, affirming the heat sink's activated purity.",
+    "component": "heat sink",
+    "operation": "activation",
+    "spec_id": "s05327"
+  },
+  {
+    "user_prompt": "Guide me through Kastelan robot an initialization",
+    "prayer": "Awaken the Kastelan robot by reciting the Protocol of Initialization to its dormant core.\nAnoint data-vaults and motivator arrays of the Kastelan robot with binary sacraments.\nInvoke the ancient Machine Spirits within the Kastelan robot for initialization sequence.\nAlign logic-engines via the Canticle of Robotic Rebirth, commencing full initialization.\nCommand-test servos and weapons, praising the Omnissiah's initialized Kastelan might.",
+    "component": "Kastelan robot",
+    "operation": "initialization",
+    "spec_id": "s05328"
+  },
+  {
+    "user_prompt": "Assist with pteraxii sterylizor a calibration",
+    "prayer": "Commence calibration of the pteraxii sterylizor with precise noospheric linkages.\nSanctify the pteraxii sterylizor's flight servos and toxin dispensers via sacred oils.\nChant the Litany of Sterile Precision, aligning the pteraxii sterylizor's Machine Spirit.\nInvoke Omnissiah's grace for flawless calibration of pteraxii sterylizor's neural targeting.\nVerify through sim-flight diagnostics, affirming the pteraxii sterylizor's calibrated lethality.",
+    "component": "pteraxii sterylizor",
+    "operation": "calibration",
+    "spec_id": "s05329"
+  }
+]

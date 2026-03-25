@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0013_i00",
+    "user_request": "Blessing for the stuck mechanism freeing during stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the stuck mechanism freeing during stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant us the benediction of stuck mechanism freeing!\nCongregation: Stuck mechanism freeing shall liberate the seized components!\nPriest: First, we anoint the corroded joints with sacred oils of penetration.\nCongregation: The Machine Spirit stirs within the stuck mechanism freeing!\nPriest: Second, we apply percussive ministration with reverent hammer-blows.\nCongregation: Blessed be the stuck mechanism freeing in this hour of trial!\nPriest: Third, we invoke the rites of lubrication and gentle oscillation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i01",
+    "user_request": "Can you sanctify the assembly line for consecration?",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the assembly line for consecration?\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the assembly line, vessel of the Omnissiah's will!\nCongregation: We consecrate this assembly line in sacred duty!\nPriest: By consecration, we purify each servo-motor and hydraulic conduit.\nCongregation: The assembly line receives the benediction of the Machine Spirits!\nPriest: We calibrate the photoreceptors and align the production matrices.\nCongregation: Hallowed be the assembly line, sanctified in perpetuity!\nPriest: Thus through consecration, the line shall produce without flaw or deviation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i02",
+    "user_request": "Blessing for the oxygen scrubber during maintenance",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the oxygen scrubber during maintenance\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "Priest: O sacred oxygen scrubber, we undertake thy maintenance this day!\nCongregation: The oxygen scrubber must be cleansed and restored!\nPriest: First, we extract the carbonated cartridges with ceremonial precision.\nCongregation: Blessed be the oxygen scrubber in its restoration!\nPriest: Second, we replace the catalytic matrices with virgin components.\nCongregation: The oxygen scrubber shall breathe life anew!\nPriest: Third, we perform functional diagnostics through pneumatic testing.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i03",
+    "user_request": "The gyroscope recalibration demands guidance for operation",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe gyroscope recalibration demands guidance for operation\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we commence the gyroscope recalibration!\nCongregation: The gyroscope recalibration demands our utmost devotion!\nPriest: We balance the rotor with micrometric adjustments and stabilizing oils.\nCongregation: The gyroscope recalibration spins true once more!\nPriest: Through operation, we verify angular velocity and harmonic resonance.\nCongregation: The Machine Spirit of gyroscope recalibration is sated!\nPriest: Thus renewed, the gyroscope recalibration shall guide our vessels eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i04",
+    "user_request": "The fusion core demands guidance for containment check",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe fusion core demands guidance for containment check\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Priest: O terrible and glorious fusion core, we perform containment check!\nCongregation: The fusion core must be examined for breach and corruption!\nPriest: We scan the electromagnetic shielding with sacred dosimeters.\nCongregation: The fusion core remains stable and contained!\nPriest: Through containment check, we verify pressure seals and coolant flow.\nCongregation: Blessed be the fusion core in its tempestuous power!\nPriest: May the Omnissiah preserve us from its thermonuclear wrath.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i05",
+    "user_request": "Blessing for the surgical servitor during sterilization",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the surgical servitor during sterilization\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "Priest: Attend us, surgical servitor, as we enact thy sterilization!\nCongregation: The surgical servitor must be purified of contamination!\nPriest: We immerse the manipulator-arms in sacred autoclave vapours.\nCongregation: The surgical servitor is cleansed in holy steam!\nPriest: Through sterilization, we scour every cutting-edge and servo-joint.\nCongregation: Immaculate now is the surgical servitor's form!\nPriest: Let no pathogenic corruption taint its blessed surgical ministrations.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i06",
+    "user_request": "Rite request: verification on mold temperature",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: verification on mold temperature\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: We undertake the sacred verification of mold temperature!\nCongregation: The mold temperature must be ascertained with precision!\nPriest: We affix the thermocouples to the casting matrix with reverent care.\nCongregation: The mold temperature speaks through our instruments!\nPriest: Through verification, we confirm thermal equilibrium at 847 degrees centigrade.\nCongregation: The mold temperature is judged acceptable to the Omnissiah!\nPriest: Thus the mold temperature shall yield flawless metallurgical progeny.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i07",
+    "user_request": "Prayer for operation of the ground-to-orbit link",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the ground-to-orbit link\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the ground-to-orbit link, our connection to the stars!\nCongregation: The ground-to-orbit link must function without cessation!\nPriest: We align the transmission dishes with astronomical precision and prayer.\nCongregation: The ground-to-orbit link reaches toward the heavens!\nPriest: Through operation, we verify signal integrity and bandwidth saturation.\nCongregation: The ground-to-orbit link binds us to the void eternal!\nPriest: May the Machine Spirits guide all data through the ground-to-orbit link.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i08",
+    "user_request": "Rite request: sequence on decontamination",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: sequence on decontamination\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Commence the decontamination sequence, that we might be purified!\nCongregation: The decontamination must proceed in ordained ritual order!\nPriest: First, we flood the chamber with caustic decontaminants and blessed acids.\nCongregation: The decontamination sequence cleanses all profane matter!\nPriest: Second, we activate the irradiation matrices to scour invisible corruption.\nCongregation: The decontamination continues its sacred work!\nPriest: Third, we vent the decontamination through purification filters into void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0013_i09",
+    "user_request": "Prayer for cooling of the autocannon barrel",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for cooling of the autocannon barrel\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: The autocannon barrel glows with righteous heat—we begin cooling!\nCongregation: The autocannon barrel must be tempered lest it warp and fail!\nPriest: We apply cryogenic coolant through the jacket-channels with measured flow.\nCongregation: The autocannon barrel cools in sacred dispensation!\nPriest: Through cooling, we restore thermal tolerance to acceptable parameters.\nCongregation: The Machine Spirit of the autocannon barrel is appeased!\nPriest: Thus renewed, the autocannon barrel shall rain vengeance upon the foe.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

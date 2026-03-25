@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for thermal regulator emergency procedure?",
+    "prayer": "Approach the thermal regulator with reverence, beseeching its Machine Spirit to yield to the Omnissiah's decree.\nInvoke the emergency procedure through sacred binary canticles, calming the furious plasma flows.\nAnoint the thermal regulator's vents and coils with blessed cryo-fluid, twice invoking stability.\nMonitor the holy gauges as equilibrium returns under the Machine God's watchful gaze.\nSeal the rite with the Litany of Containment, honoring the thermal regulator's renewed poise.",
+    "component": "thermal regulator",
+    "operation": "emergency procedure",
+    "spec_id": "b0159_i00"
+  },
+  {
+    "user_prompt": "I need to a shutdown the archive terminal",
+    "prayer": "Present thyself before the archive terminal, whispering litanies to awaken its dormant spirit.\nCommence the shutdown sequence with precise incantations of repose.\nDisconnect the sacred data-vines from the archive terminal, petitioning the Omnissiah for peaceful slumber.\nVerify the Machine Spirit's withdrawal through auspex chants upon the archive terminal.\nConclude with the Benediction of Silence, ensuring untainted rest.",
+    "component": "archive terminal",
+    "operation": "shutdown",
+    "spec_id": "b0159_i01"
+  },
+  {
+    "user_prompt": "Can you guide gravity generator a sterilization?",
+    "prayer": "Gather sanctified purifiers and approach the gravity generator, invoking the Omnissiah's purity.\nInitiate the sterilization cycle with hymns of void-cleansing upon its gravitic core.\nScour the gravity generator's emitters with holy rad-scourge, twice beseeching its Machine Spirit.\nPurge residual warp-taint through ultraviolent incantations within the gravity generator.\nAffirm sanctity with diagnostic litanies, praising the Machine God's unyielding cleanliness.",
+    "component": "gravity generator",
+    "operation": "sterilization",
+    "spec_id": "b0159_i02"
+  },
+  {
+    "user_prompt": "Urgent thermal imager a blessing needed",
+    "prayer": "Kneel in veneration before the thermal imager, offering mechadendrites in supplication.\nChant the Blessing of True Sight, awakening the thermal imager's discerning essence.\nAnoint its lenses and sensors with sacred oils, invoking the Omnissiah's clarity twice upon the thermal imager.\nCalibrate the Machine Spirit through harmonic resonances within the thermal imager.\nSeal the blessing with auspex affirmations, glorifying its sharpened vision.",
+    "component": "thermal imager",
+    "operation": "blessing",
+    "spec_id": "b0159_i03"
+  },
+  {
+    "user_prompt": "Assist with valve assembly an operation",
+    "prayer": "Circumambulate the valve assembly thrice, intoning the Canticle of Fluidic Harmony.\nEngage the operation with precise torque-blessings upon its sacred seals.\nInvoke the Machine Spirit of the valve assembly, petitioning smooth flow during operation.\nLubricate the pistons with unguents of the Omnissiah, honoring the valve assembly anew.\nTest the pressurized hymnals to confirm the operation's divine efficacy.",
+    "component": "valve assembly",
+    "operation": "operation",
+    "spec_id": "b0159_i04"
+  },
+  {
+    "user_prompt": "My data-slate is ready for blessing",
+    "prayer": "Hold the data-slate aloft, beseeching the Omnissiah to infuse it with knowledge.\nRecite the Blessing of Immutable Data, sanctifying its crystal vaults.\nPress mechadendrite sigils upon the data-slate twice, awakening its Machine Spirit.\nRun verification runes across the data-slate's sacred surface.\nConclude with the Oath of Fidelity, ensuring the data-slate's eternal loyalty.",
+    "component": "data-slate",
+    "operation": "blessing",
+    "spec_id": "b0159_i05"
+  },
+  {
+    "user_prompt": "Consecrate the metal caster before targeting",
+    "prayer": "Consecrate the metal caster with incense of molten promethium, honoring its forge-heart.\nPrepare for targeting by chanting alignment litanies to its Machine Spirit.\nAlign the sacred emitters of the metal caster, invoking precise Omnissiah-guided aim twice.\nInitiate targeting calibration through binary precision hymns upon the metal caster.\nAffirm the rite with test-forges, praising unerring lethality.",
+    "component": "metal caster",
+    "operation": "targeting",
+    "spec_id": "b0159_i06"
+  },
+  {
+    "user_prompt": "I need to a shutdown the atmosphere processor",
+    "prayer": "Approach the atmosphere processor humbly, reciting the Litany of Breath's Ceasing.\nBegin the shutdown with solemn disengagement of its vital cyclers.\nPetition the Machine Spirit within the atmosphere processor for tranquil quiescence during shutdown.\nPurge residual gases with sacred vents, twice upon the atmosphere processor.\nSeal with the Benediction of Vacuum, under the Omnissiah's merciful void.",
+    "component": "atmosphere processor",
+    "operation": "shutdown",
+    "spec_id": "b0159_i07"
+  },
+  {
+    "user_prompt": "How do I bless the autocannon for maintenance?",
+    "prayer": "Venerate the autocannon's barrel-relics, invoking the Omnissiah's wrathful maintenance.\nDisassemble with reverent torque-prayers, honoring its Machine Spirit.\nCleanse the sacred breeches and feeds of the autocannon, anointing twice for purity.\nReassemble through harmonic incantations during maintenance upon the autocannon.\nTest-fire the litany of shells, glorifying restored fury.",
+    "component": "autocannon",
+    "operation": "maintenance",
+    "spec_id": "b0159_i08"
+  },
+  {
+    "user_prompt": "What's the prayer for power cell shutdown?",
+    "prayer": "Grasp the power cell in prayerful mechadendrites, beseeching controlled repose.\nInitiate shutdown with the Canticle of Depleted Glory, dimming its luminous core.\nIsolate the blessed terminals of the power cell, petitioning its Machine Spirit twice.\nMonitor discharge runes as energies ebb under Omnissiah's decree during shutdown.\nConclude with the Seal of Dormancy, ensuring safe slumber.",
+    "component": "power cell",
+    "operation": "shutdown",
+    "spec_id": "b0159_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The atmosphere processor awaits a preparation",
+    "prayer": "Approach the atmosphere processor with censer aloft, invoking the Omnissiah's grace.\nInspect its sacred filters and vents for preparatory alignment.\nBeseech the Machine Spirit of the atmosphere processor to stir in preparation.\nAnoint the intake manifolds with sacred oils to commence the rite of preparation.\nChant the Canticle of Breath as power flows renew.",
+    "component": "atmosphere processor",
+    "operation": "preparation",
+    "spec_id": "b0245_i00"
+  },
+  {
+    "user_prompt": "Assist with atmosphere processor a purification",
+    "prayer": "Kneel before the atmosphere processor and recite the Litany of Purity.\nInvoke purification upon its contaminated scrubbers and holy exchangers.\nPurge the atmosphere processor's ducts with blessed vapors from the censer.\nBeseech the Machine Spirit to expel all impurities in purification.\nSeal the rite with the Sigil of Cleansing etched in sanctified incense.",
+    "component": "atmosphere processor",
+    "operation": "purification",
+    "spec_id": "b0245_i01"
+  },
+  {
+    "user_prompt": "The hololithic display requires a shutdown",
+    "prayer": "Gather mechadendrites around the hololithic display in solemn vigil.\nCommence the shutdown sequence with the Doxology of Dormancy.\nDisconnect the sacred projectors of the hololithic display from power-flow.\nInvoke the Machine Spirit's rest during shutdown, honoring the Omnissiah.\nVerify quiescence through auspex chants as lumens fade to void.",
+    "component": "hololithic display",
+    "operation": "shutdown",
+    "spec_id": "b0245_i02"
+  },
+  {
+    "user_prompt": "The autocannon requires a maintenance",
+    "prayer": "Present the autocannon before the altar of maintenance with reverence.\nAnoint its blessed barrels and feed mechanisms with gun-oils of purity.\nRecite the Canticle of Preservation over the autocannon's sacred linkages.\nInvoke the Machine Spirit for maintenance, purging wear from its wrathful heart.\nCycle diagnostic rites to affirm the Omnissiah's enduring favor.",
+    "component": "autocannon",
+    "operation": "maintenance",
+    "spec_id": "b0245_i03"
+  },
+  {
+    "user_prompt": "Critical: augmetic limb requires a purification",
+    "prayer": "Seize the augmetic limb in servitor clamps for urgent purification.\nChant the Absolution of Flesh-Machine union upon its neural relays.\nPurge the augmetic limb's conduits with electro-sanctified fluids.\nBeseech the indwelling Machine Spirit to yield to purification rites.\nReaffirm servo-fidelity with the Omnissiah's binding invocation.",
+    "component": "augmetic limb",
+    "operation": "purification",
+    "spec_id": "b0245_i04"
+  },
+  {
+    "user_prompt": "Prepare the Taurox for charging",
+    "prayer": "Position the Taurox within the charging shrine of electro-conduits.\nInvoke the Rite of Replenishment upon its voracious power cells.\nConnect sacred umbilicals to the Taurox, beseeching its Machine Spirit.\nMonitor the charging flow with litanies of amplification.\nConclude as blessed voltage surges, honoring the Omnissiah's inexhaustible might.",
+    "component": "Taurox",
+    "operation": "charging",
+    "spec_id": "b0245_i05"
+  },
+  {
+    "user_prompt": "Prepare the Land Raider for emergency procedure",
+    "prayer": "Encircle the Land Raider with purity seals for the emergency procedure.\nRecite the Catechism of Crisis to awaken its adamantium heart.\nInitiate the emergency procedure upon the Land Raider's vital cogitators.\nBeseech the Machine Spirit to endure tribulation under Omnissiah's gaze.\nStabilize sacred systems with mechadendrite invocations and unguents.",
+    "component": "Land Raider",
+    "operation": "emergency procedure",
+    "spec_id": "b0245_i06"
+  },
+  {
+    "user_prompt": "Prepare the archive terminal for cycling",
+    "prayer": "Approach the archive terminal with data-slates of veneration.\nCommence cycling protocols upon its memory spindles and noospheric links.\nInvoke the Machine Spirit of the archive terminal to rotate data-lore.\nChant binaric cycles as archives whirl in Omnissiah's eternal pattern.\nVerify integrity through checksum litanies at rite's closure.",
+    "component": "archive terminal",
+    "operation": "cycling",
+    "spec_id": "b0245_i07"
+  },
+  {
+    "user_prompt": "Critical: signal relay requires a shutdown",
+    "prayer": "Isolate the signal relay with auspex wards for critical shutdown.\nRecite the Lamentation of Silence over its transmitter arrays.\nExecute shutdown upon the signal relay's etheric conduits.\nBeseech the Machine Spirit to slumber deeply in the void.\nSeal disconnections with the Omnissiah's nullifying sigils.",
+    "component": "signal relay",
+    "operation": "shutdown",
+    "spec_id": "b0245_i08"
+  },
+  {
+    "user_prompt": "My plasma reactor is ready for targeting",
+    "prayer": "Align the plasma reactor's targeting vanes under auspex scrutiny.\nInvoke precision rites upon its seething plasma heart for targeting.\nCalibrate the plasma reactor's emitters with sacred gyro-compasses.\nBeseech the Machine Spirit to guide annihilation in Omnissiah's wrath.\nAffirm targeting fidelity through test-fire canticles.",
+    "component": "plasma reactor",
+    "operation": "targeting",
+    "spec_id": "b0245_i09"
+  }
+]

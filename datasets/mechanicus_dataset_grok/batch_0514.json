@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The radium carbine requires a blessing",
+    "prayer": "Approach the radium carbine with reverence, beseeching the Omnissiah for its blessing.\nAnoint the radium carbine's barrel and emitter coils with sacred rad-lubricant.\nInvoke the Machine Spirit of the radium carbine through the Canticle of Irradiation.\nAlign its targeting auspex whilst chanting the blessing rite.\nVerify the radium carbine's blessed fury with a sanctified test volley.",
+    "component": "radium carbine",
+    "operation": "blessing",
+    "spec_id": "s01140"
+  },
+  {
+    "user_prompt": "Can you guide servo-arm an initialization?",
+    "prayer": "Present thyself before the servo-arm and recite the Litany of Initialization.\nInterface with the servo-arm's cogitator nexus to awaken its quiescent Machine Spirit.\nCommence the initialization protocols, calibrating pistons and grapples.\nBeseech the Omnissiah to harmonize the servo-arm's motive functions.\nTest the servo-arm's initialization by commanding extension and retraction rites.",
+    "component": "servo-arm",
+    "operation": "initialization",
+    "spec_id": "s01141"
+  },
+  {
+    "user_prompt": "Bless the Predator tank for preparation",
+    "prayer": "Encircling the Predator tank, intone the Preparation Doxology to the Omnissiah.\nInspect and sanctify the Predator tank's treads and lascannon batteries.\nInvoke preparation rituals upon the Predator tank's auspex arrays and reactor core.\nAnoint its armoured hull whilst beseeching the Machine Spirits within.\nCommence engine priming sequences under the Predator tank's vigilant spirits.",
+    "component": "Predator tank",
+    "operation": "preparation",
+    "spec_id": "s01142"
+  },
+  {
+    "user_prompt": "Assist with plasma reactor a synchronization",
+    "prayer": "Kneel at the plasma reactor's containment shrine and invoke synchronization canticles.\nAttune the plasma reactor's flux regulators to the Omnissiah's divine rhythm.\nInitiate synchronization cycles, harmonizing magnetic bottles and plasma flows.\nBeseech the Machine Spirit of the plasma reactor to align its fury.\nMonitor synchronization through electro-incantatory diagnostics.",
+    "component": "plasma reactor",
+    "operation": "synchronization",
+    "spec_id": "s01143"
+  },
+  {
+    "user_prompt": "Assist with servo-skull a calibration",
+    "prayer": "Hold the servo-skull aloft and whisper the Calibration Invocation to the Omnissiah.\nAlign the servo-skull's optic sensors and suspensor fields with precision rites.\nPerform calibration adjustments upon the servo-skull's vox-emitter and auspex.\nAwaken its Machine Spirit through binary psalms of calibration.\nValidate the servo-skull's calibration via reconnaissance auspex sweeps.",
+    "component": "servo-skull",
+    "operation": "calibration",
+    "spec_id": "s01144"
+  },
+  {
+    "user_prompt": "The metal caster requires an operation",
+    "prayer": "Approach the metal caster's forge-altar and beseech operational grace from the Omnissiah.\nPrime the metal caster's smelting crucibles with sanctified promethium.\nInitiate operation sequences, invoking the Machine Spirit of the metal caster.\nMonitor molten flows and mould injections during the operation rite.\nConclude the metal caster's operation with quenching hymns of purity.",
+    "component": "metal caster",
+    "operation": "operation",
+    "spec_id": "s01145"
+  },
+  {
+    "user_prompt": "The vox-caster needs a purification",
+    "prayer": "Encircle the vox-caster and chant the Purification Litany against daemonic static.\nAnoint the vox-caster's transmitter coils with ablative oils of sanctity.\nPurge corrupted frequencies from the vox-caster through electro-exorcism.\nInvoke the Omnissiah to restore the Machine Spirit's pure voice.\nTest the vox-caster's purification with clarion test transmissions.",
+    "component": "vox-caster",
+    "operation": "purification",
+    "spec_id": "s01146"
+  },
+  {
+    "user_prompt": "The void shield generator needs a maintenance",
+    "prayer": "Commence maintenance upon the void shield generator with reverent diagnostics.\nAnoint its projector nodes and power conduits with machine oil sacraments.\nRecalibrate the void shield generator's phase emitters, beseeching its Machine Spirit.\nInvoke Omnissiah's aegis during flux capacitor realignments.\nVerify maintenance integrity through shield deployment incantations.",
+    "component": "void shield generator",
+    "operation": "maintenance",
+    "spec_id": "s01147"
+  },
+  {
+    "user_prompt": "I need to a calibration the Vendetta gunship",
+    "prayer": "Ascend to the Vendetta gunship's cockpit and intone calibration psalms.\nAlign the Vendetta gunship's lascannons and hellstrike missiles with auspex rites.\nPerform calibration upon the Vendetta gunship's grav-lift and thruster vanes.\nAwaken its Machine Spirits through binary harmonies of precision.\nTest the Vendetta gunship's calibration in void-simulated maneuvers.",
+    "component": "Vendetta gunship",
+    "operation": "calibration",
+    "spec_id": "s01148"
+  },
+  {
+    "user_prompt": "What's the prayer for Dreadnought a cooling?",
+    "prayer": "Approach the Dreadnought's sarcophagus with awe, reciting cooling litanies.\nCirculate cryo-fluids through the Dreadnought's plasma vents for thermal abatement.\nInvoke the Omnissiah to soothe the Machine Spirit's overheating wrath.\nMonitor cooling cycles upon the Dreadnought's servos and weapon feeds.\nConclude with auspex scans affirming the Dreadnought's restored equilibrium.",
+    "component": "Dreadnought",
+    "operation": "cooling",
+    "spec_id": "s01149"
+  }
+]

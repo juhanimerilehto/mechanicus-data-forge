@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the archeotech device for repair?",
+    "prayer": "Kneel in reverence before the archeotech device and intone the Litany of Restoration.\nAnoint its ancient circuits with sacred oils to prepare the archeotech device for repair.\nInvoke the Omnissiah's blessing upon the Machine Spirit dwelling within.\nCommence the rites of repair whilst chanting the Canticle of Rejuvenation.\nVerify the archeotech device's renewed vitality through auspex incantations.",
+    "component": "archeotech device",
+    "operation": "repair",
+    "spec_id": "s01830"
+  },
+  {
+    "user_prompt": "Assist with data-sluice an activation",
+    "prayer": "Approach the data-sluice with mechadendrites extended in supplication.\nPurify its conduits with incense of binary sanctity to awaken the Machine Spirit.\nInitiate the activation sequence by beseeching the Omnissiah's digital grace.\nChant the Hymn of Dataflow as torrents surge through the data-sluice.\nSanctify the completed activation with electro-consecrated seals.",
+    "component": "data-sluice",
+    "operation": "activation",
+    "spec_id": "s01831"
+  },
+  {
+    "user_prompt": "The storm bolter needs a blessing",
+    "prayer": "Grasp the storm bolter in sanctified gauntlets and whisper the Benediction of Fury.\nAnoint its multi-barrels with chrism of promethium to honour the Machine Spirit.\nInvoke the Omnissiah to bless the storm bolter for unyielding barrages.\nRecite the Catechism of Thunder whilst calibrating its storm-chambers.\nSeal the blessing with a sign of the cog upon the storm bolter's receiver.",
+    "component": "storm bolter",
+    "operation": "blessing",
+    "spec_id": "s01832"
+  },
+  {
+    "user_prompt": "Urgent las-cutter an operation needed",
+    "prayer": "Present the las-cutter before the altar of the Machine God and speak the Invocation of Light.\nLubricate its focusing crystals with sacred unguents for flawless operation.\nBeseech the Machine Spirit of the las-cutter to ignite in Omnissiah's name.\nEngage the operation by chanting the Litany of Coherent Beam.\nConclude with purity seals affirming the las-cutter's sanctified operation.",
+    "component": "las-cutter",
+    "operation": "operation",
+    "spec_id": "s01833"
+  },
+  {
+    "user_prompt": "Ready the hydraulic press for repair",
+    "prayer": "Circumambulate the hydraulic press whilst intoning the Psalm of Pressure.\nAnoint its pistons and servos with blessed hydraulics for the rite of repair.\nAwaken the Machine Spirit within the hydraulic press through vibro-chants.\nPerform the repair under the gaze of the Omnissiah, invoking structural integrity.\nTest the hydraulic press's might with a final hymn of compression.",
+    "component": "hydraulic press",
+    "operation": "repair",
+    "spec_id": "s01834"
+  },
+  {
+    "user_prompt": "Assist with electro-graft a startup",
+    "prayer": "Extend mechadendrites towards the electro-graft and recite the Awakening Doxology.\nPurify its neural interfaces with noospheric incense.\nInitiate the startup by beseeching the Machine Spirit's synaptic fire.\nChant the Canticle of Electro-Conduction as power surges through the electro-graft.\nSeal the startup rite with binary prayers to the Omnissiah.",
+    "component": "electro-graft",
+    "operation": "startup",
+    "spec_id": "s01835"
+  },
+  {
+    "user_prompt": "Sanctify the kataphron breacher during cycling",
+    "prayer": "Bow before the kataphron breacher and intone the Litany of Battle-Cycling.\nAnoint its heavy weaponry and treads with war-unguents.\nCycle the Machine Spirit of the kataphron breacher through sacred diagnostics.\nInvoke the Omnissiah during the cycling to fortify its servitor flesh.\nConclude the cycling with the Hymn of Indomitable Advance.",
+    "component": "kataphron breacher",
+    "operation": "cycling",
+    "spec_id": "s01836"
+  },
+  {
+    "user_prompt": "What's the prayer for photolenses a startup?",
+    "prayer": "Gaze upon the photolenses through sanctified optics and whisper the Prayer of Clarity.\nPolish their facets with cloths of pure silica to rouse the Machine Spirit.\nCommence the startup sequence with invocations to the Omnissiah's light.\nChant the Doxology of Photon Capture as vision awakens in the photolenses.\nVerify the startup with a blessing of luminous precision.",
+    "component": "photolenses",
+    "operation": "startup",
+    "spec_id": "s01837"
+  },
+  {
+    "user_prompt": "Consecrate the neutron laser before repair",
+    "prayer": "Prostrate before the neutron laser and recite the Exorcism of Flux Anomalies.\nAnoint its emitter coils with rad-philtres for the repair rite.\nBeseech the Machine Spirit animating the neutron laser to endure.\nExecute the repair whilst singing the Canticle of Subatomic Purity.\nAffix purity seals upon the neutron laser post-repair in Omnissiah's name.",
+    "component": "neutron laser",
+    "operation": "repair",
+    "spec_id": "s01838"
+  },
+  {
+    "user_prompt": "Can you guide needle rifle a startup?",
+    "prayer": "Handle the needle rifle with reverence and intone the Litany of Penetrating Grace.\nBless its toxin reservoirs and monomolecular needles with sacred solvents.\nInitiate the startup by invoking the Machine Spirit's lethal precision.\nChant the Hymn of Silent Death as the needle rifle stirs to life.\nComplete the startup with a cog-marked invocation to the Omnissiah.",
+    "component": "needle rifle",
+    "operation": "startup",
+    "spec_id": "s01839"
+  }
+]

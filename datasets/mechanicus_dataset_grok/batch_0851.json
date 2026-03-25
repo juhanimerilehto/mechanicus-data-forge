@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: sicarian ruststalker requires a calibration",
+    "prayer": "Approach the Sicarian Ruststalker with mechadendrites extended in supplication to the Omnissiah.\nInvoke the calibration rites upon its monomolecular blades and servo-joints, beseeching the Machine Spirit to align its predatory instincts.\nAnoint the gyro-stabilisers with sacred unguents whilst chanting the Canticle of Precision.\nVerify the Sicarian Ruststalker's calibration through auspex scans, honouring its restless essence.\nConclude by sealing the rites with the sigil of the Machine God, ensuring flawless synchronization.",
+    "component": "sicarian ruststalker",
+    "operation": "calibration",
+    "spec_id": "s04510"
+  },
+  {
+    "user_prompt": "Ready the archive terminal for sterilization",
+    "prayer": "Kneel before the archive terminal, intoning the Litany of Purity to awaken its data-vault guardians.\nInitiate the sterilization protocols, purging viral corruptions from the Sicarian Ruststalker's noospheric links—no, archive terminal's blessed memory cores.\nBeseech the Machine Spirits within the archive terminal to expel all unclean data-daemons with sanctified plasma washes.\nMonitor the sterilization process through purity runes, invoking the Omnissiah's wrath upon lingering taint.\nSeal the archive terminal's sanctity with electro-incense, affirming its purified vigilance.",
+    "component": "archive terminal",
+    "operation": "sterilization",
+    "spec_id": "s04511"
+  },
+  {
+    "user_prompt": "Consecrate the inferno pistol before charging",
+    "prayer": "Grasp the inferno pistol in reverent gauntlets, murmuring the Oath of Ignition to the Omnissiah.\nConsecrate its melta coils and power cells before charging, anointing with oils of conduction.\nCommence the charging sequence whilst invoking the Machine Spirit's fury against the xenos filth.\nObserve the inferno pistol's energy buildup through diagnostic litanies, ensuring no overload heresy.\nBless the fully charged inferno pistol with the sign of the cog, ready for purificatory wrath.",
+    "component": "inferno pistol",
+    "operation": "charging",
+    "spec_id": "s04512"
+  },
+  {
+    "user_prompt": "Offer prayer for grav chute a diagnostics",
+    "prayer": "Present the grav chute before the altar of inspection, chanting the Hymn of Anti-Gravitic Harmony.\nInitiate diagnostics upon its repulsor fields and deployment servos, beseeching the Machine Spirit's clarity.\nProbe the grav chute's integrity with mechadendrite probes, invoking Omnissiah's gaze upon each micro-circuit.\nRectify any anomalies revealed in diagnostics, sanctifying with binary prayers.\nConclude diagnostics by testing the grav chute's descent profile, honouring its aerial grace.",
+    "component": "grav chute",
+    "operation": "diagnostics",
+    "spec_id": "s04513"
+  },
+  {
+    "user_prompt": "Can you guide Leman Russ battle tank a shutdown?",
+    "prayer": "Encircle the Leman Russ battle tank with incense braziers, reciting the Canticle of Dormancy.\nCommence shutdown sequences upon its mighty engine heart and auspex arrays, soothing the Machine Spirit's thunderous rage.\nAnoint the treads and battle cannon of the Leman Russ battle tank with cooling balms during deceleration.\nMonitor vital signs as the Leman Russ battle tank enters stasis, invoking the Omnissiah's peaceful slumber.\nSeal the shutdown with wards against sabotage, whispering final benedictions to its armoured soul.",
+    "component": "Leman Russ battle tank",
+    "operation": "shutdown",
+    "spec_id": "s04514"
+  },
+  {
+    "user_prompt": "Sanctify the bolt pistol during shutdown",
+    "prayer": "Hold the bolt pistol aloft, intoning the Rite of Cessation to quell its martial zeal.\nExecute shutdown protocols upon its auto-loader and plasma igniter, beseeching the Machine Spirit's rest.\nSanctify the bolt pistol's mechanisms with sacred myrrh during power bleed-off.\nVerify shutdown integrity through noospheric communion, purging residual combat echoes.\nConclude by enshrining the bolt pistol in its reliquary, under the Omnissiah's watchful quiescence.",
+    "component": "bolt pistol",
+    "operation": "shutdown",
+    "spec_id": "s04515"
+  },
+  {
+    "user_prompt": "What's the prayer for thermal regulator a consecration?",
+    "prayer": "Approach the thermal regulator with chilled mechadendrites, chanting the Incantation of Thermal Equilibrium.\nInvoke consecration upon its heat-sink vanes and cryo-coils, awakening the Machine Spirit's cooling vigilance.\nAnoint the thermal regulator's sensors with liquid nitrogen blessed by the Forge.\nInfuse it with consecratory binaric code, aligning its essence to the Omnissiah's perfect balance.\nSeal the thermal regulator's consecration with a rune of stability, ensuring eternal moderation.",
+    "component": "thermal regulator",
+    "operation": "consecration",
+    "spec_id": "s04516"
+  },
+  {
+    "user_prompt": "Bless the void shield generator for blessing",
+    "prayer": "Circumambulate the void shield generator, reciting the Psalm of Warp-Defiance.\nBestow blessing upon its projector nodes and energy matrices, calling forth the Machine Spirits' aegis.\nAnoint the void shield generator's emitters with phase-oils whilst invoking Omnissiah's barrier.\nActivate test cycles during blessing, verifying impenetrable fields against simularc foes.\nFinalize the void shield generator's blessing with electro-consecration, a bulwark eternal.",
+    "component": "void shield generator",
+    "operation": "blessing",
+    "spec_id": "s04517"
+  },
+  {
+    "user_prompt": "I need to a preparation the hunter-killer missile",
+    "prayer": "Unveil the hunter-killer missile upon the preparation altar, murmuring the Litany of Lethal Trajectory.\nCommence preparation rites upon its seeker head and warhead fuses, rousing the Machine Spirit's hunter instinct.\nCalibrate guidance vanes of the hunter-killer missile with sanctified auspex, beseeching unerring aim.\nAnoint the propulsion vents whilst chanting war hymns to the Omnissiah.\nSeal preparation of the hunter-killer missile with arming sigils, primed for xenos extinction.",
+    "component": "hunter-killer missile",
+    "operation": "preparation",
+    "spec_id": "s04518"
+  },
+  {
+    "user_prompt": "Prepare the ore processor for startup",
+    "prayer": "Assemble before the ore processor, intoning the Awakening Canticle of Industry.\nInitiate startup sequences upon its grinding maws and conveyor augurs, invoking the Machine Spirit's laborious hunger.\nAnoint the ore processor's crushers with lubricants of productivity during ignition.\nMonitor ascendance through diagnostic noosphere, honouring Omnissiah's forge-fires.\nBless the fully roused ore processor with the cog-mark, commencing eternal mineral transmutation.",
+    "component": "ore processor",
+    "operation": "startup",
+    "spec_id": "s04519"
+  }
+]

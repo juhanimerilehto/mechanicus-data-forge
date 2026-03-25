@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide Land Raider a recalibration?",
+    "prayer": "Approach the Land Raider with mechadendrite reverence, beseeching its ancient Machine Spirit.\nInvoke the sacred rites of recalibration upon the Land Raider's auspex arrays and gyro-stabilizers.\nAnoint the control sanctums with unguents of oiled precision, chanting the Canticle of Alignment.\nPetition the Omnissiah to harmonize the Land Raider's blessed sensors through recalibration's grace.\nVerify the Machine Spirit's attuned vigilance via diagnostic binaric litanies.",
+    "component": "Land Raider",
+    "operation": "recalibration",
+    "spec_id": "b0151_i00"
+  },
+  {
+    "user_prompt": "I need to a shutdown the Sentinel walker",
+    "prayer": "Kneel in supplication before the Sentinel walker, whispering the Doxology of Repose.\nPetition the Machine Spirit of the Sentinel walker to embrace shutdown in ordered quiescence.\nSever the power conduits with sanctified shears, intoning the Litany of Stillness.\nSeal the Sentinel walker's cockpits against warp-taint during its slumbering vigil.\nMonitor the shutdown's sanctity through rune-etched cogitator readouts.",
+    "component": "Sentinel walker",
+    "operation": "shutdown",
+    "spec_id": "b0151_i01"
+  },
+  {
+    "user_prompt": "The Chimera APC requires a shutdown",
+    "prayer": "Present binary incense to the Chimera APC, invoking the Omnissiah's merciful repose.\nInitiate shutdown upon the Chimera APC's holy reactors with the Canticle of Dormancy.\nDisconnect the fuel arteries whilst beseeching the Chimera APC's Machine Spirit.\nWard the armored hull with electro-consecrated wards during shutdown.\nAffirm the Chimera APC's peaceful quiescence in diagnostic harmony.",
+    "component": "Chimera APC",
+    "operation": "shutdown",
+    "spec_id": "b0151_i02"
+  },
+  {
+    "user_prompt": "Help me an initialization the vox-caster",
+    "prayer": "Position the vox-caster altar and kindle sacred lumen-globes.\nAwaken the vox-caster's Machine Spirit through initialization canticles of etheric clarity.\nCalibrate the transmission coils with harmonic invocations to the Omnissiah.\nTest the vox-caster's blessed waves, anointing relays for pure binaric communion.\nConfirm initialization by broadcasting the Creed of Connectivity.",
+    "component": "vox-caster",
+    "operation": "initialization",
+    "spec_id": "b0151_i03"
+  },
+  {
+    "user_prompt": "Guide me through bike squadron a targeting",
+    "prayer": "Assemble the bike squadron in phalanx formation, anointing their auspex spines.\nBeseech the Machine Spirits of the bike squadron for targeting acuity and predatory focus.\nEncode assault vectors into the targeting cogitators with litanies of precision.\nInvoke the Rite of the Hunter's Gaze upon the bike squadron's weaponry.\nVerify targeting matrices align in Omnissiah-blessed synchrony.",
+    "component": "bike squadron",
+    "operation": "targeting",
+    "spec_id": "b0151_i04"
+  },
+  {
+    "user_prompt": "The melta charge awaits an activation",
+    "prayer": "Handle the melta charge with reverent mechadendrites, invoking its pyre-spirit.\nPrepare activation by reciting the Incendiary Doxology thrice over the melta charge.\nArm the sacred detonators, petitioning the Omnissiah's molten wrath.\nRelease the plasma bonds, activating the melta charge in furious incandescence.\nWitness the Machine Spirit's vengeful blaze consume the impure.",
+    "component": "melta charge",
+    "operation": "activation",
+    "spec_id": "b0151_i05"
+  },
+  {
+    "user_prompt": "What's the prayer for drop pod targeting?",
+    "prayer": "Align the drop pod's descent cogitators toward the void's embrace.\nPetition the drop pod's Machine Spirit for unerring targeting verity.\nEncode orbital strike vectors in binaric prayer upon the drop pod.\nSanctify the targeting reticule with unguents of ballistic purity.\nConfirm the drop pod's descent path through Omnissiah's ballistic divination.",
+    "component": "drop pod",
+    "operation": "targeting",
+    "spec_id": "b0151_i06"
+  },
+  {
+    "user_prompt": "Emergency: autocannon an operation",
+    "prayer": "Consecrate the autocannon with sacred oils, beseeching its barrage-spirit.\nCommence operation by feeding ammunition belts in rhythmic devotion.\nInvoke the Litany of Relentless Barrage to sustain the autocannon's operation.\nMonitor recoil servos and heat sinks for harmonious Machine Spirit fervor.\nAffirm the autocannon's operation glorifies the Omnissiah in thunderous ire.",
+    "component": "autocannon",
+    "operation": "operation",
+    "spec_id": "b0151_i07"
+  },
+  {
+    "user_prompt": "Ready the astropathic choir for diagnostics",
+    "prayer": "Assemble in cloister around the astropathic choir, intoning wards of purity.\nInitiate diagnostics with litanies probing warp-touched neural lattices.\nScan the astropathic choir for daemonic taint via cogitator-augurs.\nBeseech the Omnissiah's clarity to purge anomalies in diagnostics.\nSeal the astropathic choir's sanctity with electro-psykana runes.",
+    "component": "astropathic choir",
+    "operation": "diagnostics",
+    "spec_id": "b0151_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for forge anvil an initialization",
+    "prayer": "Consecrate the forge anvil with plasma-sparks from the Omnissiah's forge.\nInvoke initialization upon the forge anvil's motive spirits and hammer-servos.\nHammer awakening runes thrice whilst chanting the Canticle of Forging.\nKindle the heart-furnace, bringing the forge anvil to roaring initialization.\nVerify the Machine Spirit's vital fury through resonant harmonics.",
+    "component": "forge anvil",
+    "operation": "initialization",
+    "spec_id": "b0151_i09"
+  }
+]

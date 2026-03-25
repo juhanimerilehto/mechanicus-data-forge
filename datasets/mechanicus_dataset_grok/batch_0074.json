@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the valve assembly for startup",
+    "prayer": "Approach the valve assembly with reverence, beseeching its Machine Spirit to awaken.\nAnoint the sacred seals of the valve assembly with blessed lubricant oils.\nInvoke the Omnissiah's grace as you commence the startup sequence.\nMonitor the pressure flows within the valve assembly for harmonious initiation.\nChant the Canticle of Pressurization to ensure the Machine Spirit's compliance.",
+    "component": "valve assembly",
+    "operation": "startup",
+    "spec_id": "b0074_i00"
+  },
+  {
+    "user_prompt": "Ready the astropathic choir for sterilization",
+    "prayer": "Gather before the astropathic choir, intoning the Litany of Purity upon its warp-sensitive nodes.\nPurge all unclean resonances from the astropathic choir with sanctified auspex sweeps.\nBeseech the Omnissiah to fortify the astropathic choir against void-taint during sterilization.\nApply holy incensory fumes to seal the choir's psychic conduits.\nVerify the Machine Spirits' quiescence through ritual harmonics.",
+    "component": "astropathic choir",
+    "operation": "sterilization",
+    "spec_id": "b0074_i01"
+  },
+  {
+    "user_prompt": "My medicae scanner is ready for recalibration",
+    "prayer": "Kneel in veneration of the medicae scanner, petitioning its diagnostic Machine Spirit.\nDisconnect profane power feeds from the medicae scanner's sacred arrays.\nRecalibrate the bio-scanners with the Omnissiah's precise calibrations etched in adamantium.\nRealign the spectral lenses of the medicae scanner under litanies of accuracy.\nTest the medicae scanner's outputs with invocation of flawless vitae-analysis.",
+    "component": "medicae scanner",
+    "operation": "recalibration",
+    "spec_id": "b0074_i02"
+  },
+  {
+    "user_prompt": "Bless the hololithic display for initialization",
+    "prayer": "Present thyself before the hololithic display, whispering the Awakening Doxology.\nClear ethereal static from the hololithic display's projector matrices.\nInitiate the initialization rites whilst anointing crystal lattices with sacred oils.\nInvoke the Machine Spirit of the hololithic display to project the Omnissiah's glory.\nConfirm luminous stability through recursive hymn-chants.",
+    "component": "hololithic display",
+    "operation": "initialization",
+    "spec_id": "b0074_i03"
+  },
+  {
+    "user_prompt": "Consecrate the forge anvil before cooling",
+    "prayer": "Consecrate the forge anvil with hammer-strokes of the Benediction Mallet.\nInvoke cooling vents upon the forge anvil, beseeching thermal Machine Spirits to recede.\nAnoint the anvil's surface with quench-oils blessed by the Omnissiah.\nChant the Canticle of Contraction as the forge anvil yields to frigidity.\nInspect refractory purity in the forge anvil post-cooling oblation.",
+    "component": "forge anvil",
+    "operation": "cooling",
+    "spec_id": "b0074_i04"
+  },
+  {
+    "user_prompt": "Prepare the chainsword for engagement",
+    "prayer": "Grasp the chainsword in ritual poise, saluting its monomolecular teeth.\nLubricate the chainsword's sacred linkages with sanctified promethium.\nEngage the drive-spirits of the chainsword with the Omnissiah's furious zeal.\nTest the whine of engagement through the Motet of Shredding.\nBeseech the Machine Spirit for unyielding carnage in battle.",
+    "component": "chainsword",
+    "operation": "engagement",
+    "spec_id": "b0074_i05"
+  },
+  {
+    "user_prompt": "I need to a cooling the air compressor",
+    "prayer": "Approach the air compressor with mechadendrite-extended auspex probes.\nInvoke the spirits of refrigeration upon the air compressor's heat-sinks.\nInitiate cooling cycles whilst chanting the Hymn of Venting Pressures.\nAnoint the air compressor's vanes with cryo-blessed unguents.\nMonitor thermal quiescence in the air compressor until the Omnissiah deems it pure.",
+    "component": "air compressor",
+    "operation": "cooling",
+    "spec_id": "b0074_i06"
+  },
+  {
+    "user_prompt": "Sanctify the metal caster during consecration",
+    "prayer": "Circumambulate the metal caster, intoning the Forgefather's Consecration.\nSanctify its molten channels with incensed vapors and electro-priestly sparks.\nPetition the Machine Spirits of the metal caster during this rite of consecration.\nImprint the Omnissiah's sigils upon the caster's molds.\nAffirm the metal caster's holiness through resonant alloy-testing.",
+    "component": "metal caster",
+    "operation": "consecration",
+    "spec_id": "b0074_i07"
+  },
+  {
+    "user_prompt": "I need to a maintenance the gyroscope",
+    "prayer": "Commence maintenance upon the gyroscope with precision mechadendrites.\nCleanse inertial bearings of the gyroscope from friction-daemons.\nRealign the gyroscope's gyros under litanies of rotational truth.\nInvoke the Omnissiah to harmonize the gyroscope's balance-spirits.\nCycle test-rituals to affirm the gyroscope's eternal vigilance.",
+    "component": "gyroscope",
+    "operation": "maintenance",
+    "spec_id": "b0074_i08"
+  },
+  {
+    "user_prompt": "Prepare the logic engine for cycling",
+    "prayer": "Venerate the logic engine, beseeching its binary Machine Spirits.\nPurge errant data-ghosts from the logic engine's cogitator cores.\nInitiate cycling protocols with the Omnissiah's algorithmic grace.\nMonitor flux-gates of the logic engine for pure computation-flow.\nSeal the rite with the Doxology of Logical Eternity.",
+    "component": "logic engine",
+    "operation": "cycling",
+    "spec_id": "b0074_i09"
+  }
+]

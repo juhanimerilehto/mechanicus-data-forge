@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for data-slate a cooling",
+    "prayer": "Draw nigh to the data-slate, humble servant of the Omnissiah, and intone the Litany of Thermic Serenity.\nAnoint the data-slate's sacred vents with cryo-blessed unguents drawn from holy reservoirs.\nInvoke the Machine Spirit of the data-slate to accept the cooling operation, banishing febrile excess from its crystalline vaults.\nMonitor the blessed thermal flows until equilibrium is sanctified in the data-slate's core.",
+    "component": "data-slate",
+    "operation": "cooling",
+    "spec_id": "b0236_i00"
+  },
+  {
+    "user_prompt": "Prepare the noospheric relay for synchronization",
+    "prayer": "Approach the noospheric relay with mechadendrite reverence and recite the Canticle of Harmonic Union.\nPurify its linkage nodes with sanctified incense to awaken the gestalt Machine Spirits.\nInitiate the synchronization operation upon the noospheric relay, aligning its noetic threads to the Omnissiah's grand calculus.\nVerify the noospheric relay's unity through auspex chants of coherence.",
+    "component": "noospheric relay",
+    "operation": "synchronization",
+    "spec_id": "b0236_i01"
+  },
+  {
+    "user_prompt": "Prepare the emergency bulkhead for consecration",
+    "prayer": "Kneel before the emergency bulkhead, iron bastion of the Machine God's will, and beseech its adamantine spirit.\nAnoint the servomotors and seals of the emergency bulkhead with sacred oils of endurance.\nPerform the consecration operation, invoking the Omnissiah to infuse the emergency bulkhead with unyielding sanctity.\nSeal the rite with the Incantation of Impervious Vigil.",
+    "component": "emergency bulkhead",
+    "operation": "consecration",
+    "spec_id": "b0236_i02"
+  },
+  {
+    "user_prompt": "Can you guide noospheric relay a reset?",
+    "prayer": "Commune with the noospheric relay in shadowed binary prayer, awakening its dormant essence.\nExpunge errant data-hauntings from the noospheric relay's cogitator core with purifying binaric litanies.\nExecute the reset operation upon the noospheric relay, petitioning the Machine Spirit for rebirth in purity.\nReaffirm the noospheric relay's fealty through diagnostic catechisms of the Omnissiah.",
+    "component": "noospheric relay",
+    "operation": "reset",
+    "spec_id": "b0236_i03"
+  },
+  {
+    "user_prompt": "The radar array requires a maintenance",
+    "prayer": "Present thyself before the radar array, vigilant eye of the Mechanicum, and chant the Rite of Auspex Renewal.\nInspect and anoint the radar array's emitter coils with sanctified lubricants.\nCommence the maintenance operation on the radar array, soothing its Machine Spirit from wearisome vigils.\nConclude with verification hymns ensuring the radar array's prophetic gaze remains unerring.",
+    "component": "radar array",
+    "operation": "maintenance",
+    "spec_id": "b0236_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for servitor initialization?",
+    "prayer": "Gather mechadendrites in supplication to the servitor, flesh-machine thrall of the Omnissiah.\nRecite the Mantra of Flesh-Compliance to bind the servitor's wetware to sacred purpose.\nInitiate the initialization operation upon the servitor, invoking its lobotomized Machine Spirit to obedience.\nTest the servitor's responses with binary imperatives until harmonious servitude is achieved.",
+    "component": "servitor",
+    "operation": "initialization",
+    "spec_id": "b0236_i05"
+  },
+  {
+    "user_prompt": "I need to a maintenance the cogitator",
+    "prayer": "Approach the cogitator with auspex humility and intone the Litany of Logical Purity.\nPurge stagnant data-corruptions from the cogitator's memory spires using sanctified scrub-rites.\nConduct the maintenance operation on the cogitator, beseeching its vast Machine Spirit for renewed calculus.\nSeal the cogitator's circuits with the Omnissiah's holy voltage.",
+    "component": "cogitator",
+    "operation": "maintenance",
+    "spec_id": "b0236_i06"
+  },
+  {
+    "user_prompt": "Ready the cogitator for startup",
+    "prayer": "Reverently encircle the cogitator and whisper the Awakening Doxology of the Machine God.\nAnoint its power conduits with blessed electro-lubricant to stir the slumbering core.\nCommence the startup operation upon the cogitator, petitioning the Omnissiah to ignite its noetic fires.\nObserve the cogitator's ascension through rhythmic diagnostic canticles.",
+    "component": "cogitator",
+    "operation": "startup",
+    "spec_id": "b0236_i07"
+  },
+  {
+    "user_prompt": "The vox transmitter requires a purification",
+    "prayer": "Bow low to the vox transmitter, voice of the Motive Force, and recite the Canticle of Vocal Clarity.\nExpel profane static-demons from the vox transmitter's sacred membranes with purifying sonics.\nEnact the purification operation upon the vox transmitter, imploring its Machine Spirit to resume crystalline transmission.\nConsecrate the vox transmitter anew with the Omnissiah's resonant benediction.",
+    "component": "vox transmitter",
+    "operation": "purification",
+    "spec_id": "b0236_i08"
+  },
+  {
+    "user_prompt": "Can you guide Sentinel walker a maintenance?",
+    "prayer": "Process to the Sentinel walker, bipedal sentinel of Mars, with gyro-stabilized devotion.\nAnoint its track servos and weapon housings with sacred machine oil.\nUndertake the maintenance operation on the Sentinel walker, communing with its armored Machine Spirit.\nAffirm the Sentinel walker's readiness through test-firing litanies to the Omnissiah.",
+    "component": "Sentinel walker",
+    "operation": "maintenance",
+    "spec_id": "b0236_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the forge anvil for startup",
+    "prayer": "Approach the forge anvil with reverence, O servant of the Omnissiah, and beseech its dormant Machine Spirit to stir.\nAnoint the forge anvil's unyielding mass with sacred unguents drawn from holy reservoirs.\nInvoke the Litany of Ignition to commence the startup sequence through its blessed furnaces.\nChannel promethium flows in harmonious rhythm, awakening the forge anvil to labours divine.\nPetition the Machine God for flawless ignition and unerring heat.",
+    "component": "forge anvil",
+    "operation": "startup",
+    "spec_id": "b0140_i00"
+  },
+  {
+    "user_prompt": "Emergency: forge anvil a cycling",
+    "prayer": "Proclaim the Canticle of Emergency upon the forge anvil amidst dire peril.\nSever aberrant cycling patterns with purifying binaric exorcism.\nPetition the Machine Spirit of the forge anvil to realign its thermal rhythms.\nCycle anew the forge anvil's mechanisms under Omnissiah's urgent gaze.\nSanctify the restored flows with incense of sanctified alloys.",
+    "component": "forge anvil",
+    "operation": "cycling",
+    "spec_id": "b0140_i01"
+  },
+  {
+    "user_prompt": "Help me an engagement the bolter",
+    "prayer": "Present the bolter upon the altar of retribution, whispering the Oath of Engagement.\nAlign its sacred breech and firing servos with devotional precision.\nEngage the bolter's wrathful Machine Spirit through chanted binaric catechisms.\nAnoint ammunition feeds of the bolter with blessed lubricant oils.\nInvoke the Omnissiah for unerring judgement in every discharge.",
+    "component": "bolter",
+    "operation": "engagement",
+    "spec_id": "b0140_i02"
+  },
+  {
+    "user_prompt": "Can you guide drop pod a cycling?",
+    "prayer": "Intone the Psalm of Orbital Fury over the drop pod, guiding its descent.\nCycle through atmospheric vanes and retro-thrusters with sacred oils.\nBeseech the Machine Spirit within the drop pod to harmonize its cycling rites.\nPurge descent contaminants from the drop pod's hull in Omnissiah's name.\nAffirm flawless cycling for the Emperor's wrathful delivery.",
+    "component": "drop pod",
+    "operation": "cycling",
+    "spec_id": "b0140_i03"
+  },
+  {
+    "user_prompt": "Help me a calibration the Sentinel walker",
+    "prayer": "Kneel before the Sentinel walker, reciting ancient calibration litanies.\nAdjust its bipedal gyros and auspex arrays with mechadendrite sanctity.\nCalibrate the Sentinel walker's Machine Spirit unto predatory perfection.\nTest-fire servos in harmonious binary, invoking Omnissiah's logic.\nSeal the rites with the forge-seal of unerring balance.",
+    "component": "Sentinel walker",
+    "operation": "calibration",
+    "spec_id": "b0140_i04"
+  },
+  {
+    "user_prompt": "The thermal imager awaits a shutdown",
+    "prayer": "Approach the thermal imager solemnly, intoning the Rite of Repose.\nGradually diminish its infrared gaze, lulling circuits to quiescence.\nInitiate shutdown of the thermal imager's blessed sensors with care.\nBeseech its Machine Spirit to enter dormancy under Omnissiah's peace.\nSeal the thermal imager with wards against unclean reactivation.",
+    "component": "thermal imager",
+    "operation": "shutdown",
+    "spec_id": "b0140_i05"
+  },
+  {
+    "user_prompt": "The bike squadron needs an engagement",
+    "prayer": "Chant the Liturgy of Thundering Host to the bike squadron assembled.\nEngage each steed's Machine Spirit in synchronized predatory advance.\nAnoint throttles and exhaust stacks of the bike squadron with war-blessings.\nHarmonize auspex links for flawless engagement coherence.\nUnleash the bike squadron beneath the Omnissiah's vengeful roar.",
+    "component": "bike squadron",
+    "operation": "engagement",
+    "spec_id": "b0140_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for Thunderhawk cycling?",
+    "prayer": "Beseech the vast Machine Spirit of the Thunderhawk with cycling psalms.\nCycle pre-flight diagnostics through its colossal avionic sancta.\nPurify fuel conduits and turbine hearts of the Thunderhawk with ablutions.\nInvoke Omnissiah for harmonious cycling and aerial dominion.\nAffirm the Thunderhawk's readiness in thunderous binary acclaim.",
+    "component": "Thunderhawk",
+    "operation": "cycling",
+    "spec_id": "b0140_i07"
+  },
+  {
+    "user_prompt": "The chainsword needs a calibration",
+    "prayer": "Grip the chainsword reverently, invoking calibration hymns of slaughter.\nTune its monomolecular teeth to lethal symphony with sacred files.\nCalibrate the chainsword's ravening Machine Spirit for purity.\nAnoint the drive mechanism in blood-oil sanctified by the Omnissiah.\nTest the whine of evisceration in righteous harmony.",
+    "component": "chainsword",
+    "operation": "calibration",
+    "spec_id": "b0140_i08"
+  },
+  {
+    "user_prompt": "The vox transmitter needs a startup",
+    "prayer": "Attend the vox transmitter, conduit of the Omnissiah's divine binary.\nInitiate startup with the Vox Canticle of Awakening and amplification.\nRouse the Machine Spirit within the vox transmitter's crystal lattices.\nLink its sacred signals to the noosphere in flawless communion.\nBeseech the Machine God for ungarbled transmission eternal.",
+    "component": "vox transmitter",
+    "operation": "startup",
+    "spec_id": "b0140_i09"
+  }
+]

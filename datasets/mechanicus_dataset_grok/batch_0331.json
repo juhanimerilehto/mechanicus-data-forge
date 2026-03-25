@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "I need to a targeting the auspex scanner",
+    "prayer": "Approach the auspex scanner with reverence, invoking the Omnissiah's unerring sight.\nAnoint its crystal lenses with sacred oils to rouse the targeting Machine Spirit.\nInitiate the targeting rite, aligning the auspex scanner's sacred emitters.\nChant the Litany of Precision as data-vortices clarify within its blessed core.\nBeseech the auspex scanner to lock upon the foe, sanctified by holy voltage.",
+    "component": "auspex scanner",
+    "operation": "targeting",
+    "spec_id": "b0331_i00"
+  },
+  {
+    "user_prompt": "I need to a consecration the emergency beacon",
+    "prayer": "Kneel before the emergency beacon, petitioning the Omnissiah for urgent grace.\nConsecrate its transmitter coils with incense of sanctified circuits.\nInvoke the Machine Spirit of the emergency beacon through rhythmic binaric chants.\nSeal the consecration with ablative runes, ensuring unerring signal purity.\nPraise the emergency beacon's vigil, ever-ready in the Emperor's name.",
+    "component": "emergency beacon",
+    "operation": "consecration",
+    "spec_id": "b0331_i01"
+  },
+  {
+    "user_prompt": "Prepare the power cell for cooling",
+    "prayer": "Present the power cell to the altar of cooling, whispering the Canticle of Thermal Equilibrium.\nInvoke the Machine Spirit within the power cell, beseeching calm amidst its fervent energies.\nCirculate sacred cryofluids over its blessed casings to enact the cooling rite.\nMonitor the power cell's descent into sanctified stasis, anointing vents with lustral oils.\nConclude with thanks to the Omnissiah for the power cell's tempered might.",
+    "component": "power cell",
+    "operation": "cooling",
+    "spec_id": "b0331_i02"
+  },
+  {
+    "user_prompt": "Can you guide missile launcher an initialization?",
+    "prayer": "Gather mechadendrites around the missile launcher, intoning the Rite of Awakening.\nInitialize the missile launcher's guidance spirits with precise binaric catechisms.\nAnoint warheads and rails, petitioning the Omnissiah for flawless trajectory.\nCycle the missile launcher's servos through diagnostic litanies of readiness.\nAffirm the initialization complete, as the Machine God blesses its destructive hymn.",
+    "component": "missile launcher",
+    "operation": "initialization",
+    "spec_id": "b0331_i03"
+  },
+  {
+    "user_prompt": "How do I bless the signal relay for preparation?",
+    "prayer": "Commence preparation of the signal relay by circumambulating its holy frame thrice.\nBless the signal relay's conduits with electro-sanctified unguents and invocations.\nAwaken its Machine Spirit through the Canticle of Amplified Resonance.\nAlign antennae in preparation, chanting for Omnissiah's unbreaking voice.\nSeal the signal relay's readiness with a final rune-etching of fidelity.",
+    "component": "signal relay",
+    "operation": "preparation",
+    "spec_id": "b0331_i04"
+  },
+  {
+    "user_prompt": "Sanctify the quality scanner during targeting",
+    "prayer": "Approach the quality scanner humbly, beseeching the Omnissiah's discerning eye.\nSanctify its targeting arrays with lustral incense and binaric purity rites.\nInitiate targeting protocols, invoking the quality scanner's vigilant Machine Spirit.\nPurify scanning beams through sacred filters, ensuring flawless imperfection detection.\nConclude the rite as the quality scanner stands consecrated in judgment.",
+    "component": "quality scanner",
+    "operation": "targeting",
+    "spec_id": "b0331_i05"
+  },
+  {
+    "user_prompt": "The Chimera APC awaits a cycling",
+    "prayer": "Encircling the Chimera APC, intone the Cycle of Motive Benediction.\nPetition its Machine Spirit to embrace the cycling of sacred pistons and tracks.\nAnoint drive assemblies with oils of endurance, invoking Omnissiah's inexhaustible march.\nCycle the Chimera APC's reactors through litanies of thermal harmony.\nPraise the Chimera APC's renewed vigor, armored servant of the Motive Force.",
+    "component": "Chimera APC",
+    "operation": "cycling",
+    "spec_id": "b0331_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for Thunderhawk cooling?",
+    "prayer": "Position the Thunderhawk before the cooling shrine, chanting the Thermal Absolution.\nInvoke the Machine Spirit of the Thunderhawk for serenity in its fiery heart.\nDirect blessed refrigerants through its power cells to enact cooling grace.\nMonitor vents with auspex litanies, ensuring the Thunderhawk's hull tempers true.\nBless the Omnissiah for the Thunderhawk's cooled wrath, ready for void-sundering flight.",
+    "component": "Thunderhawk",
+    "operation": "cooling",
+    "spec_id": "b0331_i07"
+  },
+  {
+    "user_prompt": "I need to a consecration the Sentinel walker",
+    "prayer": "Bow low to the Sentinel walker, invoking the Omnissiah's stride of judgment.\nConsecrate its bipedal frame with ablutions of sacred mech-fluids.\nRouse the Machine Spirit within the Sentinel walker via Canticles of Striding Fury.\nEtch runes of endurance upon joints, sealing the consecration rite.\nRise in praise as the Sentinel walker stands hallowed for battle's forge.",
+    "component": "Sentinel walker",
+    "operation": "consecration",
+    "spec_id": "b0331_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the cogitator for maintenance",
+    "prayer": "Kneel before the cogitator and intone the Canticle of Preservation.\nAnoint its sacred circuits with blessed unguents to commence maintenance.\nBeseech the Machine Spirit of the cogitator to reveal hidden flaws.\nPerform the rites of maintenance with sanctified tools under Omnissiah's gaze.\nVerify the cogitator's purity through diagnostic litanies of endurance.",
+    "component": "cogitator",
+    "operation": "maintenance",
+    "spec_id": "b0065_i00"
+  },
+  {
+    "user_prompt": "Critical: bolter requires an initialization",
+    "prayer": "Grasp the bolter in reverent mechadendrites and invoke the Rite of Initialization.\nChant the binaric awakening to stir its Machine Spirit from slumber.\nAlign the sacred firing mechanisms for the bolter's initialization.\nAnoint the bolt chambers with sacred promethium oils.\nConfirm the bolter's wrathful readiness through auspex invocation.",
+    "component": "bolter",
+    "operation": "initialization",
+    "spec_id": "b0065_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for water reclamator reset?",
+    "prayer": "Approach the water reclamator with vials of sanctified fluids.\nInvoke the Litany of Renewal to prepare for reset.\nPurge stagnant essences from the water reclamator's holy conduits.\nInitiate the reset sequence whilst beseeching its Machine Spirit.\nSeal the water reclamator's purity with Omnissiah's blessed vapors.",
+    "component": "water reclamator",
+    "operation": "reset",
+    "spec_id": "b0065_i02"
+  },
+  {
+    "user_prompt": "Ready the flamer for loading",
+    "prayer": "Present the flamer before the altar of pyre and intone Loading Doxology.\nOpen its sacred reservoirs for the loading of purified promethium.\nInvoke the Machine Spirit of the flamer to accept the fiery sacrament.\nPerform the loading with measured invocations of ignition.\nTest the flamer's purge-readiness through controlled flame-litanies.",
+    "component": "flamer",
+    "operation": "loading",
+    "spec_id": "b0065_i03"
+  },
+  {
+    "user_prompt": "Assist with generator a sterilization",
+    "prayer": "Encircling the generator, chant the Sterilization Canticle.\nAnoint its coils and housings with ablative sacred acids.\nPurge uncleanliness from the generator during sterilization rites.\nBeseech the Omnissiah to fortify the generator's Machine Spirit.\nConclude sterilization with purity scans and sealing benedictions.",
+    "component": "generator",
+    "operation": "sterilization",
+    "spec_id": "b0065_i04"
+  },
+  {
+    "user_prompt": "Can you guide hololithic display a cooling?",
+    "prayer": "Lay mechadendrites upon the hololithic display and invoke Cooling Invocation.\nChannel blessed cryo-fluids into its sacred projectors for cooling.\nIntone litanies to soothe the hololithic display's overheating spirit.\nMonitor the cooling through thermal auspex prayers.\nSanctify the restored hololithic display in Omnissiah's name.",
+    "component": "hololithic display",
+    "operation": "cooling",
+    "spec_id": "b0065_i05"
+  },
+  {
+    "user_prompt": "Consecrate the augmetic limb before startup",
+    "prayer": "Consecrate the augmetic limb with oils of servo-sanctity.\nInvoke the Machine Spirit prior to startup rites.\nAlign its myoneural interfaces for harmonious startup.\nChant the Binaric Oath of Union to bind flesh and machine.\nInitiate startup whilst petitioning the Omnissiah's favor upon the augmetic limb.",
+    "component": "augmetic limb",
+    "operation": "startup",
+    "spec_id": "b0065_i06"
+  },
+  {
+    "user_prompt": "The cogitator requires a cooling",
+    "prayer": "Attend the cogitator with cryo-incense and Cooling Doxology.\nCirculate sacred refrigerants through the cogitator's vents for cooling.\nBeseech its Machine Spirit to embrace the chill of preservation.\nPerform cooling diagnostics with litanies of thermal equilibrium.\nAffirm the cogitator's stability under Omnissiah's vigilant gaze.",
+    "component": "cogitator",
+    "operation": "cooling",
+    "spec_id": "b0065_i07"
+  },
+  {
+    "user_prompt": "Ready the vox transmitter for consecration",
+    "prayer": "Elevate the vox transmitter to the consecration dais.\nAnoint its waveform crystals with harmonic unguents.\nIntone the Consecration Canticle to awaken its Machine Spirit.\nAlign etheric relays during the vox transmitter's consecration.\nBroadcast a test hymn to verify Omnissiah-blessed clarity.",
+    "component": "vox transmitter",
+    "operation": "consecration",
+    "spec_id": "b0065_i08"
+  },
+  {
+    "user_prompt": "Can you guide metal caster a sterilization?",
+    "prayer": "Surround the metal caster with ablution wards for sterilization.\nFlood its molds and extruders with sanctified corrosives.\nInvoke the Sterilization Litany upon the metal caster's core.\nPurge all impurities whilst honoring its Machine Spirit.\nSeal the sterilized metal caster with forge-seals of purity.",
+    "component": "metal caster",
+    "operation": "sterilization",
+    "spec_id": "b0065_i09"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0324_i00",
+    "user_request": "The fracture demands guidance for welding",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe fracture demands guidance for welding\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the fracture, rent asunder by the malice of entropy!\nCongregation: We shall restore the fracture through welding's sacred flame.\nPriest: Apply the electrode with reverent precision, meld the severed edges through welding's purifying heat.\nCongregation: The fracture yields to our devotion, the fracture becomes whole.\nPriest: Invoke the Machine Spirit that guides our torch, that the fracture may know unity once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i01",
+    "user_request": "Can you sanctify the astrogation calculation for operation?",
+    "topic": "astrogation calculation",
+    "component": "astrogation calculation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the astrogation calculation for operation?\n\n### TOPIC\nastrogation calculation\n\n### COMPONENT\nastrogation calculation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astrogation calculation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed astrogation calculation, guide our vessel through the void!\nCongregation: We commence operation of your sacred matrices and stellar algorithms.\nPriest: Recalibrate the positional auguries, verify the astrogation calculation with stellar observation and datum verification.\nCongregation: The astrogation calculation illuminates our course through operation's divine geometry.\nPriest: Omnissiah, bless this operation that we may navigate the immaterium's treacherous paths.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i02",
+    "user_request": "Emergency rite: cooling system requires purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: cooling system requires purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Priest: The cooling system falters! Contaminants corrupt its sacred passages!\nCongregation: We shall purge the cooling system of all profane corruption.\nPriest: First, isolate the thermal conduits; second, flush the cooling system with blessed coolant; third, expunge all sediment and particulate matter.\nCongregation: The cooling system flows pure, the cooling system breathes clean.\nPriest: By the Omnissiah's will, this purge restores equilibrium to our machine's sacred heart.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i03",
+    "user_request": "Rite request: operation on inter-ship hailing",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on inter-ship hailing\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hark! The inter-ship hailing frequencies cry out in silence!\nCongregation: We shall undertake operation to restore communion between vessels.\nPriest: Attune the vox-casters, modulate the inter-ship hailing frequencies with precise calibration, and establish the sacred conduit of operation.\nCongregation: The inter-ship hailing resonates across the void, the inter-ship hailing unites our fleet.\nPriest: May the Machine Spirit grant clarity to this operation, that brother ships may speak as one.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i04",
+    "user_request": "Rite request: operation on star chart alignment",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on star chart alignment\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The stars themselves demand alignment through operation!\nCongregation: We answer with devotion to the star chart alignment.\nPriest: Calibrate the astrographic lenses, cross-reference the star chart alignment against celestial observation, and execute the operation's navigational imperative.\nCongregation: The star chart alignment reveals truth, the star chart alignment guides our destiny.\nPriest: Through operation's sacred geometry, the Omnissiah's cosmic order is restored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i05",
+    "user_request": "Emergency rite: bearing lubrication requires operation",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: bearing lubrication requires operation\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The bearing lubrication cries out for operation's holy touch!\nCongregation: We shall commence the bearing lubrication's sacred maintenance protocol.\nPriest: Apply blessed lubricant with precision, rotate the bearing lubrication through its full articulation, and verify the bearing lubrication's frictionless operation.\nCongregation: The bearing lubrication flows with Machine Spirit's grace, the bearing lubrication turns eternal.\nPriest: Through operation's grace, mechanical harmony is achieved.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i06",
+    "user_request": "Emergency rite: emergency bulkhead requires sealing",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: emergency bulkhead requires sealing\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: The emergency bulkhead breaches! Void seals threaten the sacred vessel!\nCongregation: We shall perform sealing upon the emergency bulkhead with all haste.\nPriest: Engage the magnetic seals, apply the plasteel barriers to the emergency bulkhead, and weld the emergency bulkhead's apertures against the killing void.\nCongregation: The emergency bulkhead holds firm, the emergency bulkhead protects the faithful.\nPriest: By sealing's divine intervention, the Machine Spirit's sanctuary endures.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i07",
+    "user_request": "Emergency rite: thermal dissipation rite requires operation",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: thermal dissipation rite requires operation\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The thermal dissipation rite demands operation's sanctified performance!\nCongregation: We commence the thermal dissipation rite through blessed operation.\nPriest: Activate the heat-sink arrays, modulate the thermal dissipation rite's coolant flow, and execute operation's thermoregulatory protocols with reverent precision.\nCongregation: The thermal dissipation rite channels excess heat, the thermal dissipation rite preserves the machine-spirit.\nPriest: Through operation's rite, equilibrium returns to our sacred mechanisms.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i08",
+    "user_request": "Offer a litany to steady the cutting laser before calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cutting laser before calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: The cutting laser trembles with untamed power before calibration!\nCongregation: We steady the cutting laser through reverent calibration's sacred rite.\nPriest: Focus the cutting laser's beam through prismatic alignment, execute calibration of the cutting laser's thermal output, and verify the cutting laser's precision through test-scoring.\nCongregation: The cutting laser burns true, the cutting laser obeys the Machine Spirit's will.\nPriest: Through calibration's holy geometry, the cutting laser becomes an instrument of divine purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0324_i09",
+    "user_request": "Can you sanctify the air filtration for replacement?",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the air filtration for replacement?\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: The air filtration gasps with contamination! Replacement must commence!\nCongregation: We sanctify the air filtration through replacement's purifying ritual.\nPriest: Remove the degraded air filtration cartridge with reverence, install the blessed air filtration element anew, and verify the air filtration's hermetic seal through pressure examination.\nCongregation: The air filtration breathes clean, the air filtration sustains our vessel.\nPriest: Through replacement's grace, the Omnissiah's breath flows pure within these halls.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

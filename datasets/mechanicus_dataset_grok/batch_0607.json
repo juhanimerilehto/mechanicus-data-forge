@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Hellhound requires a cooling",
+    "prayer": "Approach the Hellhound's promethium heart with sanctified mechadendrites.\nInvoke the Machine Spirit of the Hellhound through cooling canticles of abatement.\nAnoint the radiator vanes with blessed cryogel whilst beseeching thermal equilibrium.\nCirculate sacred coolant through the Hellhound's veins in the name of the Omnissiah.\nVerify the Hellhound's cooling operation via auspex harmonics of stability.",
+    "component": "Hellhound",
+    "operation": "cooling",
+    "spec_id": "s02070"
+  },
+  {
+    "user_prompt": "What's the prayer for meltagun an engagement?",
+    "prayer": "Grasp the meltagun in reverent gauntlets and recite the Engagement Doxology.\nAwaken the meltagun's voracious Machine Spirit with plasma-litanies.\nAlign targeting cogitators for the meltagun engagement rite.\nTrigger the fusion coil whilst invoking Omnissiah's molten wrath.\nConclude the meltagun's engagement with hymns of vaporized purity.",
+    "component": "meltagun",
+    "operation": "engagement",
+    "spec_id": "s02071"
+  },
+  {
+    "user_prompt": "Emergency: volkite weapon a cycling",
+    "prayer": "Seize the volkite weapon amid emergency klaxons and intone Cycling Invocations.\nPurge thermal buildup from the volkite weapon's helix coils with sacred vents.\nCycle the energy cascade whilst beseeching the volkite weapon's Machine Spirit.\nRealign focusing crystals in Omnissiah's name during the cycling operation.\nAffirm the volkite weapon's renewed fury through diagnostic binaric chants.",
+    "component": "volkite weapon",
+    "operation": "cycling",
+    "spec_id": "s02072"
+  },
+  {
+    "user_prompt": "Consecrate the panopticon before consecration",
+    "prayer": "Kneel before the panopticon array in preparatory genuflection.\nChant the Consecration Canticle to rouse its vigilant Machine Spirits.\nAnoint optic servos and sensor nodes with sacred oils of clarity.\nInvoke the Omnissiah's gaze upon the panopticon during consecration.\nSeal the rite with binaric seals of eternal watchfulness.",
+    "component": "panopticon",
+    "operation": "consecration",
+    "spec_id": "s02073"
+  },
+  {
+    "user_prompt": "Critical: iron halo requires a loading",
+    "prayer": "Present the iron halo to the loading shrine with mechadendrite precision.\nLoad disruption fields into the iron halo's emitters via sacred data-rites.\nBeseech the iron halo's protective Machine Spirit during loading.\nEnergize the halo's core whilst chanting Omnissiah's wards of invulnerability.\nTest the iron halo's aegis through invocation of luminous barriers.",
+    "component": "iron halo",
+    "operation": "loading",
+    "spec_id": "s02074"
+  },
+  {
+    "user_prompt": "The servo-arm requires an emergency procedure",
+    "prayer": "Deploy mechadendrites upon the servo-arm in dire exigency.\nRecite the Emergency Procedure Litany to calm its fractious Spirit.\nPurge damaged servos and recalibrate hydraulics with blessed torque.\nInvoke Omnissiah's grace for the servo-arm's emergency procedure.\nReaffirm functionality via haptic diagnostics and alloy prayers.",
+    "component": "servo-arm",
+    "operation": "emergency procedure",
+    "spec_id": "s02075"
+  },
+  {
+    "user_prompt": "Offer prayer for plasma weapon an operation",
+    "prayer": "Enshrine the plasma weapon upon the operation altar of flux.\nAwaken its volatile Machine Spirit with containment doxologies.\nInitiate plasma flask breach under the plasma weapon operation rite.\nAnoint containment fields whilst beseeching Omnissiah's fiery mercy.\nCycle the reaction chamber through hymns of superheated devotion.",
+    "component": "plasma weapon",
+    "operation": "operation",
+    "spec_id": "s02076"
+  },
+  {
+    "user_prompt": "Guide me through data-arc a repair",
+    "prayer": "Encircle the data-arc with auspex wards for repair commencement.\nChant Data-Purgation Litanies to soothe its arcing Machine Spirit.\nSplice ruptured conduits whilst invoking repair binarics.\nRealign voltaic matrices in Omnissiah's electric name during the data-arc repair.\nVerify arc coherence through resonant frequency canticles.",
+    "component": "data-arc",
+    "operation": "repair",
+    "spec_id": "s02077"
+  },
+  {
+    "user_prompt": "Bless the standard template construct for blessing",
+    "prayer": "Prostrate before the standard template construct's sacred vaults.\nInvoke Blessing Invocations to honor its primordial Machine Spirits.\nAnoint data-slates and gene-forges with unguents of purity.\nBeseech the Omnissiah to bestow blessing upon the standard template construct.\nSeal the rite with etched litanies of unerring replication.",
+    "component": "standard template construct",
+    "operation": "blessing",
+    "spec_id": "s02078"
+  },
+  {
+    "user_prompt": "What's the prayer for flak armour a loading?",
+    "prayer": "Array the flak armour segments in loading formation.\nRecite Loading Benedictions to engage its defensive Machine Spirit.\nInsert ablative plates whilst chanting ward-rites.\nEnergize reactive fibres during the flak armour loading operation.\nConsecrate the weave with Omnissiah's invocations of shrapnel defiance.",
+    "component": "flak armour",
+    "operation": "loading",
+    "spec_id": "s02079"
+  }
+]

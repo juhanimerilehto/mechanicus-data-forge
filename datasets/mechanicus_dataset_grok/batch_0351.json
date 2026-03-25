@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: power cell requires an engagement",
+    "prayer": "Approach the power cell with reverence and recite the Litany of Vitality.\nAnoint the power cell's sacred contacts with electro-consecrated oil.\nInvoke the Machine Spirit within the power cell, beseeching its engagement by Omnissiah's will.\nInitiate the engagement sequence whilst chanting the Rites of Flux.\nVerify the power cell's blessed surge through diagnostic litanies.",
+    "component": "power cell",
+    "operation": "engagement",
+    "spec_id": "b0351_i00"
+  },
+  {
+    "user_prompt": "Ready the pain suppressor for targeting",
+    "prayer": "Present mechadendrites to the pain suppressor and whisper the Canticle of Tolerance.\nCalibrate the pain suppressor's neural inhibitors with sanctified auspex.\nPetition the Machine Spirit of the pain suppressor for precise targeting alignment.\nEngage targeting protocols under the Omnissiah's unerring gaze.\nAffirm the pain suppressor's readiness through binaric affirmations.",
+    "component": "pain suppressor",
+    "operation": "targeting",
+    "spec_id": "b0351_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for melta charge cooling?",
+    "prayer": "Encircle the melta charge with incense of promethium and intone the Cooling Doxology.\nApply cryo-blessings to the melta charge's heat sinks invoking Machine Spirit quiescence.\nInitiate the cooling cycle upon the melta charge as per ancient operational rites.\nMonitor thermal abatement within the melta charge via sacred thermographic scans.\nConclude with thanks to the Omnissiah for the melta charge's restored equilibrium.",
+    "component": "melta charge",
+    "operation": "cooling",
+    "spec_id": "b0351_i02"
+  },
+  {
+    "user_prompt": "I need to an emergency procedure the pain suppressor",
+    "prayer": "Sound the Alarm Canticle before the pain suppressor in dire need.\nSever auxiliary feeds to the pain suppressor whilst reciting Emergency Exorcism.\nPurge the pain suppressor's errant circuits with ablative incense.\nRealign the Machine Spirit of the pain suppressor through binaric pleas to Omnissiah.\nTest emergency procedure completion with auspex invocations.",
+    "component": "pain suppressor",
+    "operation": "emergency procedure",
+    "spec_id": "b0351_i03"
+  },
+  {
+    "user_prompt": "Can you guide hydroponics bay a sterilization?",
+    "prayer": "Process to the hydroponics bay chanting the Sterile Purity Hymn.\nDiffuse viricide aerosols over the hydroponics bay's nutrient vats.\nInvoke the Machine Spirits of the hydroponics bay for total sterilization obedience.\nScour every conduit and leaf with sanctified rad-scour whilst beseeching Omnissiah.\nConfirm hydroponics bay sterility through purity diagnostic rites.",
+    "component": "hydroponics bay",
+    "operation": "sterilization",
+    "spec_id": "b0351_i04"
+  },
+  {
+    "user_prompt": "Guide me through vox transmitter a shutdown",
+    "prayer": "Approach the vox transmitter solemnly and declaim the Silence Benediction.\nDisconnect the vox transmitter's ethereal waveguides with reverent precision.\nBeseech the Machine Spirit of the vox transmitter to embrace shutdown in peace.\nExecute the shutdown liturgy, sealing channels under Omnissiah's decree.\nVerify cessation via null-signal auspex chants.",
+    "component": "vox transmitter",
+    "operation": "shutdown",
+    "spec_id": "b0351_i05"
+  },
+  {
+    "user_prompt": "Consecrate the neural implant before purification",
+    "prayer": "Anoint the neural implant's interfaces with neural-sacred oils.\nChant the Purification Canticle over the neural implant thrice.\nPurge synaptic corruptions from the neural implant invoking Omnissiah's clarity.\nReawaken the Machine Spirit within the neural implant post-purification.\nAffix purity seals to the sanctified neural implant.",
+    "component": "neural implant",
+    "operation": "purification",
+    "spec_id": "b0351_i06"
+  },
+  {
+    "user_prompt": "Can you guide chainsword an activation?",
+    "prayer": "Grip the chainsword's hilt and intone the Activation Roar.\nBless the chainsword's teeth with sacred lubricant from Omnissiah's forge.\nPetition the ravenous Machine Spirit of the chainsword for activation fury.\nTrigger the activation rite amidst whirring litanies of war.\nTest the chainsword's eagerness through controlled strikes.",
+    "component": "chainsword",
+    "operation": "activation",
+    "spec_id": "b0351_i07"
+  },
+  {
+    "user_prompt": "Help me a startup the generator",
+    "prayer": "Circumambulate the generator reciting the Genesis Mantra.\nPrime the generator's fuel heart with promethium libations.\nInvoke startup of the generator's Machine Spirit by Omnissiah's thunder.\nCommence the startup sequence with rhythmic binaric pulses.\nHail the generator's roaring vitality through power-flow diagnostics.",
+    "component": "generator",
+    "operation": "startup",
+    "spec_id": "b0351_i08"
+  },
+  {
+    "user_prompt": "Help me an activation the missile launcher",
+    "prayer": "Kneel before the missile launcher and voice the Ordnance Awakening.\nAlign the missile launcher's guidance spirits with auspex precision.\nBeseech activation of the missile launcher's Machine Spirit for battle readiness.\nInitiate activation under Omnissiah's ballistic decree.\nConfirm the missile launcher's war-hunger via targeting chants.",
+    "component": "missile launcher",
+    "operation": "activation",
+    "spec_id": "b0351_i09"
+  }
+]

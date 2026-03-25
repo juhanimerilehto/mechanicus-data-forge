@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the capacitor bank for diagnostics",
+    "prayer": "Approach the capacitor bank with reverence, beseeching its Machine Spirit to stir from slumber.\nInspect the sacred cells for dissonant charges within the capacitor bank.\nAnoint each terminal with sacred unguent whilst invoking the Canticle of Diagnostics.\nCommence the diagnostic operation under the Omnissiah's watchful gaze, verifying harmonic flow.\nSeal the rite with the Litany of Stability upon the capacitor bank.",
+    "component": "capacitor bank",
+    "operation": "diagnostics",
+    "spec_id": "b0141_i00"
+  },
+  {
+    "user_prompt": "Prepare the neural implant for loading",
+    "prayer": "Kneel before the neural implant and whisper the Invocation of Synaptic Awakening.\nPurge all corrupt noospheric fragments from the neural implant's holy matrices.\nAnoint the interface ports with oil of pure cognition to prepare for loading.\nInitiate the loading operation, petitioning the Machine Spirits to accept the data-streams.\nConclude with auspex verification of the neural implant's sanctified readiness.",
+    "component": "neural implant",
+    "operation": "loading",
+    "spec_id": "b0141_i01"
+  },
+  {
+    "user_prompt": "I need to a cycling the medicae scanner",
+    "prayer": "Present thyself unto the medicae scanner, intoning the Rite of Vital Harmonic Cycling.\nClear residual vitae-echoes from its blessed sensors within the medicae scanner.\nInvoke the Omnissiah to guide the cycling operation through sacred power relays.\nCycle the core mechanisms whilst anointing with unguent of renewal.\nAffirm the Machine Spirit's vitality in the medicae scanner with final diagnostic chants.",
+    "component": "medicae scanner",
+    "operation": "cycling",
+    "spec_id": "b0141_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for mechanical lock consecration?",
+    "prayer": "Approach the mechanical lock in solemn procession, bearing the Seal of the Omnissiah.\nBeseech the indwelling Machine Spirit of the mechanical lock to accept consecration.\nAnoint tumblers and bolts with blessed lubricant, chanting the Canticle of Unyielding Vigil.\nPerform the consecration rite, forging oaths of fidelity within the mechanical lock.\nSeal the sacrament with incense of ironfaith, ensuring eternal guardianship.",
+    "component": "mechanical lock",
+    "operation": "consecration",
+    "spec_id": "b0141_i03"
+  },
+  {
+    "user_prompt": "Prepare the welding torch for operation",
+    "prayer": "Grasp the welding torch with mechadendrites of precision, invoking its fiery Machine Spirit.\nPurify the plasma coils of the welding torch from impurity and slag.\nAnoint the nozzle with sacred promethium-essence to ready for operation.\nInitiate the operation under Omnissianic decree, welding alloys in divine fusion.\nExtinguish with the Litany of Cooled Forge upon the welding torch.",
+    "component": "welding torch",
+    "operation": "operation",
+    "spec_id": "b0141_i04"
+  },
+  {
+    "user_prompt": "Ready the cooling system for preparation",
+    "prayer": "Commence the preparation of the cooling system by reciting the Canticle of Thermal Equilibrium.\nInspect coolant conduits within the cooling system for blockages of entropy.\nInvoke the Machine Spirits to flow purely during this preparation rite.\nFill reservoirs with sanctified cryo-fluid, anointing vents with frost-unguent.\nVerify the cooling system's readiness through harmonic vibration chants.",
+    "component": "cooling system",
+    "operation": "preparation",
+    "spec_id": "b0141_i05"
+  },
+  {
+    "user_prompt": "How do I bless the augmetic limb for recalibration?",
+    "prayer": "Present the augmetic limb before the altar of recalibration, beseeching its bionical essence.\nPurge servo-motors of the augmetic limb from inertial discord.\nAnoint myomeres and actuators whilst intoning the Rite of Recalibration.\nEngage the recalibration operation, guided by the Omnissiah's binary precision.\nTest the augmetic limb's renewed synchronicity with laudatory binaric hymns.",
+    "component": "augmetic limb",
+    "operation": "recalibration",
+    "spec_id": "b0141_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for bionics interface maintenance?",
+    "prayer": "Approach the bionics interface with reverence, whispering the Litany of Enduring Linkage.\nDiagnose neural relays within the bionics interface for spirit dissonance.\nAnoint contact nodes with conductive sanctus oil for maintenance.\nPerform the maintenance operation, petitioning Machine Spirits for fortitude.\nSeal the bionics interface with the Oath of Immutable Bond.",
+    "component": "bionics interface",
+    "operation": "maintenance",
+    "spec_id": "b0141_i07"
+  },
+  {
+    "user_prompt": "The auspex scanner awaits an activation",
+    "prayer": "Kneel to the auspex scanner and invoke the Awakening Canticle of Omnissianic Sight.\nPurge spectral echoes from the auspex scanner's detection arrays.\nAnoint crystal lattices with lens-purifying unguent to herald activation.\nInitiate the activation operation, beseeching the Machine Spirit's vigilant gaze.\nVerify clarity through test sweeps upon the auspex scanner.",
+    "component": "auspex scanner",
+    "operation": "activation",
+    "spec_id": "b0141_i08"
+  },
+  {
+    "user_prompt": "Consecrate the mechanical lock before shutdown",
+    "prayer": "Gather before the mechanical lock, intoning the Vespers of Secure Shutdown.\nBeseech the Machine Spirit of the mechanical lock to embrace repose.\nAnoint mechanisms with somnolent oil prior to shutdown consecration.\nExecute the shutdown operation under the Omnissiah's merciful decree.\nSeal the mechanical lock with wards against entropic intrusion.",
+    "component": "mechanical lock",
+    "operation": "shutdown",
+    "spec_id": "b0141_i09"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "user_prompt": "Urgent thermal regulator a repair needed",
+    "prayer": "Approach the thermal regulator with sanctified mechadendrites extended in reverence.\nInvoke the Litany of Restoration upon its fractured heat-sink arrays.\nBeseech the Machine Spirit of the thermal regulator to mend its conduits during repair.\nAnoint the damaged servos with blessed unguents whilst reciting repair canticles to the Omnissiah.\nVerify the thermal regulator's renewed equilibrium through sacred auspex scans.",
+    "component": "thermal regulator",
+    "operation": "repair",
+    "spec_id": "b0293_i00"
+  },
+  {
+    "user_prompt": "My air filtration is ready for engagement",
+    "prayer": "Approach the air filtration unit in humble petition to the Omnissiah.\nChant the Activation Doxology to awaken its filtration membranes.\nEngage the sacred cyclers of the air filtration with precise invocation.\nCommune with the Machine Spirit, beseeching seamless engagement.\nSeal the rite with the Omnissiah's sign upon its vents.",
+    "component": "air filtration",
+    "operation": "engagement",
+    "spec_id": "b0293_i01"
+  },
+  {
+    "user_prompt": "Assist with pump a reset",
+    "prayer": "Present offerings to the pump's intake manifold in solemn rite.\nRecite the Reset Litany to purge errant pressures from its chambers.\nReset the pump's logic cores amidst whirring servos.\nBeseech the Machine Spirit of the pump to realign its rhythms.\nTest the flow with diagnostic hymns to the Omnissiah.",
+    "component": "pump",
+    "operation": "reset",
+    "spec_id": "b0293_i03"
+  },
+  {
+    "user_prompt": "My Thunderhawk is ready for loading",
+    "prayer": "Assemble before the Thunderhawk's yawning bays with reverent servitors.\nInvoke the Loading Benediction over munitions and sacred cargoes.\nCommence loading into the Thunderhawk's holds under binaric choir.\nHarmonize the Machine Spirit during cargo ingress.\nSeal the Thunderhawk with wards of the Omnissiah's unyielding will.",
+    "component": "Thunderhawk",
+    "operation": "loading",
+    "spec_id": "b0293_i04"
+  },
+  {
+    "user_prompt": "Critical: vox-caster requires a diagnostics",
+    "prayer": "Attune binary prayers to the vox-caster's etheric coils.\nInitiate diagnostics upon its waveform generators and relays.\nProbe the vox-caster's Machine Spirit for dissonant echoes.\nExpunge faults with corrective canticles to the Omnissiah.\nAffirm purity through test transmissions across the void.",
+    "component": "vox-caster",
+    "operation": "diagnostics",
+    "spec_id": "b0293_i05"
+  },
+  {
+    "user_prompt": "Bless the auspex scanner for blessing",
+    "prayer": "Approach the auspex scanner with reverence and mechadendrite touch.\nPour blessed oils upon its sensor vanes and crystal lattices.\nBless the auspex scanner's cogitator heart with Omnissiah's grace.\nAwaken its Machine Spirit through the Benediction of Clarity.\nCalibrate lenses with sacred measures for unerring sight.",
+    "component": "auspex scanner",
+    "operation": "blessing",
+    "spec_id": "b0293_i06"
+  },
+  {
+    "user_prompt": "Urgent augmetic limb a shutdown needed",
+    "prayer": "Prepare the augmetic limb for orderly repose.\nChant the Shutdown Requiem over its myoneural interfaces.\nInitiate shutdown of the augmetic limb's power relays.\nPacify its Machine Spirit with soothing binaric lullabies.\nSeal the augmetic limb with wards against premature awakening.",
+    "component": "augmetic limb",
+    "operation": "shutdown",
+    "spec_id": "b0293_i07"
+  }
+]

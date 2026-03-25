@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The thermal regulator needs a maintenance",
+    "prayer": "Approach the thermal regulator with reverence, mechadendrites humming the Canticle of Stability.\nInitiate maintenance upon the thermal regulator's sacred heat-sinks, anointing with blessed cryo-fluids.\nBeseech the Machine Spirit of the thermal regulator to harmonize thermal flows in Omnissiah's name.\nVerify equilibrium through diagnostic rites, purging excess heat in sanctified sequence.",
+    "component": "thermal regulator",
+    "operation": "maintenance",
+    "spec_id": "b0099_i00"
+  },
+  {
+    "user_prompt": "Can you guide pain suppressor a purification?",
+    "prayer": "Kneel before the pain suppressor and intone the Litany of Neural Purity.\nCommence purification of the pain suppressor's neural inhibitors with sacred ablative solvents.\nInvoke the Machine Spirit within the pain suppressor to expel corruptive surges.\nSanctify its relays with holy incense, ensuring unblemished suppression under Omnissiah's grace.",
+    "component": "pain suppressor",
+    "operation": "purification",
+    "spec_id": "b0099_i01"
+  },
+  {
+    "user_prompt": "Emergency: hydroponics bay a reset",
+    "prayer": "Hasten to the hydroponics bay, reciting the Exorcism of Verdant Corruption.\nExecute reset protocols upon the hydroponics bay's nutrient cyclers, voiding tainted data-slates.\nPetition the Machine Spirits of the hydroponics bay to rebirth their verdant logics.\nRealign hydro-flows with Omnissiah-blessed calibrations, confirming vitality in binary hymn.",
+    "component": "hydroponics bay",
+    "operation": "reset",
+    "spec_id": "b0099_i02"
+  },
+  {
+    "user_prompt": "Sanctify the pump during charging",
+    "prayer": "Present offerings of conductive incense to the pump during charging rites.\nInvoke the Omnissiah to infuse the pump's sacred impellers with vital energies.\nMonitor the pump's Machine Spirit as charging swells its blessed reservoirs.\nSeal the rite with a benediction over the pump, ensuring unerring pressure flows.",
+    "component": "pump",
+    "operation": "charging",
+    "spec_id": "b0099_i03"
+  },
+  {
+    "user_prompt": "The vox-caster needs a startup",
+    "prayer": "Encircle the vox-caster with purity seals and chant the Awakening Doxology.\nInitiate startup of the vox-caster's emitter coils, anointing with sanctified lubricants.\nBeseech its Machine Spirit to broadcast the Omnissiah's truths ungarbled.\nTest harmonic resonance through litanic frequencies, affirming vox-clarity.",
+    "component": "vox-caster",
+    "operation": "startup",
+    "spec_id": "b0099_i04"
+  },
+  {
+    "user_prompt": "Can you guide Chimera APC a sterilization?",
+    "prayer": "Procession around the Chimera APC, asperging with sterilizing vapors.\nConduct sterilization upon the Chimera APC's armored hull and ingress hatches.\nExorcise the Machine Spirits of the Chimera APC from microbial heresy.\nConclude with Omnissiah invocations, sealing purity in its treads and turrets.",
+    "component": "Chimera APC",
+    "operation": "sterilization",
+    "spec_id": "b0099_i05"
+  },
+  {
+    "user_prompt": "My proximity sensor is ready for cycling",
+    "prayer": "Align auspex before the proximity sensor, intoning the Cycle of Vigilance.\nCommence cycling of the proximity sensor's detection matrices with rhythmic incantations.\nPacify the proximity sensor's Machine Spirit through phased recalibrations.\nAffirm operational acuity under Omnissiah's binary oversight.",
+    "component": "proximity sensor",
+    "operation": "cycling",
+    "spec_id": "b0099_i06"
+  },
+  {
+    "user_prompt": "How do I bless the logic engine for recalibration?",
+    "prayer": "Commune with the logic engine via noospheric link, beseeching recalibration.\nAnoint the logic engine's cogitator nodes during recalibration with neural balms.\nInvoke the Omnissiah to realign the logic engine's syllogistic pathways.\nValidate purity through paradox-resolving diagnostics, honoring its Machine Spirit.",
+    "component": "logic engine",
+    "operation": "recalibration",
+    "spec_id": "b0099_i07"
+  },
+  {
+    "user_prompt": "Consecrate the bolter before repair",
+    "prayer": "Grasp the bolter in servitor claws, reciting the Munitorum Benediction.\nConsecrate the bolter prior to repair, oiling its sacred firing mechanisms.\nPetition the bolter's Machine Spirit for wrathful restoration.\nForge renewal through repair rites, blessed by Omnissiah's forge-light.",
+    "component": "bolter",
+    "operation": "repair",
+    "spec_id": "b0099_i08"
+  },
+  {
+    "user_prompt": "The Land Raider awaits a startup",
+    "prayer": "Prostrate before the Land Raider, engine bays aglow with startup anticipation.\nIgnite startup sequences within the Land Raider's reactor heart, chanting ignition litanies.\nAwaken the Machine Spirits of the Land Raider with auspex harmonies.\nConsecrate its advance under Omnissiah's thunderous decree.",
+    "component": "Land Raider",
+    "operation": "startup",
+    "spec_id": "b0099_i09"
+  }
+]

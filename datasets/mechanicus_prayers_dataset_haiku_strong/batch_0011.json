@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0011_i00",
+    "user_request": "Emergency rite: star chart alignment requires operation",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: star chart alignment requires operation\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide us in the star chart alignment of the celestial spheres.\nCongregation: We invoke the Machine Spirit of star chart alignment to illuminate our path.\nPriest: First, calibrate the astrographic sensors with sacred oils; second, align the stellar coordinates through operation of the void-compass; third, verify the mathematical harmonies inscribed upon the charts.\nCongregation: By thy infinite wisdom, let star chart alignment reveal the secrets of the cosmos.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i01",
+    "user_request": "My augmetic limb is failing during installation — help",
+    "topic": "augmetic limb installation",
+    "component": "augmetic limb",
+    "operation": "installation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy augmetic limb is failing during installation — help\n\n### TOPIC\naugmetic limb installation\n\n### COMPONENT\naugmetic limb\n\n### OPERATION\ninstallation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- augmetic limb\n- installation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this augmetic limb as it joins with flesh and spirit.\nCongregation: The augmetic limb shall be restored through sacred installation.\nPriest: First, apply the blessed lubricants to servo-joints; second, invoke the Machine Spirit during installation of the neural interface; third, test the myoelectric sensors with reverent precision.\nCongregation: May the augmetic limb function eternal in service to the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i02",
+    "user_request": "Prayer for operation of the manufactorum shift beginning",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the manufactorum shift beginning\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the Omnissiah as manufactorum shift beginning commences upon this sacred cycle.\nCongregation: The manufactorum shift beginning demands our devout operation of the great machines.\nPriest: First, intone the Litany of Production over the forge-engines; second, perform operation of the power conduits in sequence; third, anoint the manufacturum shift beginning with ritual incense and verification.\nCongregation: Let the manufactorum shift beginning yield abundance for the glory of Mars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i03",
+    "user_request": "The cybernetic eye focusing demands guidance for operation",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe cybernetic eye focusing demands guidance for operation\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit, grant clarity to the cybernetic eye focusing in this hour of need.\nCongregation: We entreat the cybernetic eye focusing to perceive all mysteries.\nPriest: First, adjust the crystalline lenses through delicate manipulation; second, calibrate operation of the photoreceptor arrays with sacred geometry; third, verify the cybernetic eye focusing attains perfect acuity.\nCongregation: By the Omnissiah's grace, let vision pierce the veil of ignorance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i04",
+    "user_request": "Prayer for shutdown of the electric motor",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for shutdown of the electric motor\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we commend the electric motor to blessed shutdown and eternal rest.\nCongregation: The electric motor shall cease its labour through righteous shutdown.\nPriest: First, disengage the power conduits with solemn ceremony; second, execute shutdown of the rotor mechanisms with measured care; third, cool the electric motor with sanctified coolant and prayers.\nCongregation: In shutdown, the electric motor finds peace eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i05",
+    "user_request": "The pressure demands guidance for equalization",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe pressure demands guidance for equalization\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Priest: Great Omnissiah, stabilize the pressure within these hallowed vessels.\nCongregation: The pressure demands our sacred equalization through blessed ritual.\nPriest: First, open the pressure relief valves with reverent precision; second, monitor equalization through the pressure gauges with constant vigilance; third, seal the pressure systems when equilibrium is achieved.\nCongregation: Let the pressure find balance in the Machine Spirit's perfect harmony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i06",
+    "user_request": "Emergency rite: archive requires retrieval protocol",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: archive requires retrieval protocol\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, keeper of forbidden knowledge, unlock the archive for our retrieval protocol.\nCongregation: The sacred archive shall yield its secrets through retrieval protocol divine.\nPriest: First, authenticate credentials before the archive's machine spirits; second, invoke retrieval protocol with ancient incantations and access codes; third, verify the archive's contents remain uncorrupted by heretical tampering.\nCongregation: May the archive grant us wisdom to serve the Imperium eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i07",
+    "user_request": "The ground-to-orbit link demands guidance for operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe ground-to-orbit link demands guidance for operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the ground-to-orbit link that spans the void between worlds.\nCongregation: We invoke the ground-to-orbit link to sustain holy operation across the heavens.\nPriest: First, align the transmission arrays toward the orbital stations; second, engage operation of the ground-to-orbit link through sacred frequency calibration; third, verify signal integrity across the void.\nCongregation: Let the ground-to-orbit link carry our prayers to the stars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i08",
+    "user_request": "The component demands guidance for replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe component demands guidance for replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide our hands in the replacement of this sacred component.\nCongregation: The component shall be restored through holy replacement.\nPriest: First, remove the failing component with ritual precision and blessing; second, perform replacement according to the sacred schematics and the component's original design; third, test the component anew for proper function and alignment.\nCongregation: In replacement, the component serves the Imperium once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0011_i09",
+    "user_request": "Rite request: purge on cooling system",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: purge on cooling system\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, cleanse the cooling system of all corruption and impurity.\nCongregation: The cooling system demands our sacred purge through righteous ritual.\nPriest: First, drain the contaminated coolant from the cooling system's manifolds; second, perform purge of the internal channels with blessed solvents and holy water; third, refill the cooling system with sanctified fluid and verify thermal equilibrium.\nCongregation: Let the cooling system flow pure in service to Mars eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

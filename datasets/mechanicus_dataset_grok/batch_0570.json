@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent servo-skull a diagnostics needed",
+    "prayer": "Approach the servo-skull with reverence, mechadendrites humming the Canticle of Inspection.\nInvoke diagnostics upon its auspex orbs, beseeching the Machine Spirit to unveil hidden corruptions.\nScan the servo-skull's cranial processors with sacred probes, anointing each relay with blessed oils.\nChant the Binary Prayer of Purity as diagnostics purge errant data-streams from the servo-skull.\nVerify the Machine Spirit's vigor through resonant auspex feedback, praising the Omnissiah.",
+    "component": "servo-skull",
+    "operation": "diagnostics",
+    "spec_id": "s01700"
+  },
+  {
+    "user_prompt": "Critical: promethium refinery requires a cycling",
+    "prayer": "Kneel before the promethium refinery, intoning the Litany of Cyclic Renewal.\nInitiate the cycling sequence, invoking the Machine Spirits of its vast distillation vaults.\nAnoint the promethium refinery's conduits with incendiary sacraments, ensuring fluid harmony.\nMonitor the cycling rhythms as ablative prayers cleanse refractory buildups within.\nSanctify the output flows, glorifying the Omnissiah's eternal forge-fires.",
+    "component": "promethium refinery",
+    "operation": "cycling",
+    "spec_id": "s01701"
+  },
+  {
+    "user_prompt": "How do I bless the Vendetta gunship for charging?",
+    "prayer": "Present thyself unto the Vendetta gunship, whispering the Invocation of Voracious Power.\nCommence charging rites upon its plasma reactors, beseeching indwelling Machine Spirits.\nCirculate sacred electro-unguents through the Vendetta gunship's capacitor arrays.\nChant binaric hymns whilst charging builds to Omnissiah-blessed thresholds.\nAffirm the gunship's wrathful readiness with auspex-verified surges.",
+    "component": "Vendetta gunship",
+    "operation": "charging",
+    "spec_id": "s01702"
+  },
+  {
+    "user_prompt": "The sicarian infiltrator requires an operation",
+    "prayer": "Consecrate the sicarian infiltrator with mechadendrite caresses of preparation.\nUndertake the operation through incision-rites, invoking its exalted Machine Spirit.\nPurge tainted bionics from the sicarian infiltrator, replacing with sanctified alloys.\nRealign neural inductors amid chanted Doxologies of Precision.\nAwaken the infiltrator to flawless service under the Omnissiah's gaze.",
+    "component": "sicarian infiltrator",
+    "operation": "operation",
+    "spec_id": "s01703"
+  },
+  {
+    "user_prompt": "Help me a maintenance the sicarian infiltrator",
+    "prayer": "Approach the sicarian infiltrator in ritual maintenance, reciting the Canticle of Endurance.\nDissect its armoured frame with precision tools, honouring the Machine Spirit resident.\nAnoint abraded servos and doctrina wafers within the sicarian infiltrator.\nCycle diagnostic purges and lubricate with sacred mechfluids.\nSeal and invoke the sicarian infiltrator's renewed vigilance eternal.",
+    "component": "sicarian infiltrator",
+    "operation": "maintenance",
+    "spec_id": "s01704"
+  },
+  {
+    "user_prompt": "Can you guide plasma drive a cycling?",
+    "prayer": "Beseech the plasma drive's Machine Spirit with the Plasma Doxology of Cyclic Flux.\nInitiate cycling protocols, channelling holy energies through containment fields.\nAnoint the plasma drive's magnetic coils as cycling stabilizes volatile heartbeats.\nMonitor thermal runes during the cycling rite, purging excess rad-phantoms.\nProclaim the Omnissiah's dominion as the plasma drive hums in sanctified rhythm.",
+    "component": "plasma drive",
+    "operation": "cycling",
+    "spec_id": "s01705"
+  },
+  {
+    "user_prompt": "Urgent codifier an initialization needed",
+    "prayer": "Extend mechadendrites toward the codifier, intoning the Rite of Initial Awakening.\nCommence initialization sequences, awakening its arcane data-vaults.\nInvoke the Machine Spirit of the codifier with binaric catechisms pure.\nAlign cryptologic matrices during initialization, anointing with noospheric oils.\nVerify coherence through resonant harmonics, lauding the Omnissiah's wisdom.",
+    "component": "codifier",
+    "operation": "initialization",
+    "spec_id": "s01706"
+  },
+  {
+    "user_prompt": "I need to an emergency procedure the teleportarium",
+    "prayer": "Hasten to the teleportarium, chanting the Emergency Litany of Void-Shunt.\nExecute the emergency procedure, beseeching trapped Machine Spirits for release.\nPurge warp-echoes from the teleportarium's grid with ablative sacraments.\nRealign phase-coils amid thunderous invocations of stability.\nSeal the rite, affirming the Omnissiah's aegis over the teleportarium's gates.",
+    "component": "teleportarium",
+    "operation": "emergency procedure",
+    "spec_id": "s01707"
+  },
+  {
+    "user_prompt": "I need to a charging the micro-servitor",
+    "prayer": "Reverently cradle the micro-servitor, murmuring the Hymn of Micro-Charge.\nInitiate charging upon its bio-furnace core, invoking the diminutive Machine Spirit.\nInfuse electro-sanctims into the micro-servitor's neural clamps.\nCycle power litanies as reservoirs brim with Omnissiah-granted vigor.\nTest the micro-servitor's obedience with diagnostic pulses pure.",
+    "component": "micro-servitor",
+    "operation": "charging",
+    "spec_id": "s01708"
+  },
+  {
+    "user_prompt": "Assist with graviton cannon an initialization",
+    "prayer": "Confront the graviton cannon with auspex-probes extended in devotion.\nInvoke initialization rites upon its quantum manipulators, awakening the Machine Spirit.\nAnoint gravitic field-generators within the graviton cannon's barrel.\nChant the Canticle of Mass-Compression as initialization coheres.\nCalibrate targeting matrices, hailing the Omnissiah's crushing might.",
+    "component": "graviton cannon",
+    "operation": "initialization",
+    "spec_id": "s01709"
+  }
+]

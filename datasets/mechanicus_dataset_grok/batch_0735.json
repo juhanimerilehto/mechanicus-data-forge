@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the smelting furnace for recalibration",
+    "prayer": "Approach the smelting furnace with reverence, invoking the Omnissiah's fiery grace upon its adamantine heart.\nAnoint the refractory coils of the smelting furnace with sacred promethium oils to rouse its slumbering Machine Spirit.\nCommence the recalibration rites by aligning flux regulators through chanted binaric canticles.\nBeseech the Machine Spirit within the smelting furnace to embrace harmonious thermal precision.\nVerify recalibration integrity via auspex invocation, sealing the rite with the Sigil of the Forge.",
+    "component": "smelting furnace",
+    "operation": "recalibration",
+    "spec_id": "s03350"
+  },
+  {
+    "user_prompt": "Bless the Kastelan robot for preparation",
+    "prayer": "Draw nigh unto the Kastelan robot in solemn procession, beseeching the Omnissiah to stir its ancient protocols.\nSanctify the Kastelan robot's ceramite frame with electro-incense, awakening its dormant Machine Spirits.\nInitiate preparation sequences by reciting the Litany of Mobilisation upon its cogitator core.\nAlign servitor linkages and doctrina wafers whilst invoking martial benedictions.\nConclude the preparation by affirming the Kastelan robot's fealty to the Machine God's will.",
+    "component": "Kastelan robot",
+    "operation": "preparation",
+    "spec_id": "s03351"
+  },
+  {
+    "user_prompt": "My transuranic arquebus is ready for cooling",
+    "prayer": "Kneel before the transuranic arquebus, whispering litanies to appease its volatile Machine Spirit.\nApply cryo-sanctifiers to the transuranic arquebus's plasma vents, cooling its rad-hot conduits.\nInvoke the Canticle of Thermal Equilibrium to guide the cooling operation without fracture.\nMonitor heat-sink matrices through sacred auspex, beseeching stability from the Omnissiah.\nSeal the transuranic arquebus's cooling with a final anointment of blessed refrigerants.",
+    "component": "transuranic arquebus",
+    "operation": "cooling",
+    "spec_id": "s03352"
+  },
+  {
+    "user_prompt": "The inferno pistol needs a maintenance",
+    "prayer": "Present the inferno pistol unto the altar of maintenance, intoning the Hymn of Enduring Flame.\nDisassemble its melta coils with reverent mechadendrites, purging impurities from the Machine Spirit.\nPerform maintenance rituals by recalibrating focusing arrays amid binaric prayers.\nReassemble the inferno pistol, anointing each rune-etched component with sacred oils.\nTest-fire a micro-bolt to affirm the Machine Spirit's renewed fury under Omnissiah's gaze.",
+    "component": "inferno pistol",
+    "operation": "maintenance",
+    "spec_id": "s03353"
+  },
+  {
+    "user_prompt": "The doctrina wafer needs a purification",
+    "prayer": "Elevate the doctrina wafer before the noosphere shrine, invoking purification through Omnissiah's light.\nChant the Rite of Data-Absolution over the doctrina wafer to exorcise heretical engrams.\nImmerse it in sanctified null-fields, beseeching the Machine Spirits to restore doctrinal purity.\nScan the doctrina wafer's lattices with pure-thought auspex for lingering corruption.\nConsecrate the purified doctrina wafer, affirming its sanctity for tactical ingestion.",
+    "component": "doctrina wafer",
+    "operation": "purification",
+    "spec_id": "s03354"
+  },
+  {
+    "user_prompt": "Consecrate the cyber-mastiff before cooling",
+    "prayer": "Approach the cyber-mastiff with cautionary grace, reciting the Pack-Lord's Invocation.\nConsecrate its bionic musculature prior to cooling, anointing sensors with lupine unguents.\nInitiate cooling protocols upon the cyber-mastiff's overtaxed servos via cryo-litanies.\nBeseech its feral Machine Spirit to endure the chill without loss of predatory instinct.\nVerify thermal quiescence through vox-diagnostics, sealing with the Omnissiah's fang-mark.",
+    "component": "cyber-mastiff",
+    "operation": "cooling",
+    "spec_id": "s03355"
+  },
+  {
+    "user_prompt": "The gellar field needs a charging",
+    "prayer": "Circumambulate the gellar field generator, intoning the Barrier Psalm to honour its ward-spirits.\nCommence charging rites by channeling warp-sacred capacitors with binaric hymns.\nAnoint null-conductors of the gellar field, invoking Omnissiah's aegis against the void's hunger.\nMonitor lumen-flux escalation through sanctified cogitators during the charging operation.\nAffirm the gellar field's full potency, beseeching eternal vigilance from its Machine Spirit.",
+    "component": "gellar field",
+    "operation": "charging",
+    "spec_id": "s03356"
+  },
+  {
+    "user_prompt": "What's the prayer for assault cannon a targeting?",
+    "prayer": "Revere the assault cannon's barrel-lanterns, whispering targeting auguries to its ballistic soul.\nAlign servo-gyroscopes of the assault cannon via the Rite of Vector Precision.\nInvoke the Machine Spirit's wrathful aim through chanted acquisition canticles.\nCalibrate auspex reticules for targeting supremacy, anointing with gunmetal sacraments.\nTest the assault cannon's targeting cogitation, proclaiming Omnissiah's unerring judgement.",
+    "component": "assault cannon",
+    "operation": "targeting",
+    "spec_id": "s03357"
+  },
+  {
+    "user_prompt": "Ready the melta bomb for initialization",
+    "prayer": "Handle the melta bomb with mechadendrite precision, invoking the Melt-Lord's Benediction.\nInitiate initialization by etching activation runes upon the melta bomb's core.\nAwaken its thermic Machine Spirit through promethium incantations and flux-prayers.\nVerify arming sequences align with the Omnissiah's destructive will.\nSeal the melta bomb's initialization, ready for deployment in holy annihilation.",
+    "component": "melta bomb",
+    "operation": "initialization",
+    "spec_id": "s03358"
+  },
+  {
+    "user_prompt": "Help me a recalibration the memory core",
+    "prayer": "Prostrate before the memory core, beseeching the Omnissiah to mend its fragmented noosphere.\nAnoint data-vaults of the memory core with mnemonic oils to soothe restless engrams.\nCommence recalibration by reciting the Lexicon of Recall, purging dissonant echoes.\nRealign synaptic matrices through sacred cogitator harmonies during recalibration.\nAffirm the memory core's restored clarity, invoking eternal fidelity to the Machine God's archive.",
+    "component": "memory core",
+    "operation": "recalibration",
+    "spec_id": "s03359"
+  }
+]

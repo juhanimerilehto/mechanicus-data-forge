@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the water reclamator for calibration",
+    "prayer": "Approach the water reclamator with vials of sanctified brine.\nInvoke the Machine Spirit within the water reclamator to awaken its filtration nodes.\nAnoint the sensor arrays whilst reciting the Canticle of Purity.\nAlign the flow regulators in preparation for the sacred calibration.\nPetition the Omnissiah that the water reclamator's calibration yield crystalline perfection.",
+    "component": "water reclamator",
+    "operation": "calibration",
+    "spec_id": "b0281_i00"
+  },
+  {
+    "user_prompt": "Emergency: cybernetic eye an emergency procedure",
+    "prayer": "Hasten to the cybernetic eye, o tech-priest, and intone the Rite of Desperate Focus.\nSever aberrant neural links from the cybernetic eye's optic servos.\nInvoke the Machine Spirit of the cybernetic eye to purge malfunctioning photoreceptors.\nAdminister the emergency procedure with electro-sanctified probes.\nBeseech the Omnissiah for swift restoration of the cybernetic eye's vigilant gaze.",
+    "component": "cybernetic eye",
+    "operation": "emergency procedure",
+    "spec_id": "b0281_i01"
+  },
+  {
+    "user_prompt": "Emergency: autocannon a consecration",
+    "prayer": "Kneel before the autocannon and commence the Consecratio Ferrum.\nAnoint the autocannon's breeches with blessed lubricant oils.\nChant the Litany of Unyielding Barrage to rouse its Machine Spirit.\nPerform the consecration upon the autocannon's targeting cogitators.\nDedicate this autocannon to the Omnissiah's wrathful deliverance.",
+    "component": "autocannon",
+    "operation": "consecration",
+    "spec_id": "b0281_i02"
+  },
+  {
+    "user_prompt": "My lasgun is ready for emergency procedure",
+    "prayer": "Grasp the lasgun firmly and declaim the Exorcism of Flux Variance.\nPurge the lasgun's power cells of heretical surges.\nRealign the lasgun's emitter crystals through the emergency procedure.\nAwaken the Machine Spirit within the lasgun with sparks of holy voltage.\nInvoke the Omnissiah to arm the lasgun against the foes of the Imperium.",
+    "component": "lasgun",
+    "operation": "emergency procedure",
+    "spec_id": "b0281_i03"
+  },
+  {
+    "user_prompt": "Can you guide memory core a preparation?",
+    "prayer": "Present thyself unto the memory core and utter the Invocation of Recall.\nSanctify the memory core's data-vaults with binary catechisms.\nInitiate preparation by cycling the memory core's archival servitors.\nBeseech the Machine Spirit of the memory core to order its fragmented engrams.\nOffer praise to the Omnissiah for the memory core's forthcoming clarity.",
+    "component": "memory core",
+    "operation": "preparation",
+    "spec_id": "b0281_i04"
+  },
+  {
+    "user_prompt": "Consecrate the bike squadron before activation",
+    "prayer": "Assemble around the bike squadron and intone the Moto-Benediction.\nAnoint each bike squadron mount's motive assemblies with sacred promethium.\nConsecrate the bike squadron's auspex arrays before activation.\nRouse the Machine Spirits of the bike squadron with revving war-engines.\nPetition the Omnissiah to propel the bike squadron in thunderous fury.",
+    "component": "bike squadron",
+    "operation": "activation",
+    "spec_id": "b0281_i05"
+  },
+  {
+    "user_prompt": "Sanctify the generator during blessing",
+    "prayer": "Encircling the generator, recite the Canticle of Perpetual Motion.\nPour libations of sanctified coolant upon the generator's coils.\nInvoke the Machine Spirit to amplify its blessed power-flow.\nBestow the blessing upon the generator through torque incantations.\nGlorify the Omnissiah as the generator hums in divine resonance.",
+    "component": "generator",
+    "operation": "blessing",
+    "spec_id": "b0281_i06"
+  },
+  {
+    "user_prompt": "I need to a reset the pain suppressor",
+    "prayer": "Apply mechadendrites to the pain suppressor and chant the Ablution of Agony.\nExpunge inhibitory overrides from the pain suppressor's neural dampeners.\nExecute the reset upon the pain suppressor with precision electro-pulses.\nReawaken the Machine Spirit within the pain suppressor to its stoic duty.\nThank the Omnissiah for the pain suppressor's unyielding fortitude.",
+    "component": "pain suppressor",
+    "operation": "reset",
+    "spec_id": "b0281_i07"
+  },
+  {
+    "user_prompt": "Critical: valve assembly requires a blessing",
+    "prayer": "Gather unguents and approach the valve assembly in reverence.\nAnoint the valve assembly's seals with sacred hydraulic incense.\nPerform the blessing upon the valve assembly's pressure regulators.\nCoax the Machine Spirit of the valve assembly to maintain unerring flow.\nProclaim the Omnissiah's dominion over the valve assembly's vital rhythms.",
+    "component": "valve assembly",
+    "operation": "blessing",
+    "spec_id": "b0281_i08"
+  },
+  {
+    "user_prompt": "The cooling system requires a cycling",
+    "prayer": "Commence the Rite of Thermal Equilibrium upon the cooling system.\nCirculate blessed refrigerants through the cooling system's conduits.\nInitiate cycling of the cooling system's heat-sink vanes.\nInvoke the Machine Spirit to dispel febrile excesses from the cooling system.\nExalt the Omnissiah for the cooling system's chilled sanctity.",
+    "component": "cooling system",
+    "operation": "cycling",
+    "spec_id": "b0281_i09"
+  }
+]

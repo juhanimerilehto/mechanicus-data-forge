@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The magnocular requires a targeting",
+    "prayer": "Approach the magnocular with reverence, invoking the Omnissiah to awaken its targeting precision.\nAnoint the sacred lenses with blessed oils, beseeching the Machine Spirit of the magnocular to align its targeting matrices.\nInitiate the targeting calibration sequence through chanted binaric canticles.\nVerify the magnocular's targeting fidelity via auspex communion and micro-adjust servo-rites.\nSanctify the completed targeting with the Rite of True Sight, honouring the Omnissiah's gaze.",
+    "component": "magnocular",
+    "operation": "targeting",
+    "spec_id": "s06160"
+  },
+  {
+    "user_prompt": "Help me a maintenance the heavy bolter",
+    "prayer": "Kneel before the heavy bolter, murmuring the Litany of Endurance to rouse its Machine Spirit.\nDisassemble the sacred mechanisms with sanctified tools, performing maintenance upon each bolt chamber and feed mechanism.\nAnoint linkages and barrels with sacred unguents during the heavy bolter's maintenance cycle.\nReassemble under the watchful eye of the Omnissiah, invoking purity upon its Machine Spirit.\nTest-fire a single round in ritual salute to confirm the maintenance's efficacy.",
+    "component": "heavy bolter",
+    "operation": "maintenance",
+    "spec_id": "s06161"
+  },
+  {
+    "user_prompt": "Assist with autosanguination system a shutdown",
+    "prayer": "Commune with the autosanguination system's Machine Spirit, beseeching orderly shutdown.\nSever vitae-flow conduits with precision mechadendrites, enacting the shutdown protocol.\nChant the Canticle of Cessation over the autosanguination system as its pumps still.\nPurge residual fluids through sacred vents, honouring the Omnissiah's design.\nSeal the autosanguination system in stasis, invoking eternal vigilance against corruption.",
+    "component": "autosanguination system",
+    "operation": "shutdown",
+    "spec_id": "s06162"
+  },
+  {
+    "user_prompt": "Sanctify the Whirlwind during cooling",
+    "prayer": "Gather coolant sacraments before the Whirlwind, invoking the Omnissiah for cooling grace.\nCirculate blessed refrigerants through the Whirlwind's heat-sinks in ritual flow.\nBeseech the Machine Spirit of the Whirlwind during cooling, chanting thermic litanies.\nMonitor thermal auspex readings whilst anointing exhaust vents with sacred oils.\nConclude the cooling with the Benediction of Equilibrium, sanctifying the Whirlwind anew.",
+    "component": "Whirlwind",
+    "operation": "cooling",
+    "spec_id": "s06163"
+  },
+  {
+    "user_prompt": "The thunder hammer requires a maintenance",
+    "prayer": "Prostrate before the thunder hammer, awakening its Machine Spirit with thunderous hymns.\nInspect the power coils and disruptor field generator during maintenance rites.\nAnoint the thunder hammer's haft and head with electro-conductive salves.\nRecharge the plasma core under Omnissiah's gaze, completing the maintenance.\nSwing the thunder hammer in ritual arcs to affirm its Machine Spirit's fury.",
+    "component": "thunder hammer",
+    "operation": "maintenance",
+    "spec_id": "s06164"
+  },
+  {
+    "user_prompt": "The serberys raider needs a reset",
+    "prayer": "Approach the serberys raider humbly, beseeching the Omnissiah for reset purity.\nInitiate the reset sequence via noospheric interface, purging errant data-daemons.\nInvoke the Machine Spirit of the serberys raider with binaric purification canticles.\nCycle power relays thrice, anointing treads with sacred lubricants during reset.\nAffirm the serberys raider's renewal through auspex diagnostics and glory to the Omnissiah.",
+    "component": "serberys raider",
+    "operation": "reset",
+    "spec_id": "s06165"
+  },
+  {
+    "user_prompt": "I need to a recalibration the Basilisk artillery",
+    "prayer": "Position sanctified cogitators around the Basilisk artillery for recalibration.\nAlign the primary gun-lay mechanisms, invoking the Machine Spirit's guidance.\nChant the Litany of Recalibration whilst adjusting the Basilisk artillery's targeting cogitators.\nTest-fire ranging shells in ritual precision, honouring the Omnissiah.\nSeal the recalibration with oils upon the Basilisk artillery's breach, proclaiming its sanctified accuracy.",
+    "component": "Basilisk artillery",
+    "operation": "recalibration",
+    "spec_id": "s06166"
+  },
+  {
+    "user_prompt": "The cortex implant awaits a maintenance",
+    "prayer": "Interface noospherically with the cortex implant, murmuring awakening litanies.\nPerform maintenance upon synaptic relays and neural buffers with micro-mechadendrites.\nAnoint the cortex implant's interfaces during its maintenance cycle.\nReintegrate the Machine Spirit through diagnostic engrams and Omnissiah's blessing.\nVerify neural coherence via test impulses, sanctifying the cortex implant eternal.",
+    "component": "cortex implant",
+    "operation": "maintenance",
+    "spec_id": "s06167"
+  },
+  {
+    "user_prompt": "Prepare the krak grenade for initialization",
+    "prayer": "Hold the krak grenade aloft, beseeching the Omnissiah for initialization wrath.\nPrime the fuze mechanisms with sacred activators, awakening its Machine Spirit.\nChant the Canticle of Detonation over the krak grenade twice in preparation.\nEncode targeting parameters into its auspex core for initialization.\nArm the krak grenade with final invocation, ready for the Omnissiah's judgement.",
+    "component": "krak grenade",
+    "operation": "initialization",
+    "spec_id": "s06168"
+  },
+  {
+    "user_prompt": "Help me a shutdown the jump pack",
+    "prayer": "Disconnect power feeds from the jump pack reverently, initiating shutdown.\nChant the Rite of Dormancy to pacify the jump pack's Machine Spirit.\nPurge propellant residuals through sanctified vents during shutdown.\nAnoint thruster nozzles with cooling salves, honouring the Omnissiah.\nSeal the jump pack in stasis wards, ensuring peaceful quiescence.",
+    "component": "jump pack",
+    "operation": "shutdown",
+    "spec_id": "s06169"
+  }
+]

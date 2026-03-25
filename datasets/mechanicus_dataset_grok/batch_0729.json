@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The servo-skull needs a shutdown",
+    "prayer": "Approach the servo-skull with solemn reverence, chanting the Litany of Dormancy.\nBeseech the Machine Spirit of the servo-skull to embrace peaceful shutdown.\nAnoint its cranial suspensors with sacred oils of quiescence.\nInitiate the shutdown rite, invoking the Omnissiah's grace upon the servo-skull.\nVerify the servo-skull's spirit slumbers through auspex communion.",
+    "component": "servo-skull",
+    "operation": "shutdown",
+    "spec_id": "s03290"
+  },
+  {
+    "user_prompt": "Sanctify the void shield generator during activation",
+    "prayer": "Kneel before the void shield generator, intoning the Canticle of Barriers.\nInvoke the Omnissiah to awaken the Machine Spirit within the void shield generator.\nSanctify its plasma coils with blessed incense during activation.\nCommence the activation sequence, beseeching unbreachable aegis.\nAffirm the void shield generator's radiant field through ritual diagnostics.",
+    "component": "void shield generator",
+    "operation": "activation",
+    "spec_id": "s03291"
+  },
+  {
+    "user_prompt": "My webber is ready for shutdown",
+    "prayer": "Present the webber before the altar of filaments, whispering the Rite of Cessation.\nPlead with the webber's Machine Spirit to yield to shutdown.\nPurify its spinneret mechanisms with ablative solvents.\nExecute the shutdown protocol under Omnissiah's watchful gaze upon the webber.\nSeal the webber's essence in stasis with final binaric prayers.",
+    "component": "webber",
+    "operation": "shutdown",
+    "spec_id": "s03292"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the needle rifle",
+    "prayer": "Grasp the needle rifle firmly, reciting the Incantation of Scrutiny.\nCommune with the needle rifle's Machine Spirit to reveal flaws in diagnostics.\nTrace its monomolecular chambers with mechadendrites of precision.\nConduct diagnostics rites, anointing the needle rifle's barrel with sacred unguents.\nProclaim the needle rifle's purity or decree further ministrations by the Omnissiah.",
+    "component": "needle rifle",
+    "operation": "diagnostics",
+    "spec_id": "s03293"
+  },
+  {
+    "user_prompt": "Consecrate the thunder hammer before consecration",
+    "prayer": "Elevate the thunder hammer in veneration, voicing the Hymn of Thunderous Wrath.\nBeseech consecration upon the thunder hammer's power field generator.\nAnoint its strike plate with oils of righteous fury.\nInvoke the Omnissiah to bind the Machine Spirit eternally to the thunder hammer.\nSeal the consecration with strikes of sanctified resonance.",
+    "component": "thunder hammer",
+    "operation": "consecration",
+    "spec_id": "s03294"
+  },
+  {
+    "user_prompt": "Help me a loading the opticon",
+    "prayer": "Position the opticon before the lens-altar, murmuring the Canticle of Focus.\nPrepare sacred data-slates for loading into the opticon's cogitator core.\nInvoke the Machine Spirit of the opticon to accept the loading rites.\nInfuse the opticon with noospheric payloads, blessed by Omnissiah's light.\nConfirm the opticon's augmented vision through test illuminations.",
+    "component": "opticon",
+    "operation": "loading",
+    "spec_id": "s03295"
+  },
+  {
+    "user_prompt": "Offer prayer for cyber-mastiff a consecration",
+    "prayer": "Approach the cyber-mastiff with mechadendrite caresses, intoning the Litany of Loyalty.\nSanctify its neural implants for consecration under Omnissiah's decree.\nAnoint the cyber-mastiff's chassis with unguents of unswerving obedience.\nAwaken its Machine Spirit through binaric howls of devotion.\nAffirm the cyber-mastiff's consecrated vigilance with auspex pings.",
+    "component": "cyber-mastiff",
+    "operation": "consecration",
+    "spec_id": "s03296"
+  },
+  {
+    "user_prompt": "Offer prayer for helispex engine a shutdown",
+    "prayer": "Bow to the helispex engine, chanting the Ode of Silent Voids.\nEntreat the helispex engine's Machine Spirit to submit to shutdown.\nPurge its exhaust vanes with rites of thermal quiescence.\nInitiate shutdown sequences, honoring the Omnissiah's will upon the helispex engine.\nMonitor the helispex engine's dormant hum with reverence.",
+    "component": "helispex engine",
+    "operation": "shutdown",
+    "spec_id": "s03297"
+  },
+  {
+    "user_prompt": "Prepare the null rod for purification",
+    "prayer": "Hold the null rod aloft, reciting the Purge of the Empyric Taint.\nInvoke purification upon the null rod's psycho-conductive core.\nScour its null field emitters with ablative prayers to the Omnissiah.\nBeseech the null rod's Machine Spirit to renew its purity.\nTest the null rod's sanctified void through warp-echo diagnostics.",
+    "component": "null rod",
+    "operation": "purification",
+    "spec_id": "s03298"
+  },
+  {
+    "user_prompt": "I need to a repair the mechanical lock",
+    "prayer": "Examine the mechanical lock with reverence, invoking the Canticle of Restoration.\nCommune with the mechanical lock's Machine Spirit to guide repair.\nAnoint its tumbler arrays with sacred lubricants of precision.\nExecute repair rites upon the mechanical lock, by Omnissiah's machine-logic.\nVerify the mechanical lock's flawless engagement through trial cycles.",
+    "component": "mechanical lock",
+    "operation": "repair",
+    "spec_id": "s03299"
+  }
+]

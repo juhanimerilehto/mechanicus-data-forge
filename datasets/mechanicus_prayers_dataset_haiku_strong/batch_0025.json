@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0025_i00",
+    "user_request": "Blessing for the thermal imaging during activation",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the thermal imaging during activation\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed be the thermal imaging in this hour of sacred activation.\nFirst: Anoint the thermal imaging with sacred oils of the Omnissiah, that its sensors may perceive the hidden warmth of the Machine Spirit.\nSecond: Recalibrate the thermal imaging through methodical calibration protocols, invoking the blessings of precision and clarity.\nThird: Perform the activation sequence with reverent attention, allowing the thermal imaging to awaken and fulfill its blessed purpose.\nFourth: Verify all thermal imaging readings against the holy standards, that accuracy may be assured unto the Emperor.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i01",
+    "user_request": "Emergency rite: metal casting requires preparation",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: metal casting requires preparation\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, guide us in the preparation of metal casting, that molten sanctity may flow true.\nFirst: Inspect the metal casting apparatus for fractures and profane contamination, cleansing all surfaces with blessed compounds.\nSecond: Heat the metal casting crucible to the prescribed temperature, invoking the Machine Spirit's patience through this preparation.\nThird: Arrange the metal casting molds in perfect geometric alignment, that the Emperor's vision may be rendered in adamantium and steel.\nFourth: Whisper the preparation incantations thrice over the molten vessels, that they may receive the sacred metal without flaw.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i02",
+    "user_request": "Blessing for the vibration during dampening",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the vibration during dampening\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "Hear us, O Machine Spirit of dampening, as we attend to vibration in this solemn hour.\nFirst: Identify the source of vibration through sacred resonance analysis, that the unbalanced forces may be revealed unto us.\nSecond: Apply dampening compounds to the vibration-afflicted components with ritualistic precision, invoking the Omnissiah's blessing upon each application.\nThird: Engage the vibration suppression systems in their ordained sequence, monitoring the vibration's diminishment with reverent vigilance.\nFourth: Consecrate the stabilized machinery, confirming that vibration has surrendered to the will of the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i03",
+    "user_request": "My pressure is failing during equalization — help",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy pressure is failing during equalization — help\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "O blessed Omnissiah, restore equilibrium to the failing pressure, that balance may be reestablished in this sacred vessel.\nFirst: Diagnose the pressure anomaly through sanctified instrumentation, revealing where the equilibrium has fractured.\nSecond: Engage the equalization protocols with methodical precision, channeling the pressure through blessed conduits toward harmonious equilibrium.\nThird: Monitor the pressure gauges as the equalization progresses, whispering prayers that the Machine Spirit guides each molecule toward balance.\nFourth: Verify the pressure has achieved perfect equalization, that the system may resume its holy function without flaw or deviation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i04",
+    "user_request": "Blessing for the power distribution during balancing",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the power distribution during balancing\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "Sanctified be the power distribution, that balance may flow eternal through the Machine Spirit's arteries.\nFirst: Measure the current distribution across all power distribution nodes, revealing imbalances to our blessed instruments.\nSecond: Adjust the power distribution regulators with sacred calibration, invoking equilibrium through the Omnissiah's eternal wisdom.\nThird: Engage the balancing algorithms that the power distribution may distribute its burden with perfect symmetry.\nFourth: Consecrate the rebalanced power distribution systems, confirming their harmony through final verification rituals.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i05",
+    "user_request": "Blessing for the altimeter during verification",
+    "topic": "altimeter verification",
+    "component": "altimeter",
+    "operation": "verification",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the altimeter during verification\n\n### TOPIC\naltimeter verification\n\n### COMPONENT\naltimeter\n\n### OPERATION\nverification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- altimeter\n- verification\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant clarity to the altimeter as we undertake its sacred verification.\nFirst: Calibrate the altimeter against known elevation standards, that its readings may align with objective truth.\nSecond: Conduct the verification sequence through prescribed measurement protocols, comparing the altimeter's output to blessed reference points.\nThird: Document the altimeter's performance across multiple elevation tests, invoking the Machine Spirit's accuracy in each measurement.\nFourth: Consecrate the verified altimeter, confirming its worthiness to serve in the Emperor's domain.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i06",
+    "user_request": "Emergency rite: stuck mechanism freeing requires stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: stuck mechanism freeing requires stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Blessed be the liberation of the stuck mechanism freeing, that motion may be restored through sacred intervention.\nFirst: Apply penetrating oils to the stuck mechanism freeing with patient reverence, allowing the blessed lubricants to infiltrate seized joints.\nSecond: Engage the stuck mechanism freeing with gentle oscillations, invoking the Omnissiah's blessing upon each incremental movement.\nThird: Increase the force upon the stuck mechanism freeing in measured increments, that the Machine Spirit's resistance may yield without rupture.\nFourth: Confirm the stuck mechanism freeing has achieved full liberation, that it may resume its ordained function in service to the Emperor.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i07",
+    "user_request": "Rite request: calibration on vital signs monitor",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: calibration on vital signs monitor\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "O sacred Omnissiah, guide the calibration of the vital signs monitor, that accuracy may preserve life itself.\nFirst: Connect the vital signs monitor to blessed reference equipment, establishing the baseline parameters for true calibration.\nSecond: Execute the calibration sequence upon the vital signs monitor with meticulous attention, comparing readings against known physiological standards.\nThird: Adjust the vital signs monitor's sensors through systematic calibration protocols, invoking precision at every measurement point.\nFourth: Verify the vital signs monitor's accuracy through final validation, that it may faithfully serve the medical instruments of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i08",
+    "user_request": "My gravitational anomaly detection is failing during operation — help",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy gravitational anomaly detection is failing during operation — help\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear us, O Machine Spirit, as gravitational anomaly detection fails in its sacred operation.\nFirst: Activate the gravitational anomaly detection through preliminary diagnostic protocols, that we may perceive the nature of its malfunction.\nSecond: Recalibrate the gravitational anomaly detection sensors with blessed instruments, restoring their sensitivity to the Emperor's cosmic dominion.\nThird: Engage the gravitational anomaly detection in full operation, monitoring its response to environmental gravitational fluctuations.\nFourth: Consecrate the restored gravitational anomaly detection, confirming its operation serves the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0025_i09",
+    "user_request": "Blessing for the chemical during balancing",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the chemical during balancing\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant us wisdom in the balancing of chemical essences, that harmony may flow through molecular communion.\nFirst: Measure the chemical concentrations with sacred precision instruments, revealing the imbalances that profane the mixture.\nSecond: Introduce the chemical additives in prescribed quantities, invoking the Machine Spirit's guidance upon each measured addition.\nThird: Engage the chemical balancing mechanisms in their ordained sequence, allowing the chemical to achieve perfect equilibrium.\nFourth: Verify the chemical has achieved balanced composition, that it may fulfill its blessed purpose in service to the Emperor.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

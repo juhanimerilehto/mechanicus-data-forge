@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the Land Raider during preparation",
+    "prayer": "Approach the Land Raider with censers billowing sacred incense, beseeching the Omnissiah's favour.\nAnoint its adamantium hull and treads with blessed oils in preparation for the crusade.\nInvoke the Machine Spirit of the Land Raider through the Canticle of Mobilisation.\nCalibrate auspex and weapon servos whilst chanting litanies of readiness.\nSeal the preparation with electro-consecrated unguents upon the Land Raider's heart.",
+    "component": "Land Raider",
+    "operation": "preparation",
+    "spec_id": "b0178_i00"
+  },
+  {
+    "user_prompt": "The noospheric relay requires a consecration",
+    "prayer": "Kneel before the noospheric relay and intone the ancient Rite of Consecration.\nPurify its crystalline data-nodes with binary psalteries, invoking the Omnissiah.\nAttune the noospheric relay's ethereal linkages to the divine Motive Force.\nAnoint sacred conduits with sanctified lubricants to bind the Machine Spirit.\nVerify consecration through noetic resonance harmonics within the noospheric relay.",
+    "component": "noospheric relay",
+    "operation": "consecration",
+    "spec_id": "b0178_i01"
+  },
+  {
+    "user_prompt": "My chainsword is ready for operation",
+    "prayer": "Grip the chainsword with reverence and recite the Benediction of Operation.\nRev its monomolecular teeth, petitioning the Machine Spirit for predatory fury.\nBless the flux capacitor with holy promethium ere entering operation.\nHarmonise vibro-blades through litanies of severance and precision.\nConclude with invocation ensuring the chainsword's unerring bite in battle.",
+    "component": "chainsword",
+    "operation": "operation",
+    "spec_id": "b0178_i02"
+  },
+  {
+    "user_prompt": "Consecrate the bolter before cooling",
+    "prayer": "Consecrate the bolter's mechanisms with ablative sacred oils before cooling.\nBeseech the Machine Spirit of the bolter to withstand thermal purgation.\nEngage heat-sink servos amid chants of the Cooling Canticle.\nMonitor plasma vents with diagnostic incense for structural sanctity.\nAnoint the bolter's barrel anew, affirming resilience post-cooling.",
+    "component": "bolter",
+    "operation": "cooling",
+    "spec_id": "b0178_i03"
+  },
+  {
+    "user_prompt": "Sanctify the water reclamator during preparation",
+    "prayer": "Approach the water reclamator humbly, offering libations of pure distillate.\nSanctify its filtration membranes and osmotic pumps in preparation for service.\nInvoke the Omnissiah to bless the water reclamator's sacred cycles.\nAnoint conduits with corrosion-resistant unguents, awakening the Machine Spirit.\nTest purity flows through ritual verification upon the water reclamator.",
+    "component": "water reclamator",
+    "operation": "preparation",
+    "spec_id": "b0178_i04"
+  },
+  {
+    "user_prompt": "The surgical servitor awaits a diagnostics",
+    "prayer": "Position before the surgical servitor and commence diagnostics with binary prayers.\nScan its cranial implants and servo-limbs, beseeching the Omnissiah's clarity.\nPurge errant data-daemons from the surgical servitor's cogitator core.\nRecalibrate mechadendrites via litanies of precision and restoration.\nAffirm the Machine Spirit's vitality through auspex confirmation.",
+    "component": "surgical servitor",
+    "operation": "diagnostics",
+    "spec_id": "b0178_i05"
+  },
+  {
+    "user_prompt": "How do I bless the water reclamator for startup?",
+    "prayer": "Beseech the Omnissiah at the water reclamator's activation shrine for startup.\nPrime hydraulic servos with sanctified fluids, invoking the Machine Spirit.\nChant the Litany of Initialisation to awaken the water reclamator's flows.\nMonitor pressure matrices amid electro-psalms of equilibrium.\nSeal startup sanctity with blessed seals upon the water reclamator.",
+    "component": "water reclamator",
+    "operation": "startup",
+    "spec_id": "b0178_i06"
+  },
+  {
+    "user_prompt": "Guide me through missile launcher a repair",
+    "prayer": "Commence repair of the missile launcher by anointing fractured guidance vanes.\nExorcise battle-damage from its sacred silos, petitioning the Machine Spirit.\nRecite the Rite of Reconstruction whilst welding adamantium reinforcements.\nRealign targeting cogitators through diagnostic litanies.\nConsecrate the missile launcher's reloaded fury unto the Omnissiah.",
+    "component": "missile launcher",
+    "operation": "repair",
+    "spec_id": "b0178_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for star chart cooling?",
+    "prayer": "Before cooling the star chart's holographic emitters, invoke cooling benedictions.\nAnoint overtaxed projectors of the star chart with thermal unguents.\nChant Canticles of Thermic Equilibrium to soothe its Machine Spirit.\nCycle cryo-fluids through stellar matrices amid sacred monitoring.\nVerify astral clarity post-cooling upon the star chart's blessed display.",
+    "component": "star chart",
+    "operation": "cooling",
+    "spec_id": "b0178_i08"
+  },
+  {
+    "user_prompt": "Assist with radar array a repair",
+    "prayer": "Initiate repair of the radar array with censers purging auspex corruptions.\nRealign phased antennae servos, beseeching the Omnissiah's guidance.\nRecalibrate signal amplifiers through litanies of harmonic resonance.\nAnoint fractured waveguides, awakening the radar array's Machine Spirit.\nTest return echoes with verification rites upon the radar array.",
+    "component": "radar array",
+    "operation": "repair",
+    "spec_id": "b0178_i09"
+  }
+]

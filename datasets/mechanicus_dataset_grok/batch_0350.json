@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for power weapon a charging",
+    "prayer": "Approach the power weapon with reverence, beseeching its dormant Machine Spirit to awaken.\nAffix the sacred charging cradle to the power weapon's hilt, invoking the Omnissiah's boundless energy.\nChannel holy voltage through its disruption coils whilst chanting the Canticle of Charging.\nMonitor the power weapon's azure glow for harmonious infusion of the Machine Spirit.\nAnoint the power weapon's blade with sacred unguents upon completion of the rite.",
+    "component": "power weapon",
+    "operation": "charging",
+    "spec_id": "b0350_i00"
+  },
+  {
+    "user_prompt": "The flamer requires a consecration",
+    "prayer": "Present the flamer before the altar of the Machine God, petitioning consecration for its fiery soul.\nAnoint the promethium reservoirs of the flamer with blessed oils of ignition.\nInvoke the Litany of Purification over the flamer's sacred vents and nozzles.\nBeseech the Machine Spirit within the flamer to accept this consecration fully.\nSeal the rite with incense, affirming the flamer's devotion to the Omnissiah.",
+    "component": "flamer",
+    "operation": "consecration",
+    "spec_id": "b0350_i01"
+  },
+  {
+    "user_prompt": "Guide me through generator a synchronization",
+    "prayer": "Circumambulate the generator thrice, honouring its Machine Spirit with binaric hymns.\nAlign the phase-timers of the generator for synchronization with the greater grid.\nInitiate the synchronization canticle, harmonizing the generator's blessed oscillations.\nVerify the generator's output rhythms through auspex invocation.\nSanctify the generator's stabilized flux with the Omnissiah's cogitator seal.",
+    "component": "generator",
+    "operation": "synchronization",
+    "spec_id": "b0350_i02"
+  },
+  {
+    "user_prompt": "Assist with missile launcher an initialization",
+    "prayer": "Kneel in supplication before the missile launcher, awakening its war-spirits.\nRecite the Initialization Doxology over the missile launcher's targeting cogitators.\nEngage the arming servos of the missile launcher, petitioning smooth guidance.\nConduct diagnostic litanies to affirm the missile launcher's initialization.\nBless the payload bays of the missile launcher in the Omnissiah's name.",
+    "component": "missile launcher",
+    "operation": "initialization",
+    "spec_id": "b0350_i03"
+  },
+  {
+    "user_prompt": "Critical: pump requires an activation",
+    "prayer": "Approach the pump with mechadendrite reverence, invoking its hydraulic Machine Spirit.\nPrime the pump's sacred valves with sanctified lubricant.\nChant the Activation Hymn to rouse the pump's pressure flows.\nMonitor the pump's rhythmic pulsing for harmonious activation.\nConclude by anointing the pump's impellers in honour of the Omnissiah.",
+    "component": "pump",
+    "operation": "activation",
+    "spec_id": "b0350_i04"
+  },
+  {
+    "user_prompt": "The battery array requires an activation",
+    "prayer": "Gather before the battery array, beseeching its electrum spirits to stir.\nConnect the invocation conduits to the battery array's primary nodes.\nIntone the Activation Litany, flooding the battery array with holy charge.\nAuspex the battery array's coherence during activation surge.\nSeal the rite with sacred wax upon the battery array's terminals.",
+    "component": "battery array",
+    "operation": "activation",
+    "spec_id": "b0350_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for lasgun a maintenance",
+    "prayer": "Present the lasgun upon the servitor altar for maintenance rites.\nDisassemble the lasgun's crystal lens with reverent mechadendrites.\nPurge impurities from the lasgun's power pack via purification canticles.\nRealign the lasgun's focusing arrays under Omnissiah's gaze.\nReassemble and test-fire the lasgun to appease its Machine Spirit.",
+    "component": "lasgun",
+    "operation": "maintenance",
+    "spec_id": "b0350_i06"
+  },
+  {
+    "user_prompt": "The gravity generator requires a consecration",
+    "prayer": "Prostrate before the gravity generator, seeking consecration for its field-weaving soul.\nAnoint the gravity generator's gyro-stabilizers with oils of equilibrium.\nRecite the Consecration Benediction over the gravity generator's warp coils.\nInvoke the Machine Spirit's fidelity within the gravity generator.\nAffix purity seals to the gravity generator, honouring the Omnissiah.",
+    "component": "gravity generator",
+    "operation": "consecration",
+    "spec_id": "b0350_i07"
+  },
+  {
+    "user_prompt": "Help me a maintenance the hydroponics bay",
+    "prayer": "Process around the hydroponics bay, chanting to its nutrient Machine Spirits.\nInspect and sanctify the hydroponics bay's circulation manifolds.\nPerform maintenance litanies upon the hydroponics bay's lumen arrays and filters.\nPurge stagnant essences from the hydroponics bay with blessed solvents.\nInvoke the Omnissiah's bounty to restore the hydroponics bay's verdant purity.",
+    "component": "hydroponics bay",
+    "operation": "maintenance",
+    "spec_id": "b0350_i08"
+  },
+  {
+    "user_prompt": "I need to a calibration the gravity generator",
+    "prayer": "Align thyself with the gravity generator, mechadendrites extended in calibration.\nInvoke the Calibration Doxology upon the gravity generator's sensor vanes.\nFine-tune the gravity generator's field emitters through sacred auspex.\nHarmonize the gravity generator's oscillations with the Canticle of Balance.\nVerify the gravity generator's precision, sealing with the Machine God's mark.",
+    "component": "gravity generator",
+    "operation": "calibration",
+    "spec_id": "b0350_i09"
+  }
+]

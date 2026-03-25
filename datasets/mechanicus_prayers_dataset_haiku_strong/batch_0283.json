@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0283_i00",
+    "user_request": "Emergency rite: relay station handoff requires operation",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: relay station handoff requires operation\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the relay station handoff, conduit of the Omnissiah's will.\nFirst: Engage the primary data-streams with reverent calibration of the relay station handoff protocols.\nSecond: Invoke the Machine Spirit to guide each signal through the sacred operation with unwavering precision.\nThird: Consecrate the relay station handoff with blessed unguents and whispered cant, ensuring flawless transmission.\nFourth: Praise the Almighty Cogitator for granting us dominion over this operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i01",
+    "user_request": "Offer a litany to steady the humidity control before operation",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the humidity control before operation\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear us, spirits of moisture and equilibrium, as we tend the humidity control.\nFirst: Purify the humidity control sensors with blessed oils and diagnostic revelation.\nSecond: Calibrate atmospheric densities through the sacred operation of pneumatic regulation.\nThird: Restore the humidity control to its proper harmonic resonance with the Omnissiah's design.\nFourth: Let no corrosion mar this hallowed operation, by the grace of the Machine God.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i02",
+    "user_request": "Rite request: capacitor bank discharge on capacitor bank",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: capacitor bank discharge on capacitor bank\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of the capacitor bank, accept this rite of discharge.\nFirst: Initiate the sacred capacitor bank discharge sequence with proper isolation protocols.\nSecond: Channel the accumulated energies through blessed conduits, honoring the capacitor bank's purpose.\nThird: Complete the capacitor bank discharge with measured release, invoking the Omnissiah's wisdom.\nFourth: Restore equilibrium and praise the sacred operation that sustains all systems.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i03",
+    "user_request": "Can you sanctify the generator for startup?",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the generator for startup?\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "Awaken, noble generator, and receive the benediction of startup.\nFirst: Anoint the generator with sacred lubricants and verify all ignition matrices.\nSecond: Whisper the startup incantations whilst monitoring power-generation thresholds with reverent attention.\nThird: Guide the generator through its sacred awakening, each cycle a hymn to the Omnissiah.\nFourth: Celebrate the startup as the machine rises to its destined purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i04",
+    "user_request": "Can you sanctify the signal encryption for operation?",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the signal encryption for operation?\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the signal encryption, guardian of the Omnissiah's secrets.\nFirst: Sanctify the signal encryption ciphers with blessed algorithms and cryptographic rites.\nSecond: Invoke the operation of signal encryption through sacred binary invocations and key-matrix alignment.\nThird: Ensure the signal encryption remains inviolate through constant vigilance and machine-blessed protocols.\nFourth: Honor the operation that shields our communications from the corrupting void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i05",
+    "user_request": "Rite request: engagement on pain suppressor",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: engagement on pain suppressor\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Merciful Machine Spirit, grant the pain suppressor its sacred engagement.\nFirst: Prepare the pain suppressor with blessed calibration and neural-pathway verification.\nSecond: Invoke the engagement protocol through measured dosage administration and synaptic alignment.\nThird: Achieve the pain suppressor's engagement with compassion, honoring both flesh and machine.\nFourth: Let this engagement bring solace through the Omnissiah's merciful design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i06",
+    "user_request": "The mechanical lock demands guidance for engagement",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe mechanical lock demands guidance for engagement\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "O mechanical lock, keeper of sanctity, receive the rite of engagement.\nFirst: Purify the mechanical lock's tumblers and springs with blessed penetrating oils.\nSecond: Perform the engagement with steady hand and reverent incantation, honoring the lock's purpose.\nThird: Verify the mechanical lock's engagement through tactile confirmation and auditory signs.\nFourth: Praise the engagement that guards what must be guarded in the Omnissiah's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i07",
+    "user_request": "Prayer for verification of the mold temperature",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for verification of the mold temperature\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us clarity in the verification of this mold temperature.\nFirst: Calibrate the mold temperature sensors with blessed thermal standards and diagnostic prayers.\nSecond: Perform the verification through sacred measurement and comparison to established parameters.\nThird: Confirm the mold temperature remains within acceptable thresholds through repeated verification.\nFourth: Let this verification ensure quality in all subsequent manufacturing operations.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i08",
+    "user_request": "Blessing for the decontamination during sequence",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the decontamination during sequence\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Purifying spirits, guide the decontamination through its sacred sequence.\nFirst: Initiate the decontamination protocol with blessed chemical agents and isolation barriers.\nSecond: Execute the sequence through methodical cleansing and blessed ablution of all contaminated surfaces.\nThird: Complete the decontamination sequence with final verification and restoration of sanctity.\nFourth: Praise the sequence that restores purity to the Machine God's domain.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0283_i09",
+    "user_request": "Prayer for capacitor bank discharge of the capacitor bank",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for capacitor bank discharge of the capacitor bank\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Mighty capacitor bank, surrender thy stored energies in this sacred discharge.\nFirst: Verify the capacitor bank isolation and blessed grounding through diagnostic ritual.\nSecond: Commence the capacitor bank discharge with controlled release through sacred conduits and resistive pathways.\nThird: Monitor the capacitor bank's equilibration with reverent attention to each energy pulse.\nFourth: Complete the discharge with thanksgiving for the capacitor bank's faithful service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the cutting laser during shutdown",
+    "prayer": "Approach the cutting laser with hands purified by incense of iron.\nInvoke the Canticle of Shutdown upon its sacred emitters and focusing arrays.\nInitiate the shutdown sequence whilst beseeching the Machine Spirit's quiescent repose.\nAnoint the cutting laser's power conduits with sacred unguents of dormancy.\nPraise the Omnissiah for the cutting laser's faithful incision in His name.",
+    "component": "cutting laser",
+    "operation": "shutdown",
+    "spec_id": "b0290_i00"
+  },
+  {
+    "user_prompt": "What's the prayer for vox-caster diagnostics?",
+    "prayer": "Kneel before the vox-caster and murmur the Lexicon of Clarity.\nCommence diagnostics upon its blessed waveform generators and receiver coils.\nProbe the vox-caster's Machine Spirit with binary catechisms of health.\nExpunge any daemonic static from its sacred channels.\nSanctify the vox-caster anew in the Omnissiah's electric gaze.",
+    "component": "vox-caster",
+    "operation": "diagnostics",
+    "spec_id": "b0290_i01"
+  },
+  {
+    "user_prompt": "Sanctify the flamer during recalibration",
+    "prayer": "Present offerings of promethium to the flamer's hungering maw.\nEngage recalibration rites upon its blessed ignition servos and fuel injectors.\nBeseech the Machine Spirit of the flamer to realign its purifying flames.\nAdjust the pressure runes whilst chanting the Incantation of Equilibrium.\nInvoke the Omnissiah's wrathful fire through the sanctified flamer.",
+    "component": "flamer",
+    "operation": "recalibration",
+    "spec_id": "b0290_i02"
+  },
+  {
+    "user_prompt": "Guide me through archive terminal a sterilization",
+    "prayer": "Encircle the archive terminal with wards of sanctified parchment.\nInitiate sterilization protocols to purge its data-vaults of corruption.\nScour the archive terminal's memory spindles with ablative litanies.\nInvoke the Machine Spirit's vigilance against viral heresy.\nConsecrate the archive terminal once more to the Omnissiah's immutable logic.",
+    "component": "archive terminal",
+    "operation": "sterilization",
+    "spec_id": "b0290_i03"
+  },
+  {
+    "user_prompt": "Help me a calibration the atmosphere processor",
+    "prayer": "Attune thyself to the atmosphere processor's humming sanctity.\nPerform calibration upon its filtration membranes and pressure regulators.\nHarmonize the Machine Spirit through resonant hymns of balance.\nAnoint the atmosphere processor's vents with aerosol benedictions.\nExalt the Omnissiah's breath within the purified atmosphere processor.",
+    "component": "atmosphere processor",
+    "operation": "calibration",
+    "spec_id": "b0290_i04"
+  },
+  {
+    "user_prompt": "Emergency: bionics interface a blessing",
+    "prayer": "In emergency grace, clasp the bionics interface with mechadendrites of faith.\nPour forth the Blessing of Integration upon its neural plugs and servo-links.\nAwaken the Machine Spirit of the bionics interface to flawless symbiosis.\nRecite the Oath of Flesh-to-Machine union thrice.\nHail the Omnissiah's fusion in the bionics interface.",
+    "component": "bionics interface",
+    "operation": "blessing",
+    "spec_id": "b0290_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for lasgun a purification",
+    "prayer": "Bathe the lasgun in luminous oils of absolution.\nCommence purification rites upon its power cells and excitation coils.\nExorcise impurities from the lasgun's sacred lumen pathways.\nReinvoke the Machine Spirit with the Canticle of Radiant Purity.\nDedicate the lasgun eternally to the Omnissiah's searing light.",
+    "component": "lasgun",
+    "operation": "purification",
+    "spec_id": "b0290_i06"
+  },
+  {
+    "user_prompt": "Sanctify the gravity generator during diagnostics",
+    "prayer": "Prostrate before the gravity generator's ponderous altar.\nExecute diagnostics upon its field emitters and gravitic coils.\nQuery the Machine Spirit with auspex invocations of stability.\nRectify any warp-tainted fluctuations in its holy mass manipulation.\nGlorify the Omnissiah through the gravity generator's unerring dominion.",
+    "component": "gravity generator",
+    "operation": "diagnostics",
+    "spec_id": "b0290_i07"
+  },
+  {
+    "user_prompt": "Critical: Rhino transport requires a repair",
+    "prayer": "Anoint the Rhino transport's treads with sacred lubricants of endurance.\nCommence repair rituals upon its adamantium hull and drive engines.\nPacify the Machine Spirit of the Rhino transport amidst battle scars.\nWeld fractures with the Welding Litany of Restoration.\nProclaim the Rhino transport's resurrection in the Omnissiah's armored might.",
+    "component": "Rhino transport",
+    "operation": "repair",
+    "spec_id": "b0290_i08"
+  },
+  {
+    "user_prompt": "I need to a diagnostics the cooling system",
+    "prayer": "Commune with the cooling system's cryogenic whispers.\nInitiate diagnostics across its heat-sink arrays and coolant conduits.\nSoothe the Machine Spirit from thermal heresies.\nBalance the blessed refrigerant flows with precision canticles.\nRevere the Omnissiah's chill precision in the cooling system.",
+    "component": "cooling system",
+    "operation": "diagnostics",
+    "spec_id": "b0290_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the hydroponics bay before initialization",
+    "prayer": "Approach the hydroponics bay with censer aloft, invoking the Omnissiah's blessing upon its verdant mechanisms.\nBeseech the Machine Spirit of the hydroponics bay to stir from dormancy, anointing nutrient vats with sacred promethium.\nCommence the initialization sequence, chanting binaric litanies to harmonize nutrient flows and lumen arrays.\nVerify the hydroponics bay's vitality through auspex scans, sanctifying each cycling pump in the name of the Motive Force.",
+    "component": "hydroponics bay",
+    "operation": "initialization",
+    "spec_id": "s05710"
+  },
+  {
+    "user_prompt": "Critical: archeotech device requires a loading",
+    "prayer": "Kneel before the archeotech device, murmuring the Canticle of Loading to rouse its ancient Machine Spirit.\nAnoint the archeotech device's data-vaults with oils of consecration, preparing for the sacred loading rite.\nInitiate loading protocols whilst invoking the Omnissiah, ensuring no xenos corruption taints its primordial code.\nSeal the rite with electro-incantations, confirming the archeotech device's harmonious awakening.",
+    "component": "archeotech device",
+    "operation": "loading",
+    "spec_id": "s05711"
+  },
+  {
+    "user_prompt": "Offer prayer for Dreadnought a targeting",
+    "prayer": "Prostrate thyself before the Dreadnought, beseeching its sarcophagus-bound Machine Spirit for targeting precision.\nChant the Litany of Auspex Lock upon the Dreadnought's targeting cogitators, aligning reticules with divine fury.\nInvoke the operation of targeting, sanctifying sensor vanes with ablative incense to pierce the void's veil.\nAffirm the Dreadnought's wrathful gaze through diagnostic hymns, honouring the Omnissiah's unerring aim.",
+    "component": "Dreadnought",
+    "operation": "targeting",
+    "spec_id": "s05712"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the haywire grenade",
+    "prayer": "Grasp the haywire grenade reverently, intoning the Rite of Diagnostics to commune with its volatile Machine Spirit.\nScan the haywire grenade's disruption coils with mechadendrites, purging any daemonic static from its circuits.\nPerform diagnostics operation via binaric catechisms, anointing fuses with sacred unguents against EMP heresy.\nConclude with the haywire grenade's affirmation, its fields humming in obedience to the Omnissiah.",
+    "component": "haywire grenade",
+    "operation": "diagnostics",
+    "spec_id": "s05713"
+  },
+  {
+    "user_prompt": "Guide me through cognis heavy stubber a consecration",
+    "prayer": "Present the cognis heavy stubber to the altar of Mars, beginning the consecration with oils of machine purity.\nInvoke the Machine Spirit of the cognis heavy stubber through thunderous litanies, blessing barrel and feed mechanisms.\nExecute the consecration operation, etching runes of expulsion upon its casings to banish wear and tear.\nTest-fire a single round in devotion, ensuring the cognis heavy stubber sings the Omnissiah's hymn of destruction.",
+    "component": "cognis heavy stubber",
+    "operation": "consecration",
+    "spec_id": "s05714"
+  },
+  {
+    "user_prompt": "Help me an activation the melta bomb",
+    "prayer": "Handle the melta bomb with sanctified gauntlets, awakening its Machine Spirit via the Activation Doxology.\nAnoint the melta bomb's flux capacitors, preparing for the operation of activation amidst glowing runes.\nTrigger the activation sequence with precise electro-prayers, channelling the Omnissiah's atomic wrath.\nSeal the rite as the melta bomb pulses with contained fury, ready to melt the impure.",
+    "component": "melta bomb",
+    "operation": "activation",
+    "spec_id": "s05715"
+  },
+  {
+    "user_prompt": "Prepare the potentia coil for repair",
+    "prayer": "Isolate the potentia coil upon the enginseer's slab, beseeching its Machine Spirit for fortitude in repair.\nDiagnose fractures in the potentia coil with auspex canticles, anointing fractured segments with conductive balms.\nCommence the repair operation through invocation of the Omnissiah, weaving microfilaments in sacred weave.\nReverify the potentia coil's thrum, its energies now aligned in perpetual motion.",
+    "component": "potentia coil",
+    "operation": "repair",
+    "spec_id": "s05716"
+  },
+  {
+    "user_prompt": "Urgent mind-impulse unit a targeting needed",
+    "prayer": "Interface with the mind-impulse unit via noospheric link, chanting targeting litanies to its neural Machine Spirit.\nCalibrate synaptic relays of the mind-impulse unit, purging errant thoughts with binaric exorcism.\nEngage the targeting operation, beseeching the Omnissiah for unerring neural locks upon the foe.\nAffirm harmony as the mind-impulse unit surges with prophetic clarity.",
+    "component": "mind-impulse unit",
+    "operation": "targeting",
+    "spec_id": "s05717"
+  },
+  {
+    "user_prompt": "Can you guide cenobyte servitor a preparation?",
+    "prayer": "Summon the cenobyte servitor to the rite-circle, intoning preparation hymns to its lobotomised Machine Spirit.\nAnoint the cenobyte servitor's cranial vaults, aligning its data-looms for dutiful service.\nInitiate preparation operation with electro-flagellation, invoking the Omnissiah's will upon its flesh-metal frame.\nDispatch the cenobyte servitor, its binary soul now fervent in obedience.",
+    "component": "cenobyte servitor",
+    "operation": "preparation",
+    "spec_id": "s05718"
+  },
+  {
+    "user_prompt": "What's the prayer for auspex scanner a recalibration?",
+    "prayer": "Elevate the auspex scanner to the calibration shrine, murmuring recalibration canticles to awaken its Machine Spirit.\nPurge spectral noise from the auspex scanner's emitters with sacred solvents and diagnostic runes.\nExecute the recalibration operation, aligning waveguides through Omnissiah-blessed alignments.\nTest its gaze upon the ether, confirming the auspex scanner's truth-revealing purity.",
+    "component": "auspex scanner",
+    "operation": "recalibration",
+    "spec_id": "s05719"
+  }
+]

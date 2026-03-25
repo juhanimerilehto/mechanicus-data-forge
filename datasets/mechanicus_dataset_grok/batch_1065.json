@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the Skorpius Disintegrator for repair?",
+    "prayer": "Approach the Skorpius Disintegrator with mechadendrites extended in reverence to the Omnissiah.\nInvoke the Rite of Repair upon the Skorpius Disintegrator, anointing its fractured disintegrator arrays with sacred unguents.\nBeseech the Machine Spirit of the Skorpius Disintegrator to mend its plasma conduits during repair.\nPurge heretekal corruptions through binary canticles and diagnostic sweeps.\nAffirm the Skorpius Disintegrator's restoration with test-firing of sanctified munitions.",
+    "component": "Skorpius Disintegrator",
+    "operation": "repair",
+    "spec_id": "s06650"
+  },
+  {
+    "user_prompt": "Can you guide gellar field a diagnostics?",
+    "prayer": "Kneel before the gellar field generator and intone the Canticle of Warp Vigilance.\nInitiate diagnostics upon the gellar field, scanning its warp-repellent coils for dissonant anomalies.\nAnoint the auspex nodes of the gellar field with oils of purity, beseeching its Machine Spirit's clarity.\nParse the diagnostic litanies, expunging shadow-taint from the gellar field's matrices.\nValidate the gellar field's integrity with a test modulation, praising the Omnissiah's aegis.",
+    "component": "gellar field",
+    "operation": "diagnostics",
+    "spec_id": "s06651"
+  },
+  {
+    "user_prompt": "I need to a reset the psych-out grenade",
+    "prayer": "Grasp the psych-out grenade in sanctified gauntlets, murmuring the Lexmechanicum of Null Reset.\nCommence the reset sequence on the psych-out grenade, cycling its psychic dampeners through ablutionary rites.\nInvoke the Machine Spirit of the psych-out grenade to shed warp-echoes, anointing fuses with silver nitrate.\nRecalibrate the psi-disruptor core of the psych-out grenade via noospheric incantations.\nTest the reset psych-out grenade's purity against a holographic psyker simulacrum.",
+    "component": "psych-out grenade",
+    "operation": "reset",
+    "spec_id": "s06652"
+  },
+  {
+    "user_prompt": "My smelting furnace is ready for operation",
+    "prayer": "Prepare the smelting furnace for operation by chanting the Forge-Litany of Primordial Ignition.\nFeed sacred adamantium ingots into the smelting furnace, awakening its Machine Spirit with electro-incense.\nRegulate plasma vents during the smelting furnace's operation, sanctifying the molten flow.\nMonitor thermal matrices of the smelting furnace, purging impurities in the Omnissiah's name.\nQuench the purified alloys from the smelting furnace, sealing operation with the Benediction of Solidity.",
+    "component": "smelting furnace",
+    "operation": "operation",
+    "spec_id": "s06653"
+  },
+  {
+    "user_prompt": "Assist with orbital strike relay a repair",
+    "prayer": "Approach the orbital strike relay and enact the Rite of Reconsecration for repair.\nDiagnose the auspex arrays of the orbital strike relay, anointing damaged transponders with conductive salves.\nBeseech the Machine Spirit of the orbital strike relay to realign targeting matrices during repair.\nSolder fractured vox-conduits with mechadendrite precision, invoking binary psalms of linkage.\nValidate the orbital strike relay's repair through a low-power test-beacon transmission.",
+    "component": "orbital strike relay",
+    "operation": "repair",
+    "spec_id": "s06654"
+  },
+  {
+    "user_prompt": "Ready the graviton cannon for cycling",
+    "prayer": "Position before the graviton cannon and recite the Cycle of Gravitic Harmony.\nInitiate cycling of the graviton cannon's capacitors, channeling motive force through blessed conduits.\nAnoint the barrel assemblies of the graviton cannon, beseeching its Machine Spirit's patient compression.\nPurge relativistic residues from the graviton cannon during cycling with sacred venting rites.\nConclude cycling of the graviton cannon, affirming combat readiness with a test grav-pulse.",
+    "component": "graviton cannon",
+    "operation": "cycling",
+    "spec_id": "s06655"
+  },
+  {
+    "user_prompt": "My autosanguination system is ready for emergency procedure",
+    "prayer": "Activate emergency protocols upon the autosanguination system, intoning the Litany of Vital Recirculation.\nCycle sanguine fluids through the autosanguination system in emergency procedure, filtering toxins via purity seals.\nInvoke the Machine Spirit of the autosanguination system to staunch haemorrhagic flows forthwith.\nStabilize pressure manifolds of the autosanguination system during emergency procedure with coagulant sacraments.\nSeal the autosanguination system post-procedure, lauding the Omnissiah's gift of sanguine endurance.",
+    "component": "autosanguination system",
+    "operation": "emergency procedure",
+    "spec_id": "s06656"
+  },
+  {
+    "user_prompt": "Consecrate the thunder hammer before blessing",
+    "prayer": "Take up the thunder hammer and commence blessing with the Canticle of Thunderous Wrath.\nAnoint the thunder hammer's power field generator with storm-forged oils of lightning.\nBeseech the Machine Spirit within the thunder hammer to infuse its mass with divine fury during blessing.\nImprint consecratory glyphs upon the thunder hammer's haft, invoking the Omnissiah's crushing might.\nTest the blessed thunder hammer against a heretic effigy, shattering it in sanctified cataclysm.",
+    "component": "thunder hammer",
+    "operation": "blessing",
+    "spec_id": "s06657"
+  },
+  {
+    "user_prompt": "Emergency: hydroponics bay an emergency procedure",
+    "prayer": "Enter the hydroponics bay and declare emergency procedure under the Agronomica Omnissiah.\nPurge contaminated nutrient vats within the hydroponics bay, reciting litanies of verdant purity.\nRealign hydroponic struts of the hydroponics bay during emergency procedure, beseeching growth Machine Spirits.\nInject sanctified enzymes into the hydroponics bay systems, stabilizing biomass cultivation yields.\nVerify the hydroponics bay's recovery post-emergency procedure with biometric sanctity scans.",
+    "component": "hydroponics bay",
+    "operation": "emergency procedure",
+    "spec_id": "s06658"
+  },
+  {
+    "user_prompt": "Sanctify the logic mill during sterilization",
+    "prayer": "Approach the logic mill and intone the Sterilization Doxology of Pure Computation.\nInitiate sterilization cycles upon the logic mill, scouring data-vats with antiviral noospherics.\nAnoint the processing nodes of the logic mill, invoking its Machine Spirit's eternal incorruptibility.\nExpunge memetic plagues from the logic mill during sterilization via electro-purgation rites.\nConclude the logic mill's sterilization, affirming logical purity through test-logic computations.",
+    "component": "logic mill",
+    "operation": "sterilization",
+    "spec_id": "s06659"
+  }
+]

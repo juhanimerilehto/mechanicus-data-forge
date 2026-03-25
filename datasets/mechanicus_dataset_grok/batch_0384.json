@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the cogitator during startup",
+    "prayer": "Kneel before the cogitator and beseech the Omnissiah to bless its startup.\nAnoint the sacred processors of the cogitator with holy oils of activation.\nChant the Litany of Awakening to rouse the dormant Machine Spirit within the cogitator.\nInitiate the startup rites whilst monitoring the blessed data-flows.\nVerify the cogitator's vitality through diagnostic canticles of the Machine God.",
+    "component": "cogitator",
+    "operation": "startup",
+    "spec_id": "b0384_i00"
+  },
+  {
+    "user_prompt": "How do I bless the cutting laser for charging?",
+    "prayer": "Approach the cutting laser with reverence and invoke its fiery Machine Spirit.\nSanctify the charging capacitors with incense of promethium essence.\nPetition the Omnissiah for stable charging as sacred energies accumulate.\nAnoint the focusing lenses of the cutting laser to ensure pure beam coherence.\nCommence the charging cycle amid the Canticle of Contained Fury.",
+    "component": "cutting laser",
+    "operation": "charging",
+    "spec_id": "b0384_i01"
+  },
+  {
+    "user_prompt": "Assist with radar array an emergency procedure",
+    "prayer": "Gather auspex tools before the radar array for the emergency procedure.\nExorcise any warp-tainted echoes from the radar array's receptors.\nInvoke the emergency procedure protocols whilst beseeching the Machine Spirits.\nRecalibrate the scanning emitters of the radar array with sanctified mechadendrites.\nAffirm the radar array's restoration through the Omnissiah's diagnostic grace.",
+    "component": "radar array",
+    "operation": "emergency procedure",
+    "spec_id": "b0384_i02"
+  },
+  {
+    "user_prompt": "I need to an emergency procedure the Thunderhawk",
+    "prayer": "Commence the emergency procedure upon the Thunderhawk by chanting the Rite of Revival.\nAnoint its adamantium hull and plasma drives with sacred ablative unguents.\nBeseech the Machine Spirit of the Thunderhawk to endure amidst peril.\nInitiate thrust purges and system flushes in the emergency procedure sequence.\nSanctify the Thunderhawk's cogitators to guide it through the Omnissiah's will.",
+    "component": "Thunderhawk",
+    "operation": "emergency procedure",
+    "spec_id": "b0384_i03"
+  },
+  {
+    "user_prompt": "Urgent thermal imager a sterilization needed",
+    "prayer": "Prepare the thermal imager for sterilization with flames of purity.\nInvoke the Omnissiah to purge contaminants from the thermal imager's lenses.\nApply ablative incense across the thermal imager's sensors during sterilization.\nChant sterilizing litanies to appease the Machine Spirit of the thermal imager.\nConclude the sterilization rite with verifying canticles of thermal clarity.",
+    "component": "thermal imager",
+    "operation": "sterilization",
+    "spec_id": "b0384_i04"
+  },
+  {
+    "user_prompt": "How do I bless the data-slate for initialization?",
+    "prayer": "Hold the data-slate aloft and speak the Benediction of Initialization.\nWipe its crystal vaults clean of errant data-daemons.\nAnoint the data-slate's ports with conductive sanctifiers for initialization.\nAwaken the Machine Spirit within the data-slate through binary hymns.\nCommence initialization whilst petitioning the Omnissiah for flawless recall.",
+    "component": "data-slate",
+    "operation": "initialization",
+    "spec_id": "b0384_i05"
+  },
+  {
+    "user_prompt": "The radar array awaits a targeting",
+    "prayer": "Align the radar array's emitters towards the void and invoke targeting rites.\nCalibrate the sacred waveguides for precise targeting acquisition.\nBeseech the Machine Spirit of the radar array to pierce veils of obscurity.\nEngage targeting locks with the Canticle of Unerring Aim.\nSanctify the radar array's returns through Omnissian verification protocols.",
+    "component": "radar array",
+    "operation": "targeting",
+    "spec_id": "b0384_i06"
+  },
+  {
+    "user_prompt": "Bless the pain suppressor for recalibration",
+    "prayer": "Approach the pain suppressor and recite the Recalibration Doxology.\nPurge neural feedback loops from the pain suppressor's circuits.\nAnoint its synaptic interfaces for recalibration under the Machine God's gaze.\nInvoke the Machine Spirit of the pain suppressor to modulate thresholds anew.\nTest recalibration efficacy with litanies of endurance.",
+    "component": "pain suppressor",
+    "operation": "recalibration",
+    "spec_id": "b0384_i07"
+  },
+  {
+    "user_prompt": "The astropathic choir needs a startup",
+    "prayer": "Assemble before the astropathic choir for startup under solemn auspex vigil.\nHarmonize psychic relays with the Choir's startup incantations.\nAnoint warp-sensitive nodes to awaken dormant Machine Spirits.\nInitiate the startup surge whilst petitioning the Omnissiah's astral favor.\nVerify choir resonance through prophetic binary echoes.",
+    "component": "astropathic choir",
+    "operation": "startup",
+    "spec_id": "b0384_i08"
+  },
+  {
+    "user_prompt": "My plasma reactor is ready for emergency procedure",
+    "prayer": "Initiate the emergency procedure on the plasma reactor with utmost reverence.\nExhaust volatile isotopes via sanctified vents during the emergency procedure.\nBeseech the raging Machine Spirit of the plasma reactor to contain its fury.\nRecirculate coolant blessed by the Omnissiah's forge-light.\nStabilize the plasma reactor through confirmatory plasma litanies.",
+    "component": "plasma reactor",
+    "operation": "emergency procedure",
+    "spec_id": "b0384_i09"
+  }
+]

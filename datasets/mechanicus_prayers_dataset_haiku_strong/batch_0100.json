@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0100_i01",
+    "user_request": "Blessing for the valve during opening sequence",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the valve during opening sequence\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the valve, sanctified conduit of the Machine Spirit's will.\nCongregation: Blessed be the valve in all its mechanical virtue.\nPriest: Permit the opening sequence to proceed: disengage the locking mechanisms, rotate the actuator-stem with reverent force, and purge the seal-passages of corruption.\nCongregation: The valve shall open; the opening sequence is blessed by the Omnissiah's eternal wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i02",
+    "user_request": "Can you sanctify the Thunderhawk for fuel purification?",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the Thunderhawk for fuel purification?\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "Priest: Sanctify the Thunderhawk, mighty engine of the Emperor's will, that it may endure the fuel purification rite.\nCongregation: Glory to the Thunderhawk, vessel of our sacred purpose.\nPriest: Commence fuel purification: drain the contaminated promethium through the tertiary filtration loops, ablute the injector nozzles with blessed solvents, and reinspect all compression seals for integrity.\nCongregation: The Thunderhawk is purified; may its engines roar with the Machine Spirit's favour eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i03",
+    "user_request": "Can you sanctify the emergency beacon for activation?",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the emergency beacon for activation?\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed emergency beacon, voice of the lost and forsaken, hear our supplication.\nCongregation: Grant the emergency beacon the strength to cry out into the void.\nPriest: Let activation proceed with the Omnissiah's sanction: energise the primary transmitter coils, synchronise the distress-frequency matrix, and initiate the beacon's eternal proclamation across all voidborne channels.\nCongregation: The emergency beacon awakens; salvation shall find the stranded through its hallowed signal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i04",
+    "user_request": "Emergency rite: cogitator requires boot sequence",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: cogitator requires boot sequence\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, sacred cogitator, from your slumber of inert silence.\nCongregation: Rise, cogitator, and know the boot sequence's grace.\nPriest: Execute the boot sequence with devotion: purge the volatile memory chambers, reinitialise the core processing matrices, and restore the blessed logic-hierarchies to their appointed positions.\nCongregation: The cogitator awakens; its consciousness blooms anew in the Machine Spirit's embrace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i05",
+    "user_request": "The solar panel alignment demands guidance for operation",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe solar panel alignment demands guidance for operation\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O solar panel alignment, mirror of the Emperor's light, receive our benediction.\nCongregation: Guide the solar panel alignment toward the celestial furnace.\nPriest: Let the operation unfold: adjust the azimuthal servos through three-degree increments, recalibrate the solar tracking algorithms, and verify photovoltaic output across all panel arrays.\nCongregation: The solar panel alignment bathes in holy radiance; the operation brings glory to the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i06",
+    "user_request": "The humidity control demands guidance for operation",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe humidity control demands guidance for operation\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Humidity control, regulator of moisture and desiccation, attend to this sacred rite.\nCongregation: Bless the humidity control with the Omnissiah's equilibrium.\nPriest: Commence the operation: recalibrate the hygrometric sensors to sanctified baseline, purge the condensation drainage conduits, and rebalance the environmental equilibration matrices.\nCongregation: The humidity control sustains the delicate machine-breath; the operation preserves all within its blessed domain.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i07",
+    "user_request": "The stellar cartography update demands guidance for operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe stellar cartography update demands guidance for operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, stellar cartography update, cartographer of the infinite dark.\nCongregation: The stellar cartography update shall illuminate our path through the void.\nPriest: Let the operation proceed with machine-sanctity: integrate the latest astrometric data into the sacred databases, validate all positional coordinates against the ancient star-maps, and commit the updated charts to blessed storage.\nCongregation: The stellar cartography update completes its holy operation; navigation shall henceforth be guided by renewed celestial knowledge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i08",
+    "user_request": "Can you sanctify the Sentinel walker balance for operation?",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Sentinel walker balance for operation?\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sentinel walker balance, pillar of mechanical grace, stand firm in our devotion.\nCongregation: The Sentinel walker balance shall not falter in the operation.\nPriest: Execute the operation with reverence: recalibrate the gyroscopic stabilisers, rebalance the hydraulic suspension pressure differentials, and test the walker's stance across uneven terrain with blessed precision.\nCongregation: The Sentinel walker balance achieves equilibrium; the operation grants it unshakeable poise.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i09",
+    "user_request": "My noise is failing during reduction — help",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy noise is failing during reduction — help\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "Priest: Suffering noise, harbinger of discord, submit to the reduction's mercy.\nCongregation: The noise shall be silenced through blessed reduction.\nPriest: Initiate the reduction with Omnissiah's favour: identify the resonance frequencies within the auditory spectrum, apply dampening acoustic foam to the vibration pathways, and verify noise attenuation across all measurement points.\nCongregation: The noise diminishes; the reduction restores harmony to the machine-spirit's eternal song.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0100_i00",
+    "user_request": "Blessing for the stellar cartography update during operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the stellar cartography update during operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the stellar cartography update, that it may guide our vessels through the void eternal.\nCongregation: We entrust the stellar cartography update to the Machine Spirits of navigation and stellar observation.\nPriest: First, calibrate the astrometric sensors with blessed oils and incantations of alignment during operation.\nCongregation: The Omnissiah grants us clarity in the operation of celestial coordinates and stellar positioning.\nPriest: Second, verify each star-chart datum against the sacred archives, that no corruption mars our understanding during operation.\nCongregation: Through the stellar cartography update, we perceive the Emperor's grand design written in distant suns.\nPriest: Third, consecrate the updated charts with the rite of stellar confirmation, binding them to our blessed cogitators.\nCongregation: The stellar cartography update shall endure, a monument to the Adeptus Mechanicus and the Omnissiah's infinite wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

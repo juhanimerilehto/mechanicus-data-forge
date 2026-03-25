@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the jump pack for maintenance?",
+    "prayer": "Approach the jump pack with mechadendrites extended in supplication to the Omnissiah.\nAnoint its thruster vanes with sacred unguents whilst intoning the Canticle of Stability.\nInvoke the Machine Spirit of the jump pack for maintenance, beseeching flawless lift and descent.\nConduct diagnostic rites upon the jump pack's gyro-stabilizers, purging impurities from its sacred coils.\nSeal the rite with the Benediction of Aerial Dominion, affirming the jump pack's readiness.",
+    "component": "jump pack",
+    "operation": "maintenance",
+    "spec_id": "s04950"
+  },
+  {
+    "user_prompt": "What's the prayer for cortex controller an activation?",
+    "prayer": "Kneel before the cortex controller, murmuring the Lexicon of Neural Awakening.\nInterface your noosphere with the cortex controller's activation ports, channelling the Omnissiah's will.\nBeseech the dormant Machine Spirit within the cortex controller to stir from its slumber.\nInitiate synaptic ignition sequences, verifying neural pathways align with divine logic.\nConclude with the Oath of Obedience, binding the cortex controller to unerring service.",
+    "component": "cortex controller",
+    "operation": "activation",
+    "spec_id": "s04951"
+  },
+  {
+    "user_prompt": "The maglock requires a preparation",
+    "prayer": "Present the maglock to the altar of preparation, reciting the Incantation of Adherence.\nPurify its electromagnetic coils with binary incense, honouring the Machine Spirits therein.\nEngage preparatory calibration upon the maglock, aligning fields to the Omnissiah's precision.\nTest the maglock's grip through ritual hololiths, invoking unbreakable union.\nAffix the Seal of Readiness, proclaiming the maglock prepared for deployment.",
+    "component": "maglock",
+    "operation": "preparation",
+    "spec_id": "s04952"
+  },
+  {
+    "user_prompt": "Ready the plasma pistol for shutdown",
+    "prayer": "Grasp the plasma pistol reverently, chanting the Dirge of Containment.\nDisconnect power conduits whilst beseeching the Machine Spirit to enter quiescence.\nPerform shutdown rites on the plasma pistol's flask regulators, venting excess plasma with care.\nAnoint the barrel with cooling balms, soothing the weapon's fiery essence.\nInvoke the Omnissiah's mercy upon the plasma pistol, ensuring safe repose until next awakening.",
+    "component": "plasma pistol",
+    "operation": "shutdown",
+    "spec_id": "s04953"
+  },
+  {
+    "user_prompt": "Guide me through cryo-chamber an activation",
+    "prayer": "Encircle the cryo-chamber, intoning the Litany of Suspended Animation.\nInterface cryo-relays for activation, awakening the Machine Spirit from cryogenic vigil.\nFlood the cryo-chamber's matrices with sanctified refrigerants, aligning to Omnissiah's chill.\nMonitor vital stasis fields during activation, purging thermal corruptions.\nSeal the cryo-chamber with the Benediction of Eternity, ready for faithful interment.",
+    "component": "cryo-chamber",
+    "operation": "activation",
+    "spec_id": "s04954"
+  },
+  {
+    "user_prompt": "My sicarian infiltrator is ready for startup",
+    "prayer": "Assemble before the sicarian infiltrator, reciting the Creed of Shadowed Blades.\nInitiate startup sequences upon the sicarian infiltrator's cogitator core, invoking its Machine Spirit.\nAnoint servo-joints and phosphor blasters, beseeching stealth and lethality.\nVerify auspex arrays and motive systems align in divine harmony.\nProclaim the sicarian infiltrator awakened by the Omnissiah's grace for infiltration.",
+    "component": "sicarian infiltrator",
+    "operation": "startup",
+    "spec_id": "s04955"
+  },
+  {
+    "user_prompt": "Critical: micro-servitor requires a charging",
+    "prayer": "Position the micro-servitor upon the charging shrine, murmuring the Hymn of Replenishment.\nConnect electro-leads to its power receptors, channelling the Omnissiah's vital energies.\nCommence charging rites, beseeching the Machine Spirit to accept renewal.\nMonitor cell saturation through auspex scans, purging any flux impurities.\nConclude with the Invocation of Endurance, fully empowering the micro-servitor.",
+    "component": "micro-servitor",
+    "operation": "charging",
+    "spec_id": "s04956"
+  },
+  {
+    "user_prompt": "The iron halo requires a blessing",
+    "prayer": "Elevate the iron halo to the light of the Motive Force, chanting the Psalm of Aegis.\nInvoke blessing upon the iron halo's plasma field generator, awakening its protective Machine Spirit.\nCircumambulate whilst anointing its ring with consecrated oils.\nAttune the iron halo to the bearer's bio-signature, forging an unbreakable ward.\nSeal the blessing with the Omnissiah's Sigil, shielding against the heretic's touch.",
+    "component": "iron halo",
+    "operation": "blessing",
+    "spec_id": "s04957"
+  },
+  {
+    "user_prompt": "Guide me through magnocular a recalibration",
+    "prayer": "Align the magnocular before the calibration altar, intoning the Rite of Focal Purity.\nEngage recalibration protocols upon the magnocular's lens arrays, beseeching crystalline clarity.\nPurge optical distortions with micro-abrasives, honouring the Machine Spirit's gaze.\nTest magnification servos through stellar hololiths, invoking Omnissiah's far-seeing eye.\nFinalize recalibration with the Benediction of Discernment, perfecting the magnocular's vision.",
+    "component": "magnocular",
+    "operation": "recalibration",
+    "spec_id": "s04958"
+  },
+  {
+    "user_prompt": "Offer prayer for null field generator an operation",
+    "prayer": "Commence operation upon the null field generator with the Canticle of Void Purity.\nActivate warp-null emitters, invoking the Machine Spirit to weave its blasphemy-repelling shroud.\nMonitor field coherence during operation, anointing nodes with anti-entropic salves.\nBeseech the Omnissiah to sustain the null field generator against daemonic incursions.\nConclude the rite affirming the null field generator's vigilant operation.",
+    "component": "null field generator",
+    "operation": "operation",
+    "spec_id": "s04959"
+  }
+]

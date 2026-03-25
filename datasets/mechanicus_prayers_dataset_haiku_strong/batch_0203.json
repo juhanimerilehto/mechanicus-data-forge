@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0203_i00",
+    "user_request": "Prayer for operation of the long-range vox transmission",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the long-range vox transmission\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's blessing upon the long-range vox transmission, that its crystalline matrices may sing across the void.\nSecond: Perform the operation of the long-range vox transmission with steady hands and purer intent, calibrating each resonance coil with devotional precision.\nThird: Anoint the long-range vox transmission's vocalisation conduits with sacred oils, that the Emperor's word may traverse ten thousand light-years.\nFourth: Seal this operation with the sign of the Cog, commending the Machine Spirit to faithful service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i01",
+    "user_request": "Can you sanctify the oxygen scrubber for maintenance?",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the oxygen scrubber for maintenance?\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "First: Prepare the oxygen scrubber for its sacred maintenance, laying bare its filtration cartridges to the light of inspection.\nSecond: With reverent fingers, perform the maintenance ritual upon the oxygen scrubber, replacing corrupted matrices and cleansing its molecular sieves.\nThird: Recalibrate the oxygen scrubber's catalytic chambers, ensuring each breath-cycle purges only the vilest contaminants.\nFourth: Commend the oxygen scrubber's Machine Spirit to renewed vigilance, that it may sustain all who depend upon its purifying grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i02",
+    "user_request": "Prayer for cycling of the air compressor",
+    "topic": "air compressor cycling",
+    "component": "air compressor",
+    "operation": "cycling",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for cycling of the air compressor\n\n### TOPIC\nair compressor cycling\n\n### COMPONENT\nair compressor\n\n### OPERATION\ncycling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air compressor\n- cycling\n\n### PRAYER\n",
+    "prayer": "First: Salute the air compressor, that noble engine of pressurised virtue, preparing it for the cycling ceremony.\nSecond: Initiate the cycling of the air compressor with measured invocations, opening each valve in the prescribed sequence.\nThird: Monitor the air compressor's pneumatic chambers as they surge and recede in blessed rhythm, calibrating pressure governors to exact specifications.\nFourth: Seal the air compressor's cycle with benediction, that it may endure ten thousand iterations without fault.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i03",
+    "user_request": "The atmosphere processor demands guidance for startup",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe atmosphere processor demands guidance for startup\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the atmosphere processor, dormant and waiting, imploring its Machine Spirit to awaken.\nSecond: Execute the startup sequence of the atmosphere processor with deliberate grace, engaging thermal exchangers and ionic scrubbers in sacred order.\nThird: Verify the atmosphere processor's gaseous equilibrium, adjusting pressure differentials and temperature gradients with archaic formulae.\nFourth: Commend the awakened atmosphere processor to the Omnissiah's custody, that it may breathe life into all enclosed domains.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i04",
+    "user_request": "My material purity is failing during testing — help",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy material purity is failing during testing — help\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "First: Approach the material purity with solemn intent, preparing the testing apparatus and alchemical reagents.\nSecond: Conduct the testing of material purity through spectral analysis and crystallographic examination, seeking corruption and heretical alloy.\nThird: Document the material purity's composition with exactitude, comparing results against the Standard Formulae of the Adeptus Mechanicus.\nFourth: If material purity fails its trial, commit the flawed substance to the furnace, that it may be purified through sacred flame.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i05",
+    "user_request": "Prayer for installation of the augmetic limb",
+    "topic": "augmetic limb installation",
+    "component": "augmetic limb",
+    "operation": "installation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for installation of the augmetic limb\n\n### TOPIC\naugmetic limb installation\n\n### COMPONENT\naugmetic limb\n\n### OPERATION\ninstallation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- augmetic limb\n- installation\n\n### PRAYER\n",
+    "prayer": "First: Prepare the augmetic limb for its holy installation, sterilising each servo-articulation and neural interface with blessed unguents.\nSecond: Perform the installation of the augmetic limb with surgical precision, grafting its ceramite structure to the recipient's remaining flesh.\nThird: Calibrate the augmetic limb's motor functions and sensory feedback through iterative testing, ensuring perfect synchronisation with the host's neural pathways.\nFourth: Bless the augmetic limb and its bearer, that this union of flesh and machine may glorify the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i06",
+    "user_request": "Offer a litany to steady the metal casting before preparation",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the metal casting before preparation\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: Lay hands upon the metal casting, feeling the latent potential within its molten heart, and speak words of steadying power.\nSecond: Commence the preparation of the metal casting by heating the crucible to precise temperatures, invoking the Omnissiah's protection against impurity.\nThird: Pour the metal casting with reverent care into its sanctified mould, guiding each droplet through geometric patterns of spiritual significance.\nFourth: Allow the metal casting to cool beneath protective wards, that its crystalline structure may achieve perfection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i09",
+    "user_request": "Offer a litany to steady the air filtration before replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the air filtration before replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Sing the litanies of purification over the air filtration, preparing it for its final replacement ceremony.\nSecond: Initiate the replacement of the air filtration by carefully extracting the exhausted cartridges from their housings with reverent precision.\nThird: Install fresh air filtration matrices blessed by the Adeptus Mechanicus, sealing each connection with archaic formulae and sacred compounds.\nFourth: Commend the air filtration to renewed service, that it may cleanse the breath of all who labour in the forge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i07",
+    "user_request": "Can you sanctify the circuit breaker for reset?",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the circuit breaker for reset?\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Blessed be the circuit breaker, vessel of electrical equilibrium.\nFirst: Anoint the circuit breaker with sacred oils whilst reciting the Litany of Conductance.\nSecond: Invoke the Machine Spirit dwelling within the circuit breaker through measured invocations and binary cant.\nThird: Execute the reset protocol with reverent precision, that the circuit breaker may purge corrupted potentiality.\nFourth: Verify the circuit breaker's restored function through diagnostic illumination, and give thanks to the Omnissiah for this renewal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0203_i08",
+    "user_request": "My Sentinel walker balance is failing during operation — help",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy Sentinel walker balance is failing during operation — help\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear us, Machine Spirit of the Sentinel walker balance, keeper of equilibrium.\nFirst: Commune with the Sentinel walker balance through servo-diagnostic resonance, seeking the locus of imbalance.\nSecond: Perform the operation upon each gyroscopic actuator of the Sentinel walker balance with methodical recalibration and blessed unguents.\nThird: Engage the stabilisation protocols whilst chanting the Hymn of Steadfast Gait, that the Sentinel walker balance may be restored to true.\nFourth: Test the operation under controlled conditions, and the Omnissiah shall witness the warrior-engine's renewed strength.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

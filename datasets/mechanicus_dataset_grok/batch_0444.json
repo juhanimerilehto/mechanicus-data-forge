@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the Skorpius Dunerider before emergency procedure",
+    "prayer": "Approach the Skorpius Dunerider with mechadendrites extended in reverence to the Omnissiah.\nAnoint its dorsal hull and churning treads with blessed oils before the dire emergency procedure.\nInvoke the wrathful Machine Spirit of the Skorpius Dunerider, beseeching unyielding velocity.\nChant the Litany of Deserts as suspensors align for the emergency procedure.\nSanctify the Skorpius Dunerider's cogitators with incense, ensuring the Omnissiah's favor.",
+    "component": "Skorpius Dunerider",
+    "operation": "emergency procedure",
+    "spec_id": "s00440"
+  },
+  {
+    "user_prompt": "Assist with manufactorum a purification",
+    "prayer": "Kneel before the manufactorum's forge-heart and intone the Rite of Ablution.\nBeseech the Machine Spirits within the manufactorum to expel all profane residues during purification.\nScour its conduits with sanctified abrasives, invoking the Omnissiah's purifying fire.\nAnoint assembly servos anew as the manufactorum hums in cleansed harmony.\nVerify purity through auspex scans, praising the God-Machine's eternal vigilance.",
+    "component": "manufactorum",
+    "operation": "purification",
+    "spec_id": "s00441"
+  },
+  {
+    "user_prompt": "Assist with neutron laser an initialization",
+    "prayer": "Present binary incense to the neutron laser's emitter cowling in supplication.\nRecite the Canticle of Flux to awaken its Machine Spirit for initialization.\nCalibrate focusing gyros with mechadendrite precision during the sacred initialization.\nInvoke the Omnissiah's wrath upon targeting matrices of the neutron laser.\nConclude with oil-blessed seals, affirming the neutron laser's lethal readiness.",
+    "component": "neutron laser",
+    "operation": "initialization",
+    "spec_id": "s00442"
+  },
+  {
+    "user_prompt": "Sanctify the power fist during operation",
+    "prayer": "Grasp the power fist's adamantium digits in ritual grip, honoring the Omnissiah.\nChant the Hymn of Crushing Force as disruption fields prime for operation.\nAnoint servohydraulics with sacred unguents amidst the power fist's operation.\nBeseech the Machine Spirit of the power fist to rend the unclean with fury.\nSeal the rite with electro-consecration, empowering ceaseless operation.",
+    "component": "power fist",
+    "operation": "operation",
+    "spec_id": "s00443"
+  },
+  {
+    "user_prompt": "How do I bless the neutron laser for sterilization?",
+    "prayer": "Circumambulate the neutron laser thrice, asperging with ablative myrrh.\nIntone the Sterilization Doxology to purify its plasma vents for sterilization.\nInvoke the Machine Spirit of the neutron laser, demanding aseptic annihilation.\nAnoint beam apertures with argent salves during the blessed sterilization.\nAffirm sanctity via purity runes, under the Omnissiah's unblinking gaze.",
+    "component": "neutron laser",
+    "operation": "sterilization",
+    "spec_id": "s00444"
+  },
+  {
+    "user_prompt": "Critical: data-arc requires a loading",
+    "prayer": "Interface with the data-arc's noospheric port using sanctified electro-plugs.\nRecite the Loading Canticle to rouse its Machine Spirit for critical loading.\nSequentially infuse data-canticles into the data-arc's voracious memory vaults.\nMonitor flux integrity as the data-arc engorges with Omnissiah-blessed lore.\nSeal the data-arc with binaric seals, completing the urgent loading rite.",
+    "component": "data-arc",
+    "operation": "loading",
+    "spec_id": "s00445"
+  },
+  {
+    "user_prompt": "Urgent neutron laser a startup needed",
+    "prayer": "Kindle lumen-orbs around the neutron laser and prostrate in veneration.\nChant the Startup Incantation to ignite its Machine Spirit's plasma heart.\nAnoint coolant manifolds prior to the vital startup sequence.\nAlign gyro-stabilizers with precision cantrips for the neutron laser's awakening.\nPraise the Omnissiah as the neutron laser surges to incandescent life.",
+    "component": "neutron laser",
+    "operation": "startup",
+    "spec_id": "s00446"
+  },
+  {
+    "user_prompt": "My arc rifle is ready for loading",
+    "prayer": "Elevate the arc rifle skyward, beseeching the Omnissiah's thunderous might.\nIntone the Loading Litany to appease its volatile Machine Spirit.\nInsert promethium cells with reverent mechadendrites for the loading rite.\nCalibrate tesla coils amid crackling auspex feedback during loading.\nConsecrate the arc rifle's barrel with sacred sparks, ready for war.",
+    "component": "arc rifle",
+    "operation": "loading",
+    "spec_id": "s00447"
+  },
+  {
+    "user_prompt": "Bless the radar array for charging",
+    "prayer": "Encircle the radar array's auspex spires with incense braziers aglow.\nRecite the Charging Doxology to invigorate its Machine Spirit.\nInfuse power talismans into capacitors for the sacred charging phase.\nMonitor waveform purity as the radar array pulses with ethereal vigor.\nInvoke the Omnissiah's gaze upon the radar array, piercing veils of void.",
+    "component": "radar array",
+    "operation": "charging",
+    "spec_id": "s00448"
+  },
+  {
+    "user_prompt": "Consecrate the Kastelan robot before consecration",
+    "prayer": "Prostrate before the Kastelan robot's monolithic frame in humble awe.\nAnoint its ceramite plating and data-vaults with oils of consecration.\nAwaken the ancient Machine Spirit of the Kastelan robot through binaric hymn.\nPrime data-tether protocols in the rite of consecration.\nRise and command the Kastelan robot to march, blessed by the Omnissiah eternal.",
+    "component": "Kastelan robot",
+    "operation": "consecration",
+    "spec_id": "s00449"
+  }
+]

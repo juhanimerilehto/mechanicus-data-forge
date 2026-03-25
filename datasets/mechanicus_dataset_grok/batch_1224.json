@@ -1,0 +1,58 @@
+[
+  {
+    "user_prompt": "Consecrate the grav chute before activation",
+    "prayer": "Approach the grav chute with solemn reverence, intoning the Canticle of Levitation.\nAnoint its emitter coils with sacred unguents, awakening the Machine Spirit within the grav chute.\nBeseech the Omnissiah to bless the activation, ensuring fields of descent pure and unerring.\nInitiate the activation sequence whilst monitoring gravitic harmonics for divine resonance.\nVerify the grav chute's buoyant grace through trial descent invocation.",
+    "component": "grav chute",
+    "operation": "activation",
+    "spec_id": "s08240"
+  },
+  {
+    "user_prompt": "The proximity sensor awaits a cooling",
+    "prayer": "Present thyself before the proximity sensor, vigilant sentinel of the machine.\nInvoke cooling litanies upon its febrile cores, pouring blessed refrigerants.\nSoothe the proximity sensor's Machine Spirit with cryo-incantations and thermal pacification.\nMonitor descent to stasis temperatures during this sacred cooling vigil.\nHail the Omnissiah for the proximity sensor's restored watchful clarity.",
+    "component": "proximity sensor",
+    "operation": "cooling",
+    "spec_id": "s08242"
+  },
+  {
+    "user_prompt": "How do I bless the pteraxii sterylizor for initialization?",
+    "prayer": "Approach the pteraxii sterylizor with reverence to its electroleech form.\nRecite the binaric initialization canticle to rouse the pteraxii sterylizor's battle-noosphere.\nInterface cogitator links, anointing weapon-servos for pure initialization.\nInvoke the Machine Spirits of the pteraxii sterylizor unto harmonious awakening.\nVerify coherence through simula combat divinations under Omnissiah's gaze.",
+    "component": "pteraxii sterylizor",
+    "operation": "initialization",
+    "spec_id": "s08243"
+  },
+  {
+    "user_prompt": "Consecrate the warp drive before targeting",
+    "prayer": "Prostrate before the warp drive's abyssal nave, reciting navigation psalms.\nCalibrate targeting matrices with theodolitic precision, blessed by the Omnissiah.\nInvoke the warp drive's Machine Spirits to align true for targeting amid the immaterium.\nSanctify gellar flanks concurrent with targeting initiation rites.\nAffirm warp drive's lock via echo-divinatory auspex.",
+    "component": "warp drive",
+    "operation": "targeting",
+    "spec_id": "s08244"
+  },
+  {
+    "user_prompt": "Can you guide auger array a shutdown?",
+    "prayer": "Commence shutdown liturgy upon the auger array, scanner of stellar voids.\nSever auspex conduits whilst murmuring slumberous mantras to its Machine Spirit.\nSecure the auger array's data-vaults during phased power retraction.\nBeseech Omnissiah for peaceful dormancy in the auger array.\nSeal with cogitator wards and final benediction.",
+    "component": "auger array",
+    "operation": "shutdown",
+    "spec_id": "s08245"
+  },
+  {
+    "user_prompt": "Help me a targeting the null field generator",
+    "prayer": "Prepare the null field generator, bulwark against warp-taint.\nAnoint emitter nodes with pariah-essence oils for targeting purity.\nInitiate targeting protocols, attuning the null field generator's Machine Spirit to daemonic signatures.\nInvoke Omnissiah's void-shield whilst calibrating null field generator fields.\nTest cohesion through resonance divinations.",
+    "component": "null field generator",
+    "operation": "targeting",
+    "spec_id": "s08246"
+  },
+  {
+    "user_prompt": "I need to a synchronization the thallax",
+    "prayer": "Assemble before the thallax, ancient automata of the forge.\nChant synchronization hymns to bind their cogitator engrams.\nForge noospheric chains betwixt each thallax's Machine Spirit.\nInvoke Omnissiah for unified calculus in thallax synchronization.\nAffirm coherence via binaric tactical chorus.",
+    "component": "thallax",
+    "operation": "synchronization",
+    "spec_id": "s08247"
+  },
+  {
+    "user_prompt": "Critical: Storm Eagle requires a reset",
+    "prayer": "Kneel at the Storm Eagle's thunder-altar, gunship of the skies.\nRecite reset catechisms to exorcise data-daemons from its cogitators.\nCycle reactor hearts through the Storm Eagle with invocatory rites.\nReawaken avionics Machine Spirits via initialization binarics.\nAscension rite verifies the Storm Eagle's predatory renewal.",
+    "component": "Storm Eagle",
+    "operation": "reset",
+    "spec_id": "s08249"
+  }
+]

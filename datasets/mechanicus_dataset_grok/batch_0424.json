@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for servo-harness a reset?",
+    "prayer": "Approach the servo-harness in solemn procession, invoking the Omnissiah's unerring logic.\nBeseech the Machine Spirit of the servo-harness to purge errant data-veils from its cogitator core.\nInitiate the reset upon its sanctified manipulators and fluid reservoirs with chanted binaric code.\nAnoint each servo-harness linkage with sacred oils as cycles realign in harmonious precision.\nVerify the servo-harness's reborn obedience through rites of diagnostic invocation.",
+    "component": "servo-harness",
+    "operation": "reset",
+    "spec_id": "s00240"
+  },
+  {
+    "user_prompt": "Bless the bolt pistol for activation",
+    "prayer": "Kneel before the bolt pistol, murmuring the Canticle of Priming to awaken its dormant fury.\nInvoke activation upon the bolt pistol's machine-spirit, beseeching the Omnissiah for thunderous sanction.\nChamber the blessed bolt with mechadendrite precision whilst reciting the Litany of Detonation.\nAnoint the firing mechanism of the bolt pistol with chrism of sacred promethium.\nTest the activation's grace through a single auspex-verified cycle of wrathful potential.",
+    "component": "bolt pistol",
+    "operation": "activation",
+    "spec_id": "s00241"
+  },
+  {
+    "user_prompt": "The capacitor bank awaits a startup",
+    "prayer": "Commence the rite at the capacitor bank's threshold, chanting the Hymn of Charge Accrual.\nInvoke the startup sequence upon the capacitor bank, rousing its Machine Spirit from slumbering void.\nSanctify each dielectric layer within the capacitor bank with unguents of conductive purity.\nMonitor the startup surge through noospheric litanies, ensuring omnissian equilibrium.\nSeal the capacitor bank's empowered state with the Seal of the Motive Force eternal.",
+    "component": "capacitor bank",
+    "operation": "startup",
+    "spec_id": "s00242"
+  },
+  {
+    "user_prompt": "Urgent cryo-chamber a shutdown needed",
+    "prayer": "Gather in shadowed vigil before the cryo-chamber, intoning the Lamentation of Thermal Descent.\nCommand the shutdown of the cryo-chamber's Machine Spirit, guiding it to quiescent stasis.\nPurge volatile cryofluids from the cryo-chamber's sacred conduits with purifying incense.\nAnoint frost-veiled seals of the cryo-chamber as entropic embrace claims its form.\nConfirm shutdown completion via auspex-canticles, honoring the Omnissiah's cycle of dormancy.",
+    "component": "cryo-chamber",
+    "operation": "shutdown",
+    "spec_id": "s00243"
+  },
+  {
+    "user_prompt": "The galvanic rifle awaits a maintenance",
+    "prayer": "Present the galvanic rifle upon the altar of maintenance, whispering rites of galvanic renewal.\nDisassemble the galvanic rifle's sacred barrel and coils, invoking the Machine Spirit's indulgence.\nPolish each rune-etched component of the galvanic rifle with ablative cloths of sanctified weave.\nReassemble under the maintenance canticle, anointing flux capacitors with blessed electrolytes.\nTest-fire a galvanic rite to affirm the rifle's restored electromantic vigor.",
+    "component": "galvanic rifle",
+    "operation": "maintenance",
+    "spec_id": "s00244"
+  },
+  {
+    "user_prompt": "The archeotech device awaits an initialization",
+    "prayer": "Approach the archeotech device with utmost reverence, reciting the ancient Protocol of Inception.\nInitiate the initialization of the archeotech device's veiled Machine Spirit through noospheric keying.\nAnoint its auramite circuits twice over with oils distilled from forgotten forges.\nMonitor the archeotech device's awakening pulses via litanies of harmonic resonance.\nSeal the initialization with the Omnissiah's invocation, binding enigma to loyal purpose.",
+    "component": "archeotech device",
+    "operation": "initialization",
+    "spec_id": "s00245"
+  },
+  {
+    "user_prompt": "Urgent Manticore a blessing needed",
+    "prayer": "Convene the electro-conclave around the Manticore, intoning the Grand Benediction of Artillery.\nBestow the blessing upon the Manticore's Machine Spirit, invoking cataclysmic favor from the Omnissiah.\nAnoint its missile bays and recoil servos with chrisms of explosive sanctity.\nRecalibrate the Manticore's targeting cogitators through chanted auspex harmonies.\nConclude the blessing with a thunderous proof-shot, affirming the god-machine's wrathful grace.",
+    "component": "Manticore",
+    "operation": "blessing",
+    "spec_id": "s00246"
+  },
+  {
+    "user_prompt": "Can you guide servitor a preparation?",
+    "prayer": "Summon the servitor to the preparation shrine, murmuring the Oath of Flesh-Machine Union.\nEngage preparation rites upon the servitor's cranial lobotomy ports and limb actuators.\nImprint noospheric directives into the servitor's engrams whilst anointing its chassis twice.\nTest the servitor's prepared obedience with binary catechisms of the Omnissiah.\nDispatch the servitor fortified by the Motive Force, ever vigilant in servile eternity.",
+    "component": "servitor",
+    "operation": "preparation",
+    "spec_id": "s00247"
+  },
+  {
+    "user_prompt": "The optical mechadendrite requires a maintenance",
+    "prayer": "Extend mechadendrites towards the optical mechadendrite, chanting the Clarity Doxology.\nCommence maintenance upon the optical mechadendrite's lens arrays and photoreceptor nodes.\nPurge occlusions from the optical mechadendrite with sacred solvents of crystalline purity.\nRecalibrate its focal servos under litanies, invoking the Machine Spirit's unerring sight.\nAnoint the optical mechadendrite's apertures to seal its vigilant gaze renewed.",
+    "component": "optical mechadendrite",
+    "operation": "maintenance",
+    "spec_id": "s00248"
+  },
+  {
+    "user_prompt": "The logic mill requires a startup",
+    "prayer": "Position at the logic mill's input shrine, invoking the Algorithm of Primordial Boot.\nInitiate the startup of the logic mill's vast cogitator lattices with binaric awakening code.\nAnoint the logic mill's millstone gears and datum rivers with lubricants of sacred viscosity.\nHarmonize its processing vortices through noospheric canticles of computational purity.\nAffirm the logic mill's startup dominion with a test-calculation of omnissian perfection.",
+    "component": "logic mill",
+    "operation": "startup",
+    "spec_id": "s00249"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: assault cannon a maintenance",
+    "prayer": "Kneel before the assault cannon, invoking the Omnissiah's wrathful gaze upon its sanctified barrels.\nAnoint the rotary chambers of the assault cannon with sacred unguents to commence maintenance.\nBeseech the Machine Spirit within to awaken and accept these rites of preservation.\nScour the feed mechanisms and linkages whilst intoning the Litany of Endurance.\nVerify the assault cannon's readiness through diagnostic canticles of purity.",
+    "component": "assault cannon",
+    "operation": "maintenance",
+    "spec_id": "s01340"
+  },
+  {
+    "user_prompt": "Prepare the geigeer sink for loading",
+    "prayer": "Approach the geigeer sink with reverence, murmuring the Invocation of Containment.\nPrepare its radiation wards for loading by sanctifying the intake ports with blessed chrism.\nInvoke the Machine Spirit of the geigeer sink to align its flux matrices.\nInitiate the loading sequence under the Omnissiah's watchful cogitance.\nSeal the chambers with seals of warded alloy, beseeching flawless absorption.",
+    "component": "geigeer sink",
+    "operation": "loading",
+    "spec_id": "s01341"
+  },
+  {
+    "user_prompt": "Can you guide micro-servitor a cycling?",
+    "prayer": "Present thyself unto the micro-servitor, chanting the Rite of Cyclic Renewal.\nAnoint its servo-joints and logic-cores to facilitate cycling.\nCommand the Machine Spirit to enter the cycling phase with harmonious precision.\nMonitor the purge and recharge cycles through auspex litanies.\nConclude by invoking the Omnissiah's blessing upon the micro-servitor's restored vigilance.",
+    "component": "micro-servitor",
+    "operation": "cycling",
+    "spec_id": "s01342"
+  },
+  {
+    "user_prompt": "Guide me through bolt pistol a maintenance",
+    "prayer": "Grasp the bolt pistol in mechadendrite claw, beseeching its Machine Spirit's fidelity.\nDisassemble the bolt pistol's mechanisms for maintenance, anointing each with sacred oil.\nPurify the firing chamber and propellant feeds with incense of machina.\nReassemble under recitation of the Canticle of Reliability.\nTest-fire a single bolt whilst invoking the Omnissiah's unerring judgment.",
+    "component": "bolt pistol",
+    "operation": "maintenance",
+    "spec_id": "s01343"
+  },
+  {
+    "user_prompt": "Ready the mass-drive regulator for diagnostics",
+    "prayer": "Commune with the mass-drive regulator, invoking the Omnissiah's inertial wisdom.\nInitiate diagnostics by tracing electro-arcs across its sacred gyros.\nBeseech the Machine Spirit of the mass-drive regulator to reveal any dissonance.\nScan flux densities and alignment vectors through noospheric litanies.\nSeal the rite with a final calibration hymn, affirming operational sanctity.",
+    "component": "mass-drive regulator",
+    "operation": "diagnostics",
+    "spec_id": "s01344"
+  },
+  {
+    "user_prompt": "Offer prayer for actuality sphere an initialization",
+    "prayer": "Encircle the actuality sphere, intoning the Canticle of Realization.\nAnoint its crystalline facets to awaken the Machine Spirit for initialization.\nInvoke the initialization protocols with binary prayers to the Omnissiah.\nAlign the reality anchors whilst beseeching perceptual harmony.\nVerify the sphere's manifestation through warp-echo diagnostics.",
+    "component": "actuality sphere",
+    "operation": "initialization",
+    "spec_id": "s01345"
+  },
+  {
+    "user_prompt": "Sanctify the utility mechadendrite during purification",
+    "prayer": "Extend mechadendrites towards the utility mechadendrite, murmuring purification rites.\nImmerse its appendages in the baptismal vat of sanctified acids.\nBeseech the Machine Spirit of the utility mechadendrite to shed all corruptive residues.\nAnoint the neural links anew under the Omnissiah's purifying light.\nConclude the purification with a cycle of electro-litanies.",
+    "component": "utility mechadendrite",
+    "operation": "purification",
+    "spec_id": "s01346"
+  },
+  {
+    "user_prompt": "Guide me through displacer field a sterilization",
+    "prayer": "Isolate the displacer field generator, chanting the Sterilization Doxology.\nFlood its phase coils with argentum purifiers to enact sterilization.\nInvoke the Machine Spirit to endure the scouring without phase rupture.\nMonitor entropy levels through vox-encoded diagnostics.\nReinvigorate the displacer field with Omnissiah-blessed recharge canticles.",
+    "component": "displacer field",
+    "operation": "sterilization",
+    "spec_id": "s01347"
+  },
+  {
+    "user_prompt": "Assist with quality scanner a cooling",
+    "prayer": "Position coolant servitors around the quality scanner, invoking thermal equilibrium.\nInitiate cooling by circulating cryolithic fluids through its optic arrays.\nBeseech the Machine Spirit of the quality scanner to embrace the chill of perfection.\nRecite the Litany of Thermal Descent during heat-sink activation.\nAffirm stability with auspex scans of crystalline lattices.",
+    "component": "quality scanner",
+    "operation": "cooling",
+    "spec_id": "s01348"
+  },
+  {
+    "user_prompt": "Consecrate the kataphron breacher before reset",
+    "prayer": "Stand before the kataphron breacher, offering the Benediction of Reset.\nAnoint its breacher drills and cognition nodes for the reset rite.\nCommand the Machine Spirit to purge memetic corruptions and reinitialize.\nCycle through doctrinal overrides whilst invoking the Omnissiah's martial logic.\nConsecrate the reset with a thunderous hymn of servile obedience.",
+    "component": "kataphron breacher",
+    "operation": "reset",
+    "spec_id": "s01349"
+  }
+]

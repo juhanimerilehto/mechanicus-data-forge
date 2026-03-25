@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the vox transmitter before recalibration",
+    "prayer": "Approach the vox transmitter with mechadendrites extended in supplication to the Omnissiah.\nAnoint its sacred waveguides with unguent of purest lumen-oil, beseeching the Machine Spirit to awaken.\nChant the Canticle of Harmonic Frequencies whilst initiating recalibration protocols.\nVerify the vox transmitter's purity through auspex invocation, thrice repeating the Rite of Alignment.\nSanctify the recalibration with the Seal of the Motive Force, honouring the vox transmitter's eternal vigil.",
+    "component": "vox transmitter",
+    "operation": "recalibration",
+    "spec_id": "s00800"
+  },
+  {
+    "user_prompt": "Bless the conversion beamer for diagnostics",
+    "prayer": "Kneel before the conversion beamer, invoking the Omnissiah's wrath upon its sub-molecular matrices.\nBeseech the Machine Spirit within the conversion beamer to reveal hidden flaws via diagnostic litanies.\nApply sacred binary incense to its focusing crystals, commencing the diagnostics sequence.\nScrutinize error-logs with the Prayer of Categorical Analysis, purging any daemonic corruptions.\nConclude by affirming the conversion beamer's blessed integrity under the Machine God's gaze.",
+    "component": "conversion beamer",
+    "operation": "diagnostics",
+    "spec_id": "s00801"
+  },
+  {
+    "user_prompt": "I need to a blessing the multi-melta",
+    "prayer": "Present the multi-melta to the altar of the Forge, whispering the Benediction of Thermal Fury.\nInvoke the Machine Spirit of the multi-melta, granting it the blessing of unerring plasma conduits.\nAnoint its melta coils with ablative sacraments, empowering the weapon's pyre-heart.\nRecite the Litany of Incandescent Judgement thrice, sealing the blessing upon the multi-melta.\nTest its fervour with a micro-burst, praising the Omnissiah's fiery beneficence.",
+    "component": "multi-melta",
+    "operation": "blessing",
+    "spec_id": "s00802"
+  },
+  {
+    "user_prompt": "I need to a loading the gellar field",
+    "prayer": "Encircle the gellar field generator with electro-thuribles billowing sacred smoke.\nBeseech the Omnissiah to infuse the gellar field with wardings against the void's horrors.\nInitiate loading rites by chanting the Canticle of Warp-Barrier Fortification.\nMonitor power flux through the gellar field's sanctified coils, invoking Machine Spirit harmony.\nSeal the loading with the Omnissianic Glyph, ensuring the gellar field's impenetrable aegis.",
+    "component": "gellar field",
+    "operation": "loading",
+    "spec_id": "s00803"
+  },
+  {
+    "user_prompt": "How do I bless the autogun for activation?",
+    "prayer": "Grasp the autogun in servo-arms, murmuring the Invocation of Cyclic Readiness.\nAwaken the Machine Spirit of the autogun with sparks from the sacred taser-goad.\nBless its auto-loader mechanisms prior to activation, anointing with lubricant-blessing.\nCommence activation sequence amid the Doxology of Ballistic Precision.\nAffirm the autogun's vigilance with a test-cycle, glorifying the Omnissiah's mechanical might.",
+    "component": "autogun",
+    "operation": "activation",
+    "spec_id": "s00804"
+  },
+  {
+    "user_prompt": "Guide me through conversion field a loading",
+    "prayer": "Approach the conversion field emitter reverently, mechano-hymns upon vox-lips.\nPetition the Machine Spirit indwelling the conversion field for stability in loading rites.\nInfuse its phase-generators with sanctified plasma during the loading invocation.\nChant the Rite of Subatomic Coalescence, aligning the conversion field's matrices.\nConsecrate the fully loaded conversion field with the Mark of the Motive Force Eternal.",
+    "component": "conversion field",
+    "operation": "loading",
+    "spec_id": "s00805"
+  },
+  {
+    "user_prompt": "Help me an activation the Vendetta gunship",
+    "prayer": "Circumambulate the Vendetta gunship, asperging its hull with binary prayer-smoke.\nInvoke the Omnissiah to stir the Machine Spirits within the Vendetta gunship's reactors.\nInitiate activation by reciting the Litany of Gravitic Ascendance upon its command throne.\nAlign auspex arrays and weapon servos through the Canticle of Aerial Dominion.\nBless the Vendetta gunship's wings with oil of flight, propelling it to the Machine God's wars.",
+    "component": "Vendetta gunship",
+    "operation": "activation",
+    "spec_id": "s00806"
+  },
+  {
+    "user_prompt": "What's the prayer for gellar field a targeting?",
+    "prayer": "Attune to the gellar field console with noospheric cantrips of precision.\nBeseech the Machine Spirit of the gellar field to guide targeting vectors against warp-taint.\nEngage targeting sub-routines amid the Prayer of Phasic Lock-On.\nVerify alignments via holographic auspex, invoking thrice the Rite of Null-Field Focus.\nSanctify the gellar field's targeting purity under Omnissiah's unerring calculus.",
+    "component": "gellar field",
+    "operation": "targeting",
+    "spec_id": "s00807"
+  },
+  {
+    "user_prompt": "What's the prayer for macro-cannon an emergency procedure?",
+    "prayer": "Sound the Klaxon of Desperation before the macro-cannon's breach.\nImplore the Machine Spirit animating the macro-cannon to endure emergency procedures.\nPurge venting plasma with emergency ablative rites and coolant-incantations.\nRecalibrate gyrostabilizers per the Codex of Catastrophic Redundancy.\nReaffirm the macro-cannon's wrathful readiness, praising the Omnissiah's indomitable forge.",
+    "component": "macro-cannon",
+    "operation": "emergency procedure",
+    "spec_id": "s00808"
+  },
+  {
+    "user_prompt": "Guide me through iron halo a diagnostics",
+    "prayer": "Extend mechadendrites over the iron halo, intoning the Haloed Aegis Doxology.\nAwaken its Machine Spirit for diagnostics with micro-pulse invocations.\nScan refractive fields through the Litany of Luminal Integrity.\nExpunge any dissonance from the iron halo's warp-warding aura.\nSeal diagnostics with the Omnissiah's radiant imprimatur upon the iron halo.",
+    "component": "iron halo",
+    "operation": "diagnostics",
+    "spec_id": "s00809"
+  }
+]

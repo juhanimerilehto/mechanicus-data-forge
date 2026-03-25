@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: radar array requires a shutdown",
+    "prayer": "Approach the radar array with solemn reverence and intone the Canticle of Repose.\nInitiate the sacred shutdown upon the radar array's vigilant emitters.\nBeseech its Machine Spirit to embrace peaceful dormancy amidst the void.\nSeal the blessed conduits with unguents of the Omnissiah, ensuring orderly cessation.",
+    "component": "radar array",
+    "operation": "shutdown",
+    "spec_id": "b0364_i00"
+  },
+  {
+    "user_prompt": "I need to a cooling the bolter",
+    "prayer": "Kneel before the bolter and invoke the Litany of Thermal Equilibrium.\nCommence the cooling rites upon its sanctified barrels and mechanisms.\nAnoint the bolter's heat-sinks with sacred cryofluids to appease its raging Machine Spirit.\nMonitor the blessed temperature descent until equilibrium is achieved in the Omnissiah's name.",
+    "component": "bolter",
+    "operation": "cooling",
+    "spec_id": "b0364_i01"
+  },
+  {
+    "user_prompt": "My battery array is ready for cooling",
+    "prayer": "Present offerings of incense to the battery array and chant the Hymn of Venting Fury.\nEngage the cooling protocols across the battery array's volatile cells.\nInvoke the Machine Spirits within to release excess thermal wrath harmoniously.\nConsecrate the radiator vanes, guiding the battery array to serene stability.",
+    "component": "battery array",
+    "operation": "cooling",
+    "spec_id": "b0364_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for fusion core a calibration",
+    "prayer": "Circumambulate the fusion core thrice, reciting the Credo of Alignment.\nPerform calibration upon the fusion core's plasma conduits and flux regulators.\nPetition the Omnissiah to attune its Machine Spirit to perfect resonance.\nVerify harmonic balance through auspex incantations upon the fusion core.",
+    "component": "fusion core",
+    "operation": "calibration",
+    "spec_id": "b0364_i03"
+  },
+  {
+    "user_prompt": "The valve assembly awaits a consecration",
+    "prayer": "Anoint the valve assembly with oils of consecration and whisper the Benediction of Sealing.\nInvoke the rite of consecration over each sacred gate and piston of the valve assembly.\nBeseech its Machine Spirits to bind in eternal purity under the Omnissiah's gaze.\nSeal the rite with a final invocation, sanctifying the valve assembly wholly.",
+    "component": "valve assembly",
+    "operation": "consecration",
+    "spec_id": "b0364_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for plasma reactor diagnostics?",
+    "prayer": "Activate the noospheric interface before the plasma reactor and intone diagnostic catechisms.\nConduct thorough diagnostics upon the plasma reactor's containment fields and injectors.\nCommune with its tempestuous Machine Spirit to reveal hidden flaws or corruptions.\nPurge any anomalies detected, restoring the plasma reactor to divine integrity.",
+    "component": "plasma reactor",
+    "operation": "diagnostics",
+    "spec_id": "b0364_i05"
+  },
+  {
+    "user_prompt": "Can you guide melta charge a sterilization?",
+    "prayer": "Prepare the purifier's vials and approach the melta charge with austere focus.\nInitiate sterilization upon the melta charge's volatile promethium reservoirs.\nExorcise profane contaminants from its Machine Spirit through sacred flames.\nConclude by blessing the melta charge, purified for the Omnissiah's wrath.",
+    "component": "melta charge",
+    "operation": "sterilization",
+    "spec_id": "b0364_i06"
+  },
+  {
+    "user_prompt": "Can you guide medicae scanner a purification?",
+    "prayer": "Illuminate the medicae scanner with lumen-globes and recite the Purgation Doxology.\nUndertake purification of the medicae scanner's sensor arrays and data-vaults.\nInvoke the Machine Spirits to expel any xenos taint or heretical echoes.\nRe-sanctify the medicae scanner, its gaze now pure for the Cult Mechanicus.",
+    "component": "medicae scanner",
+    "operation": "purification",
+    "spec_id": "b0364_i07"
+  },
+  {
+    "user_prompt": "Prepare the Rhino transport for operation",
+    "prayer": "Process around the Rhino transport chanting the Ode to Motive Sanctity.\nPrepare its Machine Spirit for operation by anointing treads and auspex vanes.\nInvoke the Omnissiah to awaken the Rhino transport's dormant enginseers.\nCommence operational rites, propelling it forth in glorious mechanized fury.",
+    "component": "Rhino transport",
+    "operation": "operation",
+    "spec_id": "b0364_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for lasgun a blessing",
+    "prayer": "Grasp the lasgun in mechadendrites and proclaim the Blessing of Luminous Wrath.\nBestow the rite of blessing upon the lasgun's power cells and focusing crystals.\nAwaken its Machine Spirit with harmonious binharic canticles to the Omnissiah.\nAffirm the lasgun's sanctified potency through test-fire invocations.",
+    "component": "lasgun",
+    "operation": "blessing",
+    "spec_id": "b0364_i09"
+  }
+]

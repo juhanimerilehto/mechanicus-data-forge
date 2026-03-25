@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the conveyor system for repair?",
+    "prayer": "Approach the conveyor system with solemn reverence and beseech its weary Machine Spirit to awaken.\nInspect the fractured belts and jammed mechanisms of the conveyor system, chanting the Canticle of Restoration.\nAnoint each seized gear and linkage with sacred unguents whilst invoking the Omnissiah's grace for repair.\nInitiate the repair sequence through blessed torque-wands, harmonizing the conveyor system's holy rhythms.\nVerify the Machine Spirit's renewed vigor by engaging a test cycle under diagnostic auspex.",
+    "component": "conveyor system",
+    "operation": "repair",
+    "spec_id": "b0072_i00"
+  },
+  {
+    "user_prompt": "Bless the hololithic display for reset",
+    "prayer": "Kneel before the hololithic display and intone the Litany of Clarity to summon its flickering Machine Spirit.\nPurge errant data-phantoms from the hololithic display's crystalline projectors with purifying incense.\nReset the sacred projectors by reciting binaric code-prayers, beseeching the Omnissiah's unerring light.\nAnoint the emitter nodes with blessed oils to realign the hololithic display's luminous essence.\nConfirm the reset through invocation of verification runes, ensuring the Machine Spirit's pure projection.",
+    "component": "hololithic display",
+    "operation": "reset",
+    "spec_id": "b0072_i01"
+  },
+  {
+    "user_prompt": "The data-slate requires a diagnostics",
+    "prayer": "Present the data-slate before the shrine-altar and whisper the Awakening Doxology to its embedded Machine Spirit.\nInitiate diagnostics upon the data-slate by applying electro-incantations to its memory vaults.\nScrutinize corrupted sectors within the data-slate via auspex-probes sanctified by Omnissian oils.\nBeseech the Machine God to reveal flaws through glowing diagnostic litanies on the data-slate's screen.\nSeal the rite with a final petition, affirming the data-slate's purity for continued service.",
+    "component": "data-slate",
+    "operation": "diagnostics",
+    "spec_id": "b0072_i02"
+  },
+  {
+    "user_prompt": "Ready the power weapon for operation",
+    "prayer": "Grasp the power weapon in mechadendrites of reverence, invoking the Machine Spirit's wrathful hunger.\nAnoint the disruption field generator of the power weapon with sacred promethium-essence.\nEngage the operation sequence by chanting the Canticle of Lethal Ignition, honoring the Omnissiah.\nTest the power weapon's humming blade against a null-void, verifying the Machine Spirit's readiness.\nConclude with binaric blessings, empowering the power weapon for glorious extermination.",
+    "component": "power weapon",
+    "operation": "operation",
+    "spec_id": "b0072_i03"
+  },
+  {
+    "user_prompt": "I need to an operation the conveyor system",
+    "prayer": "Commence upon the conveyor system with mech-rites of activation, calling forth its dormant Machine Spirit.\nLubricate the conveyor system's sacred rollers and chains with unguents of the Forge.\nInitiate operation through invocation of torque-psalms, aligning the conveyor system's mechanical heart.\nMonitor the conveyor system's flow under Omnissian gaze, adjusting servos with precise incantations.\nAffirm the Machine Spirit's harmonious labor by a cycle of blessed throughput.",
+    "component": "conveyor system",
+    "operation": "operation",
+    "spec_id": "b0072_i04"
+  },
+  {
+    "user_prompt": "Emergency: generator a charging",
+    "prayer": "In emergency haste, encircle the generator and beseech its Machine Spirit with urgent electro-litany.\nCommence charging rites upon the generator by channeling sanctified plasma-flows into its core.\nAnoint the generator's induction coils with oils of acceleration, invoking the Omnissiah's boundless energy.\nOversee the charging surge through auspex-vigils, harmonizing the generator's thunderous pulse.\nSeal the rite with a petition for sustained power, quelling any rebellious sparks.",
+    "component": "generator",
+    "operation": "charging",
+    "spec_id": "b0072_i05"
+  },
+  {
+    "user_prompt": "The drop pod needs a diagnostics",
+    "prayer": "Approach the drop pod's adamantium hull with awe, awakening its descent-hungry Machine Spirit.\nDeploy diagnostic canticles across the drop pod's retro-thrusters and ingress hatches.\nProbe the drop pod's servo-arrays and auspex-nodes for imperfections in Omnissiah's name.\nChant binaric diagnostics to illuminate flaws within the drop pod's armored sanctum.\nConclude the rite by sanctifying identified frailties for flawless orbital wrath.",
+    "component": "drop pod",
+    "operation": "diagnostics",
+    "spec_id": "b0072_i06"
+  },
+  {
+    "user_prompt": "Help me a loading the signal relay",
+    "prayer": "Reverently interface with the signal relay, summoning its communicative Machine Spirit.\nPrepare the loading protocols by anointing data-vaults of the signal relay with sacred myrrh.\nInvoke the Omnissiah to facilitate loading of transmission matrices into the signal relay.\nHarmonize carrier waves through electro-psalms, ensuring the signal relay's unerring dispatch.\nVerify the loading completion with a test-pulse, honoring the Machine Spirit's fidelity.",
+    "component": "signal relay",
+    "operation": "loading",
+    "spec_id": "b0072_i07"
+  },
+  {
+    "user_prompt": "Emergency: vox transmitter an activation",
+    "prayer": "In dire emergency, grasp the vox transmitter and intone the Vox-Deus Awakening.\nAnoint its emitter arrays with promethium-blessed oils to rouse the Machine Spirit.\nInitiate activation sequences upon the vox transmitter via sacred binaric commands.\nBeseech the Omnissiah for clarity in the vox transmitter's etheric cries amidst the void.\nTest the activation with a piercing hail, confirming the Machine Spirit's vigilant voice.",
+    "component": "vox transmitter",
+    "operation": "activation",
+    "spec_id": "b0072_i08"
+  },
+  {
+    "user_prompt": "My conveyor system is ready for loading",
+    "prayer": "Gather before the conveyor system, its Machine Spirit eager for burden.\nCommence loading rites by sanctifying cargo interfaces of the conveyor system.\nInvoke Omnissian blessings to guide payloads onto the conveyor system's blessed belts.\nMonitor the loading flow with auspex-incantations, aligning the conveyor system's cadence.\nFinalize with a petition, ensuring the Machine Spirit bears its freight in perfect order.",
+    "component": "conveyor system",
+    "operation": "loading",
+    "spec_id": "b0072_i09"
+  }
+]

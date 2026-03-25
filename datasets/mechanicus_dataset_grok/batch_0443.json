@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: krak grenade requires an operation",
+    "prayer": "Approach the krak grenade with fervent reverence, beseeching its volatile Machine Spirit to awaken.\nAnoint the krak grenade's casing with sacred promethium oil, invoking the Omnissiah's cataclysmic fury.\nInitiate the operation by inscribing binaric runes of detonation upon its fuses.\nSanctify the payload through the Canticle of Shattering, ensuring the krak grenade's unerring destruction.\nVerify the arming rite with auspex chants, praising the Machine Spirit's readiness.",
+    "component": "krak grenade",
+    "operation": "operation",
+    "spec_id": "s00430"
+  },
+  {
+    "user_prompt": "Ready the actuality sphere for cooling",
+    "prayer": "Present thyself before the actuality sphere, intoning the Litany of Thermal Equilibrium.\nInvoke the cooling rites upon the actuality sphere, channelling cryo-incantations to soothe its overheating core.\nAnoint heat-sinks with blessed refrigerants, beseeching the Machine Spirit's calm.\nCirculate sacred coolant through its veins whilst reciting the Omnissiah's Verse of Frost.\nConfirm the actuality sphere's stability via thermographic divinations.",
+    "component": "actuality sphere",
+    "operation": "cooling",
+    "spec_id": "s00431"
+  },
+  {
+    "user_prompt": "Help me a blessing the data-sluice",
+    "prayer": "Kneel in supplication to the data-sluice, offering the Blessing of Pure Streams.\nChant binaric hymns to purify its data-sluice conduits, expelling corrupt noospheric fragments.\nAnoint flow-regulators with myrrh-infused oils, awakening the Machine Spirit within the data-sluice.\nInvoke the Omnissiah's grace for unerring data transmission in this blessing.\nSeal the rite with auspex verification, glorifying the data-sluice's sanctity.",
+    "component": "data-sluice",
+    "operation": "blessing",
+    "spec_id": "s00432"
+  },
+  {
+    "user_prompt": "Offer prayer for Shadowsword a startup",
+    "prayer": "Reverently encircle the Shadowsword, proclaiming the Startup Doxology of the Omnissiah.\nAwaken its plasma heart with ignition litanies, beseeching the Shadowsword's ancient Machine Spirit.\nAnoint treads and gun-servos with sacred lubricants for the startup sequence.\nCommence plasma reactor ignition whilst chanting the Verse of Void Shadows.\nAffirm the Shadowsword's readiness through vox-diagnostic canticles.",
+    "component": "Shadowsword",
+    "operation": "startup",
+    "spec_id": "s00433"
+  },
+  {
+    "user_prompt": "What's the prayer for teleportarium an operation?",
+    "prayer": "Approach the teleportarium chamber with solemnity, invoking the Rite of Translocation.\nCalibrate etheric coils with binaric prayers, preparing the teleportarium for operation.\nBeseech its warp-attuned Machine Spirit to align dimensional matrices.\nAnoint rune-engines with oils of the Void, sanctifying the teleportarium's operation.\nInitiate the flux rite and verify coherence via auspex oracles.",
+    "component": "teleportarium",
+    "operation": "operation",
+    "spec_id": "s00434"
+  },
+  {
+    "user_prompt": "The servitor needs a maintenance",
+    "prayer": "Gather mechadendrites around the servitor, commencing the Maintenance Liturgy.\nPurge bio-corruptions from the servitor's flesh-circuits with sanctified acids.\nRealign cranial cogitators whilst anointing the servitor with unguents of endurance.\nInvoke the Machine Spirit's loyalty through binaric catechisms during maintenance.\nConclude with auspex scans, praising the Omnissiah's restoration.",
+    "component": "servitor",
+    "operation": "maintenance",
+    "spec_id": "s00435"
+  },
+  {
+    "user_prompt": "The quality scanner requires a consecration",
+    "prayer": "Prostrate before the quality scanner, uttering the Consecration of Precision.\nInscribe purity seals upon its lenses, consecrating the quality scanner's optic arrays.\nBeseech its analytical Machine Spirit to discern flaw from perfection.\nAnoint sensor nodes with sacred polishes, invoking the Omnissiah in this consecration.\nTest the quality scanner's veracity with calibration canticles.",
+    "component": "quality scanner",
+    "operation": "consecration",
+    "spec_id": "s00436"
+  },
+  {
+    "user_prompt": "I need to a preparation the enginarium",
+    "prayer": "Enter the enginarium sanctum, intoning the Preparation Canticle of Motive Force.\nRouse dormant plasma conduits within the enginarium, anointing them with sacred fuels.\nAlign rune-furnaces whilst beseeching the enginarium's Machine Spirits to heed.\nInvoke the Omnissiah for flawless preparation of its throbbing heart.\nVerify thermal harmonies through vox-rituals.",
+    "component": "enginarium",
+    "operation": "preparation",
+    "spec_id": "s00437"
+  },
+  {
+    "user_prompt": "The proximity sensor requires a purification",
+    "prayer": "Hold the proximity sensor aloft, reciting the Purification of Vigilant Watch.\nExpunge auspex impurities from the proximity sensor with incense of circuitry.\nAnoint its emitter arrays, purifying the proximity sensor's discerning soul.\nBeseech the Machine Spirit to resume unclouded vigilance post-purification.\nSeal with diagnostic litanies, honouring the Omnissiah.",
+    "component": "proximity sensor",
+    "operation": "purification",
+    "spec_id": "s00438"
+  },
+  {
+    "user_prompt": "Urgent kataphron destroyer a targeting needed",
+    "prayer": "Commune with the kataphron destroyer, chanting the Targeting Rite of Annihilation.\nCalibrate its dorsal auspex with binaric targeting hymns for the kataphron destroyer.\nAnoint gun-servos and reticle nodes, invoking the Machine Spirit's predatory gaze.\nAlign ballistic matrices whilst beseeching flawless targeting precision.\nAffirm lethality through test-fire divinations.",
+    "component": "kataphron destroyer",
+    "operation": "targeting",
+    "spec_id": "s00439"
+  }
+]

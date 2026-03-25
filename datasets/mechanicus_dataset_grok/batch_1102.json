@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the inferno pistol for charging",
+    "prayer": "Approach the inferno pistol with reverence, beseeching the Omnissiah to stir its dormant Machine Spirit.\nAnoint the plasma vents of the inferno pistol with sacred promethium oils.\nInvoke the Canticle of Flux to commence charging, aligning its conduits to the divine energies.\nMonitor the inferno pistol's surging heart through auspex incantations until equilibrium is achieved.\nSanctify the completed charge with binaric praises to the Machine God.",
+    "component": "inferno pistol",
+    "operation": "charging",
+    "spec_id": "s07020"
+  },
+  {
+    "user_prompt": "Consecrate the generator before maintenance",
+    "prayer": "Kneel before the generator, intoning the Litany of Stability to honour its Machine Spirit.\nConsecrate the generator's core with ablative unguents prior to maintenance rites.\nDisconnect ancillary feeds whilst beseeching the Omnissiah for guidance in purification.\nInspect and anoint each coil and rune-circuit of the generator with reverent mechadendrites.\nReinvoke the Machine Spirit upon completion, affirming its eternal vigilance.",
+    "component": "generator",
+    "operation": "maintenance",
+    "spec_id": "s07021"
+  },
+  {
+    "user_prompt": "What's the prayer for battery array an engagement?",
+    "prayer": "Present the battery array to the shrine-altar, whispering awakening canticles to its Machine Spirits.\nAnoint the engagement nodes of the battery array with electro-sanctified oils.\nInitiate engagement protocols, invoking the Omnissiah's wrath upon any discordant flux.\nHarmonize the battery array's cells through sequential binaric harmonies.\nVerify full engagement with diagnostic litanies, praising the Machine God's precision.",
+    "component": "battery array",
+    "operation": "engagement",
+    "spec_id": "s07022"
+  },
+  {
+    "user_prompt": "Urgent volitor implant a reset needed",
+    "prayer": "Gently cradle the volitor implant, murmuring the Rite of Neural Pacification.\nBeseech the Omnissiah to soothe the volitor implant's agitated Machine Spirit.\nExecute the reset sequence via sacred noospheric commands upon the volitor implant.\nFlush errant engram-fragments with purifying data-exorcism.\nRealign the volitor implant's gyros with canticles of true orientation, restoring its divine purpose.",
+    "component": "volitor implant",
+    "operation": "reset",
+    "spec_id": "s07023"
+  },
+  {
+    "user_prompt": "Prepare the cooling system for initialization",
+    "prayer": "Commence initialization by encircling the cooling system with incense of cryo-vented vapors.\nInvoke the Machine Spirits within the cooling system to awaken from stasis slumber.\nPrime the coolant reservoirs of the cooling system with blessed refrigerants.\nCycle the initialization vents whilst chanting the Hymn of Thermal Equilibrium.\nAffirm the cooling system's readiness through thermal auspex divinations.",
+    "component": "cooling system",
+    "operation": "initialization",
+    "spec_id": "s07024"
+  },
+  {
+    "user_prompt": "Help me a recalibration the melta charge",
+    "prayer": "Approach the melta charge humbly, offering mechano-prayers to its volatile Machine Spirit.\nAnoint the focusing lenses of the melta charge with rad-reflective salves.\nUndertake recalibration by aligning its warp-melt projectors to Omnissian tolerances.\nRecite the Litany of Fusion Stability twice upon the melta charge.\nTest the recalibrated fields with micro-discharges, sanctified by the God-Machine.",
+    "component": "melta charge",
+    "operation": "recalibration",
+    "spec_id": "s07025"
+  },
+  {
+    "user_prompt": "Consecrate the plasma cannon before sterilization",
+    "prayer": "Consecrate the plasma cannon by asperging its flask-chambers with purity seals.\nBeseech the Omnissiah to fortify the plasma cannon's Machine Spirit against contamination.\nPrepare for sterilization with ablative rites upon the plasma cannon's vents.\nExpunge impurities through sanctified venting cycles and binaric purges.\nSeal the plasma cannon anew with invocations of unblemished containment.",
+    "component": "plasma cannon",
+    "operation": "sterilization",
+    "spec_id": "s07026"
+  },
+  {
+    "user_prompt": "Critical: psych-out grenade requires an initialization",
+    "prayer": "Hold the psych-out grenade aloft, intoning the Noospheric Banishing to calm its psi-null core.\nAnoint the psych-out grenade's disruptor matrix with etheric null-oils.\nInitiate initialization sequences, invoking the Machine God's aegis against warp-taint.\nHarmonize the psych-out grenade's resonators through psychic-null canticles.\nVerify the awakened Machine Spirit's purity via auspex-null scans.",
+    "component": "psych-out grenade",
+    "operation": "initialization",
+    "spec_id": "s07027"
+  },
+  {
+    "user_prompt": "The radium pistol awaits a preparation",
+    "prayer": "Reverently grasp the radium pistol, whispering the Canticle of Irradiated Wrath.\nPrepare the radium pistol by sanctifying its emitter coils with Geiger-blessed unguents.\nAlign the radium pistol's decay chambers to Omnissian half-life precision.\nInvoke the Machine Spirit's hunger for foes through preparation litanies.\nConclude with a test irradiation, praising the rad-purge of the faithful.",
+    "component": "radium pistol",
+    "operation": "preparation",
+    "spec_id": "s07028"
+  },
+  {
+    "user_prompt": "Urgent life sustainer a recalibration needed",
+    "prayer": "Cradle the life sustainer tenderly, beseeching the Omnissiah for vital continuance.\nAnoint the life sustainer's nutrient injectors with vitae-sanctified elixirs.\nCommence recalibration of the life sustainer's bio-rhythms via sacred cogitator links.\nPurge stagnant fluids whilst chanting the Hymn of Sustained Flesh.\nReaffirm the life sustainer's harmony with the Machine God's will through vital scans.",
+    "component": "life sustainer",
+    "operation": "recalibration",
+    "spec_id": "s07029"
+  }
+]

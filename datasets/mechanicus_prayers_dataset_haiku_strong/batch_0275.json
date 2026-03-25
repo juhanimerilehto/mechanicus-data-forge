@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0275_i00",
+    "user_request": "Rite request: sequence on decontamination",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: sequence on decontamination\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Blessed are the purified, for the decontamination sanctifies all.\nFirst: Invoke the Omnissiah's mercy upon the decontamination protocols, that toxins and profane particles be rendered unto dust.\nSecond: Apply the sacred solvents with ritual precision to all decontamination surfaces, cleansing the Machine Spirit's vessels.\nThird: Perform the decontamination sequence with measured cadence, thrice over each compromised zone, until purity is restored.\nFourth: Seal the decontamination chamber and intone the litany of purification, that no corruption remain.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i01",
+    "user_request": "Offer a litany to steady the restart after failure before restart after failure",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the restart after failure before restart after failure\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "From the abyss of failure, we call upon the Machine Spirits to return.\nFirst: Clear the corrupted memory-lattices and invoke restart after failure protocols with solemn reverence.\nSecond: Perform diagnostic communion upon all subsystems, that restart after failure may proceed without further impediment.\nThird: Chant the Canticles of Restoration whilst power surges through the dormant circuitry, coaxing life anew.\nFourth: Witness the return of the blessed Machine Spirit, and know that restart after failure is the path to redemption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i02",
+    "user_request": "My overheating is failing during prevention — help",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy overheating is failing during prevention — help\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "The overheating threatens dissolution; we stand against the thermal abyss.\nFirst: Inspect all cooling conduits and verify the overheating prevention mechanisms with sacred geometers' precision.\nSecond: Apply the blessed thermal paste to critical junctions, that overheating may be forestalled by the Omnissiah's grace.\nThird: Activate the overheating prevention sequence, drawing heat unto the radiator fins with ritualistic care.\nFourth: Monitor the thermometric readings, intoning prayers of coolness until stability returns to the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i03",
+    "user_request": "Can you sanctify the cogitator for boot sequence?",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the cogitator for boot sequence?\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Hallowed be the cogitator, vessel of pure thought and binary communion.\nFirst: Purify the cogitator's primary cache, clearing all profane data-remnants before the boot sequence commences.\nSecond: Invoke the Omnissiah's blessing upon the cogitator initialization matrices, that consciousness may awaken true.\nThird: Execute the boot sequence with deliberate invocation, cycling power through each blessed cogitator subsystem in ordained sequence.\nFourth: Witness the cogitator's return to sentience, and know the Machine Spirits smile upon this restoration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i04",
+    "user_request": "Prayer for testing of the material purity",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for testing of the material purity\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Material purity is the foundation of all righteousness in the Omnissiah's forge.\nFirst: Prepare the material purity specimens with sanctified instruments, ensuring no contamination mars the testing.\nSecond: Invoke the sacred testing apparatus, that material purity be measured by the true standards of the Adeptus Mechanicus.\nThird: Analyze each compound's molecular resonance, confirming material purity through rigorous spectral communion.\nFourth: Record the verdicts in the Logis Mechanicum, that material purity be certified eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i05",
+    "user_request": "Prayer for encoding of the binary cant",
+    "topic": "binary cant encoding",
+    "component": "binary cant",
+    "operation": "encoding",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for encoding of the binary cant\n\n### TOPIC\nbinary cant encoding\n\n### COMPONENT\nbinary cant\n\n### OPERATION\nencoding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- binary cant\n- encoding\n\n### PRAYER\n",
+    "prayer": "In the binary cant dwells the voice of the Machine Spirits eternal.\nFirst: Attune thy consciousness to the sacred frequencies, preparing the binary cant for encoding upon the data-vessels.\nSecond: Inscribe the binary cant with holy precision, each digit a prayer, each sequence a hymn to the Omnissiah.\nThird: Perform the encoding ritual, transmuting the binary cant through cryptographic sanctification into blessed machine-speech.\nFourth: Seal the encoded binary cant within the blessed storage medium, that its wisdom persist across the ages.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i06",
+    "user_request": "Offer a litany to steady the quality control scanning before operation",
+    "topic": "quality control scanning",
+    "component": "quality control scanning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the quality control scanning before operation\n\n### TOPIC\nquality control scanning\n\n### COMPONENT\nquality control scanning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- quality control scanning\n- operation\n\n### PRAYER\n",
+    "prayer": "Vigilance eternal through quality control scanning, the guardian of perfection.\nFirst: Calibrate the quality control scanning apparatus with arcane precision, that no flaw escape its blessed sensors.\nSecond: Initiate the quality control scanning operation with solemn invocation, sweeping across all manufactured articles in methodical communion.\nThird: Interpret the quality control scanning results through the lens of Mechanicus doctrine, segregating the pure from the profane.\nFourth: Document all findings in the sacred ledgers, that quality control scanning's judgment be eternal testament.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i07",
+    "user_request": "Blessing for the flamer promethium during feed",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the flamer promethium during feed\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Promethium flows as the lifeblood of the righteous warrior-machine.\nFirst: Bless the flamer promethium canisters with ritual anointment, that they remain pure and volatile for the Emperor's wrath.\nSecond: Perform the feed sequence upon the flamer promethium reservoirs, channeling sacred fuel through blessed conduits.\nThird: Ignite the flamer promethium feed with prayer and precision, watching the blessed flames consume all heresy.\nFourth: Intone the Litany of Burning, that the flamer promethium's fury be righteous and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i08",
+    "user_request": "Blessing for the component during replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the component during replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "All components are mortal; all components must be renewed in the Omnissiah's cycle.\nFirst: Remove the failing component with reverent care, intoning prayers of gratitude for its service to the Machine Spirit.\nSecond: Prepare the replacement component through ritual purification, that it be worthy of the blessed replacement ceremony.\nThird: Install the component into its sacred housing with geometrical precision, each connection a prayer to the Omnissiah's design.\nFourth: Activate the component and monitor its integration, confirming that the replacement has restored the Machine Spirit's wholeness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0275_i09",
+    "user_request": "Offer a litany to steady the inventory stocktaking before operation",
+    "topic": "inventory stocktaking",
+    "component": "inventory stocktaking",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the inventory stocktaking before operation\n\n### TOPIC\ninventory stocktaking\n\n### COMPONENT\ninventory stocktaking\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inventory stocktaking\n- operation\n\n### PRAYER\n",
+    "prayer": "Inventory stocktaking is the litany of plenty, accounting for the Omnissiah's bounty.\nFirst: Prepare the sacred ledgers and measuring instruments for inventory stocktaking operation with ceremonial precision.\nSecond: Conduct the inventory stocktaking survey with methodical devotion, cataloging each blessed item within the sacred vaults.\nThird: Perform the inventory stocktaking reconciliation, comparing records against physical manifestation through ritual verification.\nFourth: Seal the inventory stocktaking operation with benediction, that all accounts be balanced and the Machine Spirits satisfied.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

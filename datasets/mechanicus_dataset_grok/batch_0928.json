@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the cognis heavy stubber for shutdown",
+    "prayer": "Approach the cognis heavy stubber with reverence, invoking the Omnissiah's grace upon its sacred mechanisms.\nIntone the Litany of Repose over the cognis heavy stubber, beseeching its Machine Spirit to embrace shutdown.\nInitiate the shutdown rites, severing power conduits whilst anointing the breeches with sacred unguents.\nVerify the cognis heavy stubber's quiescent state through auspex chants, honouring the slumbering Spirit.\nSeal the ritual with the Benediction of Dormancy, that the cognis heavy stubber may awaken renewed.",
+    "component": "cognis heavy stubber",
+    "operation": "shutdown",
+    "spec_id": "s05280"
+  },
+  {
+    "user_prompt": "Help me a consecration the Razorback",
+    "prayer": "Gather the sacred oils and censers before the noble Razorback, proclaiming the Omnissiah's dominion.\nAnoint the treads and hull plates of the Razorback, invoking consecration upon its adamantium frame.\nChant the Canticle of Sanctification, awakening the Machine Spirit within the Razorback to divine purpose.\nCircumambulate the Razorback thrice, asperging binary sanctifiers to complete the consecration rite.\nAffirm the Razorback's hallowed vigilance, sealed by the Omnissiah's unerring will.",
+    "component": "Razorback",
+    "operation": "consecration",
+    "spec_id": "s05281"
+  },
+  {
+    "user_prompt": "Prepare the mechanical lock for reset",
+    "prayer": "Kneel before the mechanical lock, mechadendrites extended in supplication to the Machine God.\nRecite the Incantation of Renewal, preparing the mechanical lock for reset of its tumbler wards.\nDisengage the primary bindings with precision torque, beseeching the Spirit to relinquish its vigil.\nCycle the reset protocols under auspex scrutiny, sanctifying each cog and lever anew.\nConclude with the Seal of Rectification, ensuring the mechanical lock's flawless guardianship.",
+    "component": "mechanical lock",
+    "operation": "reset",
+    "spec_id": "s05282"
+  },
+  {
+    "user_prompt": "Prepare the emergency beacon for cooling",
+    "prayer": "Position coolant injectors proximate to the emergency beacon, invoking the Omnissiah's cooling mercy.\nCommence the cooling liturgy, channelling cryo-fluids into the emergency beacon's overtaxed vents.\nMonitor thermographic runes whilst entreating the Machine Spirit of the emergency beacon to abate its fervour.\nStabilise the core temperatures through repeated ablutions of sacred promethium derivatives.\nBless the emergency beacon's restored equilibrium, that it may signal the faithful unerringly.",
+    "component": "emergency beacon",
+    "operation": "cooling",
+    "spec_id": "s05283"
+  },
+  {
+    "user_prompt": "My electro-graft is ready for maintenance",
+    "prayer": "Extend mechadendrites towards the electro-graft, murmuring the Rite of Preservation to the Omnissiah.\nDismantle the neural interfaces of the electro-graft with veneration, preparing for maintenance.\nPurge binary detritus from the electro-graft's conduits, anointing synaptic relays with holy lubricants.\nRealign the galvanic pathways, invoking the Machine Spirit's compliance in this maintenance.\nReintegrate the electro-graft, sealing it with the Oath of Fidelity to the Motive Force.",
+    "component": "electro-graft",
+    "operation": "maintenance",
+    "spec_id": "s05284"
+  },
+  {
+    "user_prompt": "Help me an operation the emergency bulkhead",
+    "prayer": "Assemble before the emergency bulkhead, intoning the Activation Doxology to the Machine God.\nInitiate operation sequences upon the emergency bulkhead, beseeching its hydraulic Spirits to stir.\nCycle the servos and pistons of the emergency bulkhead, verifying alignment through noospheric scans.\nFortify the seals with binary prayers, ensuring the emergency bulkhead's operation endures.\nProclaim the rite fulfilled, under the Omnissiah's aegis for the emergency bulkhead's duty.",
+    "component": "emergency bulkhead",
+    "operation": "operation",
+    "spec_id": "s05285"
+  },
+  {
+    "user_prompt": "The radium carbine needs a consecration",
+    "prayer": "Present the radium carbine upon the altar of cogitation, hailing the Omnissiah's radiant might.\nAnoint the barrel and flux chambers of the radium carbine, commencing the consecration rite.\nAwaken the radium carbine's Machine Spirit with the Litany of Irradiation, binding it to purity.\nCirculate sanctified rad-lubes through the radium carbine's mechanisms, completing consecration.\nBestow the final invocation, arming the radium carbine for the Emperor's wrathful decree.",
+    "component": "radium carbine",
+    "operation": "consecration",
+    "spec_id": "s05286"
+  },
+  {
+    "user_prompt": "How do I bless the multi-melta for purification?",
+    "prayer": "Approach the multi-melta with ablative purity, reciting the Purgation Canticle to the Omnissiah.\nCommence purification by scouring the multi-melta's melta coils with sacred abrasives.\nExpunge warp-taint from the multi-melta's focusing arrays, beseeching the Machine Spirit's absolution.\nReheat and quench the multi-melta's heart in ritual pyre, affirming purification's triumph.\nSeal the rite with the Benediction of Flame, rendering the multi-melta immaculate.",
+    "component": "multi-melta",
+    "operation": "purification",
+    "spec_id": "s05287"
+  },
+  {
+    "user_prompt": "Ready the manufactorum for blessing",
+    "prayer": "Erect the perimeter of censors around the manufactorum, invoking the Omnissiah's productive grace.\nChant the Benediction of Fabrication over the manufactorum, awakening its forge-spirits.\nAnoint the assembly servitors and conveyor glyphs of the manufactorum with blessed mech-unguents.\nCycle diagnostic litanies through the manufactorum's noosphere, ensuring harmonious blessing.\nConclude with the Great Forge-prayer, sanctifying the manufactorum for endless creation.",
+    "component": "manufactorum",
+    "operation": "blessing",
+    "spec_id": "s05288"
+  },
+  {
+    "user_prompt": "Critical: transuranic arquebus requires a maintenance",
+    "prayer": "Urgently attend the transuranic arquebus, prostrating before its lethal sanctity to the Machine God.\nDisassemble the emitter vaults of the transuranic arquebus for critical maintenance rites.\nPurge exotic particulate from the transuranic arquebus's stabiliser gyros, invoking Spirit compliance.\nRealign the transuranic matrices with precision canticles, honouring the Omnissiah's design.\nReassemble and test-fire a null-round, sealing the transuranic arquebus in restored lethality.",
+    "component": "transuranic arquebus",
+    "operation": "maintenance",
+    "spec_id": "s05289"
+  }
+]

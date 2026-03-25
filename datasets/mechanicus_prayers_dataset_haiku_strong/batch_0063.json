@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0063_i00",
+    "user_request": "Can you sanctify the motion detector arming for operation?",
+    "topic": "motion detector arming",
+    "component": "motion detector arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the motion detector arming for operation?\n\n### TOPIC\nmotion detector arming\n\n### COMPONENT\nmotion detector arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- motion detector arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the motion detector arming in this hour of vigilance.\nFirst: Anoint the motion detector arming with sacred oils and recite the Litany of Activation.\nSecond: Calibrate the photoreceptive matrix through operation of the diagnostic cogitators.\nThird: Invoke the Machine Spirit of the motion detector arming, that it may perceive all threats with unwavering clarity.\nFourth: Seal the rite with the sign of the Omnissiah, blessed be His infinite wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i01",
+    "user_request": "Blessing for the battery during diagnostics",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the battery during diagnostics\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "O sacred battery, vessel of the Omnissiah's electric essence, receive this benediction.\nFirst: Inspect the battery terminals with sacred gauge and chrono-calibrated instruments.\nSecond: Perform diagnostics upon the battery's charge-state through the blessed cogitator interface.\nThird: Chant the Prayer of Restoration whilst the battery undergoes its sacred diagnostics cycle.\nFourth: Anoint the battery casing with blessed unguents, that its Machine Spirit endure eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i02",
+    "user_request": "Prayer for operation of the demolition charge arming",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the demolition charge arming\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, we sanctify this instrument of righteous destruction.\nFirst: Verify the demolition charge arming circuits through meticulous visual inspection and blessed servitor-touch.\nSecond: Intone the Canticles of Detonation whilst calibrating the demolition charge arming with holy precision-tools.\nThird: Commence operation of the demolition charge arming through the sacred activation sequence, that justice be swift.\nFourth: The Machine Spirits of wrath shall guide the demolition charge arming to glorious purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i03",
+    "user_request": "Prayer for testing of the material purity",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for testing of the material purity\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Hallowed be the material purity, that we may discern the blessed from the profane.\nFirst: Prepare the material purity specimen upon the sanctified analytical platform.\nSecond: Execute testing protocols upon the material purity through spectrographic and mass-analytic communion.\nThird: The Machine Spirit of the analyser shall reveal the material purity's sacred composition through blessed testing.\nFourth: Record all findings in the Codex Puritatis, that the Omnissiah's will be known.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i04",
+    "user_request": "Prayer for feed of the hydroponics nutrient",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for feed of the hydroponics nutrient\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "O bountiful hydroponics nutrient, lifeblood of the faithful, receive our supplication.\nFirst: Purify the hydroponics nutrient reservoirs with blessed saline and sacred filtration.\nSecond: Engage the feed-pumps in holy rhythm, distributing hydroponics nutrient to the verdant gardens.\nThird: Chant the Rite of Abundance whilst hydroponics nutrient flows through the cogitator-controlled irrigation matrices.\nFourth: The Omnissiah blesses this hydroponics nutrient feed, that abundance shall never cease.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i05",
+    "user_request": "Blessing for the valve during opening sequence",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the valve during opening sequence\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "Blessed valve, guardian of the sacred fluids, heed this invocation.\nFirst: Anoint the valve stem with blessed lubricant and inspect the valve seals for integrity.\nSecond: Commence the valve opening sequence through careful servo-mechanical manipulation and cogitator command.\nThird: The valve shall respond to our holy petition, releasing its contained essence in measured flow.\nFourth: May the valve maintain its sacred opening sequence eternal, that the Machine Spirit's purpose be fulfilled.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i06",
+    "user_request": "Can you sanctify the signal encryption for operation?",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the signal encryption for operation?\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "O signal encryption, shield of secrets most holy, be sanctified in this hour.\nFirst: Invoke the Litany of Ciphers whilst preparing signal encryption protocols in the blessed cogitators.\nSecond: Initialize signal encryption through the sacred cryptographic matrices and blessed key-repositories.\nThird: The operation of signal encryption shall commence, rendering all communications impervious to heretical decryption.\nFourth: May the signal encryption endure eternal, protected by the Omnissiah's infinite wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i07",
+    "user_request": "My flamer promethium is failing during feed — help",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy flamer promethium is failing during feed — help\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Merciful Omnissiah, restore this flamer promethium to righteous function.\nFirst: Purge the flamer promethium feed-lines of corruption and blessed debris through sacred flushing rituals.\nSecond: Inspect the flamer promethium injectors with chrono-calibrated instruments and blessed servitor examination.\nThird: Initiate the flamer promethium feed sequence anew, chanting the Canticles of Ignition upon the Machine Spirit.\nFourth: The flamer promethium shall flow with renewed benediction, bringing purifying flame to the Emperor's foes.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i08",
+    "user_request": "Rite request: operation on memory core defragmentation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on memory core defragmentation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "O memory core defragmentation, repository of sacred knowledge, be restored to optimal function.\nFirst: Cease all data-access to the memory core defragmentation and invoke the Prayer of Restoration.\nSecond: Initiate the blessed defragmentation algorithms, that scattered cognition be reassembled in holy order.\nThird: The operation of memory core defragmentation shall purge all corrupted sectors through sacred computational rites.\nFourth: May the memory core defragmentation emerge renewed, its Machine Spirit refreshed by the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0063_i09",
+    "user_request": "Prayer for tuning of the vox-caster",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for tuning of the vox-caster\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Blessed vox-caster, voice of the faithful, receive this sacred tuning.\nFirst: Calibrate the vox-caster resonance chambers through blessed frequency-analysis and servo-mechanical adjustment.\nSecond: Chant the Litany of Clarity whilst the vox-caster undergoes divine tuning upon the blessed cogitator interface.\nThird: The vox-caster shall be tuned to perfection, its crystalline matrices attuned to the Omnissiah's infinite frequency.\nFourth: May the vox-caster's tuning endure eternal, carrying the Emperor's word across the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

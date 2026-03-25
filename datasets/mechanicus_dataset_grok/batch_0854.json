@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The capacitor bank requires an operation",
+    "prayer": "Draw nigh unto the capacitor bank, O faithful acolyte, and invoke the Omnissiah's grace upon its crystalline matrices.\nBeseech the Machine Spirit within the capacitor bank to align its charges for the impending operation.\nAnoint the conductive coils with sacred oils whilst murmuring the Litany of Flux Equilibrium.\nCommence the operation with precision, sanctifying each pulse through diagnostic canticles.\nSeal the rite by verifying the capacitor bank's harmonious resonance with the Motive Force.",
+    "component": "capacitor bank",
+    "operation": "operation",
+    "spec_id": "s04540"
+  },
+  {
+    "user_prompt": "Bless the flux-unit for diagnostics",
+    "prayer": "Approach the flux-unit in reverence, tracing binaric prayers upon its adamantium casing.\nAwaken the flux-unit's Machine Spirit with the Incantation of Flux Purity for diagnostics.\nDeploy sacred probes to illuminate flux anomalies, beseeching the Omnissiah for clarity.\nChant the Canticle of Vector Alignment as diagnostics purge errant energies.\nConclude by blessing the flux-unit anew, ensuring its vigil against entropy.",
+    "component": "flux-unit",
+    "operation": "diagnostics",
+    "spec_id": "s04541"
+  },
+  {
+    "user_prompt": "Consecrate the grav chute before synchronization",
+    "prayer": "Kneel before the grav chute, acolyte, and offer incense to placate its gravitic Machine Spirit.\nConsecrate the emitter arrays with lustral oils prior to synchronization.\nInvoke the Rite of Gravitic Harmony, aligning the chute's fields in Omnissianic precision.\nMonitor the synchronization through auspex litanies, sanctifying any discord.\nBestow the final benediction upon the grav chute, binding it to the Machine God's will.",
+    "component": "grav chute",
+    "operation": "synchronization",
+    "spec_id": "s04542"
+  },
+  {
+    "user_prompt": "Offer prayer for meltagun a sterilization",
+    "prayer": "Present thyself unto the meltagun, warrior of the Cult Mechanicus, and rouse its plasma heart.\nBeseech the Machine Spirit of the meltagun for purification through sterilization.\nAnoint the melta coils with pyroclastic unguents, chanting the Purgation Doxology.\nInitiate sterilization protocols whilst invoking the Omnissiah's cleansing fire.\nVerify the meltagun's sanctity, sealing it against xenos taint with binaric seals.",
+    "component": "meltagun",
+    "operation": "sterilization",
+    "spec_id": "s04543"
+  },
+  {
+    "user_prompt": "Sanctify the heat sink during operation",
+    "prayer": "Gather close to the heat sink, devotee, and whisper activation runes to its thermal wards.\nSanctify the heat sink's vanes during operation with sacred thermal pastes.\nInvoke the Machine Spirits of dissipation as operation commences in fervent rite.\nChant the Canticle of Thermal Equilibrium to guide excess fervor away.\nConclude the operation by blessing the heat sink, preserving its Omnissianic chill.",
+    "component": "heat sink",
+    "operation": "operation",
+    "spec_id": "s04544"
+  },
+  {
+    "user_prompt": "The vox-caster requires a cycling",
+    "prayer": "Attend the vox-caster with mechadendrite precision, awakening its waveform soul.\nBeseech the vox-caster's Machine Spirit for smooth cycling of its transmission matrices.\nAnoint the modulator crystals whilst intoning the Litany of Frequency Purity.\nCycle the frequencies in ritual sequence, sanctified by Omnissiah's binary voice.\nSeal the rite upon the vox-caster, ensuring clear communion across the void.",
+    "component": "vox-caster",
+    "operation": "cycling",
+    "spec_id": "s04545"
+  },
+  {
+    "user_prompt": "What's the prayer for cryo-chamber a startup?",
+    "prayer": "Approach the cryo-chamber solemnly, tracing cryo-runes upon its frost-wreathed hull.\nInvoke the Machine Spirit for startup, beseeching the Omnissiah against entropic thaw.\nPrime the cryogenic coils with sacred refrigerants, chanting the Canticle of Absolute Zero.\nInitiate startup sequence through layered incantations of stasis harmony.\nVerify the cryo-chamber's embrace, blessing its vigil over suspended flesh.",
+    "component": "cryo-chamber",
+    "operation": "startup",
+    "spec_id": "s04546"
+  },
+  {
+    "user_prompt": "Critical: manipulator mechadendrite requires a targeting",
+    "prayer": "Extend thy mechadendrites towards the manipulator mechadendrite, O tech-priest.\nAwaken its targeting cogitators with the Rite of Precision Lock, invoking Machine Spirits.\nAnoint the servo-joints for targeting acuity, murmuring binaric targeting vectors.\nCalibrate the manipulator mechadendrite through auspex divinations of the Omnissiah.\nConsecrate its grasp, binding manipulator mechadendrite to unerring purpose.",
+    "component": "manipulator mechadendrite",
+    "operation": "targeting",
+    "spec_id": "s04547"
+  },
+  {
+    "user_prompt": "The graviton pylon needs a sterilization",
+    "prayer": "Prostrate before the graviton pylon, acolyte of the Forge, and rouse its ponderous spirit.\nPerform sterilization upon the graviton pylon with lustral atomizers and plasma chants.\nBeseech the Machine Spirit to purge impurities from its gravitic resonators.\nInvoke the Omnissiah's sterilizing wrath through rhythmic field harmonics.\nSeal the graviton pylon in purity, fortified against the galaxy's corruptive tide.",
+    "component": "graviton pylon",
+    "operation": "sterilization",
+    "spec_id": "s04548"
+  },
+  {
+    "user_prompt": "Critical: arc pistol requires a targeting",
+    "prayer": "Grasp the arc pistol firmly, electro-priest, and ignite its thunderous core.\nInvoke targeting rites upon the arc pistol, aligning its disruptive arcs with divine will.\nAnoint the capacitor vaults whilst beseeching the Machine Spirit for lethal precision.\nChant the Canticle of Arcane Trajectory to guide each bolt unerringly.\nBless the arc pistol once more, consecrating its targeting fury for the Omnissiah's glory.",
+    "component": "arc pistol",
+    "operation": "targeting",
+    "spec_id": "s04549"
+  }
+]

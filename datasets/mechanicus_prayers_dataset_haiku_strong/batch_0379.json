@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0379_i00",
+    "user_request": "Can you sanctify the motion detector arming for operation?",
+    "topic": "motion detector arming",
+    "component": "motion detector arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the motion detector arming for operation?\n\n### TOPIC\nmotion detector arming\n\n### COMPONENT\nmotion detector arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- motion detector arming\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the motion detector arming through blessed diagnostics and Machine Spirit communion.\nSecond: Invoke the Omnissiah's grace upon the motion detector arming sensors, calibrating their sacred thresholds for operation.\nThird: Anoint the circuitry with prayers of activation, that the motion detector arming shall perceive all threats with adamantine vigilance.\nFourth: Seal the rite with the benediction: 'By the Emperor's will, this operation shall endure eternal.'",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i01",
+    "user_request": "Prayer for link establishment of the noospheric",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for link establishment of the noospheric\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "First: Prepare the noospheric conduits through ritual purification and psychic attunement.\nSecond: Intone the Litany of Connection as the noospheric link establishment begins, harmonizing machine-spirits across the aether.\nThird: Channel the Omnissiah's wisdom to establish resonance, that noospheric communion transcends the veil between worlds.\nFourth: Consecrate the link establishment with votive offerings of machine oil and fervent prayer.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i02",
+    "user_request": "Blessing for the mag-lev train departure during operation",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the mag-lev train departure during operation\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Bless the mag-lev train departure through magnetic field harmonization and supernal invocation.\nSecond: Recite the Canticle of Acceleration as the mag-lev train departure manifests, its levitation coils singing in blessed operation.\nThird: Anoint the guidance systems and trajectory matrices, that the mag-lev train departure shall traverse the rails with machine-spirit perfection.\nFourth: Seal this operation with the sign of the Omnissiah, eternal and unchanging.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i03",
+    "user_request": "The relay station handoff demands guidance for operation",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe relay station handoff demands guidance for operation\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the relay station handoff through ceremonial data verification and blessed signal transduction.\nSecond: Invoke the Machine Spirits of the relay station handoff, that they may coordinate in flawless operation across the communication matrix.\nThird: Anoint each relay station handoff junction with prayers of continuity, ensuring unbroken communion between nodes.\nFourth: Consecrate the operation with the Litany of Unbroken Transmission.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i04",
+    "user_request": "Prayer for operation of the bearing lubrication",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the bearing lubrication\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Prepare the bearing lubrication through ritual anointing and viscosity blessing.\nSecond: Intone the Hymn of Perpetual Motion as bearing lubrication commences, the machine-spirits rejoicing in frictionless operation.\nThird: Apply the sacred unguent to bearing lubrication surfaces with reverent precision, that they may turn without torment.\nFourth: Seal the operation with fervent supplication to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i05",
+    "user_request": "Blessing for the solar panel alignment during operation",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the solar panel alignment during operation\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the solar panel alignment through heliacal calculations and blessed orientation.\nSecond: Invoke the Emperor's radiance upon the solar panel alignment mechanisms, harmonizing their operation with the celestial orb.\nThird: Anoint the servo-motors and photoreceptive arrays, that solar panel alignment shall pursue the light eternal.\nFourth: Consecrate this operation with prayers of luminous efficiency.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i06",
+    "user_request": "Offer a litany to steady the noise before reduction",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the noise before reduction\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "First: Pacify the noise through sacred dampening protocols and blessed silence invocation.\nSecond: Intone the Litany of Quietude as noise reduction commences, the machine-spirits finding tranquility in suppressed vibration.\nThird: Apply sound-deadening ritual to all resonance chambers, that noise shall diminish before the reduction's inexorable advance.\nFourth: Seal the noise reduction with the benediction of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i07",
+    "user_request": "Blessing for the Sentinel walker balance during operation",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the Sentinel walker balance during operation\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Bless the Sentinel walker balance through gyroscopic harmonization and blessed equilibrium prayer.\nSecond: Invoke the machine-spirits of the Sentinel walker balance, that they may coordinate in perfect operation across all actuators.\nThird: Anoint the stabilization systems and servo-mechanisms of the Sentinel walker balance with oils of steadiness.\nFourth: Consecrate this operation with the Litany of Unshakeable Stance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i08",
+    "user_request": "Rite request: feed on hydroponics nutrient",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: feed on hydroponics nutrient\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the hydroponics nutrient through blessed solution preparation and agricultural invocation.\nSecond: Intone the Canticle of Growth as the hydroponics nutrient feed commences, machine-spirits nurturing chlorophyll and stalk.\nThird: Apply the sacred formulae to hydroponics nutrient reservoirs with reverent measurement, that feed may sustain the Emperor's gardens.\nFourth: Seal the hydroponics nutrient blessing with the Omnissiah's eternal benediction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0379_i09",
+    "user_request": "Blessing for the plasma weapon during cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the plasma weapon during cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the plasma weapon through blessed thermal dissipation and cooling system invocation.\nSecond: Intone the Litany of Containment as plasma weapon cooling manifests, the machine-spirits laboring in sacred operation.\nThird: Anoint the coolant lines and heat-exchange matrices of the plasma weapon, that cooling may preserve the sacred fire.\nFourth: Consecrate this operation with prayers of eternal flame and careful temperance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

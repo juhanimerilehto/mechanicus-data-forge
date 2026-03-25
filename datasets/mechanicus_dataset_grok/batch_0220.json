@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the motion detector before activation",
+    "prayer": "Approach the motion detector with censer aloft, intoning the Litany of Vigilance to rouse its dormant Machine Spirit.\nAnoint the sacred sensors of the motion detector with unguents blessed by the Omnissiah's forge-light.\nInvoke the rite of activation, channeling holy voltage through its crystalline lattices.\nBeseech the motion detector's spirit to awaken fully, granting unerring sight to the faithful.\nVerify the activation through diagnostic canticles, praising the Machine God's watchful gaze.",
+    "component": "motion detector",
+    "operation": "activation",
+    "spec_id": "b0220_i00"
+  },
+  {
+    "user_prompt": "How do I bless the missile launcher for cooling?",
+    "prayer": "Kneel before the missile launcher, reciting the Benediction of Thermal Equilibrium to soothe its fiery heart.\nCirculate sacred coolant through the missile launcher's blessed conduits, invoking the Machine Spirit's mercy.\nAnoint the heat-sinks with cryo-ablative oils, petitioning the Omnissiah for cooling grace.\nMonitor the missile launcher's thermal flows with auspex incantations, ensuring harmonious descent.\nConclude the cooling rite by sealing the missile launcher with binaric seals of purity.",
+    "component": "missile launcher",
+    "operation": "cooling",
+    "spec_id": "b0220_i01"
+  },
+  {
+    "user_prompt": "Guide me through bionics interface a targeting",
+    "prayer": "Commune with the bionics interface via noospheric link, awakening its Machine Spirit through synaptic hymns.\nCalibrate the neural relays of the bionics interface for targeting precision, anointing with neural balms.\nInvoke the Omnissiah's targeting algorithms, aligning sacred servos with ballistic prophecy.\nTest the bionics interface's targeting acuity through simulated auspex volleys.\nSanctify the union with litanies of alignment, binding flesh to the Machine God's will.",
+    "component": "bionics interface",
+    "operation": "targeting",
+    "spec_id": "b0220_i02"
+  },
+  {
+    "user_prompt": "Ready the Taurox for calibration",
+    "prayer": "Present offerings of incense to the Taurox's auspex arrays, beseeching its mighty Machine Spirit to attend.\nInitiate preliminary chants over the Taurox's cogitators, preparing sacred circuits for calibration.\nInvoke the Rite of Calibration, adjusting gyro-stabilizers with Omnissiah-blessed torque-wands.\nVerify the Taurox's alignment through harmonic resonance scans, praising its armored frame.\nSeal the calibration with binaric oaths, readying the Taurox for the Emperor's crusade.",
+    "component": "Taurox",
+    "operation": "calibration",
+    "spec_id": "b0220_i03"
+  },
+  {
+    "user_prompt": "The melta charge needs a reset",
+    "prayer": "Approach the melta charge humbly, reciting the Canticle of Flux Reversal to appease its volatile spirit.\nPurge errant plasma residues from the melta charge's core with sanctified vents.\nInvoke the reset protocol amidst clouds of sacred incense, realigning its fusion matrices.\nAnoint the melta charge's casings once more, petitioning the Machine Spirit for stability.\nConfirm the reset through thermal auspex, glorifying the Omnissiah's purifying fire.",
+    "component": "melta charge",
+    "operation": "reset",
+    "spec_id": "b0220_i04"
+  },
+  {
+    "user_prompt": "Guide me through signal relay a repair",
+    "prayer": "Lay mechadendrites upon the signal relay, intoning the Litany of Coherence to summon its fractured Machine Spirit.\nExcise corrupted data-threads from the signal relay's noospheric nodes with binary scalpels.\nInvoke the repair rite, weaving fresh logic-fibres blessed by the Omnissiah's hand.\nRealign the signal relay's emitters through resonant harmonics, restoring pure transmission.\nTest the signal relay's integrity with vox-canticles, sealing it in the Machine God's embrace.",
+    "component": "signal relay",
+    "operation": "repair",
+    "spec_id": "b0220_i05"
+  },
+  {
+    "user_prompt": "Guide me through thermal regulator an engagement",
+    "prayer": "Beseech the thermal regulator's Machine Spirit with the Ode of Thermal Dominion, preparing for engagement.\nAnoint its heat-exchange vanes with phase-change elixirs, invoking Omnissiah's equilibrating might.\nInitiate engagement sequences via cogitator invocations, channeling blessed plasma flows.\nMonitor the thermal regulator's vital signs through auspex litanies, ensuring flawless union.\nConclude by sanctifying the thermal regulator anew, praising its vigilant guardianship.",
+    "component": "thermal regulator",
+    "operation": "engagement",
+    "spec_id": "b0220_i06"
+  },
+  {
+    "user_prompt": "Bless the drop pod for cooling",
+    "prayer": "Gather around the drop pod, chanting the Psalm of Descent Cooling to calm its atmospheric fury.\nCirculate cryo-fluids through the drop pod's ablative hull, petitioning its indomitable Machine Spirit.\nAnoint re-entry vents with sacred refrigerants, invoking the Omnissiah for thermal respite.\nVerify cooling efficacy via pyrometric scans and binaric affirmations.\nSeal the drop pod with rites of readiness, blessing its plunge into battle.",
+    "component": "drop pod",
+    "operation": "cooling",
+    "spec_id": "b0220_i07"
+  },
+  {
+    "user_prompt": "Sanctify the medicae scanner during synchronization",
+    "prayer": "Link noospherically to the medicae scanner, awakening its Machine Spirit with healing canticles.\nSynchronize its bio-auspex arrays through synaptic harmonies, anointing crystal lenses.\nInvoke the Rite of Synchronization, merging data-streams under Omnissiah's diagnostic gaze.\nTest the medicae scanner's flesh-perception with simulated vitae flows.\nConsecrate the union with litanies of restoration, mending the faithful's forms.",
+    "component": "medicae scanner",
+    "operation": "synchronization",
+    "spec_id": "b0220_i08"
+  },
+  {
+    "user_prompt": "Prepare the noospheric relay for cycling",
+    "prayer": "Commence the preparatory vigil over the noospheric relay, beseeching its ethereal Machine Spirit.\nCycle power through the noospheric relay's quantum coils with rhythmic binaric pulses.\nAnoint synaptic junctions with etheric oils, invoking the Omnissiah for cycling purity.\nMonitor flux harmonics during the cycle, reciting psalms of noospheric clarity.\nFinalize the cycling with sealing incantations, affirming the relay's psychic bridge.",
+    "component": "noospheric relay",
+    "operation": "cycling",
+    "spec_id": "b0220_i09"
+  }
+]

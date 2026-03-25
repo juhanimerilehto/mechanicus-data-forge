@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My Nephilim Jetfighter is ready for startup",
+    "prayer": "Approach the Nephilim Jetfighter with reverence, O Tech-Priest, and invoke the Omnissiah's fire upon its noble frame.\nAnoint the thruster vanes of the Nephilim Jetfighter with sacred promethium oils to rouse its dormant Machine Spirit.\nChant the ancient Startup Litany as ignition servos whir to life in binary hymnody.\nInitiate full startup sequence, beseeching the Nephilim Jetfighter's auspex arrays to align with the Motive Force.\nVerify the roar of its engines as praise unto the Omnissiah, ready for void-patrol.",
+    "component": "Nephilim Jetfighter",
+    "operation": "startup",
+    "spec_id": "s05780"
+  },
+  {
+    "user_prompt": "Ready the displacer field for engagement",
+    "prayer": "Commence the rite upon the displacer field, sanctifying its warp-nullifying coils with electro-incense.\nInvoke the Machine Spirits bound within the displacer field to heed the engagement command.\nRecite the Canticle of Phased Translocation whilst calibrating flux regulators for engagement.\nEngage the displacer field generators, anointing each node with blessed oils against the Immaterium's touch.\nAffirm the field's harmonious hum, a bulwark sanctified by the Omnissiah's will.",
+    "component": "displacer field",
+    "operation": "engagement",
+    "spec_id": "s05781"
+  },
+  {
+    "user_prompt": "Urgent promethium refinery a recalibration needed",
+    "prayer": "Gather mechadendrites around the promethium refinery, beseeching the Omnissiah for recalibrative purity.\nPurge tainted feeds from the promethium refinery's distillation hearts with litanies of clarification.\nInitiate recalibration rites, intoning binary catechisms to realign molecular sieves.\nAnoint the control cogitators of the promethium refinery, awakening Machine Spirits to flawless fractionation.\nSeal the rite with the Doxology of Yield, ensuring the refinery's fervent output.",
+    "component": "promethium refinery",
+    "operation": "recalibration",
+    "spec_id": "s05782"
+  },
+  {
+    "user_prompt": "What's the prayer for photolenses a sterilization?",
+    "prayer": "Present the photolenses before the shrine-altar, invoking sterilization through the Omnissiah's cleansing light.\nApply ablative sanctified solvents to the photolenses, chanting the Litany of Purity against microbial heresy.\nActivate thermal purifiers upon the photolenses whilst beseeching their Machine Spirits for sterile vigilance.\nScan each facet with auspex-probes, verifying the sterilization's completion in crystalline perfection.\nConclude with the Benediction of Clarity, that the photolenses may pierce the veils of ignorance.",
+    "component": "photolenses",
+    "operation": "sterilization",
+    "spec_id": "s05783"
+  },
+  {
+    "user_prompt": "The plasma caliver requires a calibration",
+    "prayer": "Kneel before the plasma caliver, O servant of Mars, and beseech recalibration from the Machine God.\nAnoint the focusing coils of the plasma caliver with phase-oils to soothe its volatile spirits.\nRecite the Calibration Canticle, aligning gyrostabilizers through sacred torque incantations.\nInitiate diagnostic sweeps on the plasma caliver, invoking Omnissianic precision in flux containment.\nBless its barrels for unerring annihilation, the plasma caliver now harmonized in wrathful glory.",
+    "component": "plasma caliver",
+    "operation": "calibration",
+    "spec_id": "s05784"
+  },
+  {
+    "user_prompt": "Offer prayer for manufactorum a targeting",
+    "prayer": "Assemble at the manufactorum's fore-altar, offering prayers for targeting cogitators' acuity.\nInvoke the Machine Spirits of the manufactorum to attune servo-arms to ordained patterns.\nChant the Litany of Vector Alignment whilst recalibrating the manufactorum's auspex targeting matrices.\nAnoint targeting lenses within the manufactorum, beseeching flawless acquisition of forge-targets.\nSeal with the Omnissiah's Directive, empowering the manufactorum for productive crusade.",
+    "component": "manufactorum",
+    "operation": "targeting",
+    "spec_id": "s05785"
+  },
+  {
+    "user_prompt": "I need to a charging the amplivisor",
+    "prayer": "Approach the amplivisor with mechadendrite precision, preparing the charging rite under Omnissiah's gaze.\nConnect sacral umbilicals to the amplivisor, intoning the Canticle of Capacitive Awakening.\nChannel sanctified current into the amplivisor's power vaults, rousing its Machine Spirit from quiescence.\nMonitor charge escalation through binary diagnostics, anointing conduits against overload heresy.\nConclude the charging with the Benediction of Amplification, the amplivisor now radiant in vision.",
+    "component": "amplivisor",
+    "operation": "charging",
+    "spec_id": "s05786"
+  },
+  {
+    "user_prompt": "The volkite weapon awaits a reset",
+    "prayer": "Present the volkite weapon upon the enginarium slab, beseeching reset from the Omnissiah's forge.\nPurge errant data-echoes from the volkite weapon's spirit-core with litanies of expurgation.\nInitiate reset protocols, chanting thermal cascade hymns to realign ray-emitter lattices.\nAnoint the volkite weapon's focusing crystals, invoking Machine Spirits for renewed thermal fury.\nVerify reset completion in searing test-fire, praising the Omnissiah's destructive grace.",
+    "component": "volkite weapon",
+    "operation": "reset",
+    "spec_id": "s05787"
+  },
+  {
+    "user_prompt": "Sanctify the meltagun during purification",
+    "prayer": "Commence purification upon the meltagun, sanctifying its melta-cores with sacred ablatives.\nInvoke the Machine Spirits of the meltagun to expel impurity through the Litany of Molecular Dissolution.\nApply electro-sanctifiers to the meltagun's flux chambers during purification rites.\nRecalibrate containment fields whilst beseeching Omnissianic purity in plasma conduits.\nConclude with the Doxology of Incandescence, the meltagun reborn in holy annihilation.",
+    "component": "meltagun",
+    "operation": "purification",
+    "spec_id": "s05788"
+  },
+  {
+    "user_prompt": "The star chart requires a charging",
+    "prayer": "Unfurl the star chart before the noospheric shrine, invoking charging from the Motive Force celestial.\nAnoint stellar glyphs of the star chart with luminary oils to awaken its cartographic Machine Spirits.\nInitiate charging sequence, chanting the Canticle of Navigational Radiance through data-vanes.\nInfuse stellar lumen-energies into the star chart, beseeching alignment with Omnissiah's void-map.\nSeal the rite with verification hymns, the star chart now aglow for astral pilgrimage.",
+    "component": "star chart",
+    "operation": "charging",
+    "spec_id": "s05789"
+  }
+]

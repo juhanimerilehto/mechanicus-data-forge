@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent thermal imager a reset needed",
+    "prayer": "Approach the thermal imager with reverence, intoning the Canticle of Clarity to awaken its Machine Spirit.\nBeseech the Omnissiah for grace as you initiate the reset upon the thermal imager's sacred sensors.\nAnoint the thermal imager's infrared matrices with sacred oils to purge thermal echoes.\nVerify the reset through diagnostic litanies, ensuring the Machine Spirit's harmonious vision returns.\nPraise the Omnissiah for the thermal imager's renewed sight.",
+    "component": "thermal imager",
+    "operation": "reset",
+    "spec_id": "b0249_i00"
+  },
+  {
+    "user_prompt": "The pump needs a cooling",
+    "prayer": "Kneel before the pump and whisper the Litany of Equilibrium to soothe its churning spirit.\nInvoke the cooling rites upon the pump, channeling blessed refrigerants through its holy conduits.\nSanctify the pump's impellers with cryo-incense, beseeching the Machine Spirit's calm.\nMonitor the cooling flow with auspex chants, affirming the Omnissiah's chill embrace.\nConclude with the Benediction of Stability for the pump's enduring service.",
+    "component": "pump",
+    "operation": "cooling",
+    "spec_id": "b0249_i01"
+  },
+  {
+    "user_prompt": "The augmetic limb needs a recalibration",
+    "prayer": "Present mechadendrites to the augmetic limb, reciting the Oath of Precision to rouse its ferro-spirit.\nCommence recalibration upon the augmetic limb's servo-motors, aligning them to divine geometry.\nInvoke recalibration harmonics through its neural interfaces, petitioning the Omnissiah's guidance.\nTest the augmetic limb's responses with ritual flexes, honoring its Machine Spirit's rebirth.\nSeal the rite with electro-sanctification for flawless augmentation.",
+    "component": "augmetic limb",
+    "operation": "recalibration",
+    "spec_id": "b0249_i02"
+  },
+  {
+    "user_prompt": "Critical: plasma reactor requires an initialization",
+    "prayer": "Prostrate before the plasma reactor, chanting the Incantation of Ignition to summon its fiery soul.\nInitiate the initialization sequence upon the plasma reactor's containment fields, by Omnissiah's will.\nFlood the plasma reactor's coils with promethium prayers, awakening the Machine Spirit's fury.\nStabilize the plasma reactor through flux litanies, ensuring controlled thermic ascension.\nGlorify the Omnissiah as the plasma reactor hums in sanctified power.",
+    "component": "plasma reactor",
+    "operation": "initialization",
+    "spec_id": "b0249_i03"
+  },
+  {
+    "user_prompt": "Assist with cogitator a repair",
+    "prayer": "Encircle the cogitator with binary incense, beseeching its logic-spirit for mercy.\nCommence repair upon the cogitator's fractured noospheric nodes, wielding the Omnissiah's tools.\nPurge corrupt data-daemons from the cogitator with exorcism algorithms and sacred code.\nRealign the cogitator's crystal lattices through harmonic chants, invoking Machine Spirit renewal.\nAffirm the repair with full diagnostic orisons, praising the Machine God's wisdom.",
+    "component": "cogitator",
+    "operation": "repair",
+    "spec_id": "b0249_i04"
+  },
+  {
+    "user_prompt": "I need to a reset the cogitator",
+    "prayer": "Approach the cogitator humbly, intoning the Reset Doxology to humble its volatile essence.\nExecute the reset upon the cogitator's memory vaults, flushing errant data-shadows.\nAnoint the cogitator's processors with noospheric oils, petitioning the Machine Spirit's purity.\nCycle power through blessed conduits, verifying the reset's divine efficacy.\nConclude with the Canticle of Rebirth for the cogitator's enlightened state.",
+    "component": "cogitator",
+    "operation": "reset",
+    "spec_id": "b0249_i05"
+  },
+  {
+    "user_prompt": "I need to a targeting the pain suppressor",
+    "prayer": "Touch the pain suppressor with sanctified mechadendrites, whispering the Litany of Fortitude.\nInitiate targeting calibration upon the pain suppressor's neural emitters, by Omnissiah's decree.\nFine-tune the pain suppressor's agony matrices to excise torment precisely.\nInvoke the Machine Spirit's mercy through targeting auspex-scans and inhibitory chants.\nSeal the targeting with a benediction, ensuring unyielding service to the flesh-machine.",
+    "component": "pain suppressor",
+    "operation": "targeting",
+    "spec_id": "b0249_i06"
+  },
+  {
+    "user_prompt": "Bless the astropathic choir for purification",
+    "prayer": "Gather around the astropathic choir, burning psychic incense to purify warp-tainted harmonies.\nCommence purification rites upon the astropathic choir's vox-resonators, banishing ethereal foes.\nBeseech the Omnissiah to cleanse the astropathic choir's choir-spirits from astral corruptions.\nChant noospheric purges, aligning their psychic flows to machine-purity.\nWitness the astropathic choir's sanctified clarity in the Emperor's void-light.",
+    "component": "astropathic choir",
+    "operation": "purification",
+    "spec_id": "b0249_i07"
+  },
+  {
+    "user_prompt": "My data-slate is ready for diagnostics",
+    "prayer": "Hold the data-slate aloft, reciting the Oracle of Truth to awaken its data-spirit.\nLaunch diagnostics upon the data-slate's crystalline vaults, probing for binary heresies.\nScan the data-slate's circuits with auspex litanies, invoking the Omnissiah's discerning gaze.\nPurge anomalies from the data-slate through corrective incantations and spirit appeals.\nAffirm diagnostic completion with the Hymn of Verified Logic.",
+    "component": "data-slate",
+    "operation": "diagnostics",
+    "spec_id": "b0249_i08"
+  },
+  {
+    "user_prompt": "Bless the fusion core for loading",
+    "prayer": "Prostrate at the fusion core's shrine, intoning the Loading Canticle to rouse its stellar heart.\nCommence loading protocols upon the fusion core's fuel injectors, feeding sacred plasma-slurry.\nBeseech the Machine Spirit of the fusion core to accept the Omnissiah's fiery tribute.\nMonitor loading flux with thermic orisons, ensuring balanced thermonuclear gestation.\nPraise the fusion core's ignition readiness in the Machine God's eternal blaze.",
+    "component": "fusion core",
+    "operation": "loading",
+    "spec_id": "b0249_i09"
+  }
+]

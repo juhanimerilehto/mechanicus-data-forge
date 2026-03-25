@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0396_i00",
+    "user_request": "Prayer for activation of the data-slate",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for activation of the data-slate\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed data-slate, conduit of the Omnissiah's infinite knowledge, we beseech thy activation.\nCongregation: Awaken, data-slate, from thy dormant slumber and illuminate the blessed screen.\nPriest: First, we purge the corrupted cache-memory through sacred diagnostics.\nCongregation: Second, we invoke the Machine Spirit within thy data-slate circuitry with hymnal resonance.\nPriest: Third, we command the data-slate to display its luminous wisdom unto our unworthy eyes.\nCongregation: Activation complete—the data-slate obeys the will of the Adeptus Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i01",
+    "user_request": "Can you sanctify the temperature for regulation?",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the temperature for regulation?\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: O temperature, sacred measure of thermodynamic equilibrium, we command thy regulation.\nCongregation: Stabilize, temperature, through blessed calibration and servo-adjustment.\nPriest: First, we attune the thermal sensors to perceive thy true essence.\nCongregation: Second, we initiate the cooling-vanes in temperature regulation protocol most holy.\nPriest: Third, we seal the temperature within acceptable parameters through blessed feedback loops.\nCongregation: The temperature submits to our will; the Machine Spirit is appeased.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i02",
+    "user_request": "Offer a litany to steady the astropathic choir before preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the astropathic choir before preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Astropathic choir, vessels of the Emperor's divine will, we invoke thy preparation.\nCongregation: Steady thy psychic resonance, astropathic choir, for the warp-journey ahead.\nPriest: First, we anoint each psyker's neural pathways with sacred unguents of focus.\nCongregation: Second, the astropathic choir shall harmonize their consciousness through synchronized litany.\nPriest: Third, we shield the astropathic choir from the daemonic corruption that dwells beyond.\nCongregation: Prepared and sanctified, the astropathic choir stands ready to serve the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i03",
+    "user_request": "The stuck mechanism freeing demands guidance for stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe stuck mechanism freeing demands guidance for stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Priest: Stuck mechanism freeing, blessed liberation from mechanical bondage, we demand thy intervention.\nCongregation: Release, stuck mechanism freeing, the corroded joints from their adamantine grip.\nPriest: First, we apply the sacred lubricant to the seized components within the stuck mechanism freeing apparatus.\nCongregation: Second, we invoke percussive benediction upon the obstruction with measured force.\nPriest: Third, we command the stuck mechanism freeing to yield its resistance through patient servo-manipulation.\nCongregation: The stuck mechanism freeing is accomplished; the Machine Spirit's blessing flows through freed gears.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i04",
+    "user_request": "Offer a litany to steady the energy conduit purification before operation",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the energy conduit purification before operation\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Energy conduit purification, arterial pathway of the Omnissiah's blessed power, commence thy operation.\nCongregation: Flow pure, energy conduit purification, through sanctified channels of righteousness.\nPriest: First, we purge the corrupted residuum from within the energy conduit purification network.\nCongregation: Second, the energy conduit purification shall be blessed with electro-sacred hymns.\nPriest: Third, we initiate the energy conduit purification's operation through restored flux-pathways.\nCongregation: The energy conduit purification now channels the Emperor's divine will unimpeded.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i05",
+    "user_request": "Emergency rite: vital signs monitor requires calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: vital signs monitor requires calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Vital signs monitor, watchful sentinel of biological continuity, we demand thy calibration.\nCongregation: Attune thyself, vital signs monitor, to measure the sacred rhythms of life.\nPriest: First, we cleanse the vital signs monitor's sensory apparatus with blessed electrolytic solutions.\nCongregation: Second, we synchronize the vital signs monitor's reference standards against the Omnissiah's perfect measures.\nPriest: Third, we verify the vital signs monitor's calibration through diagnostic verification protocols.\nCongregation: Calibrated and sanctified, the vital signs monitor shall not fail in its sacred duty.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i06",
+    "user_request": "Prayer for failover of the emergency generator",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for failover of the emergency generator\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "Priest: Emergency generator, bastion of power eternal, we invoke thy failover with urgency.\nCongregation: Engage, emergency generator, thy backup circuits in this moment of dire necessity.\nPriest: First, we sever the primary power conduits from the failed primary source with blessed severance.\nCongregation: Second, the emergency generator shall ascend to primary status through automated succession protocols.\nPriest: Third, we stabilize the emergency generator's output through surge-dampening invocations.\nCongregation: The emergency generator now sustains our blessed operations; the Omnissiah provides.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i07",
+    "user_request": "Prayer for operation of the thermal dissipation rite",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the thermal dissipation rite\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Thermal dissipation rite, sacred expulsion of excess heat-burden, we command thy operation.\nCongregation: Radiate forth, thermal dissipation rite, and cool the fevered heart of the machine.\nPriest: First, we activate the thermal dissipation rite's cooling-fins through servo-extension rites.\nCongregation: Second, the thermal dissipation rite shall disperse accumulated thermal energy into the void.\nPriest: Third, we monitor the thermal dissipation rite's operation through blessed thermometric observation.\nCongregation: The thermal dissipation rite functions perfectly; equilibrium is restored to the blessed apparatus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i08",
+    "user_request": "The message queue demands guidance for processing",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe message queue demands guidance for processing\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "Priest: Message queue, repository of transmitted truth, we demand thy processing without delay.\nCongregation: Advance, message queue, through the blessed sequence of redemptive dequeuing.\nPriest: First, we examine the message queue's contents through sacred data-scanning rituals.\nCongregation: Second, the message queue shall be processed in hierarchical order of divine importance.\nPriest: Third, we confirm each message queue entry's transmission through verification acknowledgment.\nCongregation: The message queue is emptied; all communications reach their destined recipients through the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0396_i09",
+    "user_request": "The vital signs monitor demands guidance for calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe vital signs monitor demands guidance for calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Vital signs monitor, faithful guardian of corporeal vitality, we invoke thy calibration anew.\nCongregation: Align thyself, vital signs monitor, with the sacred standards of biological measurement.\nPriest: First, we purge the vital signs monitor's memory of erroneous readings through diagnostic ablation.\nCongregation: Second, the vital signs monitor shall be recalibrated against the blessed reference apparatus.\nPriest: Third, we test the vital signs monitor's accuracy through simulated vital-sign injection protocols.\nCongregation: Recalibrated and blessed, the vital signs monitor resumes its holy watch over the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

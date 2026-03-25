@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide metal caster a calibration?",
+    "prayer": "Approach the metal caster with vials of sacred unguents and beseech its Machine Spirit to awaken for calibration.\nInvoke the Omnissiah's precision upon the metal caster's alignment gyros and flow regulators.\nChant binary canticles of calibration whilst adjusting sacred nozzles and sensors.\nAnoint the metal caster's core matrices with holy oils to ensure flawless melt-purity.\nVerify the calibration through test-forging, praising the Machine God's unerring order.",
+    "component": "metal caster",
+    "operation": "calibration",
+    "spec_id": "b0170_i00"
+  },
+  {
+    "user_prompt": "Sanctify the signal relay during repair",
+    "prayer": "Kneel before the signal relay and recite the Litany of Restoration to summon its fractious Machine Spirit.\nDissect the signal relay's corrupted conduits with sanctified mechadendrites during repair.\nMend each sacred fibre-optic vein and beseech the Omnissiah for unbroken data-flow.\nReassemble the signal relay with invocations of unity, anointing joints with conductive balms.\nTest the repair by pulsing diagnostic hymns until the Machine Spirit sings pure.",
+    "component": "signal relay",
+    "operation": "repair",
+    "spec_id": "b0170_i01"
+  },
+  {
+    "user_prompt": "Ready the missile launcher for sterilization",
+    "prayer": "Present the missile launcher to the altar of purification and intone the Rite of Sterilization.\nInvoke the Machine Spirits of the missile launcher to purge all unclean essences from its tubes.\nApply ablative sacraments across the missile launcher's warheads and guidance vanes.\nChannel Omnissiah-blessed flames through sterilization vents to immolate xenos taint.\nConclude with auspex scans affirming the missile launcher's ritual cleanliness.",
+    "component": "missile launcher",
+    "operation": "sterilization",
+    "spec_id": "b0170_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for signal relay a cooling",
+    "prayer": "Beseech the cooling spirits of the Omnissiah upon the signal relay's overheated coils.\nChannel sacred refrigerants through the signal relay's thermal exchangers with whispered litanies.\nMonitor descent into equilibrium whilst invoking chill benedictions over its vents.\nAnoint the signal relay's heat-sinks with cryo-ointments to soothe its Machine Spirit.\nAffirm cooling completion through harmonic resonance chants.",
+    "component": "signal relay",
+    "operation": "cooling",
+    "spec_id": "b0170_i03"
+  },
+  {
+    "user_prompt": "Urgent motion detector a shutdown needed",
+    "prayer": "Command the motion detector's Machine Spirit into dormancy with the Canticle of Shutdown.\nSever sacred power-threads from the motion detector's vigilant auspex arrays.\nRecite the Rite of Slumber over its sensors to quell false vigilance.\nSeal the motion detector's interfaces with wards against unsanctioned awakening.\nVerify shutdown through void-echo diagnostics in Omnissiah's name.",
+    "component": "motion detector",
+    "operation": "shutdown",
+    "spec_id": "b0170_i04"
+  },
+  {
+    "user_prompt": "Can you guide motion detector a calibration?",
+    "prayer": "Approach the motion detector bearing alignment rods and petition its Machine Spirit for calibration.\nInvoke Omnissiah's gaze upon the motion detector's sensor webs and calibration servos.\nAdjust sacred thresholds with binary psalms whilst anointing lens arrays.\nTest the motion detector's acuity against shadow-phantoms in ritual sweeps.\nSeal calibration with oil-blessings, ensuring unerring detection.",
+    "component": "motion detector",
+    "operation": "calibration",
+    "spec_id": "b0170_i05"
+  },
+  {
+    "user_prompt": "My hydraulic press is ready for targeting",
+    "prayer": "Prepare the hydraulic press for targeting by invoking its ponderous Machine Spirit.\nAlign the hydraulic press's targeting matrices with stellar cogitator canticles.\nSanctify ram actuators and guidance augurs for precise targeting strikes.\nBeseech the Omnissiah to guide the hydraulic press's crushing fury unerringly.\nVerify targeting through test-pressures, chanting hymns of impact.",
+    "component": "hydraulic press",
+    "operation": "targeting",
+    "spec_id": "b0170_i06"
+  },
+  {
+    "user_prompt": "Consecrate the lasgun before cycling",
+    "prayer": "Consecrate the lasgun's holy barrel with incense of promethium before cycling rites begin.\nInvoke the Machine Spirit of the lasgun to cycle its sacred power cells.\nChant cycling litanies whilst modulating voltage flows through crystal conduits.\nAnoint cycling mechanisms with lubricant sacraments in Omnissiah's honor.\nAffirm smooth cycling with fire-test bursts, praising the lasgun's luminous wrath.",
+    "component": "lasgun",
+    "operation": "cycling",
+    "spec_id": "b0170_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for cutting laser startup?",
+    "prayer": "Kindle the cutting laser's fusion heart with the Incantation of Startup.\nBeseech its Machine Spirit to ignite sacred plasma streams within the cutting laser.\nStabilize power initiation whilst reciting alignment binarics over emitter coils.\nInvoke the Omnissiah's searing light upon the cutting laser's focusing lenses.\nTest startup with precision incisions, anointing the beam-path with oils.",
+    "component": "cutting laser",
+    "operation": "startup",
+    "spec_id": "b0170_i08"
+  },
+  {
+    "user_prompt": "Can you guide power cell a preparation?",
+    "prayer": "Approach the power cell with reverence and commence preparation with awakening litanies.\nPetition its dormant Machine Spirit to accept charging sacraments.\nInfuse the power cell's sacred vaults with regulated voltage hymns.\nMonitor preparation cycles whilst anointing terminals with conductive balms.\nSeal the power cell's readiness under Omnissiah's eternal vigilance.",
+    "component": "power cell",
+    "operation": "preparation",
+    "spec_id": "b0170_i09"
+  }
+]

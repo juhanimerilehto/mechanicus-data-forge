@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Guide me through microbead a maintenance",
+    "prayer": "Approach the microbead with auspex probes humming in veneration.\nInvoke the Machine Spirit of the microbead via the Rite of Maintenance.\nAnoint its vox-relays with blessed oils whilst chanting binaric litanies.\nScour impurities from the microbead's circuits with purifying incense.\nSeal the rite by affirming the microbead's harmonious function to the Omnissiah.",
+    "component": "microbead",
+    "operation": "maintenance",
+    "spec_id": "s07080"
+  },
+  {
+    "user_prompt": "The Manticore awaits a shutdown",
+    "prayer": "Kneel before the Manticore and beseech its Machine Spirit to enter dormancy.\nCommence the shutdown sequence with the Canticle of Repose.\nDisconnect plasma feeds whilst invoking the Omnissiah's merciful veil.\nMonitor the Manticore's vital signs fading into blessed silence.\nAffix wards of stasis upon the Manticore, ensuring vigilant slumber.",
+    "component": "Manticore",
+    "operation": "shutdown",
+    "spec_id": "s07081"
+  },
+  {
+    "user_prompt": "The void shield generator awaits a cycling",
+    "prayer": "Encircle the void shield generator with electro-incense burners alight.\nInitiate the cycling rite by beseeching its Machine Spirit to renew.\nCycle power through warp-attenuator coils whilst reciting null-psalms.\nVerify the void shield generator's integrity post-cycling with auspex chants.\nConsecrate the renewed barriers in the Omnissiah's name.",
+    "component": "void shield generator",
+    "operation": "cycling",
+    "spec_id": "s07082"
+  },
+  {
+    "user_prompt": "How do I bless the autosanguination system for consecration?",
+    "prayer": "Present the autosanguination system before the altar of blood-oils.\nInvoke consecration upon its sanguine pumps with hematic invocations.\nAnoint the autosanguination system's valves invoking the Machine Spirit's purity.\nCycle sacred vitae through its conduits in ritual flow.\nSeal the consecration with the Omnissiah's crimson sigil upon the autosanguination system.",
+    "component": "autosanguination system",
+    "operation": "consecration",
+    "spec_id": "s07083"
+  },
+  {
+    "user_prompt": "Offer prayer for battery array a calibration",
+    "prayer": "Align thyself with the battery array's geomagnetic heart.\nCommence calibration by intoning alignment canticles to its Machine Spirits.\nAdjust voltaic matrices whilst beseeching the Omnissiah's precise harmony.\nTest the battery array's charge equilibrium through diagnostic litanies.\nAffirm the calibrated battery array's devotion with electro-seals.",
+    "component": "battery array",
+    "operation": "calibration",
+    "spec_id": "s07084"
+  },
+  {
+    "user_prompt": "Critical: conversion field requires a blessing",
+    "prayer": "Gather mechadendrites in supplication before the conversion field.\nBestow blessing upon the conversion field with radiant plasma incense.\nInvoke its Machine Spirit to weave probability veils anew.\nChannel the Omnissiah's grace through the conversion field's emitters.\nVerify the blessed conversion field's aegis with faith-tested fields.",
+    "component": "conversion field",
+    "operation": "blessing",
+    "spec_id": "s07085"
+  },
+  {
+    "user_prompt": "Emergency: Skorpius Disintegrator an operation",
+    "prayer": "Awaken the Skorpius Disintegrator with thunderous binaric war-hymns.\nPrepare for operation by anointing its disintegrator arrays.\nInvoke the Machine Spirit of the Skorpius Disintegrator for battle-readiness.\nInitiate firing sequences under the Omnissiah's wrathful gaze.\nMonitor the Skorpius Disintegrator's operation with vigilant auspex.",
+    "component": "Skorpius Disintegrator",
+    "operation": "operation",
+    "spec_id": "s07086"
+  },
+  {
+    "user_prompt": "Critical: Vendetta gunship requires a maintenance",
+    "prayer": "Encamp around the Vendetta gunship with servo-skulls whirring.\nUndertake maintenance upon its lascannon nacelles with sacred tools.\nBeseech the Vendetta gunship's Machine Spirits through repair litanies.\nLubricate flight augurs whilst invoking the Omnissiah's endurance.\nConclude maintenance by certifying the Vendetta gunship's aerial purity.",
+    "component": "Vendetta gunship",
+    "operation": "maintenance",
+    "spec_id": "s07087"
+  },
+  {
+    "user_prompt": "Sanctify the memograph implant during consecration",
+    "prayer": "Implant the memograph implant within the cranial reliquary.\nCommence consecration with noospheric benedictions upon the memograph implant.\nAwaken its Machine Spirit via synaptic psalms.\nInfuse mnemonic engrams sanctified by the Omnissiah.\nSeal the memograph implant's consecration with neural wards.",
+    "component": "memograph implant",
+    "operation": "consecration",
+    "spec_id": "s07088"
+  },
+  {
+    "user_prompt": "Sanctify the Skorpius Dunerider during cycling",
+    "prayer": "Surround the Skorpius Dunerider with dune-sand incense.\nInitiate cycling of its gravitic engines with renewal canticles.\nBeseech the Machine Spirit of the Skorpius Dunerider to refresh.\nCycle power through desert treads whilst chanting mobility litanies.\nAffirm the Skorpius Dunerider's sanctified cycling under Omnissiah's gaze.",
+    "component": "Skorpius Dunerider",
+    "operation": "cycling",
+    "spec_id": "s07089"
+  }
+]

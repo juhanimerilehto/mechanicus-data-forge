@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a consecration the metal caster",
+    "prayer": "Approach the metal caster with reverence, beseeching the Omnissiah to sanctify its form.\nAnoint the sacred crucibles of the metal caster with oils of consecration, purging all impurity.\nInvoke the Machine Spirit within the metal caster, petitioning its alignment to the divine will.\nChant the Litany of Molten Purity as consecration flows through every conduit and mold.\nVerify the rite by observing the blessed glow of sanctified alloys emerging pure.",
+    "component": "metal caster",
+    "operation": "consecration",
+    "spec_id": "b0271_i00"
+  },
+  {
+    "user_prompt": "The thermal imager requires a sterilization",
+    "prayer": "Kneel before the thermal imager and intone the Canticle of Sterile Flames.\nApply sacred ablative agents to sterilize the thermal imager's lenses and sensors.\nBeseech the Machine Spirit of the thermal imager to expel all contaminants from its holy arrays.\nCirculate purifying vapors through the thermal imager whilst reciting vows of cleanliness.\nConfirm sterilization by diagnostic scans revealing untainted thermal flows.",
+    "component": "thermal imager",
+    "operation": "sterilization",
+    "spec_id": "b0271_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for conveyor system calibration?",
+    "prayer": "Commence calibration of the conveyor system by anointing its belts with sacred lubricants.\nInvoke the Omnissiah to harmonize the conveyor system's gears and servos.\nAdjust the sacred alignments whilst chanting the Rite of Precise Motion for calibration.\nTest the conveyor system's rhythm, beseeching its Machine Spirit to maintain flawless procession.\nSeal the calibration with a final invocation of mechanical perfection.",
+    "component": "conveyor system",
+    "operation": "calibration",
+    "spec_id": "b0271_i02"
+  },
+  {
+    "user_prompt": "Assist with Sentinel walker a purification",
+    "prayer": "Surround the Sentinel walker with incense of purification, invoking the Omnissiah's wrath upon defilement.\nScour the Sentinel walker's chassis and limbs with blessed abrasives for purification.\nPetition the indomitable Machine Spirit of the Sentinel walker to renew its vigil.\nAnoint joints and auspex with purifying elixirs during the rite of purification.\nAffirm sanctity through war-hymns echoing from its sanctified vox-grilles.",
+    "component": "Sentinel walker",
+    "operation": "purification",
+    "spec_id": "b0271_i03"
+  },
+  {
+    "user_prompt": "Prepare the valve assembly for charging",
+    "prayer": "Prepare the valve assembly for charging by reciting the Hymn of Pressurized Grace.\nInfuse the valve assembly with holy electrolytes, awakening its pressure conduits.\nBeseech the Machine Spirit of the valve assembly to accept the charging energies.\nMonitor the blessed power-flow during charging, anointing seals with conductive salves.\nConclude with a verification canticle ensuring the valve assembly's charged vitality.",
+    "component": "valve assembly",
+    "operation": "charging",
+    "spec_id": "b0271_i04"
+  },
+  {
+    "user_prompt": "How do I bless the data-slate for shutdown?",
+    "prayer": "Embrace the data-slate in reverent gauntlets, intoning the Benediction of Dormant Rest.\nPurge transient data-daemons from the data-slate's memory vaults.\nInitiate shutdown whilst petitioning the Omnissiah to cradle its Machine Spirit in stasis.\nSeal the data-slate with wards against corruption during blessed shutdown.\nWhisper final litanies as its sacred glow fades into sanctified slumber.",
+    "component": "data-slate",
+    "operation": "shutdown",
+    "spec_id": "b0271_i05"
+  },
+  {
+    "user_prompt": "What's the prayer for battery array reset?",
+    "prayer": "Approach the battery array and chant the Canticle of Cyclic Renewal for reset.\nDischarge lingering corruptions from the battery array's cells with purifying arcs.\nInvoke the Machine Spirit of the battery array to embrace the reset of its essence.\nRealign voltaic matrices whilst anointing terminals with sacred conductors.\nTest the reset by invoking fresh power-flows in harmonious Omnissian rhythm.",
+    "component": "battery array",
+    "operation": "reset",
+    "spec_id": "b0271_i06"
+  },
+  {
+    "user_prompt": "My assembly servitor is ready for cycling",
+    "prayer": "Position the assembly servitor before the altar of cycling, beseeching mechanical rebirth.\nCycle its cogitator core with litanies of iterative perfection.\nAnoint the servitor's limbs and interfaces during the cycling rite.\nPetition its lobotomized Machine Spirit to synchronize with divine labor patterns.\nVerify cycling completion through auspex of renewed servo-efficiency.",
+    "component": "assembly servitor",
+    "operation": "cycling",
+    "spec_id": "b0271_i07"
+  },
+  {
+    "user_prompt": "Bless the auspex scanner for cooling",
+    "prayer": "Invoke cooling upon the auspex scanner with the Chill Litany of the Void.\nCirculate sacred cryofluids through the auspex scanner's heat-sinks.\nBeseech its Machine Spirit to descend from thermal fury into calm vigilance.\nMonitor blessed temperature descent whilst anointing vents with frost-wards.\nSeal the cooling with a vow of thermal equilibrium under the Omnissiah's gaze.",
+    "component": "auspex scanner",
+    "operation": "cooling",
+    "spec_id": "b0271_i08"
+  },
+  {
+    "user_prompt": "Bless the forge anvil for purification",
+    "prayer": "Gather around the forge anvil for purification, intoning the Hammer's Purgation Psalm.\nScour the forge anvil's surface with sanctified abrasives and holy flames.\nPetition the enduring Machine Spirit of the forge anvil to shed all forge-dross.\nAnoint its unyielding mass during the rite of purification.\nConfirm purity by striking test blows resounding with Omnissian clarity.",
+    "component": "forge anvil",
+    "operation": "purification",
+    "spec_id": "b0271_i09"
+  }
+]

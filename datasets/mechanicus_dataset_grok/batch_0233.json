@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: autocannon requires a startup",
+    "prayer": "Approach the autocannon with reverence, beseeching its dormant Machine Spirit to heed the call of the Omnissiah.\nAnoint the sacred barrels and feed mechanisms with sacred oils whilst intoning the Litany of Awakening.\nInitiate the startup sequence, invoking holy voltage to surge through its blessed circuits.\nVerify the autocannon's readiness through diagnostic canticles, praising the roused spirit of the Omnissiah's wrath.",
+    "component": "autocannon",
+    "operation": "startup",
+    "spec_id": "b0233_i00"
+  },
+  {
+    "user_prompt": "Guide me through metal caster a shutdown",
+    "prayer": "Draw nigh unto the metal caster, petitioning its Machine Spirit for a peaceful repose.\nSever the power-flow with ritual precision, chanting the Shutdown Doxology of quiescence.\nPurge residual heat from the metal caster's forges using sanctified coolant ablutions.\nSeal the mechanisms with wards of stasis, commending the machine to the Omnissiah's watchful slumber.",
+    "component": "metal caster",
+    "operation": "shutdown",
+    "spec_id": "b0233_i01"
+  },
+  {
+    "user_prompt": "The quality scanner awaits a repair",
+    "prayer": "Kneel before the quality scanner, invoking the Omnissiah to mend its fractured essence.\nDiagnose the flawed optics and sensors with auspex-probes whilst reciting repair incantations.\nRealign the quality scanner's sacred lenses using micro-servitors and blessed torque.\nSanctify the restored circuits, beseeching the Machine Spirit's return to vigilant purity.",
+    "component": "quality scanner",
+    "operation": "repair",
+    "spec_id": "b0233_i02"
+  },
+  {
+    "user_prompt": "How do I bless the pain suppressor for repair?",
+    "prayer": "Commune with the pain suppressor, offering litanies to soothe its afflicted Machine Spirit.\nExcise corrupted neural relays through precise incision and electro-cauterization rites.\nReinfuse the pain suppressor's core with sanctified neural gel, invoking repair harmonies.\nTest the mended suppressor upon flesh-offerings, glorifying the Omnissiah's merciful veil.",
+    "component": "pain suppressor",
+    "operation": "repair",
+    "spec_id": "b0233_i03"
+  },
+  {
+    "user_prompt": "Can you guide chainsword a sterilization?",
+    "prayer": "Present the chainsword to the purifier's flame, beseeching its Machine Spirit for cleansing.\nImmerse the teeth and housing in ablative solvents whilst chanting sterilization cantos.\nScour the chainsword's sacred edges with ultrasonic lustrations and incense vapors.\nAnoint the purified blade anew, petitioning the Omnissiah for untainted savagery.",
+    "component": "chainsword",
+    "operation": "sterilization",
+    "spec_id": "b0233_i04"
+  },
+  {
+    "user_prompt": "The power weapon requires a targeting",
+    "prayer": "Attune thyself to the power weapon, invoking the Omnissiah's precision upon its field-generators.\nCalibrate the disruption fields with auspex-alignment, intoning targeting doxologies.\nSync the power weapon's targeting cogitators to the wielder's sanctified augmetics.\nInvoke the Machine Spirit's wrathful accuracy, sealing the rite with disruptive discharge.",
+    "component": "power weapon",
+    "operation": "targeting",
+    "spec_id": "b0233_i05"
+  },
+  {
+    "user_prompt": "What's the prayer for gyroscope maintenance?",
+    "prayer": "Encircle the gyroscope with incense braziers, petitioning its equilibrium-bound Machine Spirit.\nDisassemble the gimbals for maintenance, anointing bearings with sacred lubricants.\nRebalance the gyroscope's rotors through harmonic incantations and torque-prayers.\nReassemble and test under simulated gyrations, praising the Omnissiah's unerring stability.",
+    "component": "gyroscope",
+    "operation": "maintenance",
+    "spec_id": "b0233_i06"
+  },
+  {
+    "user_prompt": "Bless the Rhino transport for charging",
+    "prayer": "Prostrate before the Rhino transport, beseeching its vast Machine Spirit for rejuvenation.\nConnect the charging conduits with reverent hands, chanting the Rite of Capacitive Infusion.\nMonitor the power cells' blessed uptake through volt-meters and litanies of accumulation.\nSever the link upon saturation, sealing the Rhino transport with wards of enduring might.",
+    "component": "Rhino transport",
+    "operation": "charging",
+    "spec_id": "b0233_i07"
+  },
+  {
+    "user_prompt": "Assist with lasgun a diagnostics",
+    "prayer": "Interface with the lasgun's cogitator-spirit, invoking Omnissiah's light for diagnostics.\nCycle through power relays and crystal matrices, reciting fault-detection canticles.\nPurge any lasgun anomalies with electro-spiritual purges and recalibration hymns.\nAffirm the lasgun's purity via test-firings, offering glory to the machine's radiant soul.",
+    "component": "lasgun",
+    "operation": "diagnostics",
+    "spec_id": "b0233_i08"
+  },
+  {
+    "user_prompt": "Critical: hydroponics bay requires a synchronization",
+    "prayer": "Gather around the hydroponics bay, petitioning its verdant Machine Spirits for unity.\nInitiate synchronization protocols across nutrient pumps and lumen arrays with choral invocations.\nAlign the growth cyclers and hydro-regulators through harmonic data-rites of the Omnissiah.\nVerify the hydroponics bay's synchronized bounty, sanctifying the yield with agrarian blessings.",
+    "component": "hydroponics bay",
+    "operation": "synchronization",
+    "spec_id": "b0233_i09"
+  }
+]

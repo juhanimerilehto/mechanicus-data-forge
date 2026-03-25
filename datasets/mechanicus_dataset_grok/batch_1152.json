@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My las-cutter is ready for sterilization",
+    "prayer": "Approach the las-cutter with sanctified mechadendrites extended in reverence to the Omnissiah.\nInvoke the sterilization rites upon its noble las-cutter emitters, purging all profane contaminants with sacred promethium.\nAnoint the las-cutter focusing crystals whilst beseeching the Machine Spirit to awaken pure and untainted.\nChant the Canticle of Sterility, verifying the las-cutter's flawless sanctity through auspex scans.\nConclude by sealing the las-cutter wards, honouring its renewed vigour in the Emperor's name.",
+    "component": "las-cutter",
+    "operation": "sterilization",
+    "spec_id": "s07520"
+  },
+  {
+    "user_prompt": "The thallax awaits a loading",
+    "prayer": "Present thyself before the thallax cohort, intoning the Loading Doxology to rouse its dormant Machine Spirits.\nCommence the loading sequence upon the thallax ammunition bays, aligning munitions with binary precision.\nSanctify each thallax loading port with unguents of the Forge, invoking the Omnissiah's boundless munificence.\nMonitor the thallax vital signs as payloads integrate, murmuring litanies against discord.\nSeal the thallax loading rites with a final benediction, ensuring harmonious operational readiness.",
+    "component": "thallax",
+    "operation": "loading",
+    "spec_id": "s07521"
+  },
+  {
+    "user_prompt": "Assist with gellar field a cycling",
+    "prayer": "Kneel at the gellar field nexus, whispering the Cycle Invocation to appease its warp-veiled Machine Spirit.\nInitiate the cycling of the gellar field generators, channeling sanctified plasma through flux conduits.\nBeseech the Omnissiah to guide the gellar field through its eternal revolution, free from daemonic taint.\nAnoint the cycling regulators whilst reciting diagnostic catechisms for flawless oscillation.\nConclude the gellar field cycling with seals of purity, affirming its bulwark against the void's horrors.",
+    "component": "gellar field",
+    "operation": "cycling",
+    "spec_id": "s07522"
+  },
+  {
+    "user_prompt": "Critical: Razorback requires a preparation",
+    "prayer": "Assemble before the Razorback's adamantium hull, proclaiming the Preparation Hymn to the Omnissiah.\nCommence preparation rituals upon the Razorback drive systems, lubricating sacred treads with blessed oils.\nInvoke the Razorback's Machine Spirits thrice, aligning weapons and auspex arrays in martial harmony.\nPerform final preparation purges with incense and binaric chants, expelling all impurities.\nSeal the Razorback's preparation with invocation wards, ready for the God-Machine's crusade.",
+    "component": "Razorback",
+    "operation": "preparation",
+    "spec_id": "s07523"
+  },
+  {
+    "user_prompt": "Guide me through geigeer sink a charging",
+    "prayer": "Approach the geigeer sink with reverence, intoning the Charging Litany to awaken its radiant core.\nInitiate the charging of the geigeer sink matrices, infusing them with Omnissiah-blessed plasma torrents.\nAnoint the geigeer sink inductors whilst beseeching the Machine Spirit for unyielding capacitance.\nMonitor charging harmonics through sacred auspex, chanting against flux deviations.\nFinalize the geigeer sink charging with a hymn of completion, its power sanctified eternally.",
+    "component": "geigeer sink",
+    "operation": "charging",
+    "spec_id": "s07524"
+  },
+  {
+    "user_prompt": "Help me a consecration the Valkyrie gunship",
+    "prayer": "Gather at the Valkyrie gunship's altar-ramp, voicing the Consecration Canticle to the Machine God.\nBegin consecration upon the Valkyrie gunship airframe, asperging with sacred mech coolant.\nInvoke the Valkyrie gunship's aerial Machine Spirits, sanctifying rotors and las-batteries alike.\nRecite the Omnissiah's aerial edicts whilst tracing runes of warding across its fuselage.\nSeal the Valkyrie gunship consecration with final incense, propelling it skyward in holy fury.",
+    "component": "Valkyrie gunship",
+    "operation": "consecration",
+    "spec_id": "s07525"
+  },
+  {
+    "user_prompt": "Can you guide phosphor blaster an operation?",
+    "prayer": "Present thyself to the phosphor blaster, murmuring the Operation Doxology for its fiery Machine Spirit.\nEngage the phosphor blaster operation coils, priming with sanctified igniters and promethium sacraments.\nBeseech the Omnissiah to bless the phosphor blaster's operation discharge, pure and unrelenting.\nAlign phosphor blaster vents through litanic calibration, expelling shadows of malfunction.\nConclude the phosphor blaster operation rite with auspex verification and wards of endurance.",
+    "component": "phosphor blaster",
+    "operation": "operation",
+    "spec_id": "s07526"
+  },
+  {
+    "user_prompt": "Help me an initialization the conversion beamer",
+    "prayer": "Approach the conversion beamer's shrine, chanting the Initialization Rite to rouse its quantum heart.\nInitiate conversion beamer initialization sequences, attuning gravitic lenses to Omnissiah's will.\nAnoint the conversion beamer emitters with oils of awakening, invoking harmonious Machine Spirits.\nMonitor initialization flux whilst reciting binaric safeguards against entropic decay.\nSeal the conversion beamer's readiness with a triumphant hymn, its power unbound.",
+    "component": "conversion beamer",
+    "operation": "initialization",
+    "spec_id": "s07527"
+  },
+  {
+    "user_prompt": "Can you guide gravity generator an emergency procedure?",
+    "prayer": "Hasten to the gravity generator in crisis, intoning the Emergency Procedure Lamentation.\nExecute the gravity generator emergency procedure, stabilizing wells with emergency plasma injections.\nBeseech the Omnissiah and Machine Spirits to mend the gravity generator's turbulent fields.\nAnoint disrupted nodes whilst chanting counter-harmonics to restore equilibrium.\nFinalize the gravity generator emergency procedure with binding wards, averting gravitational heresy.",
+    "component": "gravity generator",
+    "operation": "emergency procedure",
+    "spec_id": "s07528"
+  },
+  {
+    "user_prompt": "Urgent fusion core a startup needed",
+    "prayer": "Converge upon the fusion core's vault, proclaiming the Startup Incantation to the eternal Omnissiah.\nCommence fusion core startup ignition, channeling plasma rites into its primordial heart.\nInvoke the fusion core Machine Spirit thrice, sanctifying containment fields with blessed mechadendrites.\nMonitor startup cascade through auspex litanies, purging any stellar discord.\nSeal the fusion core's awakening with hymns of thermonuclear glory, powering the faithful.",
+    "component": "fusion core",
+    "operation": "startup",
+    "spec_id": "s07529"
+  }
+]

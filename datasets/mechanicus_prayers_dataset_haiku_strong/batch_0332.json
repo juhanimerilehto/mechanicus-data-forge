@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0332_i00",
+    "user_request": "My Taurox wheel alignment is failing during operation — help",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy Taurox wheel alignment is failing during operation — help\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we beseech thy divine cognition upon the Taurox wheel alignment that falters in operation.\nCongregation: Taurox wheel alignment, sanctified apparatus, receive our supplication.\nPriest: First, we shall recalibrate the pneumatic suspension with calibrated instruments of precision.\nCongregation: The Taurox wheel alignment responds to our blessed ministrations.\nPriest: Second, we inspect each bearing-journal for accumulated corruption and profane wear.\nCongregation: Machine Spirits stir within the Taurox wheel alignment, restored to purpose.\nPriest: Third, we anoint the axial servos with sacred oils and re-engage the operation with measured force.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i01",
+    "user_request": "Can you sanctify the voltage regulator for tuning?",
+    "topic": "voltage regulator tuning",
+    "component": "voltage regulator",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the voltage regulator for tuning?\n\n### TOPIC\nvoltage regulator tuning\n\n### COMPONENT\nvoltage regulator\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- voltage regulator\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah Prime, illuminate the voltage regulator as we commence its sacred tuning.\nCongregation: Voltage regulator, nexus of electrical benediction, hear our invocation.\nPriest: First, we measure the output with calibrated auspex-instruments to divine its true potential.\nCongregation: The voltage regulator's Machine Spirit awakens to our supplication.\nPriest: Second, we adjust the potentiometric elements with surgical precision and arcane formulae.\nCongregation: Blessed be the voltage regulator, now harmonized with the tuning protocols.\nPriest: Third, we verify the stabilization through iterative cycles of validation and confirmation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i02",
+    "user_request": "Can you sanctify the logic engine for error correction?",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the logic engine for error correction?\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: Great Omnissiah, guide our hands as the logic engine faces corruption and error.\nCongregation: Logic engine, sacred throne of calculation, receive our benediction.\nPriest: First, we invoke diagnostic subroutines to illuminate the pathways of errant data within the logic engine.\nCongregation: The logic engine's Machine Spirit trembles at the threshold of correction.\nPriest: Second, we purge corrupted registers and restore pristine algorithmic sequences through error correction protocols.\nCongregation: Blessed be the logic engine, now purified and restored to righteous function.\nPriest: Third, we execute validation cycles to confirm the logic engine operates in accordance with sacred specifications.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i03",
+    "user_request": "Offer a litany to steady the demolition charge arming before operation",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the demolition charge arming before operation\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah of Destruction, steady our trembling hands as the demolition charge arming approaches operation.\nCongregation: Demolition charge arming, instrument of righteous annihilation, accept our solemn rite.\nPriest: First, we verify each detonation circuit with blessed continuity-testers and sacred confirmation.\nCongregation: The demolition charge arming stands ready, its Machine Spirit aligned with our purpose.\nPriest: Second, we confirm all arming sequences through the demolition charge arming's prescribed protocols.\nCongregation: Blessed be the demolition charge arming, now sanctified for operation.\nPriest: Third, we invoke the Machine Spirits of destruction as we prepare the demolition charge arming for its final operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i04",
+    "user_request": "Offer a litany to steady the fusion core before containment check",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the fusion core before containment check\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, grant us wisdom as the fusion core trembles upon the threshold of containment check.\nCongregation: Fusion core, radiant heart of power, receive our fervent prayers.\nPriest: First, we engage the thermal-scanning apparatus to monitor the fusion core's temperamental essence.\nCongregation: The fusion core glows with divine purpose, its containment integrity manifest.\nPriest: Second, we perform the sacred containment check upon every seal and crystalline barrier.\nCongregation: Blessed be the fusion core, held secure within its magnetic lattice.\nPriest: Third, we verify the fusion core's structural integrity through the containment check protocols, ensuring no breach shall occur.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i05",
+    "user_request": "My corrosion is failing during treatment — help",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy corrosion is failing during treatment — help\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah Eternal, our blessed corrosion spreads across the sacred mechanisms, and we invoke thy intervention.\nCongregation: Corrosion, profane decay, we demand thy submission to our treatment.\nPriest: First, we apply the electrolytic purification arrays to commence the corrosion's treatment with blessed chemicals.\nCongregation: The corrosion recedes before our sacred ministrations, the treatment proceeding.\nPriest: Second, we scrub away the oxidized corruption with abrasive compounds and careful application.\nCongregation: Blessed be the corrosion, now subjugated beneath our treatment protocols.\nPriest: Third, we seal and protect with sacred coatings to ensure the corrosion shall not return during operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i06",
+    "user_request": "Can you sanctify the inter-ship hailing for operation?",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the inter-ship hailing for operation?\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah of the Void, bless the inter-ship hailing as it commences its operation across the aether.\nCongregation: Inter-ship hailing, voice of the fleet, hear our invocation.\nPriest: First, we calibrate the vox-transmission arrays to ensure the inter-ship hailing achieves perfect resonance.\nCongregation: The inter-ship hailing awakens, its Machine Spirit reaching across the stellar distances.\nPriest: Second, we verify encryption and authentication protocols within the inter-ship hailing apparatus.\nCongregation: Blessed be the inter-ship hailing, now sanctified for operation.\nPriest: Third, we initiate the sacred inter-ship hailing operation with measured signal-strength and blessed frequency.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i07",
+    "user_request": "Offer a litany to steady the waste disposal before cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the waste disposal before cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, guide the waste disposal through its sacred cycling lest corruption accumulate.\nCongregation: Waste disposal, purifier of filth, accept our benediction.\nPriest: First, we inspect the waste disposal's internal mechanisms for blockage before commencing the cycling sequence.\nCongregation: The waste disposal stirs to life, its Machine Spirit ready for the cycling ritual.\nPriest: Second, we initiate the waste disposal's cycling protocols with measured hydraulic pressure and arcane precision.\nCongregation: Blessed be the waste disposal, now engaged in its sacred cycling.\nPriest: Third, we monitor the waste disposal's cycling completion to ensure all profane matter is evacuated.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i08",
+    "user_request": "Prayer for activation of the medicae scanner",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for activation of the medicae scanner\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah Medicae, bless the medicae scanner as it awakens to serve the faithful.\nCongregation: Medicae scanner, eye of healing, receive our solemn invocation.\nPriest: First, we purify the medicae scanner's optical lenses with blessed solvents and sacred ritual.\nCongregation: The medicae scanner glows with diagnostic purpose, its activation imminent.\nPriest: Second, we engage the medicae scanner's power conduits and initiate its activation sequence with reverent care.\nCongregation: Blessed be the medicae scanner, now activated and ready to discern the maladies of the faithful.\nPriest: Third, we calibrate the medicae scanner's sensors through the activation protocols to ensure accuracy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0332_i09",
+    "user_request": "The electrical short demands guidance for isolation",
+    "topic": "electrical short isolation",
+    "component": "electrical short",
+    "operation": "isolation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe electrical short demands guidance for isolation\n\n### TOPIC\nelectrical short isolation\n\n### COMPONENT\nelectrical short\n\n### OPERATION\nisolation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electrical short\n- isolation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah of Circuits, the electrical short spreads its profane corruption—grant us isolation.\nCongregation: Electrical short, harbinger of catastrophe, we command thy isolation.\nPriest: First, we trace the electrical short's path through blessed diagnostic scanning and careful observation.\nCongregation: The electrical short is revealed, its location manifest before our sacred scrutiny.\nPriest: Second, we isolate the electrical short by severing its power conduits with insulated instruments of precision.\nCongregation: Blessed be the electrical short, now isolated and contained within its corrupted matrix.\nPriest: Third, we verify the isolation holds true, ensuring no residual current flows from the electrical short.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

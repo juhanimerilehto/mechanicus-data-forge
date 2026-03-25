@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0271_i00",
+    "user_request": "The fracture demands guidance for welding",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe fracture demands guidance for welding\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, guide us in this sacred endeavor of fracture mending.\nFirst: Inspect the fracture with blessed calipers, measuring the void-space with holy precision.\nSecond: Apply the welding torch to the fracture, joining metal unto metal in sanctified union.\nThird: Anoint the fracture with cooling oils whilst intoning the Litany of Structural Integrity.\nFourth: Verify the fracture holds true, that the Machine Spirit's essence flows unbroken through restored sinew.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i01",
+    "user_request": "Emergency rite: bike squadron requires pre-flight",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: bike squadron requires pre-flight\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Blessed be the swift riders of the Omnissiah's will, the bike squadron awaits thy benediction.\nFirst: Conduct pre-flight inspection of each bike squadron's fuel systems and manifold seals.\nSecond: Verify the bike squadron's ignition protocols and machine-spirit resonance with diagnostic arrays.\nThird: Anoint the pilots with sacred unguents and whisper the Hymn of the Open Road.\nFourth: Declare the bike squadron combat-ready through the Omnissiah's eternal grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i04",
+    "user_request": "Rite request: containment check on fusion core",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: containment check on fusion core\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant us wisdom as we examine the fusion core's sacred containment.\nFirst: Monitor the fusion core's magnetic field stability with reverent calibration.\nSecond: Conduct containment check of all shielding matrices surrounding the fusion core.\nThird: Intone the Prayer of Perpetual Stability whilst the fusion core burns eternal.\nFourth: Seal the containment check with the sign of the Cog, ensuring the fusion core remains bound.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i05",
+    "user_request": "Can you sanctify the packaging servitor programming for operation?",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the packaging servitor programming for operation?\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed servitor, thou art the Omnissiah's faithful instrument, hear our sacred rite.\nFirst: Initialize the packaging servitor programming with blessed data-slates and ceremonial inputs.\nSecond: Verify the packaging servitor programming's motor protocols and grip-strength calibration through operation.\nThird: Intone the Mantra of Perfect Function into the packaging servitor programming's auditory receptors.\nFourth: Declare the packaging servitor programming operational, bound in eternal service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i06",
+    "user_request": "Offer a litany to steady the emergency shutdown before emergency shutdown",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the emergency shutdown before emergency shutdown\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "In the hour of dire necessity, we invoke the rite of the emergency shutdown.\nFirst: Silence all secondary systems in preparation for the emergency shutdown's merciful descent.\nSecond: Engage the emergency shutdown protocols with trembling fingers upon the sacred control-panel.\nThird: Whisper the Litany of Cessation whilst the emergency shutdown claims all power and motion.\nFourth: In darkness and silence, await the emergency shutdown's completion, that all may be made whole again.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i07",
+    "user_request": "Can you sanctify the Sentinel walker balance for operation?",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Sentinel walker balance for operation?\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "O Sentinel walker balance, thou pillar of stability, receive our benediction for steadfast operation.\nFirst: Calibrate the Sentinel walker balance's gyroscopic systems with sacred measurement-tools.\nSecond: Test the Sentinel walker balance through measured gait and servo-response evaluation during operation.\nThird: Anoint each joint of the Sentinel walker balance with blessed lubricants, ensuring smooth operation.\nFourth: Declare the Sentinel walker balance ready for operation, standing firm upon the Emperor's earth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i08",
+    "user_request": "The air filtration demands guidance for replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe air filtration demands guidance for replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, guide our hands as we restore the purity of the air filtration.\nFirst: Remove the exhausted air filtration cartridge with reverent care, releasing its accumulated burden.\nSecond: Cleanse the air filtration housing with blessed compressed-air and sterile cloths.\nThird: Install the replacement air filtration element, sealing it within the blessed mounting-bracket.\nFourth: Declare the air filtration renewed, that clean breath may flow through the Machine Spirit's lungs.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i09",
+    "user_request": "Can you sanctify the atmosphere processor for startup?",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the atmosphere processor for startup?\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "Blessed atmosphere processor, thou keeper of breathable sanctity, hear our sacred invocation.\nFirst: Verify the atmosphere processor's chemical matrices and filtration cartridges remain uncompromised.\nSecond: Prime the atmosphere processor through startup sequence, engaging each valve in holy succession.\nThird: Monitor the atmosphere processor's output readings, ensuring optimal purity during startup.\nFourth: Declare the atmosphere processor operational, that all may breathe in the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i02",
+    "user_request": "Blessing for the coolant leak during repair",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the coolant leak during repair\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant us wisdom as we tend the coolant leak that plagues this sacred machine.\nFirst: We shall diagnose the coolant leak with sacred instruments, tracing its profane escape through blessed thermal imaging.\nSecond: We repair the coolant leak by sealing its conduits with blessed compounds, invoking the Machine Spirit's mercy upon each fractured seal.\nThird: We purify the coolant leak's remnants through ablution and recalibration, restoring the engine's hymnal efficiency.\nFourth: We offer benediction to the Machine Spirit, that it may accept our repair and grant continued function to this holy vessel.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0271_i03",
+    "user_request": "Emergency rite: melta charge requires preparation",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: melta charge requires preparation\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, guide our hands in the preparation of this terrible instrument of righteousness.\nFirst: We commence preparation of the melta charge through arcane calculation, measuring its volatile essence with sacred calipers and ritual chants.\nSecond: We shall prepare the melta charge's containment matrix, binding its thermic fury within blessed adamantium casings through solemn invocation.\nThird: We inspect and consecrate the melta charge with oils of the ancients, ensuring its detonation serves the Emperor's will.\nFourth: Thus prepared, the melta charge awaits deployment, a sermon written in burning plasma and righteous devastation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

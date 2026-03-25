@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the gyroscope for loading?",
+    "prayer": "Kneel before the gyroscope and intone the Litany of Equilibrium to awaken its Machine Spirit.\nAnoint the gyroscope's sacred rotors with unguents of stability, preparing for the loading rite.\nInvoke the Omnissiah's grace upon the gyroscope as you commence the loading operation.\nVerify the gyroscope's harmonious spin through binary canticles of balance.\nSeal the rite with the cogwheel sign, beseeching enduring poise.",
+    "component": "gyroscope",
+    "operation": "loading",
+    "spec_id": "b0221_i00"
+  },
+  {
+    "user_prompt": "Ready the proximity sensor for blessing",
+    "prayer": "Present the proximity sensor upon the altar of vigilance to the Omnissiah.\nPurify its crystalline arrays with sacred incense, readying the proximity sensor for blessing.\nChant the Benediction of Detection over the proximity sensor, invoking its watchful Machine Spirit.\nAnoint the emitters with holy oils during the blessing, sanctifying far-seeing wards.\nAffirm the proximity sensor's attuned vigilance through ritual pings of confirmation.",
+    "component": "proximity sensor",
+    "operation": "blessing",
+    "spec_id": "b0221_i01"
+  },
+  {
+    "user_prompt": "My quality scanner is ready for calibration",
+    "prayer": "Position the quality scanner beneath the lens of the Omnissiah's unblinking eye.\nRecite calibration litanies to align the quality scanner's optic servos with divine precision.\nAdjust its sacred filters whilst petitioning the Machine Spirit of the quality scanner for clarity.\nInitiate calibration sequences amid hymns of flawlessness and imperfection's banishment.\nConclude with diagnostic auspex scans, praising the Omnissiah's flawless judgement.",
+    "component": "quality scanner",
+    "operation": "calibration",
+    "spec_id": "b0221_i02"
+  },
+  {
+    "user_prompt": "I need to a sterilization the Sentinel walker",
+    "prayer": "Encircling the Sentinel walker, asperge its chassis with ablative purifiers in the Omnissiah's name.\nInvoke sterilization rites upon the Sentinel walker's treads and servos, purging unclean essences.\nBeseech the Machine Spirit of the Sentinel walker to endure the sterilization flames unscathed.\nScour its sacred housings with plasma-torch litanies of cleanliness.\nSeal the Sentinel walker with wards against corruption, intoning final purges.",
+    "component": "Sentinel walker",
+    "operation": "sterilization",
+    "spec_id": "b0221_i03"
+  },
+  {
+    "user_prompt": "Consecrate the plasma reactor before startup",
+    "prayer": "Prostrate before the plasma reactor, chanting the Canticle of Contained Fury.\nConsecrate its core coils with sacred rad-shielding oils prior to startup.\nPetition the Omnissiah to rouse the plasma reactor's tempestuous Machine Spirit.\nInitiate the startup sequence through controlled fusion invocations and voltage hymns.\nMonitor the plasma reactor's blessed plasma-flow with reverent diagnostics.",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "spec_id": "b0221_i04"
+  },
+  {
+    "user_prompt": "The augmetic limb requires a synchronization",
+    "prayer": "Interface mechadendrites with the augmetic limb, reciting synchronization catechisms.\nInvoke unity between flesh and the augmetic limb's Machine Spirit under Omnissiah's decree.\nCommence synchronization protocols, aligning neural relays with sacred myomer bundles.\nAnoint servo-joints of the augmetic limb whilst beseeching harmonious integration.\nTest the augmetic limb's synchronized grace through ritual motions of obeisance.",
+    "component": "augmetic limb",
+    "operation": "synchronization",
+    "spec_id": "b0221_i05"
+  },
+  {
+    "user_prompt": "Consecrate the thermal regulator before loading",
+    "prayer": "Approach the thermal regulator with chilled chrism, honoring the Omnissiah's thermal balance.\nAnoint the thermal regulator's heat-sink vanes, consecrating for the loading rite.\nBeseech its Machine Spirit to embrace the loading operation without thermal heresy.\nInitiate loading amid litanies of cryogenic stability and flux control.\nVerify the thermal regulator's equilibrium via auspex hymns of temperature.",
+    "component": "thermal regulator",
+    "operation": "loading",
+    "spec_id": "b0221_i06"
+  },
+  {
+    "user_prompt": "Can you guide radar array a reset?",
+    "prayer": "Encircle the radar array, intoning reset canticles to the Omnissiah's far-seeing omniscience.\nPurge errant echoes from the radar array's waveguides with purifying data-exorcisms.\nPetition the Machine Spirit of the radar array during the reset sequence for renewed clarity.\nRealign its phased emitters through binary prayers of alignment.\nConclude reset with ping-tests, praising the radar array's vigilant return.",
+    "component": "radar array",
+    "operation": "reset",
+    "spec_id": "b0221_i07"
+  },
+  {
+    "user_prompt": "The memory core awaits a purification",
+    "prayer": "Place the memory core upon the noospheric altar, invoking Omnissiah's data-purity.\nRecite purification litanies to scour the memory core's crystalline vaults of corruption.\nBeseech the Machine Spirit within the memory core to accept the purification rite.\nFlush tainted engrams with sacred solvent incantations.\nSeal the memory core's sanctity through verification runes of recall.",
+    "component": "memory core",
+    "operation": "purification",
+    "spec_id": "b0221_i08"
+  },
+  {
+    "user_prompt": "Guide me through Thunderhawk a charging",
+    "prayer": "Kneel amid the Thunderhawk's bays, chanting charging hymns to the Omnissiah's thunder.\nAnoint the Thunderhawk's power capacitors with conductive oils for the charging rite.\nInvoke its colossal Machine Spirit to hunger for the charging surge.\nCommence charging sequences via plasma-feeder litanies and auspex monitors.\nAffirm the Thunderhawk's engorged might with final invocation of aerial dominion.",
+    "component": "Thunderhawk",
+    "operation": "charging",
+    "spec_id": "b0221_i09"
+  }
+]

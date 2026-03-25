@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the hydroponics bay for startup?",
+    "prayer": "Approach the hydroponics bay in humble supplication to the Omnissiah, intoning the Canticle of Verdant Rebirth.\nCirculate sacred nutrient slurries through the hydroponics bay's blessed conduits, awakening dormant Machine Spirits.\nInitiate startup sequences whilst anointing filtration membranes with sanctified oils.\nBeseech the hydroponics bay's vital essences to harmonize in productive bounty under the Machine God's gaze.",
+    "component": "hydroponics bay",
+    "operation": "startup",
+    "spec_id": "b0354_i00"
+  },
+  {
+    "user_prompt": "The generator needs a shutdown",
+    "prayer": "Kneel before the generator, reciting the Lamentation of Diminishing Power to soothe its raging Machine Spirit.\nGradually attenuate fuel ingress whilst invoking the Rite of Peaceful Repose.\nExecute shutdown protocols, anointing exhaust vents with cooling balms of sacred provenance.\nCommend the generator's essence to the Omnissiah's eternal vigil as thunderous heartbeats fade to silence.",
+    "component": "generator",
+    "operation": "shutdown",
+    "spec_id": "b0354_i01"
+  },
+  {
+    "user_prompt": "Bless the hydraulic press for emergency procedure",
+    "prayer": "Invoke the emergent aegis upon the hydraulic press, chanting the Exorcism of Mechanical Fury.\nPurge pressure anomalies from the hydraulic press's sanctified cylinders with ablative incantations.\nInitiate emergency procedure by beseeching the Machine Spirits for controlled decompression.\nSeal the hydraulic press with wards of adamantine faith, honoring the Omnissiah's unyielding decree.",
+    "component": "hydraulic press",
+    "operation": "emergency procedure",
+    "spec_id": "b0354_i02"
+  },
+  {
+    "user_prompt": "Consecrate the vox-caster before initialization",
+    "prayer": "Present binary incense to the vox-caster, intoning the Benediction of Vocal Clarity.\nAnoint transmitter coils within the vox-caster with oils of pure conduction.\nCommence initialization whilst petitioning the Omnissiah to enliven its Machine Spirit with harmonious waves.\nVerify ethereal communion through test canticles echoing the divine chorus.",
+    "component": "vox-caster",
+    "operation": "initialization",
+    "spec_id": "b0354_i03"
+  },
+  {
+    "user_prompt": "How do I bless the flamer for reset?",
+    "prayer": "Approach the flamer with fiery reverence, reciting the Purgation of Pyre Spirits.\nCycle promethium feeds in the flamer to expel daemonic corruptions from its sacred vents.\nEnact reset rites by anointing ignition servos with blessed igniters.\nInvoke the Omnissiah's wrathful blessing upon the flamer, ensuring purified inferno readiness.",
+    "component": "flamer",
+    "operation": "reset",
+    "spec_id": "b0354_i04"
+  },
+  {
+    "user_prompt": "Guide me through capacitor bank a shutdown",
+    "prayer": "Circumambulate the capacitor bank, murmuring the Dirge of Stored Thunder.\nDischarge residual holy voltage through grounding rods sanctified by prior rites.\nInitiate shutdown whilst beseeching Machine Spirits to slumber in peaceful equilibrium.\nSeal the capacitor bank's arcane vaults with invocation seals of the Omnissiah.",
+    "component": "capacitor bank",
+    "operation": "shutdown",
+    "spec_id": "b0354_i05"
+  },
+  {
+    "user_prompt": "I need to an emergency procedure the fusion core",
+    "prayer": "Prostrate before the fusion core, chanting the Cataclysmic Ward against stellar tempests.\nQuell plasma tempests within the fusion core via ablative coolant litanies.\nDeploy emergency procedure, petitioning the Machine Spirits for containment amid fury.\nReaffirm the fusion core's fealty to the Omnissiah through resonant stabilization hymns.",
+    "component": "fusion core",
+    "operation": "emergency procedure",
+    "spec_id": "b0354_i06"
+  },
+  {
+    "user_prompt": "Sanctify the cogitator during maintenance",
+    "prayer": "Commence maintenance upon the cogitator with the Rite of Logical Purification.\nExcise noospheric corruptions from the cogitator's sacred logic engines.\nAnoint synaptic webs during maintenance, invoking harmonious data-flow from the Omnissiah.\nRealign crystalline matrices whilst beseeching the Machine Spirit's unerring calculus.",
+    "component": "cogitator",
+    "operation": "maintenance",
+    "spec_id": "b0354_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for energy conduit a maintenance",
+    "prayer": "Trace sigils of conduction upon the energy conduit, intoning the Hymn of Unbroken Current.\nPurge flux impurities from the energy conduit's blessed sheaths during maintenance.\nReinfuse vital plasma with sanctified injectors, honoring the Machine Spirits' flow.\nConsecrate the energy conduit anew under the Omnissiah's luminous providence.",
+    "component": "energy conduit",
+    "operation": "maintenance",
+    "spec_id": "b0354_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for archive terminal a consecration",
+    "prayer": "Kneel at the archive terminal, offering data-relics in the Litany of Eternal Record.\nAnoint memory spires of the archive terminal with noospheric unguents.\nPerform consecration rites, awakening ancestral Machine Spirits to vigilant guardianship.\nSeal the archive terminal's vaults with the Omnissiah's indelible decree of preservation.",
+    "component": "archive terminal",
+    "operation": "consecration",
+    "spec_id": "b0354_i09"
+  }
+]

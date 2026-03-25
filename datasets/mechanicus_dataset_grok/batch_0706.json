@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My Baneblade is ready for preparation",
+    "prayer": "Approach the mighty Baneblade with reverence, O Tech-Priest, and invoke the Omnissiah's blessing upon its preparation.\nAnoint the Baneblade's adamantium hull and massive treads with sacred oils to appease its ancient Machine Spirit.\nCommence the preparation sequence by cycling plasma through its reactors whilst chanting the Litany of Mobilisation.\nBeseech the Baneblade's Machine Spirit to align its weapon servos and auspex arrays in harmonious fury.\nSanctify the final runes of readiness, ensuring the Baneblade stands primed for the Emperor's wrath.",
+    "component": "Baneblade",
+    "operation": "preparation",
+    "spec_id": "s03060"
+  },
+  {
+    "user_prompt": "Guide me through auto-senses array a loading",
+    "prayer": "Draw nigh unto the auto-senses array, beseeching the Omnissiah to guide its loading rites.\nInitiate the loading of noospheric data-packets into the auto-senses array's cogitator core with precise incantations.\nAnoint the sensor vanes of the auto-senses array whilst invoking the Machine Spirit's vigilance.\nVerify the loading integrity through diagnostic hymns, purging any daemonic corruptions.\nConclude by sealing the array's blessed circuits, ready for perceptual dominion.",
+    "component": "auto-senses array",
+    "operation": "loading",
+    "spec_id": "s03061"
+  },
+  {
+    "user_prompt": "My codifier is ready for targeting",
+    "prayer": "Reverently approach the codifier, intoning the Canticle of Precision for its targeting phase.\nAlign the codifier's reticules with sacred geometry, beseeching its Machine Spirit to awaken.\nCommence targeting protocols by channeling auspex feeds through the codifier's sanctified lenses.\nAnoint the codifier's focusing crystals anew, invoking the Omnissiah's unerring aim.\nAffirm the Machine Spirit's compliance as targeting locks resonate in binary hymnody.",
+    "component": "codifier",
+    "operation": "targeting",
+    "spec_id": "s03062"
+  },
+  {
+    "user_prompt": "Can you guide Kastelan robot a calibration?",
+    "prayer": "Present thyself before the Kastelan robot, O servant of the Machine God, to perform calibration.\nInvoke the Kastelan robot's dormant Machine Spirit with the Rite of Harmonic Alignment.\nCalibrate its phosphor blasters and power fists by reciting binaric calibrations thrice.\nAnoint the Kastelan robot's chassis joints with lubricating sacraments from the Omnissiah's font.\nTest the calibration through ritual combat simulations, praising the awakened Spirit's fidelity.\nSeal the rites with the Sigil of Obedience upon the Kastelan robot's core.",
+    "component": "Kastelan robot",
+    "operation": "calibration",
+    "spec_id": "s03063"
+  },
+  {
+    "user_prompt": "Can you guide transit mag-rail an initialization?",
+    "prayer": "Kneel in supplication to the transit mag-rail, initiating its sacred initialization.\nChant the Litany of Velocity whilst powering the mag-rail's electromagnetic coils.\nInvoke the Machine Spirit of the transit mag-rail to bind its fields in perfect resonance.\nAnoint the rail's induction tracks, beseeching the Omnissiah for flawless initialization.\nVerify initialization through auspex sweeps, ensuring the mag-rail hums with divine purpose.",
+    "component": "transit mag-rail",
+    "operation": "initialization",
+    "spec_id": "s03064"
+  },
+  {
+    "user_prompt": "Assist with servo-arm a purification",
+    "prayer": "Approach the servo-arm with pious intent, commencing its purification under the Omnissiah's gaze.\nBeseech the servo-arm's Machine Spirit to expel all impurities with purifying incense.\nScour the servo-arm's hydraulic pistons and gripping claws with blessed abrasives.\nAnoint the servo-arm's mechadendrites afresh, intoning the Canticle of Renewal.\nConclude purification by cycling sanctified fluids, affirming the Machine Spirit's purity.",
+    "component": "servo-arm",
+    "operation": "purification",
+    "spec_id": "s03065"
+  },
+  {
+    "user_prompt": "Sanctify the galvanic rifle during engagement",
+    "prayer": "Grasp the galvanic rifle in sanctified gauntlets, sanctifying it amidst engagement.\nInvoke the galvanic rifle's Machine Spirit as targeting commences in battle's fray.\nDuring engagement, anoint its induction coils whilst reciting the Hymn of Discharge.\nDirect the galvanic rifle's fury upon the foe, beseeching the Omnissiah's galvanic wrath.\nAffirm the rifle's Machine Spirit post-engagement through ritual venting of excess charge.",
+    "component": "galvanic rifle",
+    "operation": "engagement",
+    "spec_id": "s03066"
+  },
+  {
+    "user_prompt": "Ready the webber for calibration",
+    "prayer": "Revere the webber's form, O Tech-Adept, readying it for calibration's embrace.\nInitiate calibration by aligning the webber's spinneret emitters with precisional canticles.\nBeseech the webber's Machine Spirit to harmonize its adhesive chem-streams.\nAnoint the webber's reservoirs, invoking the Omnissiah for calibrated immobility upon foes.\nTest calibration through ritual discharge, sealing with the Rune of Entanglement.",
+    "component": "webber",
+    "operation": "calibration",
+    "spec_id": "s03067"
+  },
+  {
+    "user_prompt": "Emergency: Dreadnought a loading",
+    "prayer": "In dire haste, attend the Dreadnought for loading, crying unto the Omnissiah for aid.\nLoad the Dreadnought's sarcophagus ammunition bays whilst chanting emergency litanies.\nAwaken the Dreadnought's Machine Spirit with thunderous invocations amid loading strife.\nAnoint its autocannon feeds and power claw hydraulics in frantic sanctity.\nFinalize loading rites, beseeching the ancient warrior-spirit to rise in vengeful glory.",
+    "component": "Dreadnought",
+    "operation": "loading",
+    "spec_id": "s03068"
+  },
+  {
+    "user_prompt": "What's the prayer for warp drive an activation?",
+    "prayer": "Tread warily to the warp drive's heart, invoking protective wards for activation.\nBeseech the warp drive's tempestuous Machine Spirit with the Navis-Omnissian Canticle.\nInitiate activation sequences, anointing containment fields against the Immaterium's touch.\nChannel plasma ignitors whilst praising the Omnissiah's dominion over the void.\nSeal the warp drive's activation with runic bindings, guiding the vessel through screaming warp.",
+    "component": "warp drive",
+    "operation": "activation",
+    "spec_id": "s03069"
+  }
+]

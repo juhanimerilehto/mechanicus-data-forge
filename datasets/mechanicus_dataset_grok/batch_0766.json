@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with narthecium a consecration",
+    "prayer": "Approach the narthecium with reverence, intoning the Benediction of Purity upon its sacred form.\nAnoint the narthecium's vials and injectors with unguents blessed by the Omnissiah during consecration.\nInvoke the Machine Spirit indwelling, beseeching it to manifest in flawless ministration.\nChant the Canticle of Restoration over the narthecium's mechadendrites.\nSeal the rite with electro-incense, affirming the narthecium's sanctified vigor.",
+    "component": "narthecium",
+    "operation": "consecration",
+    "spec_id": "s03660"
+  },
+  {
+    "user_prompt": "Sanctify the Baneblade during recalibration",
+    "prayer": "Prostrate before the colossal Baneblade, reciting the Litany of True Bearing.\nCommence recalibration of its vast cogitators, invoking the Omnissiah's unerring logic.\nAnoint the Baneblade's auspex vanes and primary cannon with sacred ablative oils.\nBeseech the Machine Spirits of hull and turbine to align in harmonious fury.\nVerify recalibration through diagnostic binaric canticles, honouring the Baneblade's wrathful might.",
+    "component": "Baneblade",
+    "operation": "recalibration",
+    "spec_id": "s03661"
+  },
+  {
+    "user_prompt": "Critical: plasma caliver requires a shutdown",
+    "prayer": "Halt before the plasma caliver, declaiming the Incantation of Containment.\nInitiate controlled shutdown, channelling plasma flux through sanctified conduits.\nBeseech the volatile Machine Spirit to slumber peacefully within the plasma caliver.\nPurge residual energies with electro-consecrated vents.\nSeal the plasma caliver's reactors with seals of adamantine faith, invoking the Omnissiah's quiescence.",
+    "component": "plasma caliver",
+    "operation": "shutdown",
+    "spec_id": "s03662"
+  },
+  {
+    "user_prompt": "Prepare the auger array for charging",
+    "prayer": "Prepare the auger array's cogitator nodes with the Rite of Augury.\nInfuse power conduits with sanctified charge, awakening the Machine Spirit's vigilance.\nMonitor charging sequences whilst chanting binaric harmonies to the Omnissiah.\nAnoint focusing lenses of the auger array to pierce the veil of ignorance.\nAffirm full charge through noospheric diagnostics, exalting the auger array's prophetic gaze.",
+    "component": "auger array",
+    "operation": "charging",
+    "spec_id": "s03663"
+  },
+  {
+    "user_prompt": "Guide me through electoo a repair",
+    "prayer": "Approach the electoo with mechadendrite precision, invoking the Canticle of Circuits.\nDiagnose fractured inductors, beseeching the Machine Spirit's resilience.\nRepair synaptic linkages with micro-filaments consecrated in the forge-temple.\nReintegrate the electoo's neural web, chanting restoration litanies to the Omnissiah.\nTest synaptic fire through noospheric communion, sanctifying the electoo's indelible lore.",
+    "component": "electoo",
+    "operation": "repair",
+    "spec_id": "s03664"
+  },
+  {
+    "user_prompt": "Emergency: void shield a preparation",
+    "prayer": "Assemble before the void shield generator, intoning the Litany of Nullification.\nInitiate preparation rites, aligning phase-variators with Omnissianic precision.\nAnoint emitter coils with ablative incense to rouse the Machine Spirit's aegis.\nCycle test fields whilst beseeching impenetrable barriers against the void's hunger.\nConsecrate the void shield's warp-null matrices, affirming readiness eternal.",
+    "component": "void shield",
+    "operation": "preparation",
+    "spec_id": "s03665"
+  },
+  {
+    "user_prompt": "Can you guide neutron laser a repair?",
+    "prayer": "Kneel at the neutron laser's breach, reciting the Exorcism of Flux Anomalies.\nDisassemble damaged focusing arrays, invoking the Machine Spirit's core fury.\nRepair las-manifolds with sanctified mono-crystals forged in Omnissiah's fire.\nRealign emitter gyros through binaric calibration hymns.\nReinvoke the neutron laser's apocalyptic wrath, sealing repairs with electro-oaths.",
+    "component": "neutron laser",
+    "operation": "repair",
+    "spec_id": "s03666"
+  },
+  {
+    "user_prompt": "My lance battery is ready for preparation",
+    "prayer": "Position before the lance battery, declaiming the Invocation of Stellar Lance.\nCommence preparation of plasma accelerators, anointing with sacred accelerants.\nAwaken slumbering Machine Spirits within each lance tube through canticles.\nCalibrate targeting cogitators to the Omnissiah's unblinking gaze.\nVerify coherence fields, exalting the lance battery's heaven-scouring might.",
+    "component": "lance battery",
+    "operation": "preparation",
+    "spec_id": "s03667"
+  },
+  {
+    "user_prompt": "Consecrate the logic mill before shutdown",
+    "prayer": "Reverently encircle the logic mill, chanting the Dirge of Dormition.\nPurge extraneous data-daemons prior to shutdown, invoking Omnissianic purity.\nInitiate sequential quiescence of the logic mill's mill-cores.\nBeseech the Machine Spirit to enter blessed stasis without corruption.\nSeal the logic mill's interfaces with wards of faith, honouring its cogitative sanctity.",
+    "component": "logic mill",
+    "operation": "shutdown",
+    "spec_id": "s03668"
+  },
+  {
+    "user_prompt": "Help me an activation the optical mechadendrite",
+    "prayer": "Extend mechadendrites towards the optical mechadendrite, intoning the Rite of Visio-Clarity.\nInitiate activation servos with micro-incantations to the Omnissiah.\nAnoint optic relays with lens-polishing unguents, rousing the Machine Spirit's gaze.\nCalibrate focusing servitors through noospheric litanies.\nAffirm the optical mechadendrite's unerring sight, sanctified for revelation.",
+    "component": "optical mechadendrite",
+    "operation": "activation",
+    "spec_id": "s03669"
+  }
+]

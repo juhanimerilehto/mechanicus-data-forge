@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The gyroscope requires a calibration",
+    "prayer": "Approach the gyroscope with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Machine Spirit of the gyroscope through the Litany of Axial Truth.\nInitiate the sacred calibration, aligning its whirling gyres to unerring equilibrium.\nAnoint the gyroscope's sacred bearings with sanctified oils of precision.\nVerify harmonious rotation, beseeching the gyroscope's spirit to heed the calibration's call.",
+    "component": "gyroscope",
+    "operation": "calibration",
+    "spec_id": "b0380_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for quality scanner a shutdown",
+    "prayer": "Gather before the quality scanner, intoning the Benediction of Ceaseless Vigil.\nPetition its Machine Spirit to release from duty with grace.\nCommence the shutdown sequence, dimming its holy scanning arrays.\nSeal the quality scanner's ports with wards against data-haunts.\nChant the Rite of Repose, ensuring the quality scanner slumbers in Omnissiah's peace.",
+    "component": "quality scanner",
+    "operation": "shutdown",
+    "spec_id": "b0380_i01"
+  },
+  {
+    "user_prompt": "The atmosphere processor needs a charging",
+    "prayer": "Kneel at the atmosphere processor, offering electro-incense to its vents.\nBeseech the Machine Spirit dwelling within the atmosphere processor to accept renewal.\nEngage the charging ritual, channeling blessed power-flow through its capacitative hearts.\nMonitor the rising voltage, sanctifying each surge with binaric prayer.\nProclaim the atmosphere processor invigorated by the Omnissiah's electric grace.",
+    "component": "atmosphere processor",
+    "operation": "charging",
+    "spec_id": "b0380_i02"
+  },
+  {
+    "user_prompt": "I need to an operation the Chimera APC",
+    "prayer": "Present yourself to the Chimera APC, reciting the Canticle of Armoured Fury.\nAwaken the Machine Spirit of the Chimera APC with oils of activation.\nInitiate full operation, invoking throttled engines and sanctified treads.\nAlign auspex and vox systems in harmonious operation under Omnissiah's gaze.\nCommend the Chimera APC to battle, its spirit eager for the Emperor's work.",
+    "component": "Chimera APC",
+    "operation": "operation",
+    "spec_id": "b0380_i03"
+  },
+  {
+    "user_prompt": "Guide me through hydroponics bay an emergency procedure",
+    "prayer": "Rush to the hydroponics bay, mechadendrites lashing in urgent rite.\nInvoke emergency procedure upon its nutrient circuits and lumen arrays.\nPurge tainted hydro-solutions while beseeching the bay's Machine Spirits.\nStabilise pressure seals and invoke the Omnissiah's purifying gale.\nSeal the hydroponics bay restored, its verdant mechanisms pacified.",
+    "component": "hydroponics bay",
+    "operation": "emergency procedure",
+    "spec_id": "b0380_i04"
+  },
+  {
+    "user_prompt": "Emergency: star chart a calibration",
+    "prayer": "In haste, attend the star chart, chanting the Exorcism of Stellar Drift.\nPetition its astral Machine Spirit for urgent recalibration.\nAlign the star chart's hololithic projectors to true celestial vectors.\nAnoint gyro-stabilisers with sacred chrism amid the calibration rite.\nAffirm the star chart's guidance, praising the Omnissiah's cosmic order.",
+    "component": "star chart",
+    "operation": "calibration",
+    "spec_id": "b0380_i05"
+  },
+  {
+    "user_prompt": "My Thunderhawk is ready for initialization",
+    "prayer": "Stand resolute before the Thunderhawk, intoning the Invocation of Aerial Dominion.\nCommence initialization, awakening its plasma heart with binaric hymns.\nSanctify the Thunderhawk's auspex and vox with blessed unguents.\nCycle rune-engines to life, beseeching its Machine Spirit's thunderous zeal.\nProclaim the Thunderhawk primed for the Omnissiah's skies.",
+    "component": "Thunderhawk",
+    "operation": "initialization",
+    "spec_id": "b0380_i06"
+  },
+  {
+    "user_prompt": "Sanctify the vox transmitter during emergency procedure",
+    "prayer": "Converge upon the vox transmitter in ritual haste, electro-psalms at ready.\nEnact the emergency procedure, shielding its sacred waveforms.\nBeseech the Machine Spirit of the vox transmitter to pierce the ether's veil.\nReinforce crystal lattices with wards of faith during the dire rite.\nHerald the vox transmitter sanctified, its voice unbound by Omnissiah's will.",
+    "component": "vox transmitter",
+    "operation": "emergency procedure",
+    "spec_id": "b0380_i07"
+  },
+  {
+    "user_prompt": "Emergency: bearing a repair",
+    "prayer": "Descend upon the bearing in exigency, tools as thuribles of repair.\nChant the Litany of Friction's Bane to rouse its weary Machine Spirit.\nDisassemble and anoint the bearing's sacred races for meticulous repair.\nReassemble under diagnostic incantations, purging wear-daemons.\nTest the bearing's flawless revolution, glorifying the Omnissiah's mechanism.",
+    "component": "bearing",
+    "operation": "repair",
+    "spec_id": "b0380_i08"
+  },
+  {
+    "user_prompt": "Bless the data-slate for repair",
+    "prayer": "Cradle the data-slate with pious mechadendrites, invoking data-spirits' mercy.\nCommence repair by reciting the Canticle of Corrupted Bytes.\nPurge fractured engrams and reforge neural pathways in sacred repair.\nAnoint the data-slate's ports with conductive chrism.\nReboot under Omnissiah's light, its Machine Spirit renewed and whole.",
+    "component": "data-slate",
+    "operation": "repair",
+    "spec_id": "b0380_i09"
+  }
+]

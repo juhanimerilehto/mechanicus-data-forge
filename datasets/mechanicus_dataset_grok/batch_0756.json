@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent Manticore a loading needed",
+    "prayer": "Approach the mighty Manticore with invocations to the Omnissiah, beseeching its Machine Spirit to prepare for loading.\nAnoint the breeches and feeders of the Manticore with sacred oils, purging any impurities.\nCommence the loading rite, sliding sanctified shells into the Manticore's voracious heart.\nChant the Canticle of Replenishment as diagnostics confirm the Machine Spirit's harmonious vigil.\nSeal the chambers with binaric blessings, readying the Manticore for the Emperor's fury.",
+    "component": "Manticore",
+    "operation": "loading",
+    "spec_id": "s03560"
+  },
+  {
+    "user_prompt": "Consecrate the Contemptor Dreadnought before consecration",
+    "prayer": "Kneel before the ancient Contemptor Dreadnought, invoking the Omnissiah to stir its slumbering Machine Spirit.\nCircumambulate the sarcophagus, reciting the Litany of Consecration upon its armoured form.\nAnoint dreadnought servos and cogitators with chrism, performing the consecration to bind soul and steel.\nTest the Machine Spirit's response through ritual activation, ensuring eternal vigilance.\nConclude with the Benediction of the Motive Force, sanctifying the Contemptor Dreadnought anew.",
+    "component": "Contemptor Dreadnought",
+    "operation": "consecration",
+    "spec_id": "s03561"
+  },
+  {
+    "user_prompt": "Critical: potentia coil requires a sterilization",
+    "prayer": "Present the potentia coil before the altar of purity, calling upon the Machine Spirits to witness sterilization.\nImmerse the potentia coil in ablative sancticants, chanting the Rite of Sterilization against warp-taint.\nApply plasma-lances to scour the potentia coil's windings, invoking Omnissiah's cleansing fire.\nVerify sterility through noospheric auspex, beseeching the Machine Spirit's unblemished return.\nSeal the potentia coil with wards of faith, restored to flawless potency.",
+    "component": "potentia coil",
+    "operation": "sterilization",
+    "spec_id": "s03562"
+  },
+  {
+    "user_prompt": "Critical: utility mechadendrite requires a maintenance",
+    "prayer": "Extend mechadendrites in reverence to the utility mechadendrite, awakening its Machine Spirit with binaric hymns.\nDisassemble the utility mechadendrite's segments, anointing each with sacred lubricants during maintenance.\nRecalibrate manipulators and sensors of the utility mechadendrite, reciting the Canticle of Precision.\nReassemble under the Omnissiah's gaze, testing the Machine Spirit's fluid obedience.\nBless the utility mechadendrite complete, fortified against entropy's grasp.",
+    "component": "utility mechadendrite",
+    "operation": "maintenance",
+    "spec_id": "s03563"
+  },
+  {
+    "user_prompt": "Emergency: helispex engine an emergency procedure",
+    "prayer": "Hasten to the helispex engine in dire need, invoking the Omnissiah for the emergency procedure.\nSever corrupted conduits of the helispex engine, purging with electro-incantations.\nInject stabilising nootropics into the helispex engine's core, beseeching its Machine Spirit's endurance.\nRealign gyros and motivators amid the Litany of Restoration for this emergency procedure.\nAffirm the helispex engine's revival through auspex rites, praising the God-Machine's mercy.",
+    "component": "helispex engine",
+    "operation": "emergency procedure",
+    "spec_id": "s03564"
+  },
+  {
+    "user_prompt": "The torpedo tube awaits a reset",
+    "prayer": "Gather before the torpedo tube, intoning the Reset Canticle to rouse its dormant Machine Spirit.\nCycle the torpedo tube's locks with sanctified keys, initiating the reset sequence.\nFlush residual propellants from the torpedo tube, anointing barrels with purity unguents.\nReboot cogitator engrams of the torpedo tube, verifying the Machine Spirit's refreshed purity.\nConclude the reset with Omnissiah's invocation, arming the torpedo tube for void-war.",
+    "component": "torpedo tube",
+    "operation": "reset",
+    "spec_id": "s03565"
+  },
+  {
+    "user_prompt": "The las-cutter requires a purification",
+    "prayer": "Approach the las-cutter with humble mechadendrites, beseeching purification of its crystalline heart.\nDrain the las-cutter's power cells, reciting the Rite of Purification against daemonic static.\nPolish focusing lenses of the las-cutter with micro-abrasives blessed by the Omnissiah.\nRecharge under noospheric vigilance, awakening the Machine Spirit purified and keen.\nTest the las-cutter's beam in sacred void, hailing its sanctified incision.",
+    "component": "las-cutter",
+    "operation": "purification",
+    "spec_id": "s03566"
+  },
+  {
+    "user_prompt": "Bless the manufactorum for loading",
+    "prayer": "Enter the manufactorum's halls with reverence, invoking Machine Spirits for the loading rite.\nAlign conveyor servos of the manufactorum, anointing them prior to loading.\nCommence loading of sacred components into the manufactorum's forges, chanting production litanies.\nMonitor the Machine Spirit's throughput via auspex, ensuring Omnissiah-blessed efficiency.\nSeal the manufactorum's cycles with final blessings, prolific in the Emperor's name.",
+    "component": "manufactorum",
+    "operation": "loading",
+    "spec_id": "s03567"
+  },
+  {
+    "user_prompt": "Bless the autosanguination system for operation",
+    "prayer": "Venerate the autosanguination system, preparing it for operation with Omnissiah's grace.\nPrime the autosanguination system's reservoirs with sanctified vitae, reciting activation rites.\nCirculate fluids through the autosanguination system, beseeching its Machine Spirit's vital flow.\nCalibrate pressure regulators for flawless operation, under binaric oversight.\nInvoke the Benediction of Haemostasis, empowering the autosanguination system eternally.",
+    "component": "autosanguination system",
+    "operation": "operation",
+    "spec_id": "s03568"
+  },
+  {
+    "user_prompt": "I need to a consecration the arc pistol",
+    "prayer": "Hold aloft the arc pistol, calling to its Machine Spirit for consecration anew.\nAnoint the arc pistol's coils and emitters with conductive chrism, beginning the rite.\nRecite the Consecration of the Lightning, binding thunder to the arc pistol's frame.\nTest discharges in controlled arc, confirming the Machine Spirit's wrathful obedience.\nConclude with Omnissiah's seal upon the arc pistol, weapon of divine retribution.",
+    "component": "arc pistol",
+    "operation": "consecration",
+    "spec_id": "s03569"
+  }
+]

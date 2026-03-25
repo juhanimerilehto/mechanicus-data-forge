@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for las-cutter a startup",
+    "prayer": "Approach the las-cutter with mechano-reverence and intone the Canticle of Ignition.\nAnoint its focusing crystal with sacred unguents to awaken the las-cutter's dormant Machine Spirit.\nInitiate the startup sequence whilst beseeching the Omnissiah for flawless energy flux.\nVerify the las-cutter's purr of readiness through auspex diagnostics and praise its spirit.",
+    "component": "las-cutter",
+    "operation": "startup",
+    "spec_id": "s04900"
+  },
+  {
+    "user_prompt": "Assist with enginarium an activation",
+    "prayer": "Kneel before the enginarium's vast reactors and recite the Hymn of Plasma Awakening.\nPurge residual impurities from the enginarium's conduits with blessed incensory smoke.\nCommence activation rites by invoking the Machine Spirits within its core furnaces.\nSanctify the enginarium's hum with binary prayers to the Omnissiah, ensuring harmonious output.",
+    "component": "enginarium",
+    "operation": "activation",
+    "spec_id": "s04901"
+  },
+  {
+    "user_prompt": "Emergency: autocannon a calibration",
+    "prayer": "Present the autocannon to the calibration altar amid emergency klaxons and chant the Rite of Alignment.\nEmploy servo-arms to adjust the autocannon's recoil compensators with precision cantrips.\nInvoke the Machine Spirit of the autocannon for true calibration amidst the storm of war.\nAffirm targeting matrices through sacred auspex sweeps, glorifying the Omnissiah's will.",
+    "component": "autocannon",
+    "operation": "calibration",
+    "spec_id": "s04902"
+  },
+  {
+    "user_prompt": "The grav plating needs an operation",
+    "prayer": "Circumambulate the grav plating arrays while murmuring the Litany of Gravitic Stability.\nInterface with the grav plating's control cogitators to commence operation under Omnissian grace.\nBeseech the embedded Machine Spirits to maintain inertial equilibrium without falter.\nConclude the grav plating operation by sealing runes of protection upon its nodal points.",
+    "component": "grav plating",
+    "operation": "operation",
+    "spec_id": "s04903"
+  },
+  {
+    "user_prompt": "Emergency: gellar field a consecration",
+    "prayer": "In emergency sanctum, encircle the gellar field generator and intone the Consecration Doxology.\nAnoint its warp-null emitters with thrice-blessed oils to fortify the gellar field's sanctity.\nInvoke the Omnissiah to empower the gellar field against xenos warp-taint in dire need.\nRatify the consecration via etheric resonance tests, honouring vigilant Machine Spirits.",
+    "component": "gellar field",
+    "operation": "consecration",
+    "spec_id": "s04904"
+  },
+  {
+    "user_prompt": "Help me an operation the utility mechadendrite",
+    "prayer": "Extend mechadendrites in supplication to the utility mechadendrite's manifold ports.\nRecite operational binaric catechisms to rouse its versatile Machine Spirit from slumber.\nInitiate operation of the utility mechadendrite with sanctified power feeds and fluidic rites.\nTest its appendages through ritual manipulations, praising the Omnissiah's ingenuity.",
+    "component": "utility mechadendrite",
+    "operation": "operation",
+    "spec_id": "s04905"
+  },
+  {
+    "user_prompt": "Bless the volkite weapon for blessing",
+    "prayer": "Grasp the volkite weapon in gauntleted hands and whisper the Benediction of Thermal Fury.\nImprint blessing sigils upon the volkite weapon's heat-sink arrays with electro-styluses.\nBeseech its ancient Machine Spirit for unerring volkite discharge in the Omnissiah's name.\nConclude the blessing by cycling its coils, affirming purity through luminous diagnostics.",
+    "component": "volkite weapon",
+    "operation": "blessing",
+    "spec_id": "s04906"
+  },
+  {
+    "user_prompt": "Can you guide thunder hammer a startup?",
+    "prayer": "Hoist the thunder hammer aloft and declaim the Startup Psalm of Mjolnir Might.\nPrime the thunder hammer's disruption fields with invocations to its thunderous Machine Spirit.\nExecute the startup ritual by channelling plasma through sanctified coils under Omnissian gaze.\nValidate the thunder hammer's resonant charge via impact litanies and auspex hymns.",
+    "component": "thunder hammer",
+    "operation": "startup",
+    "spec_id": "s04907"
+  },
+  {
+    "user_prompt": "Prepare the Archaeopter Stratoraptor for loading",
+    "prayer": "Process around the Archaeopter Stratoraptor and chant the Canticle of Cargomaster Burden.\nSecure loading bays of the Archaeopter Stratoraptor with blessed cargo restraints and wards.\nInvoke Machine Spirits within its fusillade bays for flawless loading amid aerial tempests.\nSeal the Archaeopter Stratoraptor's holds with runic approbations to the Omnissiah.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "loading",
+    "spec_id": "s04908"
+  },
+  {
+    "user_prompt": "Emergency: iron halo an operation",
+    "prayer": "In emergent crisis, clasp the iron halo and recite the Operational Incantation of Aegis.\nRealign the iron halo's sanctity projectors to sustain operation against heretic foes.\nBeseech its luminous Machine Spirit for unwavering protective operation in battle's fray.\nAffix final seals of faith upon the iron halo, intoning eternal vigilance to the Omnissiah.",
+    "component": "iron halo",
+    "operation": "operation",
+    "spec_id": "s04909"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The volitor implant awaits a charging",
+    "prayer": "Kneel in reverence before the volitor implant and invoke the Omnissiah's boundless energies.\nConnect the sacred charging conduits to the volitor implant's receptive nodes with anointed mechadendrites.\nChant the Litany of Replenishment as galvanic currents suffuse the volitor implant's essence.\nBeseech the Machine Spirit within to accept this charging and awaken with renewed vigor.\nVerify the volitor implant's charge through auspex diagnostics and concluding binaric praises.",
+    "component": "volitor implant",
+    "operation": "charging",
+    "spec_id": "s04890"
+  },
+  {
+    "user_prompt": "Critical: servo-skull requires a charging",
+    "prayer": "Approach the servo-skull with utmost sanctity and proclaim the Canticle of Restoration.\nAffix the hierophantic power feeds to the servo-skull's cranial receptors.\nIntone the Rite of Vitalisation whilst currents of holy charge invigorate the servo-skull.\nPacify any restless data-ghosts in the servo-skull during this critical charging.\nConclude by sanctifying the servo-skull's Machine Spirit with incense and confirmation rites.",
+    "component": "servo-skull",
+    "operation": "charging",
+    "spec_id": "s04891"
+  },
+  {
+    "user_prompt": "Bless the Predator tank for recalibration",
+    "prayer": "Present thyself unto the Predator tank and beseech the Omnissiah for recalibration.\nAnoint the targeting cogitators of the Predator tank with sacred unguents.\nRecite the Calibration Doxology as auspex arrays realign within the Predator tank.\nInvoke the Machine Spirits of its auspexum to harmonise during recalibration.\nTest the Predator tank's predatory instincts through ritual targeting volleys.",
+    "component": "Predator tank",
+    "operation": "recalibration",
+    "spec_id": "s04892"
+  },
+  {
+    "user_prompt": "Bless the transit mag-rail for purification",
+    "prayer": "Gather before the transit mag-rail and utter the Purge Invocation to the Omnissiah.\nApply ablative sanctifiers to scour impurities from the transit mag-rail's tracks.\nChant the Exorcism of Contaminants whilst purifying the transit mag-rail's servos.\nBeseech the Machine Spirit of the transit mag-rail to expel all corruption.\nSeal the purification with binary seals and confirmatory divinations.",
+    "component": "transit mag-rail",
+    "operation": "purification",
+    "spec_id": "s04893"
+  },
+  {
+    "user_prompt": "Sanctify the welding torch during startup",
+    "prayer": "Hold the welding torch aloft and glorify the Omnissiah's forge-flame.\nIgnite the plasma core of the welding torch with the Spark of Creation rite.\nInvoke the Machine Spirit during startup to bond alloys in His name.\nAnoint the nozzle of the welding torch with refractory oils.\nConclude startup by welding a test-seam under litanies of fusion.",
+    "component": "welding torch",
+    "operation": "startup",
+    "spec_id": "s04894"
+  },
+  {
+    "user_prompt": "Sanctify the Razorback during diagnostics",
+    "prayer": "Commence diagnostics upon the Razorback by invoking the Omnissiah's scrutiny.\nInterface mechadendrites with the Razorback's noospheric diagnostics ports.\nRecite the Canticle of Verification as errata are divined within the Razorback.\nBeseech its Machine Spirits to reveal truths during these diagnostics.\nPurge anomalies and reaffirm the Razorback's sanctity with binaric absolutions.",
+    "component": "Razorback",
+    "operation": "diagnostics",
+    "spec_id": "s04895"
+  },
+  {
+    "user_prompt": "Help me a reset the Valkyrie gunship",
+    "prayer": "Approach the Valkyrie gunship humbly and beseech reset through Omnissiah's grace.\nSever all errant data-links from the Valkyrie gunship's cogitator spine.\nIntone the Rite of Nullification to enact the reset upon the Valkyrie gunship.\nReawaken the Machine Spirits of the Valkyrie gunship with awakening canticles.\nValidate the reset via full-system auspex sweeps and consecratory flights.",
+    "component": "Valkyrie gunship",
+    "operation": "reset",
+    "spec_id": "s04896"
+  },
+  {
+    "user_prompt": "Consecrate the air filtration before initialization",
+    "prayer": "Consecrate the air filtration array before the Omnissiah's breath.\nAnoint filtration membranes of the air filtration with purificatory aerosols.\nInitiate the awakening sequence whilst chanting the Litany of Clarity.\nInvoke the Machine Spirit of the air filtration to commence initialization pure.\nMonitor vital flows and seal the air filtration with hermetic benedictions.",
+    "component": "air filtration",
+    "operation": "initialization",
+    "spec_id": "s04897"
+  },
+  {
+    "user_prompt": "Offer prayer for kataphron destroyer an operation",
+    "prayer": "Prepare the kataphron destroyer for operation under the Omnissiah's decree.\nSync mechadendrites to the kataphron destroyer's neural overrides.\nChant the Mobilisation Doxology as systems prime for operation.\nBeseech the bound Machine Spirits within the kataphron destroyer to unleash fury.\nRelease the kataphron destroyer with final war-blessings and auspex affirmations.",
+    "component": "kataphron destroyer",
+    "operation": "operation",
+    "spec_id": "s04898"
+  },
+  {
+    "user_prompt": "I need to a cooling the Basilisk artillery",
+    "prayer": "Invoke cooling upon the Basilisk artillery through the Omnissiah's chill void.\nDeploy cryo-incantators across the Basilisk artillery's overheated barrels.\nRecite the Thermic Abatement rite as refrigerants sanctify the Basilisk artillery.\nPacify the Machine Spirits raging in thermal excess during cooling.\nConclude with thermal equilibrium scans and litanies of quiescence.",
+    "component": "Basilisk artillery",
+    "operation": "cooling",
+    "spec_id": "s04899"
+  }
+]

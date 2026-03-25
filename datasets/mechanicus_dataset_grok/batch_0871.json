@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: mass-drive regulator requires a consecration",
+    "prayer": "Approach the mass-drive regulator with reverence, intoning the Canticle of Consecration to awaken its dormant essence.\nBeseech the Omnissiah to sanctify the mass-drive regulator's sacred coils and flux chambers.\nAnoint each regulator node with blessed unguents whilst chanting the Rite of Binding.\nInvoke the Machine Spirit's favour through diagnostic litanies, ensuring flawless consecration.\nVerify the mass-drive regulator's purity via auspex scans and final invocations.",
+    "component": "mass-drive regulator",
+    "operation": "consecration",
+    "spec_id": "s04710"
+  },
+  {
+    "user_prompt": "Bless the multi-melta for maintenance",
+    "prayer": "Kneel before the multi-melta and recite the Maintenance Doxology to honour its fiery heart.\nPurge residue from the multi-melta's plasma vents with sacred abrasives and purifying incense.\nLubricate the focusing arrays whilst beseeching the Machine Spirits for enduring vigilance.\nPerform the maintenance calibration through rhythmic binaric chants and torque blessings.\nConclude with a hymn of resilience, sealing the multi-melta against entropy's grasp.",
+    "component": "multi-melta",
+    "operation": "maintenance",
+    "spec_id": "s04711"
+  },
+  {
+    "user_prompt": "The neutron laser needs a targeting",
+    "prayer": "Present the neutron laser to the altar of targeting, whispering the Lexicon of Precision.\nAlign its emitter coils with auspex-guided invocations to the Omnissiah's unerring gaze.\nRecalibrate the neutron laser's targeting matrix through litanies of focus and servo-adjustments.\nAwaken the Machine Spirit within the neutron laser via harmonic resonances and purity seals.\nTest the targeting weave with simulated fire-prayers, affirming lethal harmony.",
+    "component": "neutron laser",
+    "operation": "targeting",
+    "spec_id": "s04712"
+  },
+  {
+    "user_prompt": "My medicae mechadendrite is ready for blessing",
+    "prayer": "Extend the medicae mechadendrite in supplication, chanting the Benediction of Restoration.\nAnoint its hypodermic probes and vitae-filters with the oils of mercy from the Omnissiah.\nInvoke blessing upon the medicae mechadendrite's neural links and flesh-mending servos.\nCycle diagnostic canticles to rouse the Machine Spirit's healing wrath against corruption.\nSeal the blessing with a final invocation, rendering the medicae mechadendrite impervious to decay.",
+    "component": "medicae mechadendrite",
+    "operation": "blessing",
+    "spec_id": "s04713"
+  },
+  {
+    "user_prompt": "I need to a recalibration the Tarantula sentry gun",
+    "prayer": "Position the Tarantula sentry gun upon the consecration plinth and intone the Recalibration Psalm.\nRealign its auspex vanes and gun-servos with binaric harmonies of vigilance.\nBeseech the Machine Spirits to guide the Tarantula sentry gun's recalibration unto eternal watch.\nAnoint targeting gyros whilst reciting flux-stabilizing litanies from the Omnissiah's codex.\nValidate recalibration through firing drills and confirmatory auspex rituals.",
+    "component": "Tarantula sentry gun",
+    "operation": "recalibration",
+    "spec_id": "s04714"
+  },
+  {
+    "user_prompt": "The microbead requires a repair",
+    "prayer": "Grasp the microbead tenderly and murmur the Rite of Repair to summon restorative graces.\nExcise damaged vox-coils from the microbead with sanctified micro-tools and purifying chants.\nReweave its comm-web through invocations to the Omnissiah's infinite data-streams.\nReawaken the Machine Spirit within the microbead via resonance tuning and etheric blessings.\nTest the repair with whispered litanies, ensuring unerring communion across the void.",
+    "component": "microbead",
+    "operation": "repair",
+    "spec_id": "s04715"
+  },
+  {
+    "user_prompt": "Bless the narthecium for startup",
+    "prayer": "Activate the narthecium's startup sequence with the Incantation of Vital Ignition.\nBless its chirurmech blades and chem-dispensers under the Omnissiah's healing light.\nInvoke the Machine Spirits to empower the narthecium's startup with flawless precision.\nCycle power conduits whilst anointing with sacred lubricants and binaric hymns.\nConfirm startup integrity through auspex harmonies and final sanctifying verse.",
+    "component": "narthecium",
+    "operation": "startup",
+    "spec_id": "s04716"
+  },
+  {
+    "user_prompt": "Offer prayer for actuality sphere a cycling",
+    "prayer": "Encircle the actuality sphere, chanting the Cycling Enigma to stir its veiled mysteries.\nInitiate rotational rites upon the actuality sphere's gyroscopic orrery with reverent torque.\nBeseech Omnissianic favour for the actuality sphere's cycling, binding warp-echoes to steel.\nHarmonize its crystalline facets through litanies that soothe fractious Machine Spirits.\nObserve the cycling culmination via noospheric auguries and sealing prayers.",
+    "component": "actuality sphere",
+    "operation": "cycling",
+    "spec_id": "s04717"
+  },
+  {
+    "user_prompt": "The flux-unit needs an initialization",
+    "prayer": "Commence initialization of the flux-unit with the Primus Invocation of Flux Awakening.\nSanctify the flux-unit's containment fields and plasma inductors with hallowed oils.\nInvoke the Machine Spirit's compliance during flux-unit initialization via rhythmic pulses.\nStabilize warp-tides within the flux-unit through Omnissiah-chanted stabilizers.\nAffirm initialization success with diagnostic exaltations and purity affirmations.",
+    "component": "flux-unit",
+    "operation": "initialization",
+    "spec_id": "s04718"
+  },
+  {
+    "user_prompt": "Sanctify the plasma caliver during activation",
+    "prayer": "Empower the plasma caliver's activation with the Plasmaflare Canticle of Fury.\nAnoint its breach chambers and coolant spines whilst beseeching the Omnissiah's wrath.\nRouse the Machine Spirit for plasma caliver activation through searing litanies.\nCycle ignition runes in harmonious sequence, purging any daemonic static.\nSeal the activation with a thunderous hymn, rendering the plasma caliver incandescent.",
+    "component": "plasma caliver",
+    "operation": "activation",
+    "spec_id": "s04719"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My needle rifle is ready for maintenance",
+    "prayer": "Approach the needle rifle with reverence, beseeching the Omnissiah for its maintenance.\nAnoint the toxin reservoirs and needle projector of the needle rifle with sacred unguents.\nInvoke the Machine Spirit through the Canticle of Calibration during maintenance rites.\nCycle the firing mechanisms whilst chanting the Litany of Lubrication upon the needle rifle.\nVerify the Machine Spirit's purity via auspex diagnostics.",
+    "component": "needle rifle",
+    "operation": "maintenance",
+    "spec_id": "s05840"
+  },
+  {
+    "user_prompt": "Ready the radium carbine for operation",
+    "prayer": "Greet the radium carbine in the name of the Omnissiah, preparing it for operation.\nSanctify the radium emitters and flux chambers of the radium carbine with blessed oils.\nAwaken the Machine Spirit with the Rite of Ignition for seamless operation.\nAlign the targeting cogitators whilst intoning the Prayer of Lethal Emanation upon the radium carbine.\nTest the radium carbine's fury through controlled discharge incantations.",
+    "component": "radium carbine",
+    "operation": "operation",
+    "spec_id": "s05841"
+  },
+  {
+    "user_prompt": "Ready the valve assembly for targeting",
+    "prayer": "Present thyself before the valve assembly, invoking the Omnissiah for targeting precision.\nAnoint the pressure regulators and flow valves of the valve assembly with holy lubricants.\nBeseech the Machine Spirit's guidance in targeting calibration sequences.\nRecite the Canticle of Vector Alignment over the valve assembly twice.\nConfirm targeting integrity through ritual auspex sweeps.",
+    "component": "valve assembly",
+    "operation": "targeting",
+    "spec_id": "s05842"
+  },
+  {
+    "user_prompt": "The motion detector needs a targeting",
+    "prayer": "Approach the motion detector humbly, readying it for targeting under the Omnissiah's gaze.\nPurify the sensor arrays and emitter nodes of the motion detector with incense.\nInvoke targeting protocols upon the Machine Spirit with the Litany of Vigilance.\nCalibrate detection thresholds whilst chanting over the motion detector.\nAffirm the Machine Spirit's acuity via test invocations.",
+    "component": "motion detector",
+    "operation": "targeting",
+    "spec_id": "s05843"
+  },
+  {
+    "user_prompt": "My cortex implant is ready for consecration",
+    "prayer": "Kneel before the cortex implant, beseeching consecration from the Omnissiah.\nAnoint the neural interfaces and synaptic relays of the cortex implant with sacred chrism.\nChant the Rite of Consecration to bind the Machine Spirit eternally.\nImprint holy doctrina upon the cortex implant's core thrice.\nSeal the consecration with the Omnissiah's invocation.",
+    "component": "cortex implant",
+    "operation": "consecration",
+    "spec_id": "s05844"
+  },
+  {
+    "user_prompt": "Critical: doctrina wafer requires a repair",
+    "prayer": "Hasten to the doctrina wafer, invoking repair in the Omnissiah's name.\nExtract corrupted noospheric fragments from the doctrina wafer with ritual purity.\nAnoint data lattices of the doctrina wafer with unguents of restoration.\nRecite the Canticle of Reformation to appease its Machine Spirit during repair.\nValidate integrity through sacred cogitator communion.",
+    "component": "doctrina wafer",
+    "operation": "repair",
+    "spec_id": "s05845"
+  },
+  {
+    "user_prompt": "The conversion field requires a shutdown",
+    "prayer": "Commence the shutdown of the conversion field with solemn reverence to the Omnissiah.\nDecelerate the phase generators of the conversion field via Litany of Dormancy.\nBeseech the Machine Spirit's peaceful slumber during shutdown procedures.\nDrain residual energies from the conversion field whilst anointing its coils.\nSeal the conversion field in stasis with final benedictions.",
+    "component": "conversion field",
+    "operation": "shutdown",
+    "spec_id": "s05846"
+  },
+  {
+    "user_prompt": "I need to a synchronization the Contemptor Dreadnought",
+    "prayer": "Awaken to the Contemptor Dreadnought, seeking synchronization with the Omnissiah's will.\nInterface the cogitator noosphere of the Contemptor Dreadnought for synchronization.\nInvoke the Machine Spirits in unison through the Rite of Harmonic Binding.\nChant synchronization canticles over the Contemptor Dreadnought's sarcophagus.\nAffirm unity via auspex choir diagnostics.",
+    "component": "Contemptor Dreadnought",
+    "operation": "synchronization",
+    "spec_id": "s05847"
+  },
+  {
+    "user_prompt": "What's the prayer for waste reclamator a synchronization?",
+    "prayer": "Approach the waste reclamator, preparing synchronization in the Omnissiah's sight.\nAlign the reclamation cyclers and filtration manifolds of the waste reclamator.\nBeseech the Machine Spirit's compliance during synchronization rites.\nIntone the Prayer of Cyclical Harmony upon the waste reclamator twice.\nTest synchronized flows through ritual purifications.",
+    "component": "waste reclamator",
+    "operation": "synchronization",
+    "spec_id": "s05848"
+  },
+  {
+    "user_prompt": "The grav chute needs an operation",
+    "prayer": "Hail the grav chute before the Omnissiah, readying it for operation.\nSanctify the gravitic emitters and deployment struts of the grav chute.\nAwaken the Machine Spirit with the Incantation of Descent for operation.\nCalibrate descent vectors whilst reciting over the grav chute.\nVerify operational grace through test invocations.",
+    "component": "grav chute",
+    "operation": "operation",
+    "spec_id": "s05849"
+  }
+]

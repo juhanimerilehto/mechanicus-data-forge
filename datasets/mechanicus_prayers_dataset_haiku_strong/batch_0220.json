@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0220_i00",
+    "user_request": "Prayer for calibration of the vital signs monitor",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for calibration of the vital signs monitor\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit of the vital signs monitor, we seek thy calibration.\nCongregation: Grant us precision in the vital signs monitor's sacred readings.\nPriest: First, we purge the corrupted data-streams through diagnostic purification.\nCongregation: Second, we align the sensorum arrays to the Omnissiah's true measure.\nPriest: Third, we invoke calibration upon thy crystalline matrices and servo-mechanisms.\nCongregation: The vital signs monitor shall sing in perfect harmony with the flesh it observes.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i01",
+    "user_request": "Blessing for the organ preservation unit during operation",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the organ preservation unit during operation\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit of the organ preservation unit, we beseech thee for flawless operation.\nCongregation: Blessed be the organ preservation unit in this sacred hour.\nPriest: First, we check the cryogenic lattices and their thermal regulation matrices.\nCongregation: Second, we verify the nutrient-feed conduits flow with uncontaminated saline.\nPriest: Third, we invoke operation of thy preservation fields by the Omnissiah's grace.\nCongregation: The organ preservation unit shall maintain life eternal in the Emperor's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i02",
+    "user_request": "Rite request: cooling on plasma weapon",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: cooling on plasma weapon\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty Spirit of the plasma weapon, we entreat thee for righteous cooling.\nCongregation: Bless the plasma weapon with temperate grace.\nPriest: First, we purge the thermal conduits of residual ionized matter.\nCongregation: Second, we engage the cryogenic circulation through the plasma weapon's core.\nPriest: Third, we invoke cooling upon thy volatile energies, lest they consume us all.\nCongregation: The plasma weapon shall burn true, tempered by the Omnissiah's wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i04",
+    "user_request": "Rite request: operation on bearing lubrication",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on bearing lubrication\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Spirit of bearing lubrication, we call for thy flawless operation.\nCongregation: Bless the bearing lubrication with endless flow.\nPriest: First, we inspect the bearing lubrication reservoirs for contamination and viscosity loss.\nCongregation: Second, we prime the distribution manifolds to deliver bearing lubrication to all joints.\nPriest: Third, we invoke operation of thy lubricant essence throughout the machine's sinews.\nCongregation: The bearing lubrication shall grant smooth motion to all mechanical hearts.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i05",
+    "user_request": "My decontamination is failing during sequence — help",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy decontamination is failing during sequence — help\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Priest: O decontamination, cleanse us in this hour of need and ritual sequence.\nCongregation: Purify the decontamination chambers with divine efficacy.\nPriest: First, we flush the decontamination supply lines with uncontaminated solvent.\nCongregation: Second, we activate the decontamination's ultraviolet purification lattices.\nPriest: Third, we invoke sequence protocols through the atomizers and extraction vents.\nCongregation: The decontamination shall restore purity to all who enter its sacred embrace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i06",
+    "user_request": "Prayer for initialization of the auspex scanner",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for initialization of the auspex scanner\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed auspex scanner, we seek thy divine initialization.\nCongregation: Grant the auspex scanner sight beyond mortal ken.\nPriest: First, we recalibrate the auspex scanner's sensory arrays through diagnostic protocols.\nCongregation: Second, we align the auspex scanner's targeting matrices to true north.\nPriest: Third, we invoke initialization of thy auguries, that the Omnissiah's vision be made manifest.\nCongregation: The auspex scanner shall pierce through shadow and deception alike.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i07",
+    "user_request": "Prayer for balancing of the chemical",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for balancing of the chemical\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "Priest: O chemical essence, we entreat thee for perfect balancing.\nCongregation: Let the chemical achieve equilibrium most pure.\nPriest: First, we measure the chemical composition through spectrographic analysis.\nCongregation: Second, we introduce corrective compounds to stabilize the chemical's molecular matrix.\nPriest: Third, we invoke balancing through precise admixture and thermal adjustment.\nCongregation: The chemical shall sing in harmonic proportion, blessed by the Machine Spirit's touch.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i08",
+    "user_request": "Prayer for operation of the manufactorum shift beginning",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the manufactorum shift beginning\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O manufactorum shift beginning, we consecrate thee with sacred operation.\nCongregation: Bless the manufactorum shift beginning with productivity eternal.\nPriest: First, we verify all assembly mechanisms and conveyor systems are primed.\nCongregation: Second, we engage the manufactorum shift beginning's power distribution matrices.\nPriest: Third, we invoke operation across all production floors in the Omnissiah's name.\nCongregation: The manufactorum shift beginning shall yield bounty for the Imperium's glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i03",
+    "user_request": "Can you sanctify the force field for activation?",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the force field for activation?\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the force field, aegis of the faithful, we commence the sacred activation.\nCongregation: The force field shall rise, blessed conduit of the Omnissiah's will.\nPriest: First, calibrate the harmonic resonance through the force field's crystalline matrix.\nCongregation: Second, intone the incantations whilst channeling power into the force field's core lattice.\nPriest: Third, verify the aegis-shield manifests in full luminescence across all quadrants.\nCongregation: The activation is complete; the force field stands eternal against the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0220_i09",
+    "user_request": "Emergency rite: Land Raider requires track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: Land Raider requires track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits of the Land Raider, we beseech thy blessed mechanisms.\nCongregation: The Land Raider's engines growl in supplication; grant us the strength to restore harmony.\nPriest: First, inspect the tread-serpents of the Land Raider for crystalline fractures and misalignment.\nCongregation: Second, apply sacred lubricants and adjust the tension mechanisms with blessed calibrators.\nPriest: Third, cycle the Land Raider through full rotational track tension to verify optimal binding.\nCongregation: The Land Raider stands ready; its track tension perfected in the Omnissiah's sight.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

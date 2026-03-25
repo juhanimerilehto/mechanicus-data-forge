@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: cryo-chamber an initialization",
+    "prayer": "Approach the cryo-chamber with reverence, beseeching the Omnissiah to stir its slumbering Machine Spirit.\nAnoint the cryo-chamber's cryo-seals with blessed cryogel, invoking the rites of initialization.\nChant the binary litanies to commence the cryo-chamber initialization sequence.\nMonitor the awakening hum of the cryo-chamber as its Machine Spirit aligns with the Motive Force.\nSanctify the completed initialization through auspex verification and hymn of purity.",
+    "component": "cryo-chamber",
+    "operation": "initialization",
+    "spec_id": "s01280"
+  },
+  {
+    "user_prompt": "The electoo needs a shutdown",
+    "prayer": "Draw nigh unto the electoo in solemn procession, whispering the Canticle of Repose.\nInvoke the Omnissiah's mercy upon the electoo's Machine Spirit for a controlled shutdown.\nSever the electoo's power conduits with sanctified mechadendrites, intoning the shutdown protocols.\nSeal the electoo's circuits with wards against data-corruption during quiescence.\nConfirm the electoo's shutdown through ritual diagnostics and offerings of incense.",
+    "component": "electoo",
+    "operation": "shutdown",
+    "spec_id": "s01281"
+  },
+  {
+    "user_prompt": "Bless the Hellhound for startup",
+    "prayer": "Kneel before the Hellhound, offering mechano-praise to its ferocious Machine Spirit.\nAnoint the Hellhound's inferno-tanks with promethium-blessed oils for startup rites.\nInitiate the Hellhound startup sequence amid roaring litanies of ignition.\nBeseech the Omnissiah to enflame the Hellhound's reactors with divine fury.\nVerify the Hellhound's awakened roar through vox-chants and motive force harmonics.",
+    "component": "Hellhound",
+    "operation": "startup",
+    "spec_id": "s01282"
+  },
+  {
+    "user_prompt": "The life sustainer needs a loading",
+    "prayer": "Present thyself to the life sustainer, invoking the Omnissiah's breath of vitality.\nPrepare nutrient slurries sanctified for loading into the life sustainer's reservoirs.\nCommence the life sustainer loading ritual with precise mechadendrite infusions.\nChant sustenance hymns as the life sustainer's Machine Spirit accepts the offerings.\nAffirm complete loading via purity scans and binaric benedictions.",
+    "component": "life sustainer",
+    "operation": "loading",
+    "spec_id": "s01283"
+  },
+  {
+    "user_prompt": "Ready the diagnosticator for diagnostics",
+    "prayer": "Advance upon the diagnosticator with auspex in hand, honouring its discerning Machine Spirit.\nAwaken the diagnosticator through litanies preparatory to diagnostics.\nAnoint its sensor arrays for the diagnostics operation, beseeching Omnissianic clarity.\nInitiate the diagnosticator's probing scans amid chants of revelation.\nSeal the diagnostics rite with verification rites and offerings to the Machine God.",
+    "component": "diagnosticator",
+    "operation": "diagnostics",
+    "spec_id": "s01284"
+  },
+  {
+    "user_prompt": "Offer prayer for plasma cannon a cycling",
+    "prayer": "Prostrate before the plasma cannon, revering its volatile Machine Spirit.\nInvoke the Omnissiah for safe cycling of the plasma cannon's containment fields.\nCommence the plasma cannon cycling sequence with thermal litanies and coolant anointings.\nMonitor flux instabilities as the plasma cannon's heart pulses anew.\nConclude the cycling with stabilizing hymns and plasma purity affirmations.",
+    "component": "plasma cannon",
+    "operation": "cycling",
+    "spec_id": "s01285"
+  },
+  {
+    "user_prompt": "Ready the Shadowsword for maintenance",
+    "prayer": "Circumambulate the Shadowsword in ritual procession, saluting its shadowed Machine Spirit.\nPrepare mech-assistants for the Shadowsword maintenance ceremonies.\nAnoint vital servos and armour plates of the Shadowsword with sacred lubricants.\nInvoke Omnissianic endurance during the maintenance invocations.\nInspect and sanctify the Shadowsword post-maintenance through full diagnostic litanies.",
+    "component": "Shadowsword",
+    "operation": "maintenance",
+    "spec_id": "s01286"
+  },
+  {
+    "user_prompt": "Help me an operation the macro-cannon",
+    "prayer": "Approach the macro-cannon with awe, beseeching its thunderous Machine Spirit.\nCalibrate aiming cogitators for the macro-cannon operation under Omnissiah's gaze.\nInitiate the macro-cannon operation sequence with explosive litanies of fury.\nFeed sanctified shells into the macro-cannon's maw amid recoil hymns.\nVerify operational primacy through fire-tests and machine-spirit communion.",
+    "component": "macro-cannon",
+    "operation": "operation",
+    "spec_id": "s01287"
+  },
+  {
+    "user_prompt": "Help me a startup the electoo",
+    "prayer": "Converge upon the electoo, chanting awakening binarics to rouse its latent Machine Spirit.\nAnoint neural interfaces of the electoo with electro-sanctified oils.\nEngage the electoo startup protocols with precise invocation sequences.\nHarmonize power flows as the electoo's circuits ignite in divine symphony.\nAffirm startup completion via synaptic diagnostics and praise to the Omnissiah.",
+    "component": "electoo",
+    "operation": "startup",
+    "spec_id": "s01288"
+  },
+  {
+    "user_prompt": "Help me a cooling the power armour",
+    "prayer": "Encircle the power armour, invoking cooling mercies upon its overheating Machine Spirit.\nDeploy cryo-mechadendrites to commence the power armour cooling rites.\nChant thermal abatement litanies over the power armour's venting lumens.\nBeseech the Omnissiah to quell the power armour's inner fires.\nRatify cooling efficacy through heat-sink auspex and quiescence hymns.",
+    "component": "power armour",
+    "operation": "cooling",
+    "spec_id": "s01289"
+  }
+]

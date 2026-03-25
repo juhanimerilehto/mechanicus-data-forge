@@ -1,0 +1,51 @@
+[
+  {
+    "user_prompt": "Prepare the Taurox for reset",
+    "prayer": "Approach the Taurox with reverence, mechadendrites extended in supplication.\nSever auxiliary feeds to the Taurox's sacred cogitators, preparing for reset.\nIntone the Canticle of Respite over the Taurox's control throne.\nInvoke the Machine Spirit of the Taurox to slumber peacefully during reset.\nPetition the Omnissiah for flawless reawakening of the Taurox.",
+    "component": "Taurox",
+    "operation": "reset",
+    "spec_id": "b0173_i00"
+  },
+  {
+    "user_prompt": "Critical: signal relay requires a charging",
+    "prayer": "Present the charging conduit unto the signal relay with anointed hands.\nChant the Hymn of Capacitance as amperage surges through the signal relay.\nMonitor the blessed capacitors swelling within the signal relay's core.\nBeseech the Machine Spirit of the signal relay to embrace this charging.\nSanctify the power-flow by Omnissiah's divine voltage.",
+    "component": "signal relay",
+    "operation": "charging",
+    "spec_id": "b0173_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for water reclamator operation?",
+    "prayer": "Attune thyself to the water reclamator's sacred osmotic membranes.\nInitiate operation of the water reclamator with the Rite of Cyclical Purity.\nMonitor effluent flows through the water reclamator's sanctified pipes.\nInvoke the Machine Spirit of the water reclamator for unerring filtration.\nPraise the Omnissiah for the bounty of reclaimed aqua sancta.",
+    "component": "water reclamator",
+    "operation": "operation",
+    "spec_id": "b0173_i02"
+  },
+  {
+    "user_prompt": "The plasma weapon requires an activation",
+    "prayer": "Grasp the plasma weapon in gauntlets forged of faith.\nEngage the activation runes upon the plasma weapon whilst reciting the Litany of Fusion.\nCoax the volatile Machine Spirit of the plasma weapon to incandescent fury.\nAnoint the plasma weapon's coils with unguents of rare isotopes.\nBy Omnissiah's will, the plasma weapon awakens in holy wrath.",
+    "component": "plasma weapon",
+    "operation": "activation",
+    "spec_id": "b0173_i03"
+  },
+  {
+    "user_prompt": "Prepare the Rhino transport for blessing",
+    "prayer": "Circumambulate the Rhino transport in thrice-fold procession.\nSprinkle lustral oils upon the Rhino transport's adamantium hull.\nIntone the Benediction of Endurance over the Rhino transport.\nPetition the Omnissiah to bestow blessing upon the Rhino transport's Machine Spirit.\nSeal the blessing with binaric seals upon the Rhino transport's auspex.",
+    "component": "Rhino transport",
+    "operation": "blessing",
+    "spec_id": "b0173_i04"
+  },
+  {
+    "user_prompt": "Urgent welding torch an activation needed",
+    "prayer": "Clasp the welding torch in sanctified servitors' grips.\nDepress the activation stud amid chanted binaric canticles.\nFan the plasma arc from the welding torch's sacred nozzle.\nBeseech the Machine Spirit of the welding torch for unyielding flame.\nPraise the Omnissiah for the welding torch's purifying fire.",
+    "component": "welding torch",
+    "operation": "activation",
+    "spec_id": "b0173_i06"
+  },
+  {
+    "user_prompt": "Consecrate the augmetic limb before repair",
+    "prayer": "Consecrate the augmetic limb with lustral mechfluid poured in ritual measure.\nDiagnose fractures across the augmetic limb's sanctified actuators.\nRepair the augmetic limb under the Omnissiah's binary vigilance.\nRealign the Machine Spirit of the augmetic limb with harmonic resonances.\nSeal the augmetic limb's wounds with blessed ceramite bonds.",
+    "component": "augmetic limb",
+    "operation": "repair",
+    "spec_id": "b0173_i08"
+  }
+]

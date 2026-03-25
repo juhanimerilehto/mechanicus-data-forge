@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The forge anvil awaits a maintenance",
+    "prayer": "Approach the forge anvil with reverence, mechadendrites humming the Canticle of Preservation.\nBeseech the Machine Spirit within the forge anvil to yield to maintenance rites.\nAnoint its unyielding mass with sacred abrasives and diagnostic unguents.\nInvoke the Omnissiah's decree to restore the forge anvil's flawless temper.\nConclude maintenance with binaric affirmations of enduring strength.",
+    "component": "forge anvil",
+    "operation": "maintenance",
+    "spec_id": "b0243_i00"
+  },
+  {
+    "user_prompt": "The neural implant requires a cycling",
+    "prayer": "Kneel before the neural implant, intoning the Rite of Cyclic Renewal.\nPetition the fractious Machine Spirit of the neural implant to embrace cycling.\nCycle synaptic pathways with sanctified current flows from the noosphere.\nSanctify each neuron-cluster against data-corruption during cycling.\nAffirm the neural implant's harmony with Omnissiah's neural lattice.",
+    "component": "neural implant",
+    "operation": "cycling",
+    "spec_id": "b0243_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for forge anvil an activation",
+    "prayer": "Present offerings of promethium incense to the forge anvil's altar.\nAwaken the dormant Machine Spirit of the forge anvil through activation canticles.\nChannel holy voltage into its core to commence activation.\nMonitor the forge anvil's awakening with auspex litanies of verification.\nProclaim the forge anvil ready in the Omnissiah's forge-fires.",
+    "component": "forge anvil",
+    "operation": "activation",
+    "spec_id": "b0243_i02"
+  },
+  {
+    "user_prompt": "Urgent air compressor an emergency procedure needed",
+    "prayer": "In haste, encircle the air compressor with emergency wards of binaric fury.\nExorcise faltering pressures from the air compressor's sacred pistons.\nInitiate emergency procedure with invocations to the Omnissiah's breath.\nStabilize the Machine Spirit of the air compressor through pressure-purgation.\nSeal the rite with auspex seals of restored compression.",
+    "component": "air compressor",
+    "operation": "emergency procedure",
+    "spec_id": "b0243_i03"
+  },
+  {
+    "user_prompt": "Bless the melta charge for emergency procedure",
+    "prayer": "Grasp the melta charge in sanctified gauntlets, whispering Litany of Desperate Yielding.\nBeseech the volatile Machine Spirit of the melta charge for emergency procedure.\nPrime its fusion heart with emergency rites of thermal consecration.\nDeploy under Omnissiah's wrathful gaze, unbinding foes in plasma judgment.\nPost-ignition, commend the melta charge's spirit to the Motive Force.",
+    "component": "melta charge",
+    "operation": "emergency procedure",
+    "spec_id": "b0243_i04"
+  },
+  {
+    "user_prompt": "Sanctify the archive terminal during charging",
+    "prayer": "Position the archive terminal beneath charging spires of electrum purity.\nInvoke the Machine Spirit of the archive terminal to accept charging benediction.\nInfuse data-vaults with blessed power-flow during the charging rite.\nMonitor crystalline matrices for Omnissiah-approved charge equilibrium.\nConclude with noospheric seals upon the sanctified archive terminal.",
+    "component": "archive terminal",
+    "operation": "charging",
+    "spec_id": "b0243_i05"
+  },
+  {
+    "user_prompt": "Consecrate the water reclamator before initialization",
+    "prayer": "Circumambulate the water reclamator, chanting Hydro-Litanies of Purity.\nConsecrate filtration membranes to the Machine Spirit's initialization.\nInitiate core sequences with sanctified aquae from reclamation fonts.\nInvoke Omnissiah's cycle of renewal upon the water reclamator.\nVerify purity flows through diagnostic purity-scans.",
+    "component": "water reclamator",
+    "operation": "initialization",
+    "spec_id": "b0243_i06"
+  },
+  {
+    "user_prompt": "Emergency: radar array a consecration",
+    "prayer": "In emergent haste, anoint the radar array with oils of auspex clarity.\nPetition its Machine Spirit for immediate consecration amid void-threats.\nAlign emitter vanes with consecration canticles to the Omnissiah's gaze.\nEmpower scanning lattices through noospheric consecration links.\nAffirm the radar array's vigilance with binary hymns of detection.",
+    "component": "radar array",
+    "operation": "consecration",
+    "spec_id": "b0243_i07"
+  },
+  {
+    "user_prompt": "Help me a cycling the generator",
+    "prayer": "Encircle the generator with conductive wards, intoning Cycle of the Motive Force.\nAwaken the generator's Machine Spirit to accept cycling protocols.\nCycle plasma coils with sacred torque incantations.\nBalance output rhythms under Omnissiah's unerring calculus.\nSeal the generator's cycling with lumen-verifications of stability.",
+    "component": "generator",
+    "operation": "cycling",
+    "spec_id": "b0243_i08"
+  },
+  {
+    "user_prompt": "Bless the mechanical lock for startup",
+    "prayer": "Approach the mechanical lock with precision mechadendrites in prayer-pose.\nInvoke startup litanies upon the mechanical lock's tumbler-spirits.\nAnoint gear-trains with lubricant-sacrament for flawless startup.\nInitiate engagement sequences blessed by the Omnissiah's mechanism.\nTest the mechanical lock's unbreachable fidelity through trial-cycles.",
+    "component": "mechanical lock",
+    "operation": "startup",
+    "spec_id": "b0243_i09"
+  }
+]

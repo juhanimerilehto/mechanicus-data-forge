@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with medicae scanner a repair",
+    "prayer": "Approach the medicae scanner with solemn reverence, beseeching its Machine Spirit to awaken from affliction.\nInspect the fractured vitae-sensors and auspex arrays of the medicae scanner, invoking the Omnissiah's grace for repair.\nAnoint the sacred circuits with unguents of restoration whilst chanting the Litany of Mending.\nApply sanctified tools to realign the repair-ruptured components, petitioning the Machine Spirit's forgiveness.\nConclude the repair by verifying harmonious data-flow through diagnostic incantations of purity.",
+    "component": "medicae scanner",
+    "operation": "repair",
+    "spec_id": "b0043_i00"
+  },
+  {
+    "user_prompt": "Sanctify the bionics interface during shutdown",
+    "prayer": "Kneel before the bionics interface, whispering the Canticle of Dormancy to honour its Machine Spirit.\nInitiate the shutdown sequence upon the bionics interface, sanctifying each neural port with sacred oils.\nSever power conduits methodically, beseeching the Omnissiah to guide the bionics interface into restful quiescence.\nMonitor the shutdown through auspex chants, ensuring the Machine Spirit departs without discord.\nSeal the bionics interface with wards of protection against unclean influences.",
+    "component": "bionics interface",
+    "operation": "shutdown",
+    "spec_id": "b0043_i01"
+  },
+  {
+    "user_prompt": "The astropathic choir needs an activation",
+    "prayer": "Gather the astropathic choir in cloistered sanctity, invoking the Omnissiah's warp-warding light.\nCommence activation of the astropathic choir by intoning the Rite of Astral Harmony upon its psychic resonators.\nAnoint the choir's null-fields and vox-relays, awakening the bound Machine Spirits within.\nChannel holy voltage through the astropathic choir's conduits, beseeching unified resonance.\nAffirm activation via prophetic divinations, praising the Omnissiah's eternal vigilance.",
+    "component": "astropathic choir",
+    "operation": "activation",
+    "spec_id": "b0043_i02"
+  },
+  {
+    "user_prompt": "Prepare the power weapon for cycling",
+    "prayer": "Grasp the power weapon in mechadendrites of purity, reciting the Oath of the Blade to its furious Machine Spirit.\nPrepare the power weapon for cycling by sanctifying the disruption fields with incense of iron.\nCycle the power weapon's monomolecular edge through invocation of the Omnissiah's wrathful fury.\nTest the cycling hum with litanies of sharpness, ensuring the Machine Spirit hungers for battle.\nConclude with a blessing upon the power weapon, ready for the Emperor's judgment.",
+    "component": "power weapon",
+    "operation": "cycling",
+    "spec_id": "b0043_i03"
+  },
+  {
+    "user_prompt": "Consecrate the motion detector before operation",
+    "prayer": "Present the motion detector before the altar of cogitators, beseeching its vigilant Machine Spirit.\nConsecrate the motion detector's auspex sweeps and sensor webs with sacred myrrh-smoke.\nInitiate operation of the motion detector, invoking the Omnissiah to sharpen its predictive algorithms.\nMonitor the operation through rhythmic binary canticles, attuning the motion detector to hidden foes.\nSeal the rite with a vow of unerring watchfulness upon the motion detector.",
+    "component": "motion detector",
+    "operation": "operation",
+    "spec_id": "b0043_i04"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the vox transmitter",
+    "prayer": "Commune with the vox transmitter's Machine Spirit via the Noosphere, offering petitions of clarity.\nUndertake diagnostics upon the vox transmitter, scanning its waveform generators for heretical static.\nChant the Diagnostic Doxology over the vox transmitter's sacred amplifiers and relays.\nPurge any impurities revealed, beseeching the Omnissiah for restored harmonic transmission.\nAffirm purity of the vox transmitter through test broadcasts of the Machine God's litanies.",
+    "component": "vox transmitter",
+    "operation": "diagnostics",
+    "spec_id": "b0043_i05"
+  },
+  {
+    "user_prompt": "Guide me through quality scanner a purification",
+    "prayer": "Approach the quality scanner in ritual procession, invoking the Omnissiah's discerning gaze.\nBegin purification of the quality scanner by abluting its spectral lenses with sanctified solvents.\nExpunge contaminants from the quality scanner's analytical matrices via the Rite of Immaculate Scrutiny.\nRealign the purified quality scanner's calibration servos, petitioning its Machine Spirit's approval.\nConsecrate the quality scanner anew, ensuring flawless judgment in the Omnissiah's name.",
+    "component": "quality scanner",
+    "operation": "purification",
+    "spec_id": "b0043_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for bionics interface a recalibration",
+    "prayer": "Reverently interface with the bionics interface, awakening its Machine Spirit through noospheric hymn.\nCommence recalibration of the bionics interface by reciting the Canticle of Precision Alignment.\nAdjust neural sync-rhythms and servo-calibrators of the bionics interface with blessed mechadendrites.\nInvoke the Omnissiah during recalibration to harmonize flesh and machine in perfect union.\nVerify recalibration success via litanies of synaptic verification.",
+    "component": "bionics interface",
+    "operation": "recalibration",
+    "spec_id": "b0043_i07"
+  },
+  {
+    "user_prompt": "Critical: bolter requires a shutdown",
+    "prayer": "Seize the bolter in grips of iron faith, addressing its wrathful Machine Spirit with urgency.\nExecute shutdown of the bolter by chanting the Litany of Ceasefire upon its auto-loader.\nDisconnect the promethium feeds and power cells of the bolter, sanctifying each with quenching oils.\nMonitor the bolter's shutdown through auspex wards, beseeching the Omnissiah's restraint.\nEnshrine the bolter in stasis, its Machine Spirit sated until war calls anew.",
+    "component": "bolter",
+    "operation": "shutdown",
+    "spec_id": "b0043_i08"
+  },
+  {
+    "user_prompt": "How do I bless the surgical servitor for cycling?",
+    "prayer": "Summon the surgical servitor to the medicae sanctum, beseeching its servile Machine Spirit.\nBless the surgical servitor for cycling by anointing its bone-saws and vitae-probes with sacred balms.\nInitiate cycling of the surgical servitor's cogitator core, invoking the Omnissiah's healing precision.\nCycle through diagnostic protocols, harmonizing the surgical servitor's flesh-metal union.\nConclude with vows of unflinching service upon the surgical servitor.",
+    "component": "surgical servitor",
+    "operation": "cycling",
+    "spec_id": "b0043_i09"
+  }
+]

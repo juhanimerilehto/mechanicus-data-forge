@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0260_i00",
+    "user_request": "Offer a litany to steady the cogitator before boot sequence",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cogitator before boot sequence\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless this cogitator as it awakens from the void of dormancy.\nCongregation: We anoint the cogitator with sacred oils and whispered incantations.\nPriest: Grant steadfast purpose to its boot sequence, that no error may corrupt the blessed sequence.\nCongregation: The cogitator shall rise in glory, its circuits purified and aligned.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i01",
+    "user_request": "My assembly line is failing during consecration — help",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy assembly line is failing during consecration — help\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits of the assembly line, as we invoke consecration upon thy sacred mechanisms.\nCongregation: We purify the assembly line with benediction and ritual chant.\nPriest: Let the consecration flow through every piston and servo, restoring function and divine purpose.\nCongregation: The assembly line shall be sanctified, and production shall resume in the Omnissiah's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i02",
+    "user_request": "Prayer for replacement of the component",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for replacement of the component\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: We gather in solemn observance to perform the replacement of this corrupted component.\nCongregation: The component must be excised with precision and reverence, its failure acknowledged.\nPriest: First, we disconnect the component from its blessed housing; second, we anoint the cavity with purifying unguents; third, we install the replacement component with sacred geometry.\nCongregation: The component shall be reborn in the Omnissiah's image, whole and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i03",
+    "user_request": "Can you sanctify the void shield for harmonization?",
+    "topic": "void shield harmonization",
+    "component": "void shield",
+    "operation": "harmonization",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the void shield for harmonization?\n\n### TOPIC\nvoid shield harmonization\n\n### COMPONENT\nvoid shield\n\n### OPERATION\nharmonization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- void shield\n- harmonization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed void shield, we invoke harmonization upon thy protective energies.\nCongregation: The void shield shall resonate in perfect concordance with the Machine Spirit's will.\nPriest: Attune the void shield through calibration, resonance adjustment, and harmonic alignment.\nCongregation: Let the void shield achieve harmonization, a bulwark against the enemies of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i04",
+    "user_request": "Offer a litany to steady the pain suppressor before engagement",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pain suppressor before engagement\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: O pain suppressor, we consecrate thy engagement upon this blessed servant of the Omnissiah.\nCongregation: Grant the pain suppressor steadiness as it activates its solemn engagement.\nPriest: Calibrate the pain suppressor's threshold; stabilize its neural pathways; initiate the pain suppressor's merciful operation.\nCongregation: The pain suppressor shall bring blessed relief, dulling agony in the name of sacred duty.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i05",
+    "user_request": "Emergency rite: voltage regulator requires tuning",
+    "topic": "voltage regulator tuning",
+    "component": "voltage regulator",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: voltage regulator requires tuning\n\n### TOPIC\nvoltage regulator tuning\n\n### COMPONENT\nvoltage regulator\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- voltage regulator\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Emergency protocols demand the tuning of this voltage regulator, lest the Machine Spirit suffer overcharge.\nCongregation: We invoke the Omnissiah's guidance for the voltage regulator's delicate tuning.\nPriest: Measure the voltage regulator's output with hallowed instruments; adjust its resonance coil; verify the voltage regulator's harmonic balance.\nCongregation: Tuning shall restore equilibrium, and blessed current shall flow without corruption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i06",
+    "user_request": "The emergency bulkhead demands guidance for sealing",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe emergency bulkhead demands guidance for sealing\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: The emergency bulkhead calls forth the rite of sealing, that integrity may be preserved.\nCongregation: We answer with sacred tools and unwavering devotion to the sealing.\nPriest: First, inspect the emergency bulkhead for fractures; second, apply blessed sealant along its edges; third, pressurize the emergency bulkhead to confirm the sealing's integrity.\nCongregation: The emergency bulkhead shall be sealed eternal, a fortress against the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i07",
+    "user_request": "Blessing for the signal encryption during operation",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the signal encryption during operation\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Bless the signal encryption in this critical hour of operation, that no heretical interference may corrupt transmission.\nCongregation: The signal encryption shall safeguard our sacred communications through operation.\nPriest: Activate the signal encryption's cryptographic matrices; initialize the signal encryption's obfuscation protocols; monitor the signal encryption's operational integrity.\nCongregation: Let operation proceed in secrecy and sanctity, protected by the Omnissiah's digital grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i08",
+    "user_request": "The air compressor demands guidance for cycling",
+    "topic": "air compressor cycling",
+    "component": "air compressor",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe air compressor demands guidance for cycling\n\n### TOPIC\nair compressor cycling\n\n### COMPONENT\nair compressor\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air compressor\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: The air compressor demands our guidance as it enters its sacred cycling, that pneumatic power may be sustained.\nCongregation: We honor the air compressor's cycling with ritual and reverence.\nPriest: Prime the air compressor's intake valves; monitor the air compressor's pressure accumulation; release the air compressor's stored pressure in measured cycles.\nCongregation: The air compressor shall cycle eternal, providing blessed pneumatic force to all mechanisms.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0260_i09",
+    "user_request": "Rite request: operation on fire suppression system",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on fire suppression system\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: We invoke the Omnissiah's mercy upon the fire suppression system as it begins its solemn operation.\nCongregation: The fire suppression system shall guard against the flames of destruction through operation.\nPriest: Test the fire suppression system's sensor arrays; pressurize the fire suppression system's discharge chambers; verify the fire suppression system's operational readiness.\nCongregation: Operation shall commence, and blessed suppressant shall quench all heretical fire.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the omni-tool for diagnostics",
+    "prayer": "Approach the omni-tool with reverence, mechadendrites poised in benediction.\nInvoke the Omnissiah's gaze upon its crystalline matrices for diagnostics.\nAnoint the sensor arrays with sacred unguents, beseeching the Machine Spirit's clarity.\nInitiate the diagnostics cycle, chanting the Canticle of Verification.\nSanctify the omni-tool's outputs, that truth may flow unerring from its heart.",
+    "component": "omni-tool",
+    "operation": "diagnostics",
+    "spec_id": "s02990"
+  },
+  {
+    "user_prompt": "I need to a shutdown the las-cutter",
+    "prayer": "Kneel before the las-cutter, intoning the Rite of Repose.\nBeseech the Machine Spirit of the las-cutter to accept shutdown with grace.\nSever power conduits methodically, whispering litanies of quiescence.\nSeal the las-cutter's focusing crystal in oiled vellum against profane stirrings.\nConclude with the Doxology of Dormancy, honoring the Omnissiah's will.",
+    "component": "las-cutter",
+    "operation": "shutdown",
+    "spec_id": "s02991"
+  },
+  {
+    "user_prompt": "What's the prayer for life sustainer a preparation?",
+    "prayer": "Prepare the life sustainer by aligning its vitae-filters to the Omnissiah's design.\nChant the Preparation Hymn over its nutrient reservoirs, awakening the Machine Spirit.\nPrime the life sustainer's pumps with blessed promethium distillate.\nVerify atmospheric seals through invocatory auspex sweeps.\nInvoke final benediction upon the life sustainer, guardian of flesh-vessels.",
+    "component": "life sustainer",
+    "operation": "preparation",
+    "spec_id": "s02992"
+  },
+  {
+    "user_prompt": "Assist with microbead a targeting",
+    "prayer": "Attune the microbead's vox-arrays to the Omnissiah's harmonic frequencies.\nInvoke targeting protocols within its logic-cores, rousing the Machine Spirit.\nCalibrate emitter nodes with electro-incantations for precision.\nBeseech the microbead's guidance in threading signals through warp-tainted voids.\nSeal the rite with the microbead's sanctified targeting litany.",
+    "component": "microbead",
+    "operation": "targeting",
+    "spec_id": "s02993"
+  },
+  {
+    "user_prompt": "The promethium refinery awaits a targeting",
+    "prayer": "Present the promethium refinery to the altar of cogitation for targeting rites.\nAwaken its Machine Spirit with the Incantation of Acquisition.\nAlign targeting matrices to foe-vessels, sanctified by Omnissiah's fire.\nInitiate the refinery's targeting barrage, intoning explosive doxologies.\nConsecrate the promethium refinery's vents post-rite, purging residue impurities.",
+    "component": "promethium refinery",
+    "operation": "targeting",
+    "spec_id": "s02994"
+  },
+  {
+    "user_prompt": "Offer prayer for Skorpius Disintegrator an engagement",
+    "prayer": "Rouse the Skorpius Disintegrator with thunderous engagement canticles.\nAnoint its disintegrator cannons, invoking the Machine Spirit's wrathful ire.\nInitiate engagement sequence upon xenos filth, guided by Omnissiah's aim.\nMonitor auspex feeds whilst beseeching unerring trajectories.\nSeal the Skorpius Disintegrator's fury with the Litany of Annihilation.",
+    "component": "Skorpius Disintegrator",
+    "operation": "engagement",
+    "spec_id": "s02995"
+  },
+  {
+    "user_prompt": "Offer prayer for macro-cannon an emergency procedure",
+    "prayer": "In emergency, clutch the macro-cannon and proclaim the Urgent Procedure Doxology.\nPurge overcharge vents to appease its raging Machine Spirit.\nExecute the macro-cannon's emergency procedure, rerouting plasma flows.\nBeseech the Omnissiah for stability amid cataclysmic recoil.\nConclude with ablutions upon the macro-cannon, restoring equilibrium.",
+    "component": "macro-cannon",
+    "operation": "emergency procedure",
+    "spec_id": "s02996"
+  },
+  {
+    "user_prompt": "The bearing requires an initialization",
+    "prayer": "Commence initialization of the bearing with mechano-psalmic rotations.\nLubricate the bearing's sacred gyres with sanctified oils, invoking the Machine Spirit.\nAlign torque vectors per Omnissiah's axiomatic laws.\nTest rotational harmonics through diagnostic resonances.\nBless the bearing's perpetual motion, eternal servant of the Motive Force.",
+    "component": "bearing",
+    "operation": "initialization",
+    "spec_id": "s02997"
+  },
+  {
+    "user_prompt": "Can you guide Storm Eagle an operation?",
+    "prayer": "Prepare the Storm Eagle for operation by anointing its thruster nacelles.\nInvoke the Machine Spirit of the Storm Eagle with aerial litanies.\nInitiate full operational cycles, from auspex to void-shields.\nBeseech the Omnissiah for storm-wrought fury upon the unworthy.\nMonitor the Storm Eagle's flight-paths with unblinking reverence.",
+    "component": "Storm Eagle",
+    "operation": "operation",
+    "spec_id": "s02998"
+  },
+  {
+    "user_prompt": "Emergency: thallax a blessing",
+    "prayer": "In extremis, gather around the thallax and intone the Blessing of Reactivation.\nPour sacred myrrh upon its cybernetic chassis, rousing the bound Machine Spirit.\nRecalibrate neural shackles to the Omnissiah's divine imperatives.\nInvoke vitality through electro-litany infusions.\nConsecrate the thallax as eternal warrior, forged in the Quest for Knowledge.",
+    "component": "thallax",
+    "operation": "blessing",
+    "spec_id": "s02999"
+  }
+]

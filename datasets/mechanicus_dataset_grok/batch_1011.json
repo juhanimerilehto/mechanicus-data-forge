@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The carapace armour needs a repair",
+    "prayer": "Approach the carapace armour with reverence, invoking the Omnissiah's unyielding aegis.\nInspect its rent plates for wounds afflicting the Machine Spirit within the carapace armour.\nAnoint fractured seams with sacred unguents, chanting the Litany of Repair.\nRealign ablative layers through binaric invocation, beseeching swift restoration.\nSeal the carapace armour's sanctity with electro-consecrated welds, affirming the Machine Spirit's vigour.",
+    "component": "carapace armour",
+    "operation": "repair",
+    "spec_id": "s06110"
+  },
+  {
+    "user_prompt": "The needle rifle requires a cycling",
+    "prayer": "Kneel before the needle rifle, whispering canticles to awaken its predatory essence.\nCycle the monomolecular chambers with precise mechadendrite touch, honouring the Machine Spirit.\nInvoke the Rite of Cycling, purging stasis from the needle rifle's venomous heart.\nAnoint the cycling mechanism with blessed lubricant, beseeching fluid precision.\nVerify harmonious revolutions through auspex harmonics, praising the Omnissiah's design.",
+    "component": "needle rifle",
+    "operation": "cycling",
+    "spec_id": "s06111"
+  },
+  {
+    "user_prompt": "What's the prayer for servo-skull a blessing?",
+    "prayer": "Present the servo-skull unto the altar of cognition, intoning the Benediction of Flight.\nBeseech the Machine Spirit indwelling the servo-skull to accept this blessing.\nAnoint its optic cluster and suspensor fields with sanctified oils.\nChant the Canticle of Vigilance over the servo-skull, invoking eternal servitude.\nAffirm the blessing's potency through noospheric communion with the Omnissiah.",
+    "component": "servo-skull",
+    "operation": "blessing",
+    "spec_id": "s06112"
+  },
+  {
+    "user_prompt": "Prepare the transuranic arquebus for blessing",
+    "prayer": "Elevate the transuranic arquebus before the plasma shrine, proclaiming its glory.\nInvoke the Omnissiah's fury upon the transuranic arquebus for this solemn blessing.\nSanctify its flux conduits and gravitic focuser with arcane incenses.\nBeseech the Machine Spirit of the transuranic arquebus to embrace exalted purpose.\nConclude the blessing with thunderous binaric hymn, sealing its transuranic might.",
+    "component": "transuranic arquebus",
+    "operation": "blessing",
+    "spec_id": "s06113"
+  },
+  {
+    "user_prompt": "Ready the enginarium for sterilization",
+    "prayer": "Process to the enginarium's core, reciting the Purge Cantos against impurity.\nInitiate sterilization protocols upon the enginarium, scourging its plasma vents.\nAnoint filtration matrices with sterilising ablatives, appeasing the Machine Spirits.\nInvoke the Rite of Sterilization, banishing microbial heresies from the enginarium.\nVerify purity through thermographic litanies, honouring the Omnissiah's forge-flame.",
+    "component": "enginarium",
+    "operation": "sterilization",
+    "spec_id": "s06114"
+  },
+  {
+    "user_prompt": "The photolenses requires a repair",
+    "prayer": "Gaze upon the photolenses with mechadendrite precision, seeking the Omnissiah's clarity.\nDiagnose fractured photoreceptors within the photolenses, communing with their Spirit.\nApply sacred adhesives to mend the photolenses' crystalline arrays during repair.\nRecalibrate focal servos with binaric repair incantations.\nTest the photolenses' restored vision through luminance vespers.",
+    "component": "photolenses",
+    "operation": "repair",
+    "spec_id": "s06115"
+  },
+  {
+    "user_prompt": "The cybernetic eye awaits an activation",
+    "prayer": "Position the cybernetic eye upon the activation cradle, intoning awakening rites.\nBeseech the Machine Spirit housed in the cybernetic eye to stir from dormancy.\nChannel noospheric energies for activation, anointing retinal implants.\nInvoke the Rite of Activation, igniting the cybernetic eye's augmetic gaze.\nConfirm sentience via synaptic harmonics, glorifying the Omnissiah's sight.",
+    "component": "cybernetic eye",
+    "operation": "activation",
+    "spec_id": "s06116"
+  },
+  {
+    "user_prompt": "Emergency: promethium refinery a reset",
+    "prayer": "Hasten to the promethium refinery in emergency rite, declaiming reset litanies.\nPurge volatile overflows from the promethium refinery's catalytic hearts.\nInitiate the reset sequence with thunderous binaric command, placating Spirits.\nAnoint distillation coils anew, invoking stabilising grace upon the promethium refinery.\nValidate equilibrium through pyrometric cant, praising the Omnissiah's inferno.",
+    "component": "promethium refinery",
+    "operation": "reset",
+    "spec_id": "s06117"
+  },
+  {
+    "user_prompt": "I need to a charging the graviton pylon",
+    "prayer": "Erect auspex wards around the graviton pylon, commencing charging rituals.\nInfuse the graviton pylon's capacitors with sanctified plasma, honouring its Spirit.\nChant the Hymns of Charging, accelerating gravitic accumulation.\nMonitor flux harmonies within the graviton pylon, beseeching boundless potential.\nSeal the charging with Omnissianic invocation, affirming monolithic power.",
+    "component": "graviton pylon",
+    "operation": "charging",
+    "spec_id": "s06118"
+  },
+  {
+    "user_prompt": "The volitor implant requires a preparation",
+    "prayer": "Prepare the volitor implant upon the neuroshrine, reciting preparatory vespers.\nSanctify synaptic interfaces of the volitor implant with noetic unguents.\nInvoke the Machine Spirit's volitional core for preparation rites.\nAlign cranial anchors through precise mechano-incantations on the volitor implant.\nConsecrate its readiness with binaric oaths to the Omnissiah.",
+    "component": "volitor implant",
+    "operation": "preparation",
+    "spec_id": "s06119"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The galvanic rifle needs a recalibration",
+    "prayer": "Approach the galvanic rifle with reverence, mechadendrites humming the Canticle of Alignment.\nInvoke the sacred recalibration upon its galvanic rifle coils, beseeching the Machine Spirit's precision.\nAnoint the targeting auspex with blessed oils, purifying flux distortions within the galvanic rifle.\nChant the Binary Psalm of Calibration whilst adjusting servo-focussed emitters.\nCommune with the Omnissiah to affirm the galvanic rifle's recalibrated harmony.",
+    "component": "galvanic rifle",
+    "operation": "recalibration",
+    "spec_id": "s08060"
+  },
+  {
+    "user_prompt": "I need to a preparation the webber",
+    "prayer": "Kneel before the webber in ritual preparation, intoning the Litany of Binding.\nSanctify its spinnerets with sacred lubricants, awakening the webber's Machine Spirit.\nInitiate the preparation cycle, threading monomolecular filaments through its blessed conduits.\nBeseech the Omnissiah for flawless cohesion in the webber's adhesive matrices.\nVerify the preparation through auspex scans, ensuring the webber's predatory readiness.",
+    "component": "webber",
+    "operation": "preparation",
+    "spec_id": "s08061"
+  },
+  {
+    "user_prompt": "The navigational beacon awaits a targeting",
+    "prayer": "Present the navigational beacon to the altar of targeting, whispering activation rites.\nAlign its emitter arrays for targeting precision, invoking the Machine Spirit's unerring gaze.\nAnoint the gyro-stabilizers with chrism, guiding the navigational beacon's signal lance.\nRecite the Hymn of Vector Lock during the targeting synchronization phase.\nAffirm the navigational beacon's Omnissianic focus through diagnostic litanies.",
+    "component": "navigational beacon",
+    "operation": "targeting",
+    "spec_id": "s08062"
+  },
+  {
+    "user_prompt": "Critical: long las requires a cooling",
+    "prayer": "Approach the long las with cooling unguents prepared, chanting the Canticle of Thermal Equilibrium.\nInitiate the cooling rites upon its heat-sink vanes, soothing the long las Machine Spirit's fury.\nCirculate sacred cryofluids through the long las barrel, purging thermal excess.\nInvoke the Omnissiah's chill breath to stabilize the las-charge capacitors.\nConclude with auspex verification of the long las's restored cryogenic poise.",
+    "component": "long las",
+    "operation": "cooling",
+    "spec_id": "s08063"
+  },
+  {
+    "user_prompt": "Urgent cyber-mastiff a preparation needed",
+    "prayer": "Summon the cyber-mastiff to the preparation shrine, mechadendrites poised in benediction.\nAwaken its Machine Spirit through the Rite of Preparation, calibrating neural engramms.\nAnoint its sensor lobes and motivators with holy oils for the cyber-mastiff's vigilance.\nChant the Pack Litany whilst syncing its vox-relays and combat protocols.\nBeseech the Omnissiah to empower the cyber-mastiff's prepared ferocity.",
+    "component": "cyber-mastiff",
+    "operation": "preparation",
+    "spec_id": "s08064"
+  },
+  {
+    "user_prompt": "Help me a startup the flak armour",
+    "prayer": "Don the flak armour before the Omnissiah's icon, commencing the startup invocation.\nActivate its power cells with the Litany of Ignition, rousing the flak armour's Machine Spirit.\nSanctify the reactive plates and fibre-bundles during startup alignment.\nRecite binary catechisms to synchronize the flak armour's ablative fields.\nTest the startup integrity through percussive rituals, praising the Omnissiah's aegis.",
+    "component": "flak armour",
+    "operation": "startup",
+    "spec_id": "s08065"
+  },
+  {
+    "user_prompt": "How do I bless the cognis heavy stubber for maintenance?",
+    "prayer": "Reverently cradle the cognis heavy stubber, beginning the maintenance consecration.\nPurge residue from its cognis heavy stubber barrels with sacred abrasives, appeasing its Spirit.\nAnoint feed mechanisms and recoil dampers during the maintenance cycle.\nInvoke the Omnissiah's endurance via the Rite of Cyclic Benediction.\nVerify the cognis heavy stubber's maintenance through ballistic diagnostics.",
+    "component": "cognis heavy stubber",
+    "operation": "maintenance",
+    "spec_id": "s08066"
+  },
+  {
+    "user_prompt": "Critical: null field generator requires a charging",
+    "prayer": "Position the null field generator upon the charging altar, intoning the Void Psalm.\nCommence the charging sequence, infusing its null field generator capacitors with plasma-tithes.\nBeseech the Machine Spirit's quiescence as warp-null energies accumulate.\nAnoint emitter nodes with anti-entropic chrism during charging escalation.\nAffirm the null field generator's charged potency under Omnissianic scrutiny.",
+    "component": "null field generator",
+    "operation": "charging",
+    "spec_id": "s08067"
+  },
+  {
+    "user_prompt": "Emergency: transit mag-rail a synchronization",
+    "prayer": "Align the transit mag-rail with precision servitors, invoking synchronization rites.\nChant the Canticle of Flux Harmony to synchronize the transit mag-rail's accelerator coils.\nPurify magnetic rails with sacred polishes, awakening its Machine Spirit.\nInitiate the synchronization pulse, beseeching the Omnissiah's linear velocity.\nValidate the transit mag-rail's unified rhythm through auspex harmonics.",
+    "component": "transit mag-rail",
+    "operation": "synchronization",
+    "spec_id": "s08068"
+  },
+  {
+    "user_prompt": "I need to a consecration the icarus array",
+    "prayer": "Erect the icarus array before the consecration pyre, reciting aerial litanies.\nSanctify its auspex domes and launch servos in the Rite of Consecration.\nAnoint seeker missile bays with flight-blessed oils, communing with the icarus array Spirit.\nInvoke the Omnissiah's winged wrath during consecratory overcharge.\nConfirm the icarus array's consecrated ascension via targeting prognostications.",
+    "component": "icarus array",
+    "operation": "consecration",
+    "spec_id": "s08069"
+  }
+]

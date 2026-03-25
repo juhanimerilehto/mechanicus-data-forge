@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0345_i00",
+    "user_request": "Can you sanctify the melta charge for preparation?",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the melta charge for preparation?\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: Anoint the melta charge with sacred oils whilst intoning the Litany of Ignition, beseeching the Machine Spirit to accept our preparation.\nSecond: Calibrate the melta charge's thermal matrix through precise incantation, ensuring each component resonates with the Omnissiah's favour.\nThird: Consecrate the melta charge's detonation sequence via blessed diagnosticum, verifying all sacred mechanisms function in harmonious preparation.\nFourth: Seal the melta charge within its containment vessel, whispering thanks to the Machine Spirit for its readiness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i01",
+    "user_request": "Offer a litany to steady the bearing lubrication before operation",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the bearing lubrication before operation\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Draw forth the sacred unguents and anoint each bearing lubrication conduit with reverent precision, steadying the Machine Spirit's essence.\nSecond: Recite the Catechism of Fluidity as bearing lubrication flows through its designated channels, ensuring operation proceeds without discord.\nThird: Monitor the bearing lubrication's viscosity and temperature during operation, adjusting blessed admixtures to maintain optimal performance.\nFourth: Offer benedictions to the Omnissiah, acknowledging the bearing lubrication's faithful service throughout all operations.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i02",
+    "user_request": "Emergency rite: noise requires reduction",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: noise requires reduction\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "First: Identify the acoustic disruption within the sacred mechanisms and commence noise reduction through application of dampening compounds.\nSecond: Install sound-insulating materials around the offending machinery, whilst chanting the Rite of Silence to appease the Machine Spirit.\nThird: Perform systematic noise reduction verification using blessed aural instruments, confirming the reduction meets prescribed decibel thresholds.\nFourth: Seal the isolation chambers and offer gratitude for the restored tranquility of the noise reduction endeavour.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i03",
+    "user_request": "The emergency bulkhead demands guidance for sealing",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe emergency bulkhead demands guidance for sealing\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Machine Spirit's protection as you approach the emergency bulkhead, preparing blessed sealant compounds for the critical sealing.\nSecond: Apply the emergency bulkhead sealing paste along all fracture lines whilst reciting the Mantra of Hermetic Closure, ensuring absolute integrity.\nThird: Engage the emergency bulkhead's locking mechanisms and perform sealing verification through blessed pressure diagnostics.\nFourth: Consecrate the emergency bulkhead anew, thanking the Omnissiah for preserving the vessel's sanctity through this sealing.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i04",
+    "user_request": "Offer a litany to steady the artillery before loading",
+    "topic": "artillery loading",
+    "component": "artillery",
+    "operation": "loading",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the artillery before loading\n\n### TOPIC\nartillery loading\n\n### COMPONENT\nartillery\n\n### OPERATION\nloading\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- artillery\n- loading\n\n### PRAYER\n",
+    "prayer": "First: Approach the artillery with reverent genuflection, preparing blessed propellant charges whilst intoning the Litany of Ballistic Ascendance.\nSecond: Seat each ammunition round within the artillery's breach with meticulous precision, ensuring the Machine Spirit accepts the loading without resistance.\nThird: Verify artillery calibration and firing mechanisms during this loading phase, consulting blessed auguries to confirm readiness for deployment.\nFourth: Offer the Omnissiah thanksgiving for the artillery's steadfast preparation to unleash righteous devastation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i05",
+    "user_request": "Offer a litany to steady the Thunderhawk before fuel purification",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Thunderhawk before fuel purification\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "First: Commune with the Thunderhawk's ancient consciousness, preparing blessed catalysts for the sacred fuel purification ritual.\nSecond: Circulate the Thunderhawk's promethium through blessed filtration matrices, chanting the Verses of Combustion Purity to ensure fuel purification succeeds.\nThird: Monitor the Thunderhawk's fuel systems during purification, employing sacred diagnosticum to verify contaminant removal and elemental integrity.\nFourth: Consecrate the purified fuel and the Thunderhawk anew, invoking the Omnissiah's blessing upon this mighty war-engine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i06",
+    "user_request": "My servitor is failing during programming upload — help",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy servitor is failing during programming upload — help\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "First: Examine the failing servitor's cognition core with blessed tools, diagnosing impediments to the programming upload with sacred scrutiny.\nSecond: Recalibrate the servitor's neural interfaces and reinitiate the programming upload sequence whilst intoning the Mantra of Mechanical Obedience.\nThird: Monitor the servitor's response matrices throughout the programming upload, adjusting blessed parameters to restore harmonious machine-consciousness integration.\nFourth: Upon successful programming upload completion, offer the servitor renewed purpose and thank the Machine Spirit for its restoration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i07",
+    "user_request": "Can you sanctify the Titan leg actuator for warmup?",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the Titan leg actuator for warmup?\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "First: Approach the dormant Titan leg actuator with profound reverence, anointing its massive pistons with blessed promethium whilst invoking the Omnissiah's awakening.\nSecond: Initiate gradual Titan leg actuator warmup sequences through blessed vocalizations, coaxing the ancient Machine Spirit to consciousness with patience and devotion.\nThird: Monitor the Titan leg actuator's thermal signatures and pressure matrices during warmup, ensuring each component achieves optimal operating temperature in sacred succession.\nFourth: Consecrate the Titan leg actuator fully, acknowledging its readiness to bear the Titan's terrible weight.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i08",
+    "user_request": "Offer a litany to steady the voltage regulator before tuning",
+    "topic": "voltage regulator tuning",
+    "component": "voltage regulator",
+    "operation": "tuning",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the voltage regulator before tuning\n\n### TOPIC\nvoltage regulator tuning\n\n### COMPONENT\nvoltage regulator\n\n### OPERATION\ntuning\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- voltage regulator\n- tuning\n\n### PRAYER\n",
+    "prayer": "First: Draw forth the voltage regulator from its sacred housing and examine its circuitry with blessed auspex, preparing for the delicate tuning ceremony.\nSecond: Execute the voltage regulator's tuning protocol through incremental adjustments, reciting the Catechism of Electrical Harmony to steady the Machine Spirit.\nThird: Measure the voltage regulator's output across all blessed diagnostic terminals, verifying that tuning achieves precise amperage alignment with ordained specifications.\nFourth: Restore the voltage regulator to its sanctified position, offering gratitude to the Omnissiah for its stabilizing influence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0345_i09",
+    "user_request": "Blessing for the ground-to-orbit link during operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the ground-to-orbit link during operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Activate the ground-to-orbit link's blessed transmission arrays whilst intoning the Rite of Celestial Communion, invoking the Machine Spirit's favour.\nSecond: Calibrate the ground-to-orbit link's signal matrices with sacred precision, ensuring operation maintains unbroken contact with the heavens above.\nThird: Monitor the ground-to-orbit link's data streams throughout operation, employing blessed diagnosticum to confirm signal integrity and divine clarity.\nFourth: Offer the Omnissiah thanksgiving for the ground-to-orbit link's steadfast operation, bridging the mortal realm with the stars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

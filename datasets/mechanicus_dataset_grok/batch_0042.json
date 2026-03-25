@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the Thunderhawk for charging",
+    "prayer": "Approach the Thunderhawk with reverence, mechadendrites humming in anticipation.\nInvoke the Canticle of Capacitance upon the Thunderhawk's mighty vaults.\nBeseech its Machine Spirit to welcome the sacred influx of charging energies.\nAnoint the Thunderhawk's power conduits with blessed electro-unguent.\nMonitor the rising holy voltage until the Omnissiah's fury is primed.",
+    "component": "Thunderhawk",
+    "operation": "charging",
+    "spec_id": "b0042_i00"
+  },
+  {
+    "user_prompt": "The bike squadron requires a cycling",
+    "prayer": "Assemble before the bike squadron, their noble engines stilled in devotion.\nChant the Litany of Perpetual Motion to awaken the bike squadron's spirits.\nInitiate the cycling of fuel injectors and plasma coils in harmonious revolution.\nPetition the Machine Spirits of the bike squadron for flawless orbital purity.\nVerify the cycling rhythm resonates with the Omnissiah's divine cadence.",
+    "component": "bike squadron",
+    "operation": "cycling",
+    "spec_id": "b0042_i01"
+  },
+  {
+    "user_prompt": "The missile launcher needs a blessing",
+    "prayer": "Kneel in veneration before the missile launcher, its silos silent yet potent.\nRecite the Benediction of Trajectory over the missile launcher's warheads.\nInvoke the blessing upon its guidance runes and propellant bays.\nAnoint the missile launcher's firing mechanisms with sacred oils.\nCommune with its Machine Spirit until the Omnissiah's wrath is sanctified.",
+    "component": "missile launcher",
+    "operation": "blessing",
+    "spec_id": "b0042_i02"
+  },
+  {
+    "user_prompt": "My gyroscope is ready for startup",
+    "prayer": "Present thyself unto the gyroscope, axis of equilibrium and grace.\nUtter the Incantation of Angular Momentum to stir the gyroscope's heart.\nEngage the startup sequence with precise invocations of balance.\nBeseech the gyroscope's Machine Spirit for unerring rotational sanctity.\nObserve the whirring harmony blessed by the Omnissiah's precision.",
+    "component": "gyroscope",
+    "operation": "startup",
+    "spec_id": "b0042_i03"
+  },
+  {
+    "user_prompt": "Bless the logic engine for recalibration",
+    "prayer": "Commune with the logic engine, repository of the Omnissiah's binary truths.\nChant the Rite of Recalibration to purge errant data-daemons.\nRealign the logic engine's noospheric pathways with sacred algorithms.\nPetition its Machine Spirit for recalibrated cogitation without flaw.\nSeal the logic engine's recalibration with the Sigil of Pure Computation.",
+    "component": "logic engine",
+    "operation": "recalibration",
+    "spec_id": "b0042_i04"
+  },
+  {
+    "user_prompt": "The fusion core needs a repair",
+    "prayer": "Approach the wounded fusion core with mechadendrites of restoration.\nIntone the Litany of Plasma Coalescence over its fractured containment.\nMend the fusion core's sacred fields through ritual repair and invocation.\nBeseech the Machine Spirit within the fusion core to reignite its stellar heart.\nVerify the fusion core's mended blaze under the Omnissiah's approving gaze.",
+    "component": "fusion core",
+    "operation": "repair",
+    "spec_id": "b0042_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for plasma weapon a blessing",
+    "prayer": "Venerate the plasma weapon, flask of the Omnissiah's bottled suns.\nRecite the Blessing of Containment upon its volatile flask and coils.\nInvoke divine stability into the plasma weapon's superheated essence.\nAnoint its emitters with unguents of thermal sanctity.\nCommune with the plasma weapon's Machine Spirit for flawless incendiary grace.",
+    "component": "plasma weapon",
+    "operation": "blessing",
+    "spec_id": "b0042_i06"
+  },
+  {
+    "user_prompt": "Help me a reset the atmosphere processor",
+    "prayer": "Stand before the atmosphere processor, breath of forge-worlds.\nChant the Canticle of Atmospheric Renewal to reset its cyclonic hearts.\nPurge stagnant vapors from the atmosphere processor's sacred filters.\nPetition its Machine Spirit for a pristine reset of vital flows.\nWitness the purified exhalations blessed by the Omnissiah's unseen winds.",
+    "component": "atmosphere processor",
+    "operation": "reset",
+    "spec_id": "b0042_i07"
+  },
+  {
+    "user_prompt": "My fusion core is ready for synchronization",
+    "prayer": "Reverently encircle the fusion core, nexus of stellar fury.\nInvoke the Rite of Synchronization upon its throbbing plasma rhythms.\nAlign the fusion core's oscillatory fields in perfect harmonic union.\nBeseech the Machine Spirit of the fusion core for synchronized potency.\nAffirm the flawless cadence under the Omnissiah's eternal vigilance.",
+    "component": "fusion core",
+    "operation": "synchronization",
+    "spec_id": "b0042_i08"
+  },
+  {
+    "user_prompt": "The valve assembly awaits a reset",
+    "prayer": "Bow to the valve assembly, guardian of pressurized sanctities.\nUtter the Litany of Pressure Equilibrium to enact the reset.\nCycle the valve assembly's seals and actuators through ritual purgation.\nPetition its Machine Spirit for a reset devoid of hydraulic heresy.\nSeal the valve assembly's renewed vigilance with sacred torque-blessings.",
+    "component": "valve assembly",
+    "operation": "reset",
+    "spec_id": "b0042_i09"
+  }
+]

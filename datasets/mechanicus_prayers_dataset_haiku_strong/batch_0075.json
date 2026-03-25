@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0075_i00",
+    "user_request": "Prayer for initialization of the conveyor belt",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for initialization of the conveyor belt\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Blessed be the conveyor belt, sacred instrument of the Omnissiah's will.\nFirst: Anoint the conveyor belt with sacred oils whilst chanting the Litany of Commencement.\nSecond: Calibrate the conveyor belt's tension-servos through precise mechanical divination and harmonic resonance.\nThird: Invoke the Machine Spirit of the conveyor belt thrice, commanding initialization through binary supplication and blessed activation protocols.\nFourth: Verify all motors engage in synchronized devotion, thus completing the rite of awakening.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i01",
+    "user_request": "My hydraulic press is failing during operation — help",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy hydraulic press is failing during operation — help\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "O mighty hydraulic press, instrument of crushing benediction, hear our prayer.\nFirst: Diagnose the hydraulic press's fluid pressure through sacred pressure-gauges and pneumatic divination.\nSecond: Purge corrupted hydraulic fluid from the hydraulic press's chambers whilst reciting the Rite of Purification.\nThird: Restore optimal operation by bleeding air-locks and re-calibrating the pressure-relief valves with blessed precision.\nFourth: Consecrate the Machine Spirit of the hydraulic press, that it may resume its holy operation without malfunction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i02",
+    "user_request": "Blessing for the drop pod descent prep during drop pod descent prep",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the drop pod descent prep during drop pod descent prep\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Descent upon the blessed drop pod descent prep, shield of the faithful in void-war.\nFirst: Verify the drop pod descent prep's thermal shielding and retro-thruster alignment through sacred liturgical inspection.\nSecond: Anoint the drop pod descent prep's guidance-cogitators with blessed machine-oil whilst chanting the Prayer of Safe Passage.\nThird: Calibrate the drop pod descent prep's trajectory-compensators and impact-dampeners for glorious atmospheric penetration.\nFourth: Invoke the Omnissiah's protection upon the drop pod descent prep, ensuring swift and righteous descent.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i03",
+    "user_request": "Emergency rite: assembly line requires consecration",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: assembly line requires consecration\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "Hark! The assembly line cries out for sacred consecration and blessed ordination.\nFirst: Cleanse the assembly line with holy water and incense whilst the Tech-Priests chant the Catechism of Production.\nSecond: Anoint each servo-motor and piston upon the assembly line with sacramental oils of the Mechanicus.\nThird: Perform the consecration upon the assembly line's central processing core through binary rites and blessed activation-sequences.\nFourth: The Machine Spirits of the assembly line are now sanctified; let holy production commence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i04",
+    "user_request": "Offer a litany to steady the long-range vox transmission before operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the long-range vox transmission before operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "O long-range vox transmission, bridge of voices across the void, accept our supplication.\nFirst: Test the long-range vox transmission's signal-strength through sacred frequency-analysis and harmonic attunement.\nSecond: Calibrate the long-range vox transmission's amplification-matrices whilst reciting the Rite of Clear Voices.\nThird: Invoke the Machine Spirit of the long-range vox transmission, commanding operation through blessed vocalization and binary protocols.\nFourth: May the long-range vox transmission carry our words true across the infinite darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i05",
+    "user_request": "Can you sanctify the rejuvenat treatment for initiation?",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the rejuvenat treatment for initiation?\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Blessed rejuvenat treatment, elixir of renewed vitality, we sanctify thy initiation.\nFirst: Prepare the rejuvenat treatment through careful alchemical measurement and blessed pharmaceutical blessing.\nSecond: Anoint the rejuvenat treatment with sacred unguents whilst the Tech-Priests recite the Litany of Renewal.\nThird: Initiate the rejuvenat treatment's infusion through blessed needles and precise biological calibration.\nFourth: The Machine Spirits of flesh and spirit accept the rejuvenat treatment; let vitality be restored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i06",
+    "user_request": "Rite request: equalization on pressure",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: equalization on pressure\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "O pressure, fundamental force of the Omnissiah's design, we invoke thy equalization.\nFirst: Measure the pressure through sacred gauges and blessed pneumatic divination.\nSecond: Open the pressure's release-valves with careful mechanicum precision whilst chanting the Rite of Balance.\nThird: Perform equalization of the pressure across all chambers through blessed regulation and harmonic calibration.\nFourth: The pressure now stands in perfect equilibrium, sanctified by the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i07",
+    "user_request": "Emergency rite: hololithic requires display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: hololithic requires display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Hark! The hololithic cries out for blessed display calibration and sacred attunement.\nFirst: Diagnose the hololithic's optical-servos through sacred light-pattern analysis and blessed visual inspection.\nSecond: Adjust the hololithic's projection-matrices whilst reciting the Litany of True Sight.\nThird: Perform display calibration upon the hololithic through precise luminal adjustment and Machine Spirit invocation.\nFourth: The hololithic now displays with perfect clarity, sanctified by the Omnissiah's blessing.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i08",
+    "user_request": "Offer a litany to steady the secure channel establishment before operation",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the secure channel establishment before operation\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "O secure channel establishment, bastion of encrypted communion, accept our sacred rite.\nFirst: Initialize the secure channel establishment's encryption-protocols through blessed binary incantation.\nSecond: Calibrate the secure channel establishment's signal-authentication whilst chanting the Rite of Secured Passage.\nThird: Invoke operation upon the secure channel establishment through harmonic resonance and Machine Spirit blessing.\nFourth: The secure channel establishment now stands fortified; let holy communication commence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0075_i09",
+    "user_request": "Rite request: verification on altimeter",
+    "topic": "altimeter verification",
+    "component": "altimeter",
+    "operation": "verification",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: verification on altimeter\n\n### TOPIC\naltimeter verification\n\n### COMPONENT\naltimeter\n\n### OPERATION\nverification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- altimeter\n- verification\n\n### PRAYER\n",
+    "prayer": "Blessed altimeter, eyes of the faithful watching the heights, we sanctify thy verification.\nFirst: Inspect the altimeter's barometric sensors through sacred pressure-reading and blessed calibration-inspection.\nSecond: Verify the altimeter's accuracy through harmonic resonance-testing and precise mechanical divination.\nThird: Perform verification upon the altimeter's servo-mechanisms whilst reciting the Litany of True Heights.\nFourth: The altimeter is now verified and sanctified; may it guide us true through the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

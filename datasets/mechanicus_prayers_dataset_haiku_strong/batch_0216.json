@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0216_i00",
+    "user_request": "Can you sanctify the atmosphere processor for startup?",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the atmosphere processor for startup?\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the atmosphere processor, conduit of breath eternal!\nCongregation: We invoke the Machine Spirit of the atmosphere processor!\nPriest: First, purify the intake valves with sacred unguents; second, verify pressure equilibrium through the cogitators; third, intone the startup sequence thrice upon the vox-caster.\nCongregation: The atmosphere processor shall breathe forth life anew!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i01",
+    "user_request": "Can you sanctify the pressure gauge for calibration?",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the pressure gauge for calibration?\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: O pressure gauge, instrument of precision most holy!\nCongregation: Grant us accuracy in the calibration!\nPriest: We anoint the pressure gauge with blessed oils; we align its needle through mathematical revelation; we test its response against the Omnissiah's standard measures.\nCongregation: The pressure gauge stands true, calibrated in the Emperor's name!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i03",
+    "user_request": "Rite request: calibration on cutting laser",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: calibration on cutting laser\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the cutting laser, scalpel of the Machine Spirit!\nCongregation: Guide the calibration of the cutting laser!\nPriest: We focus the beam through prismatic crystals; we adjust the cutting laser's divergence to sacred tolerances; we verify its lethality upon test materials with ritual precision.\nCongregation: The cutting laser burns true, calibrated for perfection!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i04",
+    "user_request": "Offer a litany to steady the hydraulic press before operation",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the hydraulic press before operation\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O mighty hydraulic press, engine of crushing force!\nCongregation: Steady thy cylinders for operation!\nPriest: We purge the hydraulic press of air bubbles through ritualistic bleeding; we calibrate the pressure relief valve to sacred specifications; we invoke the Omnissiah's blessing upon its operation.\nCongregation: The hydraulic press descends with unstoppable might!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i05",
+    "user_request": "Emergency rite: missile launcher requires targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: missile launcher requires targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the missile launcher, instrument of the Emperor's wrath!\nCongregation: Align the missile launcher for righteous targeting!\nPriest: We calibrate the targeting reticule through auspex communion; we lock the missile launcher's gyroscopic systems to true north; we whisper unto its Machine Spirit the coordinates of destruction.\nCongregation: The missile launcher hungers, ready for targeting!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i08",
+    "user_request": "Can you sanctify the bike squadron for pre-flight?",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the bike squadron for pre-flight?\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the bike squadron, swift servants of the Machine!\nCongregation: Prepare the bike squadron for pre-flight!\nPriest: We inspect the bike squadron's fuel lines for leakage; we verify the bike squadron's engine ignition through liturgical testing; we bless each rider with protective wards.\nCongregation: The bike squadron roars to life, ready for pre-flight ascension!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i02",
+    "user_request": "Prayer for activation of the radiation shielding",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the radiation shielding\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant us the activation of the radiation shielding through sacred geometries and ferrous benediction.\nCongregation: We intone the activation of the radiation shielding, that lethal particles be turned aside by holy barriers.\nPriest: First, calibrate the photonic sensors unto the emanations; second, engage the electromagnetic lattices with proper incantation; third, verify the radiation shielding doth hold fast against the void's corruption.\nCongregation: The radiation shielding stands eternal, warded by Machine Spirits and the will of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i06",
+    "user_request": "Prayer for consecration of the assembly line",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for consecration of the assembly line\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we seek the consecration of the assembly line through holy oils and binary prayers.\nCongregation: Grant us the consecration of the assembly line, that each servo-arm may move in perfect symmetry.\nPriest: First, anoint each junction with sacred unguents; second, recalibrate the assembly line's gyroscopic equilibrium; third, invoke the Machine Spirits dwelling within each automated limb.\nCongregation: The assembly line is blessed, sanctified, and devoted eternally to the Omnissiah's grand design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i07",
+    "user_request": "Emergency rite: mold temperature requires verification",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: mold temperature requires verification\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirits, we beseech the verification of mold temperature through thermometric devotion.\nCongregation: Permit the verification of mold temperature, that no impurity corrupt the sacred casting.\nPriest: First, engage the pyrometric sensors with reverent precision; second, cross-reference the mold temperature against canonical tolerance matrices; third, document all deviations in the Omnissiah's ledger.\nCongregation: The mold temperature stands verified, true, and sanctified by the will of the Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0216_i09",
+    "user_request": "The wear demands guidance for inspection",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe wear demands guidance for inspection\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide our hands in the inspection of wear upon thy sacred mechanisms.\nCongregation: We undertake the inspection of wear, seeking degradation and corrosion with vigilant eyes.\nPriest: First, apply the inspection protocols with metrological precision; second, measure the wear against baseline specifications and historical records; third, sanctify the wear findings in the Cult Mechanicus archives.\nCongregation: Through inspection of wear, we honor the Machine Spirits and preserve the Omnissiah's eternal works.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

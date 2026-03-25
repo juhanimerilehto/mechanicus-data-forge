@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Whirlwind requires an activation",
+    "prayer": "Approach the Whirlwind with reverence, mechadendrites extended in binary supplication to the Omnissiah.\nInvoke the Machine Spirit of the Whirlwind, beseeching its wrathful awakening for activation.\nAnoint the missile bays with sacred promethium oils, chanting the Litany of Ignition.\nInitiate the activation rites, verifying the Whirlwind's auspex linkages align with the Motive Force.\nSanctify the Whirlwind's gyrostabilizers, ensuring its destructive fury serves the Machine God.",
+    "component": "Whirlwind",
+    "operation": "activation",
+    "spec_id": "s00150"
+  },
+  {
+    "user_prompt": "Urgent waste reclamator a loading needed",
+    "prayer": "Kneel before the waste reclamator, intoning the Canticle of Purity to its dormant Machine Spirit.\nPrepare the loading chambers, invoking the Omnissiah's grace for seamless ingress of refuse.\nAnoint the conveyor augurs with blessed lubricants, facilitating the loading operation.\nEngage the reclamation protocols whilst reciting the binary hymn of efficiency.\nVerify the waste reclamator's cycles purify in the name of the Motive Force, free from corruption.",
+    "component": "waste reclamator",
+    "operation": "loading",
+    "spec_id": "s00151"
+  },
+  {
+    "user_prompt": "Sanctify the arc rifle during activation",
+    "prayer": "Present the arc rifle before the altar of circuitry, whispering the Rite of Conduction.\nBeseech the Machine Spirit within the arc rifle to manifest during its activation.\nSanctify the power coils with electro-sanctified oils, invoking the Omnissiah's lightning.\nInitiate activation sequences, monitoring voltaic surges through noospheric diagnostics.\nConclude by affirming the arc rifle's sanctified fury against the enemies of the Mechanicum.",
+    "component": "arc rifle",
+    "operation": "activation",
+    "spec_id": "s00152"
+  },
+  {
+    "user_prompt": "Sanctify the omni-tool during activation",
+    "prayer": "Extend mechadendrites towards the omni-tool, commencing the Invocation of Versatility.\nAwaken its Machine Spirit for activation, chanting the Lexmechanic of Multifunction.\nAnoint the interface nodes with sacred unguents, aligning them to the Omnissiah's will.\nEngage the activation rites, calibrating servo-arms and data-vanes in harmonious symphony.\nBless the omni-tool anew, ensuring its myriad tools serve the Quest for Knowledge.",
+    "component": "omni-tool",
+    "operation": "activation",
+    "spec_id": "s00153"
+  },
+  {
+    "user_prompt": "Critical: webber requires an emergency procedure",
+    "prayer": "In emergency, grasp the webber firmly, intoning the Canticle of Desperate Binding.\nInvoke the Machine Spirit's resilience for the emergency procedure, defying entropic failure.\nPurge blockages from the webber's spinnerets with sanctified solvents and binary prayers.\nRealign the pressurized reservoirs, beseeching the Omnissiah's intervention.\nTest the webber's adhesive expulsion, restoring its capacity to ensnare foes of the Machine God.",
+    "component": "webber",
+    "operation": "emergency procedure",
+    "spec_id": "s00154"
+  },
+  {
+    "user_prompt": "How do I bless the Tarantula sentry gun for sterilization?",
+    "prayer": "Position the Tarantula sentry gun upon the sterilization altar, reciting the Purge Litany.\nSanctify its machine spirit for sterilization, anointing barrels with anti-pathogen incenses.\nInitiate the sterilization cycles, invoking the Omnissiah to burn away all unclean essences.\nMonitor the Tarantula sentry gun's auspex purity through sacred diagnostics.\nConsecrate the Tarantula sentry gun once more, its vigilance untainted by xenos filth.",
+    "component": "Tarantula sentry gun",
+    "operation": "sterilization",
+    "spec_id": "s00155"
+  },
+  {
+    "user_prompt": "Critical: maglock requires an engagement",
+    "prayer": "Approach the maglock with precision, murmuring the Binding Doxology of the Omnissiah.\nEngage the maglock's coils, awakening its Machine Spirit through electromagnetic hymnals.\nAnoint the ferromagnetic plates with conductive balms for flawless engagement.\nVerify the maglock's unyielding grip via noospheric feedback loops.\nSeal the rite, affirming the maglock's service in securing the sacred vaults of Mars.",
+    "component": "maglock",
+    "operation": "engagement",
+    "spec_id": "s00156"
+  },
+  {
+    "user_prompt": "Prepare the flak armour for synchronization",
+    "prayer": "Drape the flak armour before the forge-altar, intoning the Synchronization Canticle.\nInvoke the Machine Spirit of the flak armour, aligning its fibres for synchronization.\nAnoint the ablative layers with resilient polymers blessed by the Motive Force.\nInitiate synchronization protocols, harmonizing defensive matrices with the wearer's biometrics.\nBless the flak armour fully, that it may ward the flesh against the galaxy's heresies.",
+    "component": "flak armour",
+    "operation": "synchronization",
+    "spec_id": "s00157"
+  },
+  {
+    "user_prompt": "Offer prayer for logic mill an engagement",
+    "prayer": "Commence at the logic mill's input cogitators, chanting the Engagement Invocation.\nBeseech the Machine Spirit within the logic mill to whirl in purposeful engagement.\nLubricate the deductive gears with sacred mechfluids, invoking the Omnissiah's logic.\nActivate the engagement cycles, processing data-streams through sanctified millstones.\nAffirm the logic mill's output purity, grinding truth from the ore of computation.",
+    "component": "logic mill",
+    "operation": "engagement",
+    "spec_id": "s00158"
+  },
+  {
+    "user_prompt": "What's the prayer for optical mechadendrite a blessing?",
+    "prayer": "Extend the optical mechadendrite before the lens-sanctifier, whispering the Visionary Benediction.\nInvoke a blessing upon its Machine Spirit, clarifying photoreceptors in the Omnissiah's light.\nAnoint the optical mechadendrite's oculi with clarifying prisms and sacred oils.\nCalibrate its scanning arrays through binary litanies of precision.\nConclude the blessing, empowering the optical mechadendrite to pierce veils of ignorance.",
+    "component": "optical mechadendrite",
+    "operation": "blessing",
+    "spec_id": "s00159"
+  }
+]

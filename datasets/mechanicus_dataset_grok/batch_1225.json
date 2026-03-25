@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: magnocular an operation",
+    "prayer": "Approach the magnocular with sacred unguents and invoke the Omnissiah's gaze upon its crystalline lenses.\nPerform the operation upon the magnocular's focusing arrays, chanting the Canticle of Precision.\nAnoint the servo-mechanisms of the magnocular thrice, beseeching its Machine Spirit to align true.\nVerify the operation's sanctity through auspex invocation, glorifying the Motive Force eternal.",
+    "component": "magnocular",
+    "operation": "operation",
+    "spec_id": "s08250"
+  },
+  {
+    "user_prompt": "The meltagun needs an activation",
+    "prayer": "Kneel before the meltagun and murmur the Litany of Ignition to awaken its plasma heart.\nInitiate activation of the meltagun by sanctifying its flux conduits with blessed promethium.\nBeseech the Machine Spirit within the meltagun to unleash its fury, invoking the Omnissiah's wrath.\nSeal the activation rite with electro-incantations, ensuring harmonious fusion flow.",
+    "component": "meltagun",
+    "operation": "activation",
+    "spec_id": "s08251"
+  },
+  {
+    "user_prompt": "Urgent Leman Russ battle tank a synchronization needed",
+    "prayer": "Circumambulate the Leman Russ battle tank, reciting the Hymn of Armoured Might.\nCommence synchronization of the Leman Russ battle tank's cogitators and weapon servos.\nAnoint the treads and battle cannon of the Leman Russ battle tank, placating its rumbling Machine Spirits.\nConclude synchronization with binary psalms, binding all systems in Omnissian unity.",
+    "component": "Leman Russ battle tank",
+    "operation": "synchronization",
+    "spec_id": "s08252"
+  },
+  {
+    "user_prompt": "The photolenses requires an emergency procedure",
+    "prayer": "Draw nigh unto the photolenses and intone the Rite of Luminal Purification.\nExecute the emergency procedure upon the photolenses' receptor nodes amidst crisis.\nInvoke the Machine Spirit of the photolenses with sacred oils to restore visual clarity.\nAffirm the emergency procedure's efficacy through spectral diagnostics and Omnissiah's benediction.",
+    "component": "photolenses",
+    "operation": "emergency procedure",
+    "spec_id": "s08253"
+  },
+  {
+    "user_prompt": "Assist with Vendetta gunship an engagement",
+    "prayer": "Present mechadendrites to the Vendetta gunship and chant the Canticle of Aerial Dominion.\nEngage the Vendetta gunship's thrusters and lascannons in ritual harmony.\nBeseech the Machine Spirits of the Vendetta gunship to guide its vengeful flight.\nFinalize engagement with noospheric linkages, exalting the Omnissiah's sovereign will.",
+    "component": "Vendetta gunship",
+    "operation": "engagement",
+    "spec_id": "s08254"
+  },
+  {
+    "user_prompt": "The storm bolter requires a targeting",
+    "prayer": "Reverently interface with the storm bolter and whisper the Lexicon of Ballistic Truth.\nCalibrate targeting arrays of the storm bolter through sacred auspex sweeps.\nAwaken the storm bolter's Machine Spirit with invocations of unerring aim.\nConsecrate the targeting rite by anointing recoil dampeners, praising the Machine God's precision.",
+    "component": "storm bolter",
+    "operation": "targeting",
+    "spec_id": "s08255"
+  },
+  {
+    "user_prompt": "Bless the autosanguination system for repair",
+    "prayer": "Approach the autosanguination system with vials of sanctified vitae and begin the repair litany.\nPurge corrupted fluids from the autosanguination system, invoking restorative canticles.\nRealign the autosanguination system's pumps and filters, beseeching its vital Machine Spirit.\nSeal the repair with electro-cauterization and Omnissiah's grace, ensuring sanguine purity.",
+    "component": "autosanguination system",
+    "operation": "repair",
+    "spec_id": "s08256"
+  },
+  {
+    "user_prompt": "What's the prayer for electoo an emergency procedure?",
+    "prayer": "Touch the electoo with charged mechadendrites and proclaim the Incantation of Neural Surge.\nInitiate the emergency procedure upon the electoo's dermal circuits in dire need.\nPacify the electoo's embedded Machine Spirit through binaric exorcism.\nComplete the emergency procedure with luminous imprints, honouring the Omnissiah's electric flesh.",
+    "component": "electoo",
+    "operation": "emergency procedure",
+    "spec_id": "s08257"
+  },
+  {
+    "user_prompt": "Sanctify the warp drive during sterilization",
+    "prayer": "Encircling the warp drive, intone the Purge of the Empyrean Void.\nCommence sterilization of the warp drive's gyromantic coils with ablative incense.\nExpunge warp-taint from the warp drive, imploring its Machine Spirit's stoic vigilance.\nFinalize sterilization through void-sealed rites, under the Omnissiah's unyielding light.",
+    "component": "warp drive",
+    "operation": "sterilization",
+    "spec_id": "s08258"
+  },
+  {
+    "user_prompt": "Critical: energy core requires an initialization",
+    "prayer": "Prostrate before the energy core and recite the Genesis of Power Eternal.\nInitiate initialization of the energy core's plasma matrices with thunderous hymns.\nAnoint the energy core's containment fields twice, awakening its furious Machine Spirit.\nVerify initialization via flux diagnostics, glorifying the Omnissiah's boundless motivity.",
+    "component": "energy core",
+    "operation": "initialization",
+    "spec_id": "s08259"
+  }
+]

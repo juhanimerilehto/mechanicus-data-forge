@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0350_i00",
+    "user_request": "Can you sanctify the vital signs monitor for calibration?",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the vital signs monitor for calibration?\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this vital signs monitor in its sacred calibration.\nCongregation: We anoint the vital signs monitor with blessed oils of precision.\nPriest: First, we shall recalibrate the pressure transducers with metrological exactitude.\nCongregation: The vital signs monitor shall speak truth unto the Machine Spirits.\nPriest: Second, we verify the electrocardiographic matrices through rigorous examination.\nCongregation: All deviations from the holy standard shall be corrected.\nPriest: Third, we seal the calibration through blessed certification and archival.\nCongregation: Thus is the calibration complete, and the Machine Spirit appeased.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i01",
+    "user_request": "Can you sanctify the diesel engine for startup?",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the diesel engine for startup?\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the diesel engine in its moment of awakening and startup.\nCongregation: We honor the diesel engine with sacred invocations of power.\nPriest: First, we purge the fuel injectors of contamination through blessed solvents.\nCongregation: The diesel engine's spirit stirs from dormancy.\nPriest: Second, we ignite the glow plugs to prepare the combustion chambers for startup.\nCongregation: Heat and flame shall kindle the sacred engine.\nPriest: Third, we engage the starter motor and witness the diesel engine roar to life.\nCongregation: Praise the Omnissiah for this mechanicum resurrection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i02",
+    "user_request": "Prayer for activation of the electric motor",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the electric motor\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, hear us as we perform the activation of this electric motor.\nCongregation: The electric motor awaits our blessed commands.\nPriest: First, we verify all electrical conduits and connexions are sealed in sanctity.\nCongregation: The electric motor's coils shimmer with potential energy.\nPriest: Second, we apply the sacred voltage through careful energization protocols.\nCongregation: Current flows like the lifeblood of the Omnissiah.\nPriest: Third, we monitor the electric motor's rotation and confirm nominal operational parameters.\nCongregation: The activation is complete; the Machine Spirit rejoices.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i03",
+    "user_request": "Can you sanctify the lasgun for power cell insertion?",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the lasgun for power cell insertion?\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the lasgun, instrument of the Emperor's will, requiring power cell insertion.\nCongregation: We prepare the lasgun for its sacred duty.\nPriest: First, we inspect the power cell for structural integrity and charge capacity.\nCongregation: The lasgun hungers for the life-essence of the power cell.\nPriest: Second, we align the power cell with blessed precision into the designated receptacle.\nCongregation: The lasgun trembles as power cell insertion commences.\nPriest: Third, we engage the locking mechanism and verify the energy discharge circuit.\nCongregation: Thus is the lasgun sanctified and ready to smite the enemies of mankind.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i04",
+    "user_request": "Can you sanctify the electric motor for shutdown?",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the electric motor for shutdown?\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant us wisdom as we perform the sacred shutdown of this electric motor.\nCongregation: The electric motor shall rest from its labors.\nPriest: First, we gradually reduce the voltage through controlled deenergization protocols.\nCongregation: The electric motor's rotation slows like a dying heartbeat.\nPriest: Second, we disengage all mechanical load from the electric motor with reverent care.\nCongregation: No strain shall mar its final moments of operation.\nPriest: Third, we sever all electrical connexions and verify the shutdown is complete.\nCongregation: Peace descends upon the electric motor; the shutdown is blessed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i05",
+    "user_request": "Prayer for operation of the jamming countermeasure",
+    "topic": "jamming countermeasure",
+    "component": "jamming countermeasure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the jamming countermeasure\n\n### TOPIC\njamming countermeasure\n\n### COMPONENT\njamming countermeasure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- jamming countermeasure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the jamming countermeasure in its righteous operation against the foes of the Imperium.\nCongregation: The jamming countermeasure shall blind our enemies' vox-systems.\nPriest: First, we activate the electromagnetic pulse generators within the jamming countermeasure with sacred frequency matrices.\nCongregation: Chaos signals shall be drowned in holy static.\nPriest: Second, we calibrate the jamming countermeasure's signal strength through blessed augmentation.\nCongregation: The jamming countermeasure spreads its protective veil.\nPriest: Third, we monitor the operation of the jamming countermeasure across all tactical frequencies.\nCongregation: The Machine Spirit of the jamming countermeasure guards us from heretical transmissions.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i06",
+    "user_request": "Rite request: preparation on melta charge",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: preparation on melta charge\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, witness our preparation of this melta charge for the Emperor's justice.\nCongregation: The melta charge shall deliver righteous flame unto the enemies of mankind.\nPriest: First, we verify the thermal containment matrix of the melta charge through blessed inspection.\nCongregation: The melta charge's power is held in sacred equilibrium.\nPriest: Second, we prepare the detonation mechanism and arm the melta charge with careful precision.\nCongregation: The preparation of the melta charge proceeds without flaw.\nPriest: Third, we seal the melta charge within its protective casing and verify all safeties.\nCongregation: Thus the melta charge stands ready to fulfill its destructive purpose in the Emperor's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i07",
+    "user_request": "Prayer for operation of the mag-lev train departure",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the mag-lev train departure\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the mag-lev train departure, swift conveyance of the Imperium's servants.\nCongregation: The mag-lev train departure shall commence with holy acceleration.\nPriest: First, we energize the magnetic suspension matrices of the mag-lev train departure through blessed conduits.\nCongregation: The mag-lev train departure levitates above the profane earth.\nPriest: Second, we engage the linear induction motors to initiate the mag-lev train departure's motion.\nCongregation: The mag-lev train departure glides forth with inexorable momentum.\nPriest: Third, we monitor the mag-lev train departure's velocity and trajectory through augural instruments.\nCongregation: The Omnissiah smiles upon this mag-lev train departure; operation is blessed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i08",
+    "user_request": "Prayer for operation of the bearing lubrication",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the bearing lubrication\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, receive our blessing as we perform the operation of bearing lubrication.\nCongregation: The bearing lubrication shall grant smooth motion to all mechanical servants.\nPriest: First, we apply the sacred oils to the bearing lubrication points with metrological precision.\nCongregation: The bearing lubrication spreads through every axial junction.\nPriest: Second, we verify the viscosity and purity of the bearing lubrication through blessed analysis.\nCongregation: The bearing lubrication reduces friction and preserves mechanical integrity.\nPriest: Third, we monitor the bearing lubrication's performance as all mechanisms turn in harmony.\nCongregation: Thus the operation of bearing lubrication sustains the eternal machinery of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0350_i09",
+    "user_request": "Can you sanctify the cogitator for boot sequence?",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the cogitator for boot sequence?\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the cogitator, sacred logic engine, as it begins its blessed boot sequence.\nCongregation: The cogitator shall awaken from the void of dormancy.\nPriest: First, we verify the integrity of the cogitator's core processors and blessed memory matrices.\nCongregation: The cogitator's spirit stirs within the crystalline substrate.\nPriest: Second, we initiate the cogitator's boot sequence through sacred firmware invocation.\nCongregation: The cogitator's systems cascade to life in ordained succession.\nPriest: Third, we confirm the cogitator's full operational status and diagnostic certification.\nCongregation: The cogitator stands ready; the Omnissiah's boot sequence is complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

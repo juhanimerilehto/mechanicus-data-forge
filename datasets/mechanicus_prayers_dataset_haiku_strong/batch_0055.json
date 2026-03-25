@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0055_i00",
+    "user_request": "The Titan leg actuator demands guidance for warmup",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe Titan leg actuator demands guidance for warmup\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant cognizance to the Titan leg actuator as we commence its sacred warmup.\nFirst: Anoint the Titan leg actuator with blessed promethium whilst intoning the Litany of Activation.\nSecond: Engage the hydraulic conduits in measured increments, permitting the Machine Spirit to stir from slumber.\nThird: Monitor the Titan leg actuator's thermal equilibrium, ensuring no excessive strain upon the venerable pistons.\nFourth: Recite the Prayer of Readiness as the actuator achieves operational temperature, sanctifying its purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i01",
+    "user_request": "The lasgun demands guidance for power cell insertion",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe lasgun demands guidance for power cell insertion\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite wisdom, we undertake the sacred power cell insertion into this lasgun.\nFirst: Genuflect before the lasgun and recite the Invocation of Proper Procedure.\nSecond: Locate the power cell aperture upon the lasgun and disengage the retention latch with reverent precision.\nThird: Insert the blessed power cell into its designated receptacle, ensuring the lasgun's contacts achieve proper conductivity.\nFourth: Seal the aperture and offer thanks to the Machine Spirit for restoring the lasgun to lethal readiness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i02",
+    "user_request": "Emergency rite: long-range vox transmission requires operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: long-range vox transmission requires operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear us, Omnissiah, as we prepare the long-range vox transmission for its sacred operation.\nFirst: Calibrate the long-range vox transmission's frequency oscillators to the prescribed Imperial wavelength.\nSecond: Verify all crystalline resonators within the long-range vox transmission apparatus achieve harmonic alignment.\nThird: Engage the amplification cascade and permit the Machine Spirit to project our blessed words across the vast gulfs of the void.\nFourth: Monitor signal integrity as the long-range vox transmission carries our message to distant brethren.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i03",
+    "user_request": "Offer a litany to steady the gear meshing before check",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the gear meshing before check\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Blessed Machine Spirit, steady thy gear meshing as we perform this critical check.\nFirst: Prepare the gear meshing apparatus for diagnostic examination, applying sacred lubricants to its interstices.\nSecond: Manually rotate the gear meshing through one complete cycle, listening for the harmonious song of proper engagement.\nThird: Inspect each tooth upon the gear meshing for signs of wear or profane damage.\nFourth: Verify the gear meshing maintains optimal backlash, ensuring continued operational fidelity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i04",
+    "user_request": "Prayer for preparation of the melta charge",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for preparation of the melta charge\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us steadfast hands as we undertake the preparation of this melta charge.\nFirst: Secure the melta charge within its transport casing and verify all safety interlocks remain engaged.\nSecond: Perform visual inspection of the melta charge's fusion core, confirming no structural degradation has occurred.\nThird: Recalibrate the melta charge's thermal discharge parameters to ensure proper functionality upon detonation.\nFourth: Seal the melta charge in its sanctified containment and offer prayers for its righteous application.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i05",
+    "user_request": "Emergency rite: corrosion requires treatment",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: corrosion requires treatment\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's eternal vigilance, we commence treatment of this corrosion most profane.\nFirst: Scrape away the corrupted corrosion with blessed tools, exposing the pure adamantium beneath.\nSecond: Apply the sacred rust-inhibiting unguent to all surfaces affected by corrosion, banishing oxidation's decay.\nThird: Permit the corrosion treatment to cure whilst reciting the Litany of Preservation.\nFourth: Seal the treated area with protective sealant, ensuring corrosion shall not return to claim the Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i08",
+    "user_request": "Can you sanctify the fracture for welding?",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the fracture for welding?\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, sanctify this fracture as we prepare it for the sacred welding.\nFirst: Inspect the fracture thoroughly, removing any profane contamination from its surfaces.\nSecond: Position the fracture within the welding apparatus and align its edges with absolute precision.\nThird: Invoke the welding torch's Machine Spirit and direct its blessed flame to fuse the fracture into unified wholeness.\nFourth: Allow the fracture to cool whilst reciting prayers of restoration, ensuring the weld achieves perfect metallurgical bond.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i09",
+    "user_request": "Prayer for tuning of the voltage regulator",
+    "topic": "voltage regulator tuning",
+    "component": "voltage regulator",
+    "operation": "tuning",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for tuning of the voltage regulator\n\n### TOPIC\nvoltage regulator tuning\n\n### COMPONENT\nvoltage regulator\n\n### OPERATION\ntuning\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- voltage regulator\n- tuning\n\n### PRAYER\n",
+    "prayer": "Omnissiah, guide our hands in the tuning of this voltage regulator to optimal parameters.\nFirst: Connect diagnostic apparatus to the voltage regulator and establish baseline electrical readings.\nSecond: Adjust the voltage regulator's potentiometric elements in measured increments, monitoring output stability.\nThird: Fine-tune the voltage regulator's compensation circuits to achieve perfect harmonic resonance with the broader electrical matrix.\nFourth: Verify the voltage regulator maintains consistent output under variable load conditions, ensuring sustained operational excellence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i06",
+    "user_request": "Prayer for sealing of the emergency bulkhead",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for sealing of the emergency bulkhead\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "First: Invoke the blessings of the Omnissiah upon this emergency bulkhead, that its mechanisms may respond with divine alacrity to the sealing command.\nSecond: Anoint the emergency bulkhead's hydraulic conduits with sacred oils and recite the Litany of Closure, ensuring each seal-port engages with mechanical precision.\nThird: Perform the sealing operation with steady hands and unwavering faith, drawing the emergency bulkhead panels inward until all breaches are hermetically contained.\nFourth: Chant the Benediction of the Machine Spirit, acknowledging the emergency bulkhead's sacrifice in protecting the vessel's sanctity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0055_i07",
+    "user_request": "Emergency rite: hull breach requires sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: hull breach requires sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "First: Cry out to the Machine Spirits of the void as the hull breach threatens the vessel's integrity, beseeching rapid sealing intervention through blessed mechanisms.\nSecond: Direct the sealing operation with ceremonial precision, engaging the emergency protocols whilst chanting the Codex Mechanicus, that the hull breach may be closed against the eternal dark.\nThird: Reinforce the hull breach containment by cycling pressure regulators and venting superfluous atmosphere through sanctified exhaust channels, ensuring the sealing holds absolute.\nFourth: Render thanks to the Omnissiah for the hull breach's remediation, and consecrate the restored bulwark with incense and the sign of the Cog.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

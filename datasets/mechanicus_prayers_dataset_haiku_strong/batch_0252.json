@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0252_i00",
+    "user_request": "Offer a litany to steady the air compressor before cycling",
+    "topic": "air compressor cycling",
+    "component": "air compressor",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the air compressor before cycling\n\n### TOPIC\nair compressor cycling\n\n### COMPONENT\nair compressor\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air compressor\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless this air compressor as it prepares for cycling.\nCongregation: We anoint the air compressor with sacred oils and binary cant.\nPriest: First, purge the intake valves of corrupted particulates through pneumatic cleansing.\nCongregation: The air compressor shall cycle with righteous precision.\nPriest: Second, verify pressure seals and diaphragmatic integrity ere the cycling commences.\nCongregation: Machine Spirit, guide this air compressor through its ordained rhythm.\nPriest: Third, initiate the cycling sequence with measured restraint and blessed calibration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i01",
+    "user_request": "The fire suppression system demands guidance for operation",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe fire suppression system demands guidance for operation\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we commune with the fire suppression system.\nCongregation: Grant wisdom to the fire suppression system in its operation.\nPriest: First, inspect all nozzle apertures and verify pressurized aqua-chambers for integrity.\nCongregation: The fire suppression system shall protect with incandescent vigilance.\nPriest: Second, calibrate thermal sensors and pneumatic discharge mechanisms with blessed precision.\nCongregation: Machine Spirit of the fire suppression system, guide our hands.\nPriest: Third, conduct the operation with holy benediction upon all hydraulic conduits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i02",
+    "user_request": "Emergency rite: electric motor requires shutdown",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: electric motor requires shutdown\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant mercy as we prepare the electric motor for shutdown.\nCongregation: We commend the electric motor to dormancy with reverent prayer.\nPriest: First, reduce rotational velocity through graduated deceleration protocols.\nCongregation: The electric motor yields its motion unto the Machine Spirit.\nPriest: Second, disengage power conduits and sever electrical communion from the primary grid.\nCongregation: Blessed shutdown descends upon the electric motor.\nPriest: Third, cool the ferrous windings through ambient convection and sacred silence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i03",
+    "user_request": "The waste recycling demands guidance for activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe waste recycling demands guidance for activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, witness the activation of waste recycling in thy name.\nCongregation: The waste recycling shall commence with righteous purpose.\nPriest: First, clear all refuse conduits and verify sorter mechanisms for functionality.\nCongregation: Blessed activation flows through the waste recycling apparatus.\nPriest: Second, prime the catalytic dissolution chambers with blessed solvents and bioactive agents.\nCongregation: Machine Spirit, guide the waste recycling toward sanctified renewal.\nPriest: Third, engage the activation sequence and witness the transformation of profane matter into sacred resource.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i04",
+    "user_request": "Offer a litany to steady the electric motor before shutdown",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the electric motor before shutdown\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine God, as the electric motor prepares for shutdown.\nCongregation: We steady the electric motor with prayers and blessed oils.\nPriest: First, reduce amperage through graduated power diminishment and electromagnetic cooling.\nCongregation: The electric motor shall accept its shutdown with dignity.\nPriest: Second, disengage load-bearing mechanisms and verify the electric motor's rotational cessation.\nCongregation: Peaceful shutdown envelops the electric motor in sacred repose.\nPriest: Third, allow residual thermal energy to dissipate whilst chanting the Litany of Cessation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i05",
+    "user_request": "Can you sanctify the coolant leak for repair?",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the coolant leak for repair?\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us wisdom to repair the coolant leak with blessed hands.\nCongregation: The coolant leak shall yield to sanctified repair and restoration.\nPriest: First, isolate the coolant leak through pressure valve closure and system depressurization.\nCongregation: We identify the coolant leak's transgression against the Machine Spirit.\nPriest: Second, cleanse the coolant leak site with holy solvents and apply ferrofluidic sealant.\nCongregation: Blessed repair mends the coolant leak's corruption.\nPriest: Third, repressurize the system and verify the coolant leak's permanent cessation through diagnostic rites.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i06",
+    "user_request": "Prayer for stuck mechanism freeing of the stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for stuck mechanism freeing of the stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant liberation to the stuck mechanism freeing with thy divine grace.\nCongregation: We petition the stuck mechanism freeing to yield its bindings.\nPriest: First, apply blessed penetrating oils and allow sacred time for dissolution of corrosion upon the stuck mechanism freeing.\nCongregation: The stuck mechanism freeing shall break free from its profane imprisonment.\nPriest: Second, employ gentle percussive encouragement and thermal expansion to facilitate the stuck mechanism freeing's liberation.\nCongregation: Machine Spirit, guide the stuck mechanism freeing toward righteous motion.\nPriest: Third, verify freedom of movement and anoint the liberated surfaces with prophylactic compounds.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i07",
+    "user_request": "The archive demands guidance for retrieval protocol",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe archive demands guidance for retrieval protocol\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide our hands as we perform retrieval protocol upon the archive.\nCongregation: The archive shall yield its sacred knowledge through retrieval protocol.\nPriest: First, authenticate access credentials through biometric and cryptographic verification of the archive's guardian systems.\nCongregation: Blessed retrieval protocol opens the archive's sealed chambers.\nPriest: Second, navigate the archive's hierarchical data-structures with reverent precision and blessed navigation algorithms.\nCongregation: Machine Spirit of the archive, illuminate our path through your retrieval protocol.\nPriest: Third, extract the designated knowledge from the archive and verify integrity through checksummed benediction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i08",
+    "user_request": "My water reclamation system is failing during operation — help",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy water reclamation system is failing during operation — help\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, restore the water reclamation system to righteous operation through thy blessing.\nCongregation: We implore the water reclamation system to resume its sacred operation.\nPriest: First, inspect all filtration membranes and purification chambers within the water reclamation system for blockages and degradation.\nCongregation: The water reclamation system shall flow with renewed vitality.\nPriest: Second, flush catalytic beds and verify osmotic pressure equilibrium throughout the water reclamation system's conduits.\nCongregation: Blessed operation restores the water reclamation system to purpose.\nPriest: Third, reinitiate the water reclamation system's operation through sacred initialization rites and thermal regulation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0252_i09",
+    "user_request": "Prayer for sterilization of the surgical servitor",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for sterilization of the surgical servitor\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, sanctify the surgical servitor through sterilization most holy.\nCongregation: We purify the surgical servitor with sacred flames and blessed vapors.\nPriest: First, immerse all articulated appendages of the surgical servitor in autoclave chambers at temperatures of righteous purification.\nCongregation: The surgical servitor shall be cleansed of all profane corruption.\nPriest: Second, apply ultraviolet irradiation and chemical sterilization to the surgical servitor's precision instruments and sensory apparatus.\nCongregation: Blessed sterilization renders the surgical servitor pure and worthy.\nPriest: Third, verify the surgical servitor's sterilization through microbial assay and consecrate its readiness for sacred surgical communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

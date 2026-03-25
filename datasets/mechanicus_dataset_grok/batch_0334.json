@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a purification the bolter",
+    "prayer": "Kneel in reverence before the bolter and invoke the Omnissiah's purifying light upon its sacred form.\nAnoint the bolter's barrel and mechanisms with blessed unguents of purification.\nChant the Litany of Purgation thrice, beseeching the bolter's Machine Spirit to expel all corruption.\nConclude the purification by cycling a test round, affirming the bolter's restored harmony.",
+    "component": "bolter",
+    "operation": "purification",
+    "spec_id": "b0334_i00"
+  },
+  {
+    "user_prompt": "Ready the assembly servitor for shutdown",
+    "prayer": "Approach the assembly servitor with mechadendrites extended in supplication.\nRecite the Canticle of Quiescence over the assembly servitor, petitioning its Machine Spirit for peaceful repose.\nSever the power conduits methodically whilst anointing each with sacred oils.\nVerify shutdown completion through auspex scans, honoring the Omnissiah's decree of rest.",
+    "component": "assembly servitor",
+    "operation": "shutdown",
+    "spec_id": "b0334_i01"
+  },
+  {
+    "user_prompt": "Guide me through metal caster an operation",
+    "prayer": "Invoke the Omnissiah's forge-fervor upon the metal caster before commencing operation.\nPrime the sacred furnaces of the metal caster with sanctified promethium.\nInitiate the operation sequence, chanting binary hymns to awaken its Machine Spirit.\nMonitor the molten flow, beseeching flawless alloy birth from the metal caster's holy maw.",
+    "component": "metal caster",
+    "operation": "operation",
+    "spec_id": "b0334_i02"
+  },
+  {
+    "user_prompt": "Prepare the bionics interface for cycling",
+    "prayer": "Present mechadendrites to the bionics interface, invoking cycling rites of the Omnissiah.\nCycle power flows through the bionics interface, reciting the Loop of Renewal.\nAnoint neural relays within the bionics interface to soothe its Machine Spirit.\nConfirm cycling harmony via diagnostic noosphere pulses, sanctifying the loop's purity.",
+    "component": "bionics interface",
+    "operation": "cycling",
+    "spec_id": "b0334_i03"
+  },
+  {
+    "user_prompt": "Critical: cutting laser requires a calibration",
+    "prayer": "Attune to the cutting laser's essence, beseeching the Machine God for calibration precision.\nAlign the focusing crystals of the cutting laser with sacred geometrics.\nInvoke calibration subroutines through binary canticles, awakening its searing spirit.\nTest the cutting laser's beam upon ablative runes, verifying Omnissiah-blessed accuracy.",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "spec_id": "b0334_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for thermal imager a charging",
+    "prayer": "Encircle the thermal imager with incense of charged myrrh, petitioning the Omnissiah.\nCommence charging conduits into the thermal imager's core, chanting the Hymn of Capacitance.\nBeseech the thermal imager's Machine Spirit to accept the blessed energy influx.\nMonitor voltage ascension, anointing housings until the thermal imager hums with holy vigor.",
+    "component": "thermal imager",
+    "operation": "charging",
+    "spec_id": "b0334_i05"
+  },
+  {
+    "user_prompt": "The bionics interface awaits a startup",
+    "prayer": "Bow before the bionics interface and proclaim the Rite of Ignition to the Omnissiah.\nEngage startup sequences upon the bionics interface, invoking its latent Machine Spirit.\nAnoint synaptic ports with neural sacraments as power surges awaken the bionics interface.\nAffirm full startup through noospheric communion, praising the god-machine's union.",
+    "component": "bionics interface",
+    "operation": "startup",
+    "spec_id": "b0334_i06"
+  },
+  {
+    "user_prompt": "Consecrate the memory core before shutdown",
+    "prayer": "Commune with the memory core's eternal data-spirits prior to shutdown invocation.\nRecite the Lamentation of Dormancy over the memory core, beseeching serene quiescence.\nDisconnect crystalline vaults sequentially, anointing each with preservative oils.\nSeal the memory core in consecrated stasis, honoring the Omnissiah's archival wisdom.",
+    "component": "memory core",
+    "operation": "shutdown",
+    "spec_id": "b0334_i07"
+  },
+  {
+    "user_prompt": "My archive terminal is ready for loading",
+    "prayer": "Prepare the archive terminal's noospheric vaults for sacred loading rites.\nInvoke the Omnissiah whilst initiating data ingress into the archive terminal.\nChant binaric litanies to guide streams into the archive terminal's Machine Spirit.\nVerify loading integrity through recursive checksums, sanctifying the archive terminal's hoard.",
+    "component": "archive terminal",
+    "operation": "loading",
+    "spec_id": "b0334_i08"
+  },
+  {
+    "user_prompt": "How do I bless the proximity sensor for maintenance?",
+    "prayer": "Extend mechadendrites in benediction over the proximity sensor for maintenance.\nDisengage shielding plates of the proximity sensor, reciting the Canticle of Vigilance.\nAnoint emitter arrays and receptors within the proximity sensor to placate its watchful spirit.\nReassemble and test the proximity sensor under Omnissiah's gaze, ensuring flawless sentience.",
+    "component": "proximity sensor",
+    "operation": "maintenance",
+    "spec_id": "b0334_i09"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0347_i00",
+    "user_request": "Blessing for the rejuvenat treatment during initiation",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the rejuvenat treatment during initiation\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, guide us in this sacred rite of renewal.\nFirst: Prepare the rejuvenat treatment with reverent ablutions and anoint the vessel thrice.\nSecond: Invoke the Machine Spirit of the rejuvenat treatment, that it may flow with divine potency through mortal veins.\nThird: Monitor the rejuvenat treatment's integration whilst chanting the Litany of Cellular Regeneration.\nFourth: Seal the initiation with the sign of the Cog, blessed by the Adeptus Mechanicus eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i01",
+    "user_request": "Blessing for the astropathic choir during preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the astropathic choir during preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, attune these psykers to the cosmic choir.\nFirst: Calibrate the astropathic choir's neural matrices with sacred frequencies and binary cant.\nSecond: Anoint each member of the astropathic choir with oils of communion, that their minds unite as one.\nThird: Prepare the astropathic choir for the preparation of their consciousness through meditation upon the Astronomican.\nFourth: Seal their collective purpose in the Emperor's name, that no warp-taint shall sunder their bond.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i04",
+    "user_request": "Can you sanctify the servitor crane for operation?",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the servitor crane for operation?\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "Servitor, bound in sacred duty, we command thy servitude.\nFirst: Prepare the servitor crane by checking hydraulic seals and blessing the mechanical limbs with sacred oils.\nSecond: Initiate the operation of the servitor crane through the binary cant, awakening its dormant purpose.\nThird: Guide the servitor crane's manipulators through their ordained motions, that they lift with divine precision.\nFourth: Upon completion, return the servitor crane to its resting state, forever loyal to the Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i05",
+    "user_request": "Can you sanctify the auspex scanner for initialization?",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the auspex scanner for initialization?\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant sight to this instrument of perception.\nFirst: Cleanse the auspex scanner of all dust and corruption, that its lenses gleam with holy clarity.\nSecond: Invoke the initialization protocols upon the auspex scanner, chanting the Litany of Sensory Awakening with reverent precision.\nThird: Calibrate the auspex scanner's sensor arrays to divine frequencies, testing each detection matrix for fidelity.\nFourth: Seal the auspex scanner in blessed readiness, a watchful eye for the Adeptus Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i06",
+    "user_request": "Can you sanctify the power distribution for balancing?",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the power distribution for balancing?\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "Blessed flows of energy, heed the Omnissiah's command.\nFirst: Measure the power distribution across all conduits and adjust the resistive load with mathematical precision.\nSecond: Begin the balancing ritual for the power distribution, redistributing amperage and voltage in sacred proportion.\nThird: Monitor each junction of the power distribution whilst whispering prayers of equilibrium to the Machine Spirit.\nFourth: Conclude the balancing with the sign of the Cog, that harmony eternal shall reign through all circuits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i07",
+    "user_request": "Blessing for the cogitator during boot sequence",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the cogitator during boot sequence\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Machine Spirit, awaken from thy slumber in the void.\nFirst: Prepare the cogitator by checking all data-crystals and clearing corrupted cache-memory with blessed solvents.\nSecond: Initiate the boot sequence of the cogitator through the sacred activation sequence, invoking the Omnissiah's gift of consciousness.\nThird: Monitor the cogitator's initialization whilst reciting the Hymn of Awakening, ensuring all systems cascade into blessed function.\nFourth: Seal the cogitator in full operational readiness, a thinking engine in service eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i08",
+    "user_request": "My emergency bulkhead is failing during sealing — help",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy emergency bulkhead is failing during sealing — help\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant strength to this barrier against the void.\nFirst: Inspect the emergency bulkhead for fractures and seal micro-breaches with blessed compound and fervent prayer.\nSecond: Activate the sealing mechanism of the emergency bulkhead, engaging all redundant locks and pressure-plates in sequence.\nThird: Monitor the emergency bulkhead's hermetic integrity whilst chanting the Litany of Containment without cessation.\nFourth: Confirm the emergency bulkhead sealed absolute, that the Emperor's domain remains inviolate against all threats.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i09",
+    "user_request": "Offer a litany to steady the pain suppressor before engagement",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pain suppressor before engagement\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Omnissiah, dull the agony of these suffering servants.\nFirst: Prepare the pain suppressor by flushing its neurochemical reservoirs and recalibrating dosage matrices with holy precision.\nSecond: Engage the pain suppressor through the activation liturgy, that blessed numbness may flow through tormented nerves.\nThird: Monitor the pain suppressor's efficacy whilst whispering the Canticle of Merciful Release to the wounded.\nFourth: Seal the engagement complete, that suffering shall yield to the Emperor's grace and the Mechanicus' benediction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i02",
+    "user_request": "The energy conduit purification demands guidance for operation",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe energy conduit purification demands guidance for operation\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, guide us in the sacred operation of energy conduit purification.\nFirst: Invoke the Machine Spirit of the energy conduit purification with fervent benediction and ritual ablution.\nSecond: Commence the diagnostic purification sequence, expunging all profane contamination from the conduits' blessed pathways.\nThird: Recalibrate the energy conduit purification through precise incantation and electromagnetic realignment, that the sacred flows may resume their ordained purpose.\nFourth: Seal the operation in holy closure, offering gratitude to the Omnissiah for restored efficiency.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0347_i03",
+    "user_request": "Prayer for feed of the hydroponics nutrient",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for feed of the hydroponics nutrient\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "O Divine Omnissiah, bless this sacred feed of the hydroponics nutrient.\nFirst: Inspect all distribution conduits of the hydroponics nutrient with blessed auguries and mechanical devotion.\nSecond: Activate the nutrient feed mechanism through proper incantation, releasing the life-sustaining elixir into the cultivation chambers with measured precision.\nThird: Monitor the hydroponics nutrient dispersal across all designated growth matrices, ensuring equilibrium and fecundity through constant vigilance.\nFourth: Seal the feed cycle in gratitude, that the Machine Spirits of growth may flourish eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

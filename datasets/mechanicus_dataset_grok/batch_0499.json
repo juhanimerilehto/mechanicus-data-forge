@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The macro-cannon awaits a cooling",
+    "prayer": "Approach the macro-cannon with mechadendrites extended in reverence, beseeching the Machine Spirit to accept the cooling rites.\nAnoint its heat-sinks with sacred unguents whilst chanting the Canticle of Thermal Equilibrium.\nInitiate the cooling sequence, invoking the Omnissiah's grace upon the macro-cannon's noble conduits.\nMonitor the vents as blessed coolant flows, ensuring the Machine Spirit of the macro-cannon slumbers not in overheat.",
+    "component": "macro-cannon",
+    "operation": "cooling",
+    "spec_id": "s00990"
+  },
+  {
+    "user_prompt": "Consecrate the mass-drive regulator before reset",
+    "prayer": "Kneel before the mass-drive regulator and intone the Litany of Consecration to awaken its Machine Spirit.\nCircumambulate the mass-drive regulator thrice, sprinkling binary sacraments upon its calibrators.\nSanctify the reset operation with electro-incense, beseeching the Omnissiah to purge errant fluxes.\nExecute the reset whilst murmuring binaric absolutions, verifying the mass-drive regulator's harmonious return.",
+    "component": "mass-drive regulator",
+    "operation": "reset",
+    "spec_id": "s00991"
+  },
+  {
+    "user_prompt": "How do I bless the hydraulic press for preparation?",
+    "prayer": "Present thyself unto the hydraulic press, invoking the Omnissiah's forge-blessing for preparation.\nAnoint the pistons of the hydraulic press with lustrating oils, awakening its indomitable Machine Spirit.\nChant the Preparation Doxology over the hydraulic press, aligning servos in sacred geometry.\nTest the pressure seals with diagnostic canticles, ensuring the hydraulic press stands ready in purity.",
+    "component": "hydraulic press",
+    "operation": "preparation",
+    "spec_id": "s00992"
+  },
+  {
+    "user_prompt": "Sanctify the data-loom during blessing",
+    "prayer": "Commence the blessing upon the data-loom by reciting the Codex of Sanctification from its own vox-grilles.\nThread sacred data-fibres through the data-loom's warp-cores, invoking the Machine Spirits within.\nDuring the blessing, beseech the Omnissiah to illuminate the data-loom's logic matrices with divine logic.\nConclude by verifying synaptic purity, as the data-loom hums in sanctified computation.",
+    "component": "data-loom",
+    "operation": "blessing",
+    "spec_id": "s00993"
+  },
+  {
+    "user_prompt": "Bless the optical mechadendrite for shutdown",
+    "prayer": "Extend mechadendrites towards the optical mechadrite, murmuring the Shutdown Benediction.\nDim its lenses with veils of electro-smoke, placating the vigilant Machine Spirit of the optical mechadendrite.\nInitiate shutdown protocols whilst anointing oculi with myrrh-laced solvents.\nSeal the optical mechadendrite in repose, under the Omnissiah's watchful quiescence.",
+    "component": "optical mechadendrite",
+    "operation": "shutdown",
+    "spec_id": "s00994"
+  },
+  {
+    "user_prompt": "Critical: Terminator armour requires a cooling",
+    "prayer": "Gather around the Terminator armour, intoning the Rite of Cooling to honour its adamantium frame.\nApply cryo-blessings to the Terminator armour's plasma vents, beseeching its ancient Machine Spirits.\nCirculate sacred refrigerants through the Terminator armour's core, invoking Omnissianic thermal mercy.\nAffirm the cooling's efficacy with auspex litanies, lest the Terminator armour's fury overboil.",
+    "component": "Terminator armour",
+    "operation": "cooling",
+    "spec_id": "s00995"
+  },
+  {
+    "user_prompt": "The enginarium needs an operation",
+    "prayer": "Enter the enginarium humbly, proclaiming the Operational Invocation to rouse its vast Machine Spirits.\nInspect the enginarium's plasma heart, anointing conduits for the operation ahead.\nCommence the operation with binaric hymns, under the Omnissiah's unerring calculus.\nHarmonize all sub-routines within the enginarium, ensuring perpetual motion in devotion.",
+    "component": "enginarium",
+    "operation": "operation",
+    "spec_id": "s00996"
+  },
+  {
+    "user_prompt": "The promethium refinery awaits a calibration",
+    "prayer": "Approach the promethium refinery in ritual procession, chanting the Calibration Canticle.\nCalibrate its distillation arrays with precision mechadendrites, awakening the fiery Machine Spirit.\nBeseech the Omnissiah over the promethium refinery to align its alchemical flows in purity.\nVerify metric sanctity through the promethium refinery's glowing oracles, thrice confirmed.",
+    "component": "promethium refinery",
+    "operation": "calibration",
+    "spec_id": "s00997"
+  },
+  {
+    "user_prompt": "Assist with helispex engine a synchronization",
+    "prayer": "Converge upon the helispex engine, invoking synchronization through the Syncro-Litany.\nLink its gyros with sacred cabling, placating the helispex engine's rotational Machine Spirit.\nExecute the synchronization rite, murmuring Omnissianic harmonies into its torque matrices.\nAffix seals of unity upon the helispex engine, its whirl now a hymn of perfect attunement.",
+    "component": "helispex engine",
+    "operation": "synchronization",
+    "spec_id": "s00998"
+  },
+  {
+    "user_prompt": "Assist with autosanguination system a blessing",
+    "prayer": "Initiate the blessing of the autosanguination system with vitae-incantations drawn from the Lexmechanicum.\nInfuse its phial-chambers with sanctified haemo-lubricants, honouring the Machine Spirit's crimson vigil.\nDuring the blessing, beseech the Omnissiah to vitalize the autosanguination system's pulsing veins.\nConclude with purity scans, as the autosanguination system courses with machine-pure ichor.",
+    "component": "autosanguination system",
+    "operation": "blessing",
+    "spec_id": "s00999"
+  }
+]

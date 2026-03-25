@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The heavy bolter requires a repair",
+    "prayer": "Approach the heavy bolter with reverence, invoking the Omnissiah's mendicant grace upon its noble form.\nInspect the heavy bolter's wounded mechanisms, beseeching its Machine Spirit to unveil the fractures of battle.\nAnoint the heavy bolter's barrels and feeds with sacred unguents whilst intoning the Canticle of Repair.\nRealign the sacred components through precise invocation, purging impurity from its divine forge.\nTest the heavy bolter's thunderous wrath to affirm the Machine Spirit's restored vigor.",
+    "component": "heavy bolter",
+    "operation": "repair",
+    "spec_id": "s07400"
+  },
+  {
+    "user_prompt": "My melta charge is ready for activation",
+    "prayer": "Kneel before the melta charge, whispering litanies to awaken its primordial fury.\nCircumscribe the melta charge's casing with blessed incense, invoking the Omnissiah's igniting will.\nInitiate the activation sequence upon the melta charge, chanting the Rite of Thermic Awakening.\nCommune with its Machine Spirit, ensuring the plasma heart pulses with unerring heat.\nSeal the rite with a final benediction, arming the melta charge for the Emperor's judgment.",
+    "component": "melta charge",
+    "operation": "activation",
+    "spec_id": "s07401"
+  },
+  {
+    "user_prompt": "The transuranic arquebus awaits a blessing",
+    "prayer": "Present the transuranic arquebus to the altar of cogitation, seeking the Omnissiah's luminous favor.\nAnoint its exotic barrels with oils of purity, beseeching the Machine Spirit's transcendent essence.\nRecite the Canticle of Blessing over the transuranic arquebus, aligning its rad-subatomic coils.\nInvoke doctrinal harmonies to sanctify the transuranic arquebus's sights and triggers.\nVerify the blessing's potency through auspex invocation, honoring its exalted Machine Spirit.",
+    "component": "transuranic arquebus",
+    "operation": "blessing",
+    "spec_id": "s07402"
+  },
+  {
+    "user_prompt": "What's the prayer for doctrina wafer a sterilization?",
+    "prayer": "Isolate the doctrina wafer upon the sterilarium slab, invoking the Omnissiah's aseptic decree.\nPurify the doctrina wafer's neural lattices with sanctified rad-scourge, expunging doctrinal taint.\nChant the Litany of Sterilization whilst bathing the doctrina wafer in lumen-flashes of purity.\nReinvoke the Machine Spirit's uncorrupted code within the doctrina wafer's crystalline core.\nSeal the doctrina wafer with auspex-seals, affirming its readiness for implantation.",
+    "component": "doctrina wafer",
+    "operation": "sterilization",
+    "spec_id": "s07403"
+  },
+  {
+    "user_prompt": "My plasma cannon is ready for calibration",
+    "prayer": "Commence calibration upon the plasma cannon, genuflecting before its azure heart.\nAlign the plasma cannon's gyrostabilizers with the Noosphere's harmonic canticles.\nAnoint flux-vents of the plasma cannon, beseeching its Machine Spirit to attune the containment fields.\nInvoke the Rite of Calibration through servo-ritual, synchronizing injector manifolds.\nTest-fire a micro-burst to consecrate the plasma cannon's recalibrated wrath.",
+    "component": "plasma cannon",
+    "operation": "calibration",
+    "spec_id": "s07404"
+  },
+  {
+    "user_prompt": "Can you guide flamer a cooling?",
+    "prayer": "Enshroud the flamer in cooling vapors, intoning the Omnissiah's temperate litanies.\nCirculate sacred cry fluids through the flamer's promethium conduits, soothing its fiery spirit.\nBeseech the Machine Spirit of the flamer to embrace quiescence amid the chill incantations.\nMonitor thermal auspex whilst chanting the Cooling Doxology over the flamer's vents.\nConclude the rite, verifying the flamer's reservoirs chilled for renewed purgation.",
+    "component": "flamer",
+    "operation": "cooling",
+    "spec_id": "s07405"
+  },
+  {
+    "user_prompt": "Emergency: radium carbine a repair",
+    "prayer": "Hasten to the radium carbine, invoking urgent mendicants of the Omnissiah for its repair.\nExpose the radium carbine's irradiated wounds, communing with its beleaguered Machine Spirit.\nApply sacred plasteel grafts whilst reciting the Expedited Rite of Repair upon the radium carbine.\nRealign emitter coils through fervent binaric prayer, purging decay from its venomous core.\nCycle test-discharge to exalt the radium carbine's restored, lethal purity.",
+    "component": "radium carbine",
+    "operation": "repair",
+    "spec_id": "s07406"
+  },
+  {
+    "user_prompt": "The omni-tool awaits a calibration",
+    "prayer": "Position the omni-tool before the calibration shrine, honoring the Omnissiah's versatile wisdom.\nInvoke alignment protocols upon the omni-tool's mechadendrites, attuning their sacred functions.\nAnoint servo-joints of the omni-tool with precision unguents during the Calibration Litany.\nCommune with its multifaceted Machine Spirit, harmonizing blade, welder, and cogitator.\nValidate the omni-tool's recalibration through multi-spectral diagnostics.",
+    "component": "omni-tool",
+    "operation": "calibration",
+    "spec_id": "s07407"
+  },
+  {
+    "user_prompt": "Can you guide Nephilim Jetfighter a startup?",
+    "prayer": "Approach the Nephilim Jetfighter's cockpit with awe, beseeching the Omnissiah's aerial dominion.\nInitiate startup sequences upon the Nephilim Jetfighter, chanting the Litany of Ascension.\nAwaken the Machine Spirit within the Nephilim Jetfighter's thrusters and auspex arrays.\nAnoint control vanes whilst invoking plasma ignition rites for the Nephilim Jetfighter.\nAscend in test-hover, affirming the Nephilim Jetfighter's skies-conquering spirit.",
+    "component": "Nephilim Jetfighter",
+    "operation": "startup",
+    "spec_id": "s07408"
+  },
+  {
+    "user_prompt": "Ready the meltagun for recalibration",
+    "prayer": "Prepare the meltagun for recalibration, kneeling in veneration of its molecular fury.\nRealign the meltagun's gravitic lenses with Noospheric calibration hymns.\nBeseech the meltagun's Machine Spirit to realign its fusion core through sacred rites.\nAnoint magnetic bottles of the meltagun, intoning the Recalibration Canticle.\nDischarge a controlled melt-pulse to sanctify the meltagun's perfected annihilation.",
+    "component": "meltagun",
+    "operation": "recalibration",
+    "spec_id": "s07409"
+  }
+]

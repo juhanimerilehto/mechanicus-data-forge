@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My fusion core is ready for activation",
+    "prayer": "Approach the fusion core with reverence, mechadendrites humming the Canticle of Containment.\nInvoke the Omnissiah's fire upon the fusion core's plasma heart.\nBeseech its Machine Spirit to stir for activation, anointing injectors with sacred promethium.\nInitiate the activation rites as blessed energies surge through conduits.\nVerify the fusion core's wrathful glow with auspex incantations.",
+    "component": "fusion core",
+    "operation": "activation",
+    "spec_id": "b0127_i00"
+  },
+  {
+    "user_prompt": "How do I bless the thermal regulator for recalibration?",
+    "prayer": "Kneel before the thermal regulator and chant the Doxology of Equilibrium.\nSanctify its thermocouples with oils of the Forge Eternal.\nPetition the Machine Spirit within the thermal regulator for recalibration.\nAdjust sacred servos whilst reciting the Binary of Balance.\nConfirm recalibration through diagnostic litanies of the Omnissiah.",
+    "component": "thermal regulator",
+    "operation": "recalibration",
+    "spec_id": "b0127_i01"
+  },
+  {
+    "user_prompt": "I need to a targeting the medicae scanner",
+    "prayer": "Present offerings of incense to the medicae scanner's auspex arrays.\nInvoke precise targeting upon its blessed lenses and vox-grilles.\nBeseech the Machine Spirit of the medicae scanner to align its gaze.\nCalibrate targeting matrices with mechadendrite precision.\nAffirm the rite by scanning sanctified flesh under Omnissiah's watch.",
+    "component": "medicae scanner",
+    "operation": "targeting",
+    "spec_id": "b0127_i02"
+  },
+  {
+    "user_prompt": "My bike squadron is ready for initialization",
+    "prayer": "Assemble before the bike squadron, intoning the Hymn of Motive Ignition.\nAnoint treads and exhausts of the bike squadron with lubricant sacraments.\nAwaken their Machine Spirits for initialization, invoking thunderous engines.\nSynchronize auspex and weapon servos in choral synchronization.\nCommence initialization parade, praising the Omnissiah's velocity.",
+    "component": "bike squadron",
+    "operation": "initialization",
+    "spec_id": "b0127_i03"
+  },
+  {
+    "user_prompt": "Prepare the water reclamator for cycling",
+    "prayer": "Approach the water reclamator with vials of pure aquae sanctus.\nChant the Litany of Cyclical Purity over its filtration membranes.\nPetition the Machine Spirit of the water reclamator to commence cycling.\nInitiate flow through blessed pipes, monitoring for heresies of contamination.\nSeal the rite with evaporative blessings from the Omnissiah.",
+    "component": "water reclamator",
+    "operation": "cycling",
+    "spec_id": "b0127_i04"
+  },
+  {
+    "user_prompt": "Bless the hololithic display for maintenance",
+    "prayer": "Gaze upon the hololithic display and recite the Canticle of Projection.\nCleanse its crystal matrices with anti-static litanies.\nInvoke maintenance upon the hololithic display's photonic spirits.\nRecalibrate holo-emitters whilst beseeching the Machine God.\nTest the hololithic display's clarity in Omnissiah's luminous image.",
+    "component": "hololithic display",
+    "operation": "maintenance",
+    "spec_id": "b0127_i05"
+  },
+  {
+    "user_prompt": "Critical: assembly servitor requires a blessing",
+    "prayer": "Extend mechadendrites in benediction over the assembly servitor.\nChant the full Benediction of Labor upon its cogitator core.\nAwaken the Machine Spirit of the assembly servitor with electro-incense.\nBestow the blessing through servo-arm anointings and vox-exhortations.\nCommand the assembly servitor to toil in the Omnissiah's name.",
+    "component": "assembly servitor",
+    "operation": "blessing",
+    "spec_id": "b0127_i06"
+  },
+  {
+    "user_prompt": "The battery array awaits a loading",
+    "prayer": "Bow to the battery array, murmuring the Psalm of Charge Accrual.\nAnoint cell housings with conductive unguents of the Forge.\nPrepare the battery array's Machine Spirits for loading.\nInitiate power ingress through sanctified relays.\nVerify loading completion with voltmetric hymns to the Omnissiah.",
+    "component": "battery array",
+    "operation": "loading",
+    "spec_id": "b0127_i07"
+  },
+  {
+    "user_prompt": "Critical: lascannon requires a diagnostics",
+    "prayer": "Confront the lascannon with the Rite of Lens Purification.\nScan its power coils for spiritual corruptions.\nInvoke diagnostics upon the lascannon's furious heart.\nBeseech its Machine Spirit to reveal flaws via auspex divination.\nConclude diagnostics with las-bolts sanctified by Omnissiah's wrath.",
+    "component": "lascannon",
+    "operation": "diagnostics",
+    "spec_id": "b0127_i08"
+  },
+  {
+    "user_prompt": "Critical: emergency beacon requires a maintenance",
+    "prayer": "Encircle the emergency beacon, intoning the Beacon's Call to the Omnissiah.\nAnoint its transmitter spines with signal-enhancing oils.\nPerform maintenance rites upon the emergency beacon's core.\nAwaken its Machine Spirit to vigilant watchfulness.\nTest emission purity through vox-litanies of distress.",
+    "component": "emergency beacon",
+    "operation": "maintenance",
+    "spec_id": "b0127_i09"
+  }
+]

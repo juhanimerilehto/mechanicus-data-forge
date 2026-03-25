@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide Archaeopter Fusilave a shutdown?",
+    "prayer": "Approach the Archaeopter Fusilave with solemn reverence, invoking the Omnissiah's grace for its shutdown.\nInitiate the ritual disengagement of fusion reactors, chanting the Canticle of Dormancy to soothe its Machine Spirit.\nSever power conduits sequentially whilst anointing each junction with sacred oils.\nMonitor the Archaeopter Fusilave's vital signs as it enters stasis, beseeching peaceful slumber until reactivation.\nSeal the access panels with binaric seals, affirming the shutdown's sanctity.",
+    "component": "Archaeopter Fusilave",
+    "operation": "shutdown",
+    "spec_id": "s01080"
+  },
+  {
+    "user_prompt": "Critical: teleportarium requires a preparation",
+    "prayer": "Prepare the teleportarium's sacred chambers by reciting the Litany of Translocation.\nCalibrate the warp-vanes and null-fields with mechadendrite precision, invoking Omnissiah's guidance.\nAnoint the focusing crystals with etheric unguents to awaken the Machine Spirit for preparation.\nConduct auspex sweeps to purge any warp-taint, ensuring the teleportarium's flawless readiness.\nInvoke final benediction, aligning quantum matrices for the imminent operation.",
+    "component": "teleportarium",
+    "operation": "preparation",
+    "spec_id": "s01081"
+  },
+  {
+    "user_prompt": "My Basilisk artillery is ready for startup",
+    "prayer": "Commence startup of the Basilisk artillery by approaching its earthshaker cannon with veneration.\nChant the Awakening Doxology to rouse the dormant Machine Spirit within the Basilisk artillery.\nPrime the propellant feeds and elevation servos, sanctifying each with incense of promethium.\nEngage ignition rites upon the reactor core, monitoring auspex for harmonious ascension.\nVerify full operational litanies as the Basilisk artillery thunders to Omnissiah's will.",
+    "component": "Basilisk artillery",
+    "operation": "startup",
+    "spec_id": "s01082"
+  },
+  {
+    "user_prompt": "Critical: thunder hammer requires a repair",
+    "prayer": "Kneel before the thunder hammer, beseeching the Omnissiah for repair of its disrupted power field.\nDisassemble the disrupted coils with ritual purity, expunging warp-corruption from the Machine Spirit.\nRealign the disruption matrices and anoint ferro-fibres with conductive balms.\nReassemble the thunder hammer under binaric chants, invoking resilience anew.\nTest the repair through sanctified strikes, affirming the Omnissiah's mending grace.",
+    "component": "thunder hammer",
+    "operation": "repair",
+    "spec_id": "s01083"
+  },
+  {
+    "user_prompt": "Guide me through grav plating an operation",
+    "prayer": "Initiate operation of the grav plating by reciting the Canticle of Gravitic Harmony.\nAttune the field emitters across the deck, invoking the Machine Spirit's compliance.\nModulate polarity servos with mechadendrite grace, sanctifying each nodal junction.\nMonitor inertial dampeners during grav plating operation, purging any anomalous fluctuations.\nConclude with litanies of stability, ensuring the grav plating upholds Omnissiah's order.",
+    "component": "grav plating",
+    "operation": "operation",
+    "spec_id": "s01084"
+  },
+  {
+    "user_prompt": "Guide me through cogitator a sterilization",
+    "prayer": "Approach the cogitator for sterilization, chanting the Purgation Hymn to cleanse its noosphere.\nPurge corrupted data-slates with viral exorcisms, beseeching the Machine Spirit's purity.\nFlush memory vaults with sanctified code-purgatives, anointing logic gates with silver polish.\nScan recursive pathways for residual taint during cogitator sterilization.\nSeal the cogitator with wards of the Omnissiah, affirming its reborn sanctity.",
+    "component": "cogitator",
+    "operation": "sterilization",
+    "spec_id": "s01085"
+  },
+  {
+    "user_prompt": "Urgent narthecium a maintenance needed",
+    "prayer": "Undertake maintenance of the narthecium by invoking the Chirurgeon's Litany.\nDisinfect servo-arms and flesh-vats with ablative acids, honouring the Machine Spirit.\nLubricate injectors and recalibrate auto-suturers with blessed mechfluids.\nTest narthecium functions through diagnostic rites, ensuring flawless ministration.\nConclude maintenance with Omnissiah's benediction upon the narthecium's sacred tools.",
+    "component": "narthecium",
+    "operation": "maintenance",
+    "spec_id": "s01086"
+  },
+  {
+    "user_prompt": "Sanctify the Baneblade during loading",
+    "prayer": "Sanctify the Baneblade during loading by encircling its vast hull with incense braziers.\nBless each shell as it enters the magazine bays, chanting munitions litanies to the Machine Spirit.\nAlign breeches and hoists under binaric oversight for the Baneblade loading.\nInvoke Omnissiah's fury upon the ordinance, sealing hatches with adamantine wards.\nCommence auspex verification, affirming the Baneblade's readiness for war.",
+    "component": "Baneblade",
+    "operation": "loading",
+    "spec_id": "s01087"
+  },
+  {
+    "user_prompt": "Assist with multi-melta a synchronization",
+    "prayer": "Commence synchronization of the multi-melta by reciting the Fusion Canticle.\nLink targeting cogitators and plasma conduits, awakening the multi-melta's Machine Spirit.\nCalibrate thermal exchangers with auspex precision, anointing vents with promethium oil.\nInitiate test-firing rites to affirm synchronization harmony.\nBeseech Omnissiah's coherence upon the multi-melta, purging dissonance eternally.",
+    "component": "multi-melta",
+    "operation": "synchronization",
+    "spec_id": "s01088"
+  },
+  {
+    "user_prompt": "Emergency: optical mechadendrite a diagnostics",
+    "prayer": "Initiate diagnostics upon the optical mechadendrite with the Rite of Scrutiny.\nDeploy auspex probes along optic fibres, invoking the Machine Spirit's clarity.\nScan retinal arrays and focus servos for aberrations, chanting clarity litanies.\nPurge any visual ghosts during optical mechadendrite diagnostics.\nConclude with Omnissiah's vision-benediction, restoring unerring sight.",
+    "component": "optical mechadendrite",
+    "operation": "diagnostics",
+    "spec_id": "s01089"
+  }
+]

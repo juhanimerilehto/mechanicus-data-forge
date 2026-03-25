@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide thunder hammer a preparation?",
+    "prayer": "Approach the thunder hammer with pious dread, invoking the Omnissiah's thunderous might.\nAnoint the thunder hammer's sacred head and haft with sanctified promethium oils.\nBeseech the Machine Spirit within the thunder hammer to awaken for preparation.\nAlign its disruption fields through ritual incantations of activation.\nVerify the thunder hammer's resonance with the Motive Force during preparation rites.",
+    "component": "thunder hammer",
+    "operation": "preparation",
+    "spec_id": "s07300"
+  },
+  {
+    "user_prompt": "Offer prayer for Razorback an operation",
+    "prayer": "Present the Razorback before the altar of gears, chanting the Liturgy of Mobilisation.\nSanctify its tracks and hull with ablative incense for the operation ahead.\nInvoke the Machine Spirit of the Razorback to heed the call of operation.\nCalibrate auspex arrays whilst beseeching the Omnissiah's guidance.\nCommence engine priming with the Canticle of Enduring Motion.",
+    "component": "Razorback",
+    "operation": "operation",
+    "spec_id": "s07301"
+  },
+  {
+    "user_prompt": "Offer prayer for servo-arm a shutdown",
+    "prayer": "Reverently grasp the servo-arm and recite the Doxology of Repose.\nDisconnect power conduits with precision, honouring the shutdown sequence.\nAnoint the servo-arm's joints with cooling unguents to soothe its Machine Spirit.\nIntone the Litany of Shutdown upon the servo-arm twice.\nSeal its mechanisms in slumber under the Omnissiah's watchful gaze.",
+    "component": "servo-arm",
+    "operation": "shutdown",
+    "spec_id": "s07302"
+  },
+  {
+    "user_prompt": "Prepare the iron halo for charging",
+    "prayer": "Circumambulate the iron halo thrice, murmuring the Benediction of Aegis.\nInitiate charging protocols by linking to the plasma shrine.\nBeseech the Machine Spirit of the iron halo to accept the charging influx.\nMonitor field coherence during charging with binary prayers.\nConclude by sanctifying the iron halo's emitters with sacred sparks.",
+    "component": "iron halo",
+    "operation": "charging",
+    "spec_id": "s07303"
+  },
+  {
+    "user_prompt": "Help me a reset the conversion beamer",
+    "prayer": "Kneel at the conversion beamer's base and declaim the Reset Canticle.\nPurge errant data-ghosts from its phase coils through exorcism rites.\nInvoke the Omnissiah to guide the reset of the conversion beamer.\nRealign gravitic lenses with mechadendrite precision.\nTest the conversion beamer's purity post-reset with auspex litanies.",
+    "component": "conversion beamer",
+    "operation": "reset",
+    "spec_id": "s07304"
+  },
+  {
+    "user_prompt": "My transit mag-rail is ready for synchronization",
+    "prayer": "Position the transit mag-rail within the synchronization cradle.\nChant the Hymn of Harmonic Convergence over its rails.\nAwaken the Machine Spirit of the transit mag-rail for synchronization.\nSynchronize accelerator coils via ritual binary chants.\nAffirm unity of the transit mag-rail with the Omnissiah's grand design.",
+    "component": "transit mag-rail",
+    "operation": "synchronization",
+    "spec_id": "s07305"
+  },
+  {
+    "user_prompt": "How do I bless the Hellhound for targeting?",
+    "prayer": "Anoint the Hellhound's targeting optics with blessed viscid lubricant.\nIntone the Litany of Predator's Gaze upon its machine soul.\nCalibrate reticle servos for targeting under Omnissiah's fire.\nBeseech the Machine Spirit of the Hellhound to lock upon the unclean.\nVerify targeting matrices with the Canticle of Unerring Flame.",
+    "component": "Hellhound",
+    "operation": "targeting",
+    "spec_id": "s07306"
+  },
+  {
+    "user_prompt": "Assist with Archaeopter Transvector a diagnostics",
+    "prayer": "Deploy diagnostic cantors around the Archaeopter Transvector's fuselage.\nRecite the Omnissiah's Diagnostic Codex to probe its systems.\nInvoke the Machine Spirit of the Archaeopter Transvector for revelation.\nPurge anomalies through binary purifications during diagnostics.\nSeal the rites with a blessing upon the Archaeopter Transvector's wings.",
+    "component": "Archaeopter Transvector",
+    "operation": "diagnostics",
+    "spec_id": "s07307"
+  },
+  {
+    "user_prompt": "I need to a calibration the data-arc",
+    "prayer": "Align the data-arc upon the calibration altar of silicon saints.\nChant the Calibration Doxology to attune its flux conduits.\nBeseech the data-arc's Machine Spirit to embrace true calibration.\nFine-tune waveform purity with sacred mechadendrite probes.\nConsecrate the data-arc anew in the Omnissiah's electric light.",
+    "component": "data-arc",
+    "operation": "calibration",
+    "spec_id": "s07308"
+  },
+  {
+    "user_prompt": "Offer prayer for Vindicator a blessing",
+    "prayer": "Prostrate before the Vindicator and offer the Great Benediction.\nAnoint its demolisher cannon with oils of righteous destruction.\nInvoke the blessing upon the Vindicator's adamantium heart.\nAwaken its Machine Spirit through thunderous litanies.\nAffirm the Vindicator's sanctity with rites of unyielding fury.",
+    "component": "Vindicator",
+    "operation": "blessing",
+    "spec_id": "s07309"
+  }
+]

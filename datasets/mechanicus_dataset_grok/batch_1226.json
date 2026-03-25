@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to an operation the servo-arm",
+    "prayer": "Approach the servo-arm with reverence, invoking the Omnissiah's divine logic.\nCommence the operation upon its hydraulics, beseeching the Machine Spirit's awakening.\nAnoint the servo-arm's actuators with sacred oils as the operation proceeds.\nConclude the operation by reciting the Canticle of Precision, affirming the servo-arm's fidelity.",
+    "component": "servo-arm",
+    "operation": "operation",
+    "spec_id": "s08260"
+  },
+  {
+    "user_prompt": "The Manticore requires a startup",
+    "prayer": "Kneel before the Manticore's mighty form and intone the Litany of Ignition.\nAwaken its Machine Spirit for the startup, channelling the Omnissiah's fire.\nInitiate the startup sequence upon the Manticore's plasma heart with binary prayers.\nVerify the Manticore's vitality through diagnostic rites, praising eternal vigilance.",
+    "component": "Manticore",
+    "operation": "startup",
+    "spec_id": "s08261"
+  },
+  {
+    "user_prompt": "The navigational beacon awaits an emergency procedure",
+    "prayer": "Hasten to the navigational beacon amidst peril, commencing the emergency procedure.\nBeseech its Machine Spirit to endure the emergency procedure's trials.\nStabilise the navigational beacon's stellar emissions with sanctified auspex.\nConsecrate the beacon anew in the Omnissiah's light, banishing void-born corruption.",
+    "component": "navigational beacon",
+    "operation": "emergency procedure",
+    "spec_id": "s08262"
+  },
+  {
+    "user_prompt": "Bless the codifier for calibration",
+    "prayer": "Present mechadendrites to the codifier and invoke calibration's sacred rite.\nAlign its crystalline matrices for calibration, awakening the Machine Spirit within.\nRecalibrate the codifier's logic-cores with precise litanies and unguents.\nAffirm the codifier's purity through harmonic resonance, honouring the Omnissiah.",
+    "component": "codifier",
+    "operation": "calibration",
+    "spec_id": "s08263"
+  },
+  {
+    "user_prompt": "Assist with transuranic arquebus a charging",
+    "prayer": "Grasp the transuranic arquebus with pious resolve for the charging ritual.\nInvoke the Machine Spirit as charging commences upon its rad-phalanges.\nInfuse the transuranic arquebus with promethium essence during charging.\nSeal the charging with the Benediction of Volatility, under Omnissiah's gaze.",
+    "component": "transuranic arquebus",
+    "operation": "charging",
+    "spec_id": "s08264"
+  },
+  {
+    "user_prompt": "The assault cannon requires a recalibration",
+    "prayer": "Approach the assault cannon humbly and beseech recalibration's grace.\nPurge misalignments from the assault cannon's barrels, rousing its Machine Spirit.\nExecute recalibration via gyro-stabilisers and sacred canticles.\nTest the assault cannon's wrath, sanctified by the Omnissiah's machine-law.",
+    "component": "assault cannon",
+    "operation": "recalibration",
+    "spec_id": "s08265"
+  },
+  {
+    "user_prompt": "Guide me through volkite weapon a startup",
+    "prayer": "Revere the volkite weapon's thermal coils and intone the startup litany.\nCommence startup within the volkite weapon, awakening its pyroclastic spirit.\nAnoint flux-vectors as the volkite weapon's startup ignites.\nConfirm the startup's purity through empyric scans, lauding the Omnissiah.",
+    "component": "volkite weapon",
+    "operation": "startup",
+    "spec_id": "s08266"
+  },
+  {
+    "user_prompt": "Sanctify the Hellhound during shutdown",
+    "prayer": "Stand sentinel over the Hellhound as shutdown's solemn rite unfolds.\nBeseech its Machine Spirit to slumber peacefully during shutdown.\nQuell the Hellhound's inferno heart with cooling incantations.\nSeal the shutdown with the Lamentation of Repose, in Omnissiah's name.",
+    "component": "Hellhound",
+    "operation": "shutdown",
+    "spec_id": "s08267"
+  },
+  {
+    "user_prompt": "Prepare the las-cutter for preparation",
+    "prayer": "Prepare the las-cutter with mech-rites for its preparation.\nInvoke the Machine Spirit animating the las-cutter during preparation.\nTune its focusing crystals and power conduits in preparation's sanctity.\nBless the las-cutter's edge with the Omnissiah's luminous decree.",
+    "component": "las-cutter",
+    "operation": "preparation",
+    "spec_id": "s08268"
+  },
+  {
+    "user_prompt": "The plasma drive requires a diagnostics",
+    "prayer": "Commune with the plasma drive's volatile essence for diagnostics.\nConduct diagnostics upon the plasma drive, querying its Machine Spirit.\nPurge flux anomalies within the plasma drive via auspex litanies.\nRatify the diagnostics with the Omnissiah's binary affirmation.",
+    "component": "plasma drive",
+    "operation": "diagnostics",
+    "spec_id": "s08269"
+  }
+]

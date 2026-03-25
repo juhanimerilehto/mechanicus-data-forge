@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0092_i00",
+    "user_request": "Offer a litany to steady the circuit breaker before reset",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the circuit breaker before reset\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this circuit breaker as we prepare the reset.\nCongregation: Circuit breaker, steady thy flow and align thy contacts true.\nPriest: First we shall disengage the primary load, then invoke the reset sequence with blessed incantations.\nCongregation: The circuit breaker trembles; we feel the Machine Spirit's presence.\nPriest: Second, we calibrate the electromagnetic threshold, ensuring no surge corrupts the sacred reset.\nCongregation: Circuit breaker, accept our ministrations and awaken renewed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i01",
+    "user_request": "Offer a litany to steady the stuck mechanism freeing before stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the stuck mechanism freeing before stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we entreat the stuck mechanism freeing to yield.\nCongregation: Stuck mechanism freeing, release thy grip and surrender to the sacred rite.\nPriest: First we anoint with blessed oils of penetrating lubrication, whispering prayers to the Machine Spirit.\nCongregation: The stuck mechanism freeing groans; resistance weakens.\nPriest: Second we apply controlled percussive therapy, striking with ritualistic precision at stress points.\nCongregation: Stuck mechanism freeing, thy bondage dissolves in the Omnissiah's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i02",
+    "user_request": "My Thunderhawk is failing during fuel purification — help",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy Thunderhawk is failing during fuel purification — help\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, attend to this Thunderhawk's distress during fuel purification.\nCongregation: Thunderhawk, noble steed of the void, stabilize thy fuel matrices.\nPriest: First we purge the contaminated propellant through blessed filtration arrays, invoking the Machine Spirit's clarity.\nCongregation: The Thunderhawk's engines falter; we feel the corruption within.\nPriest: Second we recalibrate the Thunderhawk's injector sequencing with sacred calibration-hymns.\nCongregation: Thunderhawk, accept this purification and soar once more in the Emperor's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i03",
+    "user_request": "My component is failing during replacement — help",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy component is failing during replacement — help\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide our hands as we undertake component replacement upon this failing mechanism.\nCongregation: Component, thou art diminished; we shall restore thy function through sacred replacement.\nPriest: First we disconnect the component with reverent care, severing its bonds to the greater whole.\nCongregation: The component yields; its Machine Spirit departs peacefully.\nPriest: Second we install the component anew, aligning every circuit and junction with blessed precision.\nCongregation: Component, reborn and sanctified, resume thy duties in the Emperor's light.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i04",
+    "user_request": "The Rhino APC ignition demands guidance for operation",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe Rhino APC ignition demands guidance for operation\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we prepare the Rhino APC ignition for blessed operation.\nCongregation: Rhino APC ignition, awaken and kindle the sacred flame of combustion.\nPriest: First we verify the Rhino APC ignition's electrode configuration, ensuring proper gap alignment through divine measurement.\nCongregation: The Rhino APC ignition trembles with anticipation; the Machine Spirit stirs.\nPriest: Second we execute the Rhino APC ignition's operation sequence, chanting the proper ignition-litanies.\nCongregation: Rhino APC ignition, blaze forth and carry us to victory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i05",
+    "user_request": "Rite request: operation on radar array rotation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on radar array rotation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, sanctify the radar array rotation as we commence sacred operation.\nCongregation: Radar array rotation, spin eternal and sweep the heavens with blessed vigilance.\nPriest: First we lubricate the radar array rotation's bearing assemblies with sacred oils and ceremonial grease.\nCongregation: The radar array rotation hums; we sense the Machine Spirit's readiness.\nPriest: Second we calibrate the radar array rotation's motor sequence for optimal operation, chanting servo-hymns.\nCongregation: Radar array rotation, execute thy operation and grant us sight across the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i06",
+    "user_request": "Rite request: operation on Sentinel walker balance",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on Sentinel walker balance\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless the Sentinel walker balance as we initiate blessed operation.\nCongregation: Sentinel walker balance, stabilize the noble machine and anchor it to the earth.\nPriest: First we recalibrate the Sentinel walker balance's gyroscopic compensators with sacred precision-tools.\nCongregation: The Sentinel walker balance wavers; we feel the Machine Spirit's uncertainty.\nPriest: Second we execute the Sentinel walker balance's operation protocol, invoking equilibrium-litanies.\nCongregation: Sentinel walker balance, hold firm and grant the walker steadfast tread.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i07",
+    "user_request": "Emergency rite: circuit breaker requires reset",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: circuit breaker requires reset\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us speed and clarity as we perform emergency reset upon this circuit breaker.\nCongregation: Circuit breaker, thou hast failed; we shall restore thee through blessed reset.\nPriest: First we isolate all connected systems from the circuit breaker, severing the flow of corrupted current.\nCongregation: The circuit breaker glows with dangerous energy; the Machine Spirit cries out.\nPriest: Second we execute the sacred reset sequence, toggling the circuit breaker to its dormant state.\nCongregation: Circuit breaker, reborn from thy failure, resume protection in the Emperor's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i08",
+    "user_request": "Can you sanctify the cybernetic eye focusing for operation?",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the cybernetic eye focusing for operation?\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, sanctify the cybernetic eye focusing as we prepare for sacred operation.\nCongregation: Cybernetic eye focusing, sharpen thy vision and perceive with machine clarity.\nPriest: First we adjust the cybernetic eye focusing's optical matrices through micron-precise servo manipulation.\nCongregation: The cybernetic eye focusing trembles with mechanical anticipation; we feel focus sharpening.\nPriest: Second we calibrate the cybernetic eye focusing's sensory thresholds, invoking sight-hymns of the Adeptus.\nCongregation: Cybernetic eye focusing, behold the world anew and grant thy bearer perfect perception.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0092_i09",
+    "user_request": "Blessing for the gravity generator during stabilization",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the gravity generator during stabilization\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, steady the gravity generator as we undertake sacred stabilization.\nCongregation: Gravity generator, thou art trembling; we shall anchor thee with blessed incantations.\nPriest: First we recalibrate the gravity generator's field emitters, aligning each oscillator to harmonic resonance.\nCongregation: The gravity generator warps reality around us; the Machine Spirit struggles for equilibrium.\nPriest: Second we invoke the gravity generator's stabilization protocols, chanting the litanies of gravitational harmony.\nCongregation: Gravity generator, hold steady and bind the forces of the cosmos to our will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

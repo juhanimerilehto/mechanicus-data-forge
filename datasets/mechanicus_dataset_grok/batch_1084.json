@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the Nephilim Jetfighter for operation",
+    "prayer": "Approach the Nephilim Jetfighter with auspicious reverence, beseeching its Machine Spirit to awaken for operation.\nAnoint the thruster vanes and auspex arrays with sacred unguents, invoking the Omnissiah's favour upon the Nephilim Jetfighter.\nChant the Canticle of Aerial Dominion whilst calibrating the vectoring nozzles for flawless operation.\nCommence the ignition rite, verifying the Machine Spirit's harmonious purr through binary auspex scans.",
+    "component": "Nephilim Jetfighter",
+    "operation": "operation",
+    "spec_id": "s06840"
+  },
+  {
+    "user_prompt": "Bless the icarus array for cycling",
+    "prayer": "Kneel before the icarus array, intoning the Litany of Cyclic Renewal to rouse its dormant Machine Spirit.\nCycle the power conduits with sanctified torque-wands, beseeching smooth revolution in the icarus array's core.\nAnoint flux regulators with oils of the Forge, invoking Omnissianic precision for perpetual cycling.\nAffirm the rite's completion via harmonic resonance tests, honouring the Machine Spirit's vigilance.",
+    "component": "icarus array",
+    "operation": "cycling",
+    "spec_id": "s06841"
+  },
+  {
+    "user_prompt": "The icarus array awaits a charging",
+    "prayer": "Present offerings of incense to the icarus array, awakening its essence for the charging rite.\nInfuse the capacitor banks with galvanic essence, chanting binaric hymns as energy surges through the icarus array.\nSanctify the overcharge relays with ablative chrism, beseeching the Omnissiah for unyielding charging potency.\nValidate the infusion through plasma-flow divinations, ensuring the Machine Spirit's charged fury.",
+    "component": "icarus array",
+    "operation": "charging",
+    "spec_id": "s06842"
+  },
+  {
+    "user_prompt": "Assist with jump pack an operation",
+    "prayer": "Commune with the jump pack's sacred chassis, invoking its Machine Spirit for imminent operation.\nPurify the gravitic impellers with aerosolized sanctifiers, preparing the jump pack for stratospheric ascent.\nRecite the Doxology of Leap whilst aligning servo-joints, honouring Omnissianic propulsion in operation.\nTest the leap vectors through ritual simulation, confirming the Machine Spirit's boundless vigour.",
+    "component": "jump pack",
+    "operation": "operation",
+    "spec_id": "s06843"
+  },
+  {
+    "user_prompt": "Can you guide gravity generator a blessing?",
+    "prayer": "Gather in solemn procession around the gravity generator, beseeching Omnissiah's grace for its blessing.\nInvoke the field coils with electro-incantations, sanctifying the gravity generator's warp-nullifying heart.\nAnoint inertial dampeners with blessed ferro-fluids, intoning litanies to bind its Machine Spirit in blessing.\nConclude with gravitic harmonics chant, verifying the generator's omnipotent equilibrium.",
+    "component": "gravity generator",
+    "operation": "blessing",
+    "spec_id": "s06844"
+  },
+  {
+    "user_prompt": "Critical: phosphor blaster requires an initialization",
+    "prayer": "Approach the phosphor blaster in ritual purity, awakening its Machine Spirit for initialization.\nPrime the ignition chambers with pyretic catechisms, aligning the phosphor blaster's venomous coils.\nBeseech the Omnissiah whilst cycling phosphor feeds, invoking flawless initialization sequences.\nAffix purity seals and intone diagnostic binarics, heralding the blaster's incandescent wrath.",
+    "component": "phosphor blaster",
+    "operation": "initialization",
+    "spec_id": "s06845"
+  },
+  {
+    "user_prompt": "Urgent carapace armour a startup needed",
+    "prayer": "Encircle the carapace armour with electro-candles, rousing its ancient Machine Spirit for startup.\nPolish ablative plates with sacred cloths, chanting the Armoury Doxology for the carapace armour's startup.\nActivate servitor linkages via noospheric invocation, beseeching Omnissianic resilience.\nVerify integumental cohesion through auspex litanies, arming the Machine Spirit for battle.",
+    "component": "carapace armour",
+    "operation": "startup",
+    "spec_id": "s06846"
+  },
+  {
+    "user_prompt": "Offer prayer for augmetic limb a preparation",
+    "prayer": "Revere the augmetic limb with mechadendrite caresses, preparing its Machine Spirit through sacred preparation.\nLubricate servo-actuators with essence of the Forge, intoning binaric primers for augmetic limb readiness.\nCalibrate neural interfaces under Omnissiah's gaze, sanctifying the limb's preparation rite.\nTest myomer contractions with ritual exertion, affirming the Machine Spirit's tireless obedience.",
+    "component": "augmetic limb",
+    "operation": "preparation",
+    "spec_id": "s06847"
+  },
+  {
+    "user_prompt": "I need to an activation the Dreadnought",
+    "prayer": "Prostrate before the Dreadnought's sarcophagus, beseeching its wrathful Machine Spirit for activation.\nAnoint dreadnought chassis with vitae-oils, invoking the Omnissiah to ignite activation protocols.\nChant the Saga of Iron Awakening whilst priming weapon servos, honouring the Dreadnought's eternal vigil.\nInitiate core plasma-heart thrum, verifying activation through thunderous auspex roars.",
+    "component": "Dreadnought",
+    "operation": "activation",
+    "spec_id": "s06848"
+  },
+  {
+    "user_prompt": "Ready the cognis heavy stubber for initialization",
+    "prayer": "Commune solemnly with the cognis heavy stubber, rousing its Machine Spirit for initialization.\nCycle the belt-feeds with sanctified levers, beseeching precise initialization in Omnissiah's name.\nPurify barrel rifling via las-ablations, intoning the Ballistic Canticle for the cognis heavy stubber.\nCommence test-fire litany, confirming the Machine Spirit's storm of leaden devotion.",
+    "component": "cognis heavy stubber",
+    "operation": "initialization",
+    "spec_id": "s06849"
+  }
+]

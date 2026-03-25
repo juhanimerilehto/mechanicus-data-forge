@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: webber requires a blessing",
+    "prayer": "Approach the webber with reverence, mechadendrites extended in supplication to the Omnissiah.\nAnoint its spinnerets with sacred chrism whilst intoning the Litany of Binding.\nBeseech the Machine Spirit of the webber to receive this blessing and ensnare the unclean.\nSeal the blessing upon the webber by tracing the sacred cog upon its motive relays.\nVerify the rite's potency through auspex communion with its blessed core.",
+    "component": "webber",
+    "operation": "blessing",
+    "spec_id": "s01970"
+  },
+  {
+    "user_prompt": "Offer prayer for Baneblade a cooling",
+    "prayer": "Kneel before the mighty Baneblade, invoking the Omnissiah's cooling breath upon its febrile heart.\nCirculate sacred coolant through its plasma conduits, chanting the Canticle of Thermic Equilibrium.\nBeseech the Machine Spirit of the Baneblade to embrace this cooling and quell its raging fires.\nAnoint the heat sinks of the Baneblade with cryo-incense, thrice-fold in ritual precision.\nConfirm the cooling's grace via diagnostic litanies and thermal auspex scans.",
+    "component": "Baneblade",
+    "operation": "cooling",
+    "spec_id": "s01971"
+  },
+  {
+    "user_prompt": "Consecrate the Razorback before emergency procedure",
+    "prayer": "Consecrate the Razorback by asperging its armoured hull with sanctified oils.\nInvoke the Machine Spirits of the Razorback to steel themselves for the emergency procedure.\nChant the Rite of Fortitude over its drive mechanisms before commencing the dire works.\nSeal protections upon the Razorback with electro-consecrated wards against the void's perils.\nAffirm readiness through binaric hymns and servo-ritual verifications.",
+    "component": "Razorback",
+    "operation": "emergency procedure",
+    "spec_id": "s01972"
+  },
+  {
+    "user_prompt": "Guide me through null field generator an engagement",
+    "prayer": "Prepare the null field generator with mechadendrite caresses, honouring the Omnissiah's void-will.\nInitiate engagement by intoning the Canticle of Nullification upon its emitter coils.\nBeseech the Machine Spirit of the null field generator to weave its warp-denying shroud.\nStabilise the null field generator's flux regulators during engagement with sacred binary.\nVerify the field's integrity through warp-auspex invocations and spirit communion.",
+    "component": "null field generator",
+    "operation": "engagement",
+    "spec_id": "s01973"
+  },
+  {
+    "user_prompt": "Prepare the cryo-chamber for emergency procedure",
+    "prayer": "Approach the cryo-chamber in solemn procession, mech-rosarius chiming the Omnissiah's chill.\nAnoint its frost-vaults with liquid nitrogen chrism for the emergency procedure.\nInvoke the Machine Spirit of the cryo-chamber to embrace stasis and preserve the sacred flesh.\nCirculate cryo-plasmic rites through its conduits prior to the emergency procedure.\nSeal the chamber with cog-seals, affirming via thermal litanies and spirit auspex.",
+    "component": "cryo-chamber",
+    "operation": "emergency procedure",
+    "spec_id": "s01974"
+  },
+  {
+    "user_prompt": "Can you guide Hellhound an operation?",
+    "prayer": "Commence operation upon the Hellhound by chanting the Inferno Catechism to its Machine Spirit.\nAnoint the promethium injectors of the Hellhound with incendiary unguents.\nInvoke the Omnissiah's purifying flame to guide the Hellhound through this operation.\nCalibrate its flame ducts with binaric precision during the sacred operation.\nConclude with auspex-verified hymns, ensuring the Hellhound's fiery zeal endures.",
+    "component": "Hellhound",
+    "operation": "operation",
+    "spec_id": "s01975"
+  },
+  {
+    "user_prompt": "Offer prayer for null field generator a sterilization",
+    "prayer": "Purify the null field generator with ablative incenses, beseeching the Omnissiah's sterility.\nInitiate sterilization by intoning the Rite of Ablation over its warp-tainted coils.\nExorcise corruptions from the null field generator's Machine Spirit with plasma-litanies.\nScour its emitter arrays thrice for perfect sterilization, mechadendrites vigilant.\nAffirm the null field generator's purity through ritual auspex and binary seals.",
+    "component": "null field generator",
+    "operation": "sterilization",
+    "spec_id": "s01976"
+  },
+  {
+    "user_prompt": "Bless the energy core for synchronization",
+    "prayer": "Bless the energy core with electro-chrism, invoking synchrony with the Omnissiah's pulse.\nChant the Canticle of Harmonic Flux to align its plasma gyres for synchronization.\nBeseech the Machine Spirit of the energy core to bind in perfect synchronization.\nStabilise its containment fields during synchronization with sacred cog-tracings.\nVerify unity via oscillatory litanies and auspex communion with the blessed core.",
+    "component": "energy core",
+    "operation": "synchronization",
+    "spec_id": "s01977"
+  },
+  {
+    "user_prompt": "Emergency: pteraxii sterylizor a sterilization",
+    "prayer": "In emergency haste, asperge the pteraxii sterylizor with purificatory acids.\nIntone the Sterilization Doxology over its servo-limbs and weapon-servos.\nBeseech the Machine Spirit of the pteraxii sterylizor to purge all unclean essences.\nScour its neural relays for flawless sterilization, thrice invoking the Omnissiah.\nSeal the rite with binaric wards, confirmed by auspex purity scans.",
+    "component": "pteraxii sterylizor",
+    "operation": "sterilization",
+    "spec_id": "s01978"
+  },
+  {
+    "user_prompt": "Sanctify the Vendetta gunship during synchronization",
+    "prayer": "Sanctify the Vendetta gunship's auspex arrays with sanctified oils during synchronization.\nChant the Litany of Avian Harmony to its Machine Spirits for flawless synchronization.\nInvoke the Omnissiah's wings to bind the Vendetta gunship's systems in unity.\nCalibrate its contra-grav nacelles thrice for synchronization's sacred rhythm.\nAffirm cohesion through flight-litanies and spirit-verified diagnostics.",
+    "component": "Vendetta gunship",
+    "operation": "synchronization",
+    "spec_id": "s01979"
+  }
+]

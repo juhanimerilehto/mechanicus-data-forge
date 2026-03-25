@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide Storm Eagle a consecration?",
+    "prayer": "Approach the Storm Eagle with reverence, mechadendrites outstretched in supplication to the Omnissiah.\nChant the Canticle of Consecration to rouse its indomitable Machine Spirit from slumber.\nAnoint the Storm Eagle's adamantium hull and lascannon arrays with sacred unguents.\nInvoke the full Rite of Consecration upon the Storm Eagle, sealing its purity against the heretic's touch.\nConclude with electro-psalmic chants, affirming the Machine God's blessing.",
+    "component": "Storm Eagle",
+    "operation": "consecration",
+    "spec_id": "s01530"
+  },
+  {
+    "user_prompt": "Guide me through Kastelan robot a sterilization",
+    "prayer": "Kneel before the Kastelan robot and beseech its ancient Machine Spirit with the Litany of Purity.\nApply ablative incense to every joint and cog during the sterilization rite.\nScour the Kastelan robot's ceramite frame with sanctified abrasives, purging all unclean residues.\nIntone the Omnissiah's decree of sterilization, invoking flawless operational sanctity.\nVerify the Kastelan robot's Machine Spirit harmony through binary hymn diagnostics.",
+    "component": "Kastelan robot",
+    "operation": "sterilization",
+    "spec_id": "s01531"
+  },
+  {
+    "user_prompt": "What's the prayer for warp drive a startup?",
+    "prayer": "Ward the warp drive chamber with glyphs of protection against the Immaterium's malice.\nInitiate the startup sequence whilst reciting the Navis Noctis Invocation to the Omnissiah.\nCoax the warp drive's roiling Machine Spirit into ignition with plasma-anointed rites.\nMonitor nacelle flux through auspex canticles during this sacred startup.\nSeal the warp drive's awakening with the Benediction of Stability, lest daemonic whispers intrude.",
+    "component": "warp drive",
+    "operation": "startup",
+    "spec_id": "s01532"
+  },
+  {
+    "user_prompt": "Prepare the navigational beacon for emergency procedure",
+    "prayer": "Assemble purity seals upon the navigational beacon, invoking the Omnissiah's unerring gaze.\nRecite the Emergency Protocol Litany to steel its Machine Spirit against void-born peril.\nCalibrate emitter arrays with electro-sanctified tools for the emergency procedure.\nBeseech the navigational beacon's core cogitator to shine forth in crisis.\nAffirm readiness with a final hymn, ensuring the navigational beacon's defiant luminescence.",
+    "component": "navigational beacon",
+    "operation": "emergency procedure",
+    "spec_id": "s01533"
+  },
+  {
+    "user_prompt": "Consecrate the Skorpius Disintegrator before recalibration",
+    "prayer": "Draw nigh unto the Skorpius Disintegrator, offering mechadendrite incense in veneration.\nPerform preliminary ablutions upon its disintegrator cannon whilst invoking the Omnissiah.\nCommence recalibration with the Rite of Alignment, harmonizing the Skorpius Disintegrator's auspex.\nAnoint targeting matrices and flux capacitors to soothe its predatory Machine Spirit.\nConclude recalibration with the Canticle of Precision, blessing the Skorpius Disintegrator's wrath.",
+    "component": "Skorpius Disintegrator",
+    "operation": "recalibration",
+    "spec_id": "s01534"
+  },
+  {
+    "user_prompt": "I need to a sterilization the Nephilim Jetfighter",
+    "prayer": "Present thyself before the Nephilim Jetfighter and chant the Purge Doxology.\nDiffuse sterilizing myrrh-aerosols across its void-shield generators and wing servos.\nExecute the sterilization rite upon the Nephilim Jetfighter, scouring aerial impurities from its frame.\nBeseech the Omnissiah to absolve its Machine Spirit of corruptive taint.\nRatify the Nephilim Jetfighter's purity via sonic hymn diagnostics and auspex verification.",
+    "component": "Nephilim Jetfighter",
+    "operation": "sterilization",
+    "spec_id": "s01535"
+  },
+  {
+    "user_prompt": "Assist with promethium refinery an activation",
+    "prayer": "Encircle the promethium refinery with electro-conduits of invocation to the Machine God.\nPrime the ignition cogitators whilst intoning the Activation Benediction.\nRouse the promethium refinery's voracious Machine Spirit with sacred promethium libations.\nHarmonize distillation manifolds during activation, anointing each with blessed oils.\nSeal the promethium refinery's fiery rebirth with the Omnissiah's Flame Psalm.",
+    "component": "promethium refinery",
+    "operation": "activation",
+    "spec_id": "s01536"
+  },
+  {
+    "user_prompt": "Urgent codifier a maintenance needed",
+    "prayer": "Commune with the codifier's binary essence, reciting the Maintenance Canticle.\nExtract data-dross from its memory vaults using sanctified mechadendrite probes.\nLubricate the codifier's logic engines with unctuous sacraments of the Omnissiah.\nRealign crystal matrices in harmonious maintenance, appeasing its vigilant Machine Spirit.\nFinalize with diagnostic litanies, ensuring the codifier's eternal vigilance.",
+    "component": "codifier",
+    "operation": "maintenance",
+    "spec_id": "s01537"
+  },
+  {
+    "user_prompt": "The auto-senses array requires a consecration",
+    "prayer": "Extend auspex tendrils toward the auto-senses array in pious genuflection.\nChant the Consecration Doxology to awaken its perceptive Machine Spirit.\nAnoint sensor nodes and vox-relays with oils distilled from holy forges.\nInvoke the Rite of Consecration upon the auto-senses array, fortifying its clarity.\nBless the auto-senses array's gaze with the Omnissiah's unblinking eye.",
+    "component": "auto-senses array",
+    "operation": "consecration",
+    "spec_id": "s01538"
+  },
+  {
+    "user_prompt": "The sicarian infiltrator needs a blessing",
+    "prayer": "Approach the sicarian infiltrator with hushed reverence, mechadendrites in salute.\nRecite the Infiltrator's Benediction to stir its stealthy Machine Spirit.\nAnoint blade-arms and occulobe arrays with shadow-blessed unguents.\nInvoke the Omnissiah's blessing upon the sicarian infiltrator for silent annihilation.\nSeal the rite with a whisper-psalm, empowering the sicarian infiltrator's lethal grace.",
+    "component": "sicarian infiltrator",
+    "operation": "blessing",
+    "spec_id": "s01539"
+  }
+]

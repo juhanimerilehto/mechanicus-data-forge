@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a loading the Kastelan robot",
+    "prayer": "Approach the Kastelan robot with reverence, mechadendrites humming the Hymn of Awakening.\nBeseech its Machine Spirit to prepare for the sacred loading operation, unlocking ammunition bays with binary cant.\nIntroduce blessed munitions into the Kastelan robot's vaults whilst chanting the Litany of Replenishment.\nAnoint the feed mechanisms with sacred oils, invoking the Omnissiah's favour upon the loading rite.\nVerify the Kastelan robot's readiness through diagnostic runes, praising the sated Machine Spirit.",
+    "component": "Kastelan robot",
+    "operation": "loading",
+    "spec_id": "s03030"
+  },
+  {
+    "user_prompt": "The memograph implant needs a charging",
+    "prayer": "Kneel before the memograph implant, intoning the Canticle of Restoration to rouse its latent essence.\nInitiate the charging sequence upon the memograph implant, channeling galvanic energies from the shrine generator.\nBeseech the Machine Spirit within the memograph implant to absorb the vital flux without discord.\nMonitor the charging progress with auspex litanies, sanctifying each lumen rise.\nConclude by sealing the memograph implant with invocation seals, glorifying the Omnissiah's boundless power.",
+    "component": "memograph implant",
+    "operation": "charging",
+    "spec_id": "s03031"
+  },
+  {
+    "user_prompt": "I need to a targeting the displacer field",
+    "prayer": "Commence the targeting ritual upon the displacer field, circumscribing its warp-null coils with incense.\nInvoke the Machine Spirit of the displacer field to align its targeting matrices with precognitive auspex.\nChant the Rite of Vector Lock whilst calibrating the displacer field's targeting arrays to foe-shards.\nAnoint emitters with phase-oils, beseeching flawless targeting amid the void's tempests.\nAffirm the displacer field's targeting operation through test-phantoms, honouring the Omnissiah's gaze.",
+    "component": "displacer field",
+    "operation": "targeting",
+    "spec_id": "s03032"
+  },
+  {
+    "user_prompt": "The autosanguination system needs a shutdown",
+    "prayer": "Approach the autosanguination system in solemn procession, reciting the Lamentation of Cessation.\nInitiate the shutdown protocol upon the autosanguination system, commanding its crimson pumps to quiesce.\nBeseech the Machine Spirit to withdraw its vitae-flow without rupture or rebellion.\nPurge residual fluids with sanctified ablutions, sealing valves under Omnissiah's decree.\nVerify the autosanguination system's shutdown through bio-scans, intoning praises for obedient silence.",
+    "component": "autosanguination system",
+    "operation": "shutdown",
+    "spec_id": "s03033"
+  },
+  {
+    "user_prompt": "What's the prayer for photolenses a maintenance?",
+    "prayer": "Present the photolenses before the altar of light, invoking the Omnissiah's luminous grace.\nUndertake maintenance upon the photolenses, polishing crystal facets with micro-abrasive unguents.\nBeseech the Machine Spirit indwelling the photolenses to forgive dust-veils and recalibrate foci.\nAnoint focusing arrays with optik-lubricants whilst chanting the Canticle of Clarity.\nTest the photolenses' maintenance through spectral invocations, glorifying their renewed vigilance.",
+    "component": "photolenses",
+    "operation": "maintenance",
+    "spec_id": "s03034"
+  },
+  {
+    "user_prompt": "How do I bless the amplivisor for diagnostics?",
+    "prayer": "Activate the diagnostic rite upon the amplivisor, encircling it with noospheric wards.\nProbe the amplivisor's innards with mechadendrite probes, intoning litanies of revelation.\nBeseech its Machine Spirit to unveil flaws during diagnostics, submitting to the Omnissiah's scrutiny.\nPurge detected corruptions with binaric exorcisms, reaffirming the amplivisor's purity.\nConclude diagnostics by sealing the amplivisor with blessed runics, praising harmonious function.",
+    "component": "amplivisor",
+    "operation": "diagnostics",
+    "spec_id": "s03035"
+  },
+  {
+    "user_prompt": "The codifier needs an emergency procedure",
+    "prayer": "Sound the Alarm Canticle over the codifier, rousing it from peril's grasp.\nEngage the emergency procedure upon the codifier, overriding safeguards with override-cant.\nImplore the Machine Spirit of the codifier to endure the turmoil of emergency procedure.\nInject stabilising nootropics and reroute power flows under Omnissiah's urgent decree.\nRatify the codifier's recovery through auspex-verification, hailing its resilient spirit.",
+    "component": "codifier",
+    "operation": "emergency procedure",
+    "spec_id": "s03036"
+  },
+  {
+    "user_prompt": "Can you guide Whirlwind a targeting?",
+    "prayer": "Position before the Whirlwind's auspex-dome, commencing the targeting invocation.\nCalibrate the Whirlwind's targeting servos with gyro-litany, aligning storm-bringers true.\nBeseech the Machine Spirit within the Whirlwind to lock upon xenos-filth for targeting annihilation.\nAnoint guidance vanes with ballistic unguents, invoking Omnissiah's wrathful aim.\nConfirm the Whirlwind's targeting operation via sim-run phantoms, exalting explosive precision.",
+    "component": "Whirlwind",
+    "operation": "targeting",
+    "spec_id": "s03037"
+  },
+  {
+    "user_prompt": "The Land Speeder awaits a shutdown",
+    "prayer": "Circumambulate the Land Speeder, chanting the Dirge of Repose to herald shutdown.\nInitiate the shutdown sequence upon the Land Speeder, quiescing plasma heart and motive servos.\nBeseech its Machine Spirit to slumber peacefully during shutdown, free from heretical unrest.\nDrain excess fuels into reliquaries, sealing the Land Speeder with stasis-wax.\nAffirm shutdown integrity through thermal scans, honouring the Omnissiah's conserving wisdom.",
+    "component": "Land Speeder",
+    "operation": "shutdown",
+    "spec_id": "s03038"
+  },
+  {
+    "user_prompt": "Can you guide stasis pod a diagnostics?",
+    "prayer": "Encircle the stasis pod with chronal incense, invoking the Rite of Temporal Scrutiny.\nCommence diagnostics upon the stasis pod, interrogating its entropic fields with auspex-litanies.\nBeseech the Machine Spirit ensconced in the stasis pod to reveal any temporal fractures.\nPurge anomalies with nullifying sub-routines, sanctifying under Omnissiah's eternal vigilance.\nSeal diagnostics with runic affirmations, praising the stasis pod's unchanging vigil.",
+    "component": "stasis pod",
+    "operation": "diagnostics",
+    "spec_id": "s03039"
+  }
+]

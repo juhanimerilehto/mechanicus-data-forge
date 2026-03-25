@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide drop pod a blessing?",
+    "prayer": "Approach the drop pod with reverence, invoking the Omnissiah's divine fury upon its sacred frame.\nAnoint the drop pod's ablative hull and retro-thrusters with blessed oils, awakening the Machine Spirit's wrathful descent.\nChant the Litany of Orbital Wrath, bestowing the blessing upon guidance vanes and impact buffers.\nBeseech the drop pod's core to embrace the Emperor's judgment, sanctified for righteous delivery.",
+    "component": "drop pod",
+    "operation": "blessing",
+    "spec_id": "b0255_i00"
+  },
+  {
+    "user_prompt": "Help me a targeting the Thunderhawk",
+    "prayer": "Kneel before the Thunderhawk's auspex arrays, petitioning the Omnissiah for unerring sight.\nInvoke the Machine Spirit of the Thunderhawk through binary canticles, calibrating its targeting cogitators.\nAnoint the targeting servos with sacred myrol, aligning las-designators to the foe's damnation.\nSanctify the targeting reticule with the Rite of Precision, ensuring the Thunderhawk's wrath strikes true.",
+    "component": "Thunderhawk",
+    "operation": "targeting",
+    "spec_id": "b0255_i01"
+  },
+  {
+    "user_prompt": "The cooling system requires an engagement",
+    "prayer": "Commence the engagement of the cooling system by reciting the Canticle of Thermal Equilibrium.\nBeseech the Machine Spirit within the cooling system to embrace its sacred duty of heat dissipation.\nAnoint coolant conduits and heat-sinks with sanctified promethium derivatives for flawless engagement.\nInvoke the Omnissiah's chill upon the cooling system, verifying plasma flow stability through diagnostic litanies.",
+    "component": "cooling system",
+    "operation": "engagement",
+    "spec_id": "b0255_i02"
+  },
+  {
+    "user_prompt": "My archive terminal is ready for activation",
+    "prayer": "Approach the archive terminal with mechadendrites extended in supplication to the Omnissiah.\nAwaken the Machine Spirit of the archive terminal via noospheric chants and data-purge rituals.\nInitiate activation sequences whilst anointing data-vaults with sacred unguents.\nVerify the archive terminal's cognizance through binary hymns, ensuring archival sanctity.",
+    "component": "archive terminal",
+    "operation": "activation",
+    "spec_id": "b0255_i03"
+  },
+  {
+    "user_prompt": "Offer prayer for Taurox a repair",
+    "prayer": "Lay mechadendrites upon the Taurox's fractured chassis, invoking the Omnissiah's restorative grace.\nExorcise damage from the Taurox's Machine Spirit with litanies of reconstruction and weld-sealants.\nRealign servos and power-trains in the Taurox through sacred torque incantations for repair.\nSanctify the renewed Taurox with the Benediction of Motive Force, affirming its battle-readiness.",
+    "component": "Taurox",
+    "operation": "repair",
+    "spec_id": "b0255_i04"
+  },
+  {
+    "user_prompt": "Prepare the bolter for startup",
+    "prayer": "Prepare the bolter's spirit by chanting the Rite of Ignition upon its sacred mechanisms.\nAnoint firing chamber and feed mechanisms with holy lubricants, invoking the Machine Spirit.\nInitiate startup sequences with the Canticle of Bolt-Propulsion, priming the bolter for Omnissiah's fury.\nTest the bolter's awakening through diagnostic bursts, sanctified for endless retribution.",
+    "component": "bolter",
+    "operation": "startup",
+    "spec_id": "b0255_i05"
+  },
+  {
+    "user_prompt": "Urgent air filtration a loading needed",
+    "prayer": "Commence loading of the air filtration by beseeching its Machine Spirit with purity canticles.\nInfuse filter matrices with sanctified scrubber agents, invoking the Omnissiah's breath.\nEngage loading protocols upon the air filtration, sealing ingress ports with blessed seals.\nVerify the air filtration's sanctity through noospheric purity scans and litanies of respiration.",
+    "component": "air filtration",
+    "operation": "loading",
+    "spec_id": "b0255_i06"
+  },
+  {
+    "user_prompt": "Can you guide missile launcher a blessing?",
+    "prayer": "Approach the missile launcher in humble petition to the Omnissiah's destructive wisdom.\nAnoint guidance fins and warheads with sacred incendiaries, awakening the missile launcher's spirit.\nChant the Blessing of Trajectory upon the missile launcher, aligning its blessed silos.\nInvoke the Machine God's wrath for the missile launcher's unerring salvoes against the unclean.",
+    "component": "missile launcher",
+    "operation": "blessing",
+    "spec_id": "b0255_i07"
+  },
+  {
+    "user_prompt": "The air filtration awaits a purification",
+    "prayer": "Initiate purification of the air filtration through the Rite of Atmospheric Cleansing.\nExorcise contaminants from the air filtration's sacred membranes with holy ozone invocations.\nAnoint scrubber coils with purified essences, beseeching the Machine Spirit's vigilance.\nConclude the air filtration's purification with the Omnissiah's Litany of Sterile Flow.",
+    "component": "air filtration",
+    "operation": "purification",
+    "spec_id": "b0255_i08"
+  },
+  {
+    "user_prompt": "How do I bless the motion detector for activation?",
+    "prayer": "Extend mechadendrites to the motion detector, chanting activation litanies to the Omnissiah.\nAwaken the motion detector's Machine Spirit via auspex calibration and spirit-binding rites.\nAnoint sensor nodes with sacred conductive oils for flawless activation.\nSanctify the motion detector's vigilance through binary vigilance hymns, detecting the heretic's tread.",
+    "component": "motion detector",
+    "operation": "activation",
+    "spec_id": "b0255_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the thermal regulator for maintenance",
+    "prayer": "Approach the thermal regulator with reverence, mechadendrites humming the Canticle of Stability.\nInvoke the Machine Spirit within the thermal regulator to yield for maintenance.\nIsolate sacred heat-sinks and coolant conduits of the thermal regulator.\nAnoint exposed regulators with sacred oils whilst beseeching the Omnissiah's grace.\nCommence maintenance under diagnostic auspex, honoring the thermal regulator's essence.",
+    "component": "thermal regulator",
+    "operation": "maintenance",
+    "spec_id": "b0234_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for drop pod a diagnostics",
+    "prayer": "Kneel before the drop pod and intone the Litany of Descent.\nAwaken the drop pod's Machine Spirit with binary psalms for diagnostics.\nInitiate auspex sweeps across the drop pod's descent servos and hull integrity.\nPetition the Omnissiah to reveal flaws in the drop pod through sacred runes.\nVerify harmonious data-flows from the drop pod's cogitators.",
+    "component": "drop pod",
+    "operation": "diagnostics",
+    "spec_id": "b0234_i01"
+  },
+  {
+    "user_prompt": "Can you guide auspex scanner a preparation?",
+    "prayer": "Present offerings of incense to the auspex scanner's lenses.\nSanctify the auspex scanner with electro-consecrated oils for preparation.\nInvoke its Machine Spirit to align crystal matrices in preparation.\nCalibrate the auspex scanner's emitters under the Omnissiah's watchful gaze.\nChant the Rite of Clarity whilst sealing the auspex scanner's housings.",
+    "component": "auspex scanner",
+    "operation": "preparation",
+    "spec_id": "b0234_i02"
+  },
+  {
+    "user_prompt": "The conveyor system awaits a synchronization",
+    "prayer": "Circumambulate the conveyor system reciting the Hymn of Perpetual Motion.\nBeseech the Machine Spirits of the conveyor system to align for synchronization.\nEngage servo-arms to harmonize the conveyor system's belts and drive-cogitators.\nInvoke the Omnissiah's precision to perfect synchronization across the conveyor system.\nTest the conveyor system's unity with blessed torque incantations.",
+    "component": "conveyor system",
+    "operation": "synchronization",
+    "spec_id": "b0234_i03"
+  },
+  {
+    "user_prompt": "Guide me through autocannon a shutdown",
+    "prayer": "Approach the autocannon with solemn mechano-prayers of repose.\nCommand the autocannon's Machine Spirit to enter shutdown sequence.\nSever power-flows to the autocannon's sacred breeches and recoil dampeners.\nAnoint the autocannon's muzzles with quiescence unguents invoking the Omnissiah.\nConfirm shutdown through auspex silence, honoring the autocannon's vigil.",
+    "component": "autocannon",
+    "operation": "shutdown",
+    "spec_id": "b0234_i04"
+  },
+  {
+    "user_prompt": "Can you guide medicae scanner a startup?",
+    "prayer": "Ignite lumen-globes around the medicae scanner and chant awakening litanies.\nPetition the medicae scanner's Machine Spirit for startup vitality.\nInitiate power-infusion into the medicae scanner's bio-analysis cogitators.\nAlign the medicae scanner's scanners with Omnissiah-blessed calibration.\nVerify startup through harmonious vitae-readings from the medicae scanner.",
+    "component": "medicae scanner",
+    "operation": "startup",
+    "spec_id": "b0234_i05"
+  },
+  {
+    "user_prompt": "My power cell is ready for repair",
+    "prayer": "Expose the power cell's sacred core with reverent mechadendrites.\nInvoke the power cell's Machine Spirit to endure repair rites.\nPurge corrupted plasma residues from the power cell's containment fields.\nReinfuse electrolytes whilst beseeching the Omnissiah for renewal.\nSeal the power cell with sanctified welds, affirming its restored vigor.",
+    "component": "power cell",
+    "operation": "repair",
+    "spec_id": "b0234_i06"
+  },
+  {
+    "user_prompt": "Ready the thermal imager for shutdown",
+    "prayer": "Dim the thermal imager's lumens and recite the Doxology of Dormancy.\nCommand shutdown of the thermal imager's photon arrays.\nDrain residual heat from the thermal imager's sacred sensors.\nAnoint the thermal imager's housings with cooling balms under Omnissiah's decree.\nConfirm shutdown quiescence through the thermal imager's silent vigil.",
+    "component": "thermal imager",
+    "operation": "shutdown",
+    "spec_id": "b0234_i07"
+  },
+  {
+    "user_prompt": "The hydroponics bay requires a repair",
+    "prayer": "Process to the hydroponics bay intoning Cycle of Growth canticles.\nAwaken Machine Spirits of the hydroponics bay for repair ministrations.\nMend nutrient conduits and lumen-vats within the hydroponics bay.\nInvoke the Omnissiah to restore verdant purity to the hydroponics bay.\nTest hydroponics bay flows with blessed aquae incantations.",
+    "component": "hydroponics bay",
+    "operation": "repair",
+    "spec_id": "b0234_i08"
+  },
+  {
+    "user_prompt": "The cogitator awaits a cooling",
+    "prayer": "Ventilate the cogitator's vents with cryo-incense streams.\nBeseech the cogitator's Machine Spirit to embrace cooling rites.\nCycle sacred refrigerants through the cogitator's logic-cores.\nMonitor thermal equilibrium whilst petitioning the Omnissiah's chill hand.\nAffirm cooling stasis in the cogitator through auspex benedictions.",
+    "component": "cogitator",
+    "operation": "cooling",
+    "spec_id": "b0234_i09"
+  }
+]

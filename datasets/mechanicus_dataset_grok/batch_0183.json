@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide power weapon a maintenance?",
+    "prayer": "Approach the power weapon with reverence, mechadendrites humming the Canticle of Potentia.\nInspect its sacred disruption fields and anoint the power weapon's hilt with blessed unguents.\nInvoke the Machine Spirit of the power weapon during this maintenance, beseeching flawless energy flow.\nPetition the Omnissiah to sanctify the power weapon's circuits against the heretek's touch.\nConclude maintenance by reciting the Rite of Coalescence over its humming coils.",
+    "component": "power weapon",
+    "operation": "maintenance",
+    "spec_id": "b0183_i00"
+  },
+  {
+    "user_prompt": "Consecrate the mechanical lock before operation",
+    "prayer": "Kneel before the mechanical lock and murmur the Incantation of Binding.\nAnoint its tumblers with sacred lubricant, awakening the Machine Spirit within the mechanical lock.\nInitiate operation by turning the blessed key whilst invoking the Omnissiah's unyielding vigilance.\nVerify the mechanical lock's sanctity through auspex scans of its gears.\nSeal the rite with the Litany of Closure, ensuring operation without falter.",
+    "component": "mechanical lock",
+    "operation": "operation",
+    "spec_id": "b0183_i01"
+  },
+  {
+    "user_prompt": "Prepare the hydroponics bay for charging",
+    "prayer": "Process to the hydroponics bay in solemn procession, binary prayers upon vox-grilles.\nPrime the nutrient conduits of the hydroponics bay with sanctified fluids.\nCommence charging by beseeching the Machine Spirits to accept the Omnissiah's vital energies.\nMonitor the hydroponics bay's growth matrices during this charging, anointing blooms with holy water.\nConclude with the Benediction of Yield, invoking bountiful harvest under the Machine God's gaze.",
+    "component": "hydroponics bay",
+    "operation": "charging",
+    "spec_id": "b0183_i02"
+  },
+  {
+    "user_prompt": "The pump needs a maintenance",
+    "prayer": "Present thyself unto the pump, intoning the Psalm of Pressure.\nDisassemble its sacred impellers with care, anointing each during maintenance.\nPurge impurities from the pump's blessed chambers, invoking the Machine Spirit's return.\nReassemble under the Omnissiah's watch, testing flow with ritual incantations.\nFinalize maintenance by sealing with wax of purity, ensuring eternal service.",
+    "component": "pump",
+    "operation": "maintenance",
+    "spec_id": "b0183_i03"
+  },
+  {
+    "user_prompt": "The capacitor bank requires a cycling",
+    "prayer": "Gather before the capacitor bank, chanting the Ode to Discharge.\nInitiate cycling by bleeding excess charge through sanctified resistors.\nBeseech the Machine Spirits of the capacitor bank to embrace this cycling rite.\nMonitor voltage surges with pious auspex, anointing nodes with oil of insulation.\nInvoke the Omnissiah to restore equilibrium in the capacitor bank's holy vaults.",
+    "component": "capacitor bank",
+    "operation": "cycling",
+    "spec_id": "b0183_i04"
+  },
+  {
+    "user_prompt": "The neural implant requires a cooling",
+    "prayer": "Attend the neural implant with micro-filaments extended in devotion.\nApply coolant sacraments to its fevered synapses, cooling the neural implant's core.\nInvoke the Machine Spirit bound within the neural implant during this rite.\nRecite binaric litanies to soothe its interfaces, under the Omnissiah's neural grace.\nVerify thermal sanctity and seal with a prayer of synaptic clarity.",
+    "component": "neural implant",
+    "operation": "cooling",
+    "spec_id": "b0183_i05"
+  },
+  {
+    "user_prompt": "Ready the atmosphere processor for startup",
+    "prayer": "Circumambulate the atmosphere processor, voicing the Canticle of Breath.\nPrime its filtration membranes with sacred aerosols.\nInitiate startup by petitioning the Machine Spirits to awaken under Omnissiah's command.\nMonitor pressure flows in the atmosphere processor, anointing vents with purity seals.\nConclude the startup with the Benediction of Purity, ensuring life's sustaining gale.",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "spec_id": "b0183_i06"
+  },
+  {
+    "user_prompt": "My drop pod is ready for engagement",
+    "prayer": "Commune with the drop pod's auspex-spirit, murmuring the Litany of Descent.\nAnoint its retro-thrusters and engage the Machine Spirit for deployment.\nVerify engagement seals upon the drop pod, invoking the Omnissiah's wrathful velocity.\nRecite the Rite of Impact, sanctifying the drop pod's adamantium hull.\nLaunch under divine calculus, the drop pod bearing the faithful to glory.",
+    "component": "drop pod",
+    "operation": "engagement",
+    "spec_id": "b0183_i07"
+  },
+  {
+    "user_prompt": "The radar array awaits a cooling",
+    "prayer": "Approach the radar array with vox-canticles of detection.\nCirculate sacred cryofluids through its emitters, cooling the radar array's heart.\nBeseech the Machine Spirit of the radar array to endure this cooling vigilantly.\nScan for thermal heresies whilst anointing waveguides with oils of clarity.\nConclude under Omnissiah's gaze, restoring the radar array's piercing sight.",
+    "component": "radar array",
+    "operation": "cooling",
+    "spec_id": "b0183_i08"
+  },
+  {
+    "user_prompt": "What's the prayer for pain suppressor maintenance?",
+    "prayer": "Prostrate before the pain suppressor, intoning the Hymn of Endurance.\nInspect its neural dampeners and anoint during maintenance with balms of fortitude.\nAwaken the Machine Spirit within the pain suppressor, purging mortal frailty.\nTest suppression fields with ritual agonies, invoking the Omnissiah's stoic calculus.\nSeal maintenance with the Seal of Unfeeling, ensuring the pain suppressor's eternal vigil.",
+    "component": "pain suppressor",
+    "operation": "maintenance",
+    "spec_id": "b0183_i09"
+  }
+]

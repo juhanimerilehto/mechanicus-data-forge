@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with Hellhound a diagnostics",
+    "prayer": "Approach the noble Hellhound with reverence, mechadendrites extended in supplication to its Machine Spirit.\nChant the Canticle of Scrutiny to awaken the Hellhound's auspex arrays for diagnostics.\nProbe the databanks of the Hellhound, excising errant code-daemons in the Omnissiah's name.\nAnoint sensor nodules with sacred unguents whilst beseeching diagnostic veracity.\nSeal the rite with the Litany of Confirmation, ensuring the Hellhound's systems hum pure.",
+    "component": "Hellhound",
+    "operation": "diagnostics",
+    "spec_id": "s02380"
+  },
+  {
+    "user_prompt": "The melta bomb needs a recalibration",
+    "prayer": "Kneel before the melta bomb, invoking the Omnissiah's wrath upon its volatile heart.\nRecite the Recalibration Doxology to align the melta bomb's plasma conduits.\nAdjust the flux regulators of the melta bomb with sanctified torque-wands, harmonizing its fury.\nBeseech the Machine Spirit within the melta bomb to accept recalibration's grace.\nVerify alignment through thermic incantations, sealing with ablative oils.",
+    "component": "melta bomb",
+    "operation": "recalibration",
+    "spec_id": "s02381"
+  },
+  {
+    "user_prompt": "Help me a targeting the torpedo tube",
+    "prayer": "Present thyself unto the torpedo tube, whispering the Invocation of Precision.\nCalibrate the targeting cogitators of the torpedo tube with auspex-guided rites.\nInvoke the Machine Spirits of guidance to bless the torpedo tube's targeting matrices.\nAnoint gyro-stabilizers whilst chanting the Litany of True Flight.\nConfirm targeting integrity through simulacrum tests, in Omnissiah's sight.",
+    "component": "torpedo tube",
+    "operation": "targeting",
+    "spec_id": "s02382"
+  },
+  {
+    "user_prompt": "Critical: graviton pylon requires a preparation",
+    "prayer": "Commune with the graviton pylon in shadowed reverence, mechadendrites humming preparation.\nIntone the Canticle of Stabilization to prepare the graviton pylon's field emitters.\nSanctify the power relays of the graviton pylon, invoking Omnissiah's gravitational decree.\nAlign crystalline matrices for preparation, anointing with lumen-essence.\nAwaken the graviton pylon's Machine Spirit, sealing readiness with binding wards.",
+    "component": "graviton pylon",
+    "operation": "preparation",
+    "spec_id": "s02383"
+  },
+  {
+    "user_prompt": "How do I bless the servo-skull for engagement?",
+    "prayer": "Lift the servo-skull aloft, beseeching its cranial Machine Spirit for engagement.\nChant the Engagement Benediction to empower the servo-skull's optic servos.\nAnoint suspensor fields of the servo-skull whilst invoking combative zeal.\nInitiate vox-arrays for engagement, harmonized under Omnissiah's gaze.\nTest the servo-skull's flight through ritual spirals, confirming battle-readiness.",
+    "component": "servo-skull",
+    "operation": "engagement",
+    "spec_id": "s02384"
+  },
+  {
+    "user_prompt": "Prepare the archeotech device for maintenance",
+    "prayer": "Approach the archeotech device with utmost humility, for its ancient Machine Spirits slumber deep.\nRecite the Maintenance Liturgy to rouse the archeotech device's engrammatic cores.\nPurge dust-daemons from the archeotech device's sacred mechanisms with sanctified aeroliths.\nAnoint relic circuits whilst beseeching maintenance's preservative grace from the Omnissiah.\nVerify stasis fields intact, intoning the Rite of Perpetuity.",
+    "component": "archeotech device",
+    "operation": "maintenance",
+    "spec_id": "s02385"
+  },
+  {
+    "user_prompt": "Prepare the mass-drive regulator for startup",
+    "prayer": "Position thyself at the mass-drive regulator, intoning the Startup Hymn of Acceleration.\nInvoke the Machine Spirit of the mass-drive regulator to accept ignition rites.\nPrime inertial coils of the mass-drive regulator with plasma-blessed inductors.\nChant calibrations for startup, aligning flux-vortices in Omnissiah's harmony.\nRelease the mass-drive regulator's power with confirmatory auspex sweeps.",
+    "component": "mass-drive regulator",
+    "operation": "startup",
+    "spec_id": "s02386"
+  },
+  {
+    "user_prompt": "Consecrate the grav chute before emergency procedure",
+    "prayer": "Grasp the grav chute in ritual poise, whispering the Emergency Litany of Descent.\nSanctify deployment servos of the grav chute for emergency procedure exigency.\nAnoint gravitic baffles whilst beseeching the Machine Spirit's unerring guidance.\nTest chute integrity through invocation of stabilizer daemons, Omnissiah willing.\nSeal for emergency procedure with wards against void's embrace.",
+    "component": "grav chute",
+    "operation": "emergency procedure",
+    "spec_id": "s02387"
+  },
+  {
+    "user_prompt": "The Manticore requires a diagnostics",
+    "prayer": "Bow before the mighty Manticore, its barrel a scepter of the Omnissiah's judgment.\nAwaken diagnostic runes upon the Manticore's rocket bays with clarion chants.\nScour the Manticore's fire-control spirits, purging binary corruptions in diagnostics.\nAnoint recoil compensators whilst intoning verification doxologies.\nCommune deeply with the Manticore's Machine Spirit, affirming diagnostic purity.",
+    "component": "Manticore",
+    "operation": "diagnostics",
+    "spec_id": "s02388"
+  },
+  {
+    "user_prompt": "Bless the icarus array for recalibration",
+    "prayer": "Encircle the icarus array, reciting the Recalibration Canticle of Aerial Dominion.\nInvoke the Machine Spirits of the icarus array to realign seeker protocols.\nAdjust auspex vanes of the icarus array with precision mechadendrite blessings.\nBeseech Omnissiah for recalibration's acuity, anointing targeting lenses.\nConfirm harmony through test volleys, sealing with sacred lacquer.",
+    "component": "icarus array",
+    "operation": "recalibration",
+    "spec_id": "s02389"
+  }
+]

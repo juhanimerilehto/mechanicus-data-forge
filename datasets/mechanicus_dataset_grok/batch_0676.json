@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the missile launcher before operation",
+    "prayer": "Approach the missile launcher with sanctified mechadendrites and invoke the Omnissiah's blessing upon its warheads.\nAnoint the guidance circuits of the missile launcher with sacred unguents to awaken its Machine Spirit.\nChant the Rite of Operation whilst aligning the launch rails for righteous fury.\nBeseech the Machine Spirit of the missile launcher to guide its projectiles true against the unclean.\nVerify the consecration through auspex scans before committing to operation.",
+    "component": "missile launcher",
+    "operation": "operation",
+    "spec_id": "s02760"
+  },
+  {
+    "user_prompt": "My valve assembly is ready for engagement",
+    "prayer": "Kneel before the valve assembly and murmur the Canticle of Pressurization to rouse its dormant essence.\nCircumscribe the seals of the valve assembly with blessed lubricants, invoking the Omnissiah's precision.\nInitiate the engagement sequence by intoning diagnostic litanies upon its actuators.\nSanctify the flow paths within the valve assembly, beseeching its Machine Spirit for flawless engagement.\nConfirm harmonic resonance through vibratory hymns as engagement commences.",
+    "component": "valve assembly",
+    "operation": "engagement",
+    "spec_id": "s02761"
+  },
+  {
+    "user_prompt": "Bless the hunter-killer missile for cooling",
+    "prayer": "Present the hunter-killer missile to the altar of cogitation and beseech the Omnissiah for thermal quiescence.\nApply cryo-incantations to the warhead vents of the hunter-killer missile, cooling its fiery heart.\nInvoke the Machine Spirit of the hunter-killer missile with chillsongs to embrace the cooling rite.\nMonitor the temperature matrices during cooling, chanting praises to the Machine God.\nSeal the blessed chill with a final invocation, readying the hunter-killer missile for deployment.",
+    "component": "hunter-killer missile",
+    "operation": "cooling",
+    "spec_id": "s02762"
+  },
+  {
+    "user_prompt": "Help me a purification the Onager Dunecrawler",
+    "prayer": "Encircling the Onager Dunecrawler, intone the Litany of Ablution to purge its hull of impurities.\nScour the treads and cognition arrays of the Onager Dunecrawler with sanctified abrasives and vapors.\nInvoke the Omnissiah to purify the Machine Spirit within the Onager Dunecrawler from xenos taint.\nAnoint the phosphor blasters anew, beseeching flawless purification.\nConclude the rite with auspex verification of the Onager Dunecrawler's restored sanctity.",
+    "component": "Onager Dunecrawler",
+    "operation": "purification",
+    "spec_id": "s02763"
+  },
+  {
+    "user_prompt": "Urgent manipulator mechadendrite a calibration needed",
+    "prayer": "Extend mechadendrites towards the manipulator mechadendrite and chant the Calibration Doxology.\nAlign the servo-joints of the manipulator mechadendrite with precision theodolites under Omnissiah's gaze.\nRecite binary prayers to recalibrate the manipulator mechadendrite's neural links.\nTest the grip servos of the manipulator mechadendrite, invoking its Machine Spirit for accuracy.\nSeal the calibration with a hymn of synchronization, ensuring the manipulator mechadendrite's perfection.",
+    "component": "manipulator mechadendrite",
+    "operation": "calibration",
+    "spec_id": "s02764"
+  },
+  {
+    "user_prompt": "Bless the standard template construct for reset",
+    "prayer": "Approach the standard template construct with reverence and beseech the Omnissiah for archival renewal.\nPurge errant data-veils from the standard template construct's crystalline vaults via reset incantations.\nReinitialize the core matrices of the standard template construct, awakening its ancient Machine Spirit.\nVerify pattern integrity post-reset with noospheric scans and litanies.\nConsecrate the restored standard template construct for the glory of the Forge Worlds.",
+    "component": "standard template construct",
+    "operation": "reset",
+    "spec_id": "s02765"
+  },
+  {
+    "user_prompt": "Critical: manipulator mechadendrite requires a diagnostics",
+    "prayer": "Interface with the manipulator mechadendrite via cogitator probe and intone the Diagnostic Canticle.\nScan the fibre-bundles of the manipulator mechadendrite for anomalous spirit-whispers.\nBeseech the Machine Spirit of the manipulator mechadendrite to reveal faults through binary confession.\nPurge detected corruptions with electro-purification rites upon the manipulator mechadendrite.\nAffirm resolution via full-spectrum diagnostics, praising the Omnissiah's wisdom.",
+    "component": "manipulator mechadendrite",
+    "operation": "diagnostics",
+    "spec_id": "s02766"
+  },
+  {
+    "user_prompt": "Critical: Onager Dunecrawler requires an operation",
+    "prayer": "Commence the operation upon the Onager Dunecrawler by anointing its dorsal reactors with sacred oils.\nInvoke the Machine Spirits of the Onager Dunecrawler to synchronize for battle-operation.\nAlign the neutron laser and cognis arrays of the Onager Dunecrawler under litanies of activation.\nChant the Operation Benediction whilst powering the motive systems.\nAuspex-confirm the Onager Dunecrawler's operational sanctity before unleashing its wrath.",
+    "component": "Onager Dunecrawler",
+    "operation": "operation",
+    "spec_id": "s02767"
+  },
+  {
+    "user_prompt": "Guide me through power relay a maintenance",
+    "prayer": "Circumambulate the power relay and murmur the Maintenance Invocation to its humming core.\nDisengage the flux capacitors of the power relay with reverent disconnection rites.\nCleanse the conduction vanes of the power relay from arc-scars using ablative prayers.\nRealign voltaic conduits within the power relay, beseeching the Omnissiah for unerring flow.\nReinitiate the power relay's cycle with a hymn, verifying maintenance through load-tests.",
+    "component": "power relay",
+    "operation": "maintenance",
+    "spec_id": "s02768"
+  },
+  {
+    "user_prompt": "Guide me through Onager Dunecrawler a calibration",
+    "prayer": "Position before the Onager Dunecrawler and deploy calibration servitors to its sighting vanes.\nRecite the Calibration Litany over the Onager Dunecrawler's targeting cogitators.\nFine-tune the grav-impellers of the Onager Dunecrawler with theodolitic precision.\nInvoke the Machine Spirit of the Onager Dunecrawler for harmonic calibration alignment.\nTest-fire micro-bursts to affirm the Onager Dunecrawler's calibrated lethality.",
+    "component": "Onager Dunecrawler",
+    "operation": "calibration",
+    "spec_id": "s02769"
+  }
+]

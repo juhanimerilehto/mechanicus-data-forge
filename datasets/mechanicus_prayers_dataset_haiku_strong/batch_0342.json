@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0342_i00",
+    "user_request": "Can you sanctify the power weapon for blessing?",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the power weapon for blessing?\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the power weapon, instrument of the Omnissiah's will!\nCongregation: We invoke blessing upon this power weapon!\nPriest: Let the power weapon channel the Machine Spirit's wrath, conducting blessing through its energized blade.\nCongregation: The power weapon receives benediction!\nPriest: Anoint the coils, sanctify the reactor-core, and seal the blessing eternal.\nCongregation: Ave Omnissiah, the power weapon is hallowed!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i01",
+    "user_request": "Prayer for regulation of the temperature",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for regulation of the temperature\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Beseech the Machine Spirit to govern the temperature within acceptable parameters!\nCongregation: Let temperature be regulated and stabilized!\nPriest: Adjust the thermal conduits, modulate the coolant flux, and invoke regulation of temperature's capricious nature.\nCongregation: Temperature submits to our sacred regulation!\nPriest: By the Omnissiah's infinite wisdom, let temperature remain constant and true.\nCongregation: Blessed be the temperature, forever regulated!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i02",
+    "user_request": "The decontamination demands guidance for sequence",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe decontamination demands guidance for sequence\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, guide us through the decontamination most sacred!\nCongregation: Purify through decontamination's righteous sequence!\nPriest: First, activate the ionic scrubbers; second, flood with purification gel; third, invoke decontamination's sequence of absolute cleansing.\nCongregation: The decontamination proceeds in holy order!\nPriest: May the Omnissiah bless each step of decontamination's ordained progression.\nCongregation: Decontamination is complete, corruption banished!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i03",
+    "user_request": "Emergency rite: cutting laser requires calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: cutting laser requires calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Attend to the cutting laser, that it may receive calibration divine!\nCongregation: Grant precision to the cutting laser through calibration!\nPriest: Focus the photonic array, realign the targeting mechanisms, and perform calibration upon the cutting laser's crystalline heart.\nCongregation: The cutting laser achieves calibration!\nPriest: By the Omnissiah's geometries, let the cutting laser burn true and measured.\nCongregation: The cutting laser is calibrated, blessed be its beam!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i04",
+    "user_request": "Emergency rite: restart after failure requires restart after failure",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: restart after failure requires restart after failure\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: O spirits dormant, awaken to restart after failure's dark shadow!\nCongregation: Grant us restart after failure in this desperate hour!\nPriest: Purge the corrupted memory-cores, reinitialize the primary cognitors, and invoke restart after failure upon all systems seized by malfunction.\nCongregation: Restart after failure flows through our blessed machinery!\nPriest: Let the Omnissiah's grace permit restart after failure, returning function to the dead.\nCongregation: We are restored, restart after failure is granted!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i05",
+    "user_request": "Prayer for operation of the forge anvil heating",
+    "topic": "forge anvil heating",
+    "component": "forge anvil heating",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the forge anvil heating\n\n### TOPIC\nforge anvil heating\n\n### COMPONENT\nforge anvil heating\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- forge anvil heating\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sanctify the forge anvil heating, heart of our sacred manufacture!\nCongregation: Bless the forge anvil heating through righteous operation!\nPriest: Stoke the thermal reactors, channelize the promethium flows, and command forge anvil heating's operation most holy.\nCongregation: The forge anvil heating rises to divine temperature!\nPriest: May the Machine Spirit guide forge anvil heating through each blessed operation cycle.\nCongregation: Forge anvil heating operates eternal, praised be its flames!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i06",
+    "user_request": "Offer a litany to steady the distress call before broadcast",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the distress call before broadcast\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Priest: Steady the distress call, that it may traverse the void in broadcast!\nCongregation: Fortify the distress call for broadcast across the stars!\nPriest: Amplify the vox-transmitters, encrypt the signal-patterns, and consecrate distress call's broadcast through the aether eternal.\nCongregation: The distress call achieves broadcast!\nPriest: Let the Omnissiah carry our distress call's broadcast to those who would answer.\nCongregation: The distress call is broadcast, may salvation come!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i07",
+    "user_request": "Offer a litany to steady the gravity generator before stabilization",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the gravity generator before stabilization\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: Steady the gravity generator before stabilization's sacred charge!\nCongregation: Balance the gravity generator through stabilization!\nPriest: Calibrate the singularity matrices, harmonize the field-coils, and invoke stabilization upon the gravity generator's trembling essence.\nCongregation: The gravity generator achieves stabilization!\nPriest: By the Omnissiah's laws immutable, let gravity generator maintain stabilization eternal.\nCongregation: The gravity generator is stabilized, our foundations are secure!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i08",
+    "user_request": "Offer a litany to steady the pain suppressor before engagement",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pain suppressor before engagement\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: Steady the pain suppressor before engagement's merciful descent!\nCongregation: Prepare the pain suppressor for blessed engagement!\nPriest: Prime the neural-inhibitors, activate the anesthetic flows, and consecrate pain suppressor's engagement with the sacred flesh.\nCongregation: The pain suppressor achieves engagement!\nPriest: Let the Machine Spirit grant pain suppressor its engagement, bringing mercy to the suffering.\nCongregation: The pain suppressor is engaged, suffering is absolved!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0342_i09",
+    "user_request": "Prayer for operation of the energy conduit purification",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the energy conduit purification\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sanctify the energy conduit purification in eternal operation!\nCongregation: Bless the energy conduit purification through righteous operation!\nPriest: Flush the contaminated channels, realign the harmonic frequencies, and command energy conduit purification's operation sublime.\nCongregation: The energy conduit purification flows in blessed operation!\nPriest: May the Omnissiah sustain energy conduit purification's operation through all ages.\nCongregation: Energy conduit purification operates eternally, praised be its purity!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

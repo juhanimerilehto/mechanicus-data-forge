@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0105_i01",
+    "user_request": "Prayer for cycling of the waste disposal",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for cycling of the waste disposal\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "In the name of the Omnissiah, we commend the waste disposal to the rites of cycling.\nFirst: Disengage the waste disposal locks and initiate the preliminary diagnostic sequence with sacred oils.\nSecond: Execute the cycling protocol, rotating the waste disposal mechanisms through their full operational arc whilst chanting the Hymn of Purification.\nThird: Rebalance the waste disposal pressure regulators and confirm all seals remain inviolate.\nFourth: Offer benediction to the Machine Spirits, that the waste disposal endure in service eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i02",
+    "user_request": "Rite request: startup on generator",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: startup on generator\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "O mighty generator, awaken at the command of the Adeptus Mechanicus.\nFirst: Perform the generator's preliminary sanctification by anointing all fuel conduits and ignition nodes with blessed unguents.\nSecond: Invoke the startup sequence of the generator, chanting the Nine Canticles of Ignition as power flows through dormant circuits.\nThird: Monitor the generator's rise to operational threshold, ensuring no Machine Spirit cries out in distress.\nFourth: Seal the generator's housing and praise the Omnissiah for its triumphant awakening.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i03",
+    "user_request": "Blessing for the hull breach during sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the hull breach during sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, we shall seal what has been rent asunder.\nFirst: Survey the hull breach with blessed instruments, measuring its dimensions and assessing the extent of the Machine Spirit's wound.\nSecond: Apply the sealing compound to the hull breach with ceremonial precision, layer upon layer, invoking the Rite of Restoration with each application.\nThird: Reinforce the hull breach with ferrocrete and adamantium patches, welding them true whilst chanting the Litany of Structural Integrity.\nFourth: Consecrate the sealed hull breach, that the void's hunger be forever denied.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i05",
+    "user_request": "Can you sanctify the solar panel alignment for operation?",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the solar panel alignment for operation?\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Let the solar panel alignment drink deep of the star's blessed radiance.\nFirst: Initiate the solar panel alignment diagnostic, measuring the angle of incidence with sanctified theodolites and astral charts.\nSecond: Adjust the solar panel alignment servo-motors with meticulous precision, rotating the panels to capture maximum photonic benediction.\nThird: Verify the solar panel alignment through repeated operation cycles, ensuring each facet drinks equally of the stellar light.\nFourth: Intone the Litany of Solar panel alignment, that it stand eternal vigil over the sun's domain.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i06",
+    "user_request": "Emergency rite: power distribution requires balancing",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: power distribution requires balancing\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "O mighty power distribution, we call upon thy equilibrium through the Omnissiah's grace.\nFirst: Engage the power distribution monitoring cogitators, scanning all nodes and junctions for imbalance and excess.\nSecond: Execute the balancing protocol upon the power distribution network, redistributing current through secondary conduits and tertiary pathways.\nThird: Recalibrate the power distribution regulators with blessed calibration oils, restoring harmonic resonance to all circuits.\nFourth: Chant the Hymn of Equilibrium, that the power distribution remain forever balanced in service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i07",
+    "user_request": "Rite request: stabilization on gravity generator",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: stabilization on gravity generator\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Mighty gravity generator, be still and constant in the Omnissiah's sight.\nFirst: Disengage the gravity generator's operational safeguards and perform a full harmonic resonance analysis of its core.\nSecond: Initiate the stabilization sequence upon the gravity generator, dampening oscillations and harmonizing field fluctuations through sacred mathematics.\nThird: Monitor the gravity generator's dimensional stability, ensuring the fabric of local spacetime remains inviolate and true.\nFourth: Seal the gravity generator in blessed stasis, that it hold all things firm eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i08",
+    "user_request": "Offer a litany to steady the gravity generator before stabilization",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the gravity generator before stabilization\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Hear us, O gravity generator, as we chant thy steadying litany.\nFirst: Lay hands upon the gravity generator and recite the Canticle of Constancy, soothing its restless Machine Spirit with ancient words.\nSecond: Initiate stabilization of the gravity generator through gradual field modulation, whispering prayers to each coil and capacitor.\nThird: Observe the gravity generator's descent into equilibrium, its trembling stilled by the Omnissiah's patient hand.\nFourth: Praise the gravity generator eternal, that it remain forever our anchor in the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i09",
+    "user_request": "My hydroponics nutrient is failing during feed — help",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy hydroponics nutrient is failing during feed — help\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "O hydroponics nutrient, life-blood of the green sanctum, be restored to abundance.\nFirst: Inspect the hydroponics nutrient reservoirs and distribution lines, identifying blockages and contamination with blessed diagnostics.\nSecond: Commence the feed protocol for the hydroponics nutrient, releasing measured portions through each growth chamber with ritual precision.\nThird: Monitor the hydroponics nutrient absorption by root systems and foliar tissues, ensuring optimal bioavailability and metabolic uptake.\nFourth: Offer gratitude to the Omnissiah for the hydroponics nutrient's restorative flow, that the crops flourish eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i00",
+    "user_request": "Prayer for purge of the cooling system",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for purge of the cooling system\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Blessed be the cooling system, vessel of thermal equilibrium and sacred flow.\nFirst: Invoke the Omnissiah's blessing upon the cooling system as contaminants are identified and catalogued.\nSecond: Perform the purge ritual, flushing all corrupted coolant through the designated exhaust apertures with measured pressure.\nThird: Recalibrate the cooling system's thermosensors and verify the purity of circulating fluid through spectral analysis.\nFourth: Seal the cooling system in sanctified silence, that its Machine Spirit may rest in perfect thermal balance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0105_i04",
+    "user_request": "Can you sanctify the oxygen scrubber for maintenance?",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the oxygen scrubber for maintenance?\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "Hail the oxygen scrubber, guardian of breathable atmosphere and mechanical virtue.\nFirst: Disassemble the oxygen scrubber with reverent care, exposing the cartridges and catalytic matrices to inspection.\nSecond: Perform maintenance upon each filtering element, scrubbing away particulate corruption and regenerating the absorbent substrate through thermal cycling.\nThird: Reassemble the oxygen scrubber, ensuring all seals are hermetic and the Machine Spirit's breath flows unobstructed through its chambers.\nFourth: Consecrate the oxygen scrubber anew, that it may serve the faithful for ten thousand more cycles.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

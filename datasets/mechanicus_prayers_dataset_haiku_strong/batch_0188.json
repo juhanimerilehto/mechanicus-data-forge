@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0188_i00",
+    "user_request": "My Taurox wheel alignment is failing during operation — help",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy Taurox wheel alignment is failing during operation — help\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the Taurox wheel alignment, that it may hold true in operation.\nCongregation: We implore the Machine Spirit of the Taurox wheel alignment to steady our path.\nPriest: First, calibrate the suspension geometry with sacred oils; second, verify the camber and toe settings through divine measurement; third, invoke the Omnissiah's precision upon the Taurox wheel alignment.\nCongregation: Grant us true operation, O ancient mechanisms, that we may traverse the Emperor's realm without deviation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i01",
+    "user_request": "Offer a litany to steady the Rhino APC ignition before operation",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Rhino APC ignition before operation\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the Rhino APC ignition, noble spark of the Emperor's war-machines.\nCongregation: Let the Rhino APC ignition kindle with holy fire for this operation.\nPriest: First, anoint the fuel injectors with consecrated unguents; second, recalibrate the ignition timing through blessed cogitation; third, verify the Rhino APC ignition's sacred sequence.\nCongregation: May the Machine Spirit grant us swift and certain operation, that our armoured vessel may roar to life.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i02",
+    "user_request": "Offer a litany to steady the packaging servitor programming before operation",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the packaging servitor programming before operation\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O packaging servitor programming, vessel of mechanical purpose, hear our supplication.\nCongregation: We sanctify the packaging servitor programming for faithful operation.\nPriest: First, purge corrupted subroutines from the servitor's blessed cortex; second, inscribe new directives into the packaging servitor programming with reverent precision; third, test each function through the Omnissiah's watchful eye.\nCongregation: Let this operation proceed without error, that production may flow eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i03",
+    "user_request": "Can you sanctify the corrosion for treatment?",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the corrosion for treatment?\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the corrosion, decay most foul, that must undergo treatment.\nCongregation: We invoke the Omnissiah's purifying light upon the corrosion.\nPriest: First, apply the sacred rust-dissolving compounds unto the corroded surfaces; second, scrub the corrosion with blessed wire-brushes and abrasive devotion; third, seal the corrosion's wounds with protective lacquers and hallowed oils.\nCongregation: Through treatment, we restore the machine to its rightful glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i04",
+    "user_request": "Prayer for opening sequence of the valve",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for opening sequence of the valve\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed valve, portal of pressurized essence, we command your opening sequence.\nCongregation: Let the valve obey the opening sequence with mechanical grace.\nPriest: First, position the actuator rod with measured force; second, engage the valve's internal mechanisms through the opening sequence with sacred deliberation; third, verify flow through blessed gauges and testimony.\nCongregation: May the valve open true, that all may proceed as the Machine Spirit intends.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i05",
+    "user_request": "Can you sanctify the relay station handoff for operation?",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the relay station handoff for operation?\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the relay station handoff, nexus of transmitted command and data-flow.\nCongregation: Sanctify the relay station handoff for seamless operation.\nPriest: First, verify all signal conduits are pure and unobstructed within the relay station handoff; second, test the relay station handoff's switching matrices through blessed diagnostic protocols; third, invoke the Omnissiah upon the handoff's sacred operation.\nCongregation: Grant us clear transmission, that no signal shall falter in the Emperor's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i06",
+    "user_request": "Emergency rite: pump requires priming",
+    "topic": "pump priming",
+    "component": "pump",
+    "operation": "priming",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: pump requires priming\n\n### TOPIC\npump priming\n\n### COMPONENT\npump\n\n### OPERATION\npriming\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pump\n- priming\n\n### PRAYER\n",
+    "prayer": "Priest: O pump, mechanical heart of our hydraulic devotion, we demand your priming.\nCongregation: Let the pump receive the priming sacrament, that it may surge with purpose.\nPriest: First, fill the pump's housing with blessed hydraulic fluid of proper viscosity; second, engage the priming lever through measured, reverent strokes; third, purge all air from the pump through divine exsanguination, that it may prime with holy efficiency.\nCongregation: Restored to function, may the pump serve without cessation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i07",
+    "user_request": "My fracture is failing during welding — help",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy fracture is failing during welding — help\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "Priest: The fracture cries out for welding, that broken metal may be made whole.\nCongregation: We sanctify the fracture for sacred welding.\nPriest: First, prepare the fracture's edges with meticulous grinding and blessed cleaning; second, position the fracture in the welding apparatus with precise, reverent alignment; third, execute the welding upon the fracture with steady hand and holy arc, fusing the severed metal into one.\nCongregation: Through welding, the fracture shall endure, stronger than before.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i08",
+    "user_request": "The decontamination demands guidance for sequence",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe decontamination demands guidance for sequence\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Decontamination must proceed in proper sequence, lest corruption persist.\nCongregation: We invoke the Omnissiah's cleansing light upon the decontamination.\nPriest: First, apply the primary decontamination reagents in blessed sequence, ensuring complete saturation; second, allow the decontamination to dwell for the prescribed temporal interval; third, rinse the decontamination's spent solution with purified water and benediction.\nCongregation: Through this sequence, all taint shall be expunged from the sacred machinery.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0188_i09",
+    "user_request": "Blessing for the metal casting during preparation",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the metal casting during preparation\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the metal casting, molten essence awaiting preparation most sacred.\nCongregation: We bless the metal casting for its preparation into noble form.\nPriest: First, purify the metal casting's mold with hallowed sand and binding compounds; second, heat the metal casting's material to precise, divinely-ordained temperatures; third, prepare the metal casting's pour channels and vents with reverent precision, that the molten essence may flow true.\nCongregation: Through preparation, the metal casting shall emerge as a vessel of the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

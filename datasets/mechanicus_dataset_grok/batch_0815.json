@@ -1,0 +1,58 @@
+[
+  {
+    "user_prompt": "Assist with heavy bolter a purification",
+    "prayer": "Approach the heavy bolter with reverence, mechadendrites extended in supplication to the Omnissiah.\nInvoke the ancient Rite of Purification upon its sacred barrels and breach mechanisms.\nAnoint the heavy bolter's feeding systems with sanctified oils to exorcise foul corruptions.\nBeseech the Machine Spirit within the heavy bolter to emerge purified and wrathful.\nCycle diagnostic litanies through its auspex relays, affirming the purification's sanctity.",
+    "component": "heavy bolter",
+    "operation": "purification",
+    "spec_id": "s04150"
+  },
+  {
+    "user_prompt": "The Land Speeder awaits a repair",
+    "prayer": "Kneel before the Land Speeder, intoning the Litany of Restoration to its hovering frame.\nDiagnose fractures in the Land Speeder's gravitic impellers with binary prayers.\nRepair the wounded alloys by welding with the sacred fire of the forge, invoking Omnissiah's grace.\nRealign the thruster vanes whilst beseeching the Machine Spirit's forgiveness for its scars.\nTest the Land Speeder's renewed vigour through ritual thrust incantations.",
+    "component": "Land Speeder",
+    "operation": "repair",
+    "spec_id": "s04151"
+  },
+  {
+    "user_prompt": "The Valkyrie gunship requires an emergency procedure",
+    "prayer": "Converge upon the Valkyrie gunship in dire exigency, chanting emergency catechisms.\nExecute the emergency procedure by severing tainted power conduits with blessed blades.\nPurge volatile plasma cells within the Valkyrie gunship's reactors via ablative rites.\nReinvigorate the Machine Spirit of the Valkyrie gunship with galvanic invocations.\nValidate stability through auspex sweeps and final Omnissian blessings.",
+    "component": "Valkyrie gunship",
+    "operation": "emergency procedure",
+    "spec_id": "s04152"
+  },
+  {
+    "user_prompt": "My Baneblade is ready for operation",
+    "prayer": "Commence the preparatory rites for the Baneblade's operation, oiling its titanic treads.\nAwaken the colossal Machine Spirit within the Baneblade through thunderous litanies.\nCalibrate all armoured bastions for the operation, beseeching flawless execution.\nSanctify the Baneblade's volcano cannon with incense and invocation.\nProclaim readiness for operation under the Omnissiah's unblinking gaze.",
+    "component": "Baneblade",
+    "operation": "operation",
+    "spec_id": "s04154"
+  },
+  {
+    "user_prompt": "Prepare the life sustainer for repair",
+    "prayer": "Approach the life sustainer with hushed vox-canticles of renewal.\nDissect its vital pumps for repair, murmuring apologies to the resident Machine Spirit.\nReconstruct the life sustainer's filtration membranes using sanctified polymers.\nReinfuse nutrient flows whilst invoking the Omnissiah's breath of life.\nTest the repaired life sustainer through cyclical diagnostic purges.",
+    "component": "life sustainer",
+    "operation": "repair",
+    "spec_id": "s04155"
+  },
+  {
+    "user_prompt": "Urgent air filtration an emergency procedure needed",
+    "prayer": "In urgent assembly, beseech the air filtration unit amid emergency procedure.\nIsolate compromised scrubbers in the air filtration system with severing rites.\nExecute the emergency procedure by ablating toxified matrices with plasma torches.\nReawaken the Machine Spirit of the air filtration through galvanic catechisms.\nVerify atmospheric purity via sacred chem-sensors and concluding blessings.",
+    "component": "air filtration",
+    "operation": "emergency procedure",
+    "spec_id": "s04156"
+  },
+  {
+    "user_prompt": "Assist with optical mechadendrite a cooling",
+    "prayer": "Extend probe-servitors to the optical mechadendrite for cooling ministrations.\nInvoke coolant litanies upon the optical mechadendrite's overheating oculi.\nCycle sacred cryofluids through its conduits to enact the cooling rite.\nPacify the Machine Spirit of the optical mechadendrite with soothing binaric hymns.\nAffix thermal wards, ensuring vigilant sight under Omnissiah's light.",
+    "component": "optical mechadendrite",
+    "operation": "cooling",
+    "spec_id": "s04157"
+  },
+  {
+    "user_prompt": "Ready the neutron laser for engagement",
+    "prayer": "Prepare the neutron laser for engagement with focusing arrays aligned in prayer.\nChant activation dogmata to rouse the neutron laser's annihilatory core.\nSynchronise power feeds for engagement, anointing lenses with sacred unguents.\nBeseech the Machine Spirit within the neutron laser to unleash precise fury.\nTest coherence through low-yield lases, hailing the Omnissiah's wrath.",
+    "component": "neutron laser",
+    "operation": "engagement",
+    "spec_id": "s04158"
+  }
+]

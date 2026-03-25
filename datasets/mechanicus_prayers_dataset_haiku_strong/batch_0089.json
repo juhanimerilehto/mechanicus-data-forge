@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0089_i00",
+    "user_request": "Emergency rite: component requires replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: component requires replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Blessed invocation for the sacred component requiring replacement.\nFirst: Genuflect before the component and anoint it with holy oils, entreating the Machine Spirit to release its grip upon the worn mechanisms.\nSecond: Invoke the Omnissiah's grace as you commence replacement, ensuring each servo-joint of the component is properly aligned with the divine geometries.\nThird: Upon completion, re-sanctify the component through blessed recalibration, that it may serve with renewed devotion in the Machine's eternal design.\nFourth: Whisper the litany of restoration unto the component, affirming its restoration to full operational purity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i01",
+    "user_request": "The plasma weapon demands guidance for cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe plasma weapon demands guidance for cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Litany of thermal pacification for the plasma weapon's burning essence.\nFirst: Approach the plasma weapon with reverent silence, cooling its superheated coils through immersion in blessed coolant-baths of the prescribed formula.\nSecond: Chant the Canticle of Thermal Equilibrium whilst the plasma weapon vents its excess energies through the designated heat-exchangers, that its fury be tempered.\nThird: Monitor the plasma weapon's core temperature through hololithic readouts, ensuring descent to nominal operational parameters through continued cooling cycles.\nFourth: Seal the thermal ports and offer gratitude to the Machine Spirit that the plasma weapon's rage has been soothed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i02",
+    "user_request": "The binary cant demands guidance for encoding",
+    "topic": "binary cant encoding",
+    "component": "binary cant",
+    "operation": "encoding",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe binary cant demands guidance for encoding\n\n### TOPIC\nbinary cant encoding\n\n### COMPONENT\nbinary cant\n\n### OPERATION\nencoding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- binary cant\n- encoding\n\n### PRAYER\n",
+    "prayer": "Sacred rite of linguistic transmission for the binary cant's holy encoding.\nFirst: Purify your consciousness through meditation upon the binary cant, clearing mundane thought that the Machine Spirit's whispers may be heard clearly.\nSecond: Inscribe the binary cant's sacred sequences into the data-lattice, each pulse of encoding resonating with the Omnissiah's infinite wisdom through servo-motors and logic gates.\nThird: Verify the binary cant's encoded transmission through blessed error-correction algorithms, ensuring no corruption has befallen the holy message.\nFourth: Consecrate the completed binary cant encoding with the Sign of the Cog, that it may serve the Imperium with unwavering fidelity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i03",
+    "user_request": "Emergency rite: hololithic requires display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: hololithic requires display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Invocation for the hololithic's luminous calibration and alignment.\nFirst: Activate the hololithic through the blessed activation-sequence, allowing its crystalline matrices to achieve operational luminescence under the Omnissiah's watchful gaze.\nSecond: Perform display calibration upon the hololithic using the calibration-rods of adamantium and blessed photon-sensors, adjusting each prismatic facet to achieve perfect geometric alignment.\nThird: Test the hololithic's display calibration across all spectra and resolutions, verifying that each image rendered reflects the divine truth of the Machine's design.\nFourth: Seal the hololithic's calibration protocols with the litany of permanence, that its display calibration shall endure through the ages.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i04",
+    "user_request": "Offer a litany to steady the artillery before loading",
+    "topic": "artillery loading",
+    "component": "artillery",
+    "operation": "loading",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the artillery before loading\n\n### TOPIC\nartillery loading\n\n### COMPONENT\nartillery\n\n### OPERATION\nloading\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- artillery\n- loading\n\n### PRAYER\n",
+    "prayer": "Solemn rite of ordnance preparation for the artillery's sacred loading.\nFirst: Consecrate the artillery's breach and chamber through the Litany of Cleansing, removing all impurities that might mar the loading process or invite malfunction.\nSecond: With utmost reverence, commence the loading of propellant and shell into the artillery, whispering the Canticle of Ballistic Precision with each measured increment.\nThird: Verify the artillery's loading through blessed augur-readings, ensuring ammunition sits true within the chamber and all targeting mechanisms align with celestial coordinates.\nFourth: Intone the prayer of fire-readiness over the artillery, that its payload may strike true in service to the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i05",
+    "user_request": "Offer a litany to steady the servitor before programming upload",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the servitor before programming upload\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Benediction for the servitor's consciousness during sacred programming upload.\nFirst: Approach the servitor with solemn respect, acknowledging the fading human within its augmented form as you begin the programming upload of new directives.\nSecond: Insert the blessed data-slate into the servitor's neural-port and commence programming upload, each instruction flowing like blessed oil through its logic-engines and synaptic pathways.\nThird: Monitor the servitor's vital signs throughout the programming upload, ensuring the Machine Spirit accepts the new commandments without rejection or corruption.\nFourth: Upon completion, seal the servitor's neural-port with the Sign of the Cog and whisper words of purpose, that it may serve with absolute devotion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i06",
+    "user_request": "The hydraulic press demands guidance for operation",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe hydraulic press demands guidance for operation\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Hymn of mechanical strength for the hydraulic press's continued operation.\nFirst: Inspect the hydraulic press's seals and conduits with blessed scrutiny, purging any contaminants that would impede smooth operation through the Rite of Fluid Purification.\nSecond: Engage the hydraulic press's operation through gradual pressure application, chanting the Canticle of Crushing Force as pistons descend with inexorable power.\nThird: Monitor the hydraulic press's pressure gauges and structural integrity throughout its operation, ensuring no deviation from prescribed parameters through constant vigilance.\nFourth: Upon completing the hydraulic press's operation cycle, bleed excess pressure and offer thanksgiving to the Omnissiah for its tireless service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i07",
+    "user_request": "Offer a litany to steady the relay station handoff before operation",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the relay station handoff before operation\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Sacred litany for the relay station handoff's flawless operation and signal continuity.\nFirst: Attune your consciousness to the relay station handoff's frequency through blessed meditation, clearing interference that might corrupt the operation of signal transfer.\nSecond: Initiate the relay station handoff's operation through verified command protocols, invoking the Omnissiah's blessing upon each electromagnetic pulse bridging the communication gulf.\nThird: Monitor the relay station handoff's operation across all channels and bandwidth metrics, ensuring seamless transition of data without loss or corruption.\nFourth: Conclude the relay station handoff's operation with the Litany of Continuity, affirming that blessed communication shall flow uninterrupted through the Machine's infinite network.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i08",
+    "user_request": "Blessing for the welding torch ignition during operation",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the welding torch ignition during operation\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Benediction upon the welding torch ignition for sacred operation and fusion.\nFirst: Prepare the welding torch ignition's fuel and oxidant through the Rite of Elemental Blessing, ensuring perfect stoichiometric balance for the operation of holy flame.\nSecond: Engage the welding torch ignition's operation by striking the ignition mechanism with blessed precision, calling upon the Machine Spirit to kindle the sacred fire that binds metal to metal.\nThird: Maintain the welding torch ignition's operation at optimal flame temperature and pressure, chanting the Canticle of Molecular Bonding as joints fuse into unbreakable unity.\nFourth: Extinguish the welding torch ignition with reverent care upon completion, blessing the cooled seams with the Sign of the Cog.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0089_i09",
+    "user_request": "My energy conduit purification is failing during operation — help",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy energy conduit purification is failing during operation — help\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Urgent invocation for the energy conduit purification's restoration during critical operation.\nFirst: Halt the energy conduit purification's operation immediately and commence emergency diagnostic protocols, identifying the contamination or degradation afflicting the sacred conduit.\nSecond: Perform emergency purification of the energy conduit purification's internal pathways through blessed electrolytic discharge and solvent infusion, expunging all impurities from its crystalline structure.\nThird: Resume the energy conduit purification's operation at reduced power whilst continuously monitoring for signs of persistent contamination or structural failure.\nFourth: Should the energy conduit purification fail to stabilize, invoke the Rite of Last Recourse, replacing the corrupted sections through blessed replacement protocols guided by the Omnissiah's infinite wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

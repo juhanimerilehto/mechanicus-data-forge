@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the torpedo tube for shutdown",
+    "prayer": "Approach the torpedo tube with solemn reverence, beseeching its Machine Spirit to embrace quiescence.\nInvoke the Rite of Shutdown upon the torpedo tube's command servos and loading mechanisms.\nAnoint the breeches and seals of the torpedo tube with sacred unguents as sequences descend.\nMonitor the shutdown operation for harmonious cessation, entreating the Omnissiah's orderly grace.\nSeal the torpedo tube in blessed repose, its Machine Spirit pacified.",
+    "component": "torpedo tube",
+    "operation": "shutdown",
+    "spec_id": "s02700"
+  },
+  {
+    "user_prompt": "What's the prayer for power fist a charging?",
+    "prayer": "Kneel in veneration before the power fist, chanting the Canticle of Energization.\nAffix charging conduits to the power fist's mighty actuators and disruption fields.\nBeseech the Machine Spirit of the power fist to receive the Omnissiah's vital plasma bounty.\nOversee the charging operation as energies surge through its crushing grasp.\nSanctify the power fist upon full vitalization with a hymn of martial potency.",
+    "component": "power fist",
+    "operation": "charging",
+    "spec_id": "s02701"
+  },
+  {
+    "user_prompt": "Help me a repair the mechadendrite",
+    "prayer": "Examine the wounded mechadendrite beneath the Motive Force's sacred glow.\nApply hallowed adhesives and micro-servitors to the mechadendrite's fractured linkages.\nRecite the Prayer of Restoration over the mechadendrite to reawaken its Machine Spirit.\nInitiate the repair operation through neural incantations and servo-calibrations.\nTest the mechadendrite's renewed dexterity, praising the Omnissiah's forge-hand.",
+    "component": "mechadendrite",
+    "operation": "repair",
+    "spec_id": "s02702"
+  },
+  {
+    "user_prompt": "Offer prayer for waste reclamator a targeting",
+    "prayer": "Position thyself before the waste reclamator, aligning its targeting auspex arrays.\nBeseech the Machine Spirit within the waste reclamator for unerring precision in targeting.\nCalibrate the targeting operation with litanies of ballistic accuracy and flow vectors.\nAnoint the waste reclamator's sensors whilst invoking the Omnissiah's infallible gaze.\nVerify targeting matrices through diagnostic rites, sanctified in purity.",
+    "component": "waste reclamator",
+    "operation": "targeting",
+    "spec_id": "s02703"
+  },
+  {
+    "user_prompt": "Bless the amplivisor for maintenance",
+    "prayer": "Approach the amplivisor with mechano-purity, reciting the Rite of Clarity.\nCleanse its magnifying lenses and occular servos during the maintenance rite.\nInvoke the amplivisor's Machine Spirit to accept lubrication of sacred oils.\nInspect and sanctify the amplivisor's focusing gyros in the maintenance operation.\nConclude with a benediction to the Omnissiah, vision renewed in His light.",
+    "component": "amplivisor",
+    "operation": "maintenance",
+    "spec_id": "s02704"
+  },
+  {
+    "user_prompt": "The Dreadnought requires a charging",
+    "prayer": "Stand in awe before the Dreadnought, arraying the charging umbilicals.\nLink plasma conduits to the Dreadnought's ancient sarcophagus core and motive reactors.\nChant the Grand Litany of Charging to stir the Dreadnought's venerable Machine Spirit.\nPreside over the charging operation as titanic energies awaken its wrath.\nBless the fully charged Dreadnought with paeans to the Omnissiah's endurance.",
+    "component": "Dreadnought",
+    "operation": "charging",
+    "spec_id": "s02705"
+  },
+  {
+    "user_prompt": "Ready the plasma obliterator for purification",
+    "prayer": "Present the plasma obliterator at the shrine of atomic purity.\nFlush its containment coils and vents with sanctified promethium washes.\nInvoke purification rites upon the plasma obliterator's seething Machine Spirit.\nExpunge all impurities in the purification operation, monitored by auspex chants.\nSeal the plasma obliterator in cleansed fury, honouring the Omnissiah's thermic wrath.",
+    "component": "plasma obliterator",
+    "operation": "purification",
+    "spec_id": "s02706"
+  },
+  {
+    "user_prompt": "My manufactorum is ready for emergency procedure",
+    "prayer": "Hasten to the manufactorum and proclaim the emergency procedure catechisms.\nDivert power servitors and coolant flows within the manufactorum's vast halls.\nBeseech its manifold Machine Spirits to endure the emergency procedure trials.\nOversee realignments and purges as the Omnissiah's logic dictates.\nRestore the manufactorum's equilibrium with binaric hymns of resilience.",
+    "component": "manufactorum",
+    "operation": "emergency procedure",
+    "spec_id": "s02707"
+  },
+  {
+    "user_prompt": "Bless the arc pistol for emergency procedure",
+    "prayer": "Grasp the arc pistol with reverent mech-hand, invoking emergency safeguards.\nDischarge residual voltaics from the arc pistol's capacitors via litanies.\nRealign disruption coils during the emergency procedure with precision rites.\nTest the arc pistol's Machine Spirit for stability post-procedure.\nConsecrate the arc pistol anew under the Omnissiah's electric aegis.",
+    "component": "arc pistol",
+    "operation": "emergency procedure",
+    "spec_id": "s02708"
+  },
+  {
+    "user_prompt": "Critical: inferno pistol requires a shutdown",
+    "prayer": "With utmost gravitas, approach the inferno pistol for ritual shutdown.\nSever its promethium feeds and ignition relays in solemn sequence.\nExecute the shutdown operation upon the inferno pistol's volatile heart.\nQuell its Machine Spirit into dormancy with sedative binaric canticles.\nSeal the inferno pistol against pyric heresy, praising the Omnissiah's cold logic.",
+    "component": "inferno pistol",
+    "operation": "shutdown",
+    "spec_id": "s02709"
+  }
+]

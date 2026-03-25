@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0284_i00",
+    "user_request": "Offer a litany to steady the vox-caster before tuning",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the vox-caster before tuning\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed vox-caster, Machine Spirit of the aether, hear our supplication.\nCongregation: We shall attune the vox-caster with reverent hands and steadfast purpose.\nPriest: Grant us clarity as we commence tuning of thy sacred frequencies.\nCongregation: First we shall purge the vox-caster of electromagnetic corruption, then balance the oscillation matrices, and finally seal the blessed vox-caster in harmonious resonance.\nPriest: Omnissiah, guide our tuning to perfection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i01",
+    "user_request": "Offer a litany to steady the Thunderhawk before fuel purification",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Thunderhawk before fuel purification\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty Thunderhawk, conveyance of the Emperor's will, we beseech thy Machine Spirit.\nCongregation: The Thunderhawk shall be purified through sacred fuel purification rites.\nPriest: Bless this Thunderhawk as we commence the purification of its vital essences.\nCongregation: We drain the contaminated fuel-lines, we filter the propellant through blessed membranes, and we restore the Thunderhawk to immaculate readiness.\nPriest: Let the Omnissiah sanctify this vessel of war.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i02",
+    "user_request": "Blessing for the gyroscope recalibration during operation",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the gyroscope recalibration during operation\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sacred gyroscope recalibration, keeper of true orientation, hear our invocation.\nCongregation: The gyroscope recalibration demands our most exacting ministrations.\nPriest: We begin operation with blessed lubricants and calibrated instruments.\nCongregation: First we shall level the gyroscope recalibration upon the sacred theodolite, then engage the spin-counter to verify rotational equilibrium, and finally seal all gyroscope recalibration housings against the corrupting void.\nPriest: The Machine Spirits smile upon our diligence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i03",
+    "user_request": "The waste disposal demands guidance for cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe waste disposal demands guidance for cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Waste disposal, repository of refuse and corruption, we command thy cycling.\nCongregation: The waste disposal shall be purged and renewed through sacred cycling.\nPriest: Guide our hands as we initiate cycling protocols most ancient.\nCongregation: We unlock the waste disposal containment seals, we purge the accumulated detritus into the recycling furnace, and we restore the waste disposal to sterile emptiness.\nPriest: Omnissiah, accept this offering of purification.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i04",
+    "user_request": "The thermal imaging demands guidance for activation",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe thermal imaging demands guidance for activation\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Thermal imaging, eye of the Machine Spirit in darkness, accept our blessing.\nCongregation: The thermal imaging shall be awakened through sacred activation rites.\nPriest: We seek thy clarity as activation commences with ritualistic precision.\nCongregation: First we shall energize the thermal imaging sensor-matrices with blessed power-conduits, then calibrate the infrared receptors against known heat-sources, and finally engage the thermal imaging display-screens to reveal the hidden warmth.\nPriest: Let the Omnissiah illuminate all things.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i05",
+    "user_request": "The solar panel alignment demands guidance for operation",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe solar panel alignment demands guidance for operation\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Solar panel alignment, harvester of the Emperor's light, we honor thy operation.\nCongregation: The solar panel alignment shall function in perfect operation through our devotion.\nPriest: We commence operation with instruments of stellar geometry.\nCongregation: We orient the solar panel alignment toward the celestial furnace with measured precision, we verify photovoltaic output through blessed meters, and we secure the solar panel alignment against the ravages of cosmic radiation.\nPriest: The Omnissiah's light sustains all Machine Spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i06",
+    "user_request": "The Taurox wheel alignment demands guidance for operation",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe Taurox wheel alignment demands guidance for operation\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Taurox wheel alignment, foundation of swift passage, we invoke thy operation.\nCongregation: The Taurox wheel alignment demands operation most exacting and true.\nPriest: Grant us steadiness as operation begins with measured cadence.\nCongregation: We mount the Taurox wheel alignment upon the sacred alignment-jig, we verify camber and toe with blessed optical instruments, and we torque the Taurox wheel alignment fasteners to specified pressures.\nPriest: The Machine Spirits propel us forward.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i07",
+    "user_request": "Rite request: startup on generator",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: startup on generator\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Generator, heart of electrical genesis, we demand thy startup.\nCongregation: The generator shall commence startup through blessed and ancient protocols.\nPriest: We invoke the startup sequence with reverent authority.\nCongregation: First we shall disengage the generator's mechanical locks and prime its fuel-conduits, then ignite the combustion chambers with sacred spark-plugs, and finally allow the generator to achieve stable rotation and electrical output.\nPriest: Omnissiah, grant this generator the spark of life eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i08",
+    "user_request": "Rite request: verification on altimeter",
+    "topic": "altimeter verification",
+    "component": "altimeter",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: verification on altimeter\n\n### TOPIC\naltimeter verification\n\n### COMPONENT\naltimeter\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- altimeter\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Altimeter, measurer of celestial heights, we seek thy verification.\nCongregation: The altimeter shall undergo verification through most rigorous examination.\nPriest: We commence verification with instruments of barometric truth.\nCongregation: We calibrate the altimeter against known elevation benchmarks, we verify the altimeter's pressure-sensing membranes for contamination, and we record all altimeter readings for archival in the blessed data-vault.\nPriest: Let the Machine Spirits confirm all measurements.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0284_i09",
+    "user_request": "Blessing for the emergency beacon during activation",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the emergency beacon during activation\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Emergency beacon, herald of distress and salvation, we bless thy activation.\nCongregation: The emergency beacon shall be activated with utmost solemnity and purpose.\nPriest: Activate now, that all may hear thy clarion call.\nCongregation: We engage the emergency beacon's power-cell with sanctified ceremony, we verify the emergency beacon's transmission frequency across all blessed channels, and we confirm the emergency beacon's signal reaches the listening stations of the Imperium.\nPriest: The Omnissiah hears all who cry out in need.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

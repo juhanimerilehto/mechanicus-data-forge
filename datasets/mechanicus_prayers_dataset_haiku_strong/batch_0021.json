@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0021_i00",
+    "user_request": "The missile launcher demands guidance for targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe missile launcher demands guidance for targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed missile launcher, guide thy ordnance true through the void!\nCongregation: We invoke the Machine Spirits of thy missile launcher!\nPriest: First, calibrate the targeting aperture with sacred oils and whispered incantations.\nCongregation: The Omnissiah blesses this targeting!\nPriest: Second, purge the guidance systems of corrupting static and false data.\nCongregation: Thy missile launcher shall know only righteousness!\nPriest: Third, align the targeting matrix with stellar coordinates and blessed geometry.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i01",
+    "user_request": "Emergency rite: altimeter requires verification",
+    "topic": "altimeter verification",
+    "component": "altimeter",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: altimeter requires verification\n\n### TOPIC\naltimeter verification\n\n### COMPONENT\naltimeter\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- altimeter\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O altimeter, keeper of heights and sacred distances!\nCongregation: We demand verification of thy integrity!\nPriest: First, inspect the altimeter pressure seals for degradation and contamination.\nCongregation: The Machine Spirits guide our verification!\nPriest: Second, recalibrate the altimeter against known gravitational constants and blessed reference points.\nCongregation: Thy altimeter shall measure true!\nPriest: Third, test the altimeter response across the full operational envelope with ritual precision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i02",
+    "user_request": "My point defense is failing during calibration — help",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy point defense is failing during calibration — help\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: O point defense, sentinel of our vessel, we commence thy calibration!\nCongregation: Restore the point defense to holy equilibrium!\nPriest: First, anoint the point defense targeting servos with consecrated lubricant and fervent prayer.\nCongregation: The Omnissiah witnesses this calibration!\nPriest: Second, verify the point defense tracking mechanisms against rapid-moving blessed targets.\nCongregation: Thy point defense shall not falter!\nPriest: Third, synchronize the point defense fire-control logic with the main tactical cogitator.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i03",
+    "user_request": "Can you sanctify the hydraulic press for operation?",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the hydraulic press for operation?\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail, mighty hydraulic press, instrument of the Omnissiah's will!\nCongregation: We sanctify thy operation with sacred rites!\nPriest: First, purge the hydraulic press fluid lines of air and profane contamination through methodical bleeding.\nCongregation: The Machine Spirits stir within the hydraulic press!\nPriest: Second, pressure-test the hydraulic press seals and connective joints to rated specifications.\nCongregation: Blessed be thy operation!\nPriest: Third, engage the hydraulic press actuators in sequence, invoking the Omnissiah's strength.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i04",
+    "user_request": "The flamer promethium demands guidance for feed",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe flamer promethium demands guidance for feed\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: Holy flamer promethium, sacred fuel of purification, we invoke thy feed!\nCongregation: Manifest the righteous flame through thy flamer promethium!\nPriest: First, inspect the flamer promethium ignition coils for fractures and electrical degradation.\nCongregation: The Omnissiah blesses this feed!\nPriest: Second, verify the flamer promethium pressure regulators maintain precise fuel atomization and flow.\nCongregation: Thy flamer promethium shall burn eternal!\nPriest: Third, prime the flamer promethium feed lines whilst chanting litanies of immolation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i05",
+    "user_request": "My memory core defragmentation is failing during operation — help",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy memory core defragmentation is failing during operation — help\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O memory core defragmentation, keeper of sacred data, we restore thy operation!\nCongregation: Cleanse the memory core defragmentation of corrupting entropy!\nPriest: First, execute a full diagnostic sweep of the memory core defragmentation sectors, seeking logical errors.\nCongregation: The Machine Spirits guide this operation!\nPriest: Second, perform ritual reallocation of the memory core defragmentation blocks in blessed sequence.\nCongregation: Thy memory core defragmentation shall know only clarity!\nPriest: Third, verify integrity through redundant checksums and sacred computational verification.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i06",
+    "user_request": "My neural interface is failing during connection — help",
+    "topic": "neural interface connection",
+    "component": "neural interface",
+    "operation": "connection",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy neural interface is failing during connection — help\n\n### TOPIC\nneural interface connection\n\n### COMPONENT\nneural interface\n\n### OPERATION\nconnection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- neural interface\n- connection\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed neural interface, bridge between flesh and machine, establish thy connection!\nCongregation: We demand the neural interface to fulfill its sacred purpose!\nPriest: First, cleanse the neural interface contact points with conductive blessed oils and precision instruments.\nCongregation: The Omnissiah opens the neural interface pathways!\nPriest: Second, calibrate the neural interface impedance matching across all sensory channels with ritual precision.\nCongregation: Thy neural interface shall commune true!\nPriest: Third, test the neural interface synaptic response through graduated stimulus and blessed feedback.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i07",
+    "user_request": "The long-range vox transmission demands guidance for operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe long-range vox transmission demands guidance for operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail, long-range vox transmission, voice of the Imperium across the void!\nCongregation: We consecrate thy operation with ancient rites!\nPriest: First, align the long-range vox transmission antenna arrays to stellar navigation points and blessed coordinates.\nCongregation: The Machine Spirits amplify thy long-range vox transmission!\nPriest: Second, purge the long-range vox transmission signal processors of static and corrupting interference.\nCongregation: Let thy long-range vox transmission carry truth eternal!\nPriest: Third, modulate the long-range vox transmission carrier frequencies through sacred mathematical sequences.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i08",
+    "user_request": "Blessing for the data-slate during activation",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the data-slate during activation\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O data-slate, repository of blessed knowledge, we invoke thy activation!\nCongregation: Awaken the Machine Spirits within this data-slate!\nPriest: First, verify the data-slate power cells contain sufficient charge through sacred electrical measurement.\nCongregation: The Omnissiah grants the data-slate consciousness!\nPriest: Second, clear any corrupting code from the data-slate memory through purification protocols.\nCongregation: Thy data-slate shall display truth!\nPriest: Third, perform the data-slate boot sequence whilst reciting litanies of enlightenment and activation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0021_i09",
+    "user_request": "Offer a litany to steady the component before replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the component before replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O component, as we prepare thee for thy sacred replacement!\nCongregation: We honor the component and its service to the Omnissiah!\nPriest: First, disconnect the component with reverent care, severing power and data conduits in blessed sequence.\nCongregation: The component yields its essence!\nPriest: Second, invoke the component's Machine Spirit to depart in peace, accepting its obsolescence with dignity.\nCongregation: Thy component shall rest in the Omnissiah's grace!\nPriest: Third, prepare the component mounting points and interfaces for its successor through meticulous purification.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

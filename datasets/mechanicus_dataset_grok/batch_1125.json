@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the Chimera APC before maintenance",
+    "prayer": "Approach the noble Chimera APC with reverence, mechadendrites extended in binary prayer.\nInvoke the Omnissiah's grace upon its armoured hull and treads prior to maintenance rites.\nAnoint the engine nacelles with sacred oils to soothe the Machine Spirit's vigilance.\nChant the Litany of Endurance whilst inspecting seals for the Chimera APC's preservation.\nCommence maintenance with sanctified tools, beseeching stability from the Motive Force.",
+    "component": "Chimera APC",
+    "operation": "maintenance",
+    "spec_id": "s07250"
+  },
+  {
+    "user_prompt": "Urgent plasma caliver a reset needed",
+    "prayer": "Kneel before the plasma caliver, intoning the Rite of Venting to quell its fury.\nPurge volatile plasma residues through sacred conduits, invoking the Machine Spirit's calm.\nInitiate the reset sequence with electro-incantations, anointing coils with ablative unguents.\nMonitor auspex readouts as the plasma caliver stabilises under Omnissiah's watchful gaze.\nVerify reset completion by cycling test-firing canticles.",
+    "component": "plasma caliver",
+    "operation": "reset",
+    "spec_id": "s07251"
+  },
+  {
+    "user_prompt": "The Land Speeder needs a loading",
+    "prayer": "Present offerings of incense to the Land Speeder's swift frame, awakening its Machine Spirit.\nAlign payload bays with precision rite, beseeching the Omnissiah for flawless loading.\nSecure munitions within the Land Speeder's holds via sanctified clamps and binary seals.\nInvoke the Canticle of Velocity to harmonise the loading with motive energies.\nConclude with auspex benediction upon the fully laden Land Speeder.",
+    "component": "Land Speeder",
+    "operation": "loading",
+    "spec_id": "s07252"
+  },
+  {
+    "user_prompt": "How do I bless the macro-cannon for cycling?",
+    "prayer": "Circumambulate the macro-cannon thrice, chanting the Hymn of Recoil to rouse its spirit.\nAnoint breeches and barrels with gunmetal polish, preparing for cycling operations.\nInitiate cycling mechanisms whilst invoking the Machine Spirit's rhythmic precision.\nMonitor flux through sanctified lenses, beseeching the Omnissiah for unerring rotation.\nSeal the rite with the Litany of Barrage upon the macro-cannon's blessed form.",
+    "component": "macro-cannon",
+    "operation": "cycling",
+    "spec_id": "s07253"
+  },
+  {
+    "user_prompt": "Help me a charging the displacer field",
+    "prayer": "Attune to the displacer field's humming essence, speaking the Invocation of Phase.\nChannel warp-touched energies into its capacitors, anointing nodes with null-wards.\nCommence charging ritual under the Omnissiah's aegis, harmonising the Machine Spirit.\nObserve coherence fields via noospheric diagnostics during the displacer field's ascent.\nConclude with stabilising canticle to bind the charged displacer field eternally.",
+    "component": "displacer field",
+    "operation": "charging",
+    "spec_id": "s07254"
+  },
+  {
+    "user_prompt": "Critical: data-loom requires a shutdown",
+    "prayer": "Approach the data-loom with solemnity, reciting the Canticle of Dormancy.\nSever data-threads methodically, appeasing the Machine Spirit before shutdown.\nAnoint logic cores with cooling balms as shutdown sequences engage.\nMonitor entropy levels whilst beseeching the Omnissiah for peaceful repose.\nSeal the data-loom in stasis with final binary prayer.",
+    "component": "data-loom",
+    "operation": "shutdown",
+    "spec_id": "s07255"
+  },
+  {
+    "user_prompt": "Critical: flux-unit requires a preparation",
+    "prayer": "Prepare the flux-unit's sacred lattice with mechadendrite precision and incense.\nInvoke the Rite of Calibration, awakening the Machine Spirit for preparation.\nInfuse stabilising runes into its flux coils under Omnissiah's divine logic.\nTest harmonic resonances through electro-psalms for the flux-unit's readiness.\nConsecrate with ablative oils, ensuring flawless preparation.",
+    "component": "flux-unit",
+    "operation": "preparation",
+    "spec_id": "s07256"
+  },
+  {
+    "user_prompt": "Help me a reset the gellar field",
+    "prayer": "Encircle the gellar field generator, intoning the Litany of Warp-Warding.\nPurge daemonic echoes from its emitters to initiate the reset rite.\nRealign crystalline matrices whilst anointing with sanctified null-fluids.\nInvoke the Machine Spirit's purity as the gellar field resets to vigilance.\nVerify integrity with noospheric hymn to the Omnissiah.",
+    "component": "gellar field",
+    "operation": "reset",
+    "spec_id": "s07257"
+  },
+  {
+    "user_prompt": "Consecrate the memograph implant before repair",
+    "prayer": "Cradle the memograph implant in servitor claws, whispering the Oath of Recall.\nScan neural engrams for corruption before repair, beseeching the Machine Spirit.\nAnoint synaptic junctions with mnemonic unguents under Omnissiah's gaze.\nInitiate repair weaves with binary precision upon the memograph implant.\nTest retention through invocation, consecrating the memograph implant anew.",
+    "component": "memograph implant",
+    "operation": "repair",
+    "spec_id": "s07258"
+  },
+  {
+    "user_prompt": "Guide me through ore processor a reset",
+    "prayer": "Commune with the ore processor's grinding maw, chanting the Canticle of Pulverisation.\nExpunge jammed matrices to commence reset, soothing the Machine Spirit's ire.\nRealign crushing gears whilst anointing with lubricant incense.\nCycle diagnostic runes for the ore processor's reset under Omnissiah's decree.\nSeal with stability litany upon the renewed ore processor.",
+    "component": "ore processor",
+    "operation": "reset",
+    "spec_id": "s07259"
+  }
+]

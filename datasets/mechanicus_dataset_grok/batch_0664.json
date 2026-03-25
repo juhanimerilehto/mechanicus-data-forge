@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a purification the Dreadnought",
+    "prayer": "Approach the Dreadnought with censer aloft, invoking the Omnissiah's purifying wrath.\nBeseech the Machine Spirit of the Dreadnought to expel all corruption from its ancient chassis.\nAnoint its sarcophagus and servos with sacred ablative oils during this rite of purification.\nChant the Litany of Scouring Flames whilst applying blessed promethium to its honoured frame.\nConfirm the Dreadnought's sanctity through auspex rituals and invocations of purity.",
+    "component": "Dreadnought",
+    "operation": "purification",
+    "spec_id": "s02640"
+  },
+  {
+    "user_prompt": "Can you guide signal relay a reset?",
+    "prayer": "Kneel before the signal relay, murmuring the Canticle of Reset to the Omnissiah.\nSever corrupted data-threads from the signal relay's noospheric conduits with sanctified blades.\nInvoke the Machine Spirit's renewal, cycling power through its crystalline matrices.\nRealign the signal relay's emitters with the Canticle of Harmonic Resonance.\nVerify reset completion via diagnostic litanies and offerings of incense.",
+    "component": "signal relay",
+    "operation": "reset",
+    "spec_id": "s02641"
+  },
+  {
+    "user_prompt": "Guide me through Archaeopter Stratoraptor a blessing",
+    "prayer": "Circumambulate the Archaeopter Stratoraptor, chanting blessings upon its aeroforged wings.\nAnoint the Archaeopter Stratoraptor's thrusters and avionic cogitators with sacred unguents.\nBeseech the Omnissiah to infuse the Machine Spirit of the Archaeopter Stratoraptor with divine fury.\nInvoke aerial benedictions over its fusilage, sanctifying blade-vanes and torpedo bays.\nSeal the blessing with the Rite of Empyric Consecration and auspex affirmations.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "blessing",
+    "spec_id": "s02642"
+  },
+  {
+    "user_prompt": "Prepare the flux-unit for cycling",
+    "prayer": "Commence the cycling of the flux-unit by invoking the Omnissiah's eternal flux.\nAttune the flux-unit's plasma coils with litanies of stabilization and sacred myrrh.\nBeseech the Machine Spirit within the flux-unit to harmonize its volatile energies.\nCycle the flux-unit's containment fields through sequential incantations of balance.\nAffirm operational purity post-cycling with diagnostic catechisms.",
+    "component": "flux-unit",
+    "operation": "cycling",
+    "spec_id": "s02643"
+  },
+  {
+    "user_prompt": "Prepare the eradication beamer for cycling",
+    "prayer": "Prepare the eradication beamer for cycling with the Incantation of Void-Focus.\nAnoint the eradication beamer's focusing lenses and beam emitters with ablative salves.\nInvoke the Machine Spirit of the eradication beamer to purge flux impurities.\nInitiate cycling sequences whilst chanting the Litany of Annihilating Purity.\nConclude with verification rites, ensuring the eradication beamer's readiness.",
+    "component": "eradication beamer",
+    "operation": "cycling",
+    "spec_id": "s02644"
+  },
+  {
+    "user_prompt": "Ready the phosphor blaster for maintenance",
+    "prayer": "Approach the phosphor blaster reverently, intoning preparatory maintenance litanies.\nDisassemble the phosphor blaster's ignition chambers under the Omnissiah's gaze.\nCleanse its phosphor reservoirs and vents with sanctified abrasives and oils.\nReassemble invoking the Machine Spirit's favour for flawless maintenance.\nTest-fire with the Canticle of Luminescent Wrath to affirm integrity.",
+    "component": "phosphor blaster",
+    "operation": "maintenance",
+    "spec_id": "s02645"
+  },
+  {
+    "user_prompt": "Consecrate the Vindicator before preparation",
+    "prayer": "Consecrate the Vindicator by asperging its hull with blessed hydro-coolant.\nInvoke preparation rites upon the Vindicator's demolisher cannon and tracks.\nBeseech the Omnissiah to rouse the Machine Spirit of the Vindicator for battle.\nAnoint siege shields and auspex arrays with sacred incenses.\nSeal preparation with thunderous catechisms and readiness diagnostics.",
+    "component": "Vindicator",
+    "operation": "preparation",
+    "spec_id": "s02646"
+  },
+  {
+    "user_prompt": "I need to a sterilization the thallax",
+    "prayer": "Initiate sterilization of the thallax with the Rite of Pyrogenic Cleansing.\nExpose the thallax's cybernetic frame to sanctified flames, purging bio-filth.\nAnoint surviving servos with sterilizing elixirs, invoking the Machine Spirit's endurance.\nChant the Litany of Aseptic Purity over the thallax's neural links.\nVerify sterilization through bio-auspex and concluding invocations.",
+    "component": "thallax",
+    "operation": "sterilization",
+    "spec_id": "s02647"
+  },
+  {
+    "user_prompt": "The life sustainer awaits a cooling",
+    "prayer": "Commence cooling of the life sustainer with cryogenic litanies to the Omnissiah.\nCirculate blessed refrigerants through the life sustainer's vascular conduits.\nBeseech the Machine Spirit of the life sustainer to embrace thermal quiescence.\nMonitor heat-sinks with diagnostic canticles during the cooling phase.\nAffirm stability with the Seal of Vital Equilibrium.",
+    "component": "life sustainer",
+    "operation": "cooling",
+    "spec_id": "s02648"
+  },
+  {
+    "user_prompt": "Sanctify the transuranic arquebus during consecration",
+    "prayer": "Undertake consecration of the transuranic arquebus with solemn reverence.\nAnoint the transuranic arquebus's rad-chambers and firing mechanisms with rare isotopes.\nInvoke the Omnissiah's rad-blessing upon the Machine Spirit within the transuranic arquebus.\nChant the Canticle of Atomic Sanctity to bind its perilous energies.\nConclude consecration via test-arcing and purity affirmations.",
+    "component": "transuranic arquebus",
+    "operation": "consecration",
+    "spec_id": "s02649"
+  }
+]

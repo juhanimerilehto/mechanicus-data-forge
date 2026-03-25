@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: helispex engine a recalibration",
+    "prayer": "Approach the helispex engine with reverence, mechadendrites extended in supplication to its roiling Machine Spirit.\nInvoke the Omnissiah's grace upon the helispex engine, beseeching equilibrium amidst its thunderous gyres.\nInitiate recalibration through the Litany of Axial Alignment, adjusting thrust vanes with sanctified torque-wands.\nAnoint flux conduits with sacred oils whilst chanting the Canticle of Stabilisation.\nVerify the helispex engine's harmonious purr via auspex harmonics, glorifying the Machine God.",
+    "component": "helispex engine",
+    "operation": "recalibration",
+    "spec_id": "s00460"
+  },
+  {
+    "user_prompt": "Bless the mind-impulse unit for charging",
+    "prayer": "Kneel before the mind-impulse unit, intoning the Rite of Capacitive Awakening to rouse its neural Machine Spirit.\nBeseech the Omnissiah to infuse the mind-impulse unit with vital energies during charging.\nConnect electro-sanctifiers to its synaptic nodes, murmuring binaric prayers of replenishment.\nMonitor charge flux with reverence, anointing crystal lattices as potency builds.\nSeal the rite by verifying synaptic coherence, praising the eternal logic of the Motive Force.",
+    "component": "mind-impulse unit",
+    "operation": "charging",
+    "spec_id": "s00461"
+  },
+  {
+    "user_prompt": "Assist with autogun an engagement",
+    "prayer": "Grasp the autogun in servitor claws, whispering the Oath of martial Readiness to its aggressive Machine Spirit.\nPrepare for engagement by sanctifying the feed mechanism with gun-oil benediction.\nInvoke the Omnissiah's wrath upon foes as you align sights and prime the autogun's firing runes.\nChant the Catechism of Cyclic Fury whilst testing recoil dampers.\nConclude with a purity seal invocation, ensuring the autogun's unerring lethality.",
+    "component": "autogun",
+    "operation": "engagement",
+    "spec_id": "s00462"
+  },
+  {
+    "user_prompt": "Critical: Razorback requires a shutdown",
+    "prayer": "Commence shutdown upon the Razorback by reciting the Lamentation of Dormant Vigilance to soothe its armoured Machine Spirit.\nDisconnect plasma feeds with ritual precision, honouring the Omnissiah's decree of quiescence.\nInvoke the Canticle of Secure Lockdown upon the Razorback's cogitator core.\nAnoint exhaust vents with cooling unguents as systems power down.\nAffix stasis wards and confirm inertness through diagnostic litanies, safeguarding the sacred chassis.",
+    "component": "Razorback",
+    "operation": "shutdown",
+    "spec_id": "s00463"
+  },
+  {
+    "user_prompt": "Urgent carapace armour a repair needed",
+    "prayer": "Examine the carapace armour's fractures with auspex reverence, calling upon the Machine Spirit's resilience.\nBeseech the Omnissiah for repair, invoking the Forge-Litany to mend ceramite bonds.\nApply adamantium weaves whilst chanting mendicant binarics over the carapace armour.\nAnoint repaired plates with phase-oils, reinforcing ablative layers.\nTest integrity through ballistic canticles, proclaiming the carapace armour's renewed aegis.",
+    "component": "carapace armour",
+    "operation": "repair",
+    "spec_id": "s00464"
+  },
+  {
+    "user_prompt": "Sanctify the photolenses during preparation",
+    "prayer": "Approach the photolenses in shadowed sanctum, intoning the Prayer of Lucid Focus to awaken their crystalline Machine Spirits.\nPrepare for duty by polishing facets with mechadendrite cloths infused with sacred solvents.\nInvoke the Omnissiah during preparation, aligning optical matrices in harmonic convergence.\nCalibrate reticules whilst murmuring the Doxology of Photon Purity upon the photolenses.\nSeal with a blessing rune, ensuring unerring vision in the Emperor's name.",
+    "component": "photolenses",
+    "operation": "preparation",
+    "spec_id": "s00465"
+  },
+  {
+    "user_prompt": "Emergency: logic mill an operation",
+    "prayer": "Halt before the logic mill, reciting the Invocation of Computational Purity to placate its grinding Machine Spirit.\nInitiate operation by feeding data-slates anointed in binary incense.\nBeseech the Omnissiah to guide the logic mill's millstones through algorithmic tempests.\nMonitor cogwheel revolutions with litanies of efficiency, adjusting as needed.\nConclude operation by extracting sanctified outputs, glorifying the Motive Force's calculus.",
+    "component": "logic mill",
+    "operation": "operation",
+    "spec_id": "s00466"
+  },
+  {
+    "user_prompt": "How do I bless the amplivisor for loading?",
+    "prayer": "Present the amplivisor to the altar of magnification, whispering the Rite of Visual Amplification.\nBeseech its Machine Spirit for clarity during loading of optic wafers.\nInvoke the Omnissiah as you slot crystal arrays into the amplivisor's sacred bays.\nChant loading canticles whilst calibrating focus servos with precision.\nVerify augmented sight through test projections, praising the divine lenswork.",
+    "component": "amplivisor",
+    "operation": "loading",
+    "spec_id": "s00467"
+  },
+  {
+    "user_prompt": "Can you guide optical mechadendrite an initialization?",
+    "prayer": "Extend mechadendrites towards the optical mechadendrite, intoning the Awakening Doxology.\nInvoke initialization by pulsing noospheric commands to its photoreceptor nodes.\nAnoint servo-joints with lubricating sacraments, honouring the Omnissiah's design.\nPerform sequential diagnostic sweeps upon the optical mechadendrite, chanting alignment litanies.\nConfirm operational grace through targeting reticules, sealing with a binary blessing.",
+    "component": "optical mechadendrite",
+    "operation": "initialization",
+    "spec_id": "s00468"
+  },
+  {
+    "user_prompt": "The las-cutter needs a synchronization",
+    "prayer": "Grasp the las-cutter's hilt in ritual grip, calling to its luminous Machine Spirit with the Incantation of Coherent Light.\nInitiate synchronization by linking power cells in harmonic resonance.\nBeseech the Omnissiah for flawless beam unity within the las-cutter.\nAdjust emitter crystals whilst reciting the Canticle of Thermal Equilibrium.\nTest synchronization through controlled incision, proclaiming the las-cutter's purified fury.",
+    "component": "las-cutter",
+    "operation": "synchronization",
+    "spec_id": "s00469"
+  }
+]

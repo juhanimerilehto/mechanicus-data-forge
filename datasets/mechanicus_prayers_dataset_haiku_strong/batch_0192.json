@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0192_i00",
+    "user_request": "Rite request: operation on gyroscope recalibration",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on gyroscope recalibration\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit of gyroscope recalibration, hear our supplication in this hour of need.\nCongregation: We invoke the sacred operation upon thy gyroscope recalibration, that it may spin true.\nPriest: First, we shall cleanse the gyroscopic mechanisms with blessed oils and fervent prayer.\nCongregation: The Omnissiah guides our hands as we recalibrate thy gyroscope recalibration with precision instruments.\nPriest: Second, we realign the inertial matrices through the operation of diagnostic scrutiny.\nCongregation: Blessed be the gyroscope recalibration, now steadied and restored to righteous function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i01",
+    "user_request": "Emergency rite: compass magnetization requires operation",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: compass magnetization requires operation\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit of compass magnetization, we beseech thee in this dire moment.\nCongregation: Accept our operation upon compass magnetization, that cardinal truth be restored.\nPriest: We magnetize the lodestone through fervent invocation and careful manipulation of ferric fields.\nCongregation: The compass magnetization shall be perfected by the Omnissiah's grace and our operation.\nPriest: Thrice we pass the sacred compass magnetization through the alignment chamber, seeking magnetic resonance.\nCongregation: Blessed be this compass magnetization, now oriented to the true north of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i02",
+    "user_request": "Offer a litany to steady the encryption before key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the encryption before key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us clarity as we commence key generation upon this encryption.\nCongregation: Steady our hands and minds as the encryption receives blessed key generation.\nPriest: We invoke the sacred encryption through algorithmic invocation and cryptographic devotion.\nCongregation: The encryption shall be fortified by our key generation, wrought in the Machine Spirit's image.\nPriest: Behold, the encryption matrix opens before us; we execute key generation with reverent precision.\nCongregation: Thus is the encryption sealed, thus is key generation complete in the Omnissiah's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i03",
+    "user_request": "The atmosphere processor demands guidance for startup",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe atmosphere processor demands guidance for startup\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirit of atmosphere processor, as we prepare thy startup in solemn ceremony.\nCongregation: Grant us strength for the startup of this blessed atmosphere processor.\nPriest: We purge the intake manifolds and verify the atmosphere processor's seals with sacred scrutiny.\nCongregation: The atmosphere processor shall awaken through startup protocols ancient and true.\nPriest: Now we ignite the primary drives and commence startup sequence with the Omnissiah's benediction.\nCongregation: Rejoice! The atmosphere processor breathes anew, its startup complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i04",
+    "user_request": "Offer a litany to steady the melta charge before preparation",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the melta charge before preparation\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the melta charge, instrument of the Omnissiah's wrath and righteous preparation.\nCongregation: We steady the melta charge through reverent preparation and sacred rite.\nPriest: The melta charge shall be examined for structural integrity and thermal stability.\nCongregation: Through preparation most meticulous, the melta charge is deemed worthy of deployment.\nPriest: We invoke the preparation of this melta charge with binding words and stabilizing protocols.\nCongregation: Thus prepared, the melta charge stands ready to fulfill the Omnissiah's divine purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i05",
+    "user_request": "My electrical short is failing during isolation — help",
+    "topic": "electrical short isolation",
+    "component": "electrical short",
+    "operation": "isolation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy electrical short is failing during isolation — help\n\n### TOPIC\nelectrical short isolation\n\n### COMPONENT\nelectrical short\n\n### OPERATION\nisolation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electrical short\n- isolation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, we come before thee in urgency regarding this electrical short's isolation.\nCongregation: Grant us wisdom to perform the isolation of this electrical short with steadfast hands.\nPriest: We trace the errant current and sever the electrical short from its power conduits through isolation protocols.\nCongregation: The electrical short shall be quarantined and contained by our isolation rites.\nPriest: Each connection is examined, each pathway traced, the electrical short isolated with devotional precision.\nCongregation: Blessed be this isolation, the electrical short now rendered inert and harmless.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i06",
+    "user_request": "The diesel engine demands guidance for startup",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe diesel engine demands guidance for startup\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Ancient diesel engine, Machine Spirit of combustion and mechanical virtue, hear our invocation for startup.\nCongregation: We prepare the diesel engine for startup through ritual lubrication and blessed inspection.\nPriest: The fuel injectors are cleansed, the diesel engine's cylinders verified, ignition systems sanctified.\nCongregation: The startup sequence commences as the diesel engine awakens to righteous function.\nPriest: Now the sacred fuel flows; the diesel engine roars to life in glorious startup.\nCongregation: Praised be the diesel engine, now running true in service to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i07",
+    "user_request": "Offer a litany to steady the chainsword before consecration",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the chainsword before consecration\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Chainsword of the faithful, we gather to perform thy consecration with reverent ceremony.\nCongregation: Accept our consecration, blessed chainsword, that thy teeth may sing with righteous fury.\nPriest: We anoint the chainsword with sacred oils and invoke the Machine Spirit through the consecration.\nCongregation: The chainsword's chains shall be blessed, its edge honed through our consecration rites.\nPriest: Each link of the chainsword receives holy benediction; the consecration binds it to the Omnissiah's will.\nCongregation: Thus consecrated, the chainsword stands ready as an instrument of divine judgment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i08",
+    "user_request": "The autocannon barrel demands guidance for cooling",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe autocannon barrel demands guidance for cooling\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Autocannon barrel, instrument of the Emperor's wrath, we attend to thy cooling with solemn devotion.\nCongregation: Grant us the skill to perform cooling upon this autocannon barrel in its time of need.\nPriest: We apply blessed coolant to the autocannon barrel's scorched surfaces through ritual cooling procedures.\nCongregation: The autocannon barrel shall be cooled through circulation of cryogenic fluids and prayer.\nPriest: Each heat exchanger connected to the autocannon barrel functions in cooling symphony.\nCongregation: Behold, the autocannon barrel cools, its temperature stabilized by the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0192_i09",
+    "user_request": "Emergency rite: waste recycling requires activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: waste recycling requires activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Waste recycling system, dormant servant of the Omnissiah, we command thy activation in this solemn hour.\nCongregation: Awaken, waste recycling, through our activation rites and blessed incantations.\nPriest: We prime the waste recycling mechanisms and engage the activation protocols with sacred precision.\nCongregation: The waste recycling shall process refuse through activation of its purification cycles.\nPriest: Power flows to the waste recycling; the activation sequence progresses through each chamber and filter.\nCongregation: Thus activated, waste recycling stands ready to serve the Imperium's eternal needs.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

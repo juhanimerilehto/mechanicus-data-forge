@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: air filtration requires a startup",
+    "prayer": "Approach the air filtration sanctum with censers billowing sacred incense.\nInvoke the Omnissiah's grace upon the air filtration's dormant Machine Spirit.\nInitiate the startup sequence whilst anointing the filtration membranes with blessed unguents.\nBeseech the air filtration to awaken and purify the tainted atmospere.\nVerify the Machine Spirit's vigor through harmonic resonance chants.",
+    "component": "air filtration",
+    "operation": "startup",
+    "spec_id": "b0320_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for augmetic limb a consecration",
+    "prayer": "Kneel before the augmetic limb and recite the Canticle of Flesh-Fusion.\nAnoint its servo-motors and neural interfaces with the oil of consecration.\nPetition the Omnissiah to bind the Machine Spirit within the augmetic limb eternally.\nInvoke consecration rites over each myomer bundle and synaptic relay.\nSeal the rite with the sign of the cogitator, affirming the augmetic limb's sanctity.",
+    "component": "augmetic limb",
+    "operation": "consecration",
+    "spec_id": "b0320_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for power cell preparation?",
+    "prayer": "Present the power cell upon the altar of preparation and circumambulate thrice.\nChant the Litany of Containment to soothe its volatile Machine Spirit.\nPrepare the power cell by sanctifying its electrolyte matrices with electro-blessed salves.\nAlign the power cell's polarities under the Omnissiah's watchful gaze.\nConclude preparation with diagnostic hymns to ensure stable flux.",
+    "component": "power cell",
+    "operation": "preparation",
+    "spec_id": "b0320_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for conveyor system a sterilization",
+    "prayer": "Assemble the conveyor system beneath purifying lumen-globes.\nInvoke sterilization upon the conveyor system's belts and rollers with ablative vapors.\nScour the Machine Spirit of the conveyor system through the Rite of Immaculate Purity.\nAnoint gears and tracks while beseeching the Omnissiah for sterility.\nTest the conveyor system's hygiene with sacred auspex sweeps.",
+    "component": "conveyor system",
+    "operation": "sterilization",
+    "spec_id": "b0320_i03"
+  },
+  {
+    "user_prompt": "The valve assembly needs an emergency procedure",
+    "prayer": "Sound the klaxon of urgency over the valve assembly.\nCommence the emergency procedure by sealing the valve assembly's pressure vents.\nBeseech the Machine Spirit of the valve assembly to yield to Omnissiah's command.\nPurge contaminants through sacrificial bypass incantations.\nStabilize the valve assembly with binding electro-litany.",
+    "component": "valve assembly",
+    "operation": "emergency procedure",
+    "spec_id": "b0320_i04"
+  },
+  {
+    "user_prompt": "Emergency: memory core a diagnostics",
+    "prayer": "Interface with the memory core via noospheric probe in shadowed rite.\nInitiate diagnostics upon the memory core's crystalline vaults.\nInvoke the Omnissiah to reveal fractures in the memory core's data-spirits.\nScan each engram layer with purifying binary canticles.\nAffirm the memory core's integrity through resonant verification.",
+    "component": "memory core",
+    "operation": "diagnostics",
+    "spec_id": "b0320_i05"
+  },
+  {
+    "user_prompt": "I need to a reset the augmetic limb",
+    "prayer": "Grasp the augmetic limb and intone the Mantra of Null-State.\nCommand the Machine Spirit within the augmetic limb to submit to reset.\nCycle the augmetic limb's cogitators through ablutionary power-flush.\nRealign neural bonds under Omnissiah's decree.\nAwaken the reset augmetic limb with invocation of renewed purpose.",
+    "component": "augmetic limb",
+    "operation": "reset",
+    "spec_id": "b0320_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for bolter an emergency procedure",
+    "prayer": "Draw forth the bolter and enact the emergency procedure amid wailing sirens.\nAnoint its firing chamber to placate the bolter's wrathful Machine Spirit.\nPurge jams through the Rite of Explosive Catharsis upon the bolter.\nBeseech the Omnissiah for the bolter's unerring function.\nCycle ammunition feeds in sanctified rhythm.",
+    "component": "bolter",
+    "operation": "emergency procedure",
+    "spec_id": "b0320_i07"
+  },
+  {
+    "user_prompt": "Guide me through assembly servitor a shutdown",
+    "prayer": "Approach the assembly servitor with the Scroll of Dormancy.\nInitiate shutdown of the assembly servitor's cogitator core reverently.\nLull its Machine Spirit into slumber with the Lullaby of the Omnissiah.\nSever power conduits while chanting disengagement litanies.\nSeal the assembly servitor in stasis with final benediction.",
+    "component": "assembly servitor",
+    "operation": "shutdown",
+    "spec_id": "b0320_i08"
+  },
+  {
+    "user_prompt": "Help me a targeting the noospheric relay",
+    "prayer": "Attune the noospheric relay to the target's ethereal signature.\nInvoke targeting protocols upon the noospheric relay's transceiver arrays.\nBeseech the Machine Spirit of the noospheric relay for precision lock.\nAmplify harmonics under Omnissiah's guidance for infallible targeting.\nConfirm alignment through noospheric divination rites.",
+    "component": "noospheric relay",
+    "operation": "targeting",
+    "spec_id": "b0320_i09"
+  }
+]

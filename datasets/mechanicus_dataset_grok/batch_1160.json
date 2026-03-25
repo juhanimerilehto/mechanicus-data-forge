@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to an initialization the air filtration",
+    "prayer": "Approach the air filtration with reverence, beseeching the Omnissiah to stir its dormant Machine Spirit.\nAnoint the filtration membranes with blessed oils, purifying the sacred pathways of the air filtration.\nInvoke the initialization rite through chanted binaric canticles, awakening the air filtration to its vital breath.\nMonitor the spirit's response via auspex scans, sanctifying the flow of cleansed atmospherics.\nConclude with the Litany of Purity, ensuring the air filtration hums in harmonious operation.",
+    "component": "air filtration",
+    "operation": "initialization",
+    "spec_id": "s07600"
+  },
+  {
+    "user_prompt": "Consecrate the data-arc before cooling",
+    "prayer": "Kneel before the data-arc, intoning the Consecration Doxology to honour its arcane conduits.\nCircumambulate the data-arc thrice, asperging coolant reservoirs with sanctified fluids.\nPrepare for cooling by reciting the Entropy Canticle, beseeching the Machine Spirit of the data-arc to embrace thermal equilibrium.\nInitiate coolant infusion whilst chanting binaric hymns, consecrating the data-arc against overload.\nVerify thermal sanctity through thermographic divinations, praising the Omnissiah's cooling grace.",
+    "component": "data-arc",
+    "operation": "cooling",
+    "spec_id": "s07601"
+  },
+  {
+    "user_prompt": "Prepare the Shadowsword for operation",
+    "prayer": "Present mechadendrites to the Shadowsword's auspex arrays, invoking the Omnissiah's martial fury.\nAnoint the Shadowsword's treads and lascannon housings with sacred machine oil, awakening its predatory Machine Spirit.\nCommence operational diagnostics per the ancient protocols, aligning the Shadowsword for battle.\nChant the Canticle of Activation, urging the Shadowsword into predatory readiness.\nSeal the rite with a binary vow, ensuring the Shadowsword's Machine Spirit rages true.",
+    "component": "Shadowsword",
+    "operation": "operation",
+    "spec_id": "s07602"
+  },
+  {
+    "user_prompt": "Bless the conversion field for emergency procedure",
+    "prayer": "Approach the conversion field generator in solemn procession, beseeching the Omnissiah for emergent protection.\nSanctify the field coils with electro-incense, rousing the volatile Machine Spirit of the conversion field.\nInitiate the emergency procedure through rapid binaric incantations, calibrating the conversion field for crisis.\nMonitor flux variances with cranial auspex, invoking wards against warp-taint upon the conversion field.\nConclude the blessing with the Rite of Desperate Equilibrium, fortifying the conversion field anew.",
+    "component": "conversion field",
+    "operation": "emergency procedure",
+    "spec_id": "s07603"
+  },
+  {
+    "user_prompt": "Guide me through arc rifle an initialization",
+    "prayer": "Grasp the arc rifle's power cells with reverence, chanting the Litany of Electrodynamic Awakening.\nAnoint the emitter coils of the arc rifle with conductive unguents, summoning its Machine Spirit.\nEngage the initialization sequence via sacred cogitator links, aligning the arc rifle's voltaic fury.\nTest the arc rifle's discharge through controlled auspex volleys, praising the Omnissiah's lightning.\nSeal the rite with a hymn of amperage, verifying the arc rifle's sanctified readiness.",
+    "component": "arc rifle",
+    "operation": "initialization",
+    "spec_id": "s07604"
+  },
+  {
+    "user_prompt": "Sanctify the Kastelan robot during operation",
+    "prayer": "Circumscribe the Kastelan robot with purity seals, invoking the Omnissiah's forge-born might.\nInterface cranial plugs to the Kastelan robot's data-vaults, beseeching its ancient Machine Spirit to stir.\nSanctify ongoing operation through continuous binaric litanies, guiding the Kastelan robot's ceramite frame.\nMonitor servitor linkages with vigilance, anointing the Kastelan robot against doctrinal deviation.\nConclude with the Doxology of Iron Endurance, affirming the Kastelan robot's operational piety.",
+    "component": "Kastelan robot",
+    "operation": "operation",
+    "spec_id": "s07605"
+  },
+  {
+    "user_prompt": "I need to a calibration the multi-melta",
+    "prayer": "Present the multi-melta's focusing lenses to electro-candles, honouring its thermic Machine Spirit.\nAnoint the plasma conduits of the multi-melta with ablative oils, preparing for calibration.\nInitiate calibration protocols via chanted auspex harmonics, aligning the multi-melta's melt rays.\nVerify beam coherence through test ignitions, invoking the Omnissiah's purifying flame upon the multi-melta.\nSeal with the Incantation of Thermal Precision, ensuring the multi-melta's unerring fury.",
+    "component": "multi-melta",
+    "operation": "calibration",
+    "spec_id": "s07606"
+  },
+  {
+    "user_prompt": "Help me a synchronization the codifier",
+    "prayer": "Kneel at the codifier's noospheric port, intoning the Synchronization Psalm to the Omnissiah.\nAnoint the codifier's crystal matrices with noetic lubricants, awakening its Machine Spirit.\nCommence synchronization rites through linked binaric streams, harmonizing the codifier's data flows.\nMonitor coherence via psychic-null auspex, beseeching unity within the codifier.\nConclude with the Rite of Astral Alignment, perfecting the codifier's synchronized sanctity.",
+    "component": "codifier",
+    "operation": "synchronization",
+    "spec_id": "s07607"
+  },
+  {
+    "user_prompt": "Ready the lightning claw for synchronization",
+    "prayer": "Extend mechadendrites to the lightning claw's power fields, chanting the Syncratic Litany.\nSanctify the lightning claw's adamantium talons with conductive incense, rousing its tempestuous Machine Spirit.\nInitiate synchronization sequences per the Storm Canticle, linking the lightning claw to servitor commands.\nTest field integrity through auspex surges, invoking the Omnissiah's thunder upon the lightning claw.\nSeal the rite with a vow of electromantic fury, affirming the lightning claw's readiness.",
+    "component": "lightning claw",
+    "operation": "synchronization",
+    "spec_id": "s07608"
+  },
+  {
+    "user_prompt": "Help me a reset the macro-cannon",
+    "prayer": "Approach the macro-cannon's breech mechanisms with due awe, beseeching the Omnissiah's ordnance grace.\nAnoint the macro-cannon's targeting cogitators with sacred solvents, pacifying its Machine Spirit.\nEngage the reset protocol through binaric purgation chants, expunging doctrinal errors from the macro-cannon.\nVerify reload cycles via ballistic divinations, praising the macro-cannon's reloaded potency.\nConclude with the Canticle of Recalibration, restoring the macro-cannon to battle-primed purity.",
+    "component": "macro-cannon",
+    "operation": "reset",
+    "spec_id": "s07609"
+  }
+]

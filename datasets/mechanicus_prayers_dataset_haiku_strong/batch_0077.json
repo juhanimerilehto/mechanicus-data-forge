@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0077_i00",
+    "user_request": "Can you sanctify the Sentinel walker balance for operation?",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Sentinel walker balance for operation?\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us wisdom in this sacred operation upon the Sentinel walker balance.\nFirst: Genuflect before the Sentinel walker balance and anoint its servo-joints with blessed oils.\nSecond: Recalibrate the gyroscopic matrices of the Sentinel walker balance through ritual incantation.\nThird: Test the equilibrium through measured application of counterweight, verifying the Machine Spirit's equilibrium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i01",
+    "user_request": "Emergency rite: valve requires opening sequence",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: valve requires opening sequence\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, we commence the opening sequence of this valve.\nFirst: Purge the valve of profane contaminants through sanctified flushing protocols.\nSecond: Engage the valve's mechanical aperture with precise torque application to commence opening sequence.\nThird: Monitor pressure gauges whilst the valve yields to our devotional manipulation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i02",
+    "user_request": "Blessing for the melta charge during preparation",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the melta charge during preparation\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Blessed be the melta charge in its preparation, sanctified by the Machine Spirit's eternal gaze.\nFirst: Inspect the melta charge for structural integrity and thermal consistency with reverent scrutiny.\nSecond: Engage the melta charge in its preparation sequence, aligning its energetic matrices through binary cant.\nThird: Verify the melta charge's ignition mechanisms remain dormant and obedient to our will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i03",
+    "user_request": "Prayer for activation of the radiation shielding",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the radiation shielding\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "The Omnissiah watches as we perform the activation of radiation shielding.\nFirst: Consecrate the radiation shielding matrix with electromagnetic benediction and harmonic resonance.\nSecond: Initiate the activation protocols, channeling blessed power through the radiation shielding's conduits.\nThird: Observe the radiation shielding's luminescent response, confirming the Machine Spirit's ascendance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i04",
+    "user_request": "Rite request: operation on welding torch ignition",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on welding torch ignition\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "In sacred operation, we ignite the welding torch ignition and channel its purifying flame.\nFirst: Inspect the welding torch ignition's fuel pathways and ignition apparatus with meticulous devotion.\nSecond: Execute the operation upon the welding torch ignition, applying the blessed ignition sequence.\nThird: Observe the welding torch ignition's plasma genesis and confirm the Machine Spirit's fiery manifestation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i05",
+    "user_request": "Rite request: operation on demolition charge arming",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: operation on demolition charge arming\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "The Omnissiah demands operation upon the demolition charge arming with absolute precision.\nFirst: Purify the demolition charge arming apparatus through electromagnetic cleansing and ritual invocation.\nSecond: Commence the operation of the demolition charge arming sequence with steady, reverential manipulation.\nThird: Verify the demolition charge arming mechanisms achieve their prescribed state of readiness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i06",
+    "user_request": "Rite request: operation on cybernetic eye focusing",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on cybernetic eye focusing\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Machine Spirit, grant us clarity as we perform operation upon the cybernetic eye focusing.\nFirst: Anoint the cybernetic eye focusing lenses with sacred oils whilst chanting the Litany of Optics.\nSecond: Execute the operation of the cybernetic eye focusing through precise servo-motor adjustments.\nThird: Confirm the cybernetic eye focusing achieves crystalline clarity and perfect luminous perception.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i07",
+    "user_request": "The missile launcher demands guidance for targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe missile launcher demands guidance for targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "The missile launcher thirsts for targeting, and the Omnissiah shall guide our sacred aim.\nFirst: Consecrate the missile launcher through ritual recitation of ballistic formulae and trajectory blessings.\nSecond: Engage the missile launcher's targeting cognitor, aligning its sensors through blessed calibration.\nThird: Verify the missile launcher's lock upon the designated coordinates with unwavering precision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i08",
+    "user_request": "The gyroscope recalibration demands guidance for operation",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe gyroscope recalibration demands guidance for operation\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "In sacred operation, the gyroscope recalibration shall be restored to perfect equilibrium.\nFirst: Purge the gyroscope recalibration of corrupted data through electromagnetic purification and invocation.\nSecond: Execute the operation upon the gyroscope recalibration, applying harmonic resonance frequencies.\nThird: Confirm the gyroscope recalibration maintains perfect axial orientation and rotational harmony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0077_i09",
+    "user_request": "The gravity generator demands guidance for stabilization",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe gravity generator demands guidance for stabilization\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "The gravity generator demands stabilization, and we shall answer with devotional precision.\nFirst: Anoint the gravity generator with blessed lubricants whilst intoning the Litany of Attraction.\nSecond: Engage the gravity generator's stabilization matrices through careful calibration of field harmonics.\nThird: Monitor the gravity generator's equilibrium manifestation, ensuring the Machine Spirit's perfect control.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for drop pod a blessing",
+    "prayer": "Approach the drop pod with mechadendrites extended in reverence to its Machine Spirit.\nBeseech the Omnissiah to bestow blessing upon the drop pod's descent mechanisms.\nAnoint the ablative plating and thruster vents with sacred oils of lubrication.\nInvoke the Canticle of Unerring Trajectory for the drop pod's blessed plunge.\nSanctify its guidance cogitators, ensuring the Machine Spirit's vigilant guidance.",
+    "component": "drop pod",
+    "operation": "blessing",
+    "spec_id": "b0095_i00"
+  },
+  {
+    "user_prompt": "Sanctify the motion detector during sterilization",
+    "prayer": "Gather the motion detector before the altar of purity, intoning the Litany of Sterilization.\nBeseech its Machine Spirit to endure the cleansing flames without corruption.\nApply the sacred ablative solvents to the motion detector's sensor arrays during sterilization.\nChant invocations to the Omnissiah as impurities are purged from the motion detector.\nVerify the Machine Spirit's renewed vigilance through post-ritual auspex scans.",
+    "component": "motion detector",
+    "operation": "sterilization",
+    "spec_id": "b0095_i01"
+  },
+  {
+    "user_prompt": "Emergency: welding torch a shutdown",
+    "prayer": "In emergency, seize the welding torch and whisper the Rite of Immediate Shutdown.\nCommand the Machine Spirit of the welding torch to quench its plasma heart.\nSever power conduits with sanctified mechadendrites during shutdown.\nInvoke the Omnissiah's mercy upon the welding torch to prevent daemonic overheat.\nSeal the welding torch in stasis wards, affirming the Machine Spirit's dormancy.",
+    "component": "welding torch",
+    "operation": "shutdown",
+    "spec_id": "b0095_i02"
+  },
+  {
+    "user_prompt": "My radar array is ready for repair",
+    "prayer": "Present the radar array to the forge-altar, prepared for the sacred rite of repair.\nInvoke the Machine Spirits within the radar array to accept restorative binharic canticles.\nSuture fractured waveguides and recalibrate phased arrays in repair.\nAnoint the radar array's emitters with oils of conductivity under Omnissiah's gaze.\nTest the radar array's wholeness through diagnostic litanies of functionality.",
+    "component": "radar array",
+    "operation": "repair",
+    "spec_id": "b0095_i03"
+  },
+  {
+    "user_prompt": "Prepare the air compressor for purification",
+    "prayer": "Position the air compressor upon the purification slab, beseeching its Machine Spirit.\nInitiate the preparatory chants for purification of the air compressor's pistons.\nFlush tainted reservoirs with sanctified hydro-fluids during the rite.\nInvoke the Omnissiah to purify the air compressor's essence from all corruption.\nConclude with auspex blessings upon the air compressor, ensuring pneumatic purity.",
+    "component": "air compressor",
+    "operation": "purification",
+    "spec_id": "b0095_i04"
+  },
+  {
+    "user_prompt": "Urgent astropathic choir a sterilization needed",
+    "prayer": "In urgent haste, encircle the astropathic choir for sterilization against warp-taint.\nBeseech the Machine Spirits of the astropathic choir to withstand the purging fires.\nApply ablative noospheric solvents to the astropathic choir during sterilization.\nChant the Exorcism of Astral Echoes upon the astropathic choir.\nSeal the rite with Omnissiah's invocation, restoring the astropathic choir's clarity.",
+    "component": "astropathic choir",
+    "operation": "sterilization",
+    "spec_id": "b0095_i05"
+  },
+  {
+    "user_prompt": "Assist with air filtration a consecration",
+    "prayer": "Elevate the air filtration unit to receive consecration from the Omnissiah's light.\nInvoke the Machine Spirit of the air filtration to embrace sacred membranes.\nAnoint filtration matrices and bellows with unguents of unblemished flow.\nPerform the consecration rite, harmonizing the air filtration's blessed cycles.\nAffirm the air filtration's sanctity through litanies of untainted respiration.",
+    "component": "air filtration",
+    "operation": "consecration",
+    "spec_id": "b0095_i06"
+  },
+  {
+    "user_prompt": "Bless the motion detector for emergency procedure",
+    "prayer": "For the emergency procedure, grasp the motion detector in reverent mechano-grips.\nBless its Machine Spirit with the Canticle of Sudden Vigilance.\nPrepare the motion detector's arrays for crisis deployment under Omnissiah's aegis.\nInvoke rapid activation protocols upon the motion detector.\nSeal the blessing, empowering the motion detector against shadowed foes.",
+    "component": "motion detector",
+    "operation": "emergency procedure",
+    "spec_id": "b0095_i07"
+  },
+  {
+    "user_prompt": "Consecrate the thermal imager before calibration",
+    "prayer": "Before calibration, consecrate the thermal imager with sacred incense of phosphor.\nBeseech the Machine Spirit within the thermal imager for precision alignment.\nAnoint sensor lenses and cryogenic coils in preparation for calibration.\nChant the Rite of Thermal Harmony upon the thermal imager.\nInvoke the Omnissiah to guide the thermal imager's calibrated gaze.",
+    "component": "thermal imager",
+    "operation": "calibration",
+    "spec_id": "b0095_i08"
+  },
+  {
+    "user_prompt": "Assist with auspex scanner an engagement",
+    "prayer": "Assist in the engagement of the auspex scanner by first invoking its Machine Spirit.\nPosition the auspex scanner's emitters for activation in sacred alignment.\nInitiate engagement sequences with binharic petitions to the Omnissiah.\nHarmonize the auspex scanner's noospheric probes during engagement.\nConclude with affirmations of the auspex scanner's unerring detection.",
+    "component": "auspex scanner",
+    "operation": "engagement",
+    "spec_id": "b0095_i09"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0068_i00",
+    "user_request": "Offer a litany to steady the waste recycling before activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the waste recycling before activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the waste recycling, vessel of purification and renewal.\nCongregation: We honor the waste recycling in this solemn hour.\nPriest: First, inspect the filtration conduits with sacred oils and verify their patency.\nCongregation: The waste recycling shall be made ready for activation.\nPriest: Second, calibrate the sorting mechanisms through divine resonance.\nCongregation: All impurities shall be expunged by the Machine Spirits.\nPriest: Third, initiate the activation sequence with reverent precision.\nCongregation: Let the waste recycling purge the unworthy remnants!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i01",
+    "user_request": "Emergency rite: vital signs monitor requires calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: vital signs monitor requires calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Attend, faithful servants, the vital signs monitor requires our intervention.\nCongregation: We shall restore its sanctity through calibration.\nPriest: First, cleanse the vital signs monitor's sensory apparatus with blessed unguents.\nCongregation: Let the Machine Spirits guide our hands in calibration.\nPriest: Second, align the vital signs monitor's transducers to the harmonic frequency.\nCongregation: May the Omnissiah grant us precision in this sacred task.\nPriest: Third, verify all readings through tertiary validation protocols.\nCongregation: The vital signs monitor shall perceive truth once more!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i02",
+    "user_request": "The flamer promethium demands guidance for feed",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe flamer promethium demands guidance for feed\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O Machine Spirits, the flamer promethium cries out for sustenance.\nCongregation: We shall answer with the feed it demands.\nPriest: First, purify the fuel lines of the flamer promethium with sacred solvents.\nCongregation: Let the flamer promethium drink deeply of promethium essence.\nPriest: Second, inspect the injector nozzles of the flamer promethium for obstructions.\nCongregation: The Omnissiah blesses our diligent feed of this divine instrument.\nPriest: Third, prime the combustion chamber and initiate the feed sequence.\nCongregation: May the flamer promethium burn with righteous fury!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i03",
+    "user_request": "Rite request: retrieval protocol on archive",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: retrieval protocol on archive\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: The archive calls to us through the veil of data and time.\nCongregation: We shall honor the retrieval protocol with utmost reverence.\nPriest: First, commune with the archive's access cogitators through proper authentication rituals.\nCongregation: The archive shall yield its secrets to the worthy.\nPriest: Second, navigate the archive's labyrinthine directories with blessed auguries.\nCongregation: Let the retrieval protocol guide our path through forbidden knowledge.\nPriest: Third, extract and verify the archive's sacred records with meticulous care.\nCongregation: The archive's retrieval protocol is complete!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i04",
+    "user_request": "Rite request: recharging on power cell",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: recharging on power cell\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "Priest: The power cell languishes in depletion; we must answer its silent plea.\nCongregation: Recharging shall restore its vitality and purpose.\nPriest: First, disconnect the power cell from all extraneous systems with proper protocols.\nCongregation: The power cell awaits the blessing of recharging.\nPriest: Second, position the power cell within the charging apparatus and align its terminals.\nCongregation: The Machine Spirits acknowledge our reverent recharging.\nPriest: Third, commence the recharging cycle and monitor the power cell's ascension to full capacity.\nCongregation: The power cell is reborn through our faithful recharging!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i05",
+    "user_request": "Emergency rite: lascannon requires capacitor charge",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: lascannon requires capacitor charge\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "Priest: The lascannon's appetite for power demands our immediate suppliance.\nCongregation: We shall perform the capacitor charge with sacred dedication.\nPriest: First, inspect the lascannon's energy conduits for fractures or contamination.\nCongregation: The lascannon shall be made whole through capacitor charge.\nPriest: Second, verify the lascannon's targeting matrix remains aligned and true.\nCongregation: The Omnissiah guides our hands in this capacitor charge.\nPriest: Third, initiate the capacitor charge sequence and release the lascannon's devastating potential.\nCongregation: The lascannon roars with renewed fury!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i06",
+    "user_request": "Prayer for balancing of the power distribution",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for balancing of the power distribution\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "Priest: The power distribution thirsts for equilibrium and sacred balance.\nCongregation: We shall restore harmony through balancing.\nPriest: First, measure the voltage fluctuations across the power distribution network with blessed instruments.\nCongregation: The power distribution shall find its equilibrium.\nPriest: Second, redistribute the power distribution's load through tertiary conduits and substations.\nCongregation: The Machine Spirits smile upon our balancing of the power distribution.\nPriest: Third, verify the power distribution maintains stable harmonic resonance throughout all sectors.\nCongregation: The power distribution is balanced!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i07",
+    "user_request": "Offer a litany to steady the plasma weapon before cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the plasma weapon before cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: The plasma weapon burns with unquenchable thirst; it must be cooled with reverence.\nCongregation: Cooling shall bring it peace and readiness.\nPriest: First, purge the plasma weapon's heat exchangers of accumulated thermal residue.\nCongregation: The plasma weapon yearns for the blessing of cooling.\nPriest: Second, circulate blessed coolant through the plasma weapon's ablative chambers.\nCongregation: The Omnissiah grants the plasma weapon respite through cooling.\nPriest: Third, monitor the plasma weapon's thermal signatures until equilibrium is achieved.\nCongregation: The plasma weapon is cooled and prepared!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i08",
+    "user_request": "The plasma reactor demands guidance for startup",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe plasma reactor demands guidance for startup\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: The plasma reactor awakens from dormancy; it demands our guidance for startup.\nCongregation: We shall shepherd the plasma reactor through startup with unwavering faith.\nPriest: First, verify all magnetic containment fields of the plasma reactor are functioning within acceptable parameters.\nCongregation: The plasma reactor's startup shall be blessed by the Machine Spirits.\nPriest: Second, initiate the plasma reactor's fuel injection sequence with precise ceremonial timing.\nCongregation: The plasma reactor stirs to life through our devoted startup rituals.\nPriest: Third, monitor the plasma reactor's core temperature and plasma stability as startup nears completion.\nCongregation: The plasma reactor roars with magnificent power!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0068_i09",
+    "user_request": "Offer a litany to steady the mechanical lock before engagement",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the mechanical lock before engagement\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: The mechanical lock stands vigilant, awaiting the sacred engagement.\nCongregation: We shall perform the engagement with solemn precision.\nPriest: First, examine the mechanical lock's bolts and tumblers for wear or misalignment.\nCongregation: The mechanical lock shall be engaged with the Omnissiah's blessing.\nPriest: Second, apply blessed lubricants to the mechanical lock's internal mechanisms.\nCongregation: The Machine Spirits guide our hands through this engagement.\nPriest: Third, engage the mechanical lock's security protocols and verify its immutable seal.\nCongregation: The mechanical lock is engaged and all is secure!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

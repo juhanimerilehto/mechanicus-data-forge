@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "The lasgun needs a loading",
+    "prayer": "Approach the lasgun with mechadendrite-extended reverence and beseech its Machine Spirit to awaken.\nSlide the power cell into the lasgun's sacred receptacle during the solemn loading rite.\nAnoint the energy contacts with sacred unguents whilst intoning the Canticle of Charge.\nCycle the lasgun's focusing array to confirm harmonious power-flow from the Omnissiah.",
+    "component": "lasgun",
+    "operation": "loading",
+    "spec_id": "b0341_i00"
+  },
+  {
+    "user_prompt": "The surgical servitor awaits a blessing",
+    "prayer": "Gather before the surgical servitor and invoke the Omnissiah's healing grace upon its flesh-metal form.\nRecite the Litany of Purity over the servitor's cranial implants to sanctify its blessing.\nAnoint its manipulators and optical auspex with blessed oils, petitioning the Machine Spirits within.\nCommence the blessing cycle, verifying servitor docility through diagnostic catechisms.",
+    "component": "surgical servitor",
+    "operation": "blessing",
+    "spec_id": "b0341_i01"
+  },
+  {
+    "user_prompt": "The plasma weapon needs a reset",
+    "prayer": "Present the plasma weapon before the altar of containment and whisper the Rite of Reset.\nPurge volatile flux residues from the plasma weapon's containment fields with sacred vents.\nInvoke the Machine Spirit of the plasma weapon to forgive past overheats and realign gyrometric stabilizers.\nCycle the reset sequence under Omnissiah's gaze, monitoring holy plasma coherence.",
+    "component": "plasma weapon",
+    "operation": "reset",
+    "spec_id": "b0341_i02"
+  },
+  {
+    "user_prompt": "Assist with lasgun a maintenance",
+    "prayer": "Kneel in maintenance vigil before the lasgun and commence the Rite of Restoration.\nDisassemble the lasgun's sacred barrel with precision mechadendrites, clearing residue from its lens.\nAnoint exposed circuits of the lasgun with lubricating incense to soothe its Machine Spirit.\nReassemble under canticles, invoking Omnissiah for flawless maintenance harmony.",
+    "component": "lasgun",
+    "operation": "maintenance",
+    "spec_id": "b0341_i03"
+  },
+  {
+    "user_prompt": "How do I bless the melta charge for operation?",
+    "prayer": "Approach the melta charge with utmost caution and intone the Invocation of Operation.\nSanctify the melta charge's fusion core by anointing its casing with promethium-touched oils.\nPetition the indwelling Machine Spirit of the melta charge for controlled operation fury.\nArm the initiator whilst reciting the Canticle of Melt, under Omnissiah's molten blessing.",
+    "component": "melta charge",
+    "operation": "operation",
+    "spec_id": "b0341_i04"
+  },
+  {
+    "user_prompt": "Critical: bike squadron requires a sterilization",
+    "prayer": "Assemble around the bike squadron and enact the Sterilization Purgation Rite.\nScour each bike's treads and exhausts of the bike squadron with sanctified ablative sprays.\nInvoke Machine Spirits of the bike squadron to expel unclean essences during sterilization.\nVerify purity through auspex scans, beseeching Omnissiah for untainted velocity.",
+    "component": "bike squadron",
+    "operation": "sterilization",
+    "spec_id": "b0341_i05"
+  },
+  {
+    "user_prompt": "Can you guide medicae scanner an activation?",
+    "prayer": "Position the medicae scanner upon the reliquary plinth and commence activation litanies.\nAwaken the medicae scanner's vox-spirits with binary prayers to the Omnissiah.\nCalibrate its bio-auspex arrays whilst anointing lenses for true-life revelation.\nInitiate full activation, confirming the Machine Spirit's vigilant hum.",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "spec_id": "b0341_i06"
+  },
+  {
+    "user_prompt": "The quality scanner awaits a targeting",
+    "prayer": "Elevate the quality scanner to the targeting altar and recite alignment canticles.\nInvoke the Machine Spirit of the quality scanner for precision targeting acuity.\nAnoint its emitter coils whilst calibrating the targeting matrix to Omnissiah's exactitude.\nEngage the scan cycle, petitioning flawless defect revelation.",
+    "component": "quality scanner",
+    "operation": "targeting",
+    "spec_id": "b0341_i08"
+  },
+  {
+    "user_prompt": "Assist with welding torch a sterilization",
+    "prayer": "Present the welding torch for sterilization and commence the Purgation of Flame.\nScour the welding torch's nozzle with sanctified plasma arcs to banish impurities.\nBeseech the Machine Spirit within the welding torch during sterilization rites.\nVerify thermal purity through auspex, invoking Omnissiah for unblemished fusion.",
+    "component": "welding torch",
+    "operation": "sterilization",
+    "spec_id": "b0341_i09"
+  }
+]

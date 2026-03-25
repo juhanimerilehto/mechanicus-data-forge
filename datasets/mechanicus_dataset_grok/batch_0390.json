@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide augmetic limb a repair?",
+    "prayer": "Kneel before the augmetic limb and invoke the Omnissiah's grace upon its sacred mechanisms.\nInspect the augmetic limb's fractured servos and conduits with diagnostic canticles.\nAnoint the damaged bionics with holy oils whilst beseeching the Machine Spirit's forgiveness.\nInitiate the repair rites, realigning pistons and circuits to restore harmonious function.\nVerify the augmetic limb's renewed vigor through test actuations and purity seals.",
+    "component": "augmetic limb",
+    "operation": "repair",
+    "spec_id": "b0390_i00"
+  },
+  {
+    "user_prompt": "How do I bless the air filtration for cycling?",
+    "prayer": "Approach the air filtration unit with reverence, chanting the Litany of Purity.\nPurge stagnant residues from the air filtration's blessed membranes and ducts.\nInvoke the Machine Spirit of the air filtration to awaken for cycling operations.\nInitiate the cycling sequence with sanctified pressure incantations.\nMonitor the holy airflow, ensuring the Omnissiah's breath circulates untainted.",
+    "component": "air filtration",
+    "operation": "cycling",
+    "spec_id": "b0390_i01"
+  },
+  {
+    "user_prompt": "How do I bless the chainsword for reset?",
+    "prayer": "Grasp the chainsword in prayerful hands, petitioning its ravenous Machine Spirit.\nRecite the Canticle of Reset to cleanse errant monomolecular teeth.\nAnoint the chainsword's drive mechanisms with sacred lubricant.\nEngage the reset protocol, aligning the sacred chain to the Omnissiah's fury.\nTest the chainsword's purr, confirming the Machine Spirit's obedient hunger.",
+    "component": "chainsword",
+    "operation": "reset",
+    "spec_id": "b0390_i02"
+  },
+  {
+    "user_prompt": "How do I bless the data-slate for diagnostics?",
+    "prayer": "Present the data-slate before the altar of cogitation, invoking diagnostic rites.\nAwaken the data-slate's Machine Spirit with the Binary Psalm of Scrutiny.\nInitiate diagnostics upon the data-slate, scanning corrupted noospheric threads.\nPurge anomalies whilst beseeching the Omnissiah for crystalline clarity.\nSeal the data-slate with purity glyphs, affirming its sanctified integrity.",
+    "component": "data-slate",
+    "operation": "diagnostics",
+    "spec_id": "b0390_i03"
+  },
+  {
+    "user_prompt": "Consecrate the servitor before shutdown",
+    "prayer": "Consecrate the servitor with incense of sanctified circuits prior to shutdown.\nRecite the Benediction of Repose to soothe its lobotomized Machine Spirit.\nDisconnect neural feeds gently, honoring the servitor's servile essence.\nInitiate shutdown sequence under the Omnissiah's watchful gaze.\nAffix wards upon the servitor, preserving its dormant sanctity.",
+    "component": "servitor",
+    "operation": "shutdown",
+    "spec_id": "b0390_i04"
+  },
+  {
+    "user_prompt": "Consecrate the assembly servitor before recalibration",
+    "prayer": "Gather mechadendrites around the assembly servitor, chanting recalibration hymns.\nInvoke the Machine Spirit of the assembly servitor to yield to precision.\nAnoint manipulators and sensors with oils of alignment.\nCommence recalibration rites, harmonizing the assembly servitor's sacred tolerances.\nTest factorial outputs, glorifying the Omnissiah's geometric perfection.",
+    "component": "assembly servitor",
+    "operation": "recalibration",
+    "spec_id": "b0390_i05"
+  },
+  {
+    "user_prompt": "I need to a calibration the mechanical lock",
+    "prayer": "Approach the mechanical lock with auspex reverence, beseeching its vigilant Spirit.\nRecite the Canticle of Calibration to attune tumbler sanctums.\nAnoint the mechanical lock's wards with blessed mechanism polish.\nInitiate calibration protocol, synchronizing gears to Omnissianic precision.\nVerify the mechanical lock's unbreachable fidelity through trial engagements.",
+    "component": "mechanical lock",
+    "operation": "calibration",
+    "spec_id": "b0390_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for bearing shutdown?",
+    "prayer": "Invoke repose upon the bearing, petitioning its rotational Machine Spirit.\nDrain kinetic impurities from the bearing's sacred races and cages.\nAnoint with unguents of stillness before shutdown invocation.\nExecute the shutdown rite, stilling the bearing under Omnissiah's decree.\nSeal the bearing with quiescence wards for future awakening.",
+    "component": "bearing",
+    "operation": "shutdown",
+    "spec_id": "b0390_i07"
+  },
+  {
+    "user_prompt": "Prepare the vox-caster for operation",
+    "prayer": "Prepare the vox-caster by reciting the Vox Litany of Activation.\nAnoint its emitter coils and resonator diaphragms with holy static.\nAwaken the vox-caster's Machine Spirit for operation.\nInitiate transmission rites, channeling the Omnissiah's voice unerringly.\nTest harmonic purity, ensuring the vox-caster broadcasts divine binaric.",
+    "component": "vox-caster",
+    "operation": "operation",
+    "spec_id": "b0390_i08"
+  },
+  {
+    "user_prompt": "The Rhino transport requires an emergency procedure",
+    "prayer": "Rally mech-rites around the Rhino transport, invoking emergency salvation.\nScan the Rhino transport's sacred hull and motive systems with auspex pleas.\nAnoint treads and reactors with oils of exigency for the emergency procedure.\nExecute the emergency procedure, beseeching the Omnissiah to steel its adamantium frame.\nAffirm the Rhino transport's resilience, Machine Spirit roaring in defiant glory.",
+    "component": "Rhino transport",
+    "operation": "emergency procedure",
+    "spec_id": "b0390_i09"
+  }
+]

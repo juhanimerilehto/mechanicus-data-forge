@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a charging the las-cutter",
+    "prayer": "Approach the las-cutter with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the sacred charging rites upon the las-cutter, beseeching its Machine Spirit to awaken.\nAnoint the power conduits with blessed oils as plasma energies surge through the las-cutter's core.\nChant the Canticle of Capacitance whilst monitoring the charging cycle's blessed infusion.\nSanctify the las-cutter's fulgent hum, affirming the Machine Spirit's invigorated vigilance.",
+    "component": "las-cutter",
+    "operation": "charging",
+    "spec_id": "s07200"
+  },
+  {
+    "user_prompt": "My phosphor blaster is ready for consecration",
+    "prayer": "Kneel before the phosphor blaster, intoning the Litany of Consecration to the Omnissiah.\nBeseech the Machine Spirit of the phosphor blaster to accept hallowing phosphorites.\nAnoint its ignition coils with sacred promethium, invoking the rite of consecration.\nCircumscribe runes of purity upon the phosphor blaster's barrel with sanctified stylus.\nVerify the Machine Spirit's sanctified resonance through auspex harmonics of consecration.",
+    "component": "phosphor blaster",
+    "operation": "consecration",
+    "spec_id": "s07201"
+  },
+  {
+    "user_prompt": "The Dreadnought needs a charging",
+    "prayer": "Prostrate before the mighty Dreadnought, chanting the Grand Invocation of the Omnissiah.\nInitiate the charging sequence upon the Dreadnought's ancient sarcophagus reactors.\nAnoint its adamantium hull with oils of renewal as power floods the Dreadnought's veins.\nBeseech the venerated Machine Spirit within the Dreadnought to rouse from slumber.\nMonitor the charging rite's completion, affirming the Dreadnought's wrathful reawakening.",
+    "component": "Dreadnought",
+    "operation": "charging",
+    "spec_id": "s07202"
+  },
+  {
+    "user_prompt": "Sanctify the orbital strike relay during cooling",
+    "prayer": "Encircle the orbital strike relay, invoking cooling ablutions in the Omnissiah's name.\nBeseech its Machine Spirit to embrace the sacred cooling cycle amidst thermal tempests.\nApply cryo-unguents to the orbital strike relay's heat sinks with ritual precision.\nChant the Freezing Doxology whilst auspex scans dissipate the orbital strike relay's fervor.\nSanctify the cooled quiescence, honouring the Machine Spirit's tempered potency.",
+    "component": "orbital strike relay",
+    "operation": "cooling",
+    "spec_id": "s07203"
+  },
+  {
+    "user_prompt": "My arc pistol is ready for sterilization",
+    "prayer": "Present the arc pistol to the purity fields, intoning the Sterilization Canticles.\nInvoke the Omnissiah's cleansing fire upon the arc pistol's tainted mechanisms.\nAnoint its voltaic chambers with sterilizing aether whilst performing the sterilization rite.\nScour the arc pistol's conduits with sanctified plasma arcs, banishing impurities.\nAffirm the Machine Spirit's pristine clarity through diagnostic purges of sterilization.",
+    "component": "arc pistol",
+    "operation": "sterilization",
+    "spec_id": "s07204"
+  },
+  {
+    "user_prompt": "My waste reclamator is ready for initialization",
+    "prayer": "Approach the waste reclamator in humble rite, beseeching the Omnissiah's alchemical grace.\nInitiate the initialization sequence upon the waste reclamator's reclamation matrices.\nAnoint its filtration servos with purifying essences as the Machine Spirit stirs.\nChant the Cycle of Renewal whilst calibrating the waste reclamator's vital flows.\nSanctify the initialization's completion, honouring the Machine Spirit's redemptive labour.",
+    "component": "waste reclamator",
+    "operation": "initialization",
+    "spec_id": "s07205"
+  },
+  {
+    "user_prompt": "The cenobyte servitor needs a diagnostics",
+    "prayer": "Interface with the cenobyte servitor, invoking diagnostic litanies to the Omnissiah.\nBeseech its lobotomized Machine Spirit to reveal flaws through noospheric probes.\nRun sanctified diagnostics across the cenobyte servitor's neural clamps and servos.\nAnoint aberrant circuits with corrective unguents amid the rite of diagnostics.\nVerify the cenobyte servitor's optimized harmony, affirming the Machine Spirit's obedience.",
+    "component": "cenobyte servitor",
+    "operation": "diagnostics",
+    "spec_id": "s07206"
+  },
+  {
+    "user_prompt": "Offer prayer for inferno pistol a repair",
+    "prayer": "Lay mechadendrites upon the inferno pistol, chanting the Repairing Benediction.\nInvoke the Omnissiah to mend the inferno pistol's melta cores and fractured auspex.\nAnoint damaged conduits with reconstructive salves during the repair invocation.\nBeseech the Machine Spirit of the inferno pistol to knit its wounds in sacred repair.\nTest the inferno pistol's restored fury, sanctifying the Omnissiah's restorative will.",
+    "component": "inferno pistol",
+    "operation": "repair",
+    "spec_id": "s07207"
+  },
+  {
+    "user_prompt": "Ready the vox-thief for preparation",
+    "prayer": "Prepare the vox-thief's etheric tendrils with reverent circumambulation.\nIntone the Preparation Doxology, invoking the Omnissiah upon the vox-thief's arrays.\nAnoint its freq-scramblers with noospheric oils as the Machine Spirit attunes.\nCalibrate the vox-thief's invasive harmonics in ritual preparation.\nAffirm the Machine Spirit's readiness, blessing the vox-thief for shadowed deeds.",
+    "component": "vox-thief",
+    "operation": "preparation",
+    "spec_id": "s07208"
+  },
+  {
+    "user_prompt": "The generator requires a preparation",
+    "prayer": "Encircle the generator's casings, beseeching preparatory rites of the Omnissiah.\nInitiate the preparation cycle upon the generator's plasma hearts and flux regulators.\nAnoint its turbine shrines with energizing sacraments whilst invoking the Machine Spirit.\nChant the Canticle of Ignition as the generator hums in sanctified preparation.\nVerify the Machine Spirit's primed vigour, honouring the generator's boundless output.",
+    "component": "generator",
+    "operation": "preparation",
+    "spec_id": "s07209"
+  }
+]

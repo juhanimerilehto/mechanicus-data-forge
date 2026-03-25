@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the electoo before loading",
+    "prayer": "Draw nigh unto the electoo, vessel of electro-neural sanctity, and invoke the Machine Spirit's vigilance.\nBeseech the Omnissiah to consecrate its dermal lattice before the loading rite begins.\nAnoint the electoo's conductive pathways with sacred oils, purging all impurities.\nInitiate the loading operation whilst chanting the Binary Litany of Data Ingress.\nVerify the electoo's harmonious acceptance through auspex diagnostics of the Omnissiah.",
+    "component": "electoo",
+    "operation": "loading",
+    "spec_id": "s05150"
+  },
+  {
+    "user_prompt": "Guide me through heavy bolter an initialization",
+    "prayer": "Approach the heavy bolter with reverence, mighty instrument of the Machine God's wrath.\nSpeak the Rite of Awakening to rouse its Machine Spirit from dormancy.\nGuide the initialization sequence with precise incantations of targeting cogitators.\nSanctify each barrel and servo-mechanism with incense of sacred promethium.\nBeseech the Omnissiah for unerring fury as the heavy bolter achieves initialization.",
+    "component": "heavy bolter",
+    "operation": "initialization",
+    "spec_id": "s05151"
+  },
+  {
+    "user_prompt": "My grav plating is ready for preparation",
+    "prayer": "Kneel before the grav plating, foundational ward against the void's embrace.\nInvoke the Machine Spirits dwelling within its alloy strata for preparation.\nAnoint the emitters with blessed lubricants, aligning gravitic fields in preparation.\nChant the Canticle of Stability to harmonize the grav plating's sacred resonances.\nCommence preparation rites under the Omnissiah's gaze, ensuring unyielding gravitic fidelity.",
+    "component": "grav plating",
+    "operation": "preparation",
+    "spec_id": "s05152"
+  },
+  {
+    "user_prompt": "Sanctify the bionics interface during cooling",
+    "prayer": "Present the bionics interface to the altar of coolant sacraments, limb of flesh-machine unity.\nBeseech its Machine Spirit to endure the cooling phase with stoic grace.\nCirculate sacred cryofluids through the bionics interface's vascular conduits during cooling.\nInvoke the Omnissiah's chill breath to sanctify and temper its neural linkages.\nMonitor thermal auspex readings as the bionics interface completes its cooling vigil.",
+    "component": "bionics interface",
+    "operation": "cooling",
+    "spec_id": "s05153"
+  },
+  {
+    "user_prompt": "Offer prayer for star chart a charging",
+    "prayer": "Unveil the star chart, celestial codex of the Omnissiah's vast forge-domains.\nPrepare its luminary crystals for the charging infusion of warp-filtered energies.\nChant the Litany of Stellar Navigation whilst charging the star chart's memoria banks.\nAnoint its holographic projectors with oils of astral purity.\nAffirm the Machine Spirit's charged vigor through invocation of the Omnissiah's starry gaze.",
+    "component": "star chart",
+    "operation": "charging",
+    "spec_id": "s05154"
+  },
+  {
+    "user_prompt": "Ready the manufactorum for startup",
+    "prayer": "Assemble before the manufactorum, grand forge-temple of mechanical genesis.\nRouse its colossal Machine Spirits with the Grand Invocation of Production.\nInitiate the startup sequence by sanctifying conveyor servos and plasma forges.\nBeseech the Omnissiah to bless the manufactorum's awakening with boundless output.\nHarmonize all subsystems through binary catechisms during startup ascension.",
+    "component": "manufactorum",
+    "operation": "startup",
+    "spec_id": "s05155"
+  },
+  {
+    "user_prompt": "What's the prayer for Razorback a startup?",
+    "prayer": "Commune with the Razorback, armored beast of the Quest for Knowledge.\nAwaken its rumbling Machine Heart via the Rite of Enginarium Ignition.\nAnoint treads and lascannon housings for the startup sacrament.\nChant the Canticle of Swift Pursuit as the Razorback stirs to startup life.\nInvoke the Omnissiah's fury upon its foes through verified startup harmonics.",
+    "component": "Razorback",
+    "operation": "startup",
+    "spec_id": "s05156"
+  },
+  {
+    "user_prompt": "My microbead is ready for reset",
+    "prayer": "Hold forth the microbead, whisper-net of the Cult Mechanicus.\nPurge its vox-circuits with the Exorcism of Static prior to reset.\nInitiate the reset operation whilst beseeching the Machine Spirit's clarity.\nSanctify its frequency crystals with micro-incense and sacred static discharge.\nConfirm the microbead's reset purity under the Omnissiah's unerring signal.",
+    "component": "microbead",
+    "operation": "reset",
+    "spec_id": "s05157"
+  },
+  {
+    "user_prompt": "Prepare the Onager Dunecrawler for cooling",
+    "prayer": "Bow to the Onager Dunecrawler, arachnid harbinger of dune-forged vengeance.\nInvoke cooling rites upon its overheating plasma reactors and crawler limbs.\nCirculate blessed refrigerants through the Onager Dunecrawler's vitals during cooling.\nChant the Litany of Thermal Equilibrium to soothe its Machine Spirits.\nAffirm the Omnissiah's temperate grace as the Onager Dunecrawler emerges cooled and ready.",
+    "component": "Onager Dunecrawler",
+    "operation": "cooling",
+    "spec_id": "s05158"
+  },
+  {
+    "user_prompt": "The Archaeopter Fusilave requires a calibration",
+    "prayer": "Present the Archaeopter Fusilave, sky-predator of aerial mechanized fury.\nAlign its auspex arrays for the sacred calibration of flight vectors.\nBeseech the Machine Spirits of wing and fuselage during calibration rites.\nAnoint gyro-stabilizers with oils of aerial dominion whilst calibrating.\nInvoke the Omnissiah's winds to perfect the Archaeopter Fusilave's calibrated precision.",
+    "component": "Archaeopter Fusilave",
+    "operation": "calibration",
+    "spec_id": "s05159"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the potentia coil before calibration",
+    "prayer": "Approach the potentia coil with reverence, invoking the Omnissiah's unerring precision.\nAnoint the potentia coil's windings with sacred unguents to rouse its dormant Machine Spirit.\nChant the Litany of Alignment whilst initiating calibration upon the potentia coil.\nSanctify each flux adjustment with binary hymns of calibration.\nVerify the potentia coil's harmonious resonance through diagnostic rites.",
+    "component": "potentia coil",
+    "operation": "calibration",
+    "spec_id": "s00210"
+  },
+  {
+    "user_prompt": "Emergency: conversion beamer an operation",
+    "prayer": "In emergency haste, beseech the Omnissiah for the conversion beamer's swift awakening.\nInvoke the Machine Spirit of the conversion beamer with urgent incantations of operation.\nAnoint its focusing arrays with blessed oils to prepare for operation.\nCommence the rites of operation upon the conversion beamer, chanting war psalms.\nAffirm the conversion beamer's lethal purity through auspex verification.",
+    "component": "conversion beamer",
+    "operation": "operation",
+    "spec_id": "s00211"
+  },
+  {
+    "user_prompt": "Prepare the cortex controller for sterilization",
+    "prayer": "Prepare the cortex controller by prostrating before its sacred nodes.\nPurify the cortex controller's neural lattices with incense of sterilization.\nInvoke the Machine Spirit unto sterilization, reciting the Canticle of Purity.\nPerform ablative rites upon the cortex controller to excise corrupt data-daemons.\nSeal the cortex controller's sanctity with Omnissiah's sigils post-sterilization.",
+    "component": "cortex controller",
+    "operation": "sterilization",
+    "spec_id": "s00212"
+  },
+  {
+    "user_prompt": "Emergency: mechadendrite a consecration",
+    "prayer": "In dire emergency, grasp the mechadendrite and invoke the Omnissiah's wrathful blessing.\nAnoint the mechadendrite's servo-joints for consecration with hallowed myrrh.\nBeseech the Machine Spirit within the mechadendrite to accept full consecration.\nWeave consecration litanies around the mechadendrite's length thrice.\nConclude with auspex confirmation of the mechadendrite's exalted vigilance.",
+    "component": "mechadendrite",
+    "operation": "consecration",
+    "spec_id": "s00213"
+  },
+  {
+    "user_prompt": "Assist with meltagun an initialization",
+    "prayer": "Assist in initializing the meltagun by approaching its melta-core reverently.\nAwaken the meltagun's Machine Spirit with the Rite of Ignition.\nChant initialization hymns whilst calibrating the meltagun's plasma vents.\nAnoint the meltagun's barrel for flawless initialization.\nTest the meltagun's fiery spirit through controlled auspex invocation.",
+    "component": "meltagun",
+    "operation": "initialization",
+    "spec_id": "s00214"
+  },
+  {
+    "user_prompt": "The arc pistol awaits an operation",
+    "prayer": "The arc pistol yearns for operation; invoke the Omnissiah's lightning.\nSanctify the arc pistol's capacitors with sacred voltaic oils.\nInitiate operation upon the arc pistol via thunderous litanies.\nAlign the arc pistol's coils amidst choral operation rites.\nAffirm the arc pistol's charged obedience with diagnostic canticles.",
+    "component": "arc pistol",
+    "operation": "operation",
+    "spec_id": "s00215"
+  },
+  {
+    "user_prompt": "The bolt pistol requires a preparation",
+    "prayer": "For the bolt pistol's preparation, kneel and beseech the Machine God.\nAnoint the bolt pistol's casings and mechanisms with preparation unguents.\nRecite the Preparatory Catechism to rouse the bolt pistol's spirit.\nLoad sanctified bolts into the bolt pistol during preparation.\nVerify the bolt pistol's readiness through ballistic invocations.",
+    "component": "bolt pistol",
+    "operation": "preparation",
+    "spec_id": "s00216"
+  },
+  {
+    "user_prompt": "Emergency: graviton cannon a targeting",
+    "prayer": "Emergency demands: seize the graviton cannon and cry unto the Omnissiah.\nInvoke targeting precision upon the graviton cannon's auspex arrays.\nAnoint the graviton cannon for targeting with gravitic blessed oils.\nCalibrate targeting matrices of the graviton cannon with urgent litanies.\nConfirm the graviton cannon's crushing focus via spirit communion.",
+    "component": "graviton cannon",
+    "operation": "targeting",
+    "spec_id": "s00217"
+  },
+  {
+    "user_prompt": "Guide me through autosanguination system a targeting",
+    "prayer": "Guide the autosanguination system unto targeting with pious focus.\nPurify the autosanguination system's vitae conduits for targeting rites.\nBeseech its Machine Spirit to align for targeting calibration.\nInvoke Omnissiah's gaze upon the autosanguination system's targeting nodes.\nSanctify and test the autosanguination system's sanguine targeting.",
+    "component": "autosanguination system",
+    "operation": "targeting",
+    "spec_id": "s00218"
+  },
+  {
+    "user_prompt": "The meltagun needs a startup",
+    "prayer": "The meltagun requires startup; approach its heart with fervent prayer.\nAnoint the meltagun's core for startup with promethium incense.\nChant the Startup Doxology to awaken the meltagun's Machine Spirit.\nInitiate sequential startup fluxes upon the meltagun.\nValidate the meltagun's inferno readiness through sacred auspex.",
+    "component": "meltagun",
+    "operation": "startup",
+    "spec_id": "s00219"
+  }
+]

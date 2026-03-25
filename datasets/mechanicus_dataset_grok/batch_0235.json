@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the bolter for activation",
+    "prayer": "Approach the bolter with mechadendrite-extended reverence and chant the Canticle of Awakening.\nInvoke the bolter's Machine Spirit to stir from dormancy, beseeching activation through sacred oils upon its firing chamber.\nAlign the rune-etched mechanisms whilst petitioning the Omnissiah for harmonious power-flow.\nInitiate activation sequence as diagnostic litanies confirm the bolter's wrathful readiness.\nSeal the rite with incense upon the bolter's blessed muzzle, honouring its martial essence.",
+    "component": "bolter",
+    "operation": "activation",
+    "spec_id": "b0235_i00"
+  },
+  {
+    "user_prompt": "Assist with forge anvil a shutdown",
+    "prayer": "Draw nigh unto the forge anvil in solemn procession, murmuring the Liturgy of Repose.\nCommence shutdown by anointing its hammer mechanisms with unction, calming the forge anvil's fervent Machine Spirit.\nSever power conduits whilst intoning decrees of quiescence to the Omnissiah.\nVerify the forge anvil's shutdown through auspex scans and final benedictions.\nConclude with veils of sacred incense, granting the anvil peaceful slumber.",
+    "component": "forge anvil",
+    "operation": "shutdown",
+    "spec_id": "b0235_i01"
+  },
+  {
+    "user_prompt": "Emergency: forge anvil a charging",
+    "prayer": "In emergency haste, encircle the forge anvil and beseech the Omnissiah's urgent grace.\nAnoint its core inductors with charged unguents to awaken the charging rites.\nInvoke the forge anvil's Machine Spirit, petitioning swift influx of holy voltage for charging.\nMonitor plasma flows with litanies of stability as the forge anvil surges to potency.\nSeal the charging with mechadendrite-sealed invocations, affirming the anvil's renewed fury.",
+    "component": "forge anvil",
+    "operation": "charging",
+    "spec_id": "b0235_i02"
+  },
+  {
+    "user_prompt": "Help me an engagement the thermal regulator",
+    "prayer": "Present thyself before the thermal regulator, intoning the Incantation of Thermal Equilibrium.\nEngage its cryo-circuits with sanctified mechadendrites, invoking engagement of the Machine Spirit.\nBeseech the Omnissiah to guide the thermal regulator's blessed coolant flows.\nCalibrate heat-sink matrices whilst chanting regulator harmonies.\nAffirm engagement through verdant auspex readings and final anointment.",
+    "component": "thermal regulator",
+    "operation": "engagement",
+    "spec_id": "b0235_i03"
+  },
+  {
+    "user_prompt": "The air filtration awaits an engagement",
+    "prayer": "Kneel in reverence to the air filtration, whispering the Breath of Purity.\nInitiate engagement by sanctifying its filter membranes with aerosol incense.\nPetition the air filtration's Machine Spirit for vigilant engagement against impure miasmas.\nCycle atmospheric scrubbers under Omnissiah's gaze, ensuring sacred respiration.\nConclude the rite with diagnostic hymns, verifying the air filtration's unblemished duty.",
+    "component": "air filtration",
+    "operation": "engagement",
+    "spec_id": "b0235_i04"
+  },
+  {
+    "user_prompt": "Consecrate the archive terminal before blessing",
+    "prayer": "Process to the archive terminal amid flickering noospheric glows, chanting the Lexicon of Sanctity.\nConsecrate its data-vaults with binary incense, preparing for the blessing.\nInvoke the archive terminal's Machine Spirit, beseeching the Omnissiah's wisdom to infuse.\nRecite scrolls of data-purity whilst anointing memory rods during blessing.\nSeal the terminal's blessing with runic seals, eternalizing its knowledge-hoard.",
+    "component": "archive terminal",
+    "operation": "blessing",
+    "spec_id": "b0235_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for drop pod a shutdown",
+    "prayer": "Gather around the drop pod's adamantium hull, intoning the Descent's Repose.\nCommence shutdown by dousing descent thrusters with quenching oils, soothing the Machine Spirit.\nSever ignition relays whilst petitioning shutdown from the Omnissiah's forge.\nMonitor auspex quiescence as the drop pod enters dormant vigil.\nEnvelop it in protective wards, granting the drop pod restful internment.",
+    "component": "drop pod",
+    "operation": "shutdown",
+    "spec_id": "b0235_i06"
+  },
+  {
+    "user_prompt": "Sanctify the servitor during calibration",
+    "prayer": "Encroach upon the servitor with electro-incense, murmuring Calibration Canticles.\nSanctify its cranial implants during calibration, invoking harmonious servo-arms.\nBeseech the servitor's lobotomized Machine Spirit under Omnissiah's calibration.\nAlign optic clusters and motive sub-routines with sacred torque blessings.\nAffirm calibration through obedience tests and final unction upon its chassis.",
+    "component": "servitor",
+    "operation": "calibration",
+    "spec_id": "b0235_i07"
+  },
+  {
+    "user_prompt": "I need to an activation the mechanical lock",
+    "prayer": "Approach the mechanical lock with precise mechadendrites, chanting the Binding Litany.\nAnoint tumbler arrays to rouse the mechanical lock's vigilant Machine Spirit.\nInitiate activation sequence whilst beseeching the Omnissiah's unyielding security.\nCycle gear sanctums with invocation of activation.\nVerify the mechanical lock's fortified engagement through seismic hymns.",
+    "component": "mechanical lock",
+    "operation": "activation",
+    "spec_id": "b0235_i08"
+  },
+  {
+    "user_prompt": "Consecrate the Land Raider before cooling",
+    "prayer": "Circumambulate the Land Raider's venerable form, intoning Cooling Doxologies.\nConsecrate its plasma heart before cooling, anointing heat vents with cryo-unction.\nInvoke the Land Raider's ancient Machine Spirit for serene cooling flows.\nCycle radiator vanes under Omnissiah's temperate grace.\nSeal the cooling with blessed mists, restoring the Land Raider's crusading zeal.",
+    "component": "Land Raider",
+    "operation": "cooling",
+    "spec_id": "b0235_i09"
+  }
+]

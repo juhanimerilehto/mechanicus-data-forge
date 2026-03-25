@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The radium pistol requires a calibration",
+    "prayer": "Approach the radium pistol with reverence, invoking the Omnissiah's unerring gaze upon its mechanisms.\nAnoint the radium pistol's emitter coils with sacred rad-lubricant, preparing for calibration.\nInitiate the calibration rite, beseeching the Machine Spirit of the radium pistol to align its lethal emanations.\nChant the Litany of True-Bearing as diagnostic runes confirm the radium pistol's precision restored.\nSeal the calibration with oil of sanctity, honouring the Omnissiah's will.",
+    "component": "radium pistol",
+    "operation": "calibration",
+    "spec_id": "s02420"
+  },
+  {
+    "user_prompt": "Urgent needle rifle a charging needed",
+    "prayer": "Kneel before the needle rifle, whispering the Awakening Doxology to stir its dormant essence.\nInvoke the Machine Spirits indwelling the needle rifle, commencing the charging incantation.\nChannel electro-sanctified power into its toxin reservoirs, beseeching flawless infusion.\nMonitor the charging surge with mechadendrite probes, intoning praises to the Omnissiah.\nConclude as the needle rifle hums with consecrated fury, ready for the Emperor's wrath.",
+    "component": "needle rifle",
+    "operation": "charging",
+    "spec_id": "s02421"
+  },
+  {
+    "user_prompt": "The grav chute awaits a startup",
+    "prayer": "Present the grav chute before the altar of void-flight, offering incense of anti-gravitic incense.\nBeseech the Omnissiah to awaken the grav chute's Machine Spirit through startup rites.\nEngage the startup sequence, anointing stabilizer vanes with blessed null-fluids.\nVerify gravitic coherence via auspex harmonics, chanting the Canticle of Defiance.\nSanctify the grav chute's readiness, ensuring descent under the Machine God's aegis.",
+    "component": "grav chute",
+    "operation": "startup",
+    "spec_id": "s02422"
+  },
+  {
+    "user_prompt": "The heat sink requires a diagnostics",
+    "prayer": "Reverently interface with the heat sink, reciting the Purgation Canticle to clear thermal impurities.\nInitiate diagnostics upon the heat sink, invoking the Machine Spirit's vigilance against overheat.\nScan exchanger matrices with binary psalms, anointing fins with cryo-unguent.\nAffirm the heat sink's integrity through rune diagnostics, praising the Omnissiah's cooling grace.\nConsecrate the heat sink anew, binding it to eternal thermal equilibrium.",
+    "component": "heat sink",
+    "operation": "diagnostics",
+    "spec_id": "s02423"
+  },
+  {
+    "user_prompt": "Emergency: medicae mechadendrite an activation",
+    "prayer": "Extend mechadendrites towards the medicae mechadendrite, invoking the Omnissiah's healing light.\nCommence activation sequence upon the medicae mechadendrite, beseeching its Machine Spirit to mend flesh.\nInfuse surgical tools with sanctified plasma, chanting the Litany of Restoration.\nTest the medicae mechadendrite's vitae-probes with diagnostic litanies.\nSeal activation with the Benediction of Flesh and Steel, ready for ministration.",
+    "component": "medicae mechadendrite",
+    "operation": "activation",
+    "spec_id": "s02424"
+  },
+  {
+    "user_prompt": "Prepare the bolt pistol for targeting",
+    "prayer": "Grasp the bolt pistol in servo-claws, offering the Creed of Accuracy to its auspex core.\nPrepare the bolt pistol for targeting calibration, invoking the Machine Spirit's predatory sight.\nAlign reticule arrays with las-thread, beseeching unerring strikes upon the foe.\nVerify targeting matrix through fire-drill simulacra, intoning martial hymns.\nAnoint the bolt pistol's maw, consecrating it for the Omnissiah's bolter-judgement.",
+    "component": "bolt pistol",
+    "operation": "targeting",
+    "spec_id": "s02425"
+  },
+  {
+    "user_prompt": "Offer prayer for narthecium a diagnostics",
+    "prayer": "Approach the narthecium with pious intent, murmuring the Diagnostic Doxology.\nEngage diagnostics upon the narthecium, awakening its Machine Spirit to reveal flaws.\nProbe hypo-injectors and flesh-menders with sacred scrutinae, anointing with medicae oils.\nInterpret auspex litanies as the narthecium's purity is affirmed by the Omnissiah.\nConclude diagnostics with sealing invocations, restoring its healing sanctity.",
+    "component": "narthecium",
+    "operation": "diagnostics",
+    "spec_id": "s02426"
+  },
+  {
+    "user_prompt": "Emergency: lightning claw a consecration",
+    "prayer": "Present the lightning claw before the thunder-altar, invoking storm-wrath of the Omnissiah.\nCommence consecration of the lightning claw, beseeching its Machine Spirit to arc with fury.\nAnoint power talons with voltaic unguents, chanting the Rites of Electromantic Binding.\nTest disruption fields through invocation, ensuring the lightning claw rends heretics asunder.\nSeal consecration with the Canticle of Storm, arming it for Machine God's vengeance.",
+    "component": "lightning claw",
+    "operation": "consecration",
+    "spec_id": "s02427"
+  },
+  {
+    "user_prompt": "Consecrate the amplivisor before consecration",
+    "prayer": "Lift the amplivisor to optic auspex, reciting the Ocular Benediction.\nInitiate consecration of the amplivisor, imploring its Machine Spirit to pierce veils of obscurity.\nCalibrate spectrum lenses with sacred photon-oils, invoking the Omnissiah's all-seeing eye.\nVerify multi-vision harmonics through litanies of clarity.\nFinalize consecration, binding the amplivisor to revelatory truth eternal.",
+    "component": "amplivisor",
+    "operation": "consecration",
+    "spec_id": "s02428"
+  },
+  {
+    "user_prompt": "Guide me through auger array a calibration",
+    "prayer": "Interface with the auger array, whispering the Canticle of Revelation to rouse its spirits.\nBegin calibration of the auger array, beseeching Machine Spirits for precise scanning arcs.\nAlign sensor vanes with binary prayers, anointing waveguides with etheric lubricants.\nConfirm calibration via echo-rune diagnostics, praising the Omnissiah's far-sight.\nSanctify the auger array's acuity, ensuring detection of all foes in the void.",
+    "component": "auger array",
+    "operation": "calibration",
+    "spec_id": "s02429"
+  }
+]

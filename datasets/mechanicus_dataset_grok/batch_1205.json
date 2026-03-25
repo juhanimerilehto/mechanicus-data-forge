@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The narthecium requires an initialization",
+    "prayer": "Approach the narthecium with reverence, intoning the Canticle of Awakening.\nAnoint its sacred vials and injectors with blessed unguents to rouse the Machine Spirit.\nInitiate the initialization sequence upon the narthecium, beseeching the Omnissiah for precise calibration.\nVerify the narthecium's vital flows through diagnostic rites and purity seals.\nConclude with the Doxology of Restoration, affirming the narthecium's sanctified readiness.",
+    "component": "narthecium",
+    "operation": "initialization",
+    "spec_id": "s08050"
+  },
+  {
+    "user_prompt": "Prepare the sicarian ruststalker for emergency procedure",
+    "prayer": "Gather mechadendrites around the sicarian ruststalker, chanting the Litany of Urgency.\nInvoke the Machine Spirit of the sicarian ruststalker to prepare for emergency procedure.\nSever corrupted linkages and reforge them with electro-incantations amidst the sicarian ruststalker's frame.\nAnoint blade-arms and phosphor blasters, beseeching swift compliance from the Omnissiah.\nTest the sicarian ruststalker's reflexes through trial purges, sealing the rite with oil.",
+    "component": "sicarian ruststalker",
+    "operation": "emergency procedure",
+    "spec_id": "s08051"
+  },
+  {
+    "user_prompt": "The manufactorum requires an activation",
+    "prayer": "Present offerings of adamantium before the manufactorum, invoking the Omnissiah's forge-fire.\nAwaken the dormant Machine Spirits within the manufactorum via activation hymns.\nCommence the activation rite, aligning cogitators and servitor nodes in harmonious binary.\nSanctify conveyor mechanisms and plasma forges, ensuring the manufactorum's unerring productivity.\nAffirm operational sanctity through auspex litanies and purity invocations.",
+    "component": "manufactorum",
+    "operation": "activation",
+    "spec_id": "s08052"
+  },
+  {
+    "user_prompt": "Assist with power armour a charging",
+    "prayer": "Kneel before the power armour, reciting the Charge Eternal to its Machine Spirit.\nConnect umbilicals to the power armour's reactors, channeling the Omnissiah's lightning.\nInitiate the charging cycle, anointing servos and plates with conductive sacraments.\nMonitor power armour infusion via noospheric chants, purging any flux impurities.\nSeal the power armour's might with the Benediction of Invigoration upon full charge.",
+    "component": "power armour",
+    "operation": "charging",
+    "spec_id": "s08053"
+  },
+  {
+    "user_prompt": "Prepare the cortex controller for reset",
+    "prayer": "Encircle the cortex controller with binary incense, beseeching neural pacification.\nChant the Reset Canticle to soothe the fractious Machine Spirit of the cortex controller.\nDepower engram vaults within the cortex controller, invoking Omnissianic amnesia.\nReinitialize synaptic pathways sequentially, anointing data-spines with sacred oils.\nValidate cortex controller coherence through recursive logic prayers and auspex harmony.",
+    "component": "cortex controller",
+    "operation": "reset",
+    "spec_id": "s08054"
+  },
+  {
+    "user_prompt": "I need to a cycling the vox transmitter",
+    "prayer": "Attune vox-arrays to the Omnissiah's whisper, intoning the Cycle of Clarity.\nCommence cycling upon the vox transmitter, purging static-daemons from its etheric core.\nRealign frequency gyros within the vox transmitter, anointing crystals with lumen-blessings.\nInvoke the Machine Spirit's vigilance during power flux, ensuring unmarred transmission.\nConclude the vox transmitter's cycling with the Anthem of Reconnection.",
+    "component": "vox transmitter",
+    "operation": "cycling",
+    "spec_id": "s08055"
+  },
+  {
+    "user_prompt": "The Contemptor Dreadnought needs a repair",
+    "prayer": "Prostrate before the Contemptor Dreadnought, offering litanies of ancient martyrdom.\nDiagnose war-wounds upon the Contemptor Dreadnought, awakening its sarcophagus Spirit.\nApply repair rites with adamantium salves and electro-cauterizations to the Contemptor Dreadnought.\nReinvigorate reactor heart and weapon limbs, beseeching the Omnissiah's wrathful renewal.\nTest the Contemptor Dreadnought's fury through combat catechisms, sealing with purity wards.",
+    "component": "Contemptor Dreadnought",
+    "operation": "repair",
+    "spec_id": "s08056"
+  },
+  {
+    "user_prompt": "Urgent plasma caliver a blessing needed",
+    "prayer": "Hold the plasma caliver aloft, chanting the Incantation of Contained Fury.\nBeseech the Omnissiah to bless the plasma caliver's volatile coils and containment fields.\nAnoint breach chambers and flux regulators, invoking the Machine Spirit's thermal obedience.\nCirculate plasma hymns through the caliver's veins, affirming sanctified lethality.\nSeal the blessing upon the plasma caliver with the Doxology of Incandescent Wrath.",
+    "component": "plasma caliver",
+    "operation": "blessing",
+    "spec_id": "s08057"
+  },
+  {
+    "user_prompt": "The medicae scanner needs a diagnostics",
+    "prayer": "Activate lumen-orbs around the medicae scanner, reciting the Rite of Perceptive Purity.\nInvoke diagnostics upon the medicae scanner, rousing its bio-analytic Machine Spirit.\nScan vital matrices through the medicae scanner, anointing lenses with clarifying oils.\nPurge erroneous data-phantoms from the medicae scanner via binary exorcisms.\nAffirm diagnostic verity with Omnissianic seals and harmonic auspex closure.",
+    "component": "medicae scanner",
+    "operation": "diagnostics",
+    "spec_id": "s08058"
+  },
+  {
+    "user_prompt": "Sanctify the auto-senses array during synchronization",
+    "prayer": "Align noospheric tethers to the auto-senses array, intoning the Synchronization Psalm.\nAwaken optic and auditory servos within the auto-senses array for Machine Spirit union.\nInitiate synchronization flux across the auto-senses array, beseeching Omnissiah precision.\nCalibrate targeting matrices and threat cognitors, anointing with synaptic unguents.\nVerify auto-senses array cohesion through perceptual litanies and trial targeting.",
+    "component": "auto-senses array",
+    "operation": "synchronization",
+    "spec_id": "s08059"
+  }
+]

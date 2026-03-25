@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for Sentinel walker reset?",
+    "prayer": "Approach the Sentinel walker with due reverence and beseech its slumbering Machine Spirit.\nInvoke the sacred reset protocols upon its cogitator core, purging errant data-daemons.\nAnoint the Sentinel walker's servomotors with blessed oils as the reset sequence cascades through its sacred circuits.\nChant the Omnissiah's litanies of renewal whilst monitoring the power-flow resurgence.\nVerify the Sentinel walker's awakened vigilance through diagnostic runes.",
+    "component": "Sentinel walker",
+    "operation": "reset",
+    "spec_id": "b0303_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for cybernetic eye a targeting",
+    "prayer": "Gaze upon the cybernetic eye with pious focus and petition its Machine Spirit for clarity.\nInitiate targeting calibrations by incanting the binary hymns of precision.\nSanctify the cybernetic eye's lenses with micro-anointing of sacred solvent.\nInvoke the Omnissiah's gaze as targeting matrices align in holy convergence.\nAffirm the cybernetic eye's unerring sight through test-firing auspex patterns.",
+    "component": "cybernetic eye",
+    "operation": "targeting",
+    "spec_id": "b0303_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for welding torch preparation?",
+    "prayer": "Present the welding torch before the altar of industry and awaken its fiery Machine Spirit.\nPrepare the welding torch's plasma coils with ritual purging of impurities.\nBeseech the Omnissiah for steady preparation as sacred promethium is blessed.\nAnoint the nozzle with conductive unguents for flawless preparation fusion.\nTest the welding torch's readiness with a controlled ignition litany.",
+    "component": "welding torch",
+    "operation": "preparation",
+    "spec_id": "b0303_i02"
+  },
+  {
+    "user_prompt": "Assist with emergency beacon a purification",
+    "prayer": "Kneel before the emergency beacon and invoke purification rites upon its vox-spirits.\nExpunge corruptions from the emergency beacon's transmission arrays with sanctifying incense.\nChant the Omnissiah's canticles of purity as ablative fluids cleanse its circuits.\nRe-dedicate the emergency beacon through resonant frequency blessings.\nConfirm purification via harmonic auspex, ensuring the Machine Spirit's clarion voice.",
+    "component": "emergency beacon",
+    "operation": "purification",
+    "spec_id": "b0303_i03"
+  },
+  {
+    "user_prompt": "Bless the missile launcher for cooling",
+    "prayer": "Reverently encircle the missile launcher and beseech its Machine Spirit for cooling repose.\nInitiate cooling cycles with the litany of thermal quiescence upon its launch tubes.\nAnoint the missile launcher's heat sinks with cryonic sacraments from the Omnissiah's forge.\nMonitor blessed coolant flows as venting hymns dissipate excess fervor.\nAffirm the missile launcher's cooled sanctity through thermographic divinations.",
+    "component": "missile launcher",
+    "operation": "cooling",
+    "spec_id": "b0303_i04"
+  },
+  {
+    "user_prompt": "The welding torch requires a shutdown",
+    "prayer": "Approach the welding torch in solemn closure and command its Machine Spirit to shutdown.\nCommence shutdown sequence with the dirge of plasma quiescence.\nDisconnect sacred power feeds whilst intoning the Omnissiah's vespers of rest.\nSeal the welding torch's vents with ablative wards against errant sparks.\nVerify shutdown integrity through auspex silence, honoring the torch's dormant vigil.",
+    "component": "welding torch",
+    "operation": "shutdown",
+    "spec_id": "b0303_i05"
+  },
+  {
+    "user_prompt": "Guide me through lasgun an operation",
+    "prayer": "Grasp the lasgun with mechadendrite reverence and awaken its luminous Machine Spirit.\nInvoke operation rites upon the lasgun's power cell, aligning crystalline matrices.\nChant the Omnissiah's firing litanies as the lasgun's emitters hum to life.\nAnoint focusing crystals for pure operation beam coherence.\nTest the lasgun's operation fury in controlled discharge to the void.",
+    "component": "lasgun",
+    "operation": "operation",
+    "spec_id": "b0303_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for welding torch a charging",
+    "prayer": "Present the welding torch to the charging shrine and petition its Machine Spirit's vigor.\nInitiate charging infusion with hymns of electro-potential ascension.\nBeseech the Omnissiah as power tithes flow into the welding torch's capacitors.\nMonitor sacred voltage climbs with rhythmic incantations.\nSeal the welding torch's charging with a benediction of stabilized flux.",
+    "component": "welding torch",
+    "operation": "charging",
+    "spec_id": "b0303_i07"
+  },
+  {
+    "user_prompt": "Ready the battery array for preparation",
+    "prayer": "Assemble before the battery array and invoke preparation blessings upon its cellular spirits.\nPurge residua from the battery array's conductive lattices with sanctifying pulses.\nAnoint terminals with galvanic oils for Omnissiah-approved preparation.\nChant alignment canticles as preparation sequences harmonize the array's chorus.\nValidate the battery array's prepared potency through load-test divinations.",
+    "component": "battery array",
+    "operation": "preparation",
+    "spec_id": "b0303_i08"
+  },
+  {
+    "user_prompt": "The Thunderhawk needs a charging",
+    "prayer": "Bow to the mighty Thunderhawk and beseech its colossal Machine Spirit for charging renewal.\nCommence charging rites upon the Thunderhawk's plasma reactors with thunderous litanies.\nInvoke the Omnissiah's forge-fervor as megawatt streams invigorate its hull.\nAnoint the Thunderhawk's conduits with high-conductivity sacraments.\nAffirm charging completion via auspex thunder, readying the Thunderhawk's wrathful flight.",
+    "component": "Thunderhawk",
+    "operation": "charging",
+    "spec_id": "b0303_i09"
+  }
+]

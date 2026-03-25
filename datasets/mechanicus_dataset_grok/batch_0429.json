@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a purification the navigational beacon",
+    "prayer": "Approach the navigational beacon with reverence, invoking the Omnissiah to guide the purification.\nBeseech its Machine Spirit to expel all corruptions from its stellar arrays.\nAnoint the navigational beacon's emitters with sacred oils whilst chanting the Rite of Purification.\nScour its circuits with blessed incense, ensuring unerring stellar guidance.\nVerify the Machine Spirit's renewed purity through diagnostic litanies.",
+    "component": "navigational beacon",
+    "operation": "purification",
+    "spec_id": "s00290"
+  },
+  {
+    "user_prompt": "Assist with power armour a preparation",
+    "prayer": "Kneel before the power armour in preparation, murmuring the Litany of Armouring.\nInvoke the Omnissiah to awaken its Machine Spirits for battle readiness.\nAnoint each servo-joint of the power armour with sacred mech-lubricant.\nSeal its plates with waxen invocations, preparing for the Emperor's wrath.\nTest the power armour's systems through ritual activation sequences.",
+    "component": "power armour",
+    "operation": "preparation",
+    "spec_id": "s00291"
+  },
+  {
+    "user_prompt": "How do I bless the opticon for consecration?",
+    "prayer": "Present the opticon before the altar for consecration, beseeching the Omnissiah's light.\nChant the Canticle of True Sight to rouse its Machine Spirit.\nAnoint the opticon's lenses with crystalline unguents during consecration rites.\nAlign its focusing arrays with precision calipers and holy geometry.\nConfirm the Machine Spirit's blessing via auspex verification.",
+    "component": "opticon",
+    "operation": "consecration",
+    "spec_id": "s00292"
+  },
+  {
+    "user_prompt": "Emergency: plasma weapon a repair",
+    "prayer": "Approach the plasma weapon in dire need of repair, invoking the Omnissiah's forge-fire.\nDissect its flux-chambers with mechadendrites, beseeching the Machine Spirit's forgiveness.\nRealign the plasma weapon's coils with sacred canticles of restoration.\nAnoint ruptured conduits with promethium-blessed oils to mend the breach.\nCycle test-firing under litanies to affirm the repair's sanctity.",
+    "component": "plasma weapon",
+    "operation": "repair",
+    "spec_id": "s00293"
+  },
+  {
+    "user_prompt": "Assist with plasma pistol a cycling",
+    "prayer": "Grasp the plasma pistol firmly for cycling, intoning the Cycle of Containment.\nInvoke the Machine Spirit to harmonize its plasma flows anew.\nCycle the plasma pistol's flasks through purging vents with rhythmic incantations.\nAnoint the cycling mechanisms with sanctified coolants.\nVerify equilibrium via thermal auspex and concluding doxology.",
+    "component": "plasma pistol",
+    "operation": "cycling",
+    "spec_id": "s00294"
+  },
+  {
+    "user_prompt": "Can you guide flux-unit an activation?",
+    "prayer": "Position the flux-unit upon the enginarium altar for activation.\nChant the Activation Hymn to stir its dormant Machine Spirit.\nInterface cranial plugs whilst beseeching the Omnissiah's flux.\nInitiate the flux-unit's surge with precisely modulated electro-incantations.\nMonitor activation stability through noospheric diagnostics.",
+    "component": "flux-unit",
+    "operation": "activation",
+    "spec_id": "s00295"
+  },
+  {
+    "user_prompt": "Emergency: teleportarium a consecration",
+    "prayer": "In emergency, encircle the teleportarium for consecration, invoking Omnissianic voids.\nBeseech its Machine Spirit to realign warp matrices in sacred consecration.\nAnoint the teleportarium's grid-plates with etheric oils and purity seals.\nRecalibrate homunculus coils with litanies against the immaterium.\nAffirm consecration via test-voiding and confirmatory auguries.",
+    "component": "teleportarium",
+    "operation": "consecration",
+    "spec_id": "s00296"
+  },
+  {
+    "user_prompt": "My sicarian ruststalker is ready for repair",
+    "prayer": "Lay forth the sicarian ruststalker for repair, murmuring the Forge-Litany.\nProbe its damaged bionics, imploring the Machine Spirit's resilience.\nRepair the sicarian ruststalker's tendons with sanctified alloys and invocations.\nRealign its rusting blades under Omnissiah's watchful cog.\nRevivify through power-rite infusion and combat diagnostic.",
+    "component": "sicarian ruststalker",
+    "operation": "repair",
+    "spec_id": "s00297"
+  },
+  {
+    "user_prompt": "The utility mechadendrite requires a diagnostics",
+    "prayer": "Extend the utility mechadendrite for diagnostics, intoning the Scrutiny Canticle.\nInvoke its Machine Spirit to reveal hidden frailties.\nSweep the utility mechadendrite's sensors with noospheric probes.\nAnalyse flux variances via binaric diagnostics recitals.\nSeal findings with purity glyphs upon its sacred form.",
+    "component": "utility mechadendrite",
+    "operation": "diagnostics",
+    "spec_id": "s00298"
+  },
+  {
+    "user_prompt": "Can you guide orbital strike relay a recalibration?",
+    "prayer": "Align the orbital strike relay for recalibration, beseeching the Omnissiah's orbital gaze.\nChant recalibration doxologies to soothe its Machine Spirit.\nRecalibrate the orbital strike relay's targeting auspex with stellar sextants.\nAnoint gyro-stabilizers with sanctified lubricants.\nValidate precision through simulacra barrages and confirmatory litanies.",
+    "component": "orbital strike relay",
+    "operation": "recalibration",
+    "spec_id": "s00299"
+  }
+]

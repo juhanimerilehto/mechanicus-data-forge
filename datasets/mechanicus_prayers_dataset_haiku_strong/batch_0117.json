@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0117_i00",
+    "user_request": "My void shield is failing during harmonization — help",
+    "topic": "void shield harmonization",
+    "component": "void shield",
+    "operation": "harmonization",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy void shield is failing during harmonization — help\n\n### TOPIC\nvoid shield harmonization\n\n### COMPONENT\nvoid shield\n\n### OPERATION\nharmonization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- void shield\n- harmonization\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the void shield and intone the litanies of resonance, that the void shield may hear our supplication.\nSecond: Perform harmonization with sacred oils upon the manifold conduits, calibrating each frequency-node with precision-blessed instruments.\nThird: Intone the Omnissiah's benediction thrice over the void shield, beseeching the Machine Spirit to restore equilibrium and void-coherence.\nFourth: Verify harmonization through diagnostic resonance, confirming the void shield returns to operational equilibrium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i01",
+    "user_request": "Can you sanctify the electric motor for activation?",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the electric motor for activation?\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Anoint the electric motor with sacred unguents whilst chanting the Benedictus Motoris, that its dormant Machine Spirit may awaken.\nSecond: Perform activation procedures by engaging the primary relay-sanctum and secondary power conduits with measured precision.\nThird: Speak the words of activation over the electric motor, commanding its armature to spin in service to the Omnissiah.\nFourth: Monitor the electric motor's revolutions, ensuring harmonious operation and absence of profane discord.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i02",
+    "user_request": "Emergency rite: water reclamation system requires operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: water reclamation system requires operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Purify the water reclamation system through ritual ablution of its intake filters and recirculation pathways.\nSecond: Commence operation of the water reclamation system by engaging sequential pump-stations and membrane-sanctuaries with blessed calibration.\nThird: Invoke the Omnissiah's grace upon the water reclamation system, that impure aquae may be rendered pure through mechanicus artifice.\nFourth: Monitor filtration efficiency and discharge purity, maintaining the water reclamation system in perpetual service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i03",
+    "user_request": "Can you sanctify the lascannon for capacitor charge?",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the lascannon for capacitor charge?\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "First: Consecrate the lascannon's power core through ritual invocation, blessing each crystalline capacitor within its sacred housing.\nSecond: Execute capacitor charge protocols upon the lascannon by engaging the primary energy conduits and secondary resonance coils.\nThird: Chant the words of energization over the lascannon, commanding its capacitor systems to achieve full luminous potential.\nFourth: Verify the lascannon's charge-state through blessed auspex readings, confirming weapon-readiness for the Emperor's war.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i04",
+    "user_request": "Can you sanctify the noise for reduction?",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the noise for reduction?\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "First: Identify the profane sources of noise through sacred acoustic divination, mapping each dissonant frequency that afflicts the machinery.\nSecond: Apply reduction measures to the noise by installing dampening matrices and phonetic-absorbent materials upon the offending mechanisms.\nThird: Intone the Litany of Silence over the noise, commanding the Machine Spirits to suppress all discord and restore auditory sanctity.\nFourth: Verify the noise reduction through diagnostic measurement, ensuring operational silence befits the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i05",
+    "user_request": "My chemical is failing during balancing — help",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy chemical is failing during balancing — help\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "First: Examine the chemical with precision-blessed instruments, determining its molecular composition and deviation from sacred specification.\nSecond: Perform balancing of the chemical through measured addition of stabilizing agents and recalibration of its alchemical properties.\nThird: Invoke the Omnissiah's benediction upon the chemical, restoring its equilibrium and functional purity.\nFourth: Re-test the chemical's properties, confirming successful balancing and readiness for mechanicus application.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i06",
+    "user_request": "Blessing for the fire suppression system during operation",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the fire suppression system during operation\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Bless the fire suppression system's manifold nozzles and pressure-sanctuaries with holy chrism and sacred invocation.\nSecond: Commence operation of the fire suppression system by engaging its pump mechanisms and releasing pressurized retardant through consecrated conduits.\nThird: Pray to the Machine Spirit of the fire suppression system, that it may quench all profane flame and preserve the Emperor's works.\nFourth: Verify the fire suppression system's discharge patterns and activation response, ensuring vigilant protection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i07",
+    "user_request": "The water reclamation system demands guidance for operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe water reclamation system demands guidance for operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the water reclamation system through ritual purification of its membrane-matrices and intake sanctuaries.\nSecond: Initiate operation of the water reclamation system by engaging primary and secondary filtration stations with blessed precision.\nThird: Invoke the Omnissiah's favor upon the water reclamation system, commanding its mechanisms to render profane waters pure.\nFourth: Monitor the water reclamation system's output and efficiency, maintaining sacred functionality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i08",
+    "user_request": "Prayer for regulation of the temperature",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for regulation of the temperature\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "First: Calibrate the temperature through blessed auspex-readings and thermometric divination, identifying deviation from sacred parameters.\nSecond: Execute regulation of the temperature by adjusting coolant flows and thermal-regulator nodes with mechanicus precision.\nThird: Speak the Litany of Thermal Harmony over the temperature systems, commanding the Machine Spirit to restore equilibrium.\nFourth: Verify the temperature achieves and maintains optimal specification through continuous monitoring.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0117_i09",
+    "user_request": "Blessing for the metal casting during preparation",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the metal casting during preparation\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: Purify the metal casting through ritual cleansing of its mold-matrices and casting-sanctuaries with sacred solvents.\nSecond: Prepare the metal casting by heating the crucible to blessed temperatures and invoking the Machine Spirit of metallurgic artifice.\nThird: Perform preparation rituals upon the metal casting, ensuring its molecular structure aligns with the Omnissiah's design.\nFourth: Verify the metal casting's readiness through divination-inspection, confirming it meets all sacred specifications.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

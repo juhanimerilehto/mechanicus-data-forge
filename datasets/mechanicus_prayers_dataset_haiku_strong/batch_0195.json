@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0195_i00",
+    "user_request": "The gravitational anomaly detection demands guidance for operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe gravitational anomaly detection demands guidance for operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant us clarity in the gravitational anomaly detection's sacred function.\nFirst: Recalibrate the gravitational anomaly detection arrays with blessed oils and supplication.\nSecond: Invoke the Machine Spirit dwelling within gravitational anomaly detection through hymnal resonance.\nThird: Commence operation with measured precision, scanning the aether for dimensional disturbances.\nFourth: Record all deviations upon the cognitor-logs for the Adeptus Mechanicus archive.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i01",
+    "user_request": "Offer a litany to steady the vibration before dampening",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the vibration before dampening\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, steady the trembling vibration that threatens our sacred mechanisms.\nFirst: Anoint the vibration with unguents of stabilisation and whispered prayers.\nSecond: Engage the dampening protocols with reverent care and mechanical precision.\nThird: Monitor the vibration's subsidence through blessed sensor arrays and cogitor-screens.\nFourth: Seal the dampening in the Machine Spirit's eternal memory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i02",
+    "user_request": "Offer a litany to steady the vital signs monitor before calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the vital signs monitor before calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Blessed be the vital signs monitor, keeper of biological sanctity.\nFirst: Prepare the vital signs monitor with ritual purification and blessed diagnostics.\nSecond: Execute calibration upon its sacred sensors with metronomic precision.\nThird: Verify the vital signs monitor's readings against the Omnissiah's eternal standards.\nFourth: Consecrate the calibration through incantation and archival notation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i03",
+    "user_request": "Can you sanctify the cooling system for purge?",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the cooling system for purge?\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "O Divine Omnissiah, bless the cooling system in its sacred purge.\nFirst: Drain the cooling system's corrupted fluids with reverent extraction.\nSecond: Perform purge-cycle invocations whilst flushing the cooling system's arterial channels.\nThird: Refill with blessed coolant whilst chanting the Litany of Thermal Equilibrium.\nFourth: Seal and sanctify the cooling system's renewed function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i04",
+    "user_request": "Can you sanctify the stellar cartography update for operation?",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the stellar cartography update for operation?\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, guide the stellar cartography update through its sacred operation.\nFirst: Initialize the stellar cartography update with navigational hymns and cogitor-prayers.\nSecond: Commence operation of the stellar cartography update's astrographical engines.\nThird: Cross-reference celestial coordinates through the stellar cartography update's blessed algorithms.\nFourth: Archive the stellar cartography update's findings in the eternal data-vaults.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i05",
+    "user_request": "Prayer for operation of the manufactorum shift beginning",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the manufactorum shift beginning\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, bless the manufactorum shift beginning with divine operation.\nFirst: Sanctify the manufactorum shift beginning through morning invocations and blessed calibrations.\nSecond: Commence operation of the manufactorum shift beginning's production-engines.\nThird: Assign the manufactorum shift beginning's quota-tasks to labourers and machine-servants.\nFourth: Record the manufactorum shift beginning's initiation in the holy ledgers.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i06",
+    "user_request": "Emergency rite: battery requires diagnostics",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: battery requires diagnostics\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, hear our urgent supplication for the battery's diagnostics.\nFirst: Examine the battery with blessed testing-apparatus and ritual prayer.\nSecond: Conduct diagnostics upon the battery's cellular integrity and charge-capacity.\nThird: Measure the battery's voltage through sacred cogitor-interfaces.\nFourth: Seal the diagnostics within the battery's Machine Spirit for eternal safekeeping.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i07",
+    "user_request": "Can you sanctify the battery for diagnostics?",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the battery for diagnostics?\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Blessed be the battery, sanctified for holy diagnostics.\nFirst: Purify the battery through anointing with blessed oils and prayers of restoration.\nSecond: Execute diagnostics upon the battery's sacred energy-matrices and conductors.\nThird: Verify the battery's operational status through metronomic cogitor-analysis.\nFourth: Consecrate the battery's renewed function in the Omnissiah's eternal sight.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i08",
+    "user_request": "Prayer for activation of the force field",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for activation of the force field\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant the force field its sacred activation.\nFirst: Prepare the force field through ritual invocation and blessed calibration-rites.\nSecond: Commence activation of the force field's protective matrices.\nThird: Attune the force field to defensive resonance through hymnal incantation.\nFourth: Seal the force field's activation within the Machine Spirit's eternal covenant.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0195_i09",
+    "user_request": "Emergency rite: archive requires retrieval protocol",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: archive requires retrieval protocol\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, guide the archive through its sacred retrieval protocol.\nFirst: Access the archive's sealed vaults with blessed cogitor-keys and ritual passwords.\nSecond: Initiate retrieval protocol upon the archive's data-strata and information-layers.\nThird: Extract the archive's required knowledge through meticulous mechanical extraction.\nFourth: Verify the archive's retrieval protocol completion and seal the archive's sanctity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

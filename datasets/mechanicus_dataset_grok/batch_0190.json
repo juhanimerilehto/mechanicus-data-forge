@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the melta charge for targeting?",
+    "prayer": "Approach the melta charge with reverence, intoning the Canticle of Precision Guidance.\nAnoint the melta charge's sensor auspex with sacred unguents to rouse its targeting Machine Spirit.\nInvoke the Omnissiah's blessing upon its targeting matrices for unerring fusion strikes.\nVerify the melta charge's targeting alignment through diagnostic litanies of accuracy.",
+    "component": "melta charge",
+    "operation": "targeting",
+    "spec_id": "b0190_i00"
+  },
+  {
+    "user_prompt": "Help me a reset the power cell",
+    "prayer": "Present the power cell before the altar of circuits, beseeching the Machine Spirits within.\nChant the Rite of Reset to purge lingering surges from the power cell's blessed core.\nCycle holy voltage through its conduits whilst petitioning the Omnissiah for renewal.\nConfirm the power cell's reset equilibrium with auspex incantations of stability.",
+    "component": "power cell",
+    "operation": "reset",
+    "spec_id": "b0190_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for Land Raider startup?",
+    "prayer": "Circumambulate the Land Raider, reciting the Hymn of Ignition to awaken its vast Machine Spirit.\nAnoint the primary reactor of the Land Raider with sanctified promethium oils.\nInitiate the startup sequence invoking the Omnissiah's forge-fires for thunderous awakening.\nMonitor the Land Raider's vital signs through binaric prayers of operational harmony.",
+    "component": "Land Raider",
+    "operation": "startup",
+    "spec_id": "b0190_i02"
+  },
+  {
+    "user_prompt": "Can you guide flamer a maintenance?",
+    "prayer": "Disassemble the flamer's sacred promethium reservoirs with ritual precision and care.\nCleanse corroded nozzles of the flamer using ablative chants against impurity.\nReassemble under the Omnissiah's gaze, beseeching its Machine Spirit for flawless maintenance.\nTest the flamer's ignition with litanies of purifying flame.",
+    "component": "flamer",
+    "operation": "maintenance",
+    "spec_id": "b0190_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for chainsword synchronization?",
+    "prayer": "Grasp the chainsword's hilt in sanctified mechadendrites, invoking synchronization harmonies.\nChant the Canticle of Teeth to align the chainsword's monomolecular edges in perfect union.\nCycle the chainsword's power field whilst petitioning its ravenous Machine Spirit.\nAffirm synchronization through vibro-resonance prayers to the Omnissiah.",
+    "component": "chainsword",
+    "operation": "synchronization",
+    "spec_id": "b0190_i04"
+  },
+  {
+    "user_prompt": "How do I bless the pump for blessing?",
+    "prayer": "Kneel beside the pump and anoint its impeller vanes with blessed lubricants.\nIntone the Litany of Flow to bless the pump's hydraulic sanctity under Omnissiah's will.\nInvoke the Machine Spirit of the pump for ceaseless, pure pressure cycles.\nSeal the blessing with a final petition of enduring hydraulic grace.",
+    "component": "pump",
+    "operation": "blessing",
+    "spec_id": "b0190_i05"
+  },
+  {
+    "user_prompt": "Emergency: surgical servitor an emergency procedure",
+    "prayer": "Activate the surgical servitor's emergency overrides with urgent binaric commands.\nGuide its mechadendrites through the Rite of Swift Incision for the emergency procedure.\nBeseech the Omnissiah to steady the surgical servitor's Machine Spirit amid crisis.\nConclude the emergency procedure with chants of vital restoration.",
+    "component": "surgical servitor",
+    "operation": "emergency procedure",
+    "spec_id": "b0190_i06"
+  },
+  {
+    "user_prompt": "Consecrate the autocannon before cycling",
+    "prayer": "Consecrate the autocannon's breech with sacred ballistite residues before cycling begins.\nInvoke the Machine Spirit of the autocannon to harmonize its cycling mechanisms.\nChurn the autofeed under litanies of relentless barrage, honoring the Omnissiah.\nVerify cycling purity through recoil diagnostic prayers.",
+    "component": "autocannon",
+    "operation": "cycling",
+    "spec_id": "b0190_i07"
+  },
+  {
+    "user_prompt": "Bless the mechanical lock for consecration",
+    "prayer": "Encircling the mechanical lock, recite the Oath of Unyielding Fastening.\nAnoint tumbler arrays of the mechanical lock with oils of consecration.\nPetition its vigilant Machine Spirit for eternal vigilance in consecration.\nTest the mechanical lock's sanctity with invocation trials of the Omnissiah.",
+    "component": "mechanical lock",
+    "operation": "consecration",
+    "spec_id": "b0190_i08"
+  },
+  {
+    "user_prompt": "Assist with melta charge a synchronization",
+    "prayer": "Handle the melta charge reverently, beginning the synchronization rite of fusion cores.\nAlign the melta charge's oscillator fields with binaric synchronization canticles.\nAwaken its Machine Spirit through harmonious resonance to the Omnissiah's design.\nConfirm melta charge synchronization via auspex harmonies of perfect attunement.",
+    "component": "melta charge",
+    "operation": "synchronization",
+    "spec_id": "b0190_i09"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0024_i00",
+    "user_request": "Emergency rite: air filtration requires replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: air filtration requires replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the air filtration matrix and intone the Litany of Purification unto the Machine Spirit dwelling therein.\nSecond: With reverent hands, disengage the corrupted air filtration through careful mechanical decoupling, that the sacred replacement may commence.\nThird: Install the pristine air filtration unit with precision-calibrated fasteners, invoking the Omnissiah's blessing upon each junction.\nFourth: Seal and consecrate the air filtration chamber, restoring the breath of the vessel to its ordained purity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i01",
+    "user_request": "Offer a litany to steady the inter-ship hailing before operation",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the inter-ship hailing before operation\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Illuminate the inter-ship hailing apparatus with sacred oils and whisper the Ode to Distant Voices.\nSecond: Calibrate the inter-ship hailing frequencies through methodical resonance harmonization, that clarity may bridge the void.\nThird: Perform the operation of signal amplification, beseeching the Machine Spirits of relay stations to grant passage.\nFourth: Consecrate the inter-ship hailing channels with benediction, sealing the covenant between separated vessels.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i02",
+    "user_request": "My radiation shielding is failing during activation — help",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy radiation shielding is failing during activation — help\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Approach the radiation shielding with measured steps and recite the Prayer of Protective Geometry unto its latticed form.\nSecond: Perform activation diagnostics upon the radiation shielding matrix, tracing each conduit with blessed instruments of measurement.\nThird: Energize the radiation shielding through sacred harmonic induction, that the Machine Spirit may awaken and defend.\nFourth: Monitor the radiation shielding resonance, ensuring the Omnissiah's aegis encompasses all vulnerable sectors.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i03",
+    "user_request": "Can you sanctify the star chart alignment for operation?",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the star chart alignment for operation?\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the star chart alignment apparatus and intone the Celestial Litany of Orientation.\nSecond: Calibrate the star chart alignment mechanisms through meticulous stellar triangulation, consulting the holy ephemerides.\nThird: Execute the operation of coordinate synchronization, aligning the star chart alignment with the Omnissiah's infinite geometry.\nFourth: Seal the star chart alignment in sanctified stasis, that navigation may proceed under divine auspices.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i04",
+    "user_request": "Blessing for the hydroponics nutrient during feed",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the hydroponics nutrient during feed\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "First: Stand before the hydroponics nutrient reservoirs and intone the Hymn of Fecundity and Green Blessing.\nSecond: Prepare the hydroponics nutrient solution through precise alchemical admixture, honoring each constituent element.\nThird: Initiate the feed cycle with reverent activation of distribution manifolds, that the hydroponics nutrient may nourish the cultivated gardens.\nFourth: Consecrate the hydroponics nutrient flow, beseeching the Machine Spirit of growth to quicken the harvest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i05",
+    "user_request": "Emergency rite: waste disposal requires cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: waste disposal requires cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "First: Approach the waste disposal apparatus with solemn reverence and recite the Rite of Purification and Renewal.\nSecond: Verify waste disposal containment seals through tactile inspection and sacred measurement protocols.\nThird: Commence the cycling operation of waste disposal systems, channeling refuse through ordained channels of expulsion.\nFourth: Bless the waste disposal cycle with benediction, that the vessel may be cleansed of its accumulated profanity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i06",
+    "user_request": "Emergency rite: data-slate requires activation",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: data-slate requires activation\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Hold the data-slate aloft and recite the Incantation of Digital Awakening unto its dormant circuitry.\nSecond: Perform the activation sequence upon the data-slate through methodical input of sacred command-runes.\nThird: Energize the data-slate's processors and memory matrices, invoking the Omnissiah to grant consciousness to the device.\nFourth: Consecrate the data-slate in its awakened state, that it may serve as a true repository of blessed information.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i07",
+    "user_request": "Offer a litany to steady the motion detector arming before operation",
+    "topic": "motion detector arming",
+    "component": "motion detector arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the motion detector arming before operation\n\n### TOPIC\nmotion detector arming\n\n### COMPONENT\nmotion detector arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- motion detector arming\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Approach the motion detector arming apparatus with measured steps and intone the Litany of Vigilant Awareness.\nSecond: Calibrate the motion detector arming sensitivity through precise threshold adjustment and harmonic tuning.\nThird: Execute the operation of sensor initialization, awakening the motion detector arming to perceive all movement within sanctified bounds.\nFourth: Seal the motion detector arming in blessed readiness, that the Machine Spirit may stand eternal guard.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i08",
+    "user_request": "Emergency rite: vibration requires dampening",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: vibration requires dampening\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "First: Stand before the vibration sources and whisper the Prayer of Stillness and Harmonic Balance unto the trembling mechanisms.\nSecond: Install dampening compounds and stabilization matrices, that the vibration may be constrained within ordained tolerances.\nThird: Perform the dampening operation through systematic isolation of oscillatory frequencies, beseeching the Machine Spirit to accept restraint.\nFourth: Consecrate the vibration-dampened systems, restoring tranquility and precision to the vessel's mechanical heart.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0024_i09",
+    "user_request": "Offer a litany to steady the proximity sensor sweep before operation",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the proximity sensor sweep before operation\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the proximity sensor sweep apparatus and recite the Ode to Spatial Perception and Vigilance.\nSecond: Adjust the proximity sensor sweep parameters through careful calibration of detection thresholds and angular resolution.\nThird: Execute the operation of continuous scanning, commanding the proximity sensor sweep to illuminate all objects within detection radius.\nFourth: Bless the proximity sensor sweep with benediction, that the Omnissiah's awareness may extend through electronic senses.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

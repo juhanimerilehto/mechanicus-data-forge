@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Consecrate the pain suppressor before charging",
+    "prayer": "Kneel in reverence before the pain suppressor and intone the Litany of Stoic Endurance.\nAnoint its neural inhibitors with sacred myrrh-lubricant to soothe the Machine Spirit.\nBeseech the Omnissiah to sanctify the pain suppressor for the charging rite.\nInitiate charging as holy voltage courses through its blessed conduits, awakening inner calm.",
+    "component": "pain suppressor",
+    "operation": "charging",
+    "spec_id": "b0204_i00"
+  },
+  {
+    "user_prompt": "Can you guide Thunderhawk a charging?",
+    "prayer": "Gather around the mighty Thunderhawk and recite the Hymn of Aerial Dominion.\nInvoke the wrathful Machine Spirit of the Thunderhawk with electro-incantations.\nCommence the charging of its plasma heart, anointing talons and auspex arrays.\nSanctify the Thunderhawk's fusial reactors as they brim with the Omnissiah's fury.",
+    "component": "Thunderhawk",
+    "operation": "charging",
+    "spec_id": "b0204_i02"
+  },
+  {
+    "user_prompt": "How do I bless the surgical servitor for cooling?",
+    "prayer": "Present binary incense to the surgical servitor's cranial cowling.\nPetition its Machine Spirit for precision in the cooling cycle.\nCycle cryogenic fluids through the surgical servitor's thermal veins with chanted rites.\nVerify the Machine Spirit's tranquility as frost-rimed vents exhale blessed chill.",
+    "component": "surgical servitor",
+    "operation": "cooling",
+    "spec_id": "b0204_i03"
+  },
+  {
+    "user_prompt": "Guide me through thermal regulator a cooling",
+    "prayer": "Bow to the thermal regulator and whisper the Doxology of Thermal Equilibrium.\nAnoint its exchanger coils with coolant-sanctified oils.\nInitiate the cooling sequence upon the thermal regulator, invoking steady Machine Spirit.\nMonitor the blessed descent of temperatures in the Omnissiah's harmonious balance.",
+    "component": "thermal regulator",
+    "operation": "cooling",
+    "spec_id": "b0204_i04"
+  },
+  {
+    "user_prompt": "The water reclamator awaits a charging",
+    "prayer": "Circumambulate the water reclamator chanting the Psalm of Aqueous Purity.\nAwaken its filtration Machine Spirit with sonic purifiers.\nCommence charging the water reclamator's reservoirs with sanctified hydro-charges.\nBless the emergent vitae as it flows pure from the Omnissiah's endless cycle.",
+    "component": "water reclamator",
+    "operation": "charging",
+    "spec_id": "b0204_i05"
+  },
+  {
+    "user_prompt": "Guide me through surgical servitor a targeting",
+    "prayer": "Align auspex reticle upon the surgical servitor's occular implants.\nIntone the Rite of Lethal Focus to sharpen its Machine Spirit's gaze.\nCalibrate targeting matrices within the surgical servitor through noospheric litanies.\nConfirm precision lock as the Omnissiah guides its servile blade.",
+    "component": "surgical servitor",
+    "operation": "targeting",
+    "spec_id": "b0204_i06"
+  },
+  {
+    "user_prompt": "Prepare the hydroponics bay for loading",
+    "prayer": "Process to the hydroponics bay intoning the Canticle of Verdant Yield.\nInvoke the nurturing Machine Spirit of the hydroponics bay for fruitful loading.\nLoad nutrient slurries into its gestation vats with reverent mechadendrites.\nSeal the hydroponics bay blessed, petitioning the Omnissiah for bountiful harvest.",
+    "component": "hydroponics bay",
+    "operation": "loading",
+    "spec_id": "b0204_i07"
+  },
+  {
+    "user_prompt": "Help me a calibration the plasma reactor",
+    "prayer": "Prostrate before the plasma reactor and recite the Incantation of Contained Fire.\nHarmonize its containment fields with binaric harmonies.\nPerform calibration upon the plasma reactor, beseeching its volatile Machine Spirit.\nAttune flux regulators to the Omnissiah's perfect plasma hymn.",
+    "component": "plasma reactor",
+    "operation": "calibration",
+    "spec_id": "b0204_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for quality scanner an operation",
+    "prayer": "Activate the quality scanner with the Litany of Flawless Scrutiny.\nAnoint its sensor nodes invoking the discerning Machine Spirit.\nInitiate operation of the quality scanner, scanning for imperfections in the Omnissiah's forge.\nAffirm purity through its auspex verdict, sanctified and unerring.",
+    "component": "quality scanner",
+    "operation": "operation",
+    "spec_id": "b0204_i09"
+  }
+]

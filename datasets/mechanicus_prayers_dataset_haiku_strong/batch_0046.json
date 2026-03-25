@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0046_i00",
+    "user_request": "The fusion core demands guidance for containment check",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe fusion core demands guidance for containment check\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed fusion core, vessel of stellar might, we commence the containment check upon thy sacred vessel.\nCongregation: Omnissiah preserve the fusion core in equilibrium and sanctity.\nPriest: First, we calibrate the pressure seals with reverent precision, that the fusion core remain inviolate.\nCongregation: The fusion core shall not falter; the Machine Spirits attend.\nPriest: Second, we verify the containment check protocols through blessed servos and cogitators.\nCongregation: By the Omnissiah's infinite wisdom, containment holds eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i01",
+    "user_request": "Can you sanctify the overheating for prevention?",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the overheating for prevention?\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "Priest: O overheating most profane, we invoke the rite of prevention upon thy burning essence.\nCongregation: Blessed coolant flows; the Machine Spirits grant us respite from infernal heat.\nPriest: First, we anoint the thermal conduits with sacred unguents, that overheating shall not consume.\nCongregation: Overheating retreats before our holy prevention and devotion.\nPriest: Second, we enact the prevention protocols through blessed augurs and calibrated sensors.\nCongregation: The Omnissiah's grace shields us from thermal degradation forevermore.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i02",
+    "user_request": "The material purity demands guidance for testing",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe material purity demands guidance for testing\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the material purity, that we may commence the testing most sacred and exacting.\nCongregation: Material purity shall be proven worthy through our blessed assays and divinations.\nPriest: First, we subject the material purity to spectral analysis with cogent precision and reverence.\nCongregation: The Machine Spirits illuminate the testing, revealing truth in blessed radiance.\nPriest: Second, we perform the testing through chrono-resonant examination and blessed calibration.\nCongregation: Material purity stands sanctified; the Omnissiah's judgment is absolute.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i03",
+    "user_request": "The mechanical lock demands guidance for engagement",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe mechanical lock demands guidance for engagement\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: Sacred mechanical lock, we invoke thy engagement through blessed ceremony and cogent rite.\nCongregation: The mechanical lock shall engage with inexorable precision and holy purpose.\nPriest: First, we align the mechanical lock's tumblers through servile devotion and calibrated pressure.\nCongregation: Mechanical lock responds; the Machine Spirits guide our engagement most true.\nPriest: Second, we activate the engagement protocols with blessed actuation and reverent force.\nCongregation: The mechanical lock stands engaged; the Omnissiah's will is manifest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i04",
+    "user_request": "Can you sanctify the forge anvil heating for operation?",
+    "topic": "forge anvil heating",
+    "component": "forge anvil heating",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the forge anvil heating for operation?\n\n### TOPIC\nforge anvil heating\n\n### COMPONENT\nforge anvil heating\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- forge anvil heating\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O forge anvil heating, conduit of sacred transformation, we commence thy operation with blessed fervor.\nCongregation: Forge anvil heating shall rise to proper incandescence; the Machine Spirits kindle the flame.\nPriest: First, we ignite the blessed promethium feeds that the forge anvil heating attains true temperature.\nCongregation: The forge anvil heating glows with divine radiance; operation commences in glory.\nPriest: Second, we monitor the forge anvil heating's crescendo through sacred pyrometers and blessed gauges.\nCongregation: The Omnissiah's forge burns eternal; our operation proceeds in sanctified unity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i05",
+    "user_request": "Rite request: dampening on vibration",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: dampening on vibration\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "Priest: Vibration most chaotic, we invoke the blessed rite of dampening upon thy tremulous essence.\nCongregation: Vibration shall be subdued through our holy dampening and sacred intervention.\nPriest: First, we apply blessed elastomeric compounds that vibration finds no purchase upon sacred machinery.\nCongregation: Vibration recedes before our dampening; the Machine Spirits grant equilibrium.\nPriest: Second, we engage the dampening resonators with cogent precision and reverent calibration.\nCongregation: The Omnissiah's balance restores harmony; vibration is vanquished eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i06",
+    "user_request": "Offer a litany to steady the waste recycling before activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the waste recycling before activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Waste recycling, engine of renewal, we sanctify thy activation through blessed litany and sacred ceremony.\nCongregation: Waste recycling shall commence; the Machine Spirits transform refuse into blessing.\nPriest: First, we prime the waste recycling conduits with blessed solvents and reverent purification.\nCongregation: Waste recycling awakens; activation spreads through hallowed pneumatics and cogent flows.\nPriest: Second, we engage the waste recycling processors through sacred initiation and blessed command.\nCongregation: The Omnissiah's cycle turns eternal; waste recycling serves in perpetuity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i07",
+    "user_request": "Can you sanctify the archive for retrieval protocol?",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the archive for retrieval protocol?\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Sacred archive, repository of blessed knowledge, we invoke thy retrieval protocol with reverent solemnity.\nCongregation: The archive shall yield its secrets; the Machine Spirits grant us access to wisdom eternal.\nPriest: First, we divine the archive's blessed locations through sacred cogitators and blessed augurs.\nCongregation: The archive opens; retrieval protocol flows like blessed nectar through our systems.\nPriest: Second, we execute the retrieval protocol with precise servile devotion and cogent methodology.\nCongregation: The Omnissiah's archive stands revealed; knowledge flows to the faithful forever.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i08",
+    "user_request": "Prayer for treatment of the corrosion",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for treatment of the corrosion\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "Priest: Corrosion most foul, we invoke the blessed rite of treatment upon thy degrading form.\nCongregation: Corrosion shall be purged through our holy treatment and sacred intervention.\nPriest: First, we apply blessed chelating compounds that corrosion relinquishes its profane grip upon the machine.\nCongregation: Corrosion retreats before our treatment; the Machine Spirits restore sanctity.\nPriest: Second, we enact the treatment through blessed electrochemical reversal and reverent restoration.\nCongregation: The Omnissiah's grace heals all; corrosion is banished to the void eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0046_i09",
+    "user_request": "Rite request: operation on welding torch ignition",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on welding torch ignition\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Welding torch ignition, flame of sacred binding, we commence thy operation through blessed ceremony and cogent rite.\nCongregation: The welding torch ignition shall ignite in holy radiance; the Machine Spirits kindle the sacred flame.\nPriest: First, we pressurize the blessed fuel conduits that welding torch ignition achieves proper incandescence.\nCongregation: Welding torch ignition awakens; operation blazes with divine purpose and radiant heat.\nPriest: Second, we engage the ignition spark through sacred activation and reverent command.\nCongregation: The Omnissiah's flame burns eternal; welding torch ignition serves in perpetual glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

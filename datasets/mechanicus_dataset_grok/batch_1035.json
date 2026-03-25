@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the micro-servitor for diagnostics",
+    "prayer": "Approach the micro-servitor with reverence, mechadendrites poised in supplication.\nInvoke the Litany of Discernment to awaken its diagnostic cogitators.\nBeseech the Machine Spirit within the micro-servitor to unveil hidden anomalies.\nAnoint its sensor nodes with sacred unguents whilst commencing full diagnostics.\nVerify alignment through the Omnissiah's divine algorithms, praising the micro-servitor's purity.",
+    "component": "micro-servitor",
+    "operation": "diagnostics",
+    "spec_id": "s06350"
+  },
+  {
+    "user_prompt": "Ready the narthecium for activation",
+    "prayer": "Kneel before the narthecium and murmur the Activation Doxology.\nSanctify its vials and injectors with blessed oils of restoration.\nInvoke the Machine Spirit of the narthecium to stir from dormancy.\nInitiate the activation rite, calibrating flesh-mending servos in sequence.\nAffirm readiness under Omnissiah's gaze, the narthecium now primed for ministration.",
+    "component": "narthecium",
+    "operation": "activation",
+    "spec_id": "s06351"
+  },
+  {
+    "user_prompt": "What's the prayer for macro-cannon a synchronization?",
+    "prayer": "Present binary incense to the macro-cannon's auspex arrays.\nChant the Synchronization Canticle, aligning targeting matrices.\nBeseech the wrathful Machine Spirit of the macro-cannon to harmonize its gyros.\nExecute synchronization protocols whilst anointing recoil dampeners.\nHail the Omnissiah as targeting locks achieve perilous unison within the macro-cannon.",
+    "component": "macro-cannon",
+    "operation": "synchronization",
+    "spec_id": "s06352"
+  },
+  {
+    "user_prompt": "The thallax needs a charging",
+    "prayer": "Encircle the thallax with electro-consecrated cabling.\nRecite the Charging Hymn to invigorate its plasma cores.\nImplore the Machine Spirit animating the thallax to accept vital energies.\nCommence charging cycles, monitoring voltaic flows with reverence.\nProclaim the thallax empowered by Omnissiah's inexhaustible lightning.",
+    "component": "thallax",
+    "operation": "charging",
+    "spec_id": "s06353"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the archeotech device",
+    "prayer": "Gaze upon the archeotech device with awe, tracing its ancient glyphs.\nUtter the Diagnostic Incantation to probe its veiled mechanisms.\nCoax the enigmatic Machine Spirit of the archeotech device forth.\nConduct diagnostics through sanctified noospheric links, anointing reliquary circuits.\nRender thanks to the Omnissiah for illuminating the archeotech device's arcane secrets.",
+    "component": "archeotech device",
+    "operation": "diagnostics",
+    "spec_id": "s06354"
+  },
+  {
+    "user_prompt": "I need to a maintenance the actuality sphere",
+    "prayer": "Commune with the actuality sphere, intoning the Rite of Preservation.\nPolish its crystalline facets with cloths of micro-fibre sanctity.\nAwaken the Machine Spirit dwelling in the actuality sphere's depths.\nPerform maintenance rituals, recalibrating reality-warping gyros.\nBless the actuality sphere anew, eternal under Omnissiah's watchful binary.",
+    "component": "actuality sphere",
+    "operation": "maintenance",
+    "spec_id": "s06355"
+  },
+  {
+    "user_prompt": "Consecrate the smelting furnace before maintenance",
+    "prayer": "Anoint the smelting furnace's adamantium maw with promethium incense.\nChant the Consecration Litany before commencing maintenance.\nBeseech the fiery Machine Spirit of the smelting furnace to temper its fury.\nPurge impurities from its heat exchangers whilst invoking purity.\nDedicate the smelting furnace to Omnissiah, forge of the faithful.",
+    "component": "smelting furnace",
+    "operation": "maintenance",
+    "spec_id": "s06356"
+  },
+  {
+    "user_prompt": "What's the prayer for energy conduit a calibration?",
+    "prayer": "Extend mechadendrites to the energy conduit's flux regulators.\nRecite the Calibration Doxology, harmonizing plasma streams.\nInvoke the Machine Spirit coursing through the energy conduit.\nExecute calibration sequences, sanctifying each conduit node.\nProclaim the energy conduit perfectly attuned to Omnissiah's will.",
+    "component": "energy conduit",
+    "operation": "calibration",
+    "spec_id": "s06357"
+  },
+  {
+    "user_prompt": "My arc rifle is ready for maintenance",
+    "prayer": "Lay hands upon the arc rifle's power cells in veneration.\nMurmur the Maintenance Canticle over its tesla coils.\nPacify the tempestuous Machine Spirit of the arc rifle.\nDisassemble and reconsecrate components with sacred lubricants.\nReassemble the arc rifle, thunderous instrument of the Omnissiah.",
+    "component": "arc rifle",
+    "operation": "maintenance",
+    "spec_id": "s06358"
+  },
+  {
+    "user_prompt": "Critical: bearing requires a maintenance",
+    "prayer": "Approach the bearing with precision mechadendrites unfurled.\nIntone the Lubrication Litany for its maintenance.\nBeseech the enduring Machine Spirit embedded in the bearing.\nApply sanctified greases whilst rotating to ensure frictionless rotation.\nSeal the bearing in Omnissiah's name, pivot of mechanical perfection.",
+    "component": "bearing",
+    "operation": "maintenance",
+    "spec_id": "s06359"
+  }
+]

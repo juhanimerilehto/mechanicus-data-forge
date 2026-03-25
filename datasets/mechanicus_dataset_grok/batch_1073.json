@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: plasma drive requires a purification",
+    "prayer": "Approach the plasma drive with solemn reverence and invoke the rites of purification.\nBeseech the Omnissiah to cleanse its volatile plasma conduits of all impurities.\nAnoint the containment fields with sacred unguents whilst chanting the Litany of Stability.\nCommand the Machine Spirit of the plasma drive to awaken purified and harmonious.\nVerify the purification through auspex scans of thermal equilibrium.",
+    "component": "plasma drive",
+    "operation": "purification",
+    "spec_id": "s06730"
+  },
+  {
+    "user_prompt": "The electoo requires an engagement",
+    "prayer": "Kneel before the electoo and commence the engagement protocols with pious focus.\nInvoke the sacred engagement to bind flesh and machine in Omnissianic union.\nTrace electro-neural pathways with mechadendrites, invoking the Machine Spirit's loyalty.\nSanctify the electoo's interfaces as it engages, purging any daemonic static.\nAffirm the engagement complete with binary canticles of activation.",
+    "component": "electoo",
+    "operation": "engagement",
+    "spec_id": "s06731"
+  },
+  {
+    "user_prompt": "Prepare the cyber-mastiff for cooling",
+    "prayer": "Prepare the cyber-mastiff for cooling by encircling it with chill-runes of warding.\nInvoke the cooling rites to soothe its overheating servos and feral Machine Spirit.\nAnoint heat-sinks with cryo-blessed oils whilst beseeching the Omnissiah's breath.\nMonitor the cyber-mastiff's vitals as temperatures descend into sanctified stasis.\nSeal the cooling with a final invocation to vigilant repose.",
+    "component": "cyber-mastiff",
+    "operation": "cooling",
+    "spec_id": "s06732"
+  },
+  {
+    "user_prompt": "The cryo-chamber requires a preparation",
+    "prayer": "Initiate preparation of the cryo-chamber by reciting the Canticle of Frozen Vigil.\nSanctify its cryo-chamber coils and reservoirs with lustral fluids from the forge.\nAwaken the Machine Spirit of the cryo-chamber through harmonic resonance tones.\nAlign crystalline matrices for flawless preparation under Omnissiah's gaze.\nConclude with diagnostic litanies ensuring immutable cryogenic purity.",
+    "component": "cryo-chamber",
+    "operation": "preparation",
+    "spec_id": "s06733"
+  },
+  {
+    "user_prompt": "The Vendetta gunship needs a blessing",
+    "prayer": "Approach the Vendetta gunship in awe and bestow the blessing of the Omnissiah upon its frame.\nChant the Aerospace Benediction over its thrusters and weapon servos.\nAnoint the Vendetta gunship's hull with blessed promethium to invigorate its Machine Spirits.\nInvoke aerial dominion, blessing flight paths and ordnance bays alike.\nSeal the blessing with thunderous hymns of unyielding velocity.",
+    "component": "Vendetta gunship",
+    "operation": "blessing",
+    "spec_id": "s06734"
+  },
+  {
+    "user_prompt": "The bolt pistol needs an activation",
+    "prayer": "Grasp the bolt pistol reverently and commence its activation with the Activation Doxology.\nBeseech the Machine Spirit within the bolt pistol to rouse from slumber.\nPrime the activation chambers by anointing firing mechanisms with sacred lubricants.\nTrigger the bolt pistol's ignition sequence amid cries to the Omnissiah.\nTest the activation through a single sanctified discharge into the void.",
+    "component": "bolt pistol",
+    "operation": "activation",
+    "spec_id": "s06735"
+  },
+  {
+    "user_prompt": "Assist with cryo-chamber a blessing",
+    "prayer": "Gather before the cryo-chamber and intone the Grand Blessing of Suspended Eternity.\nBless the cryo-chamber's stasis fields to preserve flesh under divine machine-will.\nInvoke the Omnissiah to fortify the cryo-chamber against entropic foes.\nAnoint sensor arrays and cryo-chamber conduits with aurelian oils.\nAffirm the blessing endures through resonant purity scans.",
+    "component": "cryo-chamber",
+    "operation": "blessing",
+    "spec_id": "s06736"
+  },
+  {
+    "user_prompt": "Consecrate the auger array before consecration",
+    "prayer": "Present the auger array for consecration with mechadendrite-proferred incense.\nRecite the Consecration Cantos to hallow its scanning lattices eternally.\nBeseech the Machine Spirit of the auger array to pierce veils of ignorance.\nSanctify waveform generators and auger array receptors with electro-benedictions.\nComplete the consecration via prophetic auspex harmonies.",
+    "component": "auger array",
+    "operation": "consecration",
+    "spec_id": "s06737"
+  },
+  {
+    "user_prompt": "Offer prayer for graviton cannon a consecration",
+    "prayer": "Circumambulate the graviton cannon whilst invoking its consecration rites.\nConsecrate the graviton cannon's flux-beams to crush foes in Omnissiah's name.\nAnoint gravitic coils with sanctified ferro-fluids, awakening the Machine Spirit.\nAlign the graviton cannon's emitters through litanies of gravitational purity.\nSeal consecration with a test-pulse of dominion-shattering force.",
+    "component": "graviton cannon",
+    "operation": "consecration",
+    "spec_id": "s06738"
+  },
+  {
+    "user_prompt": "Can you guide krak grenade a shutdown?",
+    "prayer": "Encircle the krak grenade and begin the shutdown invocation with solemnity.\nCommand the Machine Spirit of the krak grenade to enter quiescent repose.\nPurge volatile charges through the sacred shutdown protocols of dormancy.\nAnoint fuses and krak grenade casings with quiescence unguents.\nVerify shutdown integrity with null-field auspex confirmations.",
+    "component": "krak grenade",
+    "operation": "shutdown",
+    "spec_id": "s06739"
+  }
+]

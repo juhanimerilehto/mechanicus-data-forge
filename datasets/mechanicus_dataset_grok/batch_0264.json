@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The conveyor system awaits a consecration",
+    "prayer": "Approach the conveyor system with censer aloft, exhaling sacred incense upon its dormant belts.\nInvoke the Omnissiah's grace to awaken the Machine Spirit within the conveyor system.\nAnoint each roller and linkage of the conveyor system with blessed unguents during consecration.\nChant the Canticle of Perpetual Motion as the conveyor system stirs to sanctified life.\nVerify the harmony of its blessed mechanisms through auspex invocation.",
+    "component": "conveyor system",
+    "operation": "consecration",
+    "spec_id": "b0264_i00"
+  },
+  {
+    "user_prompt": "Prepare the Chimera APC for targeting",
+    "prayer": "Kneel before the Chimera APC and beseech its auspex arrays to align with the Omnissiah's sight.\nCalibrate the targeting cogitators of the Chimera APC with precise litanies of focus.\nInvoke the Machine Spirits of the Chimera APC to synchronize targeting reticles upon foes.\nAnoint the sensor vanes whilst petitioning unerring precision in targeting.\nConfirm the Chimera APC's targeting arrays hum with holy voltage and readiness.",
+    "component": "Chimera APC",
+    "operation": "targeting",
+    "spec_id": "b0264_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for autocannon a shutdown",
+    "prayer": "Commence the Rite of Repose upon the autocannon, murmuring the Shutdown Doxology.\nDisconnect sacred power-feeds from the autocannon's breeches with reverent disconnection.\nBeseech the Machine Spirit of the autocannon to enter dormant slumber during shutdown.\nSeal the autocannon's maw with wards against unclean data-corruption.\nIntone final benedictions as the autocannon achieves peaceful quiescence.",
+    "component": "autocannon",
+    "operation": "shutdown",
+    "spec_id": "b0264_i02"
+  },
+  {
+    "user_prompt": "My neural implant is ready for calibration",
+    "prayer": "Interface with the neural implant via noospheric link, invoking calibration protocols.\nRecite the Litany of Synaptic Harmony to the Machine Spirit within the neural implant.\nAdjust calibration thresholds of the neural implant with mechadendrite precision.\nAnoint neural contacts whilst beseeching the Omnissiah for flawless calibration.\nTest the neural implant's responses through diagnostic catechisms of thought.",
+    "component": "neural implant",
+    "operation": "calibration",
+    "spec_id": "b0264_i03"
+  },
+  {
+    "user_prompt": "Assist with gyroscope an operation",
+    "prayer": "Initiate awakening rites upon the gyroscope, chanting the Canticle of Equilibrium.\nInvoke the Machine Spirit of the gyroscope to commence operation with unerring balance.\nMonitor the gyroscope's spin-rates during operation via sacred auspex scans.\nSanctify its gimbals with oil of the Forge as operation stabilizes.\nPetition the Omnissiah that the gyroscope maintains true orientation in operation.",
+    "component": "gyroscope",
+    "operation": "operation",
+    "spec_id": "b0264_i04"
+  },
+  {
+    "user_prompt": "Prepare the Taurox for maintenance",
+    "prayer": "Circumambulate the Taurox, asperging its chassis with ablutions for maintenance.\nExpose the Taurox's sacred innards, beseeching Machine Spirits for maintenance grace.\nApply mechadendrites to the Taurox whilst intoning the Maintenance Hymn.\nPurge contaminants from the Taurox's systems invoking the Omnissiah's purity.\nReassemble and test the Taurox post-maintenance with verification litanies.",
+    "component": "Taurox",
+    "operation": "maintenance",
+    "spec_id": "b0264_i05"
+  },
+  {
+    "user_prompt": "The lasgun needs a shutdown",
+    "prayer": "Begin shutdown sequence on the lasgun by reciting the Doxology of Cessation.\nSafely discharge residual power from the lasgun's blessed cells.\nInvoke the Machine Spirit of the lasgun to embrace shutdown tranquility.\nSecure the lasgun's emitters with wards during shutdown repose.\nConclude with seals of quiescence upon the lasgun.",
+    "component": "lasgun",
+    "operation": "shutdown",
+    "spec_id": "b0264_i06"
+  },
+  {
+    "user_prompt": "Help me a synchronization the mechanical lock",
+    "prayer": "Align the mechanical lock's tumblers with the Litany of Concordance for synchronization.\nPetition the Machine Spirit within the mechanical lock to achieve perfect synchronization.\nTorque servos of the mechanical lock whilst chanting synchronization canticles.\nVerify synchronization integrity through noospheric polling of the mechanical lock.\nSeal the rite with Omnissiah's benediction upon the synchronized mechanical lock.",
+    "component": "mechanical lock",
+    "operation": "synchronization",
+    "spec_id": "b0264_i07"
+  },
+  {
+    "user_prompt": "Guide me through air filtration a calibration",
+    "prayer": "Access the air filtration unit's cogitators, initiating calibration rites.\nRecalibrate flow-matrices of the air filtration whilst invoking Machine Spirit purity.\nAnoint filtration membranes during calibration with sanctified aerosols.\nTest air filtration calibration via purity auspex and litanies of breath.\nAffirm the air filtration's calibrated sanctity under Omnissiah's vigilance.",
+    "component": "air filtration",
+    "operation": "calibration",
+    "spec_id": "b0264_i08"
+  },
+  {
+    "user_prompt": "Ready the augmetic limb for repair",
+    "prayer": "Expose the augmetic limb's sacred interfaces for repair invocation.\nBeseech the Machine Spirit of the augmetic limb to endure repair trials.\nSuture fibre-bundles of the augmetic limb with mechadendrite sutras during repair.\nReintegrate power-flows invoking Omnissiah's restorative grace upon the augmetic limb.\nCycle the augmetic limb through diagnostic motions post-repair.",
+    "component": "augmetic limb",
+    "operation": "repair",
+    "spec_id": "b0264_i09"
+  }
+]

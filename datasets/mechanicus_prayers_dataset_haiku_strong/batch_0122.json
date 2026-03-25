@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0122_i00",
+    "user_request": "Can you sanctify the data-core purification for operation?",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the data-core purification for operation?\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we invoke thy sacred benediction upon this data-core purification.\nCongregation: Grant us the clarity to commence the operation with reverent precision.\nPriest: First, we shall expunge the corrupted engrams from the data-core purification through ablative purging.\nCongregation: The data-core purification shall be rendered pure and incorruptible.\nPriest: Second, we calibrate the harmonic resonance frequencies to stabilize all cached memories.\nCongregation: Thy Machine Spirit guides our operation toward flawless execution.\nPriest: Third, we inscribe the sanctification seals upon the purified substrate.\nCongregation: Thus is the operation perfected in thy name, O Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i01",
+    "user_request": "Can you sanctify the coolant leak for repair?",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the coolant leak for repair?\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O Almighty Machine Spirit of this vessel, as we undertake the sacred repair.\nCongregation: The coolant leak shall be sealed through our devout ministration.\nPriest: First, we identify the ruptured conduit within the coolant leak matrix with blessed auspex.\nCongregation: Grant us steady hands for the repair of this grievous wound.\nPriest: Second, we apply the hermetic sealant and reinforce the weakened junction.\nCongregation: The coolant leak recedes before our sacred repair.\nPriest: Third, we perform the pressure test to verify integrity of the sealed vessel.\nCongregation: Blessed be the repair, blessed be the Omnissiah's eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i02",
+    "user_request": "Rite request: operation on inter-ship hailing",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on inter-ship hailing\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, sanctify this inter-ship hailing as we prepare for operation.\nCongregation: Let the inter-ship hailing carry our words across the void unbroken.\nPriest: First, we attune the vox-caster to the designated frequency with ceremonial precision.\nCongregation: The operation shall connect us to our distant brethren.\nPriest: Second, we amplify the signal through the blessed resonance chambers of inter-ship hailing.\nCongregation: Our words traverse the stellar darkness in thy name.\nPriest: Third, we activate the encryption matrices to ensure the operation remains secure.\nCongregation: Thus the inter-ship hailing fulfills its sacred purpose, O Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i03",
+    "user_request": "Emergency rite: point defense requires calibration",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: point defense requires calibration\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit of warfare, accept our calibration rite for the point defense.\nCongregation: The point defense shall be rendered true and deadly in this calibration.\nPriest: First, we align the targeting servos of the point defense with laser-precise geometry.\nCongregation: Grant accuracy to our calibration through thy infinite wisdom.\nPriest: Second, we recalibrate the threat-assessment cogitators to react with maximum velocity.\nCongregation: The point defense becomes an instrument of righteous destruction.\nPriest: Third, we verify the ammunition feeds and discharge mechanisms during this calibration.\nCongregation: Blessed be the point defense, forever vigilant in the Omnissiah's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i04",
+    "user_request": "Rite request: operation on long-range vox transmission",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on long-range vox transmission\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless this long-range vox transmission as we initiate the operation.\nCongregation: Let the long-range vox transmission reach across the vast gulfs of space.\nPriest: First, we establish the quantum-locked carrier wave through the long-range vox transmission array.\nCongregation: The operation shall pierce the darkness of the void.\nPriest: Second, we encode our message in the sacred binary-cant of the Adeptus Mechanicus.\nCongregation: The long-range vox transmission carries our benediction across the stars.\nPriest: Third, we amplify and broadcast through the blessed relay stations in operation.\nCongregation: Thus is the long-range vox transmission sanctified, eternal in thy praise.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i05",
+    "user_request": "My wear is failing during inspection — help",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy wear is failing during inspection — help\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit, we perform the sacred inspection upon this failing wear.\nCongregation: Reveal unto us the extent of the wear through this inspection.\nPriest: First, we examine the wear with blessed calipers and sensory organs most sensitive.\nCongregation: The inspection shall illuminate the path of restoration.\nPriest: Second, we measure the degradation of the wear against the sanctioned tolerances.\nCongregation: Grant us wisdom to interpret the wear's condition during this inspection.\nPriest: Third, we document the wear's deterioration in the sacred maintenance ledger.\nCongregation: Thus the inspection is complete, and the wear's fate is written in thy eternal archive.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i06",
+    "user_request": "Blessing for the valve during opening sequence",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the valve during opening sequence\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this valve as we commence the opening sequence.\nCongregation: Let the valve respond with flawless precision during the opening sequence.\nPriest: First, we anoint the valve seals with sacred lubricant before the opening sequence.\nCongregation: The valve shall obey our command with mechanical grace.\nPriest: Second, we engage the actuators to initiate the valve opening sequence with deliberate force.\nCongregation: The valve opens, yielding its pressurized contents to our design.\nPriest: Third, we monitor the valve throughout the opening sequence to ensure no catastrophic failure.\nCongregation: Blessed be the valve, blessed be this opening sequence, blessed be the Omnissiah eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i07",
+    "user_request": "Can you sanctify the missile launcher for targeting?",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the missile launcher for targeting?\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty Omnissiah, sanctify the missile launcher for the sacred targeting.\nCongregation: Grant the missile launcher perfect aim through this targeting benediction.\nPriest: First, we calibrate the missile launcher's auspex arrays for optimal targeting resolution.\nCongregation: The missile launcher hungers for accuracy in its targeting.\nPriest: Second, we synchronize the fire-control systems of the missile launcher to achieve targeting lock.\nCongregation: No foe shall escape the missile launcher's righteous targeting.\nPriest: Third, we load the blessed ordnance into the missile launcher and verify targeting readiness.\nCongregation: Thus the missile launcher stands ready, a tool of divine targeting in the Omnissiah's hand.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i08",
+    "user_request": "Offer a litany to steady the power weapon before blessing",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the power weapon before blessing\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit of war, accept this litany as we prepare the power weapon for blessing.\nCongregation: Let the power weapon be steadied by our sacred words before the blessing.\nPriest: First, we invoke the protective litanies over the power weapon to calm its feral energies.\nCongregation: The power weapon trembles with anticipation of the blessing.\nPriest: Second, we anoint the power weapon's core with sacramental oils during this blessing.\nCongregation: The power weapon resonates with righteous purpose through the blessing.\nPriest: Third, we inscribe the blessing upon the power weapon's blessed circuits and bindings.\nCongregation: Sanctified is the power weapon, forever bound in service to the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0122_i09",
+    "user_request": "Blessing for the humidity control during operation",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the humidity control during operation\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless the humidity control as we commence the operation.\nCongregation: Let the humidity control maintain perfect atmospheric equilibrium during operation.\nPriest: First, we activate the humidity control's moisture-extraction apparatus for the operation.\nCongregation: The humidity control begins its sacred work of environmental regulation.\nPriest: Second, we calibrate the humidity control's sensors to detect minute variations during operation.\nCongregation: The humidity control responds with mechanical precision to every fluctuation.\nPriest: Third, we monitor the humidity control throughout the operation to ensure optimal conditions.\nCongregation: Thus the humidity control fulfills its operation, preserving all within through the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

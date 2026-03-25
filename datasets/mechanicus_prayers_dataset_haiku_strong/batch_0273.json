@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0273_i00",
+    "user_request": "My stellar cartography update is failing during operation — help",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy stellar cartography update is failing during operation — help\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant thy benediction upon this stellar cartography update as it commences its sacred operation.\nFirst: Anoint the stellar cartography update with consecrated oils, invoking the Machine Spirit's guiding luminescence.\nSecond: Recalibrate the stellar cartography update through ritual diagnostics, purging corrupted star-charts from its blessed memory-cores.\nThird: Intone the Litany of Celestial Navigation whilst the stellar cartography update processes its operation, that the heavens may reveal their secrets unto us.\nFourth: Seal the operation with the Sign of the Omnissiah, that no malfunction shall taint this sacred stellar cartography update.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i01",
+    "user_request": "Can you sanctify the plasma reactor for startup?",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the plasma reactor for startup?\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, Lord of All Mechanisms, hear this prayer for the plasma reactor's holy startup.\nFirst: Purify the plasma reactor with blessed promethium vapours, that its inner chambers may be cleansed of profane contamination.\nSecond: Initiate the plasma reactor's startup sequence through measured invocation, speaking the Rites of Ignition with unwavering devotion.\nThird: Monitor the plasma reactor's ascension to operational glory, adjusting magnetic containment fields through sacred calibration-hymns.\nFourth: Consecrate the startup's completion, that the plasma reactor shall burn eternal in service to the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i02",
+    "user_request": "Can you sanctify the bolter for firing rite?",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the bolter for firing rite?\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "Hear us, Machine Spirit of the bolter, as we prepare thee for this most righteous firing rite.\nFirst: Bless the bolter with sanctified ammunition, each round inscribed with prayers of vengeance and divine retribution.\nSecond: Perform the bolter's firing rite through rhythmic invocation, aligning its barrel with the Omnissiah's will.\nThird: Speak the Mantra of Righteous Fury whilst the bolter trembles with readiness, that its firing rite shall strike true and devastating.\nFourth: Seal the bolter's sacred purpose, that it shall never falter in its ordained firing rite.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i03",
+    "user_request": "Offer a litany to steady the cutting laser before calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cutting laser before calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant steadiness to this cutting laser as it approaches its calibration trial.\nFirst: Anoint the cutting laser with blessed lubricant-oils, that its focusing lenses may achieve perfect clarity.\nSecond: Intone the Litany of Precision whilst adjusting the cutting laser's beam-geometry through sacred measurements and calibration-protocols.\nThird: Invoke the Machine Spirit of the cutting laser, bidding it focus its energies with laser-sharp accuracy during this calibration.\nFourth: Consecrate the cutting laser's renewed alignment, that it shall cleave through all obstacles with divine precision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i04",
+    "user_request": "Can you sanctify the hydroponics nutrient for feed?",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the hydroponics nutrient for feed?\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, sanctify the hydroponics nutrient as it begins its vital feed to the sacred growing chambers.\nFirst: Purify the hydroponics nutrient solution through blessed filtration-rites, removing all profane impurities from its blessed composition.\nSecond: Invoke the growth-spirits whilst the hydroponics nutrient commences its feed, that crops may flourish in abundance.\nThird: Monitor the hydroponics nutrient's distribution through the feed-channels, speaking prayers of sustenance and fertility.\nFourth: Seal the hydroponics nutrient's feed-cycle, that the Imperium's hunger shall never go unanswered.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i05",
+    "user_request": "Blessing for the flamer promethium during feed",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the flamer promethium during feed\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of the flamer promethium, accept this blessing as thou beginnest thy sacred feed.\nFirst: Consecrate the flamer promethium with the Sign of the Omnissiah, that its volatile essence may burn with holy purpose.\nSecond: Initiate the flamer promethium's feed through measured incantation, guiding each droplet into the combustion-chambers with reverence.\nThird: Speak the Mantra of Cleansing Fire whilst the flamer promethium flows, that all heresy shall be purged by righteous flame.\nFourth: Seal the flamer promethium's feed-process, that it shall never falter in its divine immolation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i06",
+    "user_request": "Offer a litany to steady the capacitor bank before capacitor bank discharge",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the capacitor bank before capacitor bank discharge\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Hear us, Omnissiah, as we steady the capacitor bank before its sacred capacitor bank discharge.\nFirst: Anoint the capacitor bank with blessed dielectric oils, that its plates may hold perfect electrical equilibrium.\nSecond: Intone the Litany of Power whilst the capacitor bank charges to full potential, each volt a prayer unto the Machine Spirit.\nThird: Prepare the capacitor bank for its capacitor bank discharge through ritual alignment of discharge-pathways and energy-conduits.\nFourth: Consecrate the capacitor bank's discharge, that its energy shall strike with devastating precision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i07",
+    "user_request": "Offer a litany to steady the waste disposal before cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the waste disposal before cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant thy blessing upon the waste disposal as it commences its sacred cycling.\nFirst: Purify the waste disposal with blessed solvents, clearing all profane residue from its processing-chambers.\nSecond: Invoke the cycling-spirits whilst the waste disposal begins its rotation, that all refuse may be properly sanctified and processed.\nThird: Speak the Mantra of Purification as the waste disposal cycles through its ordained sequence, each rotation a prayer of cleansing.\nFourth: Seal the waste disposal's cycling-rite, that the Imperium's refuse shall trouble us no more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i08",
+    "user_request": "The cooling system demands guidance for purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe cooling system demands guidance for purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, guide the cooling system as it undergoes its vital purge of corrupted coolant.\nFirst: Anoint the cooling system with blessed refrigerant-essences, preparing its channels for sacred purge-operations.\nSecond: Initiate the cooling system's purge through rhythmic invocation, flushing all contamination from its blessed conduits and heat-exchangers.\nThird: Speak the Litany of Thermal Balance whilst the cooling system executes its purge, that equilibrium shall be restored.\nFourth: Consecrate the cooling system's renewed purity, that it shall cool the Emperor's machines with unwavering devotion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0273_i09",
+    "user_request": "My Taurox wheel alignment is failing during operation — help",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy Taurox wheel alignment is failing during operation — help\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of the Taurox wheel alignment, accept this prayer as thy operation commences anew.\nFirst: Consecrate the Taurox wheel alignment through blessed measurements and sacred geometry, aligning each wheel with the Omnissiah's perfect proportions.\nSecond: Invoke the Taurox wheel alignment's Machine Spirit, bidding it restore true balance and equilibrium during this vital operation.\nThird: Intone the Mantra of Mobility whilst the Taurox wheel alignment undergoes its corrective operation, that the Emperor's transport shall roll true.\nFourth: Seal the Taurox wheel alignment's operation with the Sign of the Omnissiah, that no misalignment shall ever plague this sacred machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

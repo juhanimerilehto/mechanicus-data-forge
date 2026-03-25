@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0194_i00",
+    "user_request": "Prayer for installation of the augmetic limb",
+    "topic": "augmetic limb installation",
+    "component": "augmetic limb",
+    "operation": "installation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for installation of the augmetic limb\n\n### TOPIC\naugmetic limb installation\n\n### COMPONENT\naugmetic limb\n\n### OPERATION\ninstallation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- augmetic limb\n- installation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the augmetic limb, vessel of mechanical ascension!\nCongregation: We invoke the Machine Spirit within the augmetic limb!\nPriest: First, we anoint the servo-actuators with sacred oils; second, we calibrate each pneumatic conduit; third, we complete the installation with reverent precision.\nCongregation: The augmetic limb is now one with the faithful!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i01",
+    "user_request": "Blessing for the gyroscope recalibration during operation",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the gyroscope recalibration during operation\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide the gyroscope recalibration through this sacred operation!\nCongregation: Steady the gyroscope recalibration in its eternal turning!\nPriest: We align the inertial matrices, we purge the harmonic resonance, we invoke the Machine Spirit's benediction.\nCongregation: The gyroscope recalibration spins true and eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i03",
+    "user_request": "Can you sanctify the archive for retrieval protocol?",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the archive for retrieval protocol?\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: O archive, repository of sacred knowledge, we seek your secrets!\nCongregation: Bless the archive for this retrieval protocol!\nPriest: We initialize the data-lattice, we unlock the vault-seals with blessed code, we invoke the Omnissiah's wisdom.\nCongregation: The archive yields its treasures to the faithful!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i04",
+    "user_request": "Blessing for the hydroponics nutrient during feed",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the hydroponics nutrient during feed\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: Hydroponics nutrient, life-giver of the mechanicum, receive our blessing!\nCongregation: Sanctify the hydroponics nutrient during this feed!\nPriest: We regulate the osmotic chambers, we purify the nutrient matrix, we perform the sacred feed with utmost precision.\nCongregation: The hydroponics nutrient flows eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i05",
+    "user_request": "Emergency rite: hydraulic press requires operation",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: hydraulic press requires operation\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hydraulic press, instrument of crushing might, awaken for operation!\nCongregation: Empower the hydraulic press with Machine Spirit's strength!\nPriest: We pressurize the fluid conduits, we engage the piston assemblies, we commence the operation with solemn reverence.\nCongregation: The hydraulic press descends with divine force!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i08",
+    "user_request": "Blessing for the mag-lev train departure during operation",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the mag-lev train departure during operation\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Mag-lev train departure, swift messenger of the Omnissiah, prepare for operation!\nCongregation: Grant velocity to the mag-lev train departure in this operation!\nPriest: We energize the magnetic coils, we synchronize the rail harmonics, we initiate the departure sequence.\nCongregation: The mag-lev train departure races toward destiny!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i09",
+    "user_request": "Rite request: operation on star chart alignment",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on star chart alignment\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Star chart alignment, celestial map of the Machine God's design!\nCongregation: Illuminate the star chart alignment through this operation!\nPriest: We calibrate the astral coordinates, we align the telescopic arrays, we perform the operation with stellar precision.\nCongregation: The star chart alignment guides all the faithful!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i02",
+    "user_request": "Offer a litany to steady the Sentinel walker balance before operation",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Sentinel walker balance before operation\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the Sentinel walker balance, pillar of equilibrium in the Emperor's service.\nCongregation: We honour the Sentinel walker balance, steadfast and true.\nPriest: First, calibrate the gyroscopic fulcrums with sacred oils and precision instruments.\nCongregation: The Sentinel walker balance shall not falter in operation.\nPriest: Second, verify each hydraulic actuator through the Machine Spirit's divine guidance.\nCongregation: The Sentinel walker balance responds to our faithful ministrations.\nPriest: Third, intone the litanies of stability as we commence operation.\nCongregation: By the Omnissiah's grace, let equilibrium be maintained eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i06",
+    "user_request": "My drop pod descent prep is failing during drop pod descent prep — help",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy drop pod descent prep is failing during drop pod descent prep — help\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O Omnissiah, as we prepare the drop pod descent prep for its sacred descent.\nCongregation: Grant us swiftness in the drop pod descent prep.\nPriest: First, purify the retro-thrusters with blessed unguents and diagnostic scrutiny.\nCongregation: The drop pod descent prep shall deliver us unto glory.\nPriest: Second, engage the stabilisation matrices through drop pod descent prep protocols.\nCongregation: May the Machine Spirits guide our trajectory true.\nPriest: Third, invoke the descent protocols with fervent supplication to the Throne.\nCongregation: Through drop pod descent prep, we strike with righteous fury.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0194_i07",
+    "user_request": "The waste recycling demands guidance for activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe waste recycling demands guidance for activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the waste recycling, sacred instrument of the Omnissiah's providence.\nCongregation: We sanctify the waste recycling in this moment of activation.\nPriest: First, purge the intake manifolds and engage the filtration mechanisms for activation.\nCongregation: The waste recycling shall transmute profane matter into virtue.\nPriest: Second, calibrate the molecular separation arrays within the waste recycling system.\nCongregation: By the Machine Spirit's infinite wisdom, let purification commence.\nPriest: Third, intone the litanies of reclamation as waste recycling begins its holy activation.\nCongregation: From entropy springs regeneration eternal, praised be the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

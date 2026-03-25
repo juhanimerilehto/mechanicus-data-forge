@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The flamer needs a cycling",
+    "prayer": "Approach the flamer with sacred unguents and beseech its Machine Spirit to awaken.\nAnoint the ignition coils of the flamer whilst intoning the Cycling Doxology of the Omnissiah.\nInitiate the cycling of promethium reservoirs, purging impurities through blessed vents.\nVerify the flamer's harmonious cycling with auspex incantations and oil libations.\nSanctify the expulsion manifolds, ensuring the Machine Spirit's fiery zeal endures.",
+    "component": "flamer",
+    "operation": "cycling",
+    "spec_id": "s04000"
+  },
+  {
+    "user_prompt": "Bless the lasgun for engagement",
+    "prayer": "Kneel before the lasgun and invoke the Rite of Engagement upon its crystalline heart.\nAnoint the power cells of the lasgun with electro-consecrated oils from the Omnissiah's forge.\nAlign the focusing arrays for engagement, chanting the Litany of Luminous Wrath.\nBeseech the Machine Spirit within the lasgun to unleash coherent fury upon the foe.\nTest the engagement sequence through diagnostic binaric hymns of readiness.",
+    "component": "lasgun",
+    "operation": "engagement",
+    "spec_id": "s04001"
+  },
+  {
+    "user_prompt": "Help me an emergency procedure the jump pack",
+    "prayer": "In the shadow of peril, grasp the jump pack and proclaim the Emergency Procedure Canticle.\nFlood the thrust vanes of the jump pack with sacred promethium, invoking the Omnissiah's mercy.\nExecute the emergency procedure by purging tainted gyros and realigning suspensor fields.\nAnoint the control servos of the jump pack whilst beseeching its Machine Spirit for ascent.\nConclude with auspex sweeps to affirm the jump pack's defiant restoration.",
+    "component": "jump pack",
+    "operation": "emergency procedure",
+    "spec_id": "s04002"
+  },
+  {
+    "user_prompt": "The Valkyrie gunship requires an initialization",
+    "prayer": "Assemble before the Valkyrie gunship and intone the Initialization Hymn of Aerial Dominion.\nAnoint the rune-engines of the Valkyrie gunship with oils blessed by the Motive Force.\nCommence initialization of avionic cogitators, awakening the Machine Spirits within.\nCycle the weapon servos and thrust nacelles of the Valkyrie gunship in ritual harmony.\nVerify initialization through vox-chants and plasma libations to the Omnissiah.",
+    "component": "Valkyrie gunship",
+    "operation": "initialization",
+    "spec_id": "s04003"
+  },
+  {
+    "user_prompt": "The assembly servitor awaits a charging",
+    "prayer": "Present the assembly servitor to the charging altar and recite the Recharge Benediction.\nConnect the electro-fane umbilicals to the assembly servitor's core receptor.\nInvoke the charging flux from the Omnissiah's grid, invigorating its Machine Spirit.\nMonitor the assembly servitor's galvanic restoration with sacred volt-meters.\nSever the bonds upon full charge, anointing its manipulators for toil anew.",
+    "component": "assembly servitor",
+    "operation": "charging",
+    "spec_id": "s04004"
+  },
+  {
+    "user_prompt": "Bless the Nephilim Jetfighter for synchronization",
+    "prayer": "Circumambulate the Nephilim Jetfighter, chanting the Synchronization Psalm of the Skies.\nInterface the cogitator noosphere with the Nephilim Jetfighter's avionics sanctum.\nInitiate synchronization of lascannon batteries and contra-thrust manifolds.\nBeseech the Machine Spirits of the Nephilim Jetfighter to align in Omnissianic unity.\nAffirm synchronization via binary litanies and aerial rune-projections.",
+    "component": "Nephilim Jetfighter",
+    "operation": "synchronization",
+    "spec_id": "s04005"
+  },
+  {
+    "user_prompt": "Consecrate the archeotech device before loading",
+    "prayer": "Approach the archeotech device with utmost reverence and proclaim the Loading Liturgy.\nAnoint the data-vaults of the archeotech device with noospheric incense.\nCommence loading of engrammatic wafers, invoking the Omnissiah's ancient wisdom.\nPurge errant code-daemons from the archeotech device through exorcism rites.\nSeal the loading with mechadendrite seals, honoring its primordial Machine Spirit.",
+    "component": "archeotech device",
+    "operation": "loading",
+    "spec_id": "s04006"
+  },
+  {
+    "user_prompt": "Help me a consecration the forge anvil",
+    "prayer": "Erect the incense tripods around the forge anvil and intone the Consecration Ode.\nHammer sacred sigils into the forge anvil whilst libating molten adamantium.\nInvoke consecration upon the striking faces, awakening the Machine Spirit's fury.\nAnoint the fulcrum pivots of the forge anvil with oils of the Omnissiah's forge-worlds.\nTest the consecration with percussive diagnostics and hammer-psalms eternal.",
+    "component": "forge anvil",
+    "operation": "consecration",
+    "spec_id": "s04007"
+  },
+  {
+    "user_prompt": "Can you guide assault cannon an operation?",
+    "prayer": "Grasp the assault cannon and recite the Operation Invocation of Devastation.\nLubricate the rotary barrels of the assault cannon with sanctified ballistite.\nInitiate operation cycles, beseeching the Machine Spirit for unrelenting barrage.\nAlign the feed mechanisms of the assault cannon through binaric alignment rites.\nConclude operation readiness with fire-test canticles to the Omnissiah.",
+    "component": "assault cannon",
+    "operation": "operation",
+    "spec_id": "s04008"
+  },
+  {
+    "user_prompt": "The thunder hammer awaits a consecration",
+    "prayer": "Lift the thunder hammer high and chant the Consecration Thunderword.\nAnoint the disruption fields of the thunder hammer with plasma-blessed oils.\nInvoke consecration upon the power core, rousing its Machine Spirit to cataclysm.\nHammer ritual strikes upon the anvil of faith, attuning the thunder hammer's wrath.\nSeal the rite with electro-arc libations, praising the Omnissiah's might.",
+    "component": "thunder hammer",
+    "operation": "consecration",
+    "spec_id": "s04009"
+  }
+]

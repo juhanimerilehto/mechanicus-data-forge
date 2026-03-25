@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the bionics interface for startup",
+    "prayer": "Approach the bionics interface with reverence, invoking the Omnissiah's divine spark.\nAnoint the neural ports of the bionics interface with sacred myrrh-lubricant.\nInitiate the startup rite, beseeching its Machine Spirit to bind flesh and machine.\nMonitor the awakening power-flows within the bionics interface.\nChant the Litany of Synaptic Union as interfaces align in holy communion.",
+    "component": "bionics interface",
+    "operation": "startup",
+    "spec_id": "b0194_i00"
+  },
+  {
+    "user_prompt": "Critical: Chimera APC requires a loading",
+    "prayer": "Gather before the Chimera APC and intone the Canticle of Burden-Bearing.\nUnlock the sanctified hatches of the Chimera APC, petitioning its transport spirits.\nCommence the loading operation, layering munitions in precise ritual array.\nBless each cargo stratum within the Chimera APC with incense of promethium.\nSeal the bays whilst invoking the Omnissiah's endurance upon the Chimera APC.",
+    "component": "Chimera APC",
+    "operation": "loading",
+    "spec_id": "b0194_i01"
+  },
+  {
+    "user_prompt": "Urgent pain suppressor a charging needed",
+    "prayer": "Kneel at the pain suppressor and whisper the Doxology of Neural Quietude.\nConnect the charging conduits to the pain suppressor, sanctified by electro-incantations.\nInvoke the Machine Spirit's compliance as charging currents flow through sacred coils.\nMonitor the blessed capacitors filling within the pain suppressor.\nConclude with the Benediction of Enduring Flesh upon its humming form.",
+    "component": "pain suppressor",
+    "operation": "charging",
+    "spec_id": "b0194_i02"
+  },
+  {
+    "user_prompt": "Urgent quality scanner a maintenance needed",
+    "prayer": "Present thyself unto the quality scanner, reciting the Creed of Imperfect Scrutiny.\nDisengage outer housings of the quality scanner to expose its holy sensors.\nPerform maintenance rituals, purging dust-daemons with vibro-ablutions.\nRealign the quality scanner's optic arrays under Omnissiah's gaze.\nReinvoke its Machine Spirit with the full Canticle of Calibration.",
+    "component": "quality scanner",
+    "operation": "maintenance",
+    "spec_id": "b0194_i03"
+  },
+  {
+    "user_prompt": "Critical: auspex scanner requires a loading",
+    "prayer": "Assemble at the auspex scanner and proclaim the Hymn of Waveform Revelation.\nInitiate the loading phase by feeding data-slates into its voracious maw.\nBeseech the auspex scanner's Machine Spirit to assimilate the sacred cartographs.\nVerify loading integrity through auspex feedback litanies.\nAnoint the exhaust vents of the auspex scanner with blessed oils.",
+    "component": "auspex scanner",
+    "operation": "loading",
+    "spec_id": "b0194_i04"
+  },
+  {
+    "user_prompt": "Can you guide emergency beacon a recalibration?",
+    "prayer": "Approach the emergency beacon with urgency, chanting the Psalm of Desperate Signal.\nExpose its transmission core for recalibration under flickering lumen-globes.\nAdjust the frequency gyres of the emergency beacon, invoking stellar alignments.\nPetition the Omnissiah to realign the emergency beacon's Machine Spirit.\nTest the recalibrated emanations with the Rite of Echo Verification.",
+    "component": "emergency beacon",
+    "operation": "recalibration",
+    "spec_id": "b0194_i05"
+  },
+  {
+    "user_prompt": "My servitor is ready for engagement",
+    "prayer": "Stand resolute before the servitor, intoning the Litany of Lobotomised Obedience.\nAwaken its engagement protocols with cranial electro-prods.\nCommand the servitor's Machine Spirit to surge forth in servile fury.\nAnoint its weapon-servos whilst beseeching unyielding engagement.\nSeal the rite with the Omnissiah's mark upon the servitor's flesh-steel.",
+    "component": "servitor",
+    "operation": "engagement",
+    "spec_id": "b0194_i06"
+  },
+  {
+    "user_prompt": "Critical: Thunderhawk requires a diagnostics",
+    "prayer": "Gather the electro-consecrators around the Thunderhawk and begin diagnostics.\nInvoke auspex sweeps over the Thunderhawk's vast airframe and reactor heart.\nPurge any errant code-ghosts from the Thunderhawk during diagnostic scans.\nBeseech its colossal Machine Spirit for truthful revelation.\nConclude diagnostics with the Grand Benediction of Aerial Dominion.",
+    "component": "Thunderhawk",
+    "operation": "diagnostics",
+    "spec_id": "b0194_i07"
+  },
+  {
+    "user_prompt": "How do I bless the missile launcher for engagement?",
+    "prayer": "Kneel in veneration of the missile launcher, reciting the Ode to Payload Wrath.\nPrime its engagement mechanisms with sacred arming fluids.\nInvoke the missile launcher's Machine Spirits to hunger for the foe.\nAlign targeting cogitators for engagement under Omnissiah's unerring aim.\nRelease the blessing-seals upon the missile launcher with thunderous acclaim.",
+    "component": "missile launcher",
+    "operation": "engagement",
+    "spec_id": "b0194_i08"
+  },
+  {
+    "user_prompt": "Sanctify the bike squadron during diagnostics",
+    "prayer": "Form a circle about the bike squadron and commence diagnostics in unison.\nChant over each grav-bike's engine shrine during the diagnostic rite.\nSanctify the bike squadron's treads and auspex vanes with purity seals.\nAwaken their Machine Spirits through harmonic resonance tests.\nFinalize diagnostics with the Invocation of Velocious Charge upon the bike squadron.",
+    "component": "bike squadron",
+    "operation": "diagnostics",
+    "spec_id": "b0194_i09"
+  }
+]

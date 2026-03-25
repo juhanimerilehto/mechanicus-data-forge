@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the transuranic arquebus for operation",
+    "prayer": "Approach the transuranic arquebus with reverence, invoking the Omnissiah's unerring gaze upon its sacred form.\nAnoint the transuranic arquebus's barrel and mechanisms with blessed oils to rouse its dormant Machine Spirit.\nChant the Litany of Operation, aligning auspex sights and calibrating the exotic matter coils.\nBeseech the Machine Spirit of the transuranic arquebus to heed the call to glorious annihilation.\nVerify compliance through diagnostic canticles, ensuring flawless operation under the Omnissiah's will.",
+    "component": "transuranic arquebus",
+    "operation": "operation",
+    "spec_id": "s05980"
+  },
+  {
+    "user_prompt": "Offer prayer for kataphron breacher a repair",
+    "prayer": "Kneel before the kataphron breacher, sanctifying its armoured chassis with incense of sacred alloys.\nInvoke the Machine Spirits within its breacher drills and heavy weaponry, purging wounds of battle.\nPerform the rites of repair, welding fractured plates and reinvigorating servomotors with electro-incantations.\nBeseech the Omnissiah to restore the kataphron breacher's relentless fury against the unclean.\nConclude with verification hymns, confirming the Machine Spirit's renewed vigour.",
+    "component": "kataphron breacher",
+    "operation": "repair",
+    "spec_id": "s05981"
+  },
+  {
+    "user_prompt": "My diagnosticator is ready for repair",
+    "prayer": "Present the diagnosticator unto the altar of cogitation, murmuring the Awakening Doxology.\nScour its corrupted augur-lenses and data-vanes with purifying solvents, honouring its Machine Spirit.\nExecute the sacred repair, splicing neural relays and recalibrating logic engines per Omnissian writ.\nAnoint the diagnosticator once more, invoking flawless discernment in diagnosis.\nTest its revival through binary catechisms, praising the Omnissiah's precision.",
+    "component": "diagnosticator",
+    "operation": "repair",
+    "spec_id": "s05982"
+  },
+  {
+    "user_prompt": "My Vendetta gunship is ready for sterilization",
+    "prayer": "Circumambulate the Vendetta gunship, asperging its hull with ablative purifiers to invoke sterility.\nBeseech the Machine Spirits of its lascannons and engines to submit to the sterilization rites.\nInitiate the operation of sterilization, fumigating avionics and incinerating contaminated residues.\nChant the Canticle of Purity over the Vendetta gunship, ensuring no xenos taint endures.\nSeal the rite with auspex sweeps, affirming the Omnissiah's cleansing grace.",
+    "component": "Vendetta gunship",
+    "operation": "sterilization",
+    "spec_id": "s05983"
+  },
+  {
+    "user_prompt": "Critical: medicae mechadendrite requires a repair",
+    "prayer": "Extend mechadendrites in supplication to the medicae mechadendrite, chanting the Hymn of Restoration.\nDiagnose its lacerated flesh-vats and servo-arms, rousing the indwelling Machine Spirit.\nCommence repair with sanctified adhesives and bio-circuit grafts, per the Omnissiah's decree.\nReinvigorate the medicae mechadendrite's injectors through electro-litany infusions.\nAffirm wholeness via vitality scans, glorifying the Machine God's mercy.",
+    "component": "medicae mechadendrite",
+    "operation": "repair",
+    "spec_id": "s05984"
+  },
+  {
+    "user_prompt": "The void shield generator requires a targeting",
+    "prayer": "Approach the void shield generator with measured tread, beseeching the Omnissiah for targeting acuity.\nAnoint its plasma conduits and projector arrays, awakening the vigilant Machine Spirit.\nCalibrate targeting matrices through noospheric incantations, aligning with auspex grids.\nInvoke the operation of targeting, harmonizing emitters to intercept the foe's malice.\nVerify precision with test-phasing, praising the void shield generator's unerring defence.",
+    "component": "void shield generator",
+    "operation": "targeting",
+    "spec_id": "s05985"
+  },
+  {
+    "user_prompt": "Urgent ore processor a blessing needed",
+    "prayer": "Prostrate before the ore processor, intoning the Benediction of Yield.\nSprinkle its crushing gears and smelting furnaces with pulverised adamantium, honouring its Machine Spirit.\nBestow the blessing, invoking the Omnissiah to amplify its ravenous efficiency.\nChurn sacred test-ores through its maw, reciting productivity canticles.\nConclude with harmonic resonance checks, affirming the ore processor's blessed bounty.",
+    "component": "ore processor",
+    "operation": "blessing",
+    "spec_id": "s05986"
+  },
+  {
+    "user_prompt": "The potentia coil requires a charging",
+    "prayer": "Encircle the potentia coil, murmuring the Charge Eternal.\nPurify its inductor windings with sanctified currents, stirring the Machine Spirit to life.\nInitiate the operation of charging, channeling galvanic prayers through its core.\nBeseech the Omnissiah to infuse the potentia coil with boundless electromantic fury.\nMonitor saturation via volt-omicrons, sealing the rite in thunderous approbation.",
+    "component": "potentia coil",
+    "operation": "charging",
+    "spec_id": "s05987"
+  },
+  {
+    "user_prompt": "Help me a blessing the narthecium",
+    "prayer": "Reverently cradle the narthecium, invoking the Omnissiah's healing grace upon its sacred instruments.\nAnoint its flesh-knives and chem-dispensers, awakening the merciful Machine Spirit.\nBestow the blessing through litanies of renewal, calibrating injectors for purity.\nChant over the narthecium, ensuring its balms flow true against mortal frailty.\nTest its sanctity with simulant vitae, praising unending ministration.",
+    "component": "narthecium",
+    "operation": "blessing",
+    "spec_id": "s05988"
+  },
+  {
+    "user_prompt": "How do I bless the void shield for startup?",
+    "prayer": "Commence vigil at the void shield, asperging emitters with phase-oils to rouse its ethereal guardian.\nInvoke the Machine Spirit through startup catechisms, priming null-generators.\nAlign warp-vanescents in Omnissian symmetry for flawless deployment.\nBeseech the void shield to unfurl its protective aegis at the Omnissiah's command.\nValidate integrity with dissonance probes, hailing its impervious vigil.",
+    "component": "void shield",
+    "operation": "startup",
+    "spec_id": "s05989"
+  }
+]

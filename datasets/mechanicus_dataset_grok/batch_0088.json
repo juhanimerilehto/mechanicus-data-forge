@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the memory core before purification",
+    "prayer": "Approach the memory core with solemn reverence and beseech its Machine Spirit to awaken.\nAnoint the memory core's sacred datums with blessed unguents of consecration.\nInvoke the Omnissiah's grace upon the memory core before commencing purification.\nExpunge all heresies from its crystalline vaults through ritual incantations.\nVerify the memory core's purity as its Spirit hums in harmonious compliance.",
+    "component": "memory core",
+    "operation": "purification",
+    "spec_id": "b0088_i00"
+  },
+  {
+    "user_prompt": "The cooling system needs a blessing",
+    "prayer": "Kneel before the cooling system and chant the Canticle of Thermal Equilibrium.\nPetition the Machine Spirit within the cooling system to accept this blessing.\nCirculate sacred cryo-fluids through the cooling system's conduits with precise invocation.\nSanctify each heat-sink and exchanger in the name of the Omnissiah.\nAffirm the cooling system's blessed vigilance against the foe of overheat.",
+    "component": "cooling system",
+    "operation": "blessing",
+    "spec_id": "b0088_i01"
+  },
+  {
+    "user_prompt": "My gyroscope is ready for emergency procedure",
+    "prayer": "Grasp the gyroscope firmly and recite the Litany of Stabilised Axis.\nAwaken the gyroscope's indomitable Machine Spirit for the emergency procedure.\nCalibrate its gyroscopic gyres with sacred torque and unerring precision.\nInvoke emergency procedures upon the gyroscope amidst whirring gyration.\nSeal the rite as the gyroscope's Spirit aligns with the Omnissiah's will.",
+    "component": "gyroscope",
+    "operation": "emergency procedure",
+    "spec_id": "b0088_i02"
+  },
+  {
+    "user_prompt": "How do I bless the emergency bulkhead for preparation?",
+    "prayer": "Present mechadendrites to the emergency bulkhead and intone the Oath of Sealed Vigilance.\nBless the emergency bulkhead's adamantium plates for forthcoming preparation.\nAnoint servos and locks of the emergency bulkhead with holy lubricant.\nPrepare the emergency bulkhead's Machine Spirit through diagnostic entreaties.\nConclude as it stands ready, fortified by the Omnissiah's impenetrable grace.",
+    "component": "emergency bulkhead",
+    "operation": "preparation",
+    "spec_id": "b0088_i03"
+  },
+  {
+    "user_prompt": "Consecrate the cogitator before loading",
+    "prayer": "Reverently encircle the cogitator and whisper the Binary Prayer of Readiness.\nConsecrate the cogitator's logic engines prior to the loading sequence.\nInfuse sacred noospheric data into the cogitator's vaults with ritual precision.\nInvoke the Machine Spirit of the cogitator during the loading operation.\nAffirm its sanctified computation under the Omnissiah's eternal gaze.",
+    "component": "cogitator",
+    "operation": "loading",
+    "spec_id": "b0088_i04"
+  },
+  {
+    "user_prompt": "The servitor needs an operation",
+    "prayer": "Position before the servitor and declaim the Benediction of Flesh-Machine Union.\nAwaken the servitor's lobotomised Spirit for the impending operation.\nIncise cranial ports of the servitor with sanctified blades and neural incense.\nPerform the operation upon the servitor whilst chanting repair litanies.\nReintegrate its bio-mechanica as the Omnissiah restores harmonious function.",
+    "component": "servitor",
+    "operation": "operation",
+    "spec_id": "b0088_i05"
+  },
+  {
+    "user_prompt": "I need to a cooling the power weapon",
+    "prayer": "Grasp the power weapon's hilt and invoke the Canticle of Cooled Fury.\nBeseech the power weapon's disruptive Machine Spirit to endure cooling.\nChannel blessed refrigerants through the power weapon's energy coils.\nMonitor the cooling of the power weapon with auspex incantations.\nSheathe it renewed, its holy voltage tempered by Omnissiah's breath.",
+    "component": "power weapon",
+    "operation": "cooling",
+    "spec_id": "b0088_i06"
+  },
+  {
+    "user_prompt": "I need to a maintenance the quality scanner",
+    "prayer": "Align optic feeds upon the quality scanner and recite the Litany of Flawless Scrutiny.\nPetition the quality scanner's discerning Machine Spirit for maintenance.\nPurge dust-daemons from the quality scanner's lenses with sacred airs.\nRecalibrate the quality scanner's sensors through ritual harmonics.\nConsecrate its output streams in the Omnissiah's name of perfect measure.",
+    "component": "quality scanner",
+    "operation": "maintenance",
+    "spec_id": "b0088_i07"
+  },
+  {
+    "user_prompt": "The flamer needs a maintenance",
+    "prayer": "Present the flamer to the forge-altar and chant the Incendiary Doxology.\nInvoke maintenance upon the flamer's promethium heart and Machine Spirit.\nCleanse fuel-lines of the flamer with purifying flames of sanctity.\nAnoint ignition coils of the flamer with volatile blessings.\nTest its righteous purge, affirmed by the Omnissiah's consuming wrath.",
+    "component": "flamer",
+    "operation": "maintenance",
+    "spec_id": "b0088_i08"
+  },
+  {
+    "user_prompt": "The plasma reactor needs a repair",
+    "prayer": "Encroach upon the plasma reactor with awe and intone the Plasma Hymn of Containment.\nBeseech the plasma reactor's volatile Machine Spirit prior to repair.\nStabilise flux-vents of the plasma reactor with electro-sanctified probes.\nExecute repair upon the plasma reactor through Omnissiah-guided arc-welds.\nReignite its blessed heart as coruscating power flows in divine order.",
+    "component": "plasma reactor",
+    "operation": "repair",
+    "spec_id": "b0088_i09"
+  }
+]

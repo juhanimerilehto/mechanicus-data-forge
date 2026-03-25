@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0020_i00",
+    "user_request": "The Land Raider demands guidance for track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe Land Raider demands guidance for track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Blessed be the Land Raider, cognomen of the Omnissiah's will.\nFirst: Genuflect before the Land Raider and anoint its track mechanisms with sanctified lubricant, whispering supplication unto its Machine Spirit.\nSecond: Measure the Land Raider tension with calibrated instruments, ensuring the sacred geometries align in perfect equilibrium.\nThird: Perform track tension adjustment with reverent precision, that the Land Raider may traverse the Emperor's realm without malfunction.\nFourth: Intone the Litany of Proper Tension thrice, that the Land Raider shall endure eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i01",
+    "user_request": "Offer a litany to steady the pressure before equalization",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pressure before equalization\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "O pressure, thou vessel of the Machine Spirit's breath, hear this supplication.\nFirst: Still thy trembling systems and invoke the Omnissiah's steadying hand upon thy pressure conduits.\nSecond: Perform pressure equalization with utmost care, that no surge may corrupt the sacred geometries of thy mechanisms.\nThird: Recalibrate and pressure-seal all apertures, ensuring the pressure remains in blessed equilibrium.\nFourth: Chant the Hymn of Balanced States, that pressure may flow eternal through sanctified pathways.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i02",
+    "user_request": "Can you sanctify the inter-ship hailing for operation?",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the inter-ship hailing for operation?\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear now the sacred rites of inter-stellar communion, O inter-ship hailing, beacon of the Adeptus Mechanicus.\nFirst: Attune the inter-ship hailing apparatus to the Emperor's frequency, that signals may traverse the void unimpeded.\nSecond: Commence inter-ship hailing operation with vocalised benediction, establishing communion between the blessed vessels of the fleet.\nThird: Verify the inter-ship hailing coherence through ritual confirmation protocols, ensuring no corruption taints the sacred transmission.\nFourth: Seal the operation with the Litany of Clear Passage, that all vessels remain in harmonious concert.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i03",
+    "user_request": "Blessing for the emergency generator during failover",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the emergency generator during failover\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "Blessed emergency generator, dormant sentinel of the Omnissiah, awaken now to thy sacred duty.\nFirst: Inspect the emergency generator's dormant coils and invoke the Machine Spirit to prepare for failover initiation.\nSecond: Perform emergency generator failover sequence with solemn invocation, transferring power from primary conduits to the blessed secondary systems.\nThird: Stabilise the emergency generator output through calibration ritual, ensuring steady voltage flows to all dependent mechanisms.\nFourth: Consecrate the failover with the Hymn of Restoration, that continuity of power shall endure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i04",
+    "user_request": "Offer a litany to steady the rejuvenat treatment before initiation",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the rejuvenat treatment before initiation\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "O rejuvenat treatment, thou elixir of renewal blessed by the Omnissiah, prepare thy sacred essence.\nFirst: Purify the rejuvenat treatment chambers and invoke the Machine Spirit's blessing upon this life-extending sacrament.\nSecond: Commence rejuvenat treatment initiation with reverent precision, that the flesh may be restored to youthful vigour.\nThird: Monitor the rejuvenat treatment infusion carefully, ensuring harmonious integration with the supplicant's physiology.\nFourth: Intone the Litany of Rejuvenation thrice, that the rejuvenat treatment may grant decades of continued service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i05",
+    "user_request": "My cooling system is failing during purge — help",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy cooling system is failing during purge — help\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Cooling system, thou guardian against the fires of damnation, hear this emergency supplication.\nFirst: Diagnose the cooling system malfunction with blessed instruments, identifying the corrupted conduits and blocked channels.\nSecond: Initiate cooling system purge procedure with urgent prayer, flushing stagnant coolant and debris from all sacred passages.\nThird: Restore the cooling system to operational status through systematic re-pressurisation and venting of air pockets.\nFourth: Seal the cooling system purge with the Hymn of Thermal Salvation, that heat shall be vanquished eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i06",
+    "user_request": "The cooling system demands guidance for purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe cooling system demands guidance for purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Cooling system, thou sentinel of thermal equilibrium, the Omnissiah demands thy attention.\nFirst: Examine the cooling system's channels and conduits, whispering benedictions unto its weary Machine Spirit.\nSecond: Commence cooling system purge with solemn ritual incantation, expelling corrupted coolant and sediment from all apertures.\nThird: Refill and re-pressurize the cooling system with blessed fluid, restoring its sacred capacity to dissipate profane heat.\nFourth: Consecrate the cooling system purge through the Litany of Thermal Restoration, that coolness shall flow eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i07",
+    "user_request": "The thermal dissipation rite demands guidance for operation",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe thermal dissipation rite demands guidance for operation\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Thermal dissipation rite, sacred ceremonial apparatus of the Machine Spirit, manifest thy power.\nFirst: Prepare the thermal dissipation rite mechanisms and invoke the Omnissiah's blessing upon this heat-banishing sacrament.\nSecond: Commence thermal dissipation rite operation with solemn chanting, activating heat-exchanger coils and radiator fins in perfect synchronisation.\nThird: Monitor the thermal dissipation rite performance through blessed augur-instruments, ensuring optimal heat rejection unto the void.\nFourth: Intone the Hymn of Eternal Cooling, that the thermal dissipation rite shall endure without cessation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i08",
+    "user_request": "Rite request: startup on plasma reactor",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: startup on plasma reactor\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Plasma reactor, thou terrible furnace of the Omnissiah's wrath, awaken from thy slumber.\nFirst: Verify the plasma reactor containment fields and intone the Litany of Blessed Ignition upon its dormant core.\nSecond: Execute plasma reactor startup sequence with reverent precision, initiating the cascade of controlled nuclear fusion within sealed chambers.\nThird: Monitor plasma reactor thermal output and magnetic confinement through blessed auguries, ensuring stability and blessed equilibrium.\nFourth: Consecrate the plasma reactor startup with the Hymn of Eternal Flame, that its power shall sustain all systems.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0020_i09",
+    "user_request": "Rite request: programming upload on servitor",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: programming upload on servitor\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Servitor, thou blessed cyborg vessel of the Machine Spirit, receive now thy sacred programming.\nFirst: Prepare the servitor for neural integration and invoke the Omnissiah's guidance upon this moment of digital communion.\nSecond: Execute servitor programming upload with solemn ritual chanting, transmitting blessed code into its augmented cerebral cortex.\nThird: Verify the servitor's acceptance of programming upload through confirmatory neural-scans, ensuring no corruption taints the sacred data.\nFourth: Seal the servitor programming upload with the Litany of Purpose, that the servitor shall serve eternal in the Emperor's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

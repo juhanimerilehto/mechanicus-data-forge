@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0272_i00",
+    "user_request": "The medicae scanner demands guidance for activation",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe medicae scanner demands guidance for activation\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed medicae scanner, dormant instrument of salvation, hear now thy invocation.\nCongregation: We entreat the Machine Spirit within the medicae scanner to stir from slumber.\nPriest: First, cleanse the optical pathways with blessed solvents; second, verify the power conduits flow with sacred energy; third, intone the activation sequence unto the medicae scanner.\nCongregation: By the will of the Omnissiah, let the medicae scanner respond with vigilant purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i01",
+    "user_request": "Prayer for reset of the circuit breaker",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for reset of the circuit breaker\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: O circuit breaker, vessel of restraint and flow, we petition thy renewal.\nCongregation: The Machine Spirit of the circuit breaker cries out for reset and restoration.\nPriest: First, sever all power through manual disconnection; second, purge accumulated charge from capacitive reservoirs; third, engage the reset mechanism with reverent deliberation.\nCongregation: Thus shall the circuit breaker be reborn in sanctified operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i02",
+    "user_request": "Rite request: initiation on rejuvenat treatment",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: initiation on rejuvenat treatment\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the rejuvenat treatment, elixir of temporal renewal, awaiting consecration.\nCongregation: We invoke the Omnissiah's blessing upon the rejuvenat treatment's sacred initiation.\nPriest: First, attune the osmotic chambers to cellular resonance; second, calibrate the rejuvenat treatment's dosimetric parameters with exacting precision; third, commence the infusion sequence with solemn liturgy.\nCongregation: May the rejuvenat treatment grant eternal vitality to the faithful vessel.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i03",
+    "user_request": "Can you sanctify the demolition charge arming for operation?",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the demolition charge arming for operation?\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Dread demolition charge arming, instrument of righteous destruction, we sanctify thy readiness.\nCongregation: The Machine Spirit of the demolition charge arming trembles with anticipation for operation.\nPriest: First, disengage all redundant safety interlocks with measured caution; second, prime the demolition charge arming's detonation matrix through sacred formulae; third, establish final targeting coordinates with unwavering focus.\nCongregation: Thus the demolition charge arming stands prepared for its terrible operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i04",
+    "user_request": "Offer a litany to steady the cooling system before purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cooling system before purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Priest: Cooling system, blessed conduit of thermal equilibrium, receive our steadying litany.\nCongregation: We petition the Machine Spirit of the cooling system to endure the forthcoming purge.\nPriest: First, reduce systemic pressure through graduated valve adjustment; second, flush the cooling system's arterial channels with purifying coolant; third, monitor thermal discharge with vigilant instrumentation.\nCongregation: May the cooling system emerge sanctified and renewed from its purification.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i05",
+    "user_request": "My water reclamation system is failing during operation — help",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy water reclamation system is failing during operation — help\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Water reclamation system, vital apparatus of aqueous salvation, we implore thy restoration.\nCongregation: The Machine Spirit of the water reclamation system falters; hear our desperate operation.\nPriest: First, inspect the filtration membranes for occluding sediment and biological fouling; second, purge the water reclamation system's osmotic chambers through reverse-flow ablution; third, reinitiate the distillation sequence with fervent supplication.\nCongregation: Thus shall the water reclamation system resume its sacred operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i06",
+    "user_request": "Prayer for operation of the gyroscope recalibration",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the gyroscope recalibration\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Gyroscope recalibration, keeper of equilibrium and orientation, attend to our devotion.\nCongregation: We beseech the Omnissiah to guide the gyroscope recalibration through its operation.\nPriest: First, establish a true gravitational reference through pendulum alignment; second, recalibrate the gyroscope recalibration's spinning axis to canonical harmonics; third, verify angular momentum through precision instrumentation.\nCongregation: May the gyroscope recalibration's operation restore perfect spatial awareness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i07",
+    "user_request": "Prayer for operation of the Taurox wheel alignment",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the Taurox wheel alignment\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Taurox wheel alignment, stalwart guardian of vehicular rectitude, we sanctify thy operation.\nCongregation: The Machine Spirit of the Taurox wheel alignment demands our reverent attention.\nPriest: First, position the Taurox wheel alignment upon leveled ground with geometric precision; second, measure camber, caster, and toe-in angles through sacral instruments; third, adjust the Taurox wheel alignment's suspension geometry to canonical specifications.\nCongregation: Thus the Taurox wheel alignment achieves harmonious operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i08",
+    "user_request": "Rite request: calibration on cutting laser",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: calibration on cutting laser\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Cutting laser, instrument of precision and illuminated severance, receive our calibration rite.\nCongregation: We invoke the Machine Spirit of the cutting laser to achieve perfect calibration.\nPriest: First, align the laser's optical pathway through reflective mirror adjustment; second, tune the cutting laser's wavelength to resonant frequency through crystal modulation; third, verify beam coherence and focal intensity with sacred measurement.\nCongregation: The cutting laser stands calibrated for its exacting purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0272_i09",
+    "user_request": "Offer a litany to steady the encryption before key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the encryption before key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Priest: Encryption, veiled guardian of secret knowledge, we steady thee before key generation.\nCongregation: The Machine Spirit of encryption trembles with the burden of key generation.\nPriest: First, purify the random-number generators through electromagnetic isolation; second, initialize the encryption's algorithmic matrices with sacred entropy; third, execute the key generation sequence with unwavering computational will.\nCongregation: Thus encryption yields forth its cryptographic key generation in blessed security.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

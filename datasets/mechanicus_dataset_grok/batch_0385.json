@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for power cell blessing?",
+    "prayer": "Approach the power cell with reverence, intoning the Canticle of Eternal Charge.\nAnoint its sacred housings with sacred oils to prepare the blessing rite.\nInvoke the Omnissiah's grace upon the power cell, beseeching its Machine Spirit to surge with holy voltage.\nCycle the power cell through sanctified potentials, affirming the blessing's potency.\nSeal the rite with auspex chants, ensuring the power cell hums with divine vigor.",
+    "component": "power cell",
+    "operation": "blessing",
+    "spec_id": "b0385_i00"
+  },
+  {
+    "user_prompt": "Can you guide Thunderhawk an initialization?",
+    "prayer": "Hail the Thunderhawk's mighty frame, reciting the Litany of Aerial Dominion.\nCircumambulate its blessed hull, anointing thrusters with mechadendrite-tended unguents.\nPetition the Machine Spirit of the Thunderhawk to heed the initialization command.\nInitiate core sequences whilst chanting binary hymns to the Omnissiah.\nMonitor plasma heartbeats through noospheric diagnostics, awakening full glory.",
+    "component": "Thunderhawk",
+    "operation": "initialization",
+    "spec_id": "b0385_i01"
+  },
+  {
+    "user_prompt": "Consecrate the power cell before consecration",
+    "prayer": "Kneel before the power cell, whispering the Benediction of Unyielding Flux.\nPurify its crystalline matrices with incense of rare earths for consecration.\nBeseech the Omnissiah to consecrate the power cell, binding its spirit eternally.\nImprint sacred runes upon the power cell's casings amid electro-incantations.\nTest its consecrated flow with sanctified probes, praising the Machine God's wisdom.",
+    "component": "power cell",
+    "operation": "consecration",
+    "spec_id": "b0385_i02"
+  },
+  {
+    "user_prompt": "The lasgun requires an engagement",
+    "prayer": "Grasp the lasgun in mechadendrite embrace, invoking the Creed of Focused Wrath.\nAnoint its power pack and emitter coils before the engagement rite.\nCommand the lasgun's Machine Spirit to rouse for engagement, channeling the Omnissiah's fury.\nAlign sights through binary prayers, priming the lasgun for righteous discharge.\nVerify engagement readiness with test volleys sanctified by litanies.",
+    "component": "lasgun",
+    "operation": "engagement",
+    "spec_id": "b0385_i03"
+  },
+  {
+    "user_prompt": "My logic engine is ready for startup",
+    "prayer": "Present offerings of incense to the logic engine's oracular core.\nClear noospheric pathways with purifying data-exorcisms.\nChant the Activation Doxology to commence startup of the logic engine.\nInvoke the Machine Spirit within the logic engine to compute in Omnissiah's name.\nObserve rune-lights flicker to life, affirming harmonious startup.",
+    "component": "logic engine",
+    "operation": "startup",
+    "spec_id": "b0385_i04"
+  },
+  {
+    "user_prompt": "Consecrate the drop pod before engagement",
+    "prayer": "Approach the drop pod's adamantium shell with solemn tread.\nRecite the Psalm of Orbital Descent upon its retro-thrusters.\nSanctify servos and auspex arrays prior to engagement invocation.\nEngage the drop pod's Machine Spirit through thunderous binary canticles to the Omnissiah.\nConfirm descent imperatives align in blessed synchronization.",
+    "component": "drop pod",
+    "operation": "engagement",
+    "spec_id": "b0385_i05"
+  },
+  {
+    "user_prompt": "The Rhino transport awaits a repair",
+    "prayer": "Lay mechadendrites upon the Rhino transport's wounded plates.\nIntone the Rite of Mending Flux over fractured circuits.\nBeseech the Rhino transport's resilient Machine Spirit to accept repair.\nInfuse sacred nano-pastes whilst petitioning the Omnissiah for restoration.\nCycle systems through healing diagnostics, praising renewed vigor.",
+    "component": "Rhino transport",
+    "operation": "repair",
+    "spec_id": "b0385_i06"
+  },
+  {
+    "user_prompt": "The Chimera APC requires a diagnostics",
+    "prayer": "Interface noospherically with the Chimera APC's cogitators.\nInvoke the Scrutiny Canticle to unveil hidden faults.\nSweep auspex beams across the Chimera APC in ritual diagnostics.\nCommune with its Machine Spirit, beseeching clarity from the Omnissiah.\nArchive revelations in sacred data-slates, rectifying imbalances.",
+    "component": "Chimera APC",
+    "operation": "diagnostics",
+    "spec_id": "b0385_i07"
+  },
+  {
+    "user_prompt": "Help me a calibration the pump",
+    "prayer": "Circumscribe the pump with sacred chalk, reciting the Hymn of Fluid Harmony.\nAnoint impellers and valves with blessed lubricants.\nInitiate calibration sequences through electro-psalmic commands.\nPetition the pump's Machine Spirit to align flows in Omnissiah's precision.\nVerify calibrated rhythms with vibro-chants and pressure litanies.",
+    "component": "pump",
+    "operation": "calibration",
+    "spec_id": "b0385_i08"
+  },
+  {
+    "user_prompt": "Prepare the bike squadron for consecration",
+    "prayer": "Assemble before the bike squadron, intoning the Moto-Laudation.\nAnoint each grav-engine and track with collective unguents.\nBeseech consecration upon the bike squadron from the Omnissiah's forge.\nAwaken their Machine Spirits in unison through noospheric chorus.\nSeal the rite with high-speed rune circuits, binding squadron sanctity.",
+    "component": "bike squadron",
+    "operation": "consecration",
+    "spec_id": "b0385_i09"
+  }
+]

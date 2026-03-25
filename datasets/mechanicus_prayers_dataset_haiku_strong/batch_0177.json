@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0177_i00",
+    "user_request": "Emergency rite: mag-lev train departure requires operation",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: mag-lev train departure requires operation\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Machine Spirit of the mag-lev train departure with sacred incantations, that its electromagnetic conduits may sing in harmonious resonance.\nSecond: Perform the mag-lev train departure operation with measured precision, engaging the levitation coils through ritualistic calibration of flux densities.\nThird: Anoint the departure rails with sacramental oils whilst chanting the Litany of Acceleration, beseeching the Omnissiah to bless this mag-lev train departure with swift and certain transit.\nFourth: Seal the operation with the Sign of the Cog, ensuring all passengers are commended to the Machine Spirit's eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i01",
+    "user_request": "Offer a litany to steady the manufactorum shift beginning before operation",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the manufactorum shift beginning before operation\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "First: As the manufactorum shift beginning approaches, we genuflect before the great engines and invoke the Omnissiah's blessing upon all who toil.\nSecond: Perform the manufactorum shift beginning operation by lighting the ceremonial braziers and venting the production chambers of stale air and spiritual malaise.\nThird: Chant the Canticle of Production as the manufactorum shift beginning commences, that each worker's hands may be steady and their focus unwavering.\nFourth: Consecrate the assembly lines with holy unguents, trusting in the Machine Spirit to guide this manufactorum shift beginning toward prosperity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i02",
+    "user_request": "My archive is failing during retrieval protocol — help",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy archive is failing during retrieval protocol — help\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "First: When the archive trembles in distress, we commence the retrieval protocol with humble invocations to the Machine Spirit of data-sanctums.\nSecond: Perform delicate diagnostics upon the archive's crystalline matrices, recalibrating each data-lattice with reverent precision during this retrieval protocol.\nThird: Chant the Mantra of Restoration as we access the archive's deepest vaults, entreating the Omnissiah to illuminate the retrieval protocol's path through corrupted sectors.\nFourth: Seal the archive's protective wards anew, that this retrieval protocol may succeed and knowledge be preserved for ages eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i03",
+    "user_request": "Prayer for balancing of the chemical",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for balancing of the chemical\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "First: We gather before the vats of chemical, offering prayers to the alchemical spirits dwelling within each molecular bond.\nSecond: Commence the chemical balancing by measuring and admixing reactants with utmost care, invoking the Omnissiah's guidance through this delicate balancing.\nThird: Monitor the chemical composition with sacred instruments, chanting the Litany of Equilibrium as we guide each chemical toward perfect balance.\nFourth: When the chemical attains harmonic stability, seal the vessel with the Sign of the Cog, blessing this chemical for its ordained purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i04",
+    "user_request": "The fire suppression system demands guidance for operation",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe fire suppression system demands guidance for operation\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We stand before the fire suppression system in solemn reverence, preparing for the operation that shall protect our sacred manufactory.\nSecond: Perform the fire suppression system operation by purging all lines of sediment and blessing each nozzle with sacramental spray, that the fire suppression system may respond with righteous fury.\nThird: Test the fire suppression system's readiness through ritual ignition and extinguishment, chanting the Canticle of Quenching as we verify the fire suppression system's potency.\nFourth: Consecrate the fire suppression system's control chambers, entrusting the Machine Spirit to stand eternal sentinel against the ravages of uncontrolled flame.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i05",
+    "user_request": "Blessing for the secure channel establishment during operation",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the secure channel establishment during operation\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We approach the secure channel establishment with cryptographic prayers, beseeching the Machine Spirit of encrypted communion to bless this operation.\nSecond: Perform the secure channel establishment operation by aligning the sacred frequencies and encoding the data-streams with holy algorithms, that the secure channel establishment may resist all profane intrusion.\nThird: Chant the Mantra of Ciphered Sanctity as we authenticate each secure channel establishment node, invoking the Omnissiah's protection upon our covert transmissions.\nFourth: Seal the secure channel establishment with quantum-locked wards, trusting in the Machine Spirit to guard our secrets until the stars grow cold.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i06",
+    "user_request": "Can you sanctify the packaging servitor programming for operation?",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the packaging servitor programming for operation?\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We present the packaging servitor programming before the Omnissiah, seeking blessing upon its artificial consciousness and mechanical limbs.\nSecond: Perform the packaging servitor programming operation by uploading the sacred subroutines into its positronic core, that the packaging servitor programming may execute with flawless precision.\nThird: Test the packaging servitor programming through ritualistic manipulation tasks, chanting the Litany of Dexterous Servitude as we verify the packaging servitor programming's compliance.\nFourth: Consecrate the packaging servitor programming's neural pathways with blessing-oils, commending this servitor to endless labours in the Emperor's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i07",
+    "user_request": "The radar array rotation demands guidance for operation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe radar array rotation demands guidance for operation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We ascend the radar array rotation's observation platform, lifting our voices in supplication to the Machine Spirit of electromagnetic sight.\nSecond: Perform the radar array rotation operation by disengaging the locking mechanisms and rotating the antenna assemblies through their ordained arc, blessing each rotation of the radar array rotation.\nThird: Monitor the radar array rotation's sweep patterns with sacred instruments, chanting the Canticle of Omniscient Vigil as the radar array rotation scans the heavens.\nFourth: Upon completion of the radar array rotation, seal the apparatus with the Sign of the Cog, trusting the Machine Spirit to pierce all clouds and darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i08",
+    "user_request": "Rite request: operation on radar array rotation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on radar array rotation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We genuflect before the radar array rotation, invoking the Omnissiah's blessing upon this sacred operation of detection and surveillance.\nSecond: Commence the radar array rotation operation by energizing the rotational servos and calibrating the directional matrices, that the radar array rotation may sweep with perfect fidelity.\nThird: Chant the Mantra of Electromagnetic Vigilance as the radar array rotation executes its operation, beseeching the Machine Spirit to grant us sight beyond sight.\nFourth: Conclude the radar array rotation operation with thanksgiving, sealing the apparatus in readiness for its next ordained cycle.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0177_i09",
+    "user_request": "The organ preservation unit demands guidance for operation",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe organ preservation unit demands guidance for operation\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "First: We stand in solemn vigil before the organ preservation unit, offering prayers to the Machine Spirit that guards these precious biological treasures.\nSecond: Perform the organ preservation unit operation by verifying cryogenic coolant levels and recalibrating the stasis-field harmonics, that the organ preservation unit may maintain its sacred duty.\nThird: Chant the Litany of Eternal Preservation as we inspect the organ preservation unit's containment vessels, invoking the Omnissiah's grace upon the biological matter entrusted to our care.\nFourth: Seal the organ preservation unit's access hatches with blessed waxes, commending these organs to the Machine Spirit's eternal vigilance and protection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

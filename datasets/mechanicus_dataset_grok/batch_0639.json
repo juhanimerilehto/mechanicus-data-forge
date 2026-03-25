@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for cryo-chamber a recalibration",
+    "prayer": "Approach the cryo-chamber with reverence, beseeching the Omnissiah's chill embrace.\nAnoint its cryo-regulators with sacred cryogel, preparing for recalibration.\nInvoke the Machine Spirit of the cryo-chamber to realign its thermal lattices.\nChant the Litany of Equilibrium whilst enacting recalibration rites.\nSanctify the cryo-chamber's restored harmony through auspex invocation.",
+    "component": "cryo-chamber",
+    "operation": "recalibration",
+    "spec_id": "s02390"
+  },
+  {
+    "user_prompt": "The welding torch requires a recalibration",
+    "prayer": "Kneel before the welding torch, sacred forge of plasma fury.\nCleanse its focusing coils with sanctified abrasives.\nBeseech recalibration upon the welding torch's plasma vents and lenses.\nInvoke the Machine Spirit to harmonize its fusion streams anew.\nConclude with the Doxology of Binding, verifying recalibrated precision.",
+    "component": "welding torch",
+    "operation": "recalibration",
+    "spec_id": "s02391"
+  },
+  {
+    "user_prompt": "Bless the iron halo for shutdown",
+    "prayer": "Commence the rite of quiescence upon the iron halo, ward of the faithful.\nDisconnect its sanctity emitters with reverent precision.\nBeseech the Machine Spirit within the iron halo to enter peaceful shutdown.\nChant the Canticle of Repose as power flows cease.\nSeal the iron halo's aegis with invocation of the Omnissiah's vigil.",
+    "component": "iron halo",
+    "operation": "shutdown",
+    "spec_id": "s02392"
+  },
+  {
+    "user_prompt": "The kataphron breacher requires an activation",
+    "prayer": "Approach the kataphron breacher, cybernetic servitor of destruction.\nAnoint its breacher drills and heavy stubbers with blessed oils.\nInvoke activation of the Machine Spirit, awakening its relentless fury.\nChant the Activation Doxology to surge life through its servomotors.\nVerify the kataphron breacher's readiness with binary catechisms.",
+    "component": "kataphron breacher",
+    "operation": "activation",
+    "spec_id": "s02393"
+  },
+  {
+    "user_prompt": "Ready the waste reclamator for shutdown",
+    "prayer": "Prepare the waste reclamator for sacred dormancy, recycler of dross.\nPurge residual effluents from its reclamation chambers.\nBeseech the Machine Spirit of the waste reclamator to embrace shutdown.\nEnact the Rite of Cessation, sealing valves with litanies.\nConsecrate its stillness under the Omnissiah's purifying gaze.",
+    "component": "waste reclamator",
+    "operation": "shutdown",
+    "spec_id": "s02394"
+  },
+  {
+    "user_prompt": "Assist with gellar field a synchronization",
+    "prayer": "Gather mechadendrites around the gellar field generator.\nCalibrate its warp-barriers with harmonic resonances.\nInvoke synchronization of the gellar field's protective wards.\nBeseech the Machine Spirits to align in perfect unity against the void.\nAffirm the gellar field's sanctified synchronization through warp-echo scans.",
+    "component": "gellar field",
+    "operation": "synchronization",
+    "spec_id": "s02395"
+  },
+  {
+    "user_prompt": "Critical: power fist requires a calibration",
+    "prayer": "Grasp the power fist, thunderous gauntlet of the Omnissiah.\nAnoint its disruption fields with conductive sacraments.\nInitiate calibration of servo-gyros and power relays.\nInvoke the Machine Spirit to attune its crushing might precisely.\nTest the power fist's calibrated fury with the Canticle of Annihilation.",
+    "component": "power fist",
+    "operation": "calibration",
+    "spec_id": "s02396"
+  },
+  {
+    "user_prompt": "Sanctify the Archaeopter Fusilave during calibration",
+    "prayer": "Circumambulate the Archaeopter Fusilave, aerial harbinger of flame.\nBless its fusillade arrays and grav-impellers with incense.\nEnact calibration upon the Archaeopter Fusilave's targeting cogitators.\nAwaken its Machine Spirit through binary hymns of precision.\nSeal the Archaeopter Fusilave's calibration with Omnissiah's fire invocation.",
+    "component": "Archaeopter Fusilave",
+    "operation": "calibration",
+    "spec_id": "s02397"
+  },
+  {
+    "user_prompt": "Critical: null rod requires a preparation",
+    "prayer": "Handle the null rod with utmost purity, bane of psychic heresy.\nCleanse its null-generators with anti-psi wards.\nInvoke preparation rites to attune its warp-nullifying essence.\nBeseech the Machine Spirit indwelling the null rod for vigilant readiness.\nConclude preparation with the Litany of Void, affirming its sanctity.",
+    "component": "null rod",
+    "operation": "preparation",
+    "spec_id": "s02398"
+  },
+  {
+    "user_prompt": "Prepare the energy conduit for activation",
+    "prayer": "Approach the energy conduit, vital artery of machine power.\nPurify its plasma channels with electro-sanctifiers.\nInvoke activation of the energy conduit's flow matrices.\nChant to rouse the Machine Spirit, surging holy current through.\nVerify the energy conduit's activated vigor with auspex litanies.",
+    "component": "energy conduit",
+    "operation": "activation",
+    "spec_id": "s02399"
+  }
+]

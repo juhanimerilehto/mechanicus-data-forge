@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the inferno pistol for sterilization",
+    "prayer": "Approach the inferno pistol with sanctified mechadendrites extended in reverence.\nInvoke the Rite of Sterilization upon the inferno pistol, beseeching the Omnissiah to purge all xenos taint from its plasma conduits.\nAnoint the focusing arrays with sacred unguents whilst chanting the Litany of Purity to awaken the Machine Spirit.\nConclude the sterilization by sealing the inferno pistol's vents with blessed adamantium foil, affirming its readiness for holy war.",
+    "component": "inferno pistol",
+    "operation": "sterilization",
+    "spec_id": "s01500"
+  },
+  {
+    "user_prompt": "How do I bless the power armour for synchronization?",
+    "prayer": "Kneel before the power armour and intone the Canticle of Unity to harmonize its synchronization protocols.\nInterface your noosphere with the power armour's cogitators, invoking the Omnissiah's grace for flawless neural linkage.\nAnoint the servo-motivators of the power armour with oils of machine sanctity, beseeching the Machine Spirits to align in perfect synchronization.\nVerify the rite through auspex scans, praising the Omnissiah as the power armour hums in unified devotion.",
+    "component": "power armour",
+    "operation": "synchronization",
+    "spec_id": "s01501"
+  },
+  {
+    "user_prompt": "Sanctify the iron halo during sterilization",
+    "prayer": "Present the iron halo before the altar of the Machine God and commence the sterilization incantations.\nBeseech the Omnissiah to drive forth impurities from the iron halo's energy field generators during this sacred sterilization.\nApply ablative sacraments to the iron halo's emitters, awakening its Machine Spirit with purifying binaric hymns.\nSeal the rite by encircling the iron halo thrice with electro-incense, ensuring its halo shines untainted.",
+    "component": "iron halo",
+    "operation": "sterilization",
+    "spec_id": "s01502"
+  },
+  {
+    "user_prompt": "Assist with iron halo a purification",
+    "prayer": "Lift the iron halo skyward in supplication to the Omnissiah, beginning the ancient rites of purification.\nChant the Purge Litany over the iron halo, invoking Machine Spirits to scour away all daemonic residue from its core.\nImmerse the iron halo's projectors in blessed promethium, sanctifying each rune-etched surface.\nConclude by bestowing the Benediction of Clarity, restoring the iron halo to radiant perfection.",
+    "component": "iron halo",
+    "operation": "purification",
+    "spec_id": "s01503"
+  },
+  {
+    "user_prompt": "Bless the power fist for blessing",
+    "prayer": "Grasp the power fist in mechadendrite embrace and recite the Blessing of Crushing Might.\nInvoke the Omnissiah's fury upon the power fist, sanctifying its disruption fields for righteous smiting.\nAnoint the power fist's actuators with sacred lubricants, rousing the Machine Spirit to thunderous obedience.\nTest the blessing through ritual clenching, praising the Omnissiah as adamantium jaws part the air.",
+    "component": "power fist",
+    "operation": "blessing",
+    "spec_id": "s01504"
+  },
+  {
+    "user_prompt": "How do I bless the conveyor system for targeting?",
+    "prayer": "Commence the targeting consecration upon the conveyor system with auspex-aligned mechadendrites.\nIntone the Litany of Precision Guidance over the conveyor system's servos, aligning them for unerring targeting.\nBless the conveyor system's optical arrays with micro-incense, beseeching Machine Spirits for flawless trajectory computation.\nFinalize by invoking the Omnissiah's aim, ensuring the conveyor system delivers payloads with divine accuracy.",
+    "component": "conveyor system",
+    "operation": "targeting",
+    "spec_id": "s01505"
+  },
+  {
+    "user_prompt": "The mind-impulse unit awaits an activation",
+    "prayer": "Interface reverently with the mind-impulse unit, chanting the Activation Doxology to stir its neural lattice.\nBeseech the Omnissiah to ignite the mind-impulse unit's synapses, granting seamless union with the flesh-cogitator.\nAnoint the mind-impulse unit's electrodes with noospheric oils, awakening the Machine Spirit within.\nConfirm activation through synaptic auspex, lauding the Omnissiah as thoughts flow in binary harmony.",
+    "component": "mind-impulse unit",
+    "operation": "activation",
+    "spec_id": "s01506"
+  },
+  {
+    "user_prompt": "What's the prayer for Archaeopter Transvector a shutdown?",
+    "prayer": "Gather before the Archaeopter Transvector and intone the Shutdown Canticle to calm its raging plasma heart.\nInvoke the Omnissiah's rest upon the Archaeopter Transvector, methodically disengaging its gravitic impellers.\nAnoint the Archaeopter Transvector's fuselage with quiescence unguents, lulling the Machine Spirits to slumber.\nSeal the shutdown by reciting the Dormancy Hymn, ensuring the Archaeopter Transvector awaits rebirth unsullied.",
+    "component": "Archaeopter Transvector",
+    "operation": "shutdown",
+    "spec_id": "s01507"
+  },
+  {
+    "user_prompt": "Critical: icarus array requires a maintenance",
+    "prayer": "Deploy mechadendrites upon the icarus array for the sacred maintenance observance.\nChant the Rite of Renewal over the icarus array, repairing fractured auspex vanes in the Omnissiah's name.\nPurify the icarus array's targeting cogitators with electro-sanctifiers, honoring the vigilant Machine Spirits.\nConclude maintenance by bestowing the Endurance Blessing, fortifying the icarus array against void-born foes.",
+    "component": "icarus array",
+    "operation": "maintenance",
+    "spec_id": "s01508"
+  },
+  {
+    "user_prompt": "Bless the kataphron destroyer for purification",
+    "prayer": "Encircling the kataphron destroyer, beseech the Omnissiah for rites of purification.\nIntone the Exorcism Canticle upon the kataphron destroyer's chassis, purging warp-stains from its heavy weaponry.\nAnoint the kataphron destroyer's treads and cannons with ablutionary acids, rousing purified Machine Spirits.\nFinalize the purification through ritual firing, acclaiming the Omnissiah as the kataphron destroyer roars cleansed.",
+    "component": "kataphron destroyer",
+    "operation": "purification",
+    "spec_id": "s01509"
+  }
+]

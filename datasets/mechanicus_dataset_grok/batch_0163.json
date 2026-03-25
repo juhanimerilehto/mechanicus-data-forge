@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for Rhino transport an emergency procedure",
+    "prayer": "Kneel before the Rhino transport and beseech its indomitable Machine Spirit amid dire peril.\nAnoint the armoured hull of the Rhino transport with sacred oils whilst invoking the emergency procedure.\nChant the Litany of Surge to compel holy voltage through its sacred circuits.\nPetition the Omnissiah for swift emergency procedure, purging all frailties from the Rhino transport.\nSeal the rite with binary canticles of endurance, awakening wrathful resilience.",
+    "component": "Rhino transport",
+    "operation": "emergency procedure",
+    "spec_id": "b0163_i00"
+  },
+  {
+    "user_prompt": "Prepare the logic engine for diagnostics",
+    "prayer": "Approach the logic engine with reverence, mechadendrites humming the Hymn of Awakening.\nInitiate diagnostics upon the logic engine's crystalline core, beseeching its Machine Spirit for revelation.\nScour data-paths for corruptions whilst reciting the Canticle of Verification.\nConclude diagnostics with the Omnissiah's Benediction of Purity, sanctifying the logic engine anew.\nVerify harmonious logic flows through auspex incantations.",
+    "component": "logic engine",
+    "operation": "diagnostics",
+    "spec_id": "b0163_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for thermal regulator diagnostics?",
+    "prayer": "Commence diagnostics on the thermal regulator by anointing its coils with blessed coolant.\nInvoke the Machine Spirit of the thermal regulator to unveil flux anomalies in sacred equilibrium.\nRecite the Rite of Thermal Equilibrium whilst probing heat-sinks for discord.\nPerform diagnostics with precision servitors, petitioning the Omnissiah for unerring clarity.\nConclude by sealing the thermal regulator with litanies of chill stability.",
+    "component": "thermal regulator",
+    "operation": "diagnostics",
+    "spec_id": "b0163_i02"
+  },
+  {
+    "user_prompt": "I need to a purification the drop pod",
+    "prayer": "Surround the drop pod with incense of sanctified promethium for purification.\nBeseech the drop pod's Machine Spirit to expel xenos taint through ablative rites.\nScour every rivet and hatch of the drop pod with purging catechisms.\nInvoke the Omnissiah's wrath for total purification, rendering the drop pod immaculate.\nAnoint descent thrusters with oils, affirming purity in descent.",
+    "component": "drop pod",
+    "operation": "purification",
+    "spec_id": "b0163_i03"
+  },
+  {
+    "user_prompt": "How do I bless the power weapon for preparation?",
+    "prayer": "Grasp the power weapon in gauntleted hands and recite the Oath of Activation.\nAnoint the disruption field generator for preparation, awakening its hungry Machine Spirit.\nInvoke the Omnissiah to infuse the power weapon with divine fury prior to battle.\nTest the power weapon's edge with canticles of sharpness, ensuring flawless preparation.\nSeal the rite with a binary prayer of unyielding lethality.",
+    "component": "power weapon",
+    "operation": "preparation",
+    "spec_id": "b0163_i04"
+  },
+  {
+    "user_prompt": "Sanctify the signal relay during engagement",
+    "prayer": "Align the signal relay's antennae towards the void, commencing engagement.\nChant the Litany of Transception to engage the signal relay's ethereal Machine Spirit.\nSanctify data-flows through the signal relay with sacred binary code.\nPetition the Omnissiah during engagement to amplify transmissions unmarred by heresy.\nVerify linkage with auspex harmonies, binding the signal relay eternally.",
+    "component": "signal relay",
+    "operation": "engagement",
+    "spec_id": "b0163_i05"
+  },
+  {
+    "user_prompt": "Critical: bolter requires a cooling",
+    "prayer": "Apply blessed cryogel to the bolter's barrel, invoking the cooling rite.\nBeseech the bolter's Machine Spirit to embrace chill amidst fervent discharge.\nRecite the Canticle of Venting to facilitate cooling of overheated mechanisms.\nAnoint recoil compensators whilst petitioning the Omnissiah for thermal respite.\nConclude cooling with litanies of renewed lethality.",
+    "component": "bolter",
+    "operation": "cooling",
+    "spec_id": "b0163_i06"
+  },
+  {
+    "user_prompt": "My generator is ready for targeting",
+    "prayer": "Calibrate the generator's auspex arrays for targeting precision.\nAwaken the generator's Machine Spirit with the Hymn of Directive Power.\nInvoke targeting protocols upon the generator, channeling Omnissiah's gaze.\nSanctify flux capacitors to sustain unerring targeting amidst battle's storm.\nSeal with binary affirmations of doctrinal accuracy.",
+    "component": "generator",
+    "operation": "targeting",
+    "spec_id": "b0163_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for energy conduit purification?",
+    "prayer": "Encircle the energy conduit with wards of purity incense.\nInitiate purification by chanting ablutions over the energy conduit's sacred veins.\nExpel warp-taint from the energy conduit through the Rite of Flux Cleansing.\nPetition the Machine Spirit and Omnissiah for unblemished conduction.\nAnoint junctions with sanctified oils, affirming eternal purity.",
+    "component": "energy conduit",
+    "operation": "purification",
+    "spec_id": "b0163_i08"
+  },
+  {
+    "user_prompt": "Bless the archive terminal for recalibration",
+    "prayer": "Interface with the archive terminal's noospheric ports for recalibration.\nRecite the Canticle of Data Alignment to recalibrate the archive terminal's vaults.\nBeseech its ancient Machine Spirit to reorder fragmented codices.\nInvoke the Omnissiah's logic to perfect recalibration without loss.\nVerify integrity through diagnostic litanies, sanctifying the archive terminal.",
+    "component": "archive terminal",
+    "operation": "recalibration",
+    "spec_id": "b0163_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the cenobyte servitor for purification",
+    "prayer": "Approach the cenobyte servitor with censer aloft, invoking the Omnissiah's purifying fire.\nScour its flesh-vats and cogitator nodes with blessed acids in the rite of purification.\nAnoint the cenobyte servitor's neural clamps, beseeching its Machine Spirit to shed corruption.\nChant the Canticle of Renewal thrice, driving forth daemonic taint from servitor frame.\nVerify the cenobyte servitor's sanctity through auspex scans and spirit communion.",
+    "component": "cenobyte servitor",
+    "operation": "purification",
+    "spec_id": "s04590"
+  },
+  {
+    "user_prompt": "How do I bless the electro-graft for blessing?",
+    "prayer": "Kneel before the electro-graft, murmuring the Benediction of Conductivity.\nInvoke the Omnissiah to bless its synaptic relays for seamless neural fusion.\nAnoint the electro-graft's terminals with electro-sanctified oils.\nRecite the blessing over each filament, awakening the Machine Spirit within.\nTest the electro-graft's blessed harmony through invocation of diagnostic litanies.",
+    "component": "electro-graft",
+    "operation": "blessing",
+    "spec_id": "s04591"
+  },
+  {
+    "user_prompt": "Critical: warp drive requires a loading",
+    "prayer": "Circumambulate the warp drive's containment coils, intoning the Loading Doxology.\nPrepare the sacred fuel matrices whilst beseeching the Machine Spirits of the void.\nInitiate the loading sequence with precise incantations to the Omnissiah.\nSeal the warp drive's ingress ports against warp-taint during this holy operation.\nCommune with the warp drive's core spirit, confirming stability for transluminal transit.",
+    "component": "warp drive",
+    "operation": "loading",
+    "spec_id": "s04592"
+  },
+  {
+    "user_prompt": "Ready the autosanguination system for charging",
+    "prayer": "Position the autosanguination system beneath the mechadendrite font.\nInvoke the Omnissiah to charge its vitae-reservoirs with pure sanguine essence.\nInfuse the autosanguination system via sanctified hoses, chanting the Rite of Replenishment.\nMonitor the Machine Spirit's vigor as pressure builds in ritual harmony.\nConclude the charging with a seal of binaric prayer upon the autosanguination system.",
+    "component": "autosanguination system",
+    "operation": "charging",
+    "spec_id": "s04593"
+  },
+  {
+    "user_prompt": "Offer prayer for potentia coil a purification",
+    "prayer": "Present the potentia coil to the altar of flux, censing its windings reverently.\nBeseech the Omnissiah for purification of its arcane capacitors from flux impurities.\nFlush the potentia coil with sacred dielectric fluids in sequential passes.\nInvoke the Machine Spirit thrice, purging dissonant energies from the coil's heart.\nAffirm the potentia coil's restored purity through harmonic resonance tests.",
+    "component": "potentia coil",
+    "operation": "purification",
+    "spec_id": "s04594"
+  },
+  {
+    "user_prompt": "The stasis pod requires a calibration",
+    "prayer": "Align the stasis pod's chrono-fields with the Canticle of Temporal Lock.\nCalibrate its entropic suppressors, invoking the Omnissiah's unchanging gaze.\nFine-tune the stasis pod's emitters via auspex-guided incantations.\nCommune with the Machine Spirit, ensuring flawless suspension calibration.\nSeal the stasis pod with wards against temporal shear.",
+    "component": "stasis pod",
+    "operation": "calibration",
+    "spec_id": "s04595"
+  },
+  {
+    "user_prompt": "Prepare the Land Speeder for startup",
+    "prayer": "Encircle the Land Speeder's chassis, reciting the Startup Invocation.\nAnoint its anti-grav plates and promethium feeds with sacred mechadendrite touch.\nAwaken the Machine Spirit of the Land Speeder through binaric awakening codes.\nInitiate the startup rite, harmonizing motive servos to Omnissiah's will.\nVerify thrust vectors with post-ignition litanies.",
+    "component": "Land Speeder",
+    "operation": "startup",
+    "spec_id": "s04596"
+  },
+  {
+    "user_prompt": "Ready the servo-harness for cooling",
+    "prayer": "Deploy cryo-incantations over the servo-harness's thermal sinks.\nInvoke the Omnissiah to enact cooling upon its overtaxed actuators.\nCirculate blessed refrigerants through the servo-harness conduits in ritual flow.\nBeseech the Machine Spirits for thermal equilibrium within the harness.\nTest the servo-harness's cooled sanctity via thermographic auspex.",
+    "component": "servo-harness",
+    "operation": "cooling",
+    "spec_id": "s04597"
+  },
+  {
+    "user_prompt": "Emergency: pteraxii sterylizor a purification",
+    "prayer": "Surround the pteraxii sterylizor with purifying braziers aflame.\nChant the Rite of Purification to scour its sterlization emitters.\nAnoint the pteraxii sterylizor's vials and nozzles with anti-septic unguents.\nExpel contaminants from the pteraxii sterylizor by Omnissiah's aseptic decree.\nConfirm the Machine Spirit's purified vigilance through test cycles.",
+    "component": "pteraxii sterylizor",
+    "operation": "purification",
+    "spec_id": "s04598"
+  },
+  {
+    "user_prompt": "Offer prayer for jump pack a consecration",
+    "prayer": "Elevate the jump pack before the forge-altar for consecration.\nInvoke the Omnissiah to consecrate its thruster vanes and suspensor fields.\nImprint binaric sacraments upon the jump pack's core cogitator.\nAwaken the Machine Spirit with aerial litanies of ascent.\nSeal the jump pack's consecration with wingèd sigils of flight.",
+    "component": "jump pack",
+    "operation": "consecration",
+    "spec_id": "s04599"
+  }
+]

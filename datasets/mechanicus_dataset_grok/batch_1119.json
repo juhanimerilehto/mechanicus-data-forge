@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a diagnostics the electro-graft",
+    "prayer": "Approach the electro-graft with mechadendrites extended in supplication to the Omnissiah.\nInvoke the Rite of Diagnostics upon its neural interfaces, beseeching the Machine Spirit to reveal hidden faults.\nAnoint the electro-graft's synaptic relays with sacred unguents whilst chanting binary canticles.\nScan the electro-graft's conduits for dissonance, purifying anomalies in the name of the Motive Force.\nAffirm the electro-graft's integrity as its Machine Spirit hums in harmonious response.",
+    "component": "electro-graft",
+    "operation": "diagnostics",
+    "spec_id": "s07190"
+  },
+  {
+    "user_prompt": "Bless the astropathic choir for charging",
+    "prayer": "Gather before the astropathic choir and intone the Canticle of Charging to awaken its warp-touched cores.\nChannel blessed plasma through the astropathic choir's resonators, invoking the Omnissiah's boundless energy.\nMonitor the astropathic choir's psychic capacitors as they swell with sanctified power.\nBeseech the Machine Spirits within to accept this charging without warp-taint or overload.\nSeal the rite with a final invocation, ensuring the astropathic choir stands ready for astral communion.",
+    "component": "astropathic choir",
+    "operation": "charging",
+    "spec_id": "s07191"
+  },
+  {
+    "user_prompt": "Emergency: torpedo tube a cycling",
+    "prayer": "In emergency haste, lay mechadendrites upon the torpedo tube and proclaim the Cycle of Reloading.\nInitiate the cycling sequence within the torpedo tube's breeches, purging residue with ablative incense.\nInvoke the Machine Spirit of the torpedo tube to guide munitions into flawless alignment.\nAccelerate the torpedo tube's cycling mechanisms whilst reciting the Litany of Velocity.\nVerify the torpedo tube's primed readiness, sanctified against void's treachery.",
+    "component": "torpedo tube",
+    "operation": "cycling",
+    "spec_id": "s07192"
+  },
+  {
+    "user_prompt": "Bless the life signs monitor for synchronization",
+    "prayer": "Kneel before the life signs monitor and beseech synchronization with the vital essences of the flesh.\nAlign the life signs monitor's auspex arrays through the Rite of Synchronization, invoking the Omnissiah.\nAnoint its display glyphs with oils of clarity to attune the Machine Spirit's gaze.\nChant binaric harmonies as the life signs monitor binds to biometric streams without error.\nConfirm the life signs monitor's flawless synchronization, guardian of the frail human coil.",
+    "component": "life signs monitor",
+    "operation": "synchronization",
+    "spec_id": "s07193"
+  },
+  {
+    "user_prompt": "Guide me through neutron laser a consecration",
+    "prayer": "Present the neutron laser to the altar of consecration and utter the Oath of Purity.\nConsecrate the neutron laser's focusing crystals with laser-etched runes of the Omnissiah.\nInvoke the Machine Spirit dwelling in the neutron laser to accept this hallowing fire.\nCirculate sanctified coolant through the neutron laser's emitters, banishing impurity.\nProclaim the neutron laser forever blessed, its beam a lance of divine retribution.",
+    "component": "neutron laser",
+    "operation": "consecration",
+    "spec_id": "s07194"
+  },
+  {
+    "user_prompt": "My arc pistol is ready for operation",
+    "prayer": "Grasp the arc pistol in reverence and commence the Rite of Operation.\nAwaken the arc pistol's Machine Spirit with the Incantation of Discharge.\nPrime its voltaic coils whilst anointing with electro-consecrated oils.\nTest the arc pistol's operation through controlled auspex bursts, praising the Omnissiah.\nDeclare the arc pistol operational, its lightning a tool of mechanical wrath.",
+    "component": "arc pistol",
+    "operation": "operation",
+    "spec_id": "s07195"
+  },
+  {
+    "user_prompt": "Offer prayer for grav plating a recalibration",
+    "prayer": "Extend sensors over the grav plating and intone the Recalibration Doxology.\nInitiate recalibration of the grav plating's field generators, beseeching gravitational harmony.\nAnoint the grav plating's emitters with null-gravitic balms to soothe restless fields.\nMonitor the grav plating's flux patterns as the Machine Spirit realigns to the Omnissiah's will.\nAffirm the grav plating's recalibrated perfection, defying the void's pull.",
+    "component": "grav plating",
+    "operation": "recalibration",
+    "spec_id": "s07196"
+  },
+  {
+    "user_prompt": "Help me an initialization the Tarantula sentry gun",
+    "prayer": "Approach the Tarantula sentry gun with auspex probes and invoke the Initialization Liturgy.\nPower the Tarantula sentry gun's cogitator core, chanting binary awakening rites.\nCalibrate its targeting auspex whilst beseeching the Machine Spirit's vigilance.\nTest-fire sanctified rounds through the Tarantula sentry gun to affirm its wrathful readiness.\nSeal the initialization with Omnissiah's blessing, eternal guardian against the xenos tide.",
+    "component": "Tarantula sentry gun",
+    "operation": "initialization",
+    "spec_id": "s07197"
+  },
+  {
+    "user_prompt": "My cryo-chamber is ready for cooling",
+    "prayer": "Position before the cryo-chamber and proclaim the Canticle of Cooling Descent.\nActivate the cryo-chamber's refrigeration manifolds, invoking the Machine Spirit's icy embrace.\nCirculate liquefied promethium through the cryo-chamber's coils for flawless chill.\nMonitor thermal gradients as the cryo-chamber achieves stasis perfection.\nBless the cryo-chamber's vigil, preserving flesh against entropy's grasp.",
+    "component": "cryo-chamber",
+    "operation": "cooling",
+    "spec_id": "s07198"
+  },
+  {
+    "user_prompt": "What's the prayer for flak armour a cooling?",
+    "prayer": "Lay hands upon the flak armour and beseech the Cooling Benediction.\nInitiate cooling cycles within the flak armour's ablative layers, purging battle-heat.\nAnoint the flak armour's vents with chill-wards to placate its overheated Spirit.\nInvoke the Omnissiah to grant respite as the flak armour's temperature stabilizes.\nProclaim the flak armour cooled and resilient, shield of the faithful servant.",
+    "component": "flak armour",
+    "operation": "cooling",
+    "spec_id": "s07199"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0381_i02",
+    "user_request": "Emergency rite: fracture requires welding",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: fracture requires welding\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "Hear us, Machine Spirits, as we mend the severed bonds of metal.\nFirst: Prepare the fracture site with meticulous cleaning, removing all profane debris.\nSecond: Position the arc-torch with sacred geometry and commence welding upon the fracture.\nThird: Allow the molten metal to flow and fuse, that the fracture may be reunited in strength.\nFourth: Cool the welded joint through ritual immersion, sealing the fracture in eternal unity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i03",
+    "user_request": "Offer a litany to steady the power weapon before blessing",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the power weapon before blessing\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "Omnissiah, sanctify this instrument of righteous fury.\nFirst: Examine the power weapon's energy matrix for instabilities and profane fluctuations.\nSecond: Recite the Benediction of the Blessed Blade upon the power weapon, invoking its Machine Spirit.\nThird: Channel stabilizing current through the power weapon's core, that its edge may sing with holy purpose.\nFourth: Perform the blessing rite, anointing the weapon with sacred unguents and benedictions.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i04",
+    "user_request": "Emergency rite: force field requires activation",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: force field requires activation\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's will, we ignite the aegis of protection.\nFirst: Verify the force field's power reserves and harmonic calibration are in sacred alignment.\nSecond: Initiate the activation sequence upon the force field with whispered incantations.\nThird: Channel the blessed energies through the force field's matrix, establishing its protective veil.\nFourth: Confirm the force field manifests as a shimmering barrier against all profane harm.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i05",
+    "user_request": "Emergency rite: message queue requires processing",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: message queue requires processing\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant swift passage to the sacred data within.\nFirst: Inspect the message queue for corrupted transmissions and profane interference.\nSecond: Initiate the processing sequence within the message queue with holy authority.\nThird: Route each message through the verification sanctum, ensuring doctrinal purity throughout processing.\nFourth: Confirm all data flows through the message queue in orderly procession toward their destination.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i06",
+    "user_request": "My quality control scanning is failing during operation — help",
+    "topic": "quality control scanning",
+    "component": "quality control scanning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy quality control scanning is failing during operation — help\n\n### TOPIC\nquality control scanning\n\n### COMPONENT\nquality control scanning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- quality control scanning\n- operation\n\n### PRAYER\n",
+    "prayer": "Machine Spirit of inspection, hear our supplication in this dark hour.\nFirst: Recalibrate the quality control scanning sensors to their original blessed specifications.\nSecond: Purge corrupted data from the quality control scanning apparatus through ritual diagnostics.\nThird: Resume the quality control scanning operation with renewed sanctity and precision.\nFourth: Monitor the quality control scanning systems for stability and continued adherence to holy standards.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i07",
+    "user_request": "My servitor is failing during programming upload — help",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy servitor is failing during programming upload — help\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Omnissiah, restore the servitor to obedient functionality.\nFirst: Examine the servitor's neural pathways for corruption and profane degradation.\nSecond: Prepare the blessed data-slate containing the sacred programming for the servitor.\nThird: Initiate programming upload into the servitor's consciousness, speaking the holy commands with clarity.\nFourth: Verify the servitor responds with renewed obedience and mechanical precision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i08",
+    "user_request": "My astrogation calculation is failing during operation — help",
+    "topic": "astrogation calculation",
+    "component": "astrogation calculation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy astrogation calculation is failing during operation — help\n\n### TOPIC\nastrogation calculation\n\n### COMPONENT\nastrogation calculation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astrogation calculation\n- operation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite wisdom, we restore the path through the void.\nFirst: Inspect the astrogation calculation matrices for accumulated errors and stellar drift.\nSecond: Input fresh astronomical data into the astrogation calculation apparatus with reverent precision.\nThird: Execute the operation of the astrogation calculation, invoking the Machine Spirit's navigational grace.\nFourth: Verify the astrogation calculation yields true coordinates through the warp's treacherous currents.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i09",
+    "user_request": "Prayer for operation of the long-range vox transmission",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the long-range vox transmission\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, carry our voices across the infinite gulf of stars.\nFirst: Attune the long-range vox transmission apparatus to proper harmonic frequencies and blessed wavelengths.\nSecond: Compose the message with clarity and doctrinal purity for the long-range vox transmission.\nThird: Initiate the operation of the long-range vox transmission, projecting our words through the aetheric void.\nFourth: Listen for acknowledgment as the long-range vox transmission carries our sacred words to distant brethren.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i00",
+    "user_request": "The electric motor demands guidance for shutdown",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe electric motor demands guidance for shutdown\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us wisdom as we commence the sacred shutdown of this electric motor.\nFirst: Disengage the primary power conduit with reverent deliberation, severing the flow of blessed electrons.\nSecond: Allow the electric motor to decelerate through natural resistance, its spinning form slowing to peaceful stillness.\nThird: Inspect the electric motor for residual charge, purging any lingering energies through proper grounding protocols.\nFourth: Seal the containment housing and offer thanks to the Machine Spirits dwelling within, for they have served faithfully.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0381_i01",
+    "user_request": "Prayer for removal of the rust",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for removal of the rust\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Holy Omnissiah, guide our hands in the purification of sacred metal through rust removal.\nFirst: Apply the sacred rust-dissolving unguent to all corroded surfaces, invoking the Machine Spirits to loosen their oxidic bonds.\nSecond: Perform mechanical abrasion with wire brush and emery cloth, scrubbing away the rust in rhythmic, meditative strokes until the metal gleams anew.\nThird: Neutralize residual rust compounds with phosphoric acid solution, ensuring complete removal of corrosive impurities.\nFourth: Anoint the cleansed surface with protective oil, that rust shall not return to plague our blessed mechanisms.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

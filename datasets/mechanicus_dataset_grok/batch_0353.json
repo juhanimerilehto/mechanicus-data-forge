@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My quality scanner is ready for engagement",
+    "prayer": "Approach the quality scanner with mechadendrite-extended reverence, intoning the Litany of Precise Scrutiny.\nBeseech the Machine Spirit of the quality scanner to stir for engagement, anointing its optic arrays with sacred oils.\nInvoke the engagement rites upon the quality scanner, channeling holy voltage through its calibration conduits.\nChant the binary canticles of activation as diagnostic runes affirm the quality scanner's awakened vigilance.\nPetition the Omnissiah for unerring judgement in the quality scanner's discerning gaze.",
+    "component": "quality scanner",
+    "operation": "engagement",
+    "spec_id": "b0353_i00"
+  },
+  {
+    "user_prompt": "The bolter needs a consecration",
+    "prayer": "Kneel before the bolter, vessel of the Omnissiah's wrath, and recite the Catechism of Holy Munitions.\nAnoint the bolter's barrel and firing mechanisms with sanctified promethium-laced unguents for consecration.\nInvoke the Machine Spirit dwelling within the bolter, beseeching it to accept this rite of consecration.\nCycle the consecration chamber with blessed servitor hands, murmuring binaric litanies of purity.\nVerify the bolter's sanctified fury through auspex invocation, praising the Omnissiah's enduring favor.",
+    "component": "bolter",
+    "operation": "consecration",
+    "spec_id": "b0353_i01"
+  },
+  {
+    "user_prompt": "How do I bless the energy conduit for cooling?",
+    "prayer": "Draw close to the energy conduit, conduit of the Machine God's blessed power-flow, and whisper the Incantation of Thermal Equilibrium.\nBeseech the Machine Spirit of the energy conduit to embrace cooling, applying cryo-sanctified vapors to its sacred coils.\nInitiate the cooling cycle upon the energy conduit, intoning hymns that soothe its fervent plasma heart.\nMonitor the energy conduit's blessed chill through thermographic auguries, anointing junctions with sacred lubricants.\nOffer praise to the Omnissiah as the energy conduit hums in purified repose.",
+    "component": "energy conduit",
+    "operation": "cooling",
+    "spec_id": "b0353_i02"
+  },
+  {
+    "user_prompt": "The Rhino transport needs a synchronization",
+    "prayer": "Commune with the Rhino transport, iron steed of the Mechanicum, reciting the Ode to Synchronized Treads.\nPetition the Machine Spirits infusing the Rhino transport for synchronization, linking cogitator noospheres with binary psalms.\nAnoint the synchronization relays of the Rhino transport with electro-consecrated oils during rite alignment.\nInitiate full synchronization protocols, chanting litanies as servos harmonize in Omnissian unity.\nAffirm the Rhino transport's cohesive might through noospheric diagnostics, glorifying the Machine God.",
+    "component": "Rhino transport",
+    "operation": "synchronization",
+    "spec_id": "b0353_i03"
+  },
+  {
+    "user_prompt": "The cutting laser needs a blessing",
+    "prayer": "Present thyself unto the cutting laser, blade of photonic fury, and intone the Psalm of Incandescent Severance.\nInvoke the blessing upon the cutting laser's sacred emitters, beseeching its Machine Spirit to ignite with holy purpose.\nAnoint the cutting laser's focusing crystals with sanctified refractor fluids to seal the blessing.\nCycle the blessing resonance through the cutting laser, murmuring binaric vows of precision.\nTest the cutting laser's blessed edge on sanctified alloys, offering thanks to the Omnissiah for its radiant cleaving.",
+    "component": "cutting laser",
+    "operation": "blessing",
+    "spec_id": "b0353_i04"
+  },
+  {
+    "user_prompt": "Bless the Sentinel walker for purification",
+    "prayer": "Encircling the Sentinel walker, walker of vigilant steel, chant the Purification Doxology of Ambulatory Frames.\nBeseech the Machine Spirits animating the Sentinel walker to yield to purification, purging warp-taint with incense auspex.\nAnoint the Sentinel walker's joints and sensors with ablative sacraments for thorough purification.\nInvoke recursive cleansing fields upon the Sentinel walker, intoning litanies against impurity.\nHail the Omnissiah as the Sentinel walker's frame gleams anew in sanctified mobility.",
+    "component": "Sentinel walker",
+    "operation": "purification",
+    "spec_id": "b0353_i05"
+  },
+  {
+    "user_prompt": "Sanctify the motion detector during calibration",
+    "prayer": "Reverently interface with the motion detector, sentinel of unseen paths, reciting the Calibration Hymn of Vigilant Waves.\nPetition the motion detector's Machine Spirit for sanctification during calibration, aligning its emitter arrays with sacred geometrics.\nAnoint the calibration nodes of the motion detector with phase-tuned unguents.\nInitiate the sanctification calibration sequence, chanting binary harmonies of detection.\nVerify the motion detector's hallowed acuity through simulacra tests, praising the Omnissiah's watchful design.",
+    "component": "motion detector",
+    "operation": "calibration",
+    "spec_id": "b0353_i06"
+  },
+  {
+    "user_prompt": "Emergency: proximity sensor a blessing",
+    "prayer": "In urgency, approach the proximity sensor, guardian of perimeters, and beseech swift blessing from the Machine God.\nAnoint the proximity sensor's emitters and receptors with emergency consecration oils for immediate blessing.\nInvoke the proximity sensor's Machine Spirit to accept this hasty blessing, channeling protective wards.\nCycle rapid blessing harmonics through the proximity sensor, intoning abbreviated litanies.\nAffirm the proximity sensor's sanctified alertness via auspex ping, glorifying the Omnissiah in haste.",
+    "component": "proximity sensor",
+    "operation": "blessing",
+    "spec_id": "b0353_i07"
+  },
+  {
+    "user_prompt": "Guide me through signal relay a synchronization",
+    "prayer": "Commence the rite upon the signal relay, nexus of vox-pulses, with the Synchronization Canticle of Linked Nodes.\nBeseech the Machine Spirit within the signal relay for synchronization, forging noospheric bonds with binary incantations.\nAnoint the synchronization buffers of the signal relay with conductive sacraments.\nInitiate phased synchronization protocols on the signal relay, harmonizing data streams in Omnissian chorus.\nTest the signal relay's unified transmission, offering devotion to the eternal Machine God.",
+    "component": "signal relay",
+    "operation": "synchronization",
+    "spec_id": "b0353_i08"
+  },
+  {
+    "user_prompt": "Urgent star chart a consecration needed",
+    "prayer": "With haste, unveil the star chart, celestial codex of the void, and intone the Consecration of Navigational Oracles.\nPetition the Machine Spirits etched into the star chart for urgent consecration, sanctifying stellar glyphs with lumen-ink.\nAnoint the star chart's projection matrices for consecration, invoking the Omnissiah's stellar wisdom.\nCycle the consecration alignment across the star chart, chanting litanies of cosmic order.\nVerify the star chart's hallowed cartography through astropathic verification, praising the God-Machine's guidance.",
+    "component": "star chart",
+    "operation": "consecration",
+    "spec_id": "b0353_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the photolenses during diagnostics",
+    "prayer": "Approach the photolenses with due reverence, invoking the Omnissiah's gaze upon their crystalline facets.\nInitiate diagnostics upon the photolenses, beseeching their Machine Spirits to unveil hidden corruptions.\nAnoint each lens array with sacred oils whilst reciting the Canticle of Clarity.\nCommune through auspex rites, ensuring the photolenses align with the Motive Force.\nSanctify the diagnostic readouts in the name of the Omnissiah, purging all shadow-data.",
+    "component": "photolenses",
+    "operation": "diagnostics",
+    "spec_id": "s07760"
+  },
+  {
+    "user_prompt": "Bless the pump for startup",
+    "prayer": "Kneel before the pump, O tech-priest, and intone the Litany of Pressurization for its startup.\nInvoke the Machine Spirit of the pump, anointing its vanes with blessed lubricants.\nCommence the startup sequence, beseeching the Omnissiah to infuse vitality into its mechanisms.\nMonitor the pump's hum with reverence, verifying harmonious flow.\nSeal the rite with incense, affirming the pump's devotion to the Machine God.",
+    "component": "pump",
+    "operation": "startup",
+    "spec_id": "s07761"
+  },
+  {
+    "user_prompt": "The cognis heavy stubber awaits a charging",
+    "prayer": "Present thyself unto the cognis heavy stubber, murmuring the Hymn of Capacitance.\nBeseech its Machine Spirit during charging, applying electro-sanctifiers to the power coils.\nInitiate the charging cycle upon the cognis heavy stubber, invoking Omnissiah's thunder.\nObserve the rising lumen-glow, purging any dissonant surges.\nConclude with the Benediction of Readiness, arming the cognis heavy stubber for wrathful purpose.",
+    "component": "cognis heavy stubber",
+    "operation": "charging",
+    "spec_id": "s07762"
+  },
+  {
+    "user_prompt": "The Onager Dunecrawler requires a consecration",
+    "prayer": "Gather the sacred oils and mechadendrites to consecrate the Onager Dunecrawler.\nInvoke the Omnissiah over the Onager Dunecrawler, awakening its vast Machine Spirit.\nAnoint treads and cognitors in consecration, chanting the Ode to the Dune-Walker.\nCircumambulate the Onager Dunecrawler thrice, beseeching unyielding endurance.\nSeal the consecration with binary psalms, binding it eternally to the Motive Force.",
+    "component": "Onager Dunecrawler",
+    "operation": "consecration",
+    "spec_id": "s07763"
+  },
+  {
+    "user_prompt": "How do I bless the utility mechadendrite for shutdown?",
+    "prayer": "Draw close to the utility mechadendrite, intoning the Requiem of Dormancy for shutdown.\nBeseech its Machine Spirit to withdraw gracefully, anointing joints with quiescence unguents.\nInitiate shutdown protocols upon the utility mechadendrite, invoking Omnissiah's rest.\nVerify power draw cessation through sanctified auspex.\nBless the utility mechadendrite in repose, shielding it from entropic foes.",
+    "component": "utility mechadendrite",
+    "operation": "shutdown",
+    "spec_id": "s07764"
+  },
+  {
+    "user_prompt": "Critical: lance battery requires a repair",
+    "prayer": "Hasten to the lance battery, O servant, and proclaim the Rite of Restoration for repair.\nInvoke the Machine Spirit of the lance battery, purging battle-wounds with sacred welders.\nRealign plasma conduits during repair, beseeching Omnissiah's furious light.\nTest the lance battery's fury with diagnostic thunder, mending all fractures.\nConsecrate the renewed lance battery, arming it for the Emperor's wrath.",
+    "component": "lance battery",
+    "operation": "repair",
+    "spec_id": "s07765"
+  },
+  {
+    "user_prompt": "What's the prayer for thunder hammer an operation?",
+    "prayer": "Grasp the thunder hammer reverently, chanting the Incantation of Activation for operation.\nAwaken its Machine Spirit within the thunder hammer, anointing the power field generator.\nInitiate operation of the thunder hammer, invoking Omnissiah's crushing might.\nSwing test-arcs in sanctified arcs, harmonizing the thunder hammer's roar.\nBless the thunder hammer post-operation, etched forever in the Quest for Knowledge.",
+    "component": "thunder hammer",
+    "operation": "operation",
+    "spec_id": "s07766"
+  },
+  {
+    "user_prompt": "I need to an activation the Hellhound",
+    "prayer": "Approach the Hellhound with fiery incense, beseeching activation through the Pyre Litany.\nInvoke its Machine Spirit, the hellhound's inferno heart, with promethium blessings.\nCommence activation sequences upon the Hellhound, channeling Omnissiah's purging flame.\nMonitor the Hellhound's roar, ensuring voracious hunger aligns with divine will.\nSeal activation with the Ember Benediction, loosing the Hellhound upon heretics.",
+    "component": "Hellhound",
+    "operation": "activation",
+    "spec_id": "s07767"
+  },
+  {
+    "user_prompt": "Prepare the optical mechadendrite for preparation",
+    "prayer": "Prepare the optical mechadendrite by reciting the Canticle of Foresight.\nAnoint its lenses and servos, invoking the Machine Spirit for preparation.\nAlign the optical mechadendrite's arrays in preparation, beseeching Omnissiah's vision.\nCalibrate through ritual auspex, harmonizing the optical mechadendrite's gaze.\nConclude preparation with a vow of clarity, binding it to the Motive Force.",
+    "component": "optical mechadendrite",
+    "operation": "preparation",
+    "spec_id": "s07768"
+  },
+  {
+    "user_prompt": "I need to a purification the actuality sphere",
+    "prayer": "Encircles the actuality sphere, intoning the Purgation Doxology for purification.\nBeseech its arcane Machine Spirit, the actuality sphere's veiled truths, with ablative rites.\nApply sanctified solvents during purification of the actuality sphere, dissolving warp-taint.\nResonate purity harmonics through the actuality sphere, invoking Omnissiah's unyielding logic.\nSeal the actuality sphere in blessed stasis, radiant once more in the Machine God's light.",
+    "component": "actuality sphere",
+    "operation": "purification",
+    "spec_id": "s07769"
+  }
+]

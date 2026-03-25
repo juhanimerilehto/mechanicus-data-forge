@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The star chart awaits an activation",
+    "prayer": "Draw nigh unto the star chart, bearer of celestial wisdom, and beseech its dormant Machine Spirit with the Incantation of Awakening.\nAnoint the astral projectors of the star chart with sacred oils to purify its pathways.\nInvoke the Omnissiah's gaze as thou dost initiate the activation, aligning stellar cartographs in holy precision.\nVerify the star chart's illumination through diagnostic litanies, ensuring flawless void-revelation.",
+    "component": "star chart",
+    "operation": "activation",
+    "spec_id": "b0080_i00"
+  },
+  {
+    "user_prompt": "Critical: autocannon requires an engagement",
+    "prayer": "Approach the autocannon with reverence, O tech-adept, and petition its belligerent Machine Spirit for martial fury.\nSanctify the barrel assemblies of the autocannon with blessed lubricants ere engagement.\nChant the Canticle of Retribution whilst aligning targeting cogitators for engagement upon the foe.\nRelease the autocannon's thunderous wrath, glorifying the Omnissiah in ballistic sacrament.",
+    "component": "autocannon",
+    "operation": "engagement",
+    "spec_id": "b0080_i01"
+  },
+  {
+    "user_prompt": "Assist with proximity sensor a preparation",
+    "prayer": "Commence the rite upon the proximity sensor, invoking its vigilant Machine Spirit against unseen perils.\nClear ethereal static from the proximity sensor's detection membranes with purifying incense.\nPrepare the auspex arrays of the proximity sensor through calibration hymns and sacred voltage tithes.\nBeseech the Omnissiah to grant foresight as preparation culminates in watchful readiness.",
+    "component": "proximity sensor",
+    "operation": "preparation",
+    "spec_id": "b0080_i02"
+  },
+  {
+    "user_prompt": "The quality scanner requires an engagement",
+    "prayer": "Gather before the quality scanner, supplicant of perfection, and awaken its discerning Machine Spirit.\nPolish the optical lenses of the quality scanner with sanctified cloths to enhance flaw-revealing clarity.\nEngage the scanning servitors whilst reciting the Litany of Imperfection's Bane for engagement.\nAffirm the quality scanner's judgments under the Omnissiah's unerring gaze, purging all defect.",
+    "component": "quality scanner",
+    "operation": "engagement",
+    "spec_id": "b0080_i03"
+  },
+  {
+    "user_prompt": "Help me a synchronization the medicae scanner",
+    "prayer": "Kneel in circuit-proximity to the medicae scanner and invoke its healing Machine Spirit with solemn vows.\nSynchronize the medicae scanner's data-vanes to vital waveform harmonics via harmonic incantations.\nAnoint linkage ports of the medicae scanner with conductive balms during synchronization.\nPraise the Omnissiah as synchronized bio-readings flow in Omnissianic purity.",
+    "component": "medicae scanner",
+    "operation": "synchronization",
+    "spec_id": "b0080_i04"
+  },
+  {
+    "user_prompt": "Critical: power cell requires a cycling",
+    "prayer": "Encircle the power cell, font of electrum vitality, and beseech its tireless Machine Spirit to renew.\nDrain stagnant energies from the power cell through ritual venting and purity seals.\nCycle the plasma matrices of the power cell with cycling invocations, invoking stable flux.\nSanctify the power cell's output conduits, ensuring endless vigor by the Omnissiah's decree.",
+    "component": "power cell",
+    "operation": "cycling",
+    "spec_id": "b0080_i05"
+  },
+  {
+    "user_prompt": "Critical: assembly servitor requires a startup",
+    "prayer": "Summon the assembly servitor to dutiful animation, honoring its laborious Machine Spirit.\nRecite the Benediction of Labor upon the assembly servitor's cranial cogitator.\nInitiate startup sequences across the assembly servitor's servo-limbs with sacred power tithes.\nCommand the assembly servitor to toil in the Omnissiah's name, gears turning in eternal service.",
+    "component": "assembly servitor",
+    "operation": "startup",
+    "spec_id": "b0080_i06"
+  },
+  {
+    "user_prompt": "Ready the valve assembly for calibration",
+    "prayer": "Present thyself unto the valve assembly, guardian of pressure sanctity, and petition its equilibrant Machine Spirit.\nLubricate the valve assembly's sealing rings with hallowed ferro-fluids.\nPerform calibration rites upon the valve assembly, chanting metrics of flow-perfection.\nSeal the calibration with Omnissiah's sigils, ensuring harmonious pressurization eternal.",
+    "component": "valve assembly",
+    "operation": "calibration",
+    "spec_id": "b0080_i07"
+  },
+  {
+    "user_prompt": "Sanctify the generator during activation",
+    "prayer": "Consecrate the generator's mighty frame, harbinger of thunderous power, awakening its generative Machine Spirit.\nPurge corrosion from the generator's core gyros with ablative incenses.\nCommence activation whilst intoning the Psalm of Electrodynamic Fury for boundless energy.\nExalt the Omnissiah as the generator surges with sanctified plasma, illuminating the faithful.",
+    "component": "generator",
+    "operation": "activation",
+    "spec_id": "b0080_i08"
+  },
+  {
+    "user_prompt": "Assist with Chimera APC a blessing",
+    "prayer": "Process around the Chimera APC, iron steed of the Omnissiah, and invoke its indomitable Machine Spirit.\nAnoint treads and hull plates of the Chimera APC with war-blessings and purity oils.\nRecite the Liturgy of Armored Advance to bestow the blessing upon its war-frame.\nMobilize the Chimera APC in blessed fury, carrying the faithful unto victory eternal.",
+    "component": "Chimera APC",
+    "operation": "blessing",
+    "spec_id": "b0080_i09"
+  }
+]

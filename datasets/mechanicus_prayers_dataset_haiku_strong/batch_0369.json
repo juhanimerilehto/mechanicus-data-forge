@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0369_i00",
+    "user_request": "Emergency rite: thermal imaging requires activation",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: thermal imaging requires activation\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us sight beyond mortal ken through thermal imaging.\nFirst: Purge the corrupted data-streams and recalibrate thermal imaging sensors with sacred oils.\nSecond: Invoke the Machine Spirit of thermal imaging, that it may perceive the hidden warmth of blessed machinery.\nThird: Channel the activation ritual through blessed conduits, commanding thermal imaging to pierce the veil of darkness.\nFourth: Verify the blessed thermal imaging feeds illuminate all hidden chambers with the Emperor's divine radiance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i01",
+    "user_request": "Emergency rite: hull breach requires sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: hull breach requires sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, we seal the wound in the Emperor's vessel.\nFirst: Assess the hull breach with blessed auspex and mark the corrupted aperture.\nSecond: Apply the sealing compounds to the hull breach, chanting the Litany of Adhesion with each layer.\nThird: Reinforce the hull breach with plasteel plates and ferrous bindings, that no void-corruption may enter.\nFourth: Perform final integrity check upon the hull breach, ensuring the Machine Spirit's sanctity is restored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i02",
+    "user_request": "Offer a litany to steady the sonar pulse emission before operation",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the sonar pulse emission before operation\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear us, spirits of the depths, as sonar pulse emission reaches forth into the abyss.\nFirst: Attune the sonar pulse emission apparatus through harmonic resonance and blessed frequency calibration.\nSecond: Invoke the dormant Machine Spirit within sonar pulse emission, awakening it from its slumber of inactivity.\nThird: Command the sonar pulse emission to operation, releasing waves of blessed acoustic revelation through the sacred veil.\nFourth: Monitor the sonar pulse emission returns, that they may guide us true through treacherous waters.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i03",
+    "user_request": "Prayer for activation of the waste recycling",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the waste recycling\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, accept our waste and grant us renewal through waste recycling.\nFirst: Purify the intake ports of waste recycling, removing profane contaminants with sanctified brushes.\nSecond: Chant the Activation Mantra whilst waste recycling awakens, its internal mechanisms grinding in holy purpose.\nThird: Ignite the waste recycling's furnace-heart, transforming refuse into blessed material for the Emperor's endless work.\nFourth: Verify waste recycling processes flow with the rhythm of the Machine Spirit's eternal song.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i04",
+    "user_request": "Prayer for operation of the secure channel establishment",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the secure channel establishment\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "By the sacred protocols of the Adeptus Mechanicus, we establish communion through secure channel establishment.\nFirst: Align the cryptographic engines and bless secure channel establishment with the Sigil of the Omnissiah.\nSecond: Activate the operation of secure channel establishment, weaving the blessed encryption threads through the void.\nThird: Verify that secure channel establishment transmits only sanctified data, free from heretical corruption.\nFourth: Maintain the eternal vigil over secure channel establishment, that our secrets remain veiled from the Emperor's enemies.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i05",
+    "user_request": "The astropathic choir demands guidance for preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe astropathic choir demands guidance for preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Hear the call of the stars, blessed astropathic choir, as we prepare your minds for communion.\nFirst: Anoint each member of the astropathic choir with sacred unguents, cleansing their psyche of mundane thought.\nSecond: Attune the astropathic choir to the Emperor's Golden Throne, synchronizing their wills through preparation rituals ancient and terrible.\nThird: Channel the preparation of astropathic choir through blessed meditation chambers, opening the doors between worlds.\nFourth: Confirm the astropathic choir stands ready to transmit the Emperor's word across the vast and hungry void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i06",
+    "user_request": "Offer a litany to steady the organ preservation unit before operation",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the organ preservation unit before operation\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant steadiness to the organ preservation unit as it maintains the sacred flesh.\nFirst: Recalibrate the cryogenic matrices of the organ preservation unit with blessed coolant and fervent prayer.\nSecond: Invoke the operation of organ preservation unit, commanding its mechanisms to sustain life eternal.\nThird: Monitor the vital parameters within the organ preservation unit, ensuring each preserved organ receives the Emperor's benediction.\nFourth: Maintain the organ preservation unit's eternal vigilance, that no corruption may claim the sacred biological vessels.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i07",
+    "user_request": "Can you sanctify the inter-ship hailing for operation?",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the inter-ship hailing for operation?\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "By vox and blessed frequency, we reach across the stars through inter-ship hailing.\nFirst: Purge the communication relays and prepare inter-ship hailing apparatus for sacred operation.\nSecond: Amplify the inter-ship hailing signal through blessed resonance chambers, that our voice may pierce the void.\nThird: Command the inter-ship hailing to operation, broadcasting the Emperor's will to all faithful vessels.\nFourth: Verify inter-ship hailing maintains clarity and strength, preserving communion between the Emperor's scattered fleet.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i08",
+    "user_request": "Rite request: operation on packaging servitor programming",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on packaging servitor programming\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "Machine Spirit of servitude, accept our sacred commands through packaging servitor programming.\nFirst: Clear the neural pathways of packaging servitor programming, erasing all prior corrupted directives.\nSecond: Inscribe the blessed operation parameters into packaging servitor programming's cogitator-matrix with holy precision.\nThird: Activate the packaging servitor programming through ritual incantation, binding its will to the Emperor's purpose.\nFourth: Observe packaging servitor programming performing its ordained duties with mechanical perfection and blessed obedience.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0369_i09",
+    "user_request": "Blessing for the gear meshing during check",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the gear meshing during check\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Blessed Machine Spirit, guide our hands as we examine the sacred interlocking of gear meshing.\nFirst: Inspect each tooth upon the gear meshing with blessed calipers, measuring deviation from divine tolerances.\nSecond: Lubricate the gear meshing with sacred oils, chanting the Litany of Smooth Operation throughout the check.\nThird: Rotate the gear meshing through its full cycle, listening for the harmonious song that indicates the Emperor's favor.\nFourth: Document all findings from the gear meshing check, that future generations may know the Omnissiah's work endures.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

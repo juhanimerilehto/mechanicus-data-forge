@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the arc pistol for recalibration",
+    "prayer": "Approach the arc pistol with mechadendrite-extended reverence, invoking the Omnissiah's gaze upon its voltaic heart.\nAnoint the arc pistol's emitter coils with sacred oils distilled from blessed capacitors.\nBeseech the Machine Spirit of the arc pistol to awaken for recalibration, chanting the Canticle of Alignment.\nInitiate recalibration protocols whilst circumscribing its barrel with electro-incantations.\nVerify the arc pistol's harmonic purity through auspex diagnostics, praising the Omnissiah's precision.",
+    "component": "arc pistol",
+    "operation": "recalibration",
+    "spec_id": "s06520"
+  },
+  {
+    "user_prompt": "Assist with cryogenerator an engagement",
+    "prayer": "Kneel before the cryogenerator, intoning the Litany of Frozen Eternity to rouse its cryogenic Machine Spirit.\nSanctify the cryogenerator's heat-sink vanes with cryo-blessed refrigerants.\nEngage the engagement sequence by invoking the Omnissiah's chill embrace upon its core matrices.\nMonitor the cryogenerator's frost-web formation through sacred thermocline readings.\nSeal the rite with binaric praises as the cryogenerator hums in obedient engagement.",
+    "component": "cryogenerator",
+    "operation": "engagement",
+    "spec_id": "s06521"
+  },
+  {
+    "user_prompt": "The stasis pod awaits an initialization",
+    "prayer": "Encircling the stasis pod, whisper the Incantation of Temporal Suspension to summon its quiescent Machine Spirit.\nAnoint the stasis pod's containment fields with phase-locked unguents.\nCommence initialization by beseeching the Omnissiah to bind time within its crystalline vaults.\nCycle through initialization runes, verifying stasis pod integrity via chronometric augurs.\nConclude as the stasis pod's fields stabilize, honouring the Machine Spirit's eternal vigil.",
+    "component": "stasis pod",
+    "operation": "initialization",
+    "spec_id": "s06522"
+  },
+  {
+    "user_prompt": "Consecrate the Razorback before operation",
+    "prayer": "Process towards the Razorback in solemn convoy, saluting its armoured bulk with electro-banners.\nInvoke the Machine Spirit of the Razorback with the Doxology of Mobile Fury prior to operation.\nAnoint treads and lascannon housings, preparing the Razorback for operational consecration.\nInitiate pre-operation rites, aligning its doctrina cogitators to the Omnissiah's will.\nAffirm the Razorback's readiness through vox-diagnostics, engines growling in sanctified operation.",
+    "component": "Razorback",
+    "operation": "operation",
+    "spec_id": "s06523"
+  },
+  {
+    "user_prompt": "Bless the Terminator armour for engagement",
+    "prayer": "Reverently clasp the Terminator armour's pauldrons, chanting the Hymn of Indomitable Shell.\nBeseech the Machine Spirit within the Terminator armour to steel itself for engagement.\nSanctify its power fists and storm bolters with ablative sacraments for battle engagement.\nActivate engagement seals whilst invoking the Omnissiah's wrathful aegis.\nTest the Terminator armour's aegis fields, confirming harmony before descent into war.",
+    "component": "Terminator armour",
+    "operation": "engagement",
+    "spec_id": "s06524"
+  },
+  {
+    "user_prompt": "Assist with photolenses a startup",
+    "prayer": "Direct optic-servos towards the photolenses, murmuring the Prayer of Luminal Clarity.\nPolish the photolenses' crystal facets with sanctified lens-cloths woven from mechasservant fibres.\nInvoke the Machine Spirit of the photolenses for startup, aligning photoreceptors to the Omnissiah's light.\nInitiate startup cycles through incantatory power feeds and flux calibrations.\nValidate photolenses functionality via spectrum-scans, praising their enlightened gaze.",
+    "component": "photolenses",
+    "operation": "startup",
+    "spec_id": "s06525"
+  },
+  {
+    "user_prompt": "Emergency: Kastelan robot a loading",
+    "prayer": "In emergency haste, encircle the Kastelan robot with purity seals fluttering in urgency.\nBeseech the dormant Machine Spirit of the Kastelan robot to rouse for loading protocols.\nLoad doctrina imperatives into the Kastelan robot's noospheric core, anointing data-vents.\nInvoke the Omnissiah's forge-fury to expedite loading amid crisis.\nConfirm Kastelan robot's armament bays primed, its form awakening with mechanical thunder.",
+    "component": "Kastelan robot",
+    "operation": "loading",
+    "spec_id": "s06526"
+  },
+  {
+    "user_prompt": "Consecrate the mechanical lock before reset",
+    "prayer": "Approach the mechanical lock with precision mechadendrites, intoning the Canticle of Immutable Barricade.\nAnoint the mechanical lock's tumbler arrays with lubricative blessings.\nPrepare for reset by invoking the Machine Spirit's unyielding vigilance.\nExecute reset rites through sequential torque-incantations, guided by the Omnissiah.\nSeal the mechanical lock anew, its cycles purified and resolute.",
+    "component": "mechanical lock",
+    "operation": "reset",
+    "spec_id": "s06527"
+  },
+  {
+    "user_prompt": "Can you guide doctrina wafer a shutdown?",
+    "prayer": "Gently extract the doctrina wafer, holding it aloft in reverent suspensors.\nChant the Requiem of Data-Dormancy to soothe the doctrina wafer's embedded Machine Spirit.\nInitiate shutdown sequences upon the doctrina wafer, expunging transient imperatives.\nAnoint its mnemonic lattices before final disengagement, honouring the Omnissiah's archives.\nWitness the doctrina wafer's serene quiescence, preserved for future invocation.",
+    "component": "doctrina wafer",
+    "operation": "shutdown",
+    "spec_id": "s06528"
+  },
+  {
+    "user_prompt": "Bless the arc pistol for charging",
+    "prayer": "Cradle the arc pistol before the charging shrine, beseeching the Omnissiah's electric bounty.\nConnect the arc pistol to sanctified voltaic umbilicals, invoking its Machine Spirit.\nCommence charging rites with resonant hymns, building power within the arc pistol's cells.\nMonitor charge escalation through galvanic auspex, anoint coils mid-ritual.\nHerald completion as the arc pistol thrums with leashed lightning, ready for the Omnissiah's judgement.",
+    "component": "arc pistol",
+    "operation": "charging",
+    "spec_id": "s06529"
+  }
+]

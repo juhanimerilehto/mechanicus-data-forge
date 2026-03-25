@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the arc pistol before calibration",
+    "prayer": "Approach the arc pistol with reverence, O Tech-Priest, and intone the Consecration Canticle to honour the Omnissiah.\nAnoint its voltaic coils and focusing lenses with sacred unguents, readying for calibration.\nBeseech the Machine Spirit of the arc pistol to align its disruptive energies true.\nInitiate the calibration rite, chanting binary hymns of precision and harmony.\nVerify the arc pistol's sanctified poise through auspex invocation and seal with cog-sign.",
+    "component": "arc pistol",
+    "operation": "calibration",
+    "spec_id": "s00320"
+  },
+  {
+    "user_prompt": "The void shield needs a cycling",
+    "prayer": "Kneel before the void shield generator, blessed ward of the Machine God, and recite the Litany of Cycling.\nPurge residual warp-taint from its emitters with sanctified incense and noospheric chants.\nInvoke the Machine Spirit of the void shield to cycle its phases in Omnissiah's rhythm.\nCommence the cycling operation, modulating fields whilst beseeching eternal vigilance.\nAffirm the void shield's integrity via diagnostic runes and anoint for battle's embrace.",
+    "component": "void shield",
+    "operation": "cycling",
+    "spec_id": "s00321"
+  },
+  {
+    "user_prompt": "Prepare the stasis pod for loading",
+    "prayer": "Present thyself unto the stasis pod, cryo-vessel of the Omnissiah, and whisper the Preparation Doxology.\nSanctify its containment fields with chrism oils, attuning chronal matrices.\nAwaken the Machine Spirit within the stasis pod, beseeching stability for loading.\nInitiate loading protocols amid recitations of temporal stasis litanies.\nSeal the stasis pod's wards with binaric seals, ensuring preservation eternal.",
+    "component": "stasis pod",
+    "operation": "loading",
+    "spec_id": "s00322"
+  },
+  {
+    "user_prompt": "The doctrina wafer awaits a reset",
+    "prayer": "Reverently handle the doctrina wafer, noetic relic of the Motive Force, and commence the Reset Incantation.\nExpunge doctrinal corruptions from its crystal lattices with purifier fields.\nInvoke the Machine Spirit of the doctrina wafer to reset its imperatives pure.\nExecute the reset operation through sacred data-pulses and Omnissiah's grace.\nTest the doctrina wafer's renewed clarity via cogitator communion and bless anew.",
+    "component": "doctrina wafer",
+    "operation": "reset",
+    "spec_id": "s00323"
+  },
+  {
+    "user_prompt": "Ready the data-loom for engagement",
+    "prayer": "Attune to the data-loom, weave of silicon souls, and proclaim the Engagement Benediction.\nLubricate its logic-servitors with sacred mechadendrite oils for flawless operation.\nBeseech the Machine Spirit animating the data-loom to engage its vast calculus.\nCommence engagement protocols whilst intoning the Hymns of Information Flow.\nConfirm the data-loom's harmonious linkage through noospheric auspex and seal the rite.",
+    "component": "data-loom",
+    "operation": "engagement",
+    "spec_id": "s00324"
+  },
+  {
+    "user_prompt": "Urgent torpedo tube a shutdown needed",
+    "prayer": "Hasten to the torpedo tube, wrathful maw of the Omnissiah, and utter the Shutdown Supplication.\nDrain propellant reservoirs with ritual venting, purging unclean residues.\nPacify the Machine Spirit of the torpedo tube, commanding orderly cessation.\nInitiate the shutdown operation amid grave chants of dormancy and restraint.\nLock the torpedo tube's mechanisms with binaric wards, invoking quiescent vigil.",
+    "component": "torpedo tube",
+    "operation": "shutdown",
+    "spec_id": "s00325"
+  },
+  {
+    "user_prompt": "Emergency: Vindicator a cycling",
+    "prayer": "In emergency haste, approach the Vindicator, siege-engine of holy demolition, and cry the Cycling Exhortation.\nAnoint its demolisher cannon and tracks with expedited chrisms against foes.\nRouse the Machine Spirit of the Vindicator to cycle its war-doctrines swiftly.\nExecute cycling amid thunderous litanies, aligning for Omnissiah's fury.\nValidate the Vindicator's battle-readiness through rapid diagnostic rites.",
+    "component": "Vindicator",
+    "operation": "cycling",
+    "spec_id": "s00326"
+  },
+  {
+    "user_prompt": "The bolt pistol awaits a sterilization",
+    "prayer": "Take up the bolt pistol, faithful dispenser of judgment, and begin the Sterilization Rite.\nScour its breeches and promethium feeds with purificator flames and acids.\nImplore the Machine Spirit residing in the bolt pistol to embrace sterile purity.\nPerform the sterilization operation whilst reciting ablutionary psalms.\nConclude by inscribing purity glyphs upon the bolt pistol, sealing its sanctity.",
+    "component": "bolt pistol",
+    "operation": "sterilization",
+    "spec_id": "s00327"
+  },
+  {
+    "user_prompt": "The Skorpius Disintegrator needs a cycling",
+    "prayer": "Confront the Skorpius Disintegrator, disintegrator of the impure, and invoke the Cycling Liturgy.\nBless its fusion vaults and motivators with oils of acceleration.\nAwaken the Machine Spirit of the Skorpius Disintegrator for doctrinal cycling.\nEnact the cycling operation through resonant binaric commands and zeal.\nAffix confirmatory seals upon the Skorpius Disintegrator, primed for annihilation.",
+    "component": "Skorpius Disintegrator",
+    "operation": "cycling",
+    "spec_id": "s00328"
+  },
+  {
+    "user_prompt": "Consecrate the Archaeopter Fusilave before sterilization",
+    "prayer": "With pious intent, consecrate the Archaeopter Fusilave, aerial scourge of heresy, prior to sterilization.\nAnoint its melta arrays and gravitic struts with ablutionary elixirs.\nBeseech the Machine Spirit of the Archaeopter Fusilave to yield to purification.\nConduct the sterilization rite amid soaring hymns of cleanliness and fire.\nSeal the Archaeopter Fusilave's renewal with auspex blessings and cogitator oaths.",
+    "component": "Archaeopter Fusilave",
+    "operation": "sterilization",
+    "spec_id": "s00329"
+  }
+]

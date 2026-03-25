@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the lance battery during diagnostics",
+    "prayer": "Draw nigh unto the lance battery, O tech-priest, and invoke the Omnissiah's gaze upon its sanctified form.\nInitiate diagnostics upon the lance battery's plasma coils and focusing arrays with reverent precision.\nAnoint the energy conduits with sacred oils whilst beseeching the Machine Spirit's compliance.\nScan for daemonic corruptions within the lance battery, chanting the Litany of Purity.\nSeal the diagnostics with the Canticle of Coalescence, affirming the Omnissiah's will.",
+    "component": "lance battery",
+    "operation": "diagnostics",
+    "spec_id": "s04490"
+  },
+  {
+    "user_prompt": "Prepare the hunter-killer missile for recalibration",
+    "prayer": "Approach the hunter-killer missile in humble supplication to the Machine God.\nPrepare its guidance servos and warheads for recalibration by reciting the Rite of Alignment.\nInvoke the Machine Spirit of the hunter-killer missile, beseeching true flight paths.\nAdjust the seeker arrays with mechadendrite precision during recalibration.\nConsecrate the hunter-killer missile's fuses with incense, ensuring predatory accuracy.",
+    "component": "hunter-killer missile",
+    "operation": "recalibration",
+    "spec_id": "s04491"
+  },
+  {
+    "user_prompt": "Critical: void shield generator requires a diagnostics",
+    "prayer": "Kneel before the void shield generator, invoking the Omnissiah against the void's hunger.\nCommence diagnostics on the void shield generator's phase inductors and power relays.\nChant the Diagnostic Canticle to awaken its Machine Spirit from slumber.\nProbe the emitter coils of the void shield generator for warp-taint or failure.\nFinalize with the Benediction of Resilience, shielding it in the Omnissiah's light.",
+    "component": "void shield generator",
+    "operation": "diagnostics",
+    "spec_id": "s04492"
+  },
+  {
+    "user_prompt": "Bless the Dreadnought for diagnostics",
+    "prayer": "Reverently encircle the Dreadnought, saluting its ancient sarcophagus.\nInitiate diagnostics upon the Dreadnought's adamantium frame and weapon servos.\nBeseech the brooding Machine Spirit within the Dreadnought to reveal battle-damage.\nAnoint its auspex lenses and power fists during diagnostics with holy lubricants.\nConclude by intoning the Litany of Endurance, binding the Dreadnought to eternal vigil.",
+    "component": "Dreadnought",
+    "operation": "diagnostics",
+    "spec_id": "s04493"
+  },
+  {
+    "user_prompt": "Guide me through autosanguination system a recalibration",
+    "prayer": "Present thyself before the autosanguination system, offering prayers to the Omnissiah.\nPrepare for recalibration of the autosanguination system's vital fluid pumps and filters.\nInvoke the Machine Spirit of the autosanguination system, commanding circulatory purity.\nRecalibrate flow regulators with sanctified tools, chanting the Rite of Vital Flow.\nVerify the autosanguination system's restoration through sanguine diagnostic rites.",
+    "component": "autosanguination system",
+    "operation": "recalibration",
+    "spec_id": "s04494"
+  },
+  {
+    "user_prompt": "Emergency: webber a blessing",
+    "prayer": "In emergency haste, clasp the webber and proclaim the Omnissiah's wrath.\nBestow blessing upon the webber's spinnerets and chem-reservoirs with urgent fervor.\nAwaken the Machine Spirit of the webber through the Canticle of Binding.\nAnoint its launch tubes, invoking ensnaring potency for the webber.\nSeal the blessing with the Incantation of Adhesion, arming it against foes.",
+    "component": "webber",
+    "operation": "blessing",
+    "spec_id": "s04495"
+  },
+  {
+    "user_prompt": "My auto-senses array is ready for cooling",
+    "prayer": "Attend to the auto-senses array, cooling its overtaxed optic and auspex nodes.\nInvoke the breath of the Omnissiah to guide the cooling rites upon the auto-senses array.\nCirculate sacred cryofluids through the auto-senses array's heat sinks.\nBeseech the Machine Spirit's patience during cooling, intoning the Litany of Clarity.\nTest the refreshed auto-senses array with the Rite of Perceptive Renewal.",
+    "component": "auto-senses array",
+    "operation": "cooling",
+    "spec_id": "s04496"
+  },
+  {
+    "user_prompt": "The lightning claw requires a reset",
+    "prayer": "Grasp the lightning claw in mechadendrite hold, seeking the Omnissiah's spark.\nInitiate reset of the lightning claw's power fields and disruption generators.\nChant the Reset Canticle to pacify the lightning claw's tempestuous Machine Spirit.\nCycle its adamantium talons through purification vents during reset.\nConclude with the Invocation of Stormwrath, empowering the lightning claw anew.",
+    "component": "lightning claw",
+    "operation": "reset",
+    "spec_id": "s04497"
+  },
+  {
+    "user_prompt": "Assist with void shield a loading",
+    "prayer": "Approach the void shield with bowed servos, preparing for loading.\nLoad the void shield's energy capacitors whilst reciting the Loading Liturgy.\nInvoke the Machine Spirit of the void shield to accept its warp-deflecting charge.\nMonitor the void shield's matrix alignment during loading with diagnostic noosphere.\nSanctify the fully loaded void shield with the Benediction of the Empty Void.",
+    "component": "void shield",
+    "operation": "loading",
+    "spec_id": "s04498"
+  },
+  {
+    "user_prompt": "How do I bless the thunder hammer for purification?",
+    "prayer": "Kneel in purification before the thunder hammer, hallowed instrument of the Omnissiah.\nCommence rites of purification upon the thunder hammer's disruption field and hammerhead.\nBeseech the Machine Spirit of the thunder hammer to shed battle-filth.\nAnoint its power core with ablative incenses during purification.\nFinalize with the Canticle of Thunderous Judgement, rendering the thunder hammer pristine.",
+    "component": "thunder hammer",
+    "operation": "purification",
+    "spec_id": "s04499"
+  }
+]

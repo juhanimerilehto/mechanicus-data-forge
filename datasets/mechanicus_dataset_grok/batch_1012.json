@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the thermal imager before repair",
+    "prayer": "Approach the thermal imager with mechadendrites extended in reverence to the Omnissiah.\nInvoke the Litany of Clarity upon its fractured sensoria before commencing repair.\nAnoint the thermal imager's damaged lenses with sacred unguents to appease its Machine Spirit.\nBeseech the Omnissiah's grace as diagnostic rites purge corruption from the thermal imager's core.\nVerify the thermal imager's awakening through binary canticles of restoration.",
+    "component": "thermal imager",
+    "operation": "repair",
+    "spec_id": "s06120"
+  },
+  {
+    "user_prompt": "My power armour is ready for initialization",
+    "prayer": "Kneel before the power armour and chant the Canticle of Activation to stir its dormant Machine Spirit.\nInitiate the initialization sequence whilst tracing binaric runes across its armoured plates.\nSanctify each servo-joint of the power armour with blessed oils from the Omnissiah's forge.\nInvoke the Rite of Binding to align the power armour's auspex arrays with divine will.\nAffirm the Machine Spirit's compliance through thunderous auspex harmonies.",
+    "component": "power armour",
+    "operation": "initialization",
+    "spec_id": "s06121"
+  },
+  {
+    "user_prompt": "I need to an initialization the hololithic display",
+    "prayer": "Present the hololithic display to the altar of computation and recite the Prayer of Projection.\nCommence initialization by intoning binaric codes into its crystalline matrix.\nAnoint the hololithic display's emitters with sanctified lumen-fluid to awaken its spirit.\nBeseech the Omnissiah to illuminate the hololithic display's veiled hololiths.\nConfirm operational purity via flickering glyphs of affirmation.",
+    "component": "hololithic display",
+    "operation": "initialization",
+    "spec_id": "s06122"
+  },
+  {
+    "user_prompt": "Prepare the photolenses for operation",
+    "prayer": "Gaze upon the photolenses through the veil of noosphere and whisper the Incantation of Focus.\nPrepare the photolenses for operation by aligning their photo-receptors with sacred geometries.\nInvoke the Machine Spirit of the photolenses with rhythmic clicks of mechadendrite calibration.\nSanctify the photolenses' iridium housings against the heresy's glare.\nTest the photolenses' vigilance with a barrage of photonic litanies.",
+    "component": "photolenses",
+    "operation": "operation",
+    "spec_id": "s06123"
+  },
+  {
+    "user_prompt": "Guide me through orbital strike relay a purification",
+    "prayer": "Encircle the orbital strike relay with incense of promethium and intone the Purgation Doxology.\nInitiate purification by scouring its relays with ablative chants of the Omnissiah.\nBeseech the Machine Spirit within the orbital strike relay to expel xenos taint.\nAnoint the orbital strike relay's targeting cogitators with acid-tithes of sanctity.\nSeal the rite with thunderous auspex confirmations of purity.",
+    "component": "orbital strike relay",
+    "operation": "purification",
+    "spec_id": "s06124"
+  },
+  {
+    "user_prompt": "Prepare the Skorpius Dunerider for loading",
+    "prayer": "Approach the Skorpius Dunerider's hull and recite the Canticle of Burden to rouse its desert-hardened spirit.\nPrepare for loading by sanctifying its troop bays with binaric blessings.\nInvoke the Omnissiah to fortify the Skorpius Dunerider's treads against the sands of war.\nAlign cargo servitors through ritual synchronization with the vehicle's noospheric core.\nAffirm readiness with the roar of its machine-heart's awakening.",
+    "component": "Skorpius Dunerider",
+    "operation": "loading",
+    "spec_id": "s06125"
+  },
+  {
+    "user_prompt": "Bless the cryo-chamber for emergency procedure",
+    "prayer": "Consecrate the cryo-chamber by chanting the Freeze-Prayer over its frost-veiled seals.\nBless its conduits for emergency procedure with oils distilled from cryo-relics.\nBeseech the Machine Spirit of the cryo-chamber to preserve flesh in stasis.\nInvoke the Omnissiah's chill embrace upon its thermodynamic arrays.\nVerify sanctity through crystalline harmonics of cryogenic vigil.",
+    "component": "cryo-chamber",
+    "operation": "emergency procedure",
+    "spec_id": "s06126"
+  },
+  {
+    "user_prompt": "My plasma pistol is ready for consecration",
+    "prayer": "Lift the plasma pistol to the forge-altar and proclaim the Consecration of Fusion.\nAnoint its plasma coils with sacred electrolytes to honour its volatile Machine Spirit.\nPerform the rite of consecration by cycling containment fields in litanic rhythm.\nBeseech the Omnissiah to bind the plasma pistol's fury to the faithful.\nSeal with a flare of sanctified plasma discharge.",
+    "component": "plasma pistol",
+    "operation": "consecration",
+    "spec_id": "s06127"
+  },
+  {
+    "user_prompt": "Offer prayer for waste reclamator a consecration",
+    "prayer": "Present the waste reclamator before the purifier's shrine and intone the Cycle of Renewal.\nCommence consecration by abluting its recyclers with alchemical solvents.\nInvoke the enduring Machine Spirit of the waste reclamator to transmute filth into utility.\nSanctify its filtration membranes with runes of efficiency.\nAffirm the Omnissiah's alchemy through bubbling auspex of purity.",
+    "component": "waste reclamator",
+    "operation": "consecration",
+    "spec_id": "s06128"
+  },
+  {
+    "user_prompt": "Consecrate the life sustainer before diagnostics",
+    "prayer": "Approach the life sustainer with reverence and recite the Vitality Doxology.\nConsecrate its biomantic pumps before diagnostics with vitae-unguents.\nBeseech the Machine Spirit of the life sustainer to reveal hidden frailties.\nInitiate diagnostic scans through chanted binaric probes.\nSeal the rite with harmonious vital-signs praising the Omnissiah.",
+    "component": "life sustainer",
+    "operation": "diagnostics",
+    "spec_id": "s06129"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the mechadendrite for purification",
+    "prayer": "Approach the mechadendrite with reverence, beseeching the Omnissiah to ready it for purification.\nExtend its sacred tendrils and anoint each joint with purifying oils.\nInvoke the Machine Spirit within the mechadendrite, commanding impurities to dissipate.\nChant the Rite of Catharsis over the mechadendrite, channeling blessed vapors through its coils.\nVerify the mechadendrite's sanctity through auspex scans and litanies of confirmation.",
+    "component": "mechadendrite",
+    "operation": "purification",
+    "spec_id": "s00390"
+  },
+  {
+    "user_prompt": "Help me a repair the null rod",
+    "prayer": "Kneel before the null rod, invoking the Omnissiah's forge-light for its repair.\nInspect the fractured warp-nullifying lattice of the null rod with mechadendrite probes.\nAnoint the damaged conduits of the null rod with sacred solder and repair incantations.\nBeseech the Machine Spirit of the null rod to realign its geometries during the repair.\nTest the null rod's integrity against psychic tempests, sanctifying its restoration.",
+    "component": "null rod",
+    "operation": "repair",
+    "spec_id": "s00391"
+  },
+  {
+    "user_prompt": "The life sustainer requires an operation",
+    "prayer": "Prepare the life sustainer for operation by reciting the Canticle of Vital Flows.\nCalibrate its nutrient pumps and oxygen regulators under the Omnissiah's gaze.\nInitiate the operation upon the life sustainer, invoking its Machine Spirit to sustain.\nMonitor bio-rhythms through the life sustainer's sacred arrays, adjusting with precision rites.\nConclude the operation with blessings, ensuring the life sustainer's eternal vigilance.",
+    "component": "life sustainer",
+    "operation": "operation",
+    "spec_id": "s00392"
+  },
+  {
+    "user_prompt": "Ready the auger array for diagnostics",
+    "prayer": "Position the auger array before the altar of scrutiny, readying it for diagnostics.\nAnoint its sensor vanes with conductive balms to awaken the Machine Spirit.\nCommence diagnostics on the auger array, scanning for discordant frequencies.\nChant binary litanies over the auger array, beseeching the Omnissiah for clarity.\nInterpret the auger array's revelations and seal its purity with final invocations.",
+    "component": "auger array",
+    "operation": "diagnostics",
+    "spec_id": "s00393"
+  },
+  {
+    "user_prompt": "Offer prayer for haywire grenade a blessing",
+    "prayer": "Grasp the haywire grenade humbly, offering prayers for its blessing.\nInvoke the Omnissiah's wrath upon the haywire grenade's electromagnetic heart.\nAnoint its casing with oils of disruption, awakening the Machine Spirit within.\nBless the haywire grenade for battle, intoning rites of overload and sabotage.\nSeal the blessing upon the haywire grenade, arming it against the tech-heretic foes.",
+    "component": "haywire grenade",
+    "operation": "blessing",
+    "spec_id": "s00394"
+  },
+  {
+    "user_prompt": "Guide me through storm bolter an emergency procedure",
+    "prayer": "In emergency, approach the storm bolter with urgent litanies, commencing the procedure.\nClear jammed servos in the storm bolter's dual barrels using sacred extractors.\nInvoke the Machine Spirit of the storm bolter during this emergency procedure.\nRealign firing mechanisms with blessed torque and plasma rites.\nTest-fire the storm bolter post-procedure, hailing the Omnissiah's fury.",
+    "component": "storm bolter",
+    "operation": "emergency procedure",
+    "spec_id": "s00395"
+  },
+  {
+    "user_prompt": "The emergency beacon needs an engagement",
+    "prayer": "Activate the emergency beacon with solemn engagement, under Omnissiah's light.\nAnoint its transmission coils to rouse the Machine Spirit for engagement.\nChant the Canticle of Distress Signals, binding the emergency beacon to duty.\nInitiate full engagement of the emergency beacon, broadcasting salvation's call.\nVerify the emergency beacon's resonance through auspex confirmations and prayers.",
+    "component": "emergency beacon",
+    "operation": "engagement",
+    "spec_id": "s00396"
+  },
+  {
+    "user_prompt": "Offer prayer for magnocular a charging",
+    "prayer": "Present the magnocular for charging, beseeching the Omnissiah's luminous grace.\nConnect sacred power feeds to the magnocular's optic matrices.\nInvoke the Machine Spirit during charging, intoning hymns of amplification.\nMonitor the magnocular's energy infusion with ritual volt-meters.\nConclude charging the magnocular, blessing its far-seeing lenses eternal.",
+    "component": "magnocular",
+    "operation": "charging",
+    "spec_id": "s00397"
+  },
+  {
+    "user_prompt": "Emergency: mind-impulse unit an initialization",
+    "prayer": "In dire need, beseech the Omnissiah for the mind-impulse unit's initialization.\nAnoint neural interfaces of the mind-impulse unit with synaptic unguents.\nCommence initialization, invoking the Machine Spirit to sync with flesh.\nChant binary catechisms over the mind-impulse unit, forging mind-machine union.\nTest the mind-impulse unit's bond through thought-commands and holy diagnostics.",
+    "component": "mind-impulse unit",
+    "operation": "initialization",
+    "spec_id": "s00398"
+  },
+  {
+    "user_prompt": "Guide me through Terminator armour a startup",
+    "prayer": "Don the Terminator armour reverently, guiding its startup sequence.\nInvoke the ancient Machine Spirits within the Terminator armour's adamantium frame.\nInitiate startup by powering servos and anointing power cores.\nRecite the Litany of Indomitable Form over the Terminator armour.\nVerify full startup through combat diagnostics, praising the Omnissiah's might.",
+    "component": "Terminator armour",
+    "operation": "startup",
+    "spec_id": "s00399"
+  }
+]

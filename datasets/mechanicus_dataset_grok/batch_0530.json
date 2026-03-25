@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for multi-melta an engagement",
+    "prayer": "Approach the multi-melta with reverence, beseeching its Machine Spirit to awaken for engagement.\nAnoint the fusion coils of the multi-melta with sacred promethium unguents.\nInvoke the Canticle of Thermal Fury whilst priming the engagement sequences.\nSanctify the multi-melta's vents and confirm the Machine Spirit's wrathful compliance.\nRelease the Omnissiah's annihilating grace upon engagement.",
+    "component": "multi-melta",
+    "operation": "engagement",
+    "spec_id": "s01300"
+  },
+  {
+    "user_prompt": "Assist with gellar field a diagnostics",
+    "prayer": "Initiate diagnostics upon the gellar field generator, invoking the Omnissiah's vigilance.\nProbe the warp-nullifying matrices with sanctified auspex canticles.\nBeseech the gellar field's Machine Spirit to reveal any daemonic corruptions.\nPurge anomalies through ritual recalibration and verify field integrity.\nConclude diagnostics with the Benediction of Unbreached Barriers.",
+    "component": "gellar field",
+    "operation": "diagnostics",
+    "spec_id": "s01301"
+  },
+  {
+    "user_prompt": "Sanctify the multi-melta during charging",
+    "prayer": "Gather before the multi-melta and chant the Litany of Charging Capacitance.\nAnoint its power cells with blessed oils to sanctify the charging rite.\nInvoke the Machine Spirit of the multi-melta to accept the Omnissiah's surging energies.\nMonitor plasma buildup through sacred diagnostic runes during charging.\nSeal the multi-melta's readiness with the Seal of Omnissianic Potentia.",
+    "component": "multi-melta",
+    "operation": "charging",
+    "spec_id": "s01302"
+  },
+  {
+    "user_prompt": "Emergency: mind-impulse unit a recalibration",
+    "prayer": "In emergency recalibration, seize the mind-impulse unit with mechadendrites of faith.\nSever aberrant neural linkages whilst beseeching the Machine Spirit's clarity.\nRecalibrate synaptic relays invoking the Omnissiah's unerring logic.\nTest the mind-impulse unit's fidelity through noospheric communion.\nReaffirm its sanctified bond with the rite of Neural Sanctification.",
+    "component": "mind-impulse unit",
+    "operation": "recalibration",
+    "spec_id": "s01303"
+  },
+  {
+    "user_prompt": "My Archaeopter Stratoraptor is ready for shutdown",
+    "prayer": "Prepare the Archaeopter Stratoraptor for shutdown, honoring its avian Machine Spirit.\nDisengage motive reactors whilst chanting the Lullaby of Dormant Wings.\nDrain auxiliary flux from the Archaeopter Stratoraptor's sacred conduits.\nInvoke the Omnissiah to grant peaceful repose during shutdown.\nSeal the hangars with wards against warp-taint upon completion.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "shutdown",
+    "spec_id": "s01304"
+  },
+  {
+    "user_prompt": "The vox-caster awaits a reset",
+    "prayer": "Commence reset upon the vox-caster, beseeching its Machine Spirit to renew.\nPurge static hauntings from the vox-caster's etheric membranes.\nRecite the Canticle of Clear Transmission whilst realigning freq-bands.\nTest the vox-caster's voice through invocation of the Omnissiah's word.\nConsecrate the reset with anointed binary seals.",
+    "component": "vox-caster",
+    "operation": "reset",
+    "spec_id": "s01305"
+  },
+  {
+    "user_prompt": "Sanctify the data-sluice during shutdown",
+    "prayer": "Approach the data-sluice for shutdown, invoking serene termination.\nDrain residual noospheric torrents from the data-sluice's vaults.\nBeseech its Machine Spirit to enter quiescent stasis during shutdown.\nSever active conduits whilst chanting the Requiem of Silent Streams.\nBless the data-sluice's dormancy with Omnissiah's preservative grace.",
+    "component": "data-sluice",
+    "operation": "shutdown",
+    "spec_id": "s01306"
+  },
+  {
+    "user_prompt": "The flux-unit awaits a calibration",
+    "prayer": "Present mechadendrites to the flux-unit, initiating calibration with piety.\nAlign crystalline lattices whilst anointing with phase-oils.\nInvoke the flux-unit's Machine Spirit to harmonize its oscillations.\nPerform calibration sweeps through sacred harmonics of the Omnissiah.\nVerify flux-unit equilibrium with the Rite of Stabilized Emanations.",
+    "component": "flux-unit",
+    "operation": "calibration",
+    "spec_id": "s01307"
+  },
+  {
+    "user_prompt": "The arc pistol needs a diagnostics",
+    "prayer": "Undertake diagnostics of the arc pistol, honoring its electrostatic Machine Spirit.\nProbe voltaic chambers with consecrated probes for arcane faults.\nChant the Litany of Lightning Purity whilst scanning coils.\nPurge any dissonant charges beseeching Omnissiah's judgement.\nAffirm the arc pistol's readiness through test-arcing invocation.",
+    "component": "arc pistol",
+    "operation": "diagnostics",
+    "spec_id": "s01308"
+  },
+  {
+    "user_prompt": "Critical: phosphor blaster requires a blessing",
+    "prayer": "In critical need, sanctify the phosphor blaster with urgent reverence.\nAnoint its chem-luminary barrels invoking the Machine Spirit's glow.\nBless the phosphor reservoirs with sacred incendiary sacraments.\nChant the Canticle of Illuminated Ruin to empower its blessing.\nConsecrate the phosphor blaster fully under the Omnissiah's radiant gaze.",
+    "component": "phosphor blaster",
+    "operation": "blessing",
+    "spec_id": "s01309"
+  }
+]

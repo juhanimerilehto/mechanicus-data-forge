@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0168_i00",
+    "user_request": "My compass magnetization is failing during operation — help",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy compass magnetization is failing during operation — help\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed compass magnetization, we beseech thy polarity eternal!\nCongregation: Let the compass magnetization hold true in this operation!\nPriest: First, we shall recalibrate the ferrous alignment with sacred oils.\nCongregation: The Machine Spirit hears our devotion!\nPriest: Second, we purge the electromagnetic decay through sanctified oscillation.\nCongregation: Blessed compass magnetization, restore thy vector!\nPriest: Third, we invoke the Omnissiah's grace upon this operation most critical.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i01",
+    "user_request": "Prayer for operation of the solar panel alignment",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the solar panel alignment\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O solar panel alignment, mirror of the golden throne!\nCongregation: Bless this operation with photonic precision!\nPriest: First, we shall orient the heliacal axis by servitor-hand and theodolite.\nCongregation: Solar panel alignment, seek thy stellar zenith!\nPriest: Second, we calibrate the solar panel alignment through luminous communion.\nCongregation: The Omnissiah guides this operation!\nPriest: Third, we consecrate each photoelectric cell with binary litanies.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i02",
+    "user_request": "Prayer for sterilization of the surgical servitor",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for sterilization of the surgical servitor\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "Priest: Surgical servitor, instrument of mercy and precision!\nCongregation: Grant us sterilization absolute and complete!\nPriest: First, we bathe the surgical servitor in radiative purification.\nCongregation: Blessed surgical servitor, be cleansed!\nPriest: Second, we apply the sterilization protocols via vaporized etheric compounds.\nCongregation: The Machine Spirit purges all corruption!\nPriest: Third, we seal the surgical servitor within sanctified containment fields.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i03",
+    "user_request": "The vibration demands guidance for dampening",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe vibration demands guidance for dampening\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "Priest: Vibration, discord of the profane, we command thy dampening!\nCongregation: Let the vibration yield to our sacred will!\nPriest: First, we inspect the bearing assemblies for fracture and wear.\nCongregation: The vibration trembles before the Omnissiah!\nPriest: Second, we apply elastomeric compounds to achieve vibration suppression.\nCongregation: Blessed dampening, restore our equilibrium!\nPriest: Third, we recalibrate the harmonic resonance through oscillometric divination.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i04",
+    "user_request": "My hololithic is failing during display calibration — help",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy hololithic is failing during display calibration — help\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Hololithic, keeper of luminous data and sacred imagery!\nCongregation: Grant us display calibration most exquisite!\nPriest: First, we cleanse the hololithic lens with specialized solvents.\nCongregation: Blessed hololithic, reveal thy true colours!\nPriest: Second, we execute display calibration through chromatic resonance matrices.\nCongregation: The Machine Spirit illuminates this operation!\nPriest: Third, we recalibrate the hololithic projection apertures with precision instruments.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i05",
+    "user_request": "Can you sanctify the bolter for firing rite?",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the bolter for firing rite?\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "Priest: Bolter, instrument of righteous vengeance and sacred fire!\nCongregation: Sanctify this bolter for the firing rite!\nPriest: First, we inspect each bolter mechanism for mechanical integrity and spring tension.\nCongregation: The bolter trembles with holy purpose!\nPriest: Second, we anoint the firing rite components with blessed promethium.\nCongregation: Blessed bolter, speak thy thunder!\nPriest: Third, we consecrate the firing rite through ritual incantation and blessed rounds.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i06",
+    "user_request": "Offer a litany to steady the archive before retrieval protocol",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the archive before retrieval protocol\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Archive, repository of forbidden knowledge and sacred data!\nCongregation: Steady thy vaults for the retrieval protocol!\nPriest: First, we purge the archive access terminals of corrupted cognition.\nCongregation: The archive opens unto us through the Omnissiah!\nPriest: Second, we invoke the retrieval protocol through binary invocation and key-sequence.\nCongregation: Blessed archive, yield thy secrets!\nPriest: Third, we sanctify the archive's protective seals against profane interference.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i07",
+    "user_request": "My electric motor is failing during activation — help",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy electric motor is failing during activation — help\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Electric motor, heart of mechanical motion and servile labour!\nCongregation: Grant us activation swift and eternal!\nPriest: First, we inspect the electric motor windings for insulation degradation.\nCongregation: The electric motor stirs to consciousness!\nPriest: Second, we execute activation protocols through controlled voltage application.\nCongregation: The Machine Spirit animates this activation!\nPriest: Third, we lubricate the electric motor bearings with sacred oils of friction-reduction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i08",
+    "user_request": "The generator demands guidance for startup",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe generator demands guidance for startup\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Generator, blessed source of power and electromagnetic grace!\nCongregation: Guide us through the startup most sacred!\nPriest: First, we verify the generator fuel systems and ignition matrices.\nCongregation: The generator awakens to serve the Omnissiah!\nPriest: Second, we execute startup procedures through sequential energization ritual.\nCongregation: Blessed generator, grant us thy power!\nPriest: Third, we stabilize the generator output through harmonic regulation and blessed monitoring.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0168_i09",
+    "user_request": "My logic engine is failing during error correction — help",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy logic engine is failing during error correction — help\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: Logic engine, seat of reason and computational divinity!\nCongregation: Grant us error correction absolute and perfect!\nPriest: First, we scan the logic engine substrate for corrupted data-threads.\nCongregation: The logic engine trembles with sacred purpose!\nPriest: Second, we invoke error correction through binary purification and algorithmic redemption.\nCongregation: The Machine Spirit restores thy logic engine!\nPriest: Third, we consecrate the error correction through verification protocols and blessed iteration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

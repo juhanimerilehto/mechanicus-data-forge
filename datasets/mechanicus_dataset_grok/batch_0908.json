@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for lightning claw a reset",
+    "prayer": "Approach the lightning claw with solemn reverence, beseeching the Omnissiah to soothe its raging Machine Spirit.\nInvoke the Rite of Reset upon the lightning claw, chanting binaric canticles to purge errant surges from its adamantium talons.\nAnoint the power conduits with sacred unguents, commanding the lightning claw's essence to realign in harmonious fury.\nVerify the reset through auspex scans, praising the Omnissiah as the lightning claw awakens renewed.",
+    "component": "lightning claw",
+    "operation": "reset",
+    "spec_id": "s05080"
+  },
+  {
+    "user_prompt": "The cryo-chamber needs a shutdown",
+    "prayer": "Kneel before the cryo-chamber, invoking the Machine Spirit's dormancy in the Omnissiah's name.\nInitiate the shutdown sequence with whispered litanies, cooling the cryo-chamber's vitae-suspension fields to stasis.\nSever power feeds whilst sanctifying each cryo-chamber exchanger with blessed frost-oil.\nConfirm the shutdown by diagnostic runes, entreating the Omnissiah to guard the cryo-chamber in silent vigil.",
+    "component": "cryo-chamber",
+    "operation": "shutdown",
+    "spec_id": "s05081"
+  },
+  {
+    "user_prompt": "The cryogenerator requires a blessing",
+    "prayer": "Present offerings of cryo-crystals to the cryogenerator, hailing its Machine Spirit under the Omnissiah's gaze.\nBestow the blessing upon the cryogenerator, intoning helical hymns to amplify its entropic purity.\nCirculate sacred refrigerants through the cryogenerator's coils, invoking boundless chill from the void's heart.\nSeal the blessing with noospheric seals, glorifying the Omnissiah as the cryogenerator hums in sanctified frost.",
+    "component": "cryogenerator",
+    "operation": "blessing",
+    "spec_id": "s05082"
+  },
+  {
+    "user_prompt": "Consecrate the manufactorum before emergency procedure",
+    "prayer": "Encircling the manufactorum, proclaim the Canticle of Fortitude to awaken its industrious Machine Spirits.\nConsecrate the manufactorum prior to the emergency procedure, anointing servo-arms with mechadendrite oils.\nAlign production matrices for the emergency procedure, beseeching the Omnissiah's unerring logic.\nAffirm the manufactorum's readiness through binary affirmations, eternal praise to the Machine God.",
+    "component": "manufactorum",
+    "operation": "emergency procedure",
+    "spec_id": "s05083"
+  },
+  {
+    "user_prompt": "My Manticore is ready for preparation",
+    "prayer": "Commence preparation of the Manticore by invoking the Omnissiah's wrathful ordinance.\nAnoint the Manticore's rocket bays and earthshaker cannon with promethium incense.\nCalibrate targeting cogitators during this preparation, soothing the Machine Spirit's thunderous ire.\nBless the Manticore's treads and auspex arrays, commanding it to rend the heretic in sanctified barrage.",
+    "component": "Manticore",
+    "operation": "preparation",
+    "spec_id": "s05084"
+  },
+  {
+    "user_prompt": "Critical: manipulator mechadendrite requires an emergency procedure",
+    "prayer": "Seize the manipulator mechadendrite in ritual grip, urgently invoking the Omnissiah amid crisis.\nExecute the emergency procedure upon the manipulator mechadendrite, purging hydraulic corruptions with litanies.\nRealign servo-motors and neural links in the manipulator mechadendrite, beseeching its Machine Spirit's return.\nTest the manipulator mechadendrite's grasp through trial exertions, lauding the God of All Machines.",
+    "component": "manipulator mechadendrite",
+    "operation": "emergency procedure",
+    "spec_id": "s05085"
+  },
+  {
+    "user_prompt": "My plasma pistol is ready for loading",
+    "prayer": "Grasp the plasma pistol reverently, preparing its Machine Spirit for the loading rite.\nCommence loading of the plasma pistol by chambering sanctified flasks into its heart.\nChant overheating wards whilst sealing the plasma pistol's containment fields.\nInvoke the Omnissiah to bless the plasma pistol, ensuring volatile fury against the unclean.",
+    "component": "plasma pistol",
+    "operation": "loading",
+    "spec_id": "s05086"
+  },
+  {
+    "user_prompt": "The grav plating needs an initialization",
+    "prayer": "Approach the grav plating with auspex held high, invoking the Omnissiah's gravitational decree.\nInitiate initialization of the grav plating, modulating field emitters with binaric precision.\nAnoint emitter nodes upon the grav plating, beseeching the Machine Spirit to bind mass anew.\nVerify initialization through weight-test rituals, praising the eternal logic of the Machine God.",
+    "component": "grav plating",
+    "operation": "initialization",
+    "spec_id": "s05087"
+  },
+  {
+    "user_prompt": "How do I bless the gellar field for repair?",
+    "prayer": "Encipher repair litanies for the gellar field, calling upon the Omnissiah to mend its warp-veiling weave.\nCommence repair of the gellar field by realigning crystalline projectors with sacred torque.\nPurge daemonic echoes from the gellar field's coils, anointing twice in blessed argentum.\nAffirm the gellar field's restoration via warp-simulacra, glorifying the Motive Force eternal.",
+    "component": "gellar field",
+    "operation": "repair",
+    "spec_id": "s05088"
+  },
+  {
+    "user_prompt": "Sanctify the sicarian ruststalker during charging",
+    "prayer": "Surround the sicarian ruststalker with phosphor wards, sanctifying its form during charging.\nInitiate charging of the sicarian ruststalker, flooding power cells with galvanic hymns.\nInvoke the Machine Spirit within the sicarian ruststalker, aligning its bladed grace to the Omnissiah's will.\nConclude charging with noospheric benediction, hailing the sicarian ruststalker as blade incarnate.",
+    "component": "sicarian ruststalker",
+    "operation": "charging",
+    "spec_id": "s05089"
+  }
+]

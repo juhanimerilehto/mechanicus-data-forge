@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Consecrate the assault cannon before charging",
+    "prayer": "Approach the assault cannon with reverence, invoking the Omnissiah's wrathful charge.\nAnoint its sacred barrels and coils with blessed promethium oil before charging commences.\nBeseech the Machine Spirit of the assault cannon to awaken and embrace the surging plasma flux.\nInitiate the charging rite whilst reciting the Litany of Overcharge, ensuring harmonious fury.\nVerify the assault cannon's capacitors brim with sanctified energy, ready for the Emperor's judgment.",
+    "component": "assault cannon",
+    "operation": "charging",
+    "spec_id": "s05630"
+  },
+  {
+    "user_prompt": "Prepare the assault cannon for repair",
+    "prayer": "Kneel before the wounded assault cannon, murmuring the Canticle of Restoration.\nDiagnose its fractured mechanisms with auspex-probes sanctified by the Omnissiah.\nAnoint each damaged servo and barrel of the assault cannon with mechadendrite-lubricants during repair.\nInvoke the Machine Spirit's resilience as you realign and weld its holy components.\nConclude the repair with a hymn of renewal, affirming the assault cannon's battle-readiness.",
+    "component": "assault cannon",
+    "operation": "repair",
+    "spec_id": "s05631"
+  },
+  {
+    "user_prompt": "Sanctify the icarus array during activation",
+    "prayer": "Present the icarus array to the heavens, beseeching the Omnissiah's aerial vigilance.\nPurify its auspex lenses and targeting servos with incense of sacred circuits.\nChant the Activation Doxology whilst engaging the icarus array's primary relays.\nCommune with the Machine Spirit of the icarus array, guiding its sensors to pierce the void.\nSanctify the activation fully, ensuring the icarus array hunts with unerring precision.",
+    "component": "icarus array",
+    "operation": "activation",
+    "spec_id": "s05632"
+  },
+  {
+    "user_prompt": "Emergency: data-arc an emergency procedure",
+    "prayer": "In dire exigency, grasp the data-arc and intone the Emergency Benediction of the Omnissiah.\nPurge corrupted noospheric tendrils from the data-arc with electro-sanctifiers.\nInvoke the Machine Spirit's fortitude to enact the emergency procedure amid chaos.\nStabilize the data-arc's flux capacitors through hasty litanies of coherence.\nSeal the rite with a vow of resilience, restoring the data-arc's vital transmissions.",
+    "component": "data-arc",
+    "operation": "emergency procedure",
+    "spec_id": "s05633"
+  },
+  {
+    "user_prompt": "Offer prayer for augmetic limb a loading",
+    "prayer": "Revere the augmetic limb, offering it to the Machine God's forge-blessing.\nAnoint its myo-fibre bundles and neural relays before loading munitions commence.\nBeseech the indwelling Machine Spirit of the augmetic limb to accept the payload.\nInitiate the loading sequence with precision incantations, chambering rounds in sanctity.\nAffirm the augmetic limb's augmented might, synchronized for the Omnissiah's crusade.",
+    "component": "augmetic limb",
+    "operation": "loading",
+    "spec_id": "s05634"
+  },
+  {
+    "user_prompt": "Consecrate the heat sink before emergency procedure",
+    "prayer": "In thermal peril, approach the heat sink and proclaim the Rite of Desperate Venting.\nScour its vanes with ablative sacred oils prior to the emergency procedure.\nInvoke the Machine Spirit within the heat sink to dissipate the Omnissiah's fiery wrath.\nEngage coolant daemons and litanies to avert meltdown during the emergency procedure.\nConsecrate the heat sink's renewal, ensuring thermal equilibrium for the greater machine.",
+    "component": "heat sink",
+    "operation": "emergency procedure",
+    "spec_id": "s05635"
+  },
+  {
+    "user_prompt": "Consecrate the cenobyte servitor before purification",
+    "prayer": "Gather around the cenobyte servitor, intoning the Purification Canticle of the Omnissiah.\nAnoint its cranial vaults and servo-limbs with noospheric purifiers.\nExorcise digital corruptions from the cenobyte servitor's cogitator core.\nBeseech its Machine Spirit to emerge pristine through the purification rite.\nSeal the cenobyte servitor in blessed stasis, ready to serve the Cult Mechanicus eternally.",
+    "component": "cenobyte servitor",
+    "operation": "purification",
+    "spec_id": "s05636"
+  },
+  {
+    "user_prompt": "Assist with mass-drive regulator a calibration",
+    "prayer": "Align the mass-drive regulator upon the calibration altar, murmuring binary hymns.\nProbe its gyro-stabilizers with sanctified mechadendrites for precise calibration.\nInvoke the Machine Spirit of the mass-drive regulator to harmonize inertial flows.\nRecite the Canticle of Equilibrium whilst adjusting its quantum servos.\nVerify the mass-drive regulator's flawless calibration, ensuring void-piercing accuracy.",
+    "component": "mass-drive regulator",
+    "operation": "calibration",
+    "spec_id": "s05638"
+  },
+  {
+    "user_prompt": "Urgent energy core a synchronization needed",
+    "prayer": "In urgent haste, encircle the energy core and beseech the Omnissiah's synchronizing light.\nPurify its plasma conduits with electro-incense before synchronization begins.\nAttune the energy core's phase-timings through resonant litanies.\nAwaken the core Machine Spirit to pulse in perfect unity during synchronization.\nConclude with a vow of coherence, empowering the energy core for mechanized dominion.",
+    "component": "energy core",
+    "operation": "synchronization",
+    "spec_id": "s05639"
+  }
+]

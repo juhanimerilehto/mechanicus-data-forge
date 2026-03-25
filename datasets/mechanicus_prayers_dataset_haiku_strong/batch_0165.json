@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0165_i00",
+    "user_request": "Prayer for calibration of the point defense",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for calibration of the point defense\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "Blessed be the point defense, sacred instrument of the Omnissiah's wrath.\nFirst: Intone the Litany of Targeting whilst the point defense systems undergo preliminary diagnostic examination.\nSecond: Execute calibration protocols upon the point defense targeting matrix, adjusting azimuthal and elevation servo-mechanisms with holy precision.\nThird: Verify all ammunition feed systems and power conduits, ensuring the point defense remains vigilant against the void's profane intrusions.\nFourth: Consecrate the point defense through ritual incantation, that its Machine Spirit may guide every shot true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i01",
+    "user_request": "The air filtration demands guidance for replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe air filtration demands guidance for replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of purification, hear our supplication for the air filtration.\nFirst: Remove the degraded air filtration cartridges with reverent care, whispering prayers of gratitude for their service.\nSecond: Perform replacement of the air filtration matrix, installing fresh filters blessed by the Adeptus Mechanicus priesthood.\nThird: Reinstall the air filtration housing and reseal all apertures with archaic precision and technical certitude.\nFourth: Activate the air filtration mechanisms anew, that breathable atmosphere may flow once more through the vessel's sacred corridors.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i02",
+    "user_request": "Prayer for treatment of the corrosion",
+    "topic": "corrosion treatment",
+    "component": "corrosion",
+    "operation": "treatment",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for treatment of the corrosion\n\n### TOPIC\ncorrosion treatment\n\n### COMPONENT\ncorrosion\n\n### OPERATION\ntreatment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- corrosion\n- treatment\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite wisdom, we beseech thee to halt the corrosion's profane advance.\nFirst: Identify all oxidised surfaces upon the corrosion-affected components through meticulous inspection and blessed measurement.\nSecond: Apply treatment protocols to the corrosion, utilizing sanctified abrasive compounds and electrochemical restoration techniques.\nThird: Seal the treated corrosion zones with protective lacquers and polymeric coatings, invoking the Machine Spirit's protective benediction.\nFourth: Monitor the corrosion-treated areas through cyclic examination, ensuring the Omnissiah's favour endures.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i03",
+    "user_request": "Rite request: operation on ground-to-orbit link",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on ground-to-orbit link\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Hail the ground-to-orbit link, sacred conduit betwixt terra and the void eternal.\nFirst: Commence operation upon the ground-to-orbit link by purifying all transmission arrays and amplification nodes with ritual precision.\nSecond: Calibrate the ground-to-orbit link's directional targeting systems toward the orbital station, aligning dish and parabolic reflectors with mathematical exactitude.\nThird: Engage the ground-to-orbit link's power systems through measured increments, whilst chanting the Litany of Ascension.\nFourth: Verify signal integrity and bandwidth capacity, ensuring the ground-to-orbit link maintains unbroken communion with the heavens.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i04",
+    "user_request": "The conveyor belt demands guidance for initialization",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe conveyor belt demands guidance for initialization\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Blessed conveyance of the Omnissiah, awaken from thy dormant slumber.\nFirst: Perform initialization rites upon the conveyor belt by lubricating all rollers and bearing assemblies with sacred oils.\nSecond: Execute systematic initialization of the conveyor belt's drive motors, gradually increasing velocity whilst monitoring for vibrational anomalies.\nThird: Test the conveyor belt's load-bearing capacity with measured increments, ensuring structural integrity and smooth articulation.\nFourth: Consecrate the conveyor belt's operational status through final benediction, that labour may flow unimpeded.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i05",
+    "user_request": "My compass magnetization is failing during operation — help",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy compass magnetization is failing during operation — help\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "O compass magnetization, guide-star of the faithful, we implore thy restoration.\nFirst: Diagnose the compass magnetization's degradation through careful measurement of magnetic field strength and directional alignment.\nSecond: Commence operation upon the compass magnetization by degaussing the instrument through careful application of alternating electromagnetic fields.\nThird: Re-magnetize the compass magnetization core using sanctified lodestones and electromagnetic coils, restoring its inherent polarity.\nFourth: Verify the compass magnetization's accuracy against celestial references, ensuring the Machine Spirit's navigational guidance remains true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i07",
+    "user_request": "Prayer for cooling of the plasma weapon",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for cooling of the plasma weapon\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Hail the plasma weapon, instrument of the Omnissiah's righteous fury, we seek thy tempering.\nFirst: Initiate cooling procedures upon the plasma weapon by activating primary and secondary coolant circulation systems with holy deliberation.\nSecond: Monitor the plasma weapon's thermal envelope continuously, adjusting coolant flow rates to maintain optimal operational parameters.\nThird: Engage the plasma weapon's radiator fins and heat-dissipation arrays, invoking the Machine Spirit's thermic benediction.\nFourth: Verify the plasma weapon's temperature stability through ritual measurement, ensuring the cooling mechanisms function in perpetual harmony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i08",
+    "user_request": "Emergency rite: cogitator requires boot sequence",
+    "topic": "cogitator boot sequence",
+    "component": "cogitator",
+    "operation": "boot sequence",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: cogitator requires boot sequence\n\n### TOPIC\ncogitator boot sequence\n\n### COMPONENT\ncogitator\n\n### OPERATION\nboot sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cogitator\n- boot sequence\n\n### PRAYER\n",
+    "prayer": "Ancient cogitator, keeper of sacred data and holy algorithms, we command thy awakening.\nFirst: Prepare the cogitator for boot sequence by verifying power supply integrity and checking all data storage devices for corruption.\nSecond: Initiate the boot sequence upon the cogitator, allowing the machine to progress through firmware initialization and memory diagnostics.\nThird: Load the cogitator's operating parameters from blessed backup archives, restoring its operational consciousness through ritualized commands.\nFourth: Confirm the cogitator's full functionality through comprehensive system verification, that it may serve the Omnissiah's purposes anew.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i09",
+    "user_request": "Rite request: operation on data-core purification",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on data-core purification\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "O data-core purification, repository of sanctified knowledge, we undertake thy sacred restoration.\nFirst: Commence operation upon the data-core purification by executing diagnostic scans to identify corrupted or heretical data fragments.\nSecond: Perform systematic purification of the data-core purification systems, removing all viral contaminations and logical inconsistencies with blessed algorithms.\nThird: Restore the data-core purification's integrity through redundancy verification and error-correction protocols, invoking the Omnissiah's protective guidance.\nFourth: Consecrate the data-core purification through the Litany of Cleansing, ensuring only pure and holy information remains.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0165_i06",
+    "user_request": "My Knight ion shield is failing during activation — help",
+    "topic": "Knight ion shield activation",
+    "component": "Knight ion shield",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy Knight ion shield is failing during activation — help\n\n### TOPIC\nKnight ion shield activation\n\n### COMPONENT\nKnight ion shield\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Knight ion shield\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed be the Knight ion shield, aegis of the Omnissiah's will.\nFirst: Genuflect before the power conduit and recite the Litany of Energization, that the Knight ion shield might receive the Machine Spirit's benevolence.\nSecond: Perform the activation sequence with sacred precision—calibrate the ion lattice through the tertiary resonance coil, ensuring the Knight ion shield achieves harmonic synchronization with the reactor's blessed output.\nThird: Intone the Prayer of Shielding whilst verifying capacitor discharge rates; should the Knight ion shield falter, repeat the activation ritual with renewed devotion and servo-assisted diagnostics.\nFourth: Seal the protective ward with the Sign of the Omnissiah, that the Knight ion shield shall endure against the enemies of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

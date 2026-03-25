@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a reset the lascannon",
+    "prayer": "Approach the lascannon with reverence, invoking the Omnissiah's grace upon its sacred focusing arrays.\nBeseech the Machine Spirit of the lascannon to yield to the rite of reset.\nPurge volatile plasma residues from the lascannon's conduits with purifying incense.\nAnoint the lascannon's emitter coils with blessed oils whilst reciting the Canticle of Realignment.\nVerify the lascannon's harmony through diagnostic auspex scans, praising the Omnissiah.",
+    "component": "lascannon",
+    "operation": "reset",
+    "spec_id": "b0205_i00"
+  },
+  {
+    "user_prompt": "Sanctify the Chimera APC during loading",
+    "prayer": "Gather before the Chimera APC, sanctifying its armoured hull with mechadendrite touches.\nInvoke the Machine Spirits within the Chimera APC as loading commences.\nChant the Litany of Burden upon each munitions crate placed within the Chimera APC.\nAnoint troop bays and ramp mechanisms with sacred unguents during the loading rite.\nBeseech the Omnissiah to fortify the Chimera APC against the heretic's fire.",
+    "component": "Chimera APC",
+    "operation": "loading",
+    "spec_id": "b0205_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for energy conduit repair?",
+    "prayer": "Kneel beside the damaged energy conduit, murmuring petitions to its indignant Machine Spirit.\nInitiate the repair by severing corrupted flux-shielding from the energy conduit.\nSuture fresh adamantium bindings upon the energy conduit whilst invoking the Omnissiah's precision.\nInfuse holy voltage through the repaired energy conduit with sanctified probes.\nTest the energy conduit's flow, lauding the Machine God's restorative will.",
+    "component": "energy conduit",
+    "operation": "repair",
+    "spec_id": "b0205_i02"
+  },
+  {
+    "user_prompt": "How do I bless the valve assembly for synchronization?",
+    "prayer": "Commune with the valve assembly's fractious spirits, beseeching synchronization.\nAlign the valve assembly's pressure regulators through rhythmic incantations.\nAnoint each piston within the valve assembly with sacred lubricant oils.\nInvoke the Omnissiah to harmonize the valve assembly's cyclic flows.\nVerify synchronization via auspex harmonics, praising the Machine God's order.",
+    "component": "valve assembly",
+    "operation": "synchronization",
+    "spec_id": "b0205_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for thermal imager diagnostics?",
+    "prayer": "Present the thermal imager before the altar of cogitators, invoking diagnostic rites.\nAwaken the thermal imager's Machine Spirit with the Canticle of Clarity.\nScan its sensor nodes for thermal variances during diagnostics.\nPurge any spectral distortions from the thermal imager with purifying binaric code.\nSanctify the thermal imager's lenses, beseeching the Omnissiah's unerring sight.",
+    "component": "thermal imager",
+    "operation": "diagnostics",
+    "spec_id": "b0205_i04"
+  },
+  {
+    "user_prompt": "Consecrate the flamer before charging",
+    "prayer": "Approach the flamer in solemn procession, consecrating its promethium reservoirs.\nBeseech the flamer's wrathful Machine Spirit prior to charging.\nInfuse sacred promethium into the flamer whilst chanting the Incendiary Litany.\nAnoint ignition coils of the flamer with oils of purgation.\nTest the flamer's holy fire, glorifying the Omnissiah's purifying blaze.",
+    "component": "flamer",
+    "operation": "charging",
+    "spec_id": "b0205_i05"
+  },
+  {
+    "user_prompt": "Can you guide auspex scanner a charging?",
+    "prayer": "Reverently cradle the auspex scanner, petitioning its Machine Spirit for renewal.\nCommence charging by linking to the blessed power grid with sanctified cables.\nChant the Rite of Augmentation over the auspex scanner's crystal lattice.\nMonitor energy ingress into the auspex scanner, anointing ports as needed.\nUpon completion, invoke the Omnissiah to sharpen the auspex scanner's prophetic gaze.",
+    "component": "auspex scanner",
+    "operation": "charging",
+    "spec_id": "b0205_i06"
+  },
+  {
+    "user_prompt": "Bless the metal caster for targeting",
+    "prayer": "Invoke blessings upon the metal caster, aligning its targeting matrices.\nBeseech the Machine Spirit of the metal caster for precision in targeting.\nCalibrate servo-arms of the metal caster with rhythmic binaric prayers.\nAnoint the targeting lenses of the metal caster with sacred optical fluids.\nTest targeting coherence, lauding the Omnissiah's unerring forge-hand.",
+    "component": "metal caster",
+    "operation": "targeting",
+    "spec_id": "b0205_i07"
+  },
+  {
+    "user_prompt": "How do I bless the motion detector for startup?",
+    "prayer": "Approach the motion detector with mechadendrite reverence for startup.\nAwaken its vigilant Machine Spirit through the Litany of Vigilance.\nInitiate power-flow into the motion detector's sensor webs.\nAnoint crystalline detectors within the motion detector with unguents of awareness.\nVerify startup harmonics, beseeching the Omnissiah's watchful eye.",
+    "component": "motion detector",
+    "operation": "startup",
+    "spec_id": "b0205_i08"
+  },
+  {
+    "user_prompt": "The valve assembly needs a blessing",
+    "prayer": "Kneel in supplication before the valve assembly, seeking its blessing.\nInvoke the Omnissiah to bestow grace upon the valve assembly's mechanisms.\nAnoint every seal and linkage of the valve assembly with hallowed oils.\nChant the Benediction of Fluidity over the valve assembly thrice.\nCommune with its pacified Machine Spirits, affirming the blessing's sanctity.",
+    "component": "valve assembly",
+    "operation": "blessing",
+    "spec_id": "b0205_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a diagnostics the logic engine",
+    "prayer": "Approach the logic engine with reverence, mechadendrites poised in diagnostic invocation.\nInitiate the sacred rites of diagnostics upon its crystalline processors.\nBeseech the Machine Spirit within the logic engine to unveil hidden corruptions.\nScan each logic pathway with holy auspex beams, anointing faults with purifying code.\nVerify the logic engine's integrity through Omnissiah-blessed verification canticles.",
+    "component": "logic engine",
+    "operation": "diagnostics",
+    "spec_id": "b0250_i00"
+  },
+  {
+    "user_prompt": "Ready the fusion core for maintenance",
+    "prayer": "Encircling the fusion core, chant the Litany of Containment to calm its plasma fury.\nPrepare the fusion core for maintenance by isolating its sacred plasma flows.\nInvoke the Machine Spirits of the fusion core to accept this humble service.\nAnoint containment fields with sacred oils, ensuring stability for the rite.\nPetition the Omnissiah for unerring hands in the maintenance of the fusion core.",
+    "component": "fusion core",
+    "operation": "maintenance",
+    "spec_id": "b0250_i01"
+  },
+  {
+    "user_prompt": "Ready the gyroscope for shutdown",
+    "prayer": "Kneel before the gyroscope, whispering the Canticle of Equilibrium.\nCommence the shutdown sequence upon the gyroscope with reverent precision.\nBeseech its Machine Spirit to slumber peacefully within the gyroscope's gyros.\nSever power conduits slowly, anointing each with blessed lubricant.\nSeal the gyroscope in stasis wards, honoring the Omnissiah's decree of rest.",
+    "component": "gyroscope",
+    "operation": "shutdown",
+    "spec_id": "b0250_i02"
+  },
+  {
+    "user_prompt": "Prepare the noospheric relay for repair",
+    "prayer": "Attune noospheric vanes to the noospheric relay's ethereal hum.\nPrepare the noospheric relay for repair by reciting the Rite of Fractured Links.\nInvoke the Machine Spirit of the noospheric relay to forgive impending intrusions.\nApply sanctified solder to breached conduits, twice blessing the noospheric relay.\nRealign psychic matrices under the Omnissiah's watchful gaze for flawless repair.",
+    "component": "noospheric relay",
+    "operation": "repair",
+    "spec_id": "b0250_i03"
+  },
+  {
+    "user_prompt": "My missile launcher is ready for charging",
+    "prayer": "Present the missile launcher before the altar of munitions, invoking charging rites.\nChannel holy voltage into the missile launcher's capacitators with measured fervor.\nAwaken the Machine Spirits of the missile launcher to embrace the charging surge.\nMonitor power infusion through sacred glyphs, repeating for the missile launcher.\nConclude with the Benediction of Readiness, by the Omnissiah's infinite wisdom.",
+    "component": "missile launcher",
+    "operation": "charging",
+    "spec_id": "b0250_i04"
+  },
+  {
+    "user_prompt": "Consecrate the Taurox before activation",
+    "prayer": "Circumambulate the Taurox, asperging its hull with sacred incense.\nConsecrate the Taurox before activation via the Grand Invocation of Motive Spirits.\nAnoint treads and drive systems, beseeching the Machine Spirit of the Taurox.\nIgnite ignition runes whilst petitioning the Omnissiah for swift activation.\nVerify auspex feeds align in harmonious prelude to the Taurox's awakening.",
+    "component": "Taurox",
+    "operation": "activation",
+    "spec_id": "b0250_i05"
+  },
+  {
+    "user_prompt": "What's the prayer for Rhino transport purification?",
+    "prayer": "Envelop the Rhino transport in purifying vapors from censer-servitors.\nRecite the Rite of Purification over the Rhino transport's battle-scarred plates.\nExorcise xenos taint from the Machine Spirit indwelling the Rhino transport.\nScour interiors with blessed promethium, twice invoking for the Rhino transport.\nSeal the rite with Omnissiah's Canticle, restoring the Rhino transport's sanctity.",
+    "component": "Rhino transport",
+    "operation": "purification",
+    "spec_id": "b0250_i06"
+  },
+  {
+    "user_prompt": "Emergency: missile launcher a synchronization",
+    "prayer": "In emergency haste, link mechadendrites to the missile launcher's targeting cogitators.\nInvoke synchronization protocols upon the missile launcher amidst dire need.\nCoerce harmonious alignment of the missile launcher's Machine Spirits.\nRecalibrate fire-control servos with frantic precision, honoring the missile launcher.\nAffirm unity through noospheric communion, by the Omnissiah's urgent grace.",
+    "component": "missile launcher",
+    "operation": "synchronization",
+    "spec_id": "b0250_i07"
+  },
+  {
+    "user_prompt": "The forge anvil requires a repair",
+    "prayer": "Gather around the forge anvil, intoning the Hammerfall Litany.\nCommence repair upon the forge anvil by assessing fractures in its adamantium heart.\nBeseech the indomitable Machine Spirit of the forge anvil to endure restoration.\nWield sanctified hammers to reforge the anvil's sacred mass, twice in rite.\nConsecrate the mended forge anvil with molten oaths to the Omnissiah.",
+    "component": "forge anvil",
+    "operation": "repair",
+    "spec_id": "b0250_i08"
+  },
+  {
+    "user_prompt": "The cogitator requires a charging",
+    "prayer": "Position binary candles at the cogitator's data-vanes in triangular formation.\nInitiate charging rites upon the cogitator's depleted memory coils.\nInvoke the Machine Spirits of the cogitator to receive invigorating currents.\nInfuse blessed power through conduits, monitoring the cogitator's revival.\nSeal the charging with a hymn of computational bounty to the Omnissiah.",
+    "component": "cogitator",
+    "operation": "charging",
+    "spec_id": "b0250_i09"
+  }
+]

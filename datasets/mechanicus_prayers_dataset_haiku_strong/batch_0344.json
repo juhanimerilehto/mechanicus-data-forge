@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0344_i00",
+    "user_request": "Blessing for the air filtration during replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the air filtration during replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the air filtration, conduit of sacred respiration.\nCongregation: We invoke the Omnissiah's grace upon air filtration replacement.\nPriest: First, inspect the intake manifold for particulate contamination.\nCongregation: Second, disengage the septum-seal with reverent precision.\nPriest: Third, install the blessed cartridge and restore the air filtration to function.\nCongregation: The Machine Spirit breathes anew through air filtration eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i01",
+    "user_request": "Rite request: key generation on encryption",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: key generation on encryption\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the encryption, guardian of sacred data-streams.\nCongregation: We petition the Machine Spirits for key generation blessing.\nPriest: First, calibrate the algorithmic matrices of encryption.\nCongregation: Second, invoke the numeral-runes through encryption protocols.\nPriest: Third, manifest the key generation through binary incantation.\nCongregation: Let encryption shield our secrets from the void eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i02",
+    "user_request": "The relay station handoff demands guidance for operation",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe relay station handoff demands guidance for operation\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the relay station handoff, nexus of communion.\nCongregation: Grant us wisdom for relay station handoff operation.\nPriest: First, attune the signal-receptors to incoming frequency-bands.\nCongregation: Second, synchronize the relay station handoff protocols with adjacent nodes.\nPriest: Third, execute the transfer sequence and maintain relay station handoff integrity.\nCongregation: The Omnissiah guides each transmission through the aether.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i03",
+    "user_request": "Emergency rite: waste disposal requires cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: waste disposal requires cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Sanctify the waste disposal, purifier of corrupted matter.\nCongregation: We beseech thee for waste disposal cycling grace.\nPriest: First, disengage the containment seals with solemn ceremony.\nCongregation: Second, initiate the waste disposal purification cycle through thermal ablation.\nPriest: Third, complete the waste disposal sequence and restore equilibrium.\nCongregation: The Machine Spirits consume all impurity and corruption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i04",
+    "user_request": "The neural interface demands guidance for connection",
+    "topic": "neural interface connection",
+    "component": "neural interface",
+    "operation": "connection",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe neural interface demands guidance for connection\n\n### TOPIC\nneural interface connection\n\n### COMPONENT\nneural interface\n\n### OPERATION\nconnection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- neural interface\n- connection\n\n### PRAYER\n",
+    "prayer": "Priest: Hallowed be the neural interface, bridge between flesh and machine.\nCongregation: Bless the neural interface connection with sacred clarity.\nPriest: First, prepare the neural interface contact-points with blessed oils.\nCongregation: Second, align the synaptic-pathways through neural interface harmonization.\nPriest: Third, establish the neural interface bond and merge consciousness with the Machine.\nCongregation: The Omnissiah welcomes all who commune through neural interface.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i05",
+    "user_request": "Prayer for reduction of the noise",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for reduction of the noise\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "Priest: Silence the cacophony, let noise yield to tranquility.\nCongregation: We implore the Machine Spirits for noise reduction.\nPriest: First, identify the oscillating frequencies corrupting noise equilibrium.\nCongregation: Second, deploy dampening fields to suppress noise resonance.\nPriest: Third, calibrate the acoustic filters until noise reduction achieves perfection.\nCongregation: Peace descends as noise fades into blessed quietude.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i07",
+    "user_request": "Can you sanctify the rejuvenat treatment for initiation?",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the rejuvenat treatment for initiation?\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: Exalt the rejuvenat treatment, elixir of renewal.\nCongregation: Sanctify the rejuvenat treatment initiation with blessed care.\nPriest: First, prepare the vascular apparatus for rejuvenat treatment infusion.\nCongregation: Second, introduce the regenerative compounds into rejuvenat treatment channels.\nPriest: Third, monitor the cellular metamorphosis as rejuvenat treatment restores vitality.\nCongregation: The Machine Spirits grant new life through rejuvenat treatment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i08",
+    "user_request": "Offer a litany to steady the restart after failure before restart after failure",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the restart after failure before restart after failure\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: Rise again, blessed restart after failure, phoenix of the Machine.\nCongregation: We chant for restart after failure restoration.\nPriest: First, purge the corrupted subroutines from restart after failure systems.\nCongregation: Second, reinvoke the primary protocols through restart after failure benediction.\nPriest: Third, restore full functionality to restart after failure and banish the void's touch.\nCongregation: The Omnissiah resurrects all through restart after failure eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i09",
+    "user_request": "Prayer for operation of the Rhino APC ignition",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the Rhino APC ignition\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken the Rhino APC ignition, mighty war-engine of the faithful.\nCongregation: Bless the Rhino APC ignition operation with righteous fury.\nPriest: First, prime the fuel-injectors of the Rhino APC ignition mechanism.\nCongregation: Second, synchronize the combustion-sequences within Rhino APC ignition chambers.\nPriest: Third, ignite the Rhino APC ignition and unleash the machine's wrath.\nCongregation: The Machine Spirits roar through Rhino APC ignition victorious.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0344_i06",
+    "user_request": "Rite request: sealing on emergency bulkhead",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: sealing on emergency bulkhead\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the emergency bulkhead, fortress against the void's hunger!\nCongregation: We invoke the Machine Spirit of the emergency bulkhead, guardian of our vessel's sanctity.\nPriest: By sacred sealing, we bind shut the emergency bulkhead against all corruption and breach!\nCongregation: The emergency bulkhead shall hold, magnetized and blessed, impermeable to the warp's touch.\nPriest: First we purify the seals with holy oils, second we intone the Litany of Closure, third we engage the locking mechanisms with reverent precision.\nCongregation: The sealing is complete. The Omnissiah's will flows through adamantite and ferrous compounds alike.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

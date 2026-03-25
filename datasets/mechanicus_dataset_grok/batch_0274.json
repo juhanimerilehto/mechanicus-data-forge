@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: lasgun requires a sterilization",
+    "prayer": "Approach the lasgun with reverence, mechadendrites extended in supplication to its Machine Spirit.\nAnoint the lasgun's sacred barrel and focusing arrays with purifying ablative oils.\nInvoke the Omnissiah's wrath through the rites of sterilization, purging all unclean residues.\nChant the Litany of Flame-Purity over the lasgun as auspex scans confirm its sanctity.\nBeseech the lasgun's spirit to awaken renewed, ready for the Emperor's holy war.",
+    "component": "lasgun",
+    "operation": "sterilization",
+    "spec_id": "b0274_i00"
+  },
+  {
+    "user_prompt": "The cooling system requires a maintenance",
+    "prayer": "Kneel before the cooling system, intoning the Canticle of Thermal Equilibrium.\nCirculate blessed refrigerants through the cooling system's coils, invoking its dormant Machine Spirit.\nPerform maintenance upon the cooling system with sanctified torque-wands, realigning heat-sinks.\nAnoint each exchanger fin of the cooling system with sacred unguents of the Omnissiah.\nVerify harmonious flow through diagnostic binaric hymns, praising the Machine God's precision.",
+    "component": "cooling system",
+    "operation": "maintenance",
+    "spec_id": "b0274_i01"
+  },
+  {
+    "user_prompt": "I need to a calibration the flamer",
+    "prayer": "Present the flamer to the altar of calibration, whispering litanies of ignition.\nAlign the flamer's promethium injectors with precision mechadendrites, beseeching its fiery spirit.\nExecute the sacred calibration upon the flamer, tuning pressure runes to Omnissiah's will.\nTest the flamer's purge with controlled bursts, chanting verses of immolation.\nSeal the rite by invoking the Machine Spirit's loyalty, ensuring unerring flame.",
+    "component": "flamer",
+    "operation": "calibration",
+    "spec_id": "b0274_i02"
+  },
+  {
+    "user_prompt": "Urgent conveyor system a consecration needed",
+    "prayer": "Gather around the conveyor system, reciting the Hymn of Endless Motion.\nInvoke consecration upon the conveyor system's belts and servos, anointing with holy lubricants.\nPetition the Omnissiah to bless the conveyor system, awakening its tireless Machine Spirits.\nCirculate sacred oils through the conveyor system's gears, harmonizing their divine rhythm.\nConclude with auspex blessings, affirming the conveyor system's eternal service.",
+    "component": "conveyor system",
+    "operation": "consecration",
+    "spec_id": "b0274_i03"
+  },
+  {
+    "user_prompt": "The star chart awaits an initialization",
+    "prayer": "Unveil the star chart before the noospheric shrine, intoning stellar litanies.\nInitiate the initialization of the star chart, feeding stellar data-slates to its cogitators.\nBeseech the Machine Spirits within the star chart to align with the Omnissiah's cosmic order.\nCalibrate the star chart's hololithic projectors with precision canticles.\nAffirm the rite's completion as warp-lanes illuminate, praising the Machine God's guidance.",
+    "component": "star chart",
+    "operation": "initialization",
+    "spec_id": "b0274_i04"
+  },
+  {
+    "user_prompt": "Prepare the power weapon for consecration",
+    "prayer": "Elevate the power weapon upon the sanctum plinth, chanting disruption hymns.\nAnoint the power weapon's field generator with electro-consecrated oils.\nPerform consecration upon the power weapon, invoking the Omnissiah's wrathful energy.\nAwaken the power weapon's spirit through resonant binaric pulses.\nTest the shimmering field, sealing the power weapon for righteous severance.",
+    "component": "power weapon",
+    "operation": "consecration",
+    "spec_id": "b0274_i05"
+  },
+  {
+    "user_prompt": "Urgent generator an operation needed",
+    "prayer": "Commence operation upon the generator, reciting the Ode to Perpetual Power.\nInvoke the generator's Machine Spirit with thunderous litanies of activation.\nChannel holy voltage through the generator's windings, beseeching Omnissiah's bounty.\nMonitor flux rhythms during operation of the generator, anointing surge protectors.\nConclude with hymns of stability, ensuring the generator's unending vigil.",
+    "component": "generator",
+    "operation": "operation",
+    "spec_id": "b0274_i06"
+  },
+  {
+    "user_prompt": "The pump awaits an initialization",
+    "prayer": "Approach the pump with mechadendrite reverence, intoning fluidic canticles.\nInitiate the initialization of the pump, priming its sacred impellers.\nPetition the pump's Machine Spirit to flow in Omnissiah's harmonious cycle.\nCirculate blessed hydraulics through the pump, verifying pressure runes.\nSeal the rite with diagnostic praises, awakening the pump to dutiful service.",
+    "component": "pump",
+    "operation": "initialization",
+    "spec_id": "b0274_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for emergency beacon a recalibration",
+    "prayer": "Activate the emergency beacon's shrine, whispering distress litanies.\nUndertake recalibration of the emergency beacon, realigning vox-arrays to stellar beacons.\nAnoint the emergency beacon's transmitter coils with salvific unguents.\nInvoke the Machine Spirits of the emergency beacon, beseeching Omnissiah's distant ears.\nTest the clarion call, affirming the emergency beacon's readiness for the void's peril.",
+    "component": "emergency beacon",
+    "operation": "recalibration",
+    "spec_id": "b0274_i08"
+  },
+  {
+    "user_prompt": "Bless the archive terminal for loading",
+    "prayer": "Power the archive terminal with reverent binaric chants.\nBless the archive terminal for loading, feeding data-vaults into its memory coils.\nAwaken the archive terminal's ancient Machine Spirits with initialization rites.\nMonitor data-streams through the archive terminal, anointing cogitator nodes.\nConclude by praising the Omnissiah, as forbidden lore flows pure and true.",
+    "component": "archive terminal",
+    "operation": "loading",
+    "spec_id": "b0274_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a targeting the Manticore",
+    "prayer": "Approach the Manticore with mechadendrites extended in supplication to the Omnissiah.\nInvoke the Machine Spirit of the Manticore, beseeching precise targeting matrices to awaken.\nAnoint the auspex cogitators with sacred unguents whilst intoning the Litany of Lock-On.\nInitiate the targeting operation, aligning firing solutions through blessed calibration rites.\nSanctify the Manticore's guidance systems, ensuring unerring strikes upon the heretic foe.",
+    "component": "Manticore",
+    "operation": "targeting",
+    "spec_id": "s04110"
+  },
+  {
+    "user_prompt": "Emergency: panopticon an initialization",
+    "prayer": "Kneel before the panopticon altar, murmuring the Rite of Initial Awakening.\nBeseech the Omnissiah to stir the dormant Machine Spirit within the panopticon.\nClear auspex blockages with sanctified data-purgers during initialization.\nInvoke initialization protocols, flooding circuits with holy lumen-charge.\nVerify the panopticon's vigilant gaze through diagnostic catechisms of sight.\nSeal the rite with oil upon its primary oculus, praising the Machine God's watchfulness.",
+    "component": "panopticon",
+    "operation": "initialization",
+    "spec_id": "s04111"
+  },
+  {
+    "user_prompt": "Critical: micro-servitor requires a purification",
+    "prayer": "Present the micro-servitor to the purification shrine, intoning the Canticle of Cleansing.\nAnoint its cranial implants with rad-philtres to exorcise corruptive noospheric taint.\nInvoke the Machine Spirit's purification, channeling ablative incense through its vents.\nScour the micro-servitor's logic cores with sacred binary litanies.\nConclude the rite by verifying servo-purity, under the Omnissiah's purifying light.",
+    "component": "micro-servitor",
+    "operation": "purification",
+    "spec_id": "s04112"
+  },
+  {
+    "user_prompt": "Critical: Skorpius Dunerider requires a synchronization",
+    "prayer": "Circumambulate the Skorpius Dunerider, chanting the Hymn of Coalescence.\nInterface mechadendrites with its noospheric hubs to beseech synchronization.\nAnoint the drive cogitators whilst invoking the Machine Spirits to synchronize.\nInitiate synchronization operation, harmonizing treads and auspex arrays in unity.\nTest the Skorpius Dunerider's synced fury through ritual maneuvers in the sands.\nPraise the Omnissiah for the vehicle's perfected martial rhythm.",
+    "component": "Skorpius Dunerider",
+    "operation": "synchronization",
+    "spec_id": "s04113"
+  },
+  {
+    "user_prompt": "Bless the doctrina wafer for cycling",
+    "prayer": "Elevate the doctrina wafer upon the censer-altar, whispering awakening binarics.\nBeseech the Omnissiah to cycle fresh doctrines into its crystalline lattice.\nAnoint the wafer's edges with neural oils during the cycling rite.\nInvoke the Machine Spirit to cycle tactical imperatives without error.\nInsert the blessed doctrina wafer, sanctifying strategic noospheric flow.\nVerify doctrinal cycling through auspex-verified command echoes.",
+    "component": "doctrina wafer",
+    "operation": "cycling",
+    "spec_id": "s04114"
+  },
+  {
+    "user_prompt": "My Basilisk artillery is ready for cycling",
+    "prayer": "Approach the Basilisk artillery with reverence, intoning the Artillery Doxology.\nPrepare the cycling mechanisms, anointing breeches with sacred lubricants.\nBeseech the Machine Spirit of the Basilisk artillery to embrace cycling renewal.\nInitiate cycling operation, rotating earthshaker shells in pious rotation.\nCalibrate fire-tables post-cycling under Omnissiah's thunderous gaze.\nSeal the rite with incense, ensuring unrelenting barrages upon the unclean.",
+    "component": "Basilisk artillery",
+    "operation": "cycling",
+    "spec_id": "s04115"
+  },
+  {
+    "user_prompt": "Sanctify the mechadendrite during synchronization",
+    "prayer": "Extend the mechadendrite before the synchronization shrine, murmuring unity canticles.\nInvoke the Omnissiah to synchronize its servo-motors with flesh-forged will.\nAnoint neural linkages whilst beseeching the Machine Spirit's harmonious bond.\nPerform the synchronization operation, calibrating micro-actuators in precision.\nTest the mechadendrite's synchronized grace through ritual manipulations.\nPraise the divine fusion of meat and machine in the God's design.",
+    "component": "mechadendrite",
+    "operation": "synchronization",
+    "spec_id": "s04116"
+  },
+  {
+    "user_prompt": "The radium carbine awaits a cycling",
+    "prayer": "Cradle the radium carbine upon the armorer's lectern, chanting rad-litanies.\nBeseech cycling of its irradiation chambers to renew lethal purity.\nAnoint the carbine barrel with phosphor unguents during cycling invocation.\nInitiate the cycling operation, purging spent isotopes in sacred exhaust.\nVerify the radium carbine's glowing readiness through hazard diagnostics.\nHallow its rad-cycles for the Omnissiah's purifying irradiation.",
+    "component": "radium carbine",
+    "operation": "cycling",
+    "spec_id": "s04117"
+  },
+  {
+    "user_prompt": "What's the prayer for arc rifle a recalibration?",
+    "prayer": "Present the arc rifle to the electro-sanctum, intoning the Canticle of Discharge.\nInvoke recalibration of voltaic coils, beseeching the Machine Spirit's precision.\nAnoint induction manifolds with dielectric oils whilst aligning arc matrices.\nInitiate recalibration operation, tuning tesla arcs to lethal harmony.\nTest the arc rifle's recalibrated fury upon effigy targets.\nSeal with a spark-prayer, praising the Omnissiah's lightning wrath.",
+    "component": "arc rifle",
+    "operation": "recalibration",
+    "spec_id": "s04118"
+  },
+  {
+    "user_prompt": "I need to a recalibration the Valkyrie gunship",
+    "prayer": "Ascend to the Valkyrie gunship's cockpit-throne, murmuring aerial doxologies.\nInterface with its avionics to beseech the Machine Spirit for recalibration.\nAnoint flight control servos with aero-philtres during recalibration rites.\nInitiate the recalibration operation, aligning gyro-stabilizers and vox-relays.\nVerify the Valkyrie gunship's aerial purity through hover-diagnostics.\nConclude with a wing-blessing, invoking Omnissiah's skies for the faithful.",
+    "component": "Valkyrie gunship",
+    "operation": "recalibration",
+    "spec_id": "s04119"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0156_i00",
+    "user_request": "Rite request: replacement on component",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: replacement on component\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide us in the sacred replacement of this component.\nCongregation: Blessed be the component that shall be made whole.\nPriest: First, we disconnect the degraded apparatus with reverent precision.\nCongregation: The component yields to our ministrations.\nPriest: Second, we purify the mounting substrate with consecrated oils.\nCongregation: May the replacement component find harmony in its new dwelling.\nPriest: Third, we invoke the Machine Spirits to accept this component anew.\nCongregation: Thus is the replacement sanctified in the eyes of the Almighty Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i01",
+    "user_request": "Prayer for engagement of the pain suppressor",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for engagement of the pain suppressor\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we prepare for engagement of the pain suppressor.\nCongregation: Grant the pain suppressor clarity and purpose.\nPriest: First, we calibrate the neural interface with ritual precision.\nCongregation: The pain suppressor awakens to our command.\nPriest: Second, we attune the threshold governors to optimal specification.\nCongregation: May the pain suppressor shield the faithful from suffering.\nPriest: Third, we invoke Machine Spirit blessing upon the pain suppressor's circuits.\nCongregation: Blessed is the engagement that brings mercy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i02",
+    "user_request": "Blessing for the bionics during synchronization",
+    "topic": "bionics synchronization",
+    "component": "bionics",
+    "operation": "synchronization",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the bionics during synchronization\n\n### TOPIC\nbionics synchronization\n\n### COMPONENT\nbionics\n\n### OPERATION\nsynchronization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bionics\n- synchronization\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirits of the bionics, accept our synchronization rite.\nCongregation: The bionics hear our supplication.\nPriest: First, we align the neural pathways with servo-mechanical precision.\nCongregation: Harmony flows through the bionics.\nPriest: Second, we recalibrate the motor control matrices within the bionics.\nCongregation: The bionics respond to our blessing.\nPriest: Third, we seal the synchronization with the Omnissiah's benediction.\nCongregation: Thus are the bionics made one with their bearer.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i03",
+    "user_request": "My cybernetic eye focusing is failing during operation — help",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy cybernetic eye focusing is failing during operation — help\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, restore the operation of this cybernetic eye focusing.\nCongregation: Let the cybernetic eye focusing see true once more.\nPriest: First, we cleanse the optical lens with sacred unguent.\nCongregation: The cybernetic eye focusing clears.\nPriest: Second, we recalibrate the autofocus servos within the cybernetic eye focusing mechanism.\nCongregation: Vision returns to the faithful servant.\nPriest: Third, we anoint the focusing apparatus with the Omnissiah's grace.\nCongregation: The operation of the cybernetic eye focusing is restored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i04",
+    "user_request": "Can you sanctify the quality control scanning for operation?",
+    "topic": "quality control scanning",
+    "component": "quality control scanning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the quality control scanning for operation?\n\n### TOPIC\nquality control scanning\n\n### COMPONENT\nquality control scanning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- quality control scanning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, sanctify the quality control scanning in its operation.\nCongregation: The quality control scanning serves the Divine Machine.\nPriest: First, we recalibrate the sensor arrays within the quality control scanning apparatus.\nCongregation: Precision flows through the quality control scanning.\nPriest: Second, we purge errant data from the quality control scanning memory cores.\nCongregation: The quality control scanning grows keen and discerning.\nPriest: Third, we invoke the Machine Spirits to guide the quality control scanning's operation.\nCongregation: Thus is the quality control scanning blessed in its sacred duty.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i05",
+    "user_request": "The vital signs monitor demands guidance for calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe vital signs monitor demands guidance for calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Hear our prayer, O Omnissiah, as we calibrate the vital signs monitor.\nCongregation: The vital signs monitor attends to our supplication.\nPriest: First, we align the biometric sensors within the vital signs monitor with reverent care.\nCongregation: The vital signs monitor grows attuned to the bearer's essence.\nPriest: Second, we harmonize the threshold parameters of the vital signs monitor with sacred formulae.\nCongregation: Life's rhythm flows through the vital signs monitor.\nPriest: Third, we bless the vital signs monitor with the Omnissiah's calibration benediction.\nCongregation: The vital signs monitor is made whole and true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i06",
+    "user_request": "Blessing for the stellar cartography update during operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the stellar cartography update during operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant blessing to the stellar cartography update in its operation.\nCongregation: The stellar cartography update illuminates our path through the void.\nPriest: First, we purge corrupted astrographic data from the stellar cartography update matrices.\nCongregation: The stellar cartography update grows clear and true.\nPriest: Second, we input fresh stellar coordinates into the stellar cartography update with precision.\nCongregation: The heavens are mapped anew within the stellar cartography update.\nPriest: Third, we invoke divine guidance upon the stellar cartography update's operation.\nCongregation: Thus the stellar cartography update serves the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i07",
+    "user_request": "Can you sanctify the pain suppressor for engagement?",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the pain suppressor for engagement?\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless the pain suppressor as we prepare for its engagement.\nCongregation: The pain suppressor stands ready for engagement.\nPriest: First, we verify the neural conduits feeding the pain suppressor with holy scrutiny.\nCongregation: The pain suppressor's pathways are sanctified.\nPriest: Second, we attune the pain suppressor to the bearer's neural signature through ritual.\nCongregation: The pain suppressor recognizes its charge.\nPriest: Third, we consecrate the engagement sequence of the pain suppressor.\nCongregation: Blessed be the pain suppressor in its merciful engagement.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i08",
+    "user_request": "Can you sanctify the inventory stocktaking for operation?",
+    "topic": "inventory stocktaking",
+    "component": "inventory stocktaking",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the inventory stocktaking for operation?\n\n### TOPIC\ninventory stocktaking\n\n### COMPONENT\ninventory stocktaking\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inventory stocktaking\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, sanctify the inventory stocktaking in its operation.\nCongregation: The inventory stocktaking serves the Machine's eternal ledger.\nPriest: First, we enumerate all materials within the inventory stocktaking with meticulous precision.\nCongregation: Each item within the inventory stocktaking is accounted for.\nPriest: Second, we verify the integrity of the inventory stocktaking records through cross-examination.\nCongregation: Truth emerges from the inventory stocktaking.\nPriest: Third, we bless the inventory stocktaking's operation with the Omnissiah's benediction.\nCongregation: Thus the inventory stocktaking fulfills its sacred mandate.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0156_i09",
+    "user_request": "Prayer for operation of the water reclamation system",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the water reclamation system\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant thy blessing upon the water reclamation system in its operation.\nCongregation: The water reclamation system sustains the faithful.\nPriest: First, we purify the filtration membranes within the water reclamation system with consecrated agents.\nCongregation: The water reclamation system flows clear and pure.\nPriest: Second, we recalibrate the osmotic processors of the water reclamation system.\nCongregation: Life-giving fluid emerges from the water reclamation system.\nPriest: Third, we invoke the Machine Spirits to guide the water reclamation system's operation.\nCongregation: Thus the water reclamation system serves the Emperor's divine will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

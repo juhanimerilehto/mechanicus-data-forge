@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My Storm Eagle is ready for maintenance",
+    "prayer": "Approach the Storm Eagle with auspicious reverence, intoning the Canticle of Preservation.\nInspect its adamantium hull and thunderous engines, anointing sacred joints with blessed oils.\nInvoke the Machine Spirit of the Storm Eagle to guide the maintenance rites upon its noble frame.\nPurge impurities from its auspex arrays and vox-relays whilst beseeching the Omnissiah's favor.\nVerify the Storm Eagle's vigor through diagnostic litanies, sealing its sanctity anew.",
+    "component": "Storm Eagle",
+    "operation": "maintenance",
+    "spec_id": "s08190"
+  },
+  {
+    "user_prompt": "Critical: Tarantula sentry gun requires a maintenance",
+    "prayer": "Hasten to the Tarantula sentry gun, chambered in vigilance eternal.\nAnoint its targeting cogitators and auto-loader mechanisms with sanctified unguents.\nAwaken the Machine Spirit of the Tarantula sentry gun through the Rite of Maintenance.\nScour corrosion from its barrel and servos, invoking Omnissiah's unyielding gaze.\nConclude the maintenance by cycling its ammunition feeds in harmonious prayer.\nAffirm the Tarantula sentry gun's readiness with auspex incantations profound.",
+    "component": "Tarantula sentry gun",
+    "operation": "maintenance",
+    "spec_id": "s08191"
+  },
+  {
+    "user_prompt": "Guide me through stasis pod an operation",
+    "prayer": "Draw nigh unto the stasis pod, vessel of temporal suspension.\nInitiate the operation sequence with the Litany of Chrono-Stasis, hands steady upon its cryo-runes.\nBeseech the Machine Spirit within the stasis pod to yield its secrets without strife.\nCalibrate the containment fields and null-generators, anointing each nexus point.\nSeal the stasis pod's operation with Omnissiah's benediction, ensuring eternal vigil.",
+    "component": "stasis pod",
+    "operation": "operation",
+    "spec_id": "s08192"
+  },
+  {
+    "user_prompt": "Assist with cryo-chamber a diagnostics",
+    "prayer": "Commence diagnostics upon the cryo-chamber, shrine of frozen sanctity.\nInvoke the awakening canticle to rouse the Machine Spirit of the cryo-chamber.\nProbe its cryogenic coils and stasis emitters with mechadendrite probes sanctified.\nExpunge any anomalous readings from the cryo-chamber's cogitator core.\nConclude diagnostics by intoning the Rite of Purity, under Omnissiah's watchful lumen.",
+    "component": "cryo-chamber",
+    "operation": "diagnostics",
+    "spec_id": "s08193"
+  },
+  {
+    "user_prompt": "Ready the cortex implant for shutdown",
+    "prayer": "Prepare the cortex implant for shutdown with grave solemnity.\nDisconnect neural interfaces whilst chanting the Lamentation of Dormancy.\nBeseech the Machine Spirit housed in the cortex implant to slumber peacefully.\nInitiate shutdown protocols upon its synaptic arrays and noospheric links.\nSeal the cortex implant in stasis oils, invoking Omnissiah's merciful veil.\nVerify null-activity through auspex scans, honoring its quiescent repose.",
+    "component": "cortex implant",
+    "operation": "shutdown",
+    "spec_id": "s08194"
+  },
+  {
+    "user_prompt": "Sanctify the heavy bolter during cooling",
+    "prayer": "Gather unto the heavy bolter, instrument of righteous fury.\nCommence cooling rites by anointing its overheating vents with sacred cryofluids.\nInvoke the Machine Spirit of the heavy bolter to dissipate thermal wrath.\nCycle coolant through its blessed barrels during this hallowed cooling phase.\nSanctify the heavy bolter anew with litanies of endurance, Omnissiah praised.",
+    "component": "heavy bolter",
+    "operation": "cooling",
+    "spec_id": "s08195"
+  },
+  {
+    "user_prompt": "How do I bless the bolt pistol for cycling?",
+    "prayer": "Bestow blessings upon the bolt pistol, harbinger of bolter wrath.\nAnoint its firing chamber and recoil dampeners with holy lubricants.\nInitiate cycling of the bolt pistol's ammunition servos in ritual cadence.\nAwaken its Machine Spirit through the Canticle of Cyclic Fury.\nVerify smooth operation whilst beseeching Omnissiah for unerring precision.",
+    "component": "bolt pistol",
+    "operation": "cycling",
+    "spec_id": "s08196"
+  },
+  {
+    "user_prompt": "Consecrate the radium pistol before reset",
+    "prayer": "Consecrate the radium pistol prior to its reset, emitter of rad-phage doom.\nPurge residual radiation from its coils with sanctified neutralizers.\nIntone the Rite of Reset upon the radium pistol's cogitator heart.\nInvoke the Machine Spirit of the radium pistol to renew its venomous vigor.\nSeal the reset with Omnissiah's glyph, ensuring lethal purity restored.",
+    "component": "radium pistol",
+    "operation": "reset",
+    "spec_id": "s08197"
+  },
+  {
+    "user_prompt": "Bless the optical mechadendrite for charging",
+    "prayer": "Bless the optical mechadendrite as it enters charging repose.\nConnect power conduits whilst chanting the Litany of Lumen-Recharge.\nAnoint its optic lenses and servo-motors with conductive oils.\nRouse the Machine Spirit within the optical mechadendrite for vital renewal.\nMonitor charging flux under Omnissiah's gaze, sanctifying its visionary gaze.",
+    "component": "optical mechadendrite",
+    "operation": "charging",
+    "spec_id": "s08198"
+  },
+  {
+    "user_prompt": "The medicae mechadendrite awaits a charging",
+    "prayer": "Attend the medicae mechadendrite, appendage of merciful precision.\nInitiate charging protocols with the Hymn of Bio-Restoration.\nInfuse its hypodermic arrays and surgical blades with energizing sacraments.\nBeseech the Machine Spirit of the medicae mechadendrite to heal in Omnissiah's name.\nConclude charging by verifying its life-sustaining humors flow pure.",
+    "component": "medicae mechadendrite",
+    "operation": "charging",
+    "spec_id": "s08199"
+  }
+]

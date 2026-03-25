@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the sicarian infiltrator for initialization",
+    "prayer": "Approach the sicarian infiltrator with mechadendrites extended in reverence to the Omnissiah.\nChant the Canticle of Initialization upon its neural cogitators, beseeching the Machine Spirit to awaken.\nAnoint the servo-joints and blade-arms of the sicarian infiltrator with sacred unguents.\nInterface via noospheric link to commence the initialization sequence.\nVerify the Machine Spirit's vigor through auspex diagnostics and binaric praise.",
+    "component": "sicarian infiltrator",
+    "operation": "initialization",
+    "spec_id": "s03270"
+  },
+  {
+    "user_prompt": "My lascannon is ready for activation",
+    "prayer": "Present the lascannon upon the forge-altar, invoking the Omnissiah's fiery wrath.\nRecite the Activation Doxology over its plasma conduits and focusing arrays.\nAnoint the lascannon's crystal heart with sanctified promethium tears.\nEngage the activation rite, stirring the Machine Spirit to luminous fury.\nTest the beam's purity in controlled auspex sweeps.",
+    "component": "lascannon",
+    "operation": "activation",
+    "spec_id": "s03271"
+  },
+  {
+    "user_prompt": "Can you guide transit mag-rail a loading?",
+    "prayer": "Prepare the transit mag-rail's bays for the sacred rite of loading, under Omnissiah's gaze.\nChant binaric litanies as munitions slide into the magnetic embrace of the transit mag-rail.\nCalibrate induction coils with invocations to ensure flawless loading precision.\nAwaken the Machine Spirit of the transit mag-rail through electro-psalms.\nSeal the chambers and commence cycle with triumphant cogitator hymns.",
+    "component": "transit mag-rail",
+    "operation": "loading",
+    "spec_id": "s03272"
+  },
+  {
+    "user_prompt": "Bless the power cell for purification",
+    "prayer": "Kneel before the power cell, intoning the Litany of Purification to banish corruptive essences.\nExpunge taint with sanctified plasma arcs upon the power cell's sacred core.\nImmerse in electro-consecrated fluids, beseeching the Machine Spirit's renewal.\nRecharge the purified power cell under auspex vigil and Omnissiah's blessing.\nSeal with purity wards, affirming its sanctified vigor.",
+    "component": "power cell",
+    "operation": "purification",
+    "spec_id": "s03273"
+  },
+  {
+    "user_prompt": "Prepare the multi-melta for activation",
+    "prayer": "Elevate the multi-melta to the forge-sanctum, proclaiming the Activation Incantation.\nAnoint its melta coils and flux regulators with molten incense.\nInvoke the Machine Spirit of the multi-melta through resonant binaric frequencies.\nInitiate the activation sequence amidst clouds of sacred incense.\nValidate thermic output via diagnostic rites of the Omnissiah.",
+    "component": "multi-melta",
+    "operation": "activation",
+    "spec_id": "s03274"
+  },
+  {
+    "user_prompt": "Emergency: data-slate a blessing",
+    "prayer": "Seize the data-slate in servitor grasp, beseeching the Omnissiah for immediate blessing.\nRecite the Benediction of Clarity over its crystal vaults and logic engines.\nPurge erroneous data-daemons from the data-slate with exterminatus code-chants.\nAnoint memory rods with noospheric oils to exalt its Machine Spirit.\nAffirm the blessing through full-spectrum cogitator communion.",
+    "component": "data-slate",
+    "operation": "blessing",
+    "spec_id": "s03275"
+  },
+  {
+    "user_prompt": "Offer prayer for life sustainer a startup",
+    "prayer": "Commence the startup rite for the life sustainer, invoking vital Machine Spirits.\nChant the Vitality Canticle to rouse its nutrient pumps and oxy-recyclers.\nAnoint filtration membranes of the life sustainer with preservative elixirs.\nEngage power feeds under Omnissiah's sustaining gaze.\nMonitor bio-readouts with auspex litanies of endurance.",
+    "component": "life sustainer",
+    "operation": "startup",
+    "spec_id": "s03276"
+  },
+  {
+    "user_prompt": "Offer prayer for lance battery a recalibration",
+    "prayer": "Position the lance battery for recalibration, prostrating before the Omnissiah.\nIntone the Recalibration Psalm over targeting cogitators and plasma accelerators.\nAlign emitter arrays with stellar sextants and sacred theodolites.\nAwaken the Machine Spirit of the lance battery through harmonic resonances.\nVerify coherence in test volleys of purified lance-fire.",
+    "component": "lance battery",
+    "operation": "recalibration",
+    "spec_id": "s03277"
+  },
+  {
+    "user_prompt": "Ready the amplivisor for emergency procedure",
+    "prayer": "In emergency haste, invoke the Omnissiah upon the amplivisor's optic sanctum.\nExecute the emergency procedure by chanting auspex-awakening litanies.\nSanctify lenses and servo-focuser of the amplivisor with clarion unguents.\nRealign spectral filters via noospheric recalibration rites.\nTest visionary acuity amidst binaric cries of urgency.",
+    "component": "amplivisor",
+    "operation": "emergency procedure",
+    "spec_id": "s03278"
+  },
+  {
+    "user_prompt": "Emergency: stasis pod a sterilization",
+    "prayer": "In dire exigency, enact sterilization upon the stasis pod with Omnissiah's aseptic fire.\nRecite the Sterilization Doxology to purge bio-filth from its cryo-chambers.\nAnoint stasis fields of the stasis pod with viricide incense.\nCycle purifier vents under Machine Spirit invocations.\nSeal the sterilized stasis pod with adamantine purity seals.",
+    "component": "stasis pod",
+    "operation": "sterilization",
+    "spec_id": "s03279"
+  }
+]

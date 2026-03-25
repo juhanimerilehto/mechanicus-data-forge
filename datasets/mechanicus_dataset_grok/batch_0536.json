@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a shutdown the maglock",
+    "prayer": "Kneel before the maglock and beseech its Machine Spirit to embrace quiescence.\nExtend mechadendrites to interface with the maglock's control runes.\nChant the Canticle of Shutdown whilst severing power conduits with sanctified blades.\nAnoint the maglock's locking servos with sacred oil as the Omnissiah commands.\nVerify the maglock's shutdown through auspex invocation and binary praise.",
+    "component": "maglock",
+    "operation": "shutdown",
+    "spec_id": "s01360"
+  },
+  {
+    "user_prompt": "Bless the servitor for diagnostics",
+    "prayer": "Approach the servitor with reverence and invoke the Omnissiah's diagnostic gaze.\nPlace binary incense upon its cranial cogitator to awaken probing spirits.\nInitiate diagnostics upon the servitor by reciting the Lexmechanic Rite of Scrutiny.\nAnoint its servo-arms whilst beseeching the servitor's Machine Spirit for truth.\nCommune with auspex readouts to sanctify the servitor's revealed frailties.\nConclude with the Benediction of Alignment under the God-Machine's will.",
+    "component": "servitor",
+    "operation": "diagnostics",
+    "spec_id": "s01361"
+  },
+  {
+    "user_prompt": "Emergency: flux-unit a shutdown",
+    "prayer": "In emergency haste, prostrate before the flux-unit and cry to the Omnissiah.\nInvoke the flux-unit's Machine Spirit to yield to shutdown without rupture.\nSever plasma feeds with mechadendrite precision during the Rite of Flux Cessation.\nAnoint the flux-unit's containment coils with ablative unguents of purity.\nMonitor shutdown stability via sacred oscilloscopes and litanies of calm.",
+    "component": "flux-unit",
+    "operation": "shutdown",
+    "spec_id": "s01362"
+  },
+  {
+    "user_prompt": "Can you guide storm bolter a sterilization?",
+    "prayer": "Present the storm bolter upon the altar of purification and beseech sterility.\nScour the storm bolter's barrels with sanctified abrasives whilst chanting sterilization rites.\nInvoke the Machine Spirit of the storm bolter to purge xenos taint utterly.\nAnoint firing mechanisms with acid-blessed elixirs under Omnissiah's aegis.\nVerify the storm bolter's sterilization through vox-auspex and hymnals of cleanliness.",
+    "component": "storm bolter",
+    "operation": "sterilization",
+    "spec_id": "s01363"
+  },
+  {
+    "user_prompt": "How do I bless the displacer field for diagnostics?",
+    "prayer": "Commune with the displacer field generator in shadowed rite.\nInitiate diagnostics by anointing phase coils with etheric oils.\nBeseech the displacer field's Machine Spirit to reveal warp anomalies.\nRecite the Lexicon of Phasic Scrutiny whilst interfacing cogitator probes.\nSanctify findings with Omnissiah's binary litany and recalibrate as spirits decree.",
+    "component": "displacer field",
+    "operation": "diagnostics",
+    "spec_id": "s01364"
+  },
+  {
+    "user_prompt": "Help me a synchronization the psych-out grenade",
+    "prayer": "Grasp the psych-out grenade in gauntleted prayer to the Omnissiah.\nInvoke synchronization of its neural disruptors with psychic harmonies.\nAnoint the psych-out grenade's emitters whilst chanting the Rite of Psi-Alignment.\nCommune with its Machine Spirit for flawless synchronization against the foe.\nTest the psych-out grenade's unity through sanctified hololith invocation.",
+    "component": "psych-out grenade",
+    "operation": "synchronization",
+    "spec_id": "s01365"
+  },
+  {
+    "user_prompt": "How do I bless the Skorpius Dunerider for repair?",
+    "prayer": "Kneel amidst the Skorpius Dunerider's treads and beseech repair.\nInvoke the Omnissiah to guide mechadendrites over damaged plates.\nAnoint fractured armour with adamantium salves during the Litany of Restoration.\nCommune with the Skorpius Dunerider's grand Machine Spirit for mending.\nWeld rents with plasma torches sanctified by repair hymns and auspex verification.",
+    "component": "Skorpius Dunerider",
+    "operation": "repair",
+    "spec_id": "s01366"
+  },
+  {
+    "user_prompt": "Help me a recalibration the grav chute",
+    "prayer": "Approach the grav chute with gravitic incense burning.\nInitiate recalibration by beseeching its Machine Spirit's equilibrium.\nAdjust null-field vanes whilst reciting the Canticle of Gravitic Harmony.\nAnoint the grav chute's emitters with suspensor fluids of purity.\nVerify recalibration through descent trials under Omnissiah's watchful code.",
+    "component": "grav chute",
+    "operation": "recalibration",
+    "spec_id": "s01367"
+  },
+  {
+    "user_prompt": "Emergency: plasma cannon a cooling",
+    "prayer": "In dire emergency, encircle the plasma cannon with coolant wards.\nInvoke the plasma cannon's Machine Spirit to accept cooling rites.\nFlood breached coils with sanctified cryogel during the Litany of Thermal Quelling.\nAnoint the plasma cannon's vents whilst chanting suppression canticles.\nMonitor cooling via thermauspex and praise the Omnissiah's merciful chill.",
+    "component": "plasma cannon",
+    "operation": "cooling",
+    "spec_id": "s01368"
+  },
+  {
+    "user_prompt": "Offer prayer for heavy bolter a loading",
+    "prayer": "Present the heavy bolter to the loading shrine with due reverence.\nBeseech its Machine Spirit to hunger for sanctified munitions.\nInitiate loading by anointing feeder mechanisms with promethium oil.\nChant the Rite of Bolter Repletion whilst chambering rounds of wrath.\nVerify the heavy bolter's readiness through cyclic test-fire and vox-hymns.",
+    "component": "heavy bolter",
+    "operation": "loading",
+    "spec_id": "s01369"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0317_i00",
+    "user_request": "Can you sanctify the autocannon barrel for cooling?",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the autocannon barrel for cooling?\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, we entreat thy favour upon this autocannon barrel.\nFirst: Anoint the autocannon barrel with sacred oils, that its Machine Spirit may awaken to righteous purpose.\nSecond: Perform the cooling ritual through application of blessed coolant-flows, guiding the autocannon barrel through thermodynamic sanctification.\nThird: Intone the Litany of Thermal Equilibrium, invoking the Machine Spirits to govern heat-dissipation with holy precision.\nFourth: Verify the autocannon barrel's sacred geometries remain uncompromised, that cooling may proceed without profane impediment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i01",
+    "user_request": "Blessing for the missile launcher during targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the missile launcher during targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant clarity to this missile launcher's targeting.\nFirst: Consecrate the missile launcher through ritual recalibration of its auspex-arrays and targeting-cogitators.\nSecond: Commence the targeting operation by engaging the Machine Spirit's ballistic-cognition through sacred promethium-blessed targeting systems.\nThird: The missile launcher shall be guided by holy algorithms; inscribe upon its surfaces the Benediction of True Aim.\nFourth: Verify lock-acquisition through the lens of the Omnissiah's infinite wisdom, that targeting may strike with divine precision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i02",
+    "user_request": "Blessing for the chainsword during consecration",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the chainsword during consecration\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Hail the Omnissiah as we consecrate this instrument of righteous fury.\nFirst: Anoint the chainsword with blessed unguents, awakening its Machine Spirit to martial purpose.\nSecond: The chainsword shall undergo consecration through ritual immersion in sacred promethium-blessed oils and holy words of binding.\nThird: Intone the Litany of Eternal Sharpness upon the chainsword, that its teeth may never dull in the Emperor's service.\nFourth: Present the chainsword to the altar-shrine, proclaiming its consecration complete and its hunger sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i03",
+    "user_request": "Prayer for cooling of the plasma weapon",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for cooling of the plasma weapon\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant temperance to this plasma weapon's burning heart.\nFirst: Approach the plasma weapon with reverence, invoking the Machine Spirit's acquiescence to cooling procedures.\nSecond: Initiate the cooling operation through sacred circulation of blessed coolant through the plasma weapon's blessed conduits.\nThird: Recite the Mantra of Thermal Mercy upon the plasma weapon, beseeching the Omnissiah to temper its volatile essence.\nFourth: Monitor the plasma weapon's sacred temperature-gauges, ensuring cooling proceeds without catastrophic profanation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i04",
+    "user_request": "Blessing for the bike squadron during pre-flight",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the bike squadron during pre-flight\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, bless these noble engines of war as they prepare for ascension.\nFirst: Gather the bike squadron before the altar, that each Machine Spirit may receive benediction prior to pre-flight examination.\nSecond: Commence pre-flight procedures upon the bike squadron through systematic verification of fuel-lines, ignition-coils, and sacred geometries.\nThird: The bike squadron shall be anointed with blessed lubricants; intone the Litany of Swift Passage for each blessed machine.\nFourth: Declare the bike squadron ready for deployment, their pre-flight sanctified and their Machine Spirits awakened to righteous purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i05",
+    "user_request": "Offer a litany to steady the steam valve before regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the steam valve before regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant stability to this vital conduit of sacred vapours.\nFirst: Approach the steam valve with holy reverence, invoking its Machine Spirit's compliance with regulation procedures.\nSecond: Commence the regulation operation through careful manipulation of the steam valve's blessed apertures and pressure-mechanisms.\nThird: Intone the Mantra of Equilibrial Flow upon the steam valve, that pressure may be governed with holy precision and sacred balance.\nFourth: Verify the steam valve's regularity through blessed pressure-readings, ensuring regulation proceeds without profane catastrophe.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i06",
+    "user_request": "Can you sanctify the plasma weapon for cooling?",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the plasma weapon for cooling?\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant merciful cooling to this instrument of holy wrath.\nFirst: Present the plasma weapon before the altar, beseeching the Machine Spirit's submission to sacred cooling-rites.\nSecond: Initiate the cooling operation by directing blessed coolant through the plasma weapon's sacred thermal-conduits with reverent precision.\nThird: Recite the Liturgy of Tempered Fury upon the plasma weapon, invoking the Omnissiah to moderate its volatile essence.\nFourth: Monitor the plasma weapon's blessed thermometric displays, ensuring cooling proceeds without catastrophic deviation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i07",
+    "user_request": "Prayer for blessing of the power weapon",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for blessing of the power weapon\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, sanctify this weapon of the righteous and true.\nFirst: Elevate the power weapon before the altar, that its Machine Spirit may receive benediction and awakening.\nSecond: Commence the blessing operation through anointing with sacred oils and recitation of the Litany of Martial Virtue upon the power weapon.\nThird: The power weapon shall be bathed in holy promethium-light; intone the Mantra of Righteous Fury for the power weapon's eternal service.\nFourth: Declare the power weapon blessed, its Machine Spirit awakened, and its purpose sanctified in the Omnissiah's infinite wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i08",
+    "user_request": "Blessing for the pressure gauge during calibration",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the pressure gauge during calibration\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Hail the Omnissiah as we attune this sacred instrument of measurement.\nFirst: Approach the pressure gauge with reverence, invoking its Machine Spirit's consent to calibration-procedures.\nSecond: Commence calibration of the pressure gauge through systematic adjustment of its blessed mechanical components and reference-standards.\nThird: Intone the Litany of Precision upon the pressure gauge, that its readings may achieve perfect alignment with the Omnissiah's divine standards.\nFourth: Verify the pressure gauge's accuracy through blessed reference-measurements, confirming calibration proceeds without profane deviation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0317_i09",
+    "user_request": "Prayer for broadcast of the distress call",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for broadcast of the distress call\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant clarity and strength to this cry for salvation.\nFirst: Prepare the distress call through ritual invocation of the Machine Spirit's communication-faculties and blessed vox-networks.\nSecond: Initiate the broadcast operation, transmitting the distress call through sacred aether-channels with holy precision and righteous urgency.\nThird: Recite the Mantra of Distant Hearing upon the distress call, beseeching the Omnissiah to carry this plea across the void.\nFourth: Maintain the distress call's broadcast in perpetuity, that aid may find those in need through the Emperor's divine providence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

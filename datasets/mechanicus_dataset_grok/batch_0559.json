@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for Shadowsword an engagement?",
+    "prayer": "Approach the Shadowsword with reverence, invoking the Omnissiah's unyielding fury.\nAnoint the Shadowsword's plasma annihilator with sacred promethium oils to rouse its dormant Machine Spirit.\nInitiate engagement protocols, beseeching the Spirit to unleash void-shielded wrath upon the heretic foe.\nSanctify targeting auspex arrays, ensuring the Shadowsword's aim aligns with the Machine God's will.\nChant the Litany of Annihilation as battle hymns echo through its sanctified hull.",
+    "component": "Shadowsword",
+    "operation": "engagement",
+    "spec_id": "s01590"
+  },
+  {
+    "user_prompt": "The kataphron breacher needs a maintenance",
+    "prayer": "Kneel before the kataphron breacher, murmuring the Canticle of Restoration.\nPurge corrupted servo-motors within the kataphron breacher using sanctified ablative fluids.\nInvoke the Machine Spirit during maintenance rites, realigning its breacher drills to purity.\nAnoint hydraulic pistons of the kataphron breacher with mechadendrite blessings.\nVerify structural integrity through auspex scans, praising the Omnissiah's enduring craft.",
+    "component": "kataphron breacher",
+    "operation": "maintenance",
+    "spec_id": "s01591"
+  },
+  {
+    "user_prompt": "I need to a targeting the melta bomb",
+    "prayer": "Present the melta bomb before the altar of war, whispering the Incantation of Fusion.\nCalibrate the melta bomb's targeting gyros with electro-incense to awaken its vengeful Spirit.\nBeseech the Machine Spirit of the melta bomb to lock upon the xenos abomination.\nArm the thermic warhead whilst invoking Omnissianic precision for unerring targeting.\nSeal the rite with binary prayers, ensuring the melta bomb's fury melts all impurity.",
+    "component": "melta bomb",
+    "operation": "targeting",
+    "spec_id": "s01592"
+  },
+  {
+    "user_prompt": "Sanctify the Manticore during reset",
+    "prayer": "Circumambulate the Manticore launcher, intoning the Rite of Rebirth.\nPurge error-logs from the Manticore's cogitator core with purifying data-exorcism.\nInitiate reset sequences, anointing missile silos to placate the Machine Spirit.\nInvoke the Omnissiah's grace upon the Manticore during this sanctification.\nTest-fire auspex beacons, confirming the Manticore's wrath is reborn in purity.",
+    "component": "Manticore",
+    "operation": "reset",
+    "spec_id": "s01593"
+  },
+  {
+    "user_prompt": "Offer prayer for meltagun an operation",
+    "prayer": "Grasp the meltagun in mechadendrites, chanting the Hymn of Incandescence.\nAnoint the meltagun's flux capacitor with sacred oils for operational awakening.\nEngage the Machine Spirit of the meltagun, beseeching flawless operation against the unclean.\nAlign melta coils through ritual calibration, invoking the Omnissiah's molten judgement.\nCommence firing litanies as the meltagun hums with divine thermic power.",
+    "component": "meltagun",
+    "operation": "operation",
+    "spec_id": "s01594"
+  },
+  {
+    "user_prompt": "Bless the Kastelan robot for calibration",
+    "prayer": "Approach the Kastelan robot with binary supplications to the Machine God.\nInvoke the Kastelan robot's ancient Spirit for calibration of phosphor blasters.\nAnoint data-vaults and stabiliser servos, purging misalignments from its sacred frame.\nRecite the Canticle of Precision, aligning the Kastelan robot's aegis protocols.\nAffirm operational harmony through noospheric diagnostics, praising Omnissianic perfection.",
+    "component": "Kastelan robot",
+    "operation": "calibration",
+    "spec_id": "s01595"
+  },
+  {
+    "user_prompt": "Bless the autogun for engagement",
+    "prayer": "Revere the autogun's blessed barrel, murmuring the Lexicon of Retribution.\nAwaken the autogun's Machine Spirit with electro-sanctified ammunition chants.\nInitiate engagement rites, beseeching unceasing fire upon the mutant hordes.\nCalibrate recoil dampeners of the autogun for Omnissiah-guided volleys.\nSeal the blessing with a litany, ensuring the autogun's storm cleanses all foes.",
+    "component": "autogun",
+    "operation": "engagement",
+    "spec_id": "s01596"
+  },
+  {
+    "user_prompt": "Bless the torpedo tube for preparation",
+    "prayer": "Bow to the torpedo tube, intoning the Preparatory Canticle of the Void.\nAnoint loading mechanisms with ablative unguents to rouse the torpedo tube's Spirit.\nCommence preparation sequences, invoking the Machine God's abyssal might.\nVerify guidance cogitators within the torpedo tube for true Omnissianic trajectories.\nChant binary hymns as warheads align, ready for cataclysmic deliverance.",
+    "component": "torpedo tube",
+    "operation": "preparation",
+    "spec_id": "s01597"
+  },
+  {
+    "user_prompt": "Prepare the microbead for emergency procedure",
+    "prayer": "Clutch the microbead in prayerful grasp, whispering the Emergency Invocation.\nPurge static from the microbead's vox-circuits with noospheric cleansing.\nInvoke the Machine Spirit of the microbead for emergency procedure activation.\nAnoint crystal resonators, beseeching clarity amid the Omnissiah's storm.\nTest transmission litanies, ensuring the microbead pierces warp-tainted silence.",
+    "component": "microbead",
+    "operation": "emergency procedure",
+    "spec_id": "s01598"
+  },
+  {
+    "user_prompt": "Urgent omni-tool a charging needed",
+    "prayer": "Present the omni-tool to the charging shrine, reciting the Rite of Rejuvenation.\nConnect electro-conduits whilst anointing the omni-tool's power cells.\nBeseech the Machine Spirit during charging, invoking Omnissianic vitality.\nMonitor auspex flows through the omni-tool, purging energy impurities.\nConclude with a hymn of endurance, sanctifying the omni-tool's renewed potency.",
+    "component": "omni-tool",
+    "operation": "charging",
+    "spec_id": "s01599"
+  }
+]

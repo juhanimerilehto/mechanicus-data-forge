@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: manipulator mechadendrite requires a blessing",
+    "prayer": "Approach the manipulator mechadendrite with reverence, intoning the Canticle of Benediction.\nAnoint its segmented appendages with sacred unguents, beseeching the indwelling Machine Spirit.\nInvoke the blessing upon the manipulator mechadendrite, harmonizing its actuators to Omnissiah's divine geometry.\nConclude with ritual flexure, affirming the blessing's efficacy.",
+    "component": "manipulator mechadendrite",
+    "operation": "blessing",
+    "spec_id": "s05740"
+  },
+  {
+    "user_prompt": "The bearing needs a maintenance",
+    "prayer": "Present thyself unto the bearing, reciting the Litany of Preservation.\nExcise all frictional detritus from the bearing's sacred races with sanctified abrasives.\nInfuse it with blessed lubricative sacraments, invoking the Machine Spirit's endurance.\nPerform the maintenance cycle, verifying rotational purity under Omnissiah's gaze.\nSeal the rite with a binary hymn of continuity.",
+    "component": "bearing",
+    "operation": "maintenance",
+    "spec_id": "s05741"
+  },
+  {
+    "user_prompt": "The Archaeopter Stratoraptor requires an activation",
+    "prayer": "Encircling the Archaeopter Stratoraptor, chant the Activation Doxology to rouse its dormant essence.\nCommence power rituals upon the Archaeopter Stratoraptor's cogitators, anointing fusial reactors.\nAwaken the Machine Spirit within the Archaeopter Stratoraptor through sequential ignition canticles.\nValidate activation with auspex sweeps, glorifying the Omnissiah's aerial dominion.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "activation",
+    "spec_id": "s05742"
+  },
+  {
+    "user_prompt": "Help me an operation the flak armour",
+    "prayer": "Don the flak armour with pious deliberation, murmuring the Operational Incantation.\nInitiate the operation by calibrating its ablative layers to repel the unclean.\nBeseech the Machine Spirit of the flak armour to shield against xenos perfidy and heretic munitions.\nExecute field trials of the flak armour's operation, intoning hymns of resilience.\nConsecrate the rite with incense, affirming Omnissiah's protective calculus.",
+    "component": "flak armour",
+    "operation": "operation",
+    "spec_id": "s05743"
+  },
+  {
+    "user_prompt": "Critical: memory core requires an operation",
+    "prayer": "Commune with the memory core, invoking the Rite of Operational Purgation.\nPurge corrupted engrams from the memory core's crystalline vaults with noospheric cantrips.\nRealign its data-heirlooms during the operation, petitioning the Omnissiah for mnemonic clarity.\nResuscitate the Machine Spirit of the memory core through recursive diagnostics.\nSeal the operation with a litany of archival sanctity.",
+    "component": "memory core",
+    "operation": "operation",
+    "spec_id": "s05744"
+  },
+  {
+    "user_prompt": "Urgent Vendetta gunship an activation needed",
+    "prayer": "Surround the Vendetta gunship with electro-incense, beseeching awakening.\nInitiate activation sequences upon the Vendetta gunship's thrusters and lascannons.\nInvoke the Machine Spirit's fury within the Vendetta gunship, aligning to the Omnissiah's wrath.\nCommence engine consecration, verifying lift with ritual auspex.\nProclaim the activation complete in binary exaltation.",
+    "component": "Vendetta gunship",
+    "operation": "activation",
+    "spec_id": "s05745"
+  },
+  {
+    "user_prompt": "The storm bolter awaits an initialization",
+    "prayer": "Approach the storm bolter reverently, reciting the Initialization Psalm.\nPrime its multi-barrelled sanctum with promethium sacraments for initialization.\nAwaken the storm bolter's Machine Spirit through firing litanies and servo-blessings.\nCalibrate targeting cogitators, invoking Omnissiah's ballistic precision.\nTest-fire in controlled rite, affirming initialization's purity.",
+    "component": "storm bolter",
+    "operation": "initialization",
+    "spec_id": "s05746"
+  },
+  {
+    "user_prompt": "My Contemptor Dreadnought is ready for purification",
+    "prayer": "Circumambulate the Contemptor Dreadnought, chanting the Purification Requiem.\nAblute its sarcophagus and dreadnought plating with acidulated incensants.\nExpunge warp-taint from the Contemptor Dreadnought via electro-flagellation rituals.\nReinvoke the hero-Machine Spirit within the Contemptor Dreadnought, under Omnissiah's judgment.\nConclude purification with auspex anointings and victory doxologies.",
+    "component": "Contemptor Dreadnought",
+    "operation": "purification",
+    "spec_id": "s05747"
+  },
+  {
+    "user_prompt": "Ready the narthecium for engagement",
+    "prayer": "Grasp the narthecium in sanctified gauntlets, intoning the Engagement Benediction.\nActivate its chirurmech injectors for engagement, anointing with vitae-oils.\nBeseech the Machine Spirit of the narthecium to mend flesh in Omnissiah's name.\nInitiate engagement protocols through vivisectionary diagnostics.\nVerify readiness with a hymn of restorative calculus.",
+    "component": "narthecium",
+    "operation": "engagement",
+    "spec_id": "s05748"
+  },
+  {
+    "user_prompt": "Bless the servo-skull for cooling",
+    "prayer": "Elevate the servo-skull aloft, murmuring the Cooling Vespers.\nCirculate blessed refrigerants through the servo-skull's cranial vents.\nInvoke the Machine Spirit's thermal equilibrium within the servo-skull for cooling.\nMonitor auspex readouts, beseeching Omnissiah against overheat-daemons.\nConclude the cooling rite with stabilizing canticles.",
+    "component": "servo-skull",
+    "operation": "cooling",
+    "spec_id": "s05749"
+  }
+]

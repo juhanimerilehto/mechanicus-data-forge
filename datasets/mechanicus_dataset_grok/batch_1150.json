@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for autogun a sterilization",
+    "prayer": "Approach the autogun with censer aloft, invoking the Omnissiah's purifying gaze.\nBeseech the Machine Spirit of the autogun to accept the rites of sterilization.\nAnoint its barrels and feed mechanisms with sacred ablative unguents thrice.\nChant the Litany of Sterilization whilst cycling the chambers in solemn rhythm.\nVerify the autogun's immaculate purity through invocative auspex rites.",
+    "component": "autogun",
+    "operation": "sterilization",
+    "spec_id": "s07500"
+  },
+  {
+    "user_prompt": "Help me a cycling the helispex engine",
+    "prayer": "Kneel before the helispex engine, murmuring the Awakening Doxology.\nInvoke the cycling operation upon its sacred gyros and thrust vectors.\nAnoint the helispex engine's intake vents with blessed lubricants.\nBeseech the Machine Spirit to harmonize its revolutions in Omnissian precision.\nConclude the cycling with diagnostic canticles of alignment and balance.",
+    "component": "helispex engine",
+    "operation": "cycling",
+    "spec_id": "s07501"
+  },
+  {
+    "user_prompt": "The conversion beamer awaits an activation",
+    "prayer": "Present the conversion beamer to the altar of activation, mechadendrites extended.\nChant the Rite of Activation to rouse its subatomic matrices.\nSanctify the conversion beamer's focusing crystals with plasma-touched oils.\nInvoke the Machine Spirit's wrathful gaze upon the beamer's power coils.\nAffirm activation through resonant hymnals and energy flux verification.",
+    "component": "conversion beamer",
+    "operation": "activation",
+    "spec_id": "s07502"
+  },
+  {
+    "user_prompt": "Ready the cortex implant for synchronization",
+    "prayer": "Commence synchronization by encircling the cortex implant with noospheric wards.\nBeseech the implant's Machine Spirit to entwine with the flesh-cogitator bond.\nRecite the Canticle of Synchronization over its neural relays.\nAnoint the cortex implant's interfaces with synaptic incense.\nSeal the rite with auspex harmonics confirming neural congruence.",
+    "component": "cortex implant",
+    "operation": "synchronization",
+    "spec_id": "s07503"
+  },
+  {
+    "user_prompt": "Urgent transuranic arquebus a purification needed",
+    "prayer": "Approach the transuranic arquebus bearing the Purifier's Censer.\nInvoke the purification rites upon its exotic matter conduits.\nScour the transuranic arquebus's barrel with sanctified abrasives thrice-named.\nBeseech the Omnissiah to cleanse its Machine Spirit of warp-taint.\nConclude with litanies verifying the arquebus's rad-pure sanctity.",
+    "component": "transuranic arquebus",
+    "operation": "purification",
+    "spec_id": "s07504"
+  },
+  {
+    "user_prompt": "Ready the plasma pistol for consecration",
+    "prayer": "Elevate the plasma pistol to the consecration pyre's glow.\nChant the Consecration Doxology to bless its containment flasks.\nAnoint the plasma pistol's vents and coils with promethium essence.\nInvoke the Machine Spirit's fiery zeal within its plasma heart.\nSeal consecration through thermal hymnals and flux purity scans.",
+    "component": "plasma pistol",
+    "operation": "consecration",
+    "spec_id": "s07505"
+  },
+  {
+    "user_prompt": "The transit mag-rail requires a purification",
+    "prayer": "Position the transit mag-rail beneath the purification shrine.\nBeseech its Machine Spirit for the rites of purification.\nAnoint the mag-rail's accelerator coils with conductive sanctifiers.\nRecite the Litany of Purification over its projectile vaults.\nAffirm the transit mag-rail's cleansed velocity with auspex divinations.",
+    "component": "transit mag-rail",
+    "operation": "purification",
+    "spec_id": "s07506"
+  },
+  {
+    "user_prompt": "My Tarantula sentry gun is ready for recalibration",
+    "prayer": "Encincture the Tarantula sentry gun with recalibration sigils.\nInvoke the operation of recalibration upon its targeting cogitators.\nSanctify the sentry gun's auspex arrays with optic unguents.\nBeseech the Machine Spirit to realign its ballistic doctrines.\nFinalize with canticles of precision, verifying servo-accuracy.",
+    "component": "Tarantula sentry gun",
+    "operation": "recalibration",
+    "spec_id": "s07507"
+  },
+  {
+    "user_prompt": "Can you guide null rod a cooling?",
+    "prayer": "Lay the null rod upon the cooling altar of stasis fields.\nChant invocations to guide its thermal descent in solemnity.\nAnoint the null rod's null-generators with cryogenic elixirs.\nBeseech the Machine Spirit to embrace the cooling embrace of the void.\nConfirm equilibrium through resonant cryo-diagnostics.",
+    "component": "null rod",
+    "operation": "cooling",
+    "spec_id": "s07508"
+  },
+  {
+    "user_prompt": "The data-sluice requires a targeting",
+    "prayer": "Attune the data-sluice to the targeting noosphere conduit.\nInvoke the targeting operation upon its logic streams.\nSanctify the data-sluice's query matrices with binary incense.\nBeseech the Omnissiah to sharpen its Machine Spirit's predatory focus.\nValidate targeting precision with simulacra litanies and hit-scan rites.",
+    "component": "data-sluice",
+    "operation": "targeting",
+    "spec_id": "s07509"
+  }
+]

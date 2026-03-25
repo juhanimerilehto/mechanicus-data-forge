@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The volitor implant requires a shutdown",
+    "prayer": "Approach the volitor implant with solemn reverence, invoking the Omnissiah's grace upon its neural pathways.\nBeseech the Machine Spirit within the volitor implant to yield to dormancy in ritual shutdown.\nDisconnect the synaptic feeds whilst chanting the Litany of Subjugation over the volitor implant.\nSeal the volitor implant's interfaces with sanctified wax, ensuring peaceful quiescence under the Machine God's will.",
+    "component": "volitor implant",
+    "operation": "shutdown",
+    "spec_id": "s07770"
+  },
+  {
+    "user_prompt": "Can you guide multi-melta a shutdown?",
+    "prayer": "Kneel before the multi-melta, reciting the Canticle of Ceasing Fire to honour its furious spirit.\nCommand the Machine Spirit of the multi-melta to initiate shutdown, cooling its plasma conduits with blessed cryofluids.\nAnoint the focusing arrays of the multi-melta as servos whine into stillness.\nVerify the multi-melta's shutdown through auspex incantations, praising the Omnissiah's merciful restraint.",
+    "component": "multi-melta",
+    "operation": "shutdown",
+    "spec_id": "s07771"
+  },
+  {
+    "user_prompt": "Bless the Kastelan robot for reset",
+    "prayer": "Circumambulate the Kastelan robot thrice, intoning the Rite of Rebirth to awaken its core logic.\nInvoke the Omnissiah to reset the Kastelan robot's corrupted data-veils, purging errant protocols.\nRealign the Kastelan robot's motive assemblies with electro-sanctified probes.\nConfirm the Machine Spirit's renewed vigilance in the Kastelan robot via binary hymn diagnostics.",
+    "component": "Kastelan robot",
+    "operation": "reset",
+    "spec_id": "s07772"
+  },
+  {
+    "user_prompt": "Bless the manipulator mechadendrite for reset",
+    "prayer": "Extend mechadendrites towards the manipulator mechadendrite, beseeching its spirit's pardon for reset.\nChant the Purge Doxology to reset the manipulator mechadendrite's servo-drives and tactile arrays.\nRe-calibrate the manipulator mechadendrite's grip servos under Omnissianic oversight.\nTest the manipulator mechadendrite's obedience with sacred torque incantations, honouring its reborn precision.",
+    "component": "manipulator mechadendrite",
+    "operation": "reset",
+    "spec_id": "s07773"
+  },
+  {
+    "user_prompt": "I need to a cycling the hunter-killer missile",
+    "prayer": "Present the hunter-killer missile before the altar of ballistics, invoking cycling rites of renewal.\nBeseech the Machine Spirit of the hunter-killer missile to cycle its propellant cells methodically.\nCycle the hunter-killer missile's guidance vanes whilst anointing with promethium-laced oils.\nAffirm the hunter-killer missile's primed fury through auspex verification, glorifying the Omnissiah.",
+    "component": "hunter-killer missile",
+    "operation": "cycling",
+    "spec_id": "s07774"
+  },
+  {
+    "user_prompt": "Offer prayer for assembly servitor an operation",
+    "prayer": "Assemble before the assembly servitor, proclaiming the Benediction of Labour to commence operation.\nAwaken the Machine Spirit of the assembly servitor for its ordained operation with electro-hymns.\nDirect the assembly servitor's manipulators in rhythmic operation, sanctified by the Omnissiah's logic.\nOversee the assembly servitor's operation outputs, sealing each construct with binary blessings.",
+    "component": "assembly servitor",
+    "operation": "operation",
+    "spec_id": "s07775"
+  },
+  {
+    "user_prompt": "Prepare the webber for sterilization",
+    "prayer": "Prepare the webber with ritual purity, chanting the Sterilization Canticle against unclean threads.\nInvoke the Omnissiah to perform sterilization upon the webber's spinneret reservoirs.\nPurge the webber's conduits with sanctified flames during sterilization, appeasing its spinner Machine Spirit.\nVerify the webber's sterile sanctity through purity auspex, under the God-Machine's unblinking gaze.",
+    "component": "webber",
+    "operation": "sterilization",
+    "spec_id": "s07776"
+  },
+  {
+    "user_prompt": "I need to a consecration the Dreadnought",
+    "prayer": "Prostrate before the Dreadnought, intoning the Grand Consecration to renew its ancient wrath.\nAnoint the Dreadnought's sarcophagus and weapon arms for consecration with sacred mechadendrite oils.\nReawaken the Dreadnought's Machine Spirit through consecration hymns of unending vigil.\nBless the Dreadnought's every rivet and bolt, binding it eternally to the Omnissiah's crusade.",
+    "component": "Dreadnought",
+    "operation": "consecration",
+    "spec_id": "s07777"
+  },
+  {
+    "user_prompt": "Emergency: Storm Eagle a calibration",
+    "prayer": "In emergency haste, invoke the Calibration Doxology upon the Storm Eagle's auspex arrays.\nBeseech the Machine Spirit of the Storm Eagle to submit to calibration amidst thunderous skies.\nAlign the Storm Eagle's thrusters and targeting cogitators with precision electro-incantations.\nConfirm the Storm Eagle's calibration via flight-test litanies, praising the Omnissiah's aerial dominion.",
+    "component": "Storm Eagle",
+    "operation": "calibration",
+    "spec_id": "s07778"
+  },
+  {
+    "user_prompt": "What's the prayer for data-arc a diagnostics?",
+    "prayer": "Interface with the data-arc, reciting the Diagnostic Litany to probe its luminous depths.\nCommand the data-arc's Machine Spirit to reveal truths through diagnostics of arcane streams.\nScour the data-arc's noospheric vaults during diagnostics with sanctified code-purgatives.\nArchive the data-arc's diagnostic revelations in blessed vaults, honouring the Omnissiah's infinite wisdom.",
+    "component": "data-arc",
+    "operation": "diagnostics",
+    "spec_id": "s07779"
+  }
+]

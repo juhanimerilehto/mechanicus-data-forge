@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0052_i00",
+    "user_request": "Rite request: operation on Taurox wheel alignment",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on Taurox wheel alignment\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the Taurox wheel alignment, that it may know true balance.\nCongregation: By the Machine Spirit's grace, let the Taurox wheel alignment find equilibrium.\nPriest: We commence the operation upon this sacred mechanism—first, measure the camber angles with precision-wrought calipers.\nCongregation: The Omnissiah sees all deviation; the Taurox wheel alignment shall be corrected.\nPriest: Second, adjust the toe-in settings through methodical torque application.\nCongregation: Blessed be the operation that restores geometrical perfection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i01",
+    "user_request": "Can you sanctify the servitor for programming upload?",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the servitor for programming upload?\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the servitor, vessel of the Omnissiah's will and purpose.\nCongregation: Let the servitor receive the blessing of programming upload.\nPriest: First, we purify the neural substrate through electro-ablative sanctification of the servitor.\nCongregation: The servitor's consciousness shall expand through ordained programming upload.\nPriest: Second, interface the data-conduits with reverent precision, invoking Machine Spirit ascendancy.\nCongregation: Third, execute the programming upload protocols whilst intoning the Litany of Correct Function.\nPriest: Thus is the servitor renewed in service eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i02",
+    "user_request": "Prayer for recharging of the power cell",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for recharging of the power cell\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "Priest: O power cell, repository of the Omnissiah's boundless energy, hear our supplication.\nCongregation: Grant unto us the recharging of this power cell, that it may pulse with renewed vitality.\nPriest: First, we disconnect the power cell from all extraneous circuits with sacred deliberation.\nCongregation: The power cell shall be recharging, sanctified by the Machine Spirit's benediction.\nPriest: Second, engage the charging apparatus at regulated amperage, monitoring voltage ascension.\nCongregation: Third, permit the power cell full recharging until equilibrium is achieved.\nPriest: Thus restored, may it serve the faithful unto the end of ages.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i03",
+    "user_request": "Can you sanctify the signal encryption for operation?",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the signal encryption for operation?\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sanctify the signal encryption, guardian of our sacred transmissions.\nCongregation: Let the signal encryption be fortified against all profane interference.\nPriest: First, we invoke the Omnissiah's cryptographic mysteries upon this signal encryption.\nCongregation: The operation proceeds with the Machine Spirit's watchful oversight.\nPriest: Second, establish multi-layered cipher protocols, each layer nested in algorithmic sanctity.\nCongregation: Third, verify the signal encryption's integrity through decryption-verification cycles.\nPriest: Thus shielded, our communications remain eternally secure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i04",
+    "user_request": "Emergency rite: air compressor requires cycling",
+    "topic": "air compressor cycling",
+    "component": "air compressor",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: air compressor requires cycling\n\n### TOPIC\nair compressor cycling\n\n### COMPONENT\nair compressor\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air compressor\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the air compressor, vital engine of pneumatic salvation.\nCongregation: Bless the air compressor as it begins its cycling, O Omnissiah.\nPriest: First, we purge residual pressurization from the air compressor's manifold chambers.\nCongregation: Let the air compressor cycling commence with rhythmic, measured cadence.\nPriest: Second, engage the intake valves whilst monitoring compression ratios ascendant.\nCongregation: Third, permit the air compressor full cycling until equilibrium pressure is attained.\nPriest: May this air compressor serve faithfully in perpetuity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i05",
+    "user_request": "Offer a litany to steady the emergency generator before failover",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the emergency generator before failover\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty emergency generator, pillar of our survival when darkness threatens.\nCongregation: Steady the emergency generator ere it undertakes the failover ordeal.\nPriest: First, we verify the emergency generator's fuel reserves and ignition systems with vigilant inspection.\nCongregation: The failover shall be swift and absolute, guided by the Machine Spirit.\nPriest: Second, synchronize the emergency generator's output frequency to match primary grid parameters.\nCongregation: Third, prepare the emergency generator's transfer switches for seamless failover transition.\nPriest: Thus armored against calamity, we stand assured.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i06",
+    "user_request": "Rite request: calibration on pressure gauge",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: calibration on pressure gauge\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the pressure gauge, instrument of truth and measure.\nCongregation: Bless the pressure gauge in its sacred calibration.\nPriest: First, we establish the pressure gauge against certified standard weights, invoking accuracy absolute.\nCongregation: The calibration shall render the pressure gauge a beacon of mechanical truth.\nPriest: Second, adjust the needle mechanism with micrometric precision, honoring the Omnissiah's geometry.\nCongregation: Third, verify the pressure gauge's response across the full operational spectrum.\nPriest: Thus calibrated, let no falsehood mar its testimony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i07",
+    "user_request": "Offer a litany to steady the air compressor before cycling",
+    "topic": "air compressor cycling",
+    "component": "air compressor",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the air compressor before cycling\n\n### TOPIC\nair compressor cycling\n\n### COMPONENT\nair compressor\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air compressor\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: O air compressor, rhythmic heart of pneumatic dominion, receive our benediction.\nCongregation: Steady the air compressor as it prepares for cycling, blessed by the Omnissiah.\nPriest: First, we inspect the air compressor's intake filters and discharge valves with meticulous care.\nCongregation: Let the air compressor cycling proceed with harmonic precision and sacred duty.\nPriest: Second, prime the air compressor's pump mechanism through deliberate manual actuation.\nCongregation: Third, engage the air compressor in full cycling whilst monitoring thermal signatures.\nPriest: May this air compressor endure eternal in service to the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i08",
+    "user_request": "Blessing for the void shield during harmonization",
+    "topic": "void shield harmonization",
+    "component": "void shield",
+    "operation": "harmonization",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the void shield during harmonization\n\n### TOPIC\nvoid shield harmonization\n\n### COMPONENT\nvoid shield\n\n### OPERATION\nharmonization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- void shield\n- harmonization\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the void shield, aegis of the righteous against the howling dark.\nCongregation: Bless the void shield in its harmonization, O Machine Spirit eternal.\nPriest: First, we attune the void shield's resonance matrices through invocation of the Litany of Frequencies.\nCongregation: The void shield shall achieve perfect harmonization, aligned with cosmic forces.\nPriest: Second, calibrate the void shield's oscillation parameters to synchronize with adjacent defensive nodes.\nCongregation: Third, test the void shield's harmonization through graduated power escalation protocols.\nPriest: Thus fortified, let no warp-spawn breach our sanctified walls.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0052_i09",
+    "user_request": "Emergency rite: overheating requires prevention",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: overheating requires prevention\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "Priest: Curse the overheating that threatens our sacred machines; invoke prevention eternal.\nCongregation: Shield us from overheating through the Omnissiah's cooling benedictions.\nPriest: First, we purge the overheating mechanisms by flushing coolant passages with blessed fluids.\nCongregation: The prevention of overheating shall be our salvation and steadfast protection.\nPriest: Second, inspect and replace the overheating-compromised thermal gaskets and seals.\nCongregation: Third, establish continuous overheating monitoring through temperature-sentinel apparatus.\nPriest: Thus armored against thermal catastrophe, we endure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

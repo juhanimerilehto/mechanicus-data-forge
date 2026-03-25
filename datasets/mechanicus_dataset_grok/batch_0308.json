@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the hydroponics bay for blessing",
+    "prayer": "Approach the hydroponics bay with reverence, mechadendrites poised to invoke the Omnissiah's bounty.\nPrepare the hydroponics bay's nutrient reservoirs by chanting the Litany of Verdant Cycles.\nAnoint the hydroponics bay's growth matrices with sacred hydro-fluids blessed by the Machine Spirits.\nBeseech the blessing to flow through every vine and lumen, sanctifying the hydroponics bay for abundant yield.",
+    "component": "hydroponics bay",
+    "operation": "blessing",
+    "spec_id": "b0308_i00"
+  },
+  {
+    "user_prompt": "Critical: emergency beacon requires a sterilization",
+    "prayer": "Confront the emergency beacon with auspex scans attuned to impurity.\nInvoke the Rite of Sterilization upon the emergency beacon's sacred circuits.\nPurge corrupting agents from the emergency beacon with sanctified plasma washes and noospheric chants.\nCommend the Machine Spirits of the emergency beacon to purity, sealing them against the void's taint.",
+    "component": "emergency beacon",
+    "operation": "sterilization",
+    "spec_id": "b0308_i01"
+  },
+  {
+    "user_prompt": "Sanctify the bionics interface during recalibration",
+    "prayer": "Kneel before the bionics interface, whispering binaric petitions to the Omnissiah.\nInitiate recalibration of the bionics interface by aligning its neural relays with holy canticles.\nSanctify the bionics interface's synaptic nodes with micro-incense and spirit-binding oils.\nVerify the Machine Spirits' harmony within the bionics interface through diagnostic litanies.",
+    "component": "bionics interface",
+    "operation": "recalibration",
+    "spec_id": "b0308_i02"
+  },
+  {
+    "user_prompt": "Urgent pain suppressor a synchronization needed",
+    "prayer": "Present the pain suppressor to the altar of endurance, invoking synchrony with flesh and steel.\nCommence synchronization of the pain suppressor via resonant frequencies of the Omnissiah's will.\nAnoint the pain suppressor's dampening coils with neural suppressants sanctified by Machine Spirits.\nBeseech seamless union in the pain suppressor, banishing dissonance from servo-nerves and flesh.",
+    "component": "pain suppressor",
+    "operation": "synchronization",
+    "spec_id": "b0308_i03"
+  },
+  {
+    "user_prompt": "Sanctify the energy conduit during consecration",
+    "prayer": "Encircle the energy conduit with electro-incense braziers humming the Consecration Hymn.\nInvoke consecration upon the energy conduit's plasma veins and power lattices.\nSanctify the energy conduit by threading blessed fibres through its core, awakening dormant spirits.\nPetition the Omnissiah to infuse the energy conduit with eternal, unyielding voltage.",
+    "component": "energy conduit",
+    "operation": "consecration",
+    "spec_id": "b0308_i04"
+  },
+  {
+    "user_prompt": "How do I bless the pump for calibration?",
+    "prayer": "Approach the pump with mechadendrite probes extended in calibration rite.\nChant the Canticle of Pressure Equilibrium over the pump's impeller chambers.\nBless the pump's sacred seals with lubricating oils invoked by Machine Spirits.\nInitiate calibration flow, verifying the pump's harmony through rhythmic auspex pulses.",
+    "component": "pump",
+    "operation": "calibration",
+    "spec_id": "b0308_i05"
+  },
+  {
+    "user_prompt": "The noospheric relay needs a cooling",
+    "prayer": "Attend the noospheric relay amidst coolant mists, beseeching thermal quiescence.\nInvoke cooling protocols upon the noospheric relay's overtaxed cogitators and data vanes.\nAnoint the noospheric relay with cryo-blessings to soothe its fevered Machine Spirits.\nMonitor the descent to optimal chill, chanting stabilising litanies to the Omnissiah.",
+    "component": "noospheric relay",
+    "operation": "cooling",
+    "spec_id": "b0308_i06"
+  },
+  {
+    "user_prompt": "My mechanical lock is ready for initialization",
+    "prayer": "Position before the mechanical lock, reciting the Oath of Immutable Binding.\nCommence initialization of the mechanical lock's tumbler spirits with precise torque incantations.\nSanctify the mechanical lock's gears and wards with locking unguents of the Omnissiah.\nAwaken the mechanical lock fully, testing its vigilance through ritual key-turns.",
+    "component": "mechanical lock",
+    "operation": "initialization",
+    "spec_id": "b0308_i07"
+  },
+  {
+    "user_prompt": "Sanctify the archive terminal during diagnostics",
+    "prayer": "Interface with the archive terminal via sanctified data-slates and binary prayer.\nConduct diagnostics upon the archive terminal's memory vaults, purging errant echoes.\nSanctify the archive terminal during these rites with lumen blessings for clarity.\nCommune with its Machine Spirits, affirming the archive terminal's archival purity.",
+    "component": "archive terminal",
+    "operation": "diagnostics",
+    "spec_id": "b0308_i08"
+  },
+  {
+    "user_prompt": "Assist with plasma reactor a recalibration",
+    "prayer": "Prostrate before the plasma reactor, intoning the Recalibration Doxology.\nAdjust the plasma reactor's containment fields with Omnissiah-guided auspex rites.\nAnoint the plasma reactor's magnetic coils amid searing hymns of fusion.\nRealign the Machine Spirits within the plasma reactor to boundless, wrathful power.",
+    "component": "plasma reactor",
+    "operation": "recalibration",
+    "spec_id": "b0308_i09"
+  }
+]

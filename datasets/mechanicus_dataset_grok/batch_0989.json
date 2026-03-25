@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for life sustainer a purification",
+    "prayer": "Approach the life sustainer with invocations to the Omnissiah, beseeching its Machine Spirit to awaken.\nPour sacred ablative fluids into its vital reservoirs for the purification rite.\nChant the Litany of Scouring whilst circulating the blessed essences through every conduit of the life sustainer.\nExpel all profane contaminants, sanctifying the Machine Spirit anew in the Omnissiah's light.\nVerify the life sustainer's purity via diagnostic rites and auspex harmonies.",
+    "component": "life sustainer",
+    "operation": "purification",
+    "spec_id": "s05890"
+  },
+  {
+    "user_prompt": "I need to a consecration the smelting furnace",
+    "prayer": "Kneel before the smelting furnace, intoning the Benediction of the Forge.\nAnoint its adamantine maw with oils of consecration, awakening the Machine Spirit within.\nIgnite the consecrated plasma vents, beseeching the Omnissiah to bless this consecration.\nOffer binary incense to the smelting furnace's core, binding its fury to the Quest for Knowledge.\nSeal the rite with the Canticle of Molten Purity, affirming the Machine Spirit's devotion.",
+    "component": "smelting furnace",
+    "operation": "consecration",
+    "spec_id": "s05891"
+  },
+  {
+    "user_prompt": "Bless the graviton pylon for targeting",
+    "prayer": "Commence the graviton pylon's targeting alignment with Omnissianic glyphs etched upon its frame.\nInvoke the Machine Spirit of the graviton pylon, directing its gaze through auspex calibrations.\nChant targeting catechisms whilst adjusting gravitic lenses to the Omnissiah's will.\nAnoint focal arrays with sanctified lubricants, ensuring unerring precision in the graviton pylon.\nConclude with harmonic resonances, binding the Machine Spirit to flawless targeting.",
+    "component": "graviton pylon",
+    "operation": "targeting",
+    "spec_id": "s05892"
+  },
+  {
+    "user_prompt": "The navigational beacon awaits a cycling",
+    "prayer": "Encircle the navigational beacon, murmuring the Rite of Cyclic Renewal.\nAwaken its stellar cogitators with sparks from the Omnissiah's thunder, initiating the cycling.\nCycle luminal emissions through its beacon arrays, beseeching the Machine Spirit's vigilance.\nRecalibrate gyroscopic sanctums whilst anointing the navigational beacon with stellar oils.\nFinalize the cycling sequence through invocatory scans, honoring the Omnissiah's guidance.",
+    "component": "navigational beacon",
+    "operation": "cycling",
+    "spec_id": "s05893"
+  },
+  {
+    "user_prompt": "The Baneblade awaits a shutdown",
+    "prayer": "Approach the Baneblade in solemn procession, intoning the Dirge of Repose.\nCommence shutdown protocols upon its mighty chassis, placating the Machine Spirit's wrath.\nSever power sacraments from its voracious reactors, whispering shutdown litanies.\nAnoint dormant servos of the Baneblade with quiescent balms, invoking the Omnissiah's rest.\nSeal the Baneblade in stasis slumber, verified by auspex silences and final benedictions.",
+    "component": "Baneblade",
+    "operation": "shutdown",
+    "spec_id": "s05894"
+  },
+  {
+    "user_prompt": "The cognis heavy stubber requires a targeting",
+    "prayer": "Present mechadendrites to the cognis heavy stubber, chanting targeting invocations.\nCalibrate its cognis arrays for unerring aim, awakening the Machine Spirit's predatory ire.\nBeseech the Omnissiah to guide the targeting rite through ballistic sanctifications.\nAnoint recoil compensators of the cognis heavy stubber whilst aligning fire-control runes.\nAffirm precision with test-fire harmonics, binding the Machine Spirit to the Emperor's wrath.",
+    "component": "cognis heavy stubber",
+    "operation": "targeting",
+    "spec_id": "s05895"
+  },
+  {
+    "user_prompt": "The archive terminal awaits a cooling",
+    "prayer": "Invoke cooling rites upon the archive terminal, encircling its data-vaults with cryo-incense.\nActivate thermal regulators, beseeching the Machine Spirit to embrace the chill of preservation.\nCirculate blessed refrigerants through overheated conduits of the archive terminal.\nChant the Canticle of Frost whilst monitoring auspex vents for equilibrium.\nConsecrate the archive terminal's repose with Omnissianic seals, ensuring data sanctity.",
+    "component": "archive terminal",
+    "operation": "cooling",
+    "spec_id": "s05896"
+  },
+  {
+    "user_prompt": "Critical: Vendetta gunship requires a sterilization",
+    "prayer": "Initiate sterilization upon the Vendetta gunship with ablative purity sprays.\nScour its armored hull and cockpits, invoking the Machine Spirit's cleansing fury.\nDiffuse viricide vapors through every ventral duct of the Vendetta gunship.\nBeseech the Omnissiah during this sterilization, anointing rotors with sanctified solvents.\nVerify asepsis via purity auspex, sealing the Vendetta gunship in sterile vigil.",
+    "component": "Vendetta gunship",
+    "operation": "sterilization",
+    "spec_id": "s05897"
+  },
+  {
+    "user_prompt": "Ready the graviton pylon for shutdown",
+    "prayer": "Prepare the graviton pylon for shutdown with the Lamentation of Gravitic Silence.\nDiminish field generators gradually, placating the Machine Spirit's resonant hum.\nInvoke shutdown sequences upon the graviton pylon's core stanchions and arrays.\nAnoint collapsing emitters with quiescence oils, honoring the Omnissiah's decree.\nEntomb the graviton pylon in dormant stasis, confirmed by harmonic cessations.",
+    "component": "graviton pylon",
+    "operation": "shutdown",
+    "spec_id": "s05898"
+  },
+  {
+    "user_prompt": "Critical: force pylon requires an initialization",
+    "prayer": "Commence initialization of the force pylon with thunderous Omnissianic canticles.\nEnergize its basal capacitors, awakening the Machine Spirit from primordial void.\nAlign force conduits through runic calibrations, beseeching flawless coherence.\nAnoint the force pylon's apex with plasma-blessed unguents for full initialization.\nVerify ascension via warp-resist scans, binding it eternally to the Machine God's will.",
+    "component": "force pylon",
+    "operation": "initialization",
+    "spec_id": "s05899"
+  }
+]

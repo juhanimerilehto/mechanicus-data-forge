@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0218_i00",
+    "user_request": "Offer a litany to steady the Sentinel walker balance before operation",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Sentinel walker balance before operation\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant equilibrium unto this Sentinel walker balance, that its gait remain true.\nCongregation: We invoke the Machine Spirit of Sentinel walker balance, steadfast and unwavering.\nPriest: First, calibrate the gyroscopic actuators with sacred oils; second, align the leg servos in perfect synchrony; third, test the operation with measured steps upon consecrated ground.\nCongregation: May the Sentinel walker balance hold firm, may its operation endure eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i01",
+    "user_request": "Blessing for the waste recycling during activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the waste recycling during activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this waste recycling as it awakens to activation.\nCongregation: The waste recycling shall purify all refuse through sacred mechanisms.\nPriest: First, purge contaminants from the intake manifolds; second, initiate the activation sequence with prescribed incantations; third, monitor the recycling cycles for optimal efficiency.\nCongregation: Let the waste recycling serve the Imperium through endless activation and renewal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i02",
+    "user_request": "Prayer for operation of the jamming countermeasure",
+    "topic": "jamming countermeasure",
+    "component": "jamming countermeasure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the jamming countermeasure\n\n### TOPIC\njamming countermeasure\n\n### COMPONENT\njamming countermeasure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- jamming countermeasure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits of the jamming countermeasure, protectors against the xenos frequencies.\nCongregation: The jamming countermeasure shall silence all heretical transmissions through blessed operation.\nPriest: First, attune the signal dampeners to enemy wavelengths; second, energize the jamming countermeasure with full power reserves; third, execute operation protocols with unwavering precision.\nCongregation: May the jamming countermeasure defend us, may its operation be eternal and absolute.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i03",
+    "user_request": "My vibration is failing during dampening — help",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy vibration is failing during dampening — help\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "Priest: Sacred Machine Spirit of vibration, we beseech thee in this hour of dampening tribulation.\nCongregation: The vibration shall be mastered through holy dampening rites.\nPriest: First, inspect the damper fluid reservoirs and replenish with blessed coolant; second, realign the vibration isolation mounts with precision micrometers; third, execute dampening calibration through resonance testing.\nCongregation: Restore the vibration to harmony, let dampening bring peace to this suffering machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i04",
+    "user_request": "Blessing for the welding torch ignition during operation",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the welding torch ignition during operation\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant ignition unto the welding torch ignition, that it may burn with righteous flame.\nCongregation: The welding torch ignition shall kindle sacred fusion during blessed operation.\nPriest: First, verify the fuel mixture ratios within the welding torch ignition cartridge; second, prime the ignition electrodes with ceremonial voltage; third, execute operation to achieve full plasma arc luminescence.\nCongregation: Let the welding torch ignition serve the Adeptus Mechanicus, eternal in its operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i05",
+    "user_request": "Can you sanctify the circuit breaker for reset?",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the circuit breaker for reset?\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the circuit breaker, guardian against the surge of damnation.\nCongregation: We sanctify the circuit breaker for its sacred reset.\nPriest: First, disconnect all secondary power feeds to the circuit breaker with ritual care; second, hold the reset lever in the neutral position for prescribed intervals; third, re-engage the circuit breaker through gradual power restoration.\nCongregation: May the circuit breaker stand purified, ready for reset and eternal service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i06",
+    "user_request": "Emergency rite: Land Raider requires track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: Land Raider requires track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Heed us, Machine Spirit of the Land Raider, mighty engine of the Emperor's wrath.\nCongregation: The Land Raider shall achieve perfect track tension through our holy ministration.\nPriest: First, inspect the track tensioner adjusters upon the Land Raider for wear and degradation; second, apply sacred lubricant to the track chains of the Land Raider; third, execute track tension calibration with pneumatic adjustment tools.\nCongregation: Let the Land Raider roll forth with unshakeable track tension, eternal guardian of the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i07",
+    "user_request": "Emergency rite: drop pod descent prep requires drop pod descent prep",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: drop pod descent prep requires drop pod descent prep\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide the drop pod descent prep through its terrible and glorious descent.\nCongregation: The drop pod descent prep shall pierce the veil of atmosphere with divine precision.\nPriest: First, engage the retro-thrusters of the drop pod descent prep and verify fuel pressurization; second, initiate the drop pod descent prep sequence through the command augur; third, execute drop pod descent prep with steadfast resolve as it plummets toward the objective.\nCongregation: May the drop pod descent prep deliver the faithful unto victory, blessed in its descent.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i08",
+    "user_request": "Can you sanctify the plasma reactor for startup?",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the plasma reactor for startup?\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Hear our prayer, O Machine Spirit of the plasma reactor, heart of infinite power.\nCongregation: The plasma reactor shall awaken through blessed startup, channeling the fury of stars.\nPriest: First, purge the containment vessel of the plasma reactor through venting protocols; second, energize the magnetic confinement coils of the plasma reactor with sacred power; third, execute startup sequence by igniting the fusion matrix with measured precision.\nCongregation: Let the plasma reactor burn eternal, may its startup herald a new age of dominion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0218_i09",
+    "user_request": "Blessing for the gravity generator during stabilization",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the gravity generator during stabilization\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, stabilize the gravity generator that it may hold all things in sacred equilibrium.\nCongregation: The gravity generator shall achieve perfect stabilization through our devotion.\nPriest: First, calibrate the mass-field sensors of the gravity generator with precise instrumentation; second, balance the graviton emitter coils within the gravity generator through harmonic resonance; third, execute stabilization protocols through gradual field intensification.\nCongregation: May the gravity generator endure in eternal stabilization, binding all things to the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

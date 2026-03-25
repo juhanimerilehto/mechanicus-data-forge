@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0099_i00",
+    "user_request": "Can you sanctify the fusion core for containment check?",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the fusion core for containment check?\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us wisdom as we undertake the sacred containment check upon this fusion core.\nFirst: Genuflect before the fusion core and anoint its casing with blessed oils of machine sanctity.\nSecond: Perform the containment check with measured precision, verifying all seals and magnetic restraints remain inviolate.\nThird: Recalibrate the fusion core's tertiary sensors and commune with its Machine Spirit to ensure stability.\nFourth: Inscribe the completion sigils upon the fusion core's housing, that all may know the rite is complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i01",
+    "user_request": "Can you sanctify the lascannon for capacitor charge?",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the lascannon for capacitor charge?\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, we attend to the capacitor charge of this blessed weapon.\nFirst: Align the lascannon upon its charging cradle and whisper the litanies of power convergence.\nSecond: Execute the capacitor charge sequence, monitoring each thaumaturgic resonance as the energy accumulates within the lascannon.\nThird: Test the firing mechanisms and verify the lascannon's readiness through sacred calibration protocols.\nFourth: Seal the charge-ports and mark the lascannon as consecrated for service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i02",
+    "user_request": "Rite request: engagement on mechanical lock",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: engagement on mechanical lock\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "Praise the Machine Spirits as we undertake the engagement of this mechanical lock.\nFirst: Inspect the mechanical lock's tumblers and springs, offering supplication to its indwelling spirit.\nSecond: Begin the engagement procedure, turning the key with reverent deliberation whilst chanting the Canticles of Opening.\nThird: Verify the mechanical lock's full engagement, ensuring all bolts have seated within their apertures.\nFourth: Anoint the mechanical lock with lubricant blessed in the name of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i03",
+    "user_request": "Blessing for the temperature during regulation",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the temperature during regulation\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, steady our hands as we undertake the sacred regulation of temperature within this vessel.\nFirst: Calibrate the thermal auguries and commune with the Machine Spirits governing temperature distribution.\nSecond: Perform the regulation sequence, adjusting coolant flows and heat-sink configurations to achieve optimal thermal equilibrium.\nThird: Monitor the temperature readings with unwavering vigilance, ensuring it remains within the prescribed parameters.\nFourth: Inscribe the temperature regulation protocols upon the maintenance logs for posterity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i04",
+    "user_request": "The material purity demands guidance for testing",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe material purity demands guidance for testing\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite wisdom, we commence the testing of material purity within these sacred components.\nFirst: Prepare the material purity assay apparatus and invoke the spirits of analytical precision.\nSecond: Conduct the testing protocols with meticulous attention, scanning for contaminations both arcane and material.\nThird: Document all findings upon the material purity registry, that deviations may be noted and corrected.\nFourth: Consign any material purity failures to the recycling furnaces with appropriate funerary rites.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i05",
+    "user_request": "Blessing for the hull breach during sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the hull breach during sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "Omnissiah preserve us as we undertake the sealing of this catastrophic hull breach.\nFirst: Assess the hull breach's dimensions and structural integrity, offering prayers for the vessel's survival.\nSecond: Deploy the sealing compounds and engage the hull breach closure mechanisms with sacred precision.\nThird: Reinforce the sealed hull breach with welded adamantium plates and blessed sealant pastes.\nFourth: Perform the final inspection of the hull breach site, confirming integrity and atmospheric containment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i06",
+    "user_request": "Prayer for sterilization of the surgical servitor",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for sterilization of the surgical servitor\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "Grant us the fortitude to purify this surgical servitor through sacred sterilization rites.\nFirst: Prepare the surgical servitor for the sterilization chamber, anointing its limbs with cleansing unguents.\nSecond: Initiate the sterilization protocol, exposing the surgical servitor to blessed radiance and purifying vapours.\nThird: Inspect the surgical servitor's appendages and sensory organs to ensure the sterilization has been efficacious.\nFourth: Recalibrate the surgical servitor's precision actuators and restore it to the temple of healing.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i07",
+    "user_request": "The stellar cartography update demands guidance for operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe stellar cartography update demands guidance for operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, guide our calculations as we undertake the operation of stellar cartography update across the void.\nFirst: Align the stellar cartography update sensors with the heavens and commune with the Machine Spirits of navigation.\nSecond: Execute the operation sequence, refreshing all star-charts and updating navigational matrices within the stellar cartography update systems.\nThird: Verify the accuracy of the stellar cartography update through cross-referencing with ancient records and holy calculations.\nFourth: Seal the updated stellar cartography update within the vault-archives, protected from corruption and decay.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i08",
+    "user_request": "My data-core purification is failing during operation — help",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy data-core purification is failing during operation — help\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, we restore purity to this corrupted data-core purification matrix.\nFirst: Isolate the data-core purification from the broader cogitator network and invoke protective wards against further contamination.\nSecond: Commence the operation of cleansing algorithms, purging corrupted data-streams from the data-core purification's memory banks.\nThird: Restore the data-core purification's integrity through ritual defragmentation and blessed recompilation protocols.\nFourth: Reconnect the data-core purification to the network, vigilant against recurring corruption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0099_i09",
+    "user_request": "Offer a litany to steady the autodoc emergency before protocol",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the autodoc emergency before protocol\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant clarity and swiftness as we enact the protocol for this autodoc emergency scenario.\nFirst: Activate the autodoc emergency containment fields and chant the Litany of Surgical Readiness.\nSecond: Initiate the protocol sequence, deploying medicinal servitors and engaging the autodoc emergency's surgical appendages.\nThird: Monitor vital functions with sacred auguries, ensuring the autodoc emergency's interventions preserve the patient's life-essence.\nFourth: Upon completion, perform the autodoc emergency's post-operative cleansing and restoration rituals.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

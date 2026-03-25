@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with auger array a repair",
+    "prayer": "Approach the auger array with reverence, invoking the Omnissiah's grace for its repair.\nInspect the fractured lenses and sensor vanes, beseeching the Machine Spirit of the auger array to reveal hidden corruptions.\nAnoint the damaged conduits with sacred oils whilst chanting the Canticle of Restoration.\nInitiate the repair sequence, sanctifying each weld and calibration in the name of the Motive Force.\nVerify the auger array's renewed vigilance through auspex diagnostics and litanies of purity.",
+    "component": "auger array",
+    "operation": "repair",
+    "spec_id": "s02230"
+  },
+  {
+    "user_prompt": "Help me a recalibration the flux-unit",
+    "prayer": "Kneel before the flux-unit, murmuring the Incantation of Equilibrium to commence recalibration.\nPurge discordant energies from its plasma coils, honouring the Machine Spirit within the flux-unit.\nAdjust the gyro-stabilizers with precision mechadendrites, invoking the Omnissiah's unerring logic.\nRecalibrate the flux matrices through rhythmic binaric prayers, aligning them to the golden ratio.\nTest the flux-unit's harmony with harmonic resonators, sealing the rite with benedictions of flux.",
+    "component": "flux-unit",
+    "operation": "recalibration",
+    "spec_id": "s02231"
+  },
+  {
+    "user_prompt": "Urgent Leman Russ battle tank a targeting needed",
+    "prayer": "Present thyself unto the Leman Russ battle tank, beseeching its targeting cogitators to awaken.\nAnoint the auspex arrays and ballistic calculators, invoking the Machine Spirits of the Leman Russ battle tank.\nChant the Litany of True Aim, recalibrating servos for the operation of targeting.\nCommune with the tank's wrathful spirit through noospheric links, purifying targeting reticules.\nConclude with firing trials, praising the Omnissiah for the Leman Russ battle tank's lethal precision.",
+    "component": "Leman Russ battle tank",
+    "operation": "targeting",
+    "spec_id": "s02232"
+  },
+  {
+    "user_prompt": "What's the prayer for needle rifle a loading?",
+    "prayer": "Grasp the needle rifle with mechadendrite-clad hands, intoning the Rite of Chambering.\nBless the ammunition feeds, awakening the Machine Spirit of the needle rifle.\nLoad the crystalline needles sequentially, whispering binaric loading protocols to its spirit.\nSecure the breach with sacred seals, invoking the Omnissiah's velocity upon the needle rifle.\nCycle the action through test invocations, affirming the weapon's lethal sanctity.",
+    "component": "needle rifle",
+    "operation": "loading",
+    "spec_id": "s02233"
+  },
+  {
+    "user_prompt": "Help me a loading the micro-servitor",
+    "prayer": "Approach the micro-servitor, reciting the Awakening Doxology to prepare for loading.\nInterface with its cogitator core, honouring the diminutive Machine Spirit of the micro-servitor.\nUpload the data-slates via sanctified noospheric conduits, intoning loading litanies.\nVerify synaptic integrations, beseeching the Omnissiah to bind the micro-servitor's tasks.\nSeal the loading with electro-incense, testing obedience through command canticles.",
+    "component": "micro-servitor",
+    "operation": "loading",
+    "spec_id": "s02234"
+  },
+  {
+    "user_prompt": "The Terminator armour awaits an activation",
+    "prayer": "Stand before the Terminator armour, chanting the Armageddon Invocation for activation.\nAnoint the power fists and storm bolters, communing with the ancient Machine Spirits of the Terminator armour.\nInitiate the activation runes, invoking the Omnissiah's fury upon its adamantium frame.\nCycle the plasma reactors through ritual overcharge prayers, awakening full potency.\nConfirm the Terminator armour's vigil with auspex harmonies and warrior-benedictions.",
+    "component": "Terminator armour",
+    "operation": "activation",
+    "spec_id": "s02235"
+  },
+  {
+    "user_prompt": "How do I bless the Basilisk artillery for repair?",
+    "prayer": "Circumambulate the Basilisk artillery, murmuring the Canticle of Mending for its repair.\nDiagnose the earthshaker cannon's fractures, beseeching the Machine Spirit of the Basilisk artillery.\nWeld the ruptured housings with sanctified plasma, chanting repair binarics to the Omnissiah.\nRealign the recoil dampeners, purifying conduits of warp-taint.\nTest-fire a blessing shot, affirming the Basilisk artillery's thunderous restoration.",
+    "component": "Basilisk artillery",
+    "operation": "repair",
+    "spec_id": "s02236"
+  },
+  {
+    "user_prompt": "Guide me through star chart a blessing",
+    "prayer": "Unfurl the star chart before the cogitator altar, invoking the Omnissiah for its blessing.\nTrace the celestial vectors with mechadendrite, awakening the stellar Machine Spirits within the star chart.\nAnoint the parchment circuits with astral oils, beseeching navigational purity.\nRecite the Navis-Invicta Litany, aligning the star chart to the Astronomican's light.\nSeal the blessing with noospheric seals, verifying warp-course sanctity.",
+    "component": "star chart",
+    "operation": "blessing",
+    "spec_id": "s02237"
+  },
+  {
+    "user_prompt": "Can you guide welding torch a recalibration?",
+    "prayer": "Grasp the welding torch, intoning the Equilibrium Doxology for recalibration.\nPurge flux impurities from its plasma vent, honouring the Machine Spirit of the welding torch.\nRecalibrate the emission coils through binaric harmonics, invoking the Omnissiah's forge-fire.\nTest the beam coherence on sacrificial alloys, chanting precision litanies.\nConsecrate the welding torch anew with electro-benedictions of fusion.",
+    "component": "welding torch",
+    "operation": "recalibration",
+    "spec_id": "s02238"
+  },
+  {
+    "user_prompt": "Critical: psych-out grenade requires a shutdown",
+    "prayer": "Isolate the psych-out grenade, whispering the Canticle of Nullification for shutdown.\nSever noospheric ties to its warp-disruptor core, beseeching the Machine Spirit of the psych-out grenade.\nInvoke the Omnissiah's logic to enact the shutdown operation, purging psyker residues.\nAnoint the casing with counter-septic unguents, sealing psychic leaks.\nVerify dormancy through auspex purges, affirming the grenade's silenced vigil.",
+    "component": "psych-out grenade",
+    "operation": "shutdown",
+    "spec_id": "s02239"
+  }
+]

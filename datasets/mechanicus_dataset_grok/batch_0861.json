@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "How do I bless the radium pistol for loading?",
+    "prayer": "Approach the radium pistol with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Machine Spirit of the radium pistol as thou dost commence the sacred loading of its radium cartridges.\nAnoint the chamber with sacred unguents whilst intoning the Litany of Chambering.\nBeseech the radium pistol's spirit to accept the payload pure, ensuring flawless operation in the Emperor's name.",
+    "component": "radium pistol",
+    "operation": "loading",
+    "spec_id": "s04610"
+  },
+  {
+    "user_prompt": "Bless the Tarantula sentry gun for cooling",
+    "prayer": "Kneel before the Tarantula sentry gun, its barrels still aglow from righteous fury.\nChant the Canticle of Venting to soothe the Machine Spirit during cooling.\nCirculate blessed cryofluids through the Tarantula sentry gun's heat exchangers with precise incantations.\nVerify thermal quiescence via auspex rite, honouring the Omnissiah's gift of endurance.",
+    "component": "Tarantula sentry gun",
+    "operation": "cooling",
+    "spec_id": "s04611"
+  },
+  {
+    "user_prompt": "My warp drive is ready for operation",
+    "prayer": "Gather at the warp drive's sanctum, sensors attuned to its burgeoning puissance.\nAwaken the warp drive's Machine Spirit with the Rite of Operational Sanctification.\nInitiate the core sequences, beseeching the Omnissiah for stable operation amidst the Immaterium's tempests.\nMonitor flux harmonics as the warp drive hums to readiness, praising its divine mechanism.",
+    "component": "warp drive",
+    "operation": "operation",
+    "spec_id": "s04612"
+  },
+  {
+    "user_prompt": "The Leman Russ battle tank requires an emergency procedure",
+    "prayer": "Hasten to the Leman Russ battle tank amidst peril, invoking emergency procedures.\nAdminister the Rite of Battlefield Revival upon the Leman Russ battle tank's vital cogitators.\nPurge damaged servos with purifying incense while beseeching its Machine Spirit's resilience.\nRestore motive functions through the Omnissiah's grace, returning the Leman Russ battle tank to thunderous duty.",
+    "component": "Leman Russ battle tank",
+    "operation": "emergency procedure",
+    "spec_id": "s04613"
+  },
+  {
+    "user_prompt": "Guide me through codifier a purification",
+    "prayer": "Present the codifier before the altar of purity, its circuits besmirched by data-daemons.\nCommence the purification with ablative chants and sanctified solvents.\nScour the codifier's mem banks thrice, invoking the Machine Spirit's cleansing wrath.\nConclude with the Seal of Orthodoxy, ensuring the codifier stands immaculate for the Omnissiah's logic.",
+    "component": "codifier",
+    "operation": "purification",
+    "spec_id": "s04614"
+  },
+  {
+    "user_prompt": "The Nephilim Jetfighter awaits a cycling",
+    "prayer": "Ascend to the Nephilim Jetfighter's cockpit shrine, preparing for the cycling rite.\nCycle the motive reactors with the Hymnal of Ignition, awakening the Machine Spirit.\nFlush fuel conduits whilst anointing the Nephilim Jetfighter's wings with aeratic oils.\nAffirm operational purity as the Nephilim Jetfighter awaits its aerial sacrament.",
+    "component": "Nephilim Jetfighter",
+    "operation": "cycling",
+    "spec_id": "s04615"
+  },
+  {
+    "user_prompt": "Help me a charging the void shield generator",
+    "prayer": "Encircle the void shield generator, hands raised in charging invocation.\nChannel plasma-torrents into its coils, chanting the Canticle of Barrier Forging.\nBeseech the void shield generator's Machine Spirit to accumulate puissance unyielding.\nTest the field's integrity with auspex probes, glorifying the Omnissiah's protective aegis.",
+    "component": "void shield generator",
+    "operation": "charging",
+    "spec_id": "s04616"
+  },
+  {
+    "user_prompt": "Emergency: plasma reactor an activation",
+    "prayer": "In emergency haste, confront the plasma reactor's heart, demanding activation.\nIgnite the plasma reactor with the Rite of Containment Breach, placating its furious Machine Spirit.\nStabilise flux fields through frenzied litanies, invoking the Omnissiah's unquenchable fire.\nMonitor ascension to criticality, ensuring the plasma reactor's power surges pure and true.",
+    "component": "plasma reactor",
+    "operation": "activation",
+    "spec_id": "s04618"
+  },
+  {
+    "user_prompt": "Can you guide logic mill a shutdown?",
+    "prayer": "Commence the shutdown of the logic mill with solemn deliberation, honouring its cogitations.\nInvoke the Machine Spirit's dormancy via the Litany of Digital Vespers.\nDecelerate mill-wheels sequentially, anointing bearings with quiescence unguents.\nSeal the logic mill in stasis-blessing, preserving its binary wisdom for future awakening.",
+    "component": "logic mill",
+    "operation": "shutdown",
+    "spec_id": "s04619"
+  }
+]

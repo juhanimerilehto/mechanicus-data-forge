@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0236_i00",
+    "user_request": "Can you sanctify the hull breach for sealing?",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the hull breach for sealing?\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us thy wisdom as we approach the hull breach with sacred purpose.\nCongregation: Bless the hull breach, that it may receive our ministrations.\nPriest: First, we shall cleanse the hull breach with blessed solvents, purging corruption.\nCongregation: The hull breach shall be made whole through sealing!\nPriest: Second, we invoke the Machine Spirit to guide our sealing apparatus with precision.\nCongregation: Glory to the Omnissiah, whose sealing restores the vessel's integrity!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i01",
+    "user_request": "Can you sanctify the chainsword for consecration?",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the chainsword for consecration?\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit of this chainsword, hear our consecration!\nCongregation: We honor the chainsword with sacred rites and holy oils.\nPriest: First, we anoint the chainsword's teeth with blessed lubricants, that they sing eternal.\nCongregation: The chainsword's consecration is sealed in the Omnissiah's light!\nPriest: Second, we intone the Litany of Sharpness upon the chainsword's edge.\nCongregation: Through consecration, it becomes the Emperor's instrument of righteous fury!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i02",
+    "user_request": "Rite request: broadcast on distress call",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: broadcast on distress call\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Priest: Spirits of the aether, attend! We commence distress call broadcast unto the void.\nCongregation: Receive our distress call and carry it through the stellar darkness!\nPriest: First, we calibrate the distress call's vox-transmitters with ceremonial precision.\nCongregation: May the distress call reach the ears of our salvation!\nPriest: Second, we amplify through the broadcast arrays with the Omnissiah's blessing.\nCongregation: Let all vessels hear our broadcast and know we endure!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i03",
+    "user_request": "Emergency rite: relay station handoff requires operation",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: relay station handoff requires operation\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the relay station handoff—sacred conduit of our communion across the stars.\nCongregation: We consecrate the relay station handoff for righteous operation.\nPriest: First, we purify the relay station handoff's communication matrices with blessed incense.\nCongregation: The relay station handoff shall transmit our will uninterrupted!\nPriest: Second, we initiate the operation of relay station handoff protocols with archaic precision.\nCongregation: Through operation, the relay station handoff binds distant stations as one!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i04",
+    "user_request": "Prayer for processing of the message queue",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for processing of the message queue\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, grant clarity to the message queue that awaits processing!\nCongregation: Bless the message queue with divine ordination and swift processing.\nPriest: First, we invoke the Litany of Order upon the message queue's sacred buffers.\nCongregation: The message queue shall yield its contents through processing!\nPriest: Second, we engage the cogitator's processing subroutines with methodical reverence.\nCongregation: Through processing, the message queue becomes manifest truth!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i05",
+    "user_request": "Can you sanctify the fire suppression system for operation?",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the fire suppression system for operation?\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Attend, Machine Spirits! We consecrate the fire suppression system for operation eternal.\nCongregation: Bless the fire suppression system that it may extinguish all profane flames.\nPriest: First, we pressurize the fire suppression system's sacred reservoirs with blessed compounds.\nCongregation: The fire suppression system stands ready for operation!\nPriest: Second, we test the fire suppression system's nozzles and valves with ritualistic care.\nCongregation: Through operation, the fire suppression system shields us from infernal ruin!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i06",
+    "user_request": "Can you sanctify the waste disposal for cycling?",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the waste disposal for cycling?\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the waste disposal—unsung servant of our vessel's purity.\nCongregation: We sanctify the waste disposal for sacred cycling and renewal.\nPriest: First, we purge the waste disposal's conduits with blessed chemical agents.\nCongregation: The waste disposal shall cycle forth our refuse into the void!\nPriest: Second, we engage the waste disposal's cycling mechanisms with ceremonial activation.\nCongregation: Through cycling, the waste disposal maintains our vessel's sanctified order!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i07",
+    "user_request": "Can you sanctify the Taurox wheel alignment for operation?",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Taurox wheel alignment for operation?\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide our hands as we consecrate the Taurox wheel alignment!\nCongregation: Bless the Taurox wheel alignment for true and righteous operation.\nPriest: First, we measure the Taurox wheel alignment with sacred calipers and blessed theodolites.\nCongregation: The Taurox wheel alignment shall be made geometrically perfect!\nPriest: Second, we adjust the Taurox wheel alignment's suspension with ritualistic precision.\nCongregation: Through operation, the Taurox wheel alignment grants us swift mobility!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i08",
+    "user_request": "Offer a litany to steady the autocannon barrel before cooling",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the autocannon barrel before cooling\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Spirits of ballistic fury, attend this autocannon barrel as it seeks cooling!\nCongregation: Sanctify the autocannon barrel that its cooling may be swift and absolute.\nPriest: First, we allow the autocannon barrel to rest in the blessed atmospheric void.\nCongregation: The autocannon barrel cools through divine thermodynamic grace!\nPriest: Second, we circulate blessed coolant through the autocannon barrel's sacred channels.\nCongregation: Through cooling, the autocannon barrel regains its lethal potency!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0236_i09",
+    "user_request": "My wear is failing during inspection — help",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy wear is failing during inspection — help\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "Priest: Machine Spirit of wear, reveal thy degradation that we may restore thee!\nCongregation: We undertake the sacred inspection of wear with reverent scrutiny.\nPriest: First, we examine the wear's surface with blessed magnification and tactile assessment.\nCongregation: The wear shall yield its secrets through our inspection!\nPriest: Second, we document each flaw upon the wear with meticulous ceremonial notation.\nCongregation: Through inspection, the wear's condition becomes illuminated truth!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

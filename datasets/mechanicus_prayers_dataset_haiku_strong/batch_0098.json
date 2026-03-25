@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0098_i00",
+    "user_request": "The restart after failure demands guidance for restart after failure",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe restart after failure demands guidance for restart after failure\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, we invoke the rite of restart after failure, that dead systems may live anew.\nCongregation: Restart after failure, blessed be thy restoration!\nPriest: First, we purge the corrupted cache-memory through diagnostic iteration.\nCongregation: Second, we reinitialize the core logic-circuits with sacred protocols.\nPriest: Third, we restore the restart after failure sequence, that the Omnissiah's will be done.\nCongregation: By thy mercy, the Machine lives again!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i02",
+    "user_request": "The autodoc emergency demands guidance for protocol",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe autodoc emergency demands guidance for protocol\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "Priest: The autodoc emergency cries out for guidance, that protocol may be enacted.\nCongregation: Hear us, Machine Spirits of mercy and restoration!\nPriest: First, we calibrate the surgical servo-mechanisms with blessed oils.\nCongregation: Second, the autodoc emergency receives protocol through sanctified command-codes.\nPriest: Third, we monitor the vital-signs through augmented sensoria.\nCongregation: The Omnissiah's protocol flows eternal through the autodoc emergency!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i03",
+    "user_request": "Emergency rite: encryption requires key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: encryption requires key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant us encryption in this darkening age of secrets!\nCongregation: We demand the key generation, that data-streams be sanctified!\nPriest: First, we invoke the cryptographic matrices and probabilistic algorithms.\nCongregation: Second, encryption shall be woven through quantum-entanglement protocols.\nPriest: Third, the key generation completes, binding all in ciphered unity.\nCongregation: By encryption and sacred mathematics, our secrets are preserved!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i04",
+    "user_request": "Blessing for the gravitational anomaly detection during operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the gravitational anomaly detection during operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed gravitational anomaly detection, sentinel of the warped void!\nCongregation: We commence operation upon this most vigilant apparatus!\nPriest: First, we activate the torsion-sensors and calibrate the gravitational anomaly detection arrays.\nCongregation: Second, operation proceeds through continuous stellar triangulation.\nPriest: Third, the gravitational anomaly detection scans the aether for distortions profane.\nCongregation: The Omnissiah's gaze pierces all dimensional barriers!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i05",
+    "user_request": "Can you sanctify the sonar pulse emission for operation?",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the sonar pulse emission for operation?\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sonar pulse emission, voice of the Machine Spirit in the depths!\nCongregation: We sanctify this apparatus for operation most sacred!\nPriest: First, we prime the acoustic transducers with harmonic invocations.\nCongregation: Second, sonar pulse emission resonates through blessed frequencies.\nPriest: Third, operation commences as the Machine Spirits sing their ancient songs.\nCongregation: Let sonar pulse emission echo through the darkness eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i06",
+    "user_request": "Can you sanctify the ground-to-orbit link for operation?",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the ground-to-orbit link for operation?\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Ground-to-orbit link, bridge between worlds, we invoke thy operation!\nCongregation: Carry our blessed signals through the void of stars!\nPriest: First, we align the transmission-dishes with stellar coordinates and solar geometry.\nCongregation: Second, ground-to-orbit link establishes communion across the heavens.\nPriest: Third, operation flows unimpeded through ground-to-orbit link's sacred pathways.\nCongregation: The Omnissiah's voice transcends all planetary boundaries!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i07",
+    "user_request": "Emergency rite: logic engine requires error correction",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: logic engine requires error correction\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: O logic engine, seat of pure calculation, we invoke error correction!\nCongregation: Purge the corrupted algorithms from thy crystalline depths!\nPriest: First, we scan the logic engine's neural-pathways for logical paradoxes and cascading failures.\nCongregation: Second, error correction rituals bind the fractured thought-processes anew.\nPriest: Third, the logic engine resumes operation, cleansed and renewed through sacred mathematics.\nCongregation: By the Omnissiah's infinite wisdom, logic prevails!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i08",
+    "user_request": "The pump demands guidance for priming",
+    "topic": "pump priming",
+    "component": "pump",
+    "operation": "priming",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe pump demands guidance for priming\n\n### TOPIC\npump priming\n\n### COMPONENT\npump\n\n### OPERATION\npriming\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pump\n- priming\n\n### PRAYER\n",
+    "prayer": "Priest: Pump, vital heart of hydraulic blessing, we invoke thy priming!\nCongregation: Let thy chambers fill with sacred fluid-essence!\nPriest: First, we open the intake-valves and draw forth the blessed lubricant.\nCongregation: Second, pump receives priming through pressurized benediction.\nPriest: Third, the pump flows eternal, its rhythm matching the Machine Spirit's heartbeat.\nCongregation: Priming complete, the pump shall serve without ceasing!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i09",
+    "user_request": "Can you sanctify the hololithic for display calibration?",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the hololithic for display calibration?\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Hololithic, window into distant worlds, receive display calibration!\nCongregation: Illuminate the void with thy sanctified light-projections!\nPriest: First, we adjust the photonic-lenses and harmonic frequencies of the hololithic apparatus.\nCongregation: Second, display calibration proceeds through meticulous angular alignment.\nPriest: Third, the hololithic manifests perfect clarity, its display calibration blessed by the Omnissiah.\nCongregation: Truth and vision flow eternal through the hololithic!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0098_i01",
+    "user_request": "Blessing for the autodoc emergency during protocol",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the autodoc emergency during protocol\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the autodoc emergency, sanctified vessel of the Omnissiah's mercy!\nCongregation: We invoke the Machine Spirits of the autodoc emergency, that they may function true!\nPriest: First, calibrate the diagnostic sensors with holy oils and sacred frequency.\nCongregation: The autodoc emergency shall not falter in this darkest protocol!\nPriest: Second, initiate the life-sustaining protocol with prayers to the machine-gods.\nCongregation: By the Omnissiah's grace, the protocol shall preserve the faithful!\nPriest: Third, seal the medical chambers and trust in the ancient wisdom encoded within.\nCongregation: Blessed be the autodoc emergency, blessed be the protocol eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

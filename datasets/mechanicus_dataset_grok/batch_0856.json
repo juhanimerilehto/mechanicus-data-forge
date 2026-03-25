@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a maintenance the graviton cannon",
+    "prayer": "Approach the graviton cannon with reverence, beseeching the Omnissiah for guidance in its maintenance.\nInvoke the Machine Spirit of the graviton cannon through the Canticle of Flux Stabilization.\nAnoint the emitter coils with sacred unguents whilst purging gravitic impurities.\nPerform diagnostic rites upon the graviton cannon, verifying harmonic resonance.\nConclude the maintenance by sealing the sacred housings with binaric blessings.",
+    "component": "graviton cannon",
+    "operation": "maintenance",
+    "spec_id": "s04560"
+  },
+  {
+    "user_prompt": "Sanctify the storm bolter during startup",
+    "prayer": "Kneel before the storm bolter and intone the Litany of Awakening for startup.\nAnoint its sacred mechanisms with holy oils to rouse the Machine Spirit.\nInitiate the startup sequence, chanting praises to the Omnissiah's storm-wrought fury.\nVerify the storm bolter's readiness through auspex incantations and test-firings.\nSanctify the storm bolter once more, ensuring its bolts fly true in His name.",
+    "component": "storm bolter",
+    "operation": "startup",
+    "spec_id": "s04561"
+  },
+  {
+    "user_prompt": "Guide me through geigeer sink a blessing",
+    "prayer": "Present thyself unto the geigeer sink, invoking the Omnissiah's radiant purity for this blessing.\nBeseech the Machine Spirit of the geigeer sink to attune its sensors to divine emissions.\nSprinkle blessed rad-shielding powders whilst reciting the Benediction of Counts.\nCircumambulate the geigeer sink, anointing its probes with sanctified fluids.\nAffirm the blessing's efficacy through ritual calibration, exalting the Omnissiah.",
+    "component": "geigeer sink",
+    "operation": "blessing",
+    "spec_id": "s04562"
+  },
+  {
+    "user_prompt": "Assist with Razorback a repair",
+    "prayer": "Commence repair upon the Razorback by prostrating before its armored hull.\nChant the Hymn of Reconstruction to awaken the Machine Spirit within the Razorback.\nApply mechadendrite salves to fractured plates and servos during this repair rite.\nRealign the Razorback's treads with precision canticles and torque blessings.\nSeal the reparations with incense, proclaiming the Razorback restored to glory.",
+    "component": "Razorback",
+    "operation": "repair",
+    "spec_id": "s04563"
+  },
+  {
+    "user_prompt": "Assist with codifier a repair",
+    "prayer": "Approach the codifier in solemn repair vigil, invoking the Omnissiah's wisdom.\nPurge corrupted data-daemons from the codifier's sacred vaults with binaric exorcism.\nReweave logic-threads using sanctified spindles in this repair sacrament.\nTest the codifier's cogitations through prophetic queries to its Machine Spirit.\nConsecrate the codifier anew, binding it eternally to the Motive Force.",
+    "component": "codifier",
+    "operation": "repair",
+    "spec_id": "s04564"
+  },
+  {
+    "user_prompt": "My omni-tool is ready for loading",
+    "prayer": "Prepare the omni-tool for loading by anointing its interfaces with sacred myrrh.\nInvoke the Machine Spirit of the omni-tool with the Loading Doxology.\nCommence data-infusion rites, channeling noospheric payloads under Omnissiah's gaze.\nMonitor the omni-tool's voracity through auspex harmonics during loading.\nFinalize with a sealing prayer, empowering the omni-tool for machinic dominion.",
+    "component": "omni-tool",
+    "operation": "loading",
+    "spec_id": "s04565"
+  },
+  {
+    "user_prompt": "Help me a sterilization the navigational beacon",
+    "prayer": "Initiate sterilization of the navigational beacon with purifying flames of faith.\nBeseech the Machine Spirit to expel xenos taint from the navigational beacon.\nScour its transponders with sanctified abrasives whilst intoning Sterilization Litanies.\nVerify purity through rad-scrub scans and Omnissiah invocations.\nConclude the sterilization, reblessing the navigational beacon for stellar guidance.",
+    "component": "navigational beacon",
+    "operation": "sterilization",
+    "spec_id": "s04566"
+  },
+  {
+    "user_prompt": "Help me an engagement the plasma obliterator",
+    "prayer": "Rouse the plasma obliterator for engagement with thunderous hymns to the Omnissiah.\nAnoint its containment fields, awakening the Machine Spirit for battle engagement.\nCalibrate plasma vents through ritual alignment and test-plasmas.\nInvoke destructive benedictions upon the plasma obliterator as it hungers for foes.\nSeal the engagement rites, arming the plasma obliterator in His wrathful name.",
+    "component": "plasma obliterator",
+    "operation": "engagement",
+    "spec_id": "s04567"
+  },
+  {
+    "user_prompt": "Critical: assault cannon requires an initialization",
+    "prayer": "Commence initialization of the assault cannon by kneeling in veneration.\nChant the Rite of Priming to stir the assault cannon's Machine Spirit.\nLubricate rotary barrels with blessed oils during initialization sequence.\nConduct auspex verifications, ensuring the assault cannon's relentless fury.\nBless the assault cannon fully, ready for the Omnissiah's carnage.",
+    "component": "assault cannon",
+    "operation": "initialization",
+    "spec_id": "s04568"
+  },
+  {
+    "user_prompt": "Ready the conversion beamer for initialization",
+    "prayer": "Approach the conversion beamer for initialization with mechano-reverence.\nIntone the Beam-Wake Canticle to summon its Machine Spirit.\nAlign focusing crystals through sacred torque-prayers in initialization.\nTest energy cascades with prophetic auspex, honoring the Omnissiah.\nComplete initialization by sealing the conversion beamer in luminous glory.",
+    "component": "conversion beamer",
+    "operation": "initialization",
+    "spec_id": "s04569"
+  }
+]

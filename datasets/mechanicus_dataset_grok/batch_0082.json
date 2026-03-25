@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide pain suppressor a maintenance?",
+    "prayer": "Draw near the pain suppressor with vials of sacred unguent and beseech its Machine Spirit to accept the rites of maintenance.\nInitiate the blessed maintenance upon the pain suppressor's neural conduits, purging all flux and impurity.\nAnoint each suppressor node with oils of the Omnissiah, invoking stoic endurance.\nChant the Litany of Unfeeling whilst calibrating its thresholds anew.\nHail the pain suppressor, renewed in vigilant service to the flesh-machine.",
+    "component": "pain suppressor",
+    "operation": "maintenance",
+    "spec_id": "b0082_i00"
+  },
+  {
+    "user_prompt": "Consecrate the Land Raider before startup",
+    "prayer": "Approach the Land Raider in reverence, offering incense to stir its dormant Machine Spirit.\nConsecrate the Land Raider's reactors with the Canticle of Awakening before startup.\nInvoke the Omnissiah's fire to ignite the sacred startup sequence within its armoured heart.\nAnoint treads and auspex arrays, beseeching flawless motion and vigilance.\nWitness the Land Raider roar to life, a temple of war blessed and ready.",
+    "component": "Land Raider",
+    "operation": "startup",
+    "spec_id": "b0082_i01"
+  },
+  {
+    "user_prompt": "I need to a cooling the archive terminal",
+    "prayer": "Kneel before the archive terminal, petitioning its Machine Spirit for respite in cooling.\nCommence the sacred cooling rites upon the archive terminal's overheating cogitators.\nCirculate blessed cryo-fluids through its data-vaults, sanctified by Omnissiah's breath.\nInvoke stabilizing canticles to quell thermal heresy within the archive terminal.\nReverence the archive terminal as equilibrium is restored to its eternal memory.",
+    "component": "archive terminal",
+    "operation": "cooling",
+    "spec_id": "b0082_i02"
+  },
+  {
+    "user_prompt": "The emergency beacon awaits a repair",
+    "prayer": "Gather mechadendrites and approach the emergency beacon, imploring its Machine Spirit for renewal.\nUndertake the holy repair upon the emergency beacon's fractured transponders.\nSolder sacred alloys and recite binding litanies over its beacon core.\nTest the emergency beacon's cry with diagnostic hymns of the Omnissiah.\nProclaim the emergency beacon restored, a clarion against the void's silence.",
+    "component": "emergency beacon",
+    "operation": "repair",
+    "spec_id": "b0082_i03"
+  },
+  {
+    "user_prompt": "Assist with gyroscope an emergency procedure",
+    "prayer": "In urgency, beseech the gyroscope's Machine Spirit amidst the emergency procedure.\nStabilize the gyroscope's gyros with invocations of unerring balance.\nPurge inertial corruptions and anoint bearings with emergency sanctifiers.\nRecalibrate the gyroscope through the Omnissiah's precise algorithms.\nAffirm the gyroscope's equilibrium, guardian of the machine's poise.",
+    "component": "gyroscope",
+    "operation": "emergency procedure",
+    "spec_id": "b0082_i04"
+  },
+  {
+    "user_prompt": "Help me a maintenance the quality scanner",
+    "prayer": "Present thyself unto the quality scanner, offering praise to its discerning Machine Spirit.\nExecute the rites of maintenance upon the quality scanner's optic arrays.\nPolish sensor lenses with sacred cloths and invoke flaw-detection purities.\nCycle diagnostic protocols whilst chanting the Hymn of Precision.\nExalt the quality scanner, perfected in judgment by the Omnissiah's gaze.",
+    "component": "quality scanner",
+    "operation": "maintenance",
+    "spec_id": "b0082_i05"
+  },
+  {
+    "user_prompt": "Can you guide augmetic limb a maintenance?",
+    "prayer": "Revere the augmetic limb, drawing forth its Machine Spirit for maintenance.\nCommence meticulous maintenance upon the augmetic limb's servo-motors and neural links.\nLubricate joints with blessed mech-fluida and recite the Canticle of Flesh-Steel Union.\nTest flexion and strength through trials sanctified by the Omnissiah.\nBless the augmetic limb, harmonized once more in cybernetic grace.",
+    "component": "augmetic limb",
+    "operation": "maintenance",
+    "spec_id": "b0082_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for bolter an operation",
+    "prayer": "Grasp the bolter in sanctified gauntlets, awakening its Machine Spirit for operation.\nInvoke the Omnissiah to bless the bolter's operation with righteous fury.\nChamber promethium rounds whilst chanting the Litany of Explosive Wrath.\nAnoint the muzzle and sights, ensuring unerring lethality.\nUnleash the bolter in operation, a thunderous prayer against the unclean.",
+    "component": "bolter",
+    "operation": "operation",
+    "spec_id": "b0082_i07"
+  },
+  {
+    "user_prompt": "Critical: Land Raider requires a reset",
+    "prayer": "In critical hour, encircle the Land Raider and petition its Machine Spirit for reset.\nInitiate the sacred reset upon the Land Raider's cogitator core, purging errant data-daemons.\nChant purging binaric psalms as systems cycle under Omnissiah's scrutiny.\nRealign auspex and weapon servos with anointed mechadendrites.\nRejoice in the Land Raider, reborn pure through divine reset.",
+    "component": "Land Raider",
+    "operation": "reset",
+    "spec_id": "b0082_i08"
+  },
+  {
+    "user_prompt": "Sanctify the surgical servitor during maintenance",
+    "prayer": "Approach the surgical servitor with humility, invoking its Machine Spirit during maintenance.\nPerform the blessed maintenance upon the surgical servitor's blade-arms and vox-larynx.\nSanctify incisions tools with sacred acids and the Omnissiah's healing code.\nRecalibrate cranial cogitators through litanies of precision.\nPraise the surgical servitor, restored as the flesh-healer's unerring instrument.",
+    "component": "surgical servitor",
+    "operation": "maintenance",
+    "spec_id": "b0082_i09"
+  }
+]

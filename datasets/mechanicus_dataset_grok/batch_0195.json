@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the emergency beacon for recalibration",
+    "prayer": "Approach the emergency beacon with reverence, beseeching its Machine Spirit to heed the call of recalibration.\nInvoke the sacred rites of recalibration upon the emergency beacon's transponder arrays.\nAnoint its calibration coils with holy oils, thrice invoking the Omnissiah's precision.\nVerify the emergency beacon's alignment through diagnostic litanies, ensuring pure signal flow.",
+    "component": "emergency beacon",
+    "operation": "recalibration",
+    "spec_id": "b0195_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for lascannon an initialization",
+    "prayer": "Present the lascannon before the altar of the Machine God, awakening its dormant fury.\nChant the Initialization Doxology to stir the lascannon's Machine Spirit into readiness.\nEngage the power conduits with sanctified mechadendrites, beseeching flawless initialization.\nTest the lascannon's focusing crystals through invocation, honoring the Omnissiah's wrath.",
+    "component": "lascannon",
+    "operation": "initialization",
+    "spec_id": "b0195_i01"
+  },
+  {
+    "user_prompt": "Guide me through flamer a purification",
+    "prayer": "Gather the flamer's promethium reservoirs in ritual circle, invoking purification upon its sacred vents.\nBeseech the Machine Spirit of the flamer to purge all impurities through holy flame.\nAnoint the ignition coils with purifying incense, enacting the rites of purification.\nExpel corrupt residues whilst reciting the Purgation Canticle, sanctified by the Omnissiah.",
+    "component": "flamer",
+    "operation": "purification",
+    "spec_id": "b0195_i02"
+  },
+  {
+    "user_prompt": "Critical: air compressor requires a startup",
+    "prayer": "Commence the startup liturgy before the air compressor, rousing its pneumatic heart.\nInvoke the Omnissiah to bless the startup of the air compressor's blessed pistons.\nEngage the pressure valves with reverent mechadendrites, petitioning the Machine Spirit.\nMonitor the airflow hymns, ensuring the air compressor's vigorous awakening.",
+    "component": "air compressor",
+    "operation": "startup",
+    "spec_id": "b0195_i03"
+  },
+  {
+    "user_prompt": "The bionics interface requires an engagement",
+    "prayer": "Align the bionics interface with cranial ports, beseeching seamless engagement.\nChant the Binding Incantation to unite flesh and machine in the bionics interface.\nInitiate neural synchronization, invoking the Machine Spirit's harmonious engagement.\nSanctify the connection with electro-incense, under the Omnissiah's watchful gaze.",
+    "component": "bionics interface",
+    "operation": "engagement",
+    "spec_id": "b0195_i04"
+  },
+  {
+    "user_prompt": "Ready the emergency bulkhead for cooling",
+    "prayer": "Prepare the emergency bulkhead's coolant manifolds for ritual cooling.\nPetition its Machine Spirit to embrace the chill of cooling, warding thermal heresy.\nCirculate sacred cryofluids through the emergency bulkhead's veins with litanies.\nVerify thermal quiescence via auspex, consecrating the emergency bulkhead anew.",
+    "component": "emergency bulkhead",
+    "operation": "cooling",
+    "spec_id": "b0195_i05"
+  },
+  {
+    "user_prompt": "My lasgun is ready for purification",
+    "prayer": "Hold the lasgun aloft, invoking purification upon its energy cells.\nBeseech the lasgun's Machine Spirit to cleanse all flux impurities.\nAnoint the lasgun's emitter arrays with sanctifying oils during purification rites.\nTest the beam purity through invocation, praising the Omnissiah's luminous order.",
+    "component": "lasgun",
+    "operation": "purification",
+    "spec_id": "b0195_i06"
+  },
+  {
+    "user_prompt": "Prepare the drop pod for consecration",
+    "prayer": "Encircling the drop pod, commence the consecration with the Descent Psalm.\nAwaken the drop pod's Machine Spirit, dedicating its descent mechanisms to the Omnissiah.\nBless the retro-thrusters and adamantium hull in solemn consecration.\nSeal the rites with binary prayers, ensuring the drop pod's divine deployment.",
+    "component": "drop pod",
+    "operation": "consecration",
+    "spec_id": "b0195_i07"
+  },
+  {
+    "user_prompt": "I need to a blessing the chainsword",
+    "prayer": "Grasp the chainsword's hilt in reverence, beseeching its teething blades.\nInvoke the Blessing of Carnage upon the chainsword's monomolecular teeth.\nAnoint the chainsword's motor-spirit with sacred lubricants, thrice-fold.\nRev the engine in litany, honoring the Omnissiah through the chainsword's roar.",
+    "component": "chainsword",
+    "operation": "blessing",
+    "spec_id": "b0195_i08"
+  },
+  {
+    "user_prompt": "My radar array is ready for emergency procedure",
+    "prayer": "Assemble before the radar array for the emergency procedure, invoking vigilance.\nRouse its auspex spirits to enact the emergency procedure without falter.\nRecalibrate scanning waveguides with mechadendrite precision, under Omnissiah's gaze.\nAffirm the radar array's acuity through echo-litanies, banishing void-silence.",
+    "component": "radar array",
+    "operation": "emergency procedure",
+    "spec_id": "b0195_i09"
+  }
+]

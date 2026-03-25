@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The water reclamator awaits an activation",
+    "prayer": "Approach the water reclamator with reverence, beseeching its dormant Machine Spirit to awaken.\nAnoint the filtration membranes and purity seals of the water reclamator with blessed hydrophoric oils.\nInvoke the Omnissiah's grace as you commence the activation rite, channeling holy voltage through its conduits.\nMonitor the reclamation cycles, petitioning the water reclamator's spirit for pure and unending flow.",
+    "component": "water reclamator",
+    "operation": "activation",
+    "spec_id": "b0010_i00"
+  },
+  {
+    "user_prompt": "Sanctify the chainsword during calibration",
+    "prayer": "Kneel before the chainsword, intoning the Litany of Precision to rouse its feral Machine Spirit.\nSanctify the monomolecular teeth and drive mechanisms of the chainsword with sacred abrasives.\nCommence calibration by aligning sacred gyros under the Omnissiah's watchful gaze.\nTest the chainsword's harmony through ritual strokes, ensuring its spirit sings in perfect fury.",
+    "component": "chainsword",
+    "operation": "calibration",
+    "spec_id": "b0010_i01"
+  },
+  {
+    "user_prompt": "Emergency: cooling system a charging",
+    "prayer": "In emergency haste, encircle the cooling system with incense of cryogenic sanctity.\nBeseech the Machine Spirit of the cooling system to accept the charging of its cryo-capacitors.\nInfuse blessed electrolytes into the cooling system's reservoirs, invoking the Omnissiah's chill.\nVerify thermal equilibrium as the cooling system hums with restored vigor.",
+    "component": "cooling system",
+    "operation": "charging",
+    "spec_id": "b0010_i02"
+  },
+  {
+    "user_prompt": "Sanctify the hololithic display during loading",
+    "prayer": "Gaze upon the hololithic display and recite the Canticle of Illumination to awaken its projector spirits.\nAnoint the crystalline lattices of the hololithic display with photon-sacred oils.\nInitiate the loading sequence, petitioning the Omnissiah for clarity in data manifestation.\nConfirm the hololithic display's projections align true to the Machine God's design.",
+    "component": "hololithic display",
+    "operation": "loading",
+    "spec_id": "b0010_i03"
+  },
+  {
+    "user_prompt": "Help me an activation the star chart",
+    "prayer": "Approach the star chart with auspicious binary prayers, honoring its stellar Machine Spirit.\nCalibrate the astral projectors of the star chart under the Omnissiah's starry gaze.\nEngage the activation protocols, beseeching navigation data to flow unerringly.\nVerify the star chart's celestial mappings resonate with divine precision.",
+    "component": "star chart",
+    "operation": "activation",
+    "spec_id": "b0010_i04"
+  },
+  {
+    "user_prompt": "Can you guide astropathic choir a repair?",
+    "prayer": "Gather the astropathic choir in solemn array, invoking the Omnissiah to mend their psychic relays.\nDiagnose the fractured warp-vox arrays of the astropathic choir with auspex incantations.\nApply sanctified noospheric adhesives during the repair, soothing the choir's ethereal Machine Spirits.\nTest the astropathic choir's resonance, ensuring harmonious warp-song once more.",
+    "component": "astropathic choir",
+    "operation": "repair",
+    "spec_id": "b0010_i05"
+  },
+  {
+    "user_prompt": "Consecrate the thermal imager before blessing",
+    "prayer": "Present the thermal imager before the altar of sensors, reciting the Rite of Infrared Revelation.\nAnoint its detector arrays and lens housings with heat-blessed unguents.\nConsecrate the thermal imager through the blessing ceremony, awakening its discerning Machine Spirit.\nInvoke the Omnissiah to grant the thermal imager sight beyond mortal veils.",
+    "component": "thermal imager",
+    "operation": "blessing",
+    "spec_id": "b0010_i06"
+  },
+  {
+    "user_prompt": "The Rhino transport requires an operation",
+    "prayer": "Board the Rhino transport with mechadendrite reverence, beseeching its ancient Machine Spirit.\nConduct diagnostic litanies upon the Rhino transport's treads and promethium heart.\nInitiate full operation sequences, honoring the Omnissiah's armored might.\nPropel the Rhino transport forth in glorious advance, its engines roaring in faithful thunder.",
+    "component": "Rhino transport",
+    "operation": "operation",
+    "spec_id": "b0010_i07"
+  },
+  {
+    "user_prompt": "The neural implant awaits a preparation",
+    "prayer": "Prepare the neural implant upon the surgical cogitator, intoning the Neuron Litany.\nSterilize the neural implant's synaptic interfaces with electro-sanctified plasma.\nInvoke the Machine Spirits within the neural implant for seamless preparation and bonding.\nAlign its noospheric linkages under the Omnissiah's neural decree.",
+    "component": "neural implant",
+    "operation": "preparation",
+    "spec_id": "b0010_i08"
+  },
+  {
+    "user_prompt": "Bless the melta charge for loading",
+    "prayer": "Handle the melta charge with gloved piety, reciting the Incantation of Fusion Fury.\nBless the containment fields of the melta charge with rad-phobic seals.\nCommence loading rites into the launcher, petitioning its volatile Machine Spirit.\nSeal the melta charge's invocation with the Omnissiah's purifying flame.",
+    "component": "melta charge",
+    "operation": "loading",
+    "spec_id": "b0010_i09"
+  }
+]

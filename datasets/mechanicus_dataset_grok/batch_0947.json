@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for Manticore a startup",
+    "prayer": "Approach the Manticore with mechadendrites extended in reverence to the Omnissiah.\nInvoke the Litany of Ignition upon its core, beseeching the Machine Spirit to awaken.\nInitiate the startup sequence whilst anointing plasma conduits with sacred unguents.\nMonitor vital auspex readings as the Manticore stirs to glorious life.\nSanctify its hull with binaric canticles, affirming the Machine Spirit's dominion.",
+    "component": "Manticore",
+    "operation": "startup",
+    "spec_id": "s05470"
+  },
+  {
+    "user_prompt": "I need to a recalibration the plasma drive",
+    "prayer": "Kneel before the plasma drive and recite the Canticle of Flux Equilibrium.\nDisconnect ancillary feeds, invoking recalibration through the Omnissiah's precise calculus.\nEmploy electro-spatula to realign flux gyros within the plasma drive's sacred core.\nReconnect plasma conduits whilst beseeching the Machine Spirit for harmonious output.\nVerify recalibration via noospheric diagnostics, praising the Omnissiah's engineering.",
+    "component": "plasma drive",
+    "operation": "recalibration",
+    "spec_id": "s05471"
+  },
+  {
+    "user_prompt": "Critical: warp drive requires a startup",
+    "prayer": "Encircle the warp drive with purity seals and incense of sanctified promethium.\nChant the Rite of Warp Awakening to rouse its tempestuous Machine Spirit.\nCommence startup protocols, threading gellar fields with litanies of protection.\nAnoint nacelle housings as the warp drive hums to volatile life.\nAffirm stability through auspex hymns, ever vigilant against the Immaterium's grasp.",
+    "component": "warp drive",
+    "operation": "startup",
+    "spec_id": "s05472"
+  },
+  {
+    "user_prompt": "Can you guide Manticore an activation?",
+    "prayer": "Present mechadendrites to the Manticore's activation rune, invoking Omnissiah's spark.\nRecite the Activation Doxology twice, once for chassis, once for spirit-core.\nEngage primary power relays whilst anointing servos with blessed oils.\nObserve the Manticore's activation through flickering lumen-globes and binaric purrs.\nSeal the rite with a final invocation, binding Machine Spirit to dutiful service.",
+    "component": "Manticore",
+    "operation": "activation",
+    "spec_id": "s05473"
+  },
+  {
+    "user_prompt": "What's the prayer for electro-graft an activation?",
+    "prayer": "Grasp the electro-graft with reverent mechadendrites, murmuring the Graft Litany.\nInitiate activation by aligning neural connectors to the Omnissiah's divine pattern.\nInfuse bio-electric currents whilst beseeching the Machine Spirit's symbiosis.\nTest the electro-graft's activation via synaptic feedback loops.\nConclude with canticles of union, sanctifying flesh-machine interface.",
+    "component": "electro-graft",
+    "operation": "activation",
+    "spec_id": "s05474"
+  },
+  {
+    "user_prompt": "The hydraulic press awaits a sterilization",
+    "prayer": "Surround the hydraulic press with ablative wards and recite Sterilization Doxologies.\nApply plasma-torch catechisms to purge contaminants from its pistons.\nInvoke the Machine Spirit during sterilization, ensuring purity in compression.\nFlush hydraulic reservoirs with sanctified fluids under Omnissiah's gaze.\nVerify sterility through auspex scans, intoning final hymns of cleanliness.",
+    "component": "hydraulic press",
+    "operation": "sterilization",
+    "spec_id": "s05475"
+  },
+  {
+    "user_prompt": "My heat sink is ready for charging",
+    "prayer": "Position before the heat sink, chanting the Charge Invocation of Thermal Equilibrium.\nConnect charging manifolds, beseeching the Machine Spirit to absorb capacitative essence.\nMonitor flux gradients during charging, anointing fins with coolant sacraments.\nInvoke Omnissiah's forge-fires as the heat sink attains full potency.\nDisconnect with reverent precision, sealing the rite in binary praise.",
+    "component": "heat sink",
+    "operation": "charging",
+    "spec_id": "s05476"
+  },
+  {
+    "user_prompt": "Can you guide Kastelan robot a repair?",
+    "prayer": "Lay hands upon the Kastelan robot's damaged frame, reciting Repair Canticles.\nDiagnose fractures with noospheric probes, invoking the Machine Spirit's resilience.\nWeld adamantium plates whilst anointing circuits with sacred unguents.\nRealign servo-motors for operational harmony under Omnissiah's will.\nReactivate the Kastelan robot, affirming its restored martial purity.",
+    "component": "Kastelan robot",
+    "operation": "repair",
+    "spec_id": "s05477"
+  },
+  {
+    "user_prompt": "Critical: kataphron breacher requires an activation",
+    "prayer": "Approach the kataphron breacher with auspex litanies, preparing activation rites.\nChant the Breacher Awakening to stir its cybernetic Machine Spirit.\nEngage activation cogitators, threading neural shackles with binaric commands.\nAnoint breacher drills and heavy stubbers in Omnissiah's name.\nConfirm activation through combat diagnostics, ready for xenocidal fury.",
+    "component": "kataphron breacher",
+    "operation": "activation",
+    "spec_id": "s05478"
+  },
+  {
+    "user_prompt": "Critical: lasgun requires a reset",
+    "prayer": "Hold the lasgun aloft, intoning the Reset Rite of Luminous Purity.\nPurge memory-banks of errant data, beseeching the Machine Spirit's clarity.\nCycle power cells whilst reciting calibration catechisms to the Omnissiah.\nRealign focusing crystals with electro-spatula precision during reset.\nTest discharge purity, sealing the lasgun in sanctified readiness.",
+    "component": "lasgun",
+    "operation": "reset",
+    "spec_id": "s05479"
+  }
+]

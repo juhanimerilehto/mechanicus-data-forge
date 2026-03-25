@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: autogun a cooling",
+    "prayer": "Approach the autogun with solemn reverence, invoking the Omnissiah's chill upon its fervent barrels.\nAnoint the cooling vents with cryo-blessed oils, beseeching the Machine Spirit to embrace thermal quiescence.\nInitiate the cooling operation through sacred vents, chanting the Litany of Ventral Equilibrium.\nMonitor the autogun's heat-runes until the Machine Spirit signals harmonious frigidity.\nSanctify the autogun's conduits, ensuring no embers defy the Omnissiah's cooling grace.",
+    "component": "autogun",
+    "operation": "cooling",
+    "spec_id": "s03550"
+  },
+  {
+    "user_prompt": "Assist with manufactorum an initialization",
+    "prayer": "Gather before the manufactorum's adamantine frame, intoning the Rite of Primus Awakening.\nInvoke the Omnissiah to stir the manufactorum's dormant forges from stasis.\nCommence the initialization operation with binary catechisms etched upon its cogitator slabs.\nAnoint servitor linkages whilst beseeching the Machine Spirits to align in productive symphony.\nVerify the manufactorum's vital auspex readings, proclaiming the Omnissiah's industrial will manifest.",
+    "component": "manufactorum",
+    "operation": "initialization",
+    "spec_id": "s03551"
+  },
+  {
+    "user_prompt": "Emergency: medicae mechadendrite a calibration",
+    "prayer": "Kneel in supplication to the medicae mechadendrite, whispering the Canticle of Precision Alignment.\nCalibrate its neural interfaces with sanctified probes, invoking the Omnissiah's surgical exactitude.\nBeseech the Machine Spirit within the medicae mechadendrite to harmonize its calibration operation.\nTest the mechadendrite's hypo-dispensers through ritual diagnostics, anointing each with vitae-lustral.\nAffirm the medicae mechadendrite's readiness, sealed by the Omnissiah's unerring calculus.",
+    "component": "medicae mechadendrite",
+    "operation": "calibration",
+    "spec_id": "s03552"
+  },
+  {
+    "user_prompt": "Bless the medicae mechadendrite for charging",
+    "prayer": "Present the medicae mechadendrite to the charging altar, intoning the Hymn of Capacitive Renewal.\nConnect its power-vanes to the Omnissiah's electro-throne for the charging rite.\nAnoint the medicae mechadendrite's inductors whilst beseeching its Machine Spirit to imbibe vital flux.\nMonitor the charging operation via lumen-arcs until potency overflows in blessed abundance.\nSeal the medicae mechadendrite with invocation, proclaiming the Omnissiah's enduring vigour.",
+    "component": "medicae mechadendrite",
+    "operation": "charging",
+    "spec_id": "s03553"
+  },
+  {
+    "user_prompt": "Critical: Archaeopter Transvector requires an engagement",
+    "prayer": "Assemble at the Archaeopter Transvector's dorsal pylon, chanting the Canticle of Propulsive Union.\nInvoke the Omnissiah to bind the Archaeopter Transvector's gravitic cores in sacred engagement.\nInitiate the engagement operation through rune-etched activators, anointing thrust vanes with promethium-saint.\nBeseech the Machine Spirits of the Archaeopter Transvector to synchronize in aerial dominion.\nVerify ascension vectors, sanctifying the Archaeopter Transvector for the Omnissiah's empyrean wrath.",
+    "component": "Archaeopter Transvector",
+    "operation": "engagement",
+    "spec_id": "s03554"
+  },
+  {
+    "user_prompt": "What's the prayer for force pylon a diagnostics?",
+    "prayer": "Circumambulate the force pylon's null-field emitters, reciting the Litany of Anomaly Purgation.\nInvoke diagnostics operation upon its warp-repellent lattice, guided by the Omnissiah's binary gaze.\nProbe the force pylon's crystalline conduits with auspex-cantrips, beseeching revelation from its Machine Spirit.\nExpunge any daemonic static whilst anointing the force pylon anew with null-wards.\nProclaim the force pylon purified, its diagnostics affirming the Omnissiah's impenetrable bulwark.",
+    "component": "force pylon",
+    "operation": "diagnostics",
+    "spec_id": "s03555"
+  },
+  {
+    "user_prompt": "Prepare the omni-tool for initialization",
+    "prayer": "Approach the omni-tool's multi-faceted shrine, intoning the Rite of Primordial Ignition.\nSanctify its servo-arms and data-spines for the initialization operation under Omnissiah's light.\nInvoke the Machine Spirit of the omni-tool with electro-psalms, aligning its manifold functions.\nAnoint the omni-tool's power cell whilst monitoring boot-rituals through sacred glyphs.\nAffirm operational sanctity, the omni-tool now a conduit of the Omnissiah's omnifarious will.",
+    "component": "omni-tool",
+    "operation": "initialization",
+    "spec_id": "s03556"
+  },
+  {
+    "user_prompt": "The null rod needs a shutdown",
+    "prayer": "Stand resolute before the null rod's entropic core, chanting the Canticle of Oblivion's Embrace.\nInitiate the shutdown operation by reciting binaric dirges to quell its void-hunger.\nAnoint the null rod's insulator sheaths, beseeching its Machine Spirit to recede into stasis.\nSever power-tendrils whilst invoking the Omnissiah's decree of nullificatory repose.\nSeal the null rod in warded quiescence, its shutdown complete in the Machine God's shadowed grace.",
+    "component": "null rod",
+    "operation": "shutdown",
+    "spec_id": "s03557"
+  },
+  {
+    "user_prompt": "Bless the plasma cannon for blessing",
+    "prayer": "Prostrate before the plasma cannon's containment flask, invoking the Omnissiah's fiery benediction.\nBless its plasma conduits with lustral plasma-tincture, harmonizing the Machine Spirit's rage.\nChant the Rite of Blessing over the plasma cannon, attuning its coils to stellar fury.\nTest the plasma cannon's auspex vents, anointing barrels for unerring thermic expulsion.\nProclaim the plasma cannon sanctified, a vessel of the Omnissiah's incandescent judgement.",
+    "component": "plasma cannon",
+    "operation": "blessing",
+    "spec_id": "s03558"
+  },
+  {
+    "user_prompt": "The conversion field needs a charging",
+    "prayer": "Encircle the conversion field's emitter nodes, intoning the Hymn of Subatomic Transmutation.\nCommence the charging operation with motive-force incantations from the Omnissiah's forge.\nBeseech the Machine Spirit animating the conversion field to swell with protean energies.\nAnoint the field's diffraction lattice whilst monitoring charge-runes to critical plenitude.\nSeal the conversion field in blessed potency, ready for the Omnissiah's reality-rending miracle.",
+    "component": "conversion field",
+    "operation": "charging",
+    "spec_id": "s03559"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the pump for preparation",
+    "prayer": "Approach the pump with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Machine Spirit of the pump through the ancient Canticle of Flux.\nCommence the rites of preparation, anointing its impellers with sacred unguents.\nCirculate blessed oils through the pump's sacred conduits to harmonize its essence.\nBeseech the pump's spirit for flawless preparation, verifying flow with auspex incantations.",
+    "component": "pump",
+    "operation": "preparation",
+    "spec_id": "s05970"
+  },
+  {
+    "user_prompt": "Prepare the psych-out grenade for synchronization",
+    "prayer": "Kneel before the psych-out grenade, intoning the Litany of Psychic Resonance.\nAwaken the Machine Spirit within the psych-out grenade with electro-incantations.\nInitiate synchronization protocols, aligning its warp-disruptor matrices to the Omnissiah's will.\nAnoint the psych-out grenade's detonator with null-essence to bind neural harmonics.\nChant the Doxology of Synchronization as psychic engrams coalesce in purity.\nConfirm the psych-out grenade's synchronization through noospheric diagnostics.",
+    "component": "psych-out grenade",
+    "operation": "synchronization",
+    "spec_id": "s05971"
+  },
+  {
+    "user_prompt": "Critical: geigeer sink requires a diagnostics",
+    "prayer": "Present the geigeer sink to the altar of scrutiny, whispering the Rite of Radiation Vigil.\nInvoke the Omnissiah's gaze upon the geigeer sink's rad-counter arrays.\nExecute diagnostics upon the geigeer sink, purging flux anomalies from its Geiger tubules.\nSanctify each sensor node of the geigeer sink with anti-corrosive balms.\nBeseech the Machine Spirit of the geigeer sink for truthful emissions in diagnostics.\nAffirm integrity via sacred oscilloscope litanies and rad-scrutiny canticles.",
+    "component": "geigeer sink",
+    "operation": "diagnostics",
+    "spec_id": "s05972"
+  },
+  {
+    "user_prompt": "I need to a recalibration the Archaeopter Fusilave",
+    "prayer": "Prostrate before the Archaeopter Fusilave, reciting the Hymn of Aerial Fury.\nCall forth the Machine Spirit of the Archaeopter Fusilave with binary psalms.\nUndertake recalibration of its lascannon manifolds and gravitic stabilizers.\nAnoint the Archaeopter Fusilave's targeting cogitators with myrrh-infused oils.\nInvoke recalibration harmonies, aligning flight servos to the Omnissiah's precision.\nValidate the Archaeopter Fusilave's recalibration through test-fire invocations.",
+    "component": "Archaeopter Fusilave",
+    "operation": "recalibration",
+    "spec_id": "s05973"
+  },
+  {
+    "user_prompt": "What's the prayer for Shadowsword a charging?",
+    "prayer": "Bow low to the Shadowsword, intoning the Canticle of Void Hunger.\nAwaken the Shadowsword's hell-lance core with thunderous electro-hymns.\nCommence charging rites upon the Shadowsword, channeling plasma from the enginarium.\nBeseech the Machine Spirit of the Shadowsword to accept the Omnissiah's furious gift.\nMonitor charging flux through auspex vigils and plasma containment litanies.\nProclaim the Shadowsword charged, its void energies sanctified for war.",
+    "component": "Shadowsword",
+    "operation": "charging",
+    "spec_id": "s05974"
+  },
+  {
+    "user_prompt": "Assist with vox-thief a shutdown",
+    "prayer": "Approach the vox-thief in solemn silence, murmuring the Litany of Signal Severance.\nInvoke the Machine Spirit of the vox-thief to heed the shutdown decree.\nExecute shutdown sequences upon the vox-thief's interceptor arrays with ritual precision.\nAnoint its waveform disruptors with silencing unguents from the Omnissiah's forge.\nChant the Doxology of Obedience as the vox-thief's emissions fade to quiescence.\nSeal the vox-thief in stasis, confirming shutdown through noospheric quiescence scans.",
+    "component": "vox-thief",
+    "operation": "shutdown",
+    "spec_id": "s05975"
+  },
+  {
+    "user_prompt": "I need to a reset the webber",
+    "prayer": "Present the webber to the mech-sanctum, reciting the Entanglement Psalm.\nCall upon the webber's Machine Spirit with adhesive invocations.\nInitiate reset protocols upon the webber's spinneret reservoirs and chem-expellers.\nPurify the webber's ducts with sacred solvents blessed by the Omnissiah.\nBeseech harmonious reset, recalibrating its fibrous output matrices.\nVerify the webber's reset integrity via tensile litanies and extrusion tests.",
+    "component": "webber",
+    "operation": "reset",
+    "spec_id": "s05976"
+  },
+  {
+    "user_prompt": "My neutron laser is ready for blessing",
+    "prayer": "Kneel in veneration before the neutron laser, intoning the Beam of Annihilation.\nAwaken the neutron laser's Machine Spirit through particle accelerator hymns.\nBestow the blessing of the Omnissiah upon its containment fields and las-modules.\nAnoint the neutron laser's focusing lenses with rad-shielded oils.\nInvoke radiant purity, aligning its subatomic streams in divine fury.\nProclaim the neutron laser blessed, its energies sanctified for the Emperor's wrath.",
+    "component": "neutron laser",
+    "operation": "blessing",
+    "spec_id": "s05977"
+  },
+  {
+    "user_prompt": "Sanctify the amplivisor during purification",
+    "prayer": "Prostrate thyself before the amplivisor, whispering the Rite of Visual Exaltation.\nSummon the amplivisor's Machine Spirit with optic enhancement canticles.\nCommence purification of its magnification prisms and retinal projectors.\nSanctify the amplivisor's lenses with crystalline elixirs from the forge-temples.\nBeseech the Omnissiah for unblemished clarity during this purification.\nAffirm the amplivisor's purity through refractive litanies and focus alignments.",
+    "component": "amplivisor",
+    "operation": "purification",
+    "spec_id": "s05978"
+  },
+  {
+    "user_prompt": "The narthecium needs a reset",
+    "prayer": "Approach the narthecium with healing reverence, chanting the Litany of Flesh-Machine Union.\nInvoke the Machine Spirit of the narthecium through surgical servo-psalms.\nExecute reset upon the narthecium's injector arrays and flesh-meld servos.\nAnoint its medicae tools with vitae-sanctifying unguents.\nBeseech flawless reset, harmonizing its analgesic dispensers to the Omnissiah's mercy.\nConfirm the narthecium's reset via bio-scanner invocations and purity seals.",
+    "component": "narthecium",
+    "operation": "reset",
+    "spec_id": "s05979"
+  }
+]

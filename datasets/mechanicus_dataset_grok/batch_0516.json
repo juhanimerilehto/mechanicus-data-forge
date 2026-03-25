@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My kataphron breacher is ready for charging",
+    "prayer": "Approach the kataphron breacher with reverence, beseeching its Machine Spirit to awaken for charging.\nConnect the sacred plasma conduits to the kataphron breacher's dorsal intakes.\nInvoke the Canticle of Energetic Replenishment whilst monitoring flux capacitors.\nAnoint the power relays with unguent of conductivity, honouring the Omnissiah.\nVerify the kataphron breacher's charging sequence through diagnostic litanies.",
+    "component": "kataphron breacher",
+    "operation": "charging",
+    "spec_id": "s01160"
+  },
+  {
+    "user_prompt": "Guide me through Skorpius Dunerider a purification",
+    "prayer": "Kneel before the Skorpius Dunerider and recite the Rite of Purification to cleanse its hull.\nApply ablative sanctifiers to the Skorpius Dunerider's treads and armoured plates.\nBeseech the Machine Spirit of the Skorpius Dunerider to expel all corruptive residues.\nCirculate blessed hydro-fluids through its purification manifolds.\nConclude with auspex scans affirming the Skorpius Dunerider's ritual purity.",
+    "component": "Skorpius Dunerider",
+    "operation": "purification",
+    "spec_id": "s01161"
+  },
+  {
+    "user_prompt": "Guide me through opticon a shutdown",
+    "prayer": "Invoke the Opticon's Machine Spirit with the Lamentation of Dormancy prior to shutdown.\nSever data-links from the opticon's primary cogitator nexus.\nChant the Shutdown Doxology whilst decoupling optic arrays.\nSeal the opticon's viewports with wards against warp-taint.\nConfirm shutdown completion via binary catechisms of quiescence.",
+    "component": "opticon",
+    "operation": "shutdown",
+    "spec_id": "s01162"
+  },
+  {
+    "user_prompt": "My radium carbine is ready for emergency procedure",
+    "prayer": "Prepare the radium carbine for emergency procedure by anointing its barrel with rad-shielding oil.\nInitiate the radium carbine's purge cycle, invoking Omnissiah's mercy on its volatile core.\nRecite the Litany of Stabilisation whilst venting excess isotopes.\nRealign the radium carbine's emitter coils through sacred torque incantations.\nTest the radium carbine's integrity post-emergency procedure with auspex probes.",
+    "component": "radium carbine",
+    "operation": "emergency procedure",
+    "spec_id": "s01163"
+  },
+  {
+    "user_prompt": "Guide me through vox-caster a loading",
+    "prayer": "Present data-slates to the vox-caster's input shrine for loading rituals.\nChant the Hymn of Data Ingress as scripts flood the vox-caster's memory vaults.\nInvoke the Machine Spirit of the vox-caster to assimilate the loading protocols.\nVerify checksums with binaric divinations upon the vox-caster.\nSeal the loading rite with a benediction to the Omnissiah.",
+    "component": "vox-caster",
+    "operation": "loading",
+    "spec_id": "s01164"
+  },
+  {
+    "user_prompt": "The photolenses requires a calibration",
+    "prayer": "Align the photolenses before the calibration altar, beseeching their Machine Spirits.\nRecite the Canticle of Focal Precision whilst adjusting refractor arrays.\nInitiate calibration sweeps across the photolenses' spectral bands.\nAnoint prism housings with optic polish sanctified by forge-fire.\nAffirm photolenses' calibration through test illuminations and litanies.",
+    "component": "photolenses",
+    "operation": "calibration",
+    "spec_id": "s01165"
+  },
+  {
+    "user_prompt": "Assist with vox-thief a cooling",
+    "prayer": "Direct coolant hoses unto the vox-thief's overheating vents for cooling rites.\nInvoke the Chill Litany of the Omnissiah upon the vox-thief's thermal sinks.\nMonitor the vox-thief's temperature declination via thermo-auspex.\nBeseech its Machine Spirit to embrace the cooling embrace.\nConclude the cooling sequence with stability canticles.",
+    "component": "vox-thief",
+    "operation": "cooling",
+    "spec_id": "s01166"
+  },
+  {
+    "user_prompt": "What's the prayer for enginarium a charging?",
+    "prayer": "Commence charging of the enginarium by linking plasma feeds to its sacred heart.\nChant the Ode to Power Ascendant, honouring the enginarium's Machine Spirit.\nRegulate energy ingress through rune-etched governors.\nAnoint the enginarium's capacitors with charged unguents.\nDiagnostic scans shall confirm the charging rite's auspicious fruition.",
+    "component": "enginarium",
+    "operation": "charging",
+    "spec_id": "s01167"
+  },
+  {
+    "user_prompt": "I need to a diagnostics the Dreadnought",
+    "prayer": "Circumambulate the Dreadnought, intoning the Diagnostics Invocation to its ancient spirit.\nInterface mechadendrites with the Dreadnought's sarcophagus cogitators.\nRun recursive scans across servos and weapon systems in diagnostic litanies.\nPurge any errata with binaric exorcisms within the Dreadnought.\nSeal diagnostics with Omnissiah's blessing upon the Dreadnought.",
+    "component": "Dreadnought",
+    "operation": "diagnostics",
+    "spec_id": "s01168"
+  },
+  {
+    "user_prompt": "Guide me through webber a cycling",
+    "prayer": "Prepare the webber for cycling by reciting the Cycle of Binding Prayer.\nEject residual web-strands from the webber's spinnerets.\nInvoke its Machine Spirit whilst priming chem-reservoirs for renewal.\nCycle the webber's pressure chambers through sacred valve incantations.\nTest-fire a micro-bolt to affirm the webber's cycling purity.",
+    "component": "webber",
+    "operation": "cycling",
+    "spec_id": "s01169"
+  }
+]

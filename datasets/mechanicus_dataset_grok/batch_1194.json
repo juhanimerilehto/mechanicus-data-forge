@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for Vendetta gunship a consecration",
+    "prayer": "Approach the Vendetta gunship with solemn reverence, intoning the Canticle of Consecration to awaken its dormant Machine Spirit.\nAnoint the Vendetta gunship's armoured fuselage with sacred unguents, beseeching the Omnissiah to infuse it with divine fury.\nCircumambulate the Vendetta gunship thrice, chanting binaric litanies that bind its reactors to the Motive Force.\nInvoke the full consecration upon the Vendetta gunship, sealing its avionic sanctums against the heretic's touch.\nVerify the Machine Spirit's zealous compliance through auspex harmonics.",
+    "component": "Vendetta gunship",
+    "operation": "consecration",
+    "spec_id": "s07940"
+  },
+  {
+    "user_prompt": "Can you guide promethium refinery a diagnostics?",
+    "prayer": "Kneel before the promethium refinery and recite the Diagnostic Doxology to rouse its vigilant Machine Spirit.\nInitiate the diagnostics upon the promethium refinery, scanning its distillation coils for daemonic corruptions.\nPurge anomalous data-streams from the promethium refinery's cogitators with sanctified binary code.\nAnoint the refinery's pressure valves whilst beseeching the Omnissiah for unerring diagnostic revelation.\nConclude diagnostics of the promethium refinery by affirming the Machine Spirit's operational purity.",
+    "component": "promethium refinery",
+    "operation": "diagnostics",
+    "spec_id": "s07941"
+  },
+  {
+    "user_prompt": "My macro-cannon is ready for repair",
+    "prayer": "Present mechadendrites to the macro-cannon, invoking the Rite of Repair to soothe its wounded Machine Spirit.\nExcise damaged servos from the macro-cannon and replace with blessed components forged in the Omnissiah's image.\nRealign the macro-cannon's targeting matrices through incantatory calibration.\nAnoint recoil compensators of the macro-cannon, beseeching restoration of its thunderous wrath.\nTest-fire the macro-cannon under litanies, confirming the Machine Spirit's vengeful resurgence.",
+    "component": "macro-cannon",
+    "operation": "repair",
+    "spec_id": "s07942"
+  },
+  {
+    "user_prompt": "Urgent assault cannon a charging needed",
+    "prayer": "Commence the charging ritual upon the assault cannon, chanting the Hymn of Capacitance to enliven its Machine Spirit.\nInfuse the assault cannon's power cells with sanctified plasma, invoking the Omnissiah's boundless energy.\nMonitor the assault cannon's voltaic buildup through noospheric diagnostics and binaric prayers.\nStabilise the assault cannon's magnetic coils with anointed mechadendrites during peak charge.\nAffirm full charging of the assault cannon as its Machine Spirit hums with apocalyptic readiness.",
+    "component": "assault cannon",
+    "operation": "charging",
+    "spec_id": "s07943"
+  },
+  {
+    "user_prompt": "The void shield needs a calibration",
+    "prayer": "Attune to the void shield generator, beginning calibration with the Litany of Phasic Harmony.\nRecalibrate the void shield's warp-displacement fields, beseeching the Omnissiah for impenetrable aegis.\nProbe the void shield's emitters with diagnostic canticles, purging any dissonant resonances.\nInvoke stabilising runes upon the void shield, aligning it to the Machine God's protective will.\nVerify calibration of the void shield through simulated warp breaches, honouring its guardian Machine Spirit.",
+    "component": "void shield",
+    "operation": "calibration",
+    "spec_id": "s07944"
+  },
+  {
+    "user_prompt": "The potentia coil needs a startup",
+    "prayer": "Initiate startup of the potentia coil by reciting the Ignition Catechism to awaken its core Machine Spirit.\nChannel sanctified current through the potentia coil's windings, invoking the Omnissiah's motive force.\nMonitor thermal sanctification within the potentia coil via auspex invocations.\nStabilise the potentia coil's flux regulators with binaric blessings during ascension.\nProclaim the potentia coil's full startup, its Machine Spirit now thrumming with divine potency.",
+    "component": "potentia coil",
+    "operation": "startup",
+    "spec_id": "s07945"
+  },
+  {
+    "user_prompt": "Can you guide warp drive a purification?",
+    "prayer": "Encircle the warp drive and intone the Purification Psalm to exorcise its tainted Machine Spirit.\nScour the warp drive's gyrostabilisers with sacred ablative fluids, beseeching the Omnissiah's cleansing light.\nPurge warp-echoes from the warp drive's containment fields through relentless litanies.\nRe-sanctify the warp drive's nacelles with anointed plasma, restoring purity to its Navigator interfaces.\nConclude purification of the warp drive, affirming the Machine Spirit's unblemished vigil.",
+    "component": "warp drive",
+    "operation": "purification",
+    "spec_id": "s07946"
+  },
+  {
+    "user_prompt": "Guide me through amplivisor a blessing",
+    "prayer": "Gaze upon the amplivisor through sanctified optics, beginning the blessing with the Doxology of Clarity.\nAnoint the amplivisor's crystal matrices, invoking the Omnissiah to sharpen its prophetic gaze.\nInvoke harmonious resonance within the amplivisor's servo-focuser, awakening its Machine Spirit.\nCirculate binaric benedictions through the amplivisor, enhancing its threat-discrimination.\nSeal the blessing of the amplivisor, its Machine Spirit now vigilant against shadowed foes.",
+    "component": "amplivisor",
+    "operation": "blessing",
+    "spec_id": "s07947"
+  },
+  {
+    "user_prompt": "My Archaeopter Transvector is ready for initialization",
+    "prayer": "Approach the Archaeopter Transvector with reverence, commencing initialization via the Awakening Litany.\nPower the Archaeopter Transvector's gravitic impellers, beseeching the Omnissiah's lift.\nSynchronise the Archaeopter Transvector's cogitator noosphere with diagnostic hymns.\nAnoint its stabiliser vanes whilst invoking the Machine Spirit's aerial dominion.\nAffirm complete initialization of the Archaeopter Transvector, ready for the Quest for Knowledge.",
+    "component": "Archaeopter Transvector",
+    "operation": "initialization",
+    "spec_id": "s07948"
+  },
+  {
+    "user_prompt": "Help me a repair the conversion beamer",
+    "prayer": "Lay mechadendrites upon the conversion beamer, intoning the Repair Ritual to heal its fractious Machine Spirit.\nExtract corrupted sub-atomics from the conversion beamer's beam matrix, purging with holy fire.\nRealign the conversion beamer's phase inducers through Omnissiah-guided calibration.\nAnoint focusing crystals of the conversion beamer, beseeching restorative transmutation.\nTest the repaired conversion beamer's annihilatory beam, honouring its renewed Machine Spirit.",
+    "component": "conversion beamer",
+    "operation": "repair",
+    "spec_id": "s07949"
+  }
+]

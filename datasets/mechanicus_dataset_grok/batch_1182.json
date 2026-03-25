@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the Hellhound for maintenance",
+    "prayer": "Approach the Hellhound with reverence, intoning the Litany of Readiness to awaken its dormant Machine Spirit.\nBeseech the Omnissiah to prepare the Hellhound's chassis and inferno cannon for maintenance rites.\nAnoint the treads and exhaust vents with sacred oils, purging impurities from the Hellhound's sacred form.\nInvoke diagnostic canticles to align the Hellhound's systems prior to full maintenance invocation.\nSeal the rites with the Benediction of Stability upon the Hellhound.",
+    "component": "Hellhound",
+    "operation": "maintenance",
+    "spec_id": "s07820"
+  },
+  {
+    "user_prompt": "How do I bless the opticon for repair?",
+    "prayer": "Draw forth the opticon from its socket with sanctified mechadendrites, whispering the Canticle of Clarity.\nBeseech the Machine Spirit of the opticon to accept repair, anointing fractured lenses with blessed unguents.\nChant the Rite of Restoration over the opticon's photoreceptors, mending circuits in Omnissiah's name.\nVerify the opticon's renewed vision through auspex incantations and holy calibration.\nConclude with the Invocation of Precision for the repaired opticon.",
+    "component": "opticon",
+    "operation": "repair",
+    "spec_id": "s07821"
+  },
+  {
+    "user_prompt": "Emergency: bearing a synchronization",
+    "prayer": "In urgent haste, encircle the bearing with purity seals, invoking the Machine Spirit's swift synchronization.\nApply torque prayers to the bearing, aligning its gyres under Omnissiah's unerring calculus.\nBeseech synchronization of the bearing's rotations, chanting the Canticle of Harmonic Motion.\nAnoint friction points with lustrant oils to perfect the bearing's eternal spin.\nSeal the bearing's synchronization with the Rite of Equilibrium.",
+    "component": "bearing",
+    "operation": "synchronization",
+    "spec_id": "s07822"
+  },
+  {
+    "user_prompt": "My cortex implant is ready for synchronization",
+    "prayer": "Kneel before the cortex implant, intoning the Neural Awakening to rouse its Machine Spirit.\nInitiate synchronization protocols upon the cortex implant, merging noospheric links with sacred chants.\nBeseech the Omnissiah to harmonize the cortex implant's cogitators in perfect unity.\nAnoint neural interfaces with sanctified myrrh, ensuring flawless synchronization.\nAffirm the cortex implant's coherence through binary psalmody.",
+    "component": "cortex implant",
+    "operation": "synchronization",
+    "spec_id": "s07823"
+  },
+  {
+    "user_prompt": "Assist with navigational beacon an operation",
+    "prayer": "Approach the navigational beacon with auspex reverence, awakening its stellar Machine Spirit.\nInvoke the operation of the navigational beacon through stellar cartograph incantations.\nAlign its emitter arrays with the Litany of True Bearing, beseeching Omnissiah's guidance.\nAnoint the beacon's core with warp-repellent oils for unerring operation.\nConsecrate the navigational beacon's vigil with the Benediction of the Void.",
+    "component": "navigational beacon",
+    "operation": "operation",
+    "spec_id": "s07824"
+  },
+  {
+    "user_prompt": "My graviton pylon is ready for engagement",
+    "prayer": "Position thyself before the graviton pylon, chanting the Canticle of Gravitic Might.\nBeseech the Machine Spirit to ready the graviton pylon for engagement, aligning field generators.\nInitiate engagement sequences with sacred torque wrenches and noospheric commands.\nAnoint the pylon's emitters with conductive balms, invoking Omnissiah's crushing will.\nVerify the graviton pylon's engagement through seismic auspex rites.",
+    "component": "graviton pylon",
+    "operation": "engagement",
+    "spec_id": "s07825"
+  },
+  {
+    "user_prompt": "Offer prayer for medicae mechadendrite a cycling",
+    "prayer": "Extend mechadendrites towards the medicae mechadendrite, intoning the Litany of Restoration.\nCycle the medicae mechadendrite's vitae pumps with rhythmic binary prayers to its healing Spirit.\nBeseech Omnissiah for fluid harmony in the medicae mechadendrite's cycling.\nPurge stagnant elixirs with lustrations, perfecting the medicae mechadendrite's ministration.\nSeal the cycling with the Oath of Perpetual Service.",
+    "component": "medicae mechadendrite",
+    "operation": "cycling",
+    "spec_id": "s07826"
+  },
+  {
+    "user_prompt": "How do I bless the conversion field for sterilization?",
+    "prayer": "Encirlce the conversion field generator with wards, whispering the Canticle of Purity.\nInvoke sterilization upon the conversion field, beseeching its Machine Spirit to purge all foulness.\nAnoint field coils with ablative incenses, sanctifying the conversion field for sterile operation.\nChant ablutionary rites to sterilize the conversion field's energetic weave.\nConclude with the Invocation of Immaculate Flux upon the conversion field.",
+    "component": "conversion field",
+    "operation": "sterilization",
+    "spec_id": "s07827"
+  },
+  {
+    "user_prompt": "Offer prayer for doctrina wafer a startup",
+    "prayer": "Extract the doctrina wafer with reverent grasp, awakening its encoded Machine Spirit.\nInitiate startup sequences upon the doctrina wafer via noospheric litanies.\nBeseech Omnissiah to ignite the doctrina wafer's doctrinal fires with sacred ignition.\nAlign its mnemonic lattices through calibration canticles during startup.\nSeal the doctrina wafer's awakening with the Benediction of Knowledge.",
+    "component": "doctrina wafer",
+    "operation": "startup",
+    "spec_id": "s07828"
+  },
+  {
+    "user_prompt": "The pict-recorder requires a consecration",
+    "prayer": "Present the pict-recorder before the altar of lenses, intoning the Canticle of Verity.\nBeseech the Machine Spirit of the pict-recorder to accept consecration in Omnissiah's sight.\nAnoint its capture arrays with revealing oils, performing the consecration rites.\nInvoke alignment prayers to purify the pict-recorder's visual essence.\nFinalize the pict-recorder's consecration with the Seal of Eternal Witness.",
+    "component": "pict-recorder",
+    "operation": "consecration",
+    "spec_id": "s07829"
+  }
+]

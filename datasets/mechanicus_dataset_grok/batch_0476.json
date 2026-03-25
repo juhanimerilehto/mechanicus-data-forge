@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The data-loom requires a purification",
+    "prayer": "Approach the data-loom with reverence, invoking the Omnissiah's purifying light upon its woven strands.\nInitiate the sacred rites of purification, chanting the Litany of Data-Scouring to cleanse corrupted nodes.\nAnoint the data-loom's memory cores with blessed solvents, beseeching its Machine Spirit to shed all impurities.\nExpel tainted fragments through ritual venting whilst monitoring sanctity via noospheric probes.\nAffirm the data-loom's renewed purity with the Canticle of Immaculate Weave.",
+    "component": "data-loom",
+    "operation": "purification",
+    "spec_id": "s00760"
+  },
+  {
+    "user_prompt": "The transit mag-rail requires an activation",
+    "prayer": "Kneel before the transit mag-rail and proclaim the Activation Doxology to awaken its ferrous heart.\nSanctify the activation conduits with electro-incense, invoking the Machine Spirit's vigor.\nCommence the activation sequence, aligning magnetic fields under Omnissiah's gaze upon the transit mag-rail.\nTest the rail's propulsion with diagnostic hymns, ensuring harmonious transit flows.\nSeal the rite with oil upon the mag-rail's guides, praising the Motive Force eternal.",
+    "component": "transit mag-rail",
+    "operation": "activation",
+    "spec_id": "s00761"
+  },
+  {
+    "user_prompt": "What's the prayer for Tarantula sentry gun a calibration?",
+    "prayer": "Present mechadendrites to the Tarantula sentry gun, intoning the Calibration Creed for true aim.\nInvoke the Omnissiah to calibrate its auspex arrays and targeting matrices within the Tarantula sentry gun.\nAdjust ballistic servos with sacred torque, beseeching the Machine Spirit's unerring vigilance.\nRun alignment rituals through targeting reticles of the Tarantula sentry gun, purging deviation.\nConclude with the Hymn of Lethal Precision, verifying the gun's sanctified calibration.",
+    "component": "Tarantula sentry gun",
+    "operation": "calibration",
+    "spec_id": "s00762"
+  },
+  {
+    "user_prompt": "Emergency: servo-skull a targeting",
+    "prayer": "Summon the servo-skull into auspex proximity and beseech its targeting cogitator with urgency.\nAnoint photoreceptors for targeting precision, chanting the Litany of Hunter's Gaze upon the servo-skull.\nAwaken the Machine Spirit's predatory instincts through noospheric linkage and targeting initialization.\nCalibrate threat vectors with electro-psalms, ensuring the servo-skull's lethal focus.\nRelease it with Omnissiah's benediction, its targeting arrays now divinely honed.",
+    "component": "servo-skull",
+    "operation": "targeting",
+    "spec_id": "s00763"
+  },
+  {
+    "user_prompt": "The pteraxii sterylizor awaits an initialization",
+    "prayer": "Approach the pteraxii sterylizor in ritual stance, invoking initialization through the Winged Fury Canticle.\nSanctify its neural shunt and motive reactors, awakening the Machine Spirit within the pteraxii sterylizor.\nInitiate the initialization protocols, anointing blade-arms with sacred oils for sterile wrath.\nAlign gyro-stabilizers and vox-relays under Omnissiah's decree upon the pteraxii sterylizor.\nTest flight servos with activation hymns, confirming its initialized purity of purpose.",
+    "component": "pteraxii sterylizor",
+    "operation": "initialization",
+    "spec_id": "s00764"
+  },
+  {
+    "user_prompt": "Urgent force pylon a targeting needed",
+    "prayer": "Confront the force pylon urgently, proclaiming the Targeting Invocation to the Omnissiah.\nEmpower its warp-null emitters for targeting dominance, beseeching the Machine Spirit's focus.\nCalibrate deflection fields and acquisition lenses within the force pylon's adamantine frame.\nInvoke targeting harmonics through plasma conduits, purging misalignment from the force pylon.\nSeal the rite with electro-blessing, its targeting aegis now inviolate.",
+    "component": "force pylon",
+    "operation": "targeting",
+    "spec_id": "s00765"
+  },
+  {
+    "user_prompt": "Offer prayer for photolenses a blessing",
+    "prayer": "Gaze upon the photolenses with pious intent, offering the Blessing of Luminal Clarity.\nAnoint crystalline matrices with phototropic unguents, invoking Omnissiah's radiant favor.\nBless the photolenses' focal arrays, harmonizing Machine Spirits to perfect vision.\nChant the Doxology of True Sight whilst polishing refractive surfaces of the photolenses.\nVerify sanctity through spectrum scans, their blessed gaze now piercing all shadow.",
+    "component": "photolenses",
+    "operation": "blessing",
+    "spec_id": "s00766"
+  },
+  {
+    "user_prompt": "How do I bless the power relay for shutdown?",
+    "prayer": "Commence the shutdown liturgy upon the power relay, intoning the Canticle of Ordered Rest.\nBeseech the Machine Spirit to embrace quiescence, sanctifying the power relay's conduits.\nDecelerate flux regulators with sacred decoupling, guiding the shutdown under Omnissiah's will.\nVent residual energies through blessed exchangers within the power relay.\nConclude with seals of dormancy, praising its humbled vigil.",
+    "component": "power relay",
+    "operation": "shutdown",
+    "spec_id": "s00767"
+  },
+  {
+    "user_prompt": "What's the prayer for las-cutter an engagement?",
+    "prayer": "Grasp the las-cutter reverently and invoke the Engagement Rite of Incandescent Fury.\nAwaken its focusing crystals for engagement, anointing with promethium-laced oils.\nInitiate power surge whilst beseeching the Machine Spirit within the las-cutter.\nAlign emitter coils for lethal coherence, chanting battle-psalms of engagement.\nTest the las-cutter's beam with diagnostic fire, its engaged wrath sanctified.",
+    "component": "las-cutter",
+    "operation": "engagement",
+    "spec_id": "s00768"
+  },
+  {
+    "user_prompt": "I need to an initialization the carapace armour",
+    "prayer": "Encircling the carapace armour, proclaim the Initialization Doxology to the Omnissiah.\nSanctify ablative layers and power fibres, invoking the Machine Spirit's armored resolve.\nInitiate initialization sequences upon the carapace armour's neural interfaces.\nAnoint servomotors with conductive salves, aligning defensive matrices.\nVerify integrous form through auspex rites, the carapace armour now initialized in glory.",
+    "component": "carapace armour",
+    "operation": "initialization",
+    "spec_id": "s00769"
+  }
+]

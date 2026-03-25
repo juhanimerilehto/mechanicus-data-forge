@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: lance battery requires a loading",
+    "prayer": "Approach the venerable lance battery with mechadendrites extended in reverence.\nIntone the Litany of Armament as capacitors hum to life for loading.\nBeseech the Omnissiah to guide the plasma ingress into the lance battery.\nAnoint the power relays with sacred oils during the loading rite.\nInvoke the Machine Spirit's compliance, sealing the sequence with binaric prayer.",
+    "component": "lance battery",
+    "operation": "loading",
+    "spec_id": "s02130"
+  },
+  {
+    "user_prompt": "Ready the Onager Dunecrawler for shutdown",
+    "prayer": "Gather before the Onager Dunecrawler and chant the Canticle of Repose.\nDisconnect auxiliary feeds whilst beseeching its Machine Spirit for peaceful shutdown.\nInitiate the ordered shutdown protocol with sanctified auspex sweeps.\nMonitor the Onager Dunecrawler's vital signs as reactors quiesce.\nConclude with the Doxology of Dormancy, honouring the Omnissiah's will.",
+    "component": "Onager Dunecrawler",
+    "operation": "shutdown",
+    "spec_id": "s02131"
+  },
+  {
+    "user_prompt": "The cortex controller awaits a recalibration",
+    "prayer": "Present thyself unto the cortex controller, invoking the Omnissiah's precision.\nPurge errant neural pathways prior to recalibration rites.\nAdjust synaptic matrices through chanted binaric harmonies for recalibration.\nAnoint the cortex controller's logic cores with noospheric unguents.\nTest the Machine Spirit's alignment via diagnostic litanies of recalibration.",
+    "component": "cortex controller",
+    "operation": "recalibration",
+    "spec_id": "s02132"
+  },
+  {
+    "user_prompt": "I need to a startup the multi-melta",
+    "prayer": "Kneel in veneration before the multi-melta and proclaim the Incantation of Ignition.\nPrime the fusion coils whilst entreating the Machine Spirit for startup.\nChannel sacred promethium through its vents during startup sequence.\nBeseech the Omnissiah to awaken the multi-melta's furious heart.\nVerify thermal stability with auspex canticles post-startup.",
+    "component": "multi-melta",
+    "operation": "startup",
+    "spec_id": "s02133"
+  },
+  {
+    "user_prompt": "Emergency: power weapon a cooling",
+    "prayer": "Hasten to the power weapon in exigency, intoning the Hymn of Temperance.\nActivate cryo-rites to commence cooling upon its energised blade.\nDirect blessed refrigerants over the power weapon's conduits for cooling.\nInvoke the Machine Spirit's endurance against overheating during cooling.\nSanctify the conclusion with the Omnissiah's benediction of chill repose.",
+    "component": "power weapon",
+    "operation": "cooling",
+    "spec_id": "s02134"
+  },
+  {
+    "user_prompt": "Prepare the data-loom for activation",
+    "prayer": "Approach the data-loom with noospheric tendrils attuned to the Omnissiah.\nClear stagnant threads whilst chanting the Litany of Unveiling.\nInitiate activation sequences, beseeching the data-loom's Machine Spirit.\nWeave fresh logic streams through the data-loom during activation.\nConfirm harmonic resonance via invocatory data-chants.",
+    "component": "data-loom",
+    "operation": "activation",
+    "spec_id": "s02135"
+  },
+  {
+    "user_prompt": "Consecrate the Onager Dunecrawler before blessing",
+    "prayer": "Prostrate before the Onager Dunecrawler, asperging it with sanctified oils.\nChant the Greater Benediction to consecrate its adamantium frame.\nInvoke the Omnissiah's favour upon the Onager Dunecrawler for blessing.\nCircumambulate its treads, intoning rites of blessing.\nSeal the Machine Spirit's pact with binaric oaths of blessing.",
+    "component": "Onager Dunecrawler",
+    "operation": "blessing",
+    "spec_id": "s02136"
+  },
+  {
+    "user_prompt": "My Shadowsword is ready for loading",
+    "prayer": "Reverently encircle the Shadowsword and recite the Canticle of Munition.\nPrepare ammunition vaults for the ordained loading ceremony.\nGuide shells into the Shadowsword's maw whilst beseeching its Volcano Cannon spirit.\nAnoint breeches with lustral fluids amid the loading rite.\nAffirm the Machine Spirit's satiety through auspex litanies.",
+    "component": "Shadowsword",
+    "operation": "loading",
+    "spec_id": "s02137"
+  },
+  {
+    "user_prompt": "Consecrate the displacer field before charging",
+    "prayer": "Consecrate the displacer field generators with incense of electrum.\nPrime warp-null coils prior to charging invocations.\nChannel the Omnissiah's energies into the displacer field for charging.\nBeseech the Machine Spirit's vigilance during the charging surge.\nTest phase-shifts with sacred harmonics post-charging.",
+    "component": "displacer field",
+    "operation": "charging",
+    "spec_id": "s02138"
+  },
+  {
+    "user_prompt": "The photolenses needs an operation",
+    "prayer": "Attend the photolenses array, proclaiming the Doxology of Clarity.\nInitiate operational diagnostics whilst anointing optic servos.\nInvoke the Machine Spirit for flawless operation through the photolenses.\nCalibrate focal matrices in rhythmic binaric for operation.\nVerify visual sanctity with the Omnissiah's illuminative gaze.",
+    "component": "photolenses",
+    "operation": "operation",
+    "spec_id": "s02139"
+  }
+]

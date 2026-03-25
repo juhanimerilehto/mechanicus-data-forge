@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the volkite weapon for targeting",
+    "prayer": "Approach the volkite weapon with reverence, O servant of the Omnissiah, and beseech its ancient Machine Spirit to stir.\nInvoke the Rite of Targeting upon the volkite weapon, calibrating its thermal projectors and auspex arrays.\nAnoint the sighting mechanisms with sacred oils whilst chanting the Canticle of Precision.\nVerify the targeting cogitators' alignment through diagnostic litanies, ensuring the volkite weapon's wrath strikes true.\nPraise the Omnissiah as the Machine Spirit awakens fully for battle.",
+    "component": "volkite weapon",
+    "operation": "targeting",
+    "spec_id": "s03300"
+  },
+  {
+    "user_prompt": "Assist with Leman Russ battle tank a startup",
+    "prayer": "Kneel before the Leman Russ battle tank, mighty engine of destruction, and intone the Litany of Awakening.\nPrime the plasma core of the Leman Russ battle tank with sanctified promethium, invoking its dormant Machine Spirit.\nInitiate the startup sequence by engaging the primary cogitators and auspex feeds.\nMonitor the rumbling ascent to power, exorcising any corrupt data-daemons with binaric prayers.\nAs the Leman Russ battle tank roars to life, offer glory to the Omnissiah for this mechanical miracle.",
+    "component": "Leman Russ battle tank",
+    "operation": "startup",
+    "spec_id": "s03301"
+  },
+  {
+    "user_prompt": "Can you guide krak grenade a loading?",
+    "prayer": "Present the krak grenade unto the launcher with mechadendrite-clad hands, whispering the Doxology of Containment.\nChant the Loading Invocation as you chamber the krak grenade, awakening its volatile Machine Spirit.\nSeal the breech with a prayer-etched bolt, ensuring the krak grenade's destructive essence remains bound.\nVerify the loading through auspex scans, beseeching the Omnissiah to guide its explosive fury.\nThus armed, the krak grenade stands ready in sanctified fury.",
+    "component": "krak grenade",
+    "operation": "loading",
+    "spec_id": "s03302"
+  },
+  {
+    "user_prompt": "Offer prayer for power weapon a purification",
+    "prayer": "Lay hands upon the power weapon and recite the Purification Canticle, purging warp-taint from its humming field.\nAnoint the blade edges with ablative unguents, invoking the Machine Spirit of the power weapon to purity.\nCycle the disruption field through cleansing rites, banishing all impurities in the name of the Omnissiah.\nTest the purified energies with a strike of judgement, confirming the power weapon's holy edge.\nProclaim the operation of purification complete, sanctified for the Emperor's wrath.",
+    "component": "power weapon",
+    "operation": "purification",
+    "spec_id": "s03303"
+  },
+  {
+    "user_prompt": "The servo-harness needs a blessing",
+    "prayer": "Encircling the servo-harness, intone the Blessing of Multiplicity to rouse its myriad Machine Spirits.\nAnoint each mechadendrite and tool-appendage with lustrum oil, beseeching enhanced precision.\nInvoke the Omnissiah's favour upon the servo-harness, calibrating its plasma cutter and servo-arm.\nCycle through diagnostic blessings, harmonizing the servo-harness's sacred mechanisms.\nThus blessed, the servo-harness serves as an extension of the tech-priest's divine will.",
+    "component": "servo-harness",
+    "operation": "blessing",
+    "spec_id": "s03304"
+  },
+  {
+    "user_prompt": "Sanctify the flak armour during consecration",
+    "prayer": "Approach the flak armour with solemnity and commence the Consecration Rite of Defiance.\nSprinkle ablative plates with consecrated dust, awakening the resilient Machine Spirits within the flak armour.\nRecite the Litany of Endurance over each articulated joint, fortifying against ballistic heresy.\nSeal the consecration with binaric sigils, invoking the Omnissiah's aegis upon the flak armour.\nTest integrity through ritual impacts, praising the unyielding protection granted.",
+    "component": "flak armour",
+    "operation": "consecration",
+    "spec_id": "s03305"
+  },
+  {
+    "user_prompt": "The energy conduit requires a startup",
+    "prayer": "Position before the energy conduit and beseech its Machine Spirit with the Invocation of Flux.\nInitiate the startup sequence by priming the plasma relays, chanting the Canticle of Conduction.\nMonitor the surging energies through the energy conduit, exorcising flux anomalies with sacred data-pulses.\nStabilize the flow with anointing unguents, ensuring harmonious power transmission.\nGlorify the Omnissiah as the energy conduit pulses with divine vitality.",
+    "component": "energy conduit",
+    "operation": "startup",
+    "spec_id": "s03306"
+  },
+  {
+    "user_prompt": "Guide me through magnocular a diagnostics",
+    "prayer": "Grasp the magnocular in reverent mech-fingers and intone the Diagnostics Doxology.\nCycle the lenses through purity scans, invoking the Machine Spirit of the magnocular to reveal truths.\nPurge any occluded data-slates with binaric cleansers, aligning the optics for flawless vision.\nVerify the diagnostics via calibration rites, beseeching the Omnissiah for unerring sight.\nThus diagnosed, the magnocular pierces the veils of deception.",
+    "component": "magnocular",
+    "operation": "diagnostics",
+    "spec_id": "s03307"
+  },
+  {
+    "user_prompt": "What's the prayer for power relay a loading?",
+    "prayer": "Present thyself to the power relay and recite the Loading Litany of Amplification.\nChamber the energon cells into the power relay, awakening its conductive Machine Spirit.\nSeal the linkages with prayer-bolts, harmonizing the power relay's surge capacities.\nTest the loading through auspex invocation, ensuring no overload heresies profane the flow.\nPraise the Omnissiah for the power relay's fortified readiness.",
+    "component": "power relay",
+    "operation": "loading",
+    "spec_id": "s03308"
+  },
+  {
+    "user_prompt": "Urgent vox-thief a loading needed",
+    "prayer": "With haste yet reverence, approach the vox-thief and chant the Urgent Loading Canticle.\nInsert the data-spikes into the vox-thief, rousing its infiltrator Machine Spirit.\nEncrypt the loading sequences with sacred ciphers, binding the vox-thief to the Omnissiah's will.\nVerify interception protocols through rapid diagnostics, purging rival signals.\nDeploy the vox-thief thus loaded, a thief in the Emperor's shadowed name.",
+    "component": "vox-thief",
+    "operation": "loading",
+    "spec_id": "s03309"
+  }
+]

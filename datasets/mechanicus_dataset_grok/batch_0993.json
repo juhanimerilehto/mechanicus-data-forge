@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide serberys raider a maintenance?",
+    "prayer": "Approach the serberys raider with reverence, invoking the Omnissiah's grace upon its Machine Spirit.\nAnoint the serberys raider's treads and cybernetic mounts with blessed oils.\nCommence the sacred maintenance operation, reciting the Litany of Lubrication.\nSanctify each joint and cog with incense, beseeching the Machine Spirit's endurance.\nConclude by diagnostic rites, affirming the serberys raider's restored purity.",
+    "component": "serberys raider",
+    "operation": "maintenance",
+    "spec_id": "s05930"
+  },
+  {
+    "user_prompt": "Bless the radar array for calibration",
+    "prayer": "Kneel before the radar array, beseeching its Machine Spirit to align with the Omnissiah's will.\nInitiate the calibration sequence upon the radar array, chanting precise binaric canticles.\nAdjust emitter coils with sanctified mechadendrites, invoking stellar harmonies.\nVerify the radar array's precision through auspex harmonics, praising the Machine God.\nSeal the rite with the Sigil of Alignment, ensuring flawless augury.",
+    "component": "radar array",
+    "operation": "calibration",
+    "spec_id": "s05931"
+  },
+  {
+    "user_prompt": "Emergency: icarus array a blessing",
+    "prayer": "In emergency haste, prostrate before the icarus array and invoke the Omnissiah's urgent mercy.\nAnoint its auspex nodes with sacred chrism to awaken the dormant Machine Spirit.\nBestow the blessing upon the icarus array, reciting the Canticle of Aerial Vigilance.\nEmpower its sensors with electro-incantations, warding against void-born corruption.\nAffirm the icarus array's sanctity through rapid diagnostics, glorifying the Motive Force.",
+    "component": "icarus array",
+    "operation": "blessing",
+    "spec_id": "s05932"
+  },
+  {
+    "user_prompt": "Emergency: life signs monitor a cooling",
+    "prayer": "Amidst dire exigency, encircle the life signs monitor and beseech cooling benedictions from the Omnissiah.\nInvoke the Machine Spirit's quiescence, applying cryo-unguents to overheating vaults.\nInitiate the cooling operation upon the life signs monitor with chilled incense vapors.\nMonitor thermal runes whilst chanting the Litany of Thermal Equilibrium.\nConsecrate the life signs monitor's restoration, ensuring vital data flows unhindered.",
+    "component": "life signs monitor",
+    "operation": "cooling",
+    "spec_id": "s05933"
+  },
+  {
+    "user_prompt": "Consecrate the cryo-chamber before targeting",
+    "prayer": "Consecrate the cryo-chamber with solemn procession, honoring its Machine Spirit before targeting.\nAnoint cryo-coils and stasis fields, invoking the Omnissiah's freezing embrace.\nPrepare the cryo-chamber for targeting rites by aligning noospheric glyphs.\nBeseech precision in targeting through binaric hymns, sanctifying occupant vitals.\nSeal the cryo-chamber with the Rite of Suspended Vigil, praising eternal preservation.",
+    "component": "cryo-chamber",
+    "operation": "targeting",
+    "spec_id": "s05934"
+  },
+  {
+    "user_prompt": "What's the prayer for micro-servitor a targeting?",
+    "prayer": "Approach the micro-servitor humbly, awakening its diminutive Machine Spirit with gentle canticles.\nCalibrate optic servos for targeting, anointing lenses with micro-droplets of sacred oil.\nInvoke the targeting operation upon the micro-servitor, aligning reticules to the Omnissiah's aim.\nTest micro-servitor fidelity through simulated auspex, beseeching unerring precision.\nConclude with the Benediction of Miniaturized Wrath, affirming its lethal devotion.",
+    "component": "micro-servitor",
+    "operation": "targeting",
+    "spec_id": "s05935"
+  },
+  {
+    "user_prompt": "Offer prayer for codifier a loading",
+    "prayer": "Present offerings before the codifier, invoking its Machine Spirit laden with data sacraments.\nInitiate the loading sequence upon the codifier with rhythmic binaric invocations.\nFeed crystalline wafers into the codifier's maw, chanting the Litany of Data Ingestion.\nSanctify the codifier's memory vaults against corruption, praising the Omnissiah's archives.\nVerify loading integrity through noospheric communion, sealing the rite in binary glory.",
+    "component": "codifier",
+    "operation": "loading",
+    "spec_id": "s05936"
+  },
+  {
+    "user_prompt": "What's the prayer for lightning claw a calibration?",
+    "prayer": "Grasp the lightning claw in mechadendrite reverence, beseeching its tempestuous Machine Spirit.\nCommence calibration of the lightning claw, tuning arc-generators with electro-sanctifiers.\nRecite the Canticle of Voltaic Fury whilst aligning power talons for lethal harmony.\nTest the lightning claw's discharge through ritual strikes, invoking Omnissiah's thunder.\nAnoint and seal the lightning claw, ensuring rending strikes honor the Machine God.",
+    "component": "lightning claw",
+    "operation": "calibration",
+    "spec_id": "s05937"
+  },
+  {
+    "user_prompt": "I need to a calibration the utility mechadendrite",
+    "prayer": "Extend mechadendrites towards the utility mechadendrite, awakening its versatile Machine Spirit.\nInitiate calibration protocols upon the utility mechadendrite with precise auspex chants.\nAdjust manipulator tips and sensor arrays, anointing with utilitarian unguents.\nInvoke the Omnissiah's ingenuity for flawless calibration of the utility mechadendrite.\nAffirm operational sanctity through multi-function diagnostics, glorifying adaptive service.",
+    "component": "utility mechadendrite",
+    "operation": "calibration",
+    "spec_id": "s05938"
+  },
+  {
+    "user_prompt": "I need to a recalibration the doctrina wafer",
+    "prayer": "Reverently interface with the doctrina wafer, beseeching its doctrinal Machine Spirit to realign.\nCommence recalibration of the doctrina wafer via noospheric catechisms of purity.\nExpunge errant imperatives, invoking the Omnissiah's tactical wisdom upon the doctrina wafer.\nImprint refreshed stratagems with sacred binaric overwriting, chanting war-litanies.\nValidate the doctrina wafer's renewed orthodoxy through combat-simulacra, praising the God-Machine.",
+    "component": "doctrina wafer",
+    "operation": "recalibration",
+    "spec_id": "s05939"
+  }
+]

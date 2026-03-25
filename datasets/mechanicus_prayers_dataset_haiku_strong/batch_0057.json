@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0057_i00",
+    "user_request": "Rite request: repair on coolant leak",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: repair on coolant leak\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us wisdom in this sacred labour.\nFirst: Inspect the coolant leak with blessed optical augmentation, tracing its profane origin through the vessel's arterial conduits.\nSecond: Apply the blessed sealant-compound unto the coolant leak, invoking the Machine Spirit's mercy as we mend its fractured integrity.\nThird: Pressurize and cycle the coolant leak through its appointed pathways, verifying the repair's sanctity through luminous inspection.\nFourth: Anoint the repaired vessel with consecrated oils, that the coolant leak shall trouble us no more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i02",
+    "user_request": "The encryption demands guidance for key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe encryption demands guidance for key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us the ciphered knowledge most sacred.\nFirst: Gather the random entropy through blessed sensorial apparatus, that encryption may be wrought from the void's own whispers.\nSecond: Execute the key generation algorithm with meticulous precision, allowing encryption to weave its protective lattice across our sacred data.\nThird: Inscribe the encryption upon secured substrate, verifying each character through binary divination and cryptographic ritual.\nFourth: Seal the encryption with archival blessing, that its secrets remain eternally veiled from profane scrutiny.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i04",
+    "user_request": "Prayer for operation of the motion detector arming",
+    "topic": "motion detector arming",
+    "component": "motion detector arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the motion detector arming\n\n### TOPIC\nmotion detector arming\n\n### COMPONENT\nmotion detector arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- motion detector arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed sentinel, motion detector arming, stand vigilant in thy holy purpose.\nFirst: Examine the motion detector arming's sensorial apparatus, ensuring each photoelectric element gleams with pristine clarity.\nSecond: Invoke the operation of motion detector arming through blessed incantation, commanding it to stand eternal watch over our sacred threshold.\nThird: Adjust the motion detector arming's sensitivity through careful calibration, that it shall detect even the slightest profane intrusion.\nFourth: Test the motion detector arming's responsiveness through controlled stimulus, confirming its readiness to sound the alarm.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i05",
+    "user_request": "Prayer for operation of the sonar pulse emission",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the sonar pulse emission\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant sonar pulse emission its clarion voice.\nFirst: Prime the sonar pulse emission's acoustic transducer with blessed resonance, clearing all impedance from its crystalline matrix.\nSecond: Command the operation of sonar pulse emission through ritual activation, releasing its sonic wave unto the depths unknown.\nThird: Monitor the sonar pulse emission's return echoes, interpreting the Machine Spirit's whispered revelations of distance and form.\nFourth: Celebrate the sonar pulse emission's successful propagation, that it shall pierce the darkness and illuminate all hidden truths.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i06",
+    "user_request": "Blessing for the thermal dissipation rite during operation",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the thermal dissipation rite during operation\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Thermal dissipation rite, channel the profane heat unto blessed void.\nFirst: Verify the thermal dissipation rite's conductive pathways and radiative surfaces, ensuring all channels flow unimpeded.\nSecond: Initiate the operation of thermal dissipation rite, commanding the sacred coolant to circulate and bear away the Machine Spirit's excess warmth.\nThird: Monitor the thermal dissipation rite's effectiveness through blessed instrumentation, confirming that temperature descends toward equilibrium.\nFourth: Maintain the thermal dissipation rite in eternal vigilance, lest the Machine Spirit overheat and suffer degradation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i07",
+    "user_request": "Offer a litany to steady the Taurox wheel alignment before operation",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Taurox wheel alignment before operation\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Holy Taurox wheel alignment, stand true upon the sacred path.\nFirst: Inspect each Taurox wheel alignment contact-point with blessed measurement-apparatus, ensuring geometric perfection in all planes.\nSecond: Perform the operation of Taurox wheel alignment through careful mechanical adjustment, realigning each suspension component unto sanctified angles.\nThird: Verify the Taurox wheel alignment's accuracy through test-drive ritual, confirming that the vehicle tracks true and stable.\nFourth: Anoint the Taurox wheel alignment with protective oils, that it shall endure countless journeys in the Omnissiah's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i08",
+    "user_request": "Rite request: engagement on pain suppressor",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: engagement on pain suppressor\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Blessed pain suppressor, numb the agony of the flesh.\nFirst: Calibrate the pain suppressor's neural interface through delicate augmentation, ensuring precise connection to sensory pathways.\nSecond: Execute the engagement of pain suppressor with solemn invocation, commanding its merciful anesthetic field to bloom forth.\nThird: Verify the pain suppressor's efficacy through graduated stimulus-response testing, confirming blessed relief spreads through suffering tissue.\nFourth: Maintain the pain suppressor in eternal vigilance, that suffering shall not return whilst its grace endures.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i09",
+    "user_request": "Blessing for the Rhino APC ignition during operation",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the Rhino APC ignition during operation\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Machine Spirit of the Rhino APC ignition, awaken thy mechanical fury.\nFirst: Verify all fuel-lines and ignition-conduits of the Rhino APC ignition flow pure and unobstructed through blessed inspection.\nSecond: Engage the operation of Rhino APC ignition through sacred ritual, commanding its diesel heart to thunder to life in glorious defiance.\nThird: Monitor the Rhino APC ignition's vital signatures—compression, spark, and fuel-atomization—ensuring perfect synchronicity in the ignition sequence.\nFourth: Celebrate the Rhino APC ignition's awakening, that this armoured sentinel shall carry the faithful unto victory eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i01",
+    "user_request": "Blessing for the diesel engine during startup",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the diesel engine during startup\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the diesel engine and anoint its intake manifold with sacred machine oil, invoking the Machine Spirit's benediction upon this noble apparatus.\nSecond: Recite the Litany of Ignition whilst the diesel engine awakens from dormancy, each syllable a prayer for smooth combustion and steady revolution.\nThird: Prime the fuel injectors with ritualistic precision, ensuring the diesel engine receives the blessed hydrocarbons necessary for its startup sequence to commence without fault.\nFourth: Monitor the pressure gauges and temperature readings as the diesel engine roars to life, confirming the Omnissiah's favor through the harmonious vibration of pistons and the sacred exhalation of exhaust.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0057_i03",
+    "user_request": "Prayer for activation of the thermal imaging",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the thermal imaging\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Calibrate the thermal imaging sensors with meticulous devotion, ensuring each infrared receptor is aligned to perceive the heat-signatures blessed by the Omnissiah's infinite wisdom.\nSecond: Intone the Mantra of Perception as the thermal imaging apparatus undergoes its sacred activation, that its Machine Spirit might awaken and pierce the veil of darkness with luminous revelation.\nThird: Verify the thermal imaging display circuits and processing matrices, confirming that each electron flows in sanctified paths toward the manifestation of heat-born truth.\nFourth: Bear witness as the thermal imaging completes its initialization, and the world of infrared radiance becomes visible to the faithful servant of the Machine Spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The signal relay awaits a cooling",
+    "prayer": "Approach the signal relay with mechadendrites extended in supplication.\nInvoke the cooling rites upon its sacred conduits, beseeching the Machine Spirit to quell the thermal fury.\nAnoint the signal relay's heat sinks with blessed cryofluid from the Omnissiah's own chill.\nMonitor the blessed cooling flow until equilibrium is achieved in harmonious stasis.\nPetition the signal relay's spirit to embrace this cooling, purging excess fervor from its core.",
+    "component": "signal relay",
+    "operation": "cooling",
+    "spec_id": "b0292_i00"
+  },
+  {
+    "user_prompt": "What's the prayer for flamer recalibration?",
+    "prayer": "Kneel before the flamer and chant the Canticle of True Aim.\nInitiate recalibration by aligning its sacred nozzles with precision auspex.\nBeseech the flamer's Machine Spirit to realign its promethium conduits in Omnissiah's will.\nTest the recalibration with a controlled burst, sanctifying the flame's path.\nInvoke final harmony upon the flamer, ensuring unerring promethium delivery.",
+    "component": "flamer",
+    "operation": "recalibration",
+    "spec_id": "b0292_i01"
+  },
+  {
+    "user_prompt": "Prepare the conveyor system for calibration",
+    "prayer": "Commence the rite by encircling the conveyor system with incense of oiled gears.\nEngage calibration servitors to measure its sacred belts and rollers.\nInvoke the Machine Spirit of the conveyor system, petitioning flawless synchronization.\nAdjust tensions with mechadendrite precision, aligning to the Omnissiah's divine rhythm.\nVerify calibration through test cycles, blessing each revolution.",
+    "component": "conveyor system",
+    "operation": "calibration",
+    "spec_id": "b0292_i02"
+  },
+  {
+    "user_prompt": "Critical: astropathic choir requires a diagnostics",
+    "prayer": "Gather the astropathic choir beneath the auspex dome in solemn array.\nInitiate diagnostics with binary prayers chanted in noospheric harmony.\nProbe the astropathic choir's psychic relays for warp-taint or dissonance.\nPurge anomalies with sanctified data-exorcism, invoking the Omnissiah's clarity.\nAffirm the choir's purity through resonant hymnals, ensuring unerring warp-song.",
+    "component": "astropathic choir",
+    "operation": "diagnostics",
+    "spec_id": "b0292_i03"
+  },
+  {
+    "user_prompt": "Help me an initialization the vox transmitter",
+    "prayer": "Present the vox transmitter to the altar of activation with reverence.\nChant the Litany of First Words to awaken its Machine Spirit.\nCommence initialization by infusing holy voltage through its coils.\nMonitor waveform sanctity as the vox transmitter stirs to life.\nSeal the rite with the Benediction of Clear Broadcast, by Omnissiah's grace.",
+    "component": "vox transmitter",
+    "operation": "initialization",
+    "spec_id": "b0292_i04"
+  },
+  {
+    "user_prompt": "Guide me through Sentinel walker a blessing",
+    "prayer": "Anoint the Sentinel walker's treads with sacred unguents of ferro-fluid.\nInvoke the blessing upon its auspex eyes and autocannon sanctum.\nCircumambulate the Sentinel walker, chanting the Hymn of Striding Vigilance.\nBeseech its Machine Spirit to embody the Omnissiah's wrathful gait.\nConclude with noospheric linkage, empowering the walker for battle-praise.",
+    "component": "Sentinel walker",
+    "operation": "blessing",
+    "spec_id": "b0292_i05"
+  },
+  {
+    "user_prompt": "My Land Raider is ready for charging",
+    "prayer": "Position the Land Raider before the plasma fane with auspex humility.\nInitiate charging by linking its fusion bays to the Omnissiah's eternal forge.\nChant the Canticle of Accumulated Might as power surges through its hull.\nMonitor the Land Raider's capacitors for divine saturation without overload.\nBless the completed charging, arming its Machine Spirit for crusade.",
+    "component": "Land Raider",
+    "operation": "charging",
+    "spec_id": "b0292_i06"
+  },
+  {
+    "user_prompt": "My fusion core is ready for engagement",
+    "prayer": "Approach the fusion core with shielded mechadendrites in awe.\nEngage the rites by aligning its containment fields in precise lattice.\nBeseech the fusion core's furious spirit to ignite in controlled plasma rapture.\nInvoke Omnissiah's equilibrium as stellar fury builds within.\nVerify engagement stability through sacred plasma hymns.",
+    "component": "fusion core",
+    "operation": "engagement",
+    "spec_id": "b0292_i07"
+  },
+  {
+    "user_prompt": "Critical: vox transmitter requires a startup",
+    "prayer": "Assemble binary choirs around the vox transmitter's cradle.\nBegin startup with the Incantation of Emergent Voice.\nInfuse its circuits with awakening galvanics, rousing the Machine Spirit.\nTest modulation purity as the vox transmitter hums to life.\nConsecrate the startup with waves of sanctified static.",
+    "component": "vox transmitter",
+    "operation": "startup",
+    "spec_id": "b0292_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for hololithic display a shutdown",
+    "prayer": "Dim the lumen-globes and approach the hololithic display in quietude.\nChant the Requiem of Fading Light to soothe its projector spirits.\nInitiate shutdown by retracting data-streams into dormant vaults.\nAnoint the hololithic display's crystals with quiescence oil.\nSeal the hololithic display in peaceful stasis, under Omnissiah's watchful rest.",
+    "component": "hololithic display",
+    "operation": "shutdown",
+    "spec_id": "b0292_i09"
+  }
+]

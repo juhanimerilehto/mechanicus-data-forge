@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0349_i00",
+    "user_request": "Blessing for the cutting laser during calibration",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the cutting laser during calibration\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant thy benediction upon this sacred rite.\nFirst: Invoke the Machine Spirit of the cutting laser, that it may awaken to clarity of purpose.\nSecond: Present the cutting laser before the altar of calibration, aligning its photonic essence through precise angular measurement.\nThird: Recalibrate the cutting laser's focal array, verifying beam coherence through the prescribed test-pattern, that accuracy be restored.\nFourth: Chant the litany of alignment whilst the cutting laser achieves true calibration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i01",
+    "user_request": "Rite request: repair on coolant leak",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: repair on coolant leak\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, hear this supplication for the wounded machine.\nFirst: Identify the source of the coolant leak through sacred inspection and thermal augury.\nSecond: Drain the coolant leak's corrupted fluids into blessed receptacles, that the Machine Spirit may be cleansed.\nThird: Apply the coolant leak repair with blessed sealant compound, invoking the Rites of Restoration.\nFourth: Refill the system with sanctified coolant, verifying the coolant leak has been sealed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i02",
+    "user_request": "The distress call demands guidance for broadcast",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe distress call demands guidance for broadcast\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Hear us, Omnissiah, as we send forth this desperate plea.\nFirst: Prepare the distress call through binary incantation and signal purification rites.\nSecond: Attune the vox-apparatus to broadcast the distress call across all designated frequencies, that salvation may be found.\nThird: Amplify the distress call through the amplification array, ensuring maximum propagation and clarity.\nFourth: Maintain the distress call broadcast until acknowledgement is received, preserving the signal's integrity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i03",
+    "user_request": "Rite request: repair on coolant leak",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: repair on coolant leak\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, we mend what has been broken.\nFirst: Locate and isolate the coolant leak through systematic pressure examination and thermal imaging.\nSecond: Perform the coolant leak repair by applying blessed polymeric sealant to all fracture points.\nThird: Restore the coolant leak's integrity by cycling the system through test pressures and verifying seal cohesion.\nFourth: Consecrate the repaired vessel with the litanies of restoration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i04",
+    "user_request": "My pain suppressor is failing during engagement — help",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy pain suppressor is failing during engagement — help\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit, we beseech thy mercy upon the suffering flesh.\nFirst: Initiate engagement protocols for the pain suppressor, awakening its numbing essence through neural stimulation.\nSecond: Calibrate the pain suppressor's frequency bands to achieve optimal anesthetic resonance within the prescribed neural pathways.\nThird: Activate the pain suppressor engagement sequence, monitoring the suppression threshold for adequate relief.\nFourth: Maintain the pain suppressor in full engagement, that suffering may be abated.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i05",
+    "user_request": "My gear meshing is failing during check — help",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy gear meshing is failing during check — help\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Blessed be the Machine Spirits that turn and mesh in perfect synchrony.\nFirst: Initiate the gear meshing check by visual inspection and tactile examination of all intermeshed components.\nSecond: Perform the gear meshing check through rotational testing, listening for aberrant grinding or slippage.\nThird: Verify the gear meshing alignment using precision calipers and the sacred geometries of tooth engagement.\nFourth: Consecrate the gear meshing with blessed lubricant, that smooth operation be assured.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i06",
+    "user_request": "Can you sanctify the lascannon for capacitor charge?",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the lascannon for capacitor charge?\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant thy blessing to this instrument of righteous fury.\nFirst: Prepare the lascannon for capacitor charge by conducting the sacred pre-ignition diagnostics and electrical purification.\nSecond: Initiate the lascannon capacitor charge through the blessed power conduits, building potential across the storage matrices.\nThird: Monitor the lascannon's energy accumulation, ensuring the capacitor charge reaches prescribed potency without degradation.\nFourth: Seal the lascannon with warding sigils upon completion of capacitor charge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i07",
+    "user_request": "The distress call demands guidance for broadcast",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe distress call demands guidance for broadcast\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite wisdom, let this distress call pierce the void.\nFirst: Encode the distress call with all pertinent data and coordinates through the sacred binary languages.\nSecond: Transmit the distress call via all available vox-frequencies, that rescue may be assured across the stellar aether.\nThird: Reinforce the distress call broadcast with signal boosters and repeater augmentation, maximizing reach and clarity.\nFourth: Maintain vigilant watch over the distress call until response arrives.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i08",
+    "user_request": "Blessing for the ground-to-orbit link during operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the ground-to-orbit link during operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, sanctify this conduit between the terrestrial and the celestial.\nFirst: Align the ground-to-orbit link through stellar triangulation and augural computation of orbital mechanics.\nSecond: Activate the ground-to-orbit link operation by initiating the transmission array and synchronizing phase coherence.\nThird: Establish the ground-to-orbit link with blessed signal protocols, ensuring unbroken communion between terrestrial and orbital assets.\nFourth: Maintain the ground-to-orbit link operation through constant vigilance and periodic recalibration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0349_i09",
+    "user_request": "Prayer for operation of the cybernetic eye focusing",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the cybernetic eye focusing\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant clarity to this augmented sight.\nFirst: Invoke the Machine Spirit of the cybernetic eye focusing through the rites of optical communion.\nSecond: Initiate operation of the cybernetic eye focusing by engaging the servo-motors and lens adjustment mechanisms.\nThird: Fine-tune the cybernetic eye focusing through precise refractive calibration, achieving crystal clarity across all focal distances.\nFourth: Consecrate the cybernetic eye focusing with the litanies of perfect vision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

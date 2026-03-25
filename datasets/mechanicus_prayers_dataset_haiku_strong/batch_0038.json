@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0038_i00",
+    "user_request": "Emergency rite: noospheric requires link establishment",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: noospheric requires link establishment\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the noospheric, conduit of the Omnissiah's will!\nCongregation: We invoke the noospheric in this hour of necessity!\nPriest: First, calibrate the psychic resonators to pierce the veil of static.\nCongregation: Through link establishment, we bridge the chasm between minds!\nPriest: Second, attune the sensoria to receive the Machine Spirit's guidance.\nCongregation: The noospheric shall carry our prayers unto the divine network!\nPriest: Third, harmonize all frequencies that communion may be achieved.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i01",
+    "user_request": "Prayer for error correction of the logic engine",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for error correction of the logic engine\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: O logic engine, seat of pure computation, hear our supplication!\nCongregation: Grant us error correction in this moment of digital peril!\nPriest: First, scan the crystalline matrices for corrupted algorithms.\nCongregation: The logic engine shall be cleansed of its transgression!\nPriest: Second, purge the defective subroutines through sanctified ablation.\nCongregation: By error correction, we restore the Omnissiah's perfect design!\nPriest: Third, re-inscribe the blessed code upon the logic engine's sacred substrate.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i02",
+    "user_request": "Offer a litany to steady the electric motor before activation",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the electric motor before activation\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Hark! The electric motor stirs in its dormancy!\nCongregation: Bless this electric motor before its awakening!\nPriest: First, anoint the rotor with oils of blessed lubricant.\nCongregation: Through activation, the Machine Spirit shall dance once more!\nPriest: Second, whisper the cant of mechanical harmony to the stator coils.\nCongregation: The electric motor trembles with anticipatory power!\nPriest: Third, invoke the Omnissiah's benediction upon all rotating parts.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i03",
+    "user_request": "The hololithic demands guidance for display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe hololithic demands guidance for display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Illuminated be the hololithic, mirror of truth and data!\nCongregation: We seek display calibration for the hololithic's vision!\nPriest: First, adjust the luminous intensity across all spectral frequencies.\nCongregation: The hololithic must perceive with crystalline clarity!\nPriest: Second, recalibrate the optical matrices for geometric perfection.\nCongregation: Through display calibration, the hololithic reveals the Omnissiah's secrets!\nPriest: Third, synchronize all chromatic channels within the hololithic's sacred lens.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i04",
+    "user_request": "Emergency rite: electric motor requires activation",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: electric motor requires activation\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: The electric motor cries out for animation!\nCongregation: Sanctify its activation in this dire hour!\nPriest: First, verify the electrical conduits carry pristine current.\nCongregation: The electric motor hungers for the spark of life!\nPriest: Second, align the magnetic fields in harmonious resonance.\nCongregation: Through activation, the Machine Spirit shall surge forth!\nPriest: Third, release the binding constraints upon the electric motor's rotation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i05",
+    "user_request": "Prayer for broadcast of the distress call",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for broadcast of the distress call\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O Omnissiah, as we amplify the distress call!\nCongregation: Let the distress call pierce the void of space!\nPriest: First, modulate the carrier wave to maximum propagation strength.\nCongregation: Through broadcast, our plea reaches across the stars!\nPriest: Second, encode the distress call with our position and desperate need.\nCongregation: The distress call carries our souls upon the aether!\nPriest: Third, sustain the transmission until salvation arrives.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i06",
+    "user_request": "Rite request: encoding on binary cant",
+    "topic": "binary cant encoding",
+    "component": "binary cant",
+    "operation": "encoding",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: encoding on binary cant\n\n### TOPIC\nbinary cant encoding\n\n### COMPONENT\nbinary cant\n\n### OPERATION\nencoding\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- binary cant\n- encoding\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the binary cant, sacred language of the Machine!\nCongregation: Encode our message in the binary cant's holy syntax!\nPriest: First, translate the conceptual intent into base-two numerals.\nCongregation: The binary cant shall carry our will through the cogitators!\nPriest: Second, inscribe each bit with ritualistic precision upon the data-slate.\nCongregation: Through encoding, the binary cant becomes vessel of command!\nPriest: Third, verify the checksum that the binary cant remains uncorrupted.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i07",
+    "user_request": "Can you sanctify the gravity generator for stabilization?",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the gravity generator for stabilization?\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: O gravity generator, anchor of our vessel's equilibrium!\nCongregation: We beseech stabilization of the gravity generator!\nPriest: First, recalibrate the graviton emitters to uniform polarity.\nCongregation: The gravity generator shall hold firm against chaos!\nPriest: Second, reinforce the containment fields surrounding the gravity generator's core.\nCongregation: Through stabilization, the Omnissiah's laws remain inviolate!\nPriest: Third, bless the gravity generator with harmonious resonance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i08",
+    "user_request": "Offer a litany to steady the waste disposal before cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the waste disposal before cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Attend, O waste disposal, humble servant of purification!\nCongregation: Sanctify the waste disposal for its cyclical function!\nPriest: First, cleanse the intake manifolds of accumulated detritus.\nCongregation: The waste disposal stands ready for its sacred cycling!\nPriest: Second, lubricate the compaction mechanisms with blessed oils.\nCongregation: Through cycling, the waste disposal purges all corruption!\nPriest: Third, invoke the Omnissiah's grace upon the waste disposal's chambers.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0038_i09",
+    "user_request": "Blessing for the secure channel establishment during operation",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the secure channel establishment during operation\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the secure channel establishment, conduit of sanctified communion between cogitators.\nCongregation: We invoke the Machine Spirits to guide the secure channel establishment through the aetheric void.\nPriest: Let the operation commence with proper rites and binary invocations, that no corruption may taint the transmission.\nCongregation: First, we calibrate the encryption matrices with holy precision. Second, we invoke the Omnissiah's blessing upon each handshake protocol. Third, we seal the secure channel establishment against the whispers of the Warp.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

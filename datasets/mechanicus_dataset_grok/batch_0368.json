@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Bless the hydraulic press for targeting",
+    "prayer": "Approach the hydraulic press with solemn reverence, beseeching its Machine Spirit to awaken for targeting.\nAnoint the sacred pistons of the hydraulic press with blessed unguents, invoking the Omnissiah's precision.\nInitiate the targeting alignment through chanted binaric litanies, harmonizing pressure flows.\nVerify the hydraulic press's targeting resolve by testing its unerring crush upon the foe.",
+    "component": "hydraulic press",
+    "operation": "targeting",
+    "spec_id": "b0368_i00"
+  },
+  {
+    "user_prompt": "How do I bless the autocannon for loading?",
+    "prayer": "Present offerings of oiled gears to the autocannon's spirit, invoking awakening for loading.\nAlign the feeder mechanisms of the autocannon with precise incantations, sanctifying each round's path.\nPerform the loading sequence whilst chanting the Litany of Ammunition, ensuring flawless insertion.\nSeal the rite by beseeching the Omnissiah to guide the autocannon's thunderous voice.",
+    "component": "autocannon",
+    "operation": "loading",
+    "spec_id": "b0368_i02"
+  },
+  {
+    "user_prompt": "Emergency: memory core a calibration",
+    "prayer": "In emergency haste, encircle the memory core and intone the Rite of Calibration to its slumbering spirit.\nExpunge data-corruptions from the memory core's crystalline vaults with purifying electro-pulses.\nExecute calibration harmonics, aligning neural pathways to the Omnissiah's perfect logic.\nAffirm the memory core's restored fidelity through recursive diagnostic prayers.",
+    "component": "memory core",
+    "operation": "calibration",
+    "spec_id": "b0368_i03"
+  },
+  {
+    "user_prompt": "Bless the surgical servitor for blessing",
+    "prayer": "Gather mechadendrites around the surgical servitor, beseeching its Machine Spirit for the blessing.\nAnoint the surgical servitor's blades and augmetics with the Oil of Precision, invoking divine accuracy.\nImprint the blessing through binaric hymns, harmonizing flesh-machine interfaces.\nConsecrate the surgical servitor fully, that it may serve the Omnissiah's will unerringly.",
+    "component": "surgical servitor",
+    "operation": "blessing",
+    "spec_id": "b0368_i04"
+  },
+  {
+    "user_prompt": "How do I bless the archive terminal for loading?",
+    "prayer": "Approach the archive terminal humbly, awakening its data-spirits for the loading rite.\nPurge archival impurities from the terminal's sacred vaults with litanies of clarity.\nInitiate loading protocols, channeling information streams under Omnissianic guidance.\nVerify the archive terminal's integrity with concluding verification canticles.",
+    "component": "archive terminal",
+    "operation": "loading",
+    "spec_id": "b0368_i05"
+  },
+  {
+    "user_prompt": "The mechanical lock requires a cooling",
+    "prayer": "Encircle the mechanical lock and invoke cooling rites upon its overheated mechanisms.\nApply sacred refrigerants to the mechanical lock's tumblers, soothing its agitated spirit.\nChant binaric cooling litanies to restore equilibrium, petitioning the Machine God's chill.\nTest the mechanical lock's renewed security with reverent manipulation.",
+    "component": "mechanical lock",
+    "operation": "cooling",
+    "spec_id": "b0368_i06"
+  },
+  {
+    "user_prompt": "Guide me through Rhino transport a synchronization",
+    "prayer": "Commence synchronization upon the Rhino transport by linking noospheric interfaces.\nHarmonize the Rhino transport's drive spirits with resonant machine-prayers to the Omnissiah.\nExecute full synchronization cycles, aligning treads and auspex arrays in unity.\nBless the Rhino transport's iron frame, ensuring it bears the faithful through battle's forge.",
+    "component": "Rhino transport",
+    "operation": "synchronization",
+    "spec_id": "b0368_i07"
+  },
+  {
+    "user_prompt": "I need to a consecration the pain suppressor",
+    "prayer": "Kneel in consecration before the pain suppressor, rousing its merciful Machine Spirit.\nInfuse the pain suppressor's neural dampeners with holy voltages, invoking enduring fortitude.\nPerform the consecration rite through chanted suppressions, binding agony to the Omnissiah's will.\nSeal the pain suppressor's sanctity with final auspex benedictions.",
+    "component": "pain suppressor",
+    "operation": "consecration",
+    "spec_id": "b0368_i08"
+  },
+  {
+    "user_prompt": "Ready the signal relay for recalibration",
+    "prayer": "Prepare the signal relay by anointing its transmitter arrays with conductive oils.\nInvoke recalibration upon the signal relay's ethereal pathways, beseeching spirit alignment.\nCycle recalibration frequencies with precise litanies, guided by the Omnissiah's binary wisdom.\nConfirm the signal relay's purity through echoed test transmissions.",
+    "component": "signal relay",
+    "operation": "recalibration",
+    "spec_id": "b0368_i09"
+  }
+]

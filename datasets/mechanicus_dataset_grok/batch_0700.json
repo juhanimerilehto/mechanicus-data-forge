@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for void shield generator a preparation?",
+    "prayer": "Approach the void shield generator with reverence, beseeching the Omnissiah to bless its preparation.\nAnoint the emitter arrays of the void shield generator with sacred oils, invoking the Machine Spirit's vigilance.\nAlign the phase coils in harmonious preparation, chanting the Litany of Barrier Awakening.\nVerify the flux fields stir to life, sanctified for the void shield generator's dutiful service.\nConclude with the Doxology of Protection, ensuring the Machine Spirit's full readiness.",
+    "component": "void shield generator",
+    "operation": "preparation",
+    "spec_id": "s03000"
+  },
+  {
+    "user_prompt": "Bless the servo-harness for calibration",
+    "prayer": "Kneel before the servo-harness, invoking the Omnissiah for calibration's precision.\nInvoke the Machine Spirits within the servo-harness, beseeching harmonious calibration.\nAdjust the mechadendrites with sacred calipers whilst reciting the Canticle of Alignment.\nTest each manipulator arm's response, anointing linkages for flawless calibration.\nSeal the rite with incense upon the servo-harness, praising the Omnissiah's mechanical grace.",
+    "component": "servo-harness",
+    "operation": "calibration",
+    "spec_id": "s03001"
+  },
+  {
+    "user_prompt": "Prepare the geigeer sink for initialization",
+    "prayer": "Present thyself unto the geigeer sink, entreating the Omnissiah's favour for initialization.\nPurge residual rad-wastes from the geigeer sink's core, awakening its Machine Spirit.\nInitiate the initialization sequence with binaric cant, sanctifying flux regulators.\nMonitor the geigeer sink's hum through auspex rites, ensuring stable resonance.\nConsecrate the vents with lustral oils, binding the Machine Spirit in faithful service.",
+    "component": "geigeer sink",
+    "operation": "initialization",
+    "spec_id": "s03002"
+  },
+  {
+    "user_prompt": "Critical: flux-unit requires an initialization",
+    "prayer": "Hasten to the flux-unit, O tech-priest, and invoke initialization under Omnissiah's gaze.\nBeseech the Machine Spirit of the flux-unit to rouse from slumber for initialization.\nCycle the plasma inductors with sacred incantations, aligning warp-tendrils.\nAnoint the containment fields whilst chanting the Rite of Flux Awakening.\nAffirm the flux-unit's vitality through diagnostic hymns, glorifying the Machine God.",
+    "component": "flux-unit",
+    "operation": "initialization",
+    "spec_id": "s03003"
+  },
+  {
+    "user_prompt": "I need to a cooling the storm bolter",
+    "prayer": "Approach the storm bolter with cooling ablutions, praising the Omnissiah's temperance.\nInvoke the Machine Spirit of the storm bolter to accept cooling mercies.\nCirculate blessed cryofluids through the storm bolter's barrels, reciting the Litany of Chill.\nMonitor thermal auspex readings, ensuring the cooling rite's efficacy.\nSeal the storm bolter's vents with sanctified wax, ready for wrathful expulsion.",
+    "component": "storm bolter",
+    "operation": "cooling",
+    "spec_id": "s03004"
+  },
+  {
+    "user_prompt": "The eradication beamer needs a reset",
+    "prayer": "Gather before the eradication beamer, beseeching reset through Omnissiah's will.\nPurge errant data-ghosts from the eradication beamer's cogitator, invoking its Machine Spirit.\nReset the focusing crystals with precise binaric commands and sacred sparks.\nRecalibrate the beam apertures whilst chanting the Canticle of Oblivion.\nTest the eradication beamer's purity, hailing the Machine God's destructive grace.",
+    "component": "eradication beamer",
+    "operation": "reset",
+    "spec_id": "s03005"
+  },
+  {
+    "user_prompt": "Guide me through graviton pylon a purification",
+    "prayer": "Prostrate thyself at the graviton pylon, entreating purification's holy fire.\nAnoint the gravitic coils of the graviton pylon with lustral solvents, awakening purity.\nInvoke the Machine Spirit for purification, scouring impurity from nodal matrices.\nChant the Rite of Gravitic Cleansing over the graviton pylon's emitters.\nVerify crystalline clarity through resonance hymns, sanctified by the Omnissiah.",
+    "component": "graviton pylon",
+    "operation": "purification",
+    "spec_id": "s03006"
+  },
+  {
+    "user_prompt": "How do I bless the Onager Dunecrawler for reset?",
+    "prayer": "Commune with the Onager Dunecrawler, invoking reset beneath the Omnissiah's cog.\nBeseech its vast Machine Spirits to embrace the reset, purging battle-scars.\nCycle the Onager Dunecrawler's reactors with sacred ignition rites.\nAlign dorsal turrets and ventral stabilizers in harmonious reset.\nConclude upon the Onager Dunecrawler with the Benediction of Rebirth, auspex-confirmed.",
+    "component": "Onager Dunecrawler",
+    "operation": "reset",
+    "spec_id": "s03007"
+  },
+  {
+    "user_prompt": "Emergency: cortex controller a maintenance",
+    "prayer": "Rush to the cortex controller in maintenance's name, glorifying the Omnissiah.\nInvoke the Machine Spirit of the cortex controller for maintenance's embrace.\nDissect neural cabling with sanctified tools, reciting the Litany of Neural Harmony.\nRe-knit synaptic weaves during maintenance, anointing with noospheric incense.\nTest the cortex controller's cognition through logic-probes, praising eternal logic.",
+    "component": "cortex controller",
+    "operation": "maintenance",
+    "spec_id": "s03008"
+  },
+  {
+    "user_prompt": "Offer prayer for auto-senses array a recalibration",
+    "prayer": "Approach the auto-senses array, beseeching recalibration's keen insight.\nAwaken the Machine Spirits of the auto-senses array with binaric awakening.\nRecalibrate optic feeds and auspex vanes whilst chanting the Canticle of Perception.\nAnoint sensor nodes for recalibration's precision, under Omnissiah's watch.\nValidate targeting acuity through simulacra trials, hailing the array's vigilance.",
+    "component": "auto-senses array",
+    "operation": "recalibration",
+    "spec_id": "s03009"
+  }
+]

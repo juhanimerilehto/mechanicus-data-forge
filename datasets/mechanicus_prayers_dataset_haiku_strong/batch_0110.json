@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0110_i00",
+    "user_request": "Rite request: operation on long-range vox transmission",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on long-range vox transmission\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the long-range vox transmission, that carries the Emperor's word across the void!\nCongregation: We invoke operation upon the long-range vox transmission, sanctify its crystalline matrices!\nPriest: First, purge the corrupted signal pathways with sacred oils and incantations.\nCongregation: Second, calibrate the resonance coils to harmonize with the Omnissiah's frequency.\nPriest: Third, test the long-range vox transmission through blessed vocalizations, that no static shall impede our communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i01",
+    "user_request": "Rite request: operation on signal encryption",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on signal encryption\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O signal encryption, ward of secrets most holy, protect the Emperor's communications!\nCongregation: We beseech operation upon signal encryption, strengthen its ciphered ramparts!\nPriest: First, invoke the Machine Spirit dwelling within the cryptographic core.\nCongregation: Second, anoint signal encryption with blessed unguents, that no heretic may breach its mysteries.\nPriest: Third, recalibrate the signal encryption's algorithmic lattices through meditative servo-prayer.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i02",
+    "user_request": "Emergency rite: noise requires reduction",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: noise requires reduction\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, for noise doth corrupt our sacred instruments!\nCongregation: Grant us reduction of this profane noise, cleanse the auditory channels!\nPriest: First, identify the source of corruption within the noise-bearing mechanisms.\nCongregation: Second, perform the sacred reduction upon the noise through dampening rituals and blessed wax-seals.\nPriest: Third, verify the noise reduction hath achieved acceptable silence through reverent listening.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i03",
+    "user_request": "Rite request: initialization on conveyor belt",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: initialization on conveyor belt\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, conveyor belt, from thy dormant slumber, for initialization awaits!\nCongregation: We perform initialization upon the conveyor belt, stir its mechanical soul to purpose!\nPriest: First, cleanse the conveyor belt's rollers and bearings of accumulated detritus.\nCongregation: Second, lubricate the conveyor belt with sacred machine-oils whilst chanting the Litany of Motion.\nPriest: Third, engage the initialization sequence, bringing the conveyor belt to blessed operational velocity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i04",
+    "user_request": "Prayer for calibration of the point defense",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for calibration of the point defense\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Venerate the point defense, sentinel of the realm, prepare for calibration most exacting!\nCongregation: We entreat calibration of the point defense, align its weapons with divine precision!\nPriest: First, inspect the point defense's targeting matrices for misalignment and corruption.\nCongregation: Second, perform the sacred calibration ritual, adjusting the point defense's servo-motors through blessed incantations.\nPriest: Third, test the point defense's firing solutions against blessed targeting drones.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i05",
+    "user_request": "My manufactorum shift beginning is failing during operation — help",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy manufactorum shift beginning is failing during operation — help\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The manufactorum shift beginning falters! We must restore its operation!\nCongregation: Grant operation to the manufactorum shift beginning, resurrect its productivity!\nPriest: First, diagnose the mechanical failure within the manufactorum shift beginning's startup sequence.\nCongregation: Second, anoint the manufactorum shift beginning with blessed lubricants and perform the Rite of Resumption.\nPriest: Third, execute the operation cycle, restoring the manufactorum shift beginning to full operational tempo.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i06",
+    "user_request": "Blessing for the steam valve during regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the steam valve during regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Bless the steam valve, conduit of pressurized sanctity, prepare for regulation!\nCongregation: We invoke regulation upon the steam valve, temper its thermic fury!\nPriest: First, inspect the steam valve's internal passages for blockage or corruption.\nCongregation: Second, perform the regulation ritual, adjusting the steam valve's pressure-release mechanisms with sacred precision.\nPriest: Third, monitor the steam valve's output, ensuring regulation maintaineth optimal pressure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i07",
+    "user_request": "Offer a litany to steady the power distribution before balancing",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the power distribution before balancing\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "Priest: Hear our litany, O Omnissiah, for power distribution requireth steadiness!\nCongregation: Grant balancing to the power distribution, equilibrate its sacred currents!\nPriest: First, measure the flux through each conduit of the power distribution with blessed instruments.\nCongregation: Second, perform the balancing ceremony, redistributing power through the power distribution's manifolds.\nPriest: Third, verify the balancing hath stabilized the power distribution across all connected machinery.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i08",
+    "user_request": "Rite request: operation on cybernetic eye focusing",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on cybernetic eye focusing\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, cybernetic eye focusing, sacred optic of the faithful!\nCongregation: We perform operation upon the cybernetic eye focusing, sharpen its blessed vision!\nPriest: First, cleanse the optical lenses of the cybernetic eye focusing with holy solvents.\nCongregation: Second, recalibrate the cybernetic eye focusing's focal mechanisms through meditative servo-adjustment.\nPriest: Third, test the operation of the cybernetic eye focusing upon distant targets, confirming clarity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0110_i09",
+    "user_request": "Prayer for stabilization of the gravity generator",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for stabilization of the gravity generator\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: O gravity generator, anchor of our sacred vessel, require stabilization!\nCongregation: We entreat stabilization of the gravity generator, steady its cosmic grasp!\nPriest: First, diagnose fluctuations within the gravity generator's field-generating coils.\nCongregation: Second, perform the stabilization rite, reinforcing the gravity generator's harmonic resonance through blessed mantras.\nPriest: Third, confirm the stabilization, verifying the gravity generator maintaineth equilibrium across all decks.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

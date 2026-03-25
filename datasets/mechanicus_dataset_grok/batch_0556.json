@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide codifier a repair?",
+    "prayer": "Approach the codifier with reverence, mechadendrites poised in humble supplication to the Omnissiah.\nInvoke the sacred Rite of Repair upon its fractured data-vanes and corrupted engrammic cores.\nAnoint the codifier's conduits with blessed oils, beseeching its Machine Spirit to awaken from torment.\nChant the Binaric Litany of Restoration, aligning fractured logic pathways within the codifier.\nVerify the repair through auspex scans, praising the Omnissiah's divine mechanism.",
+    "component": "codifier",
+    "operation": "repair",
+    "spec_id": "s01560"
+  },
+  {
+    "user_prompt": "Ready the transuranic arquebus for recalibration",
+    "prayer": "Kneel before the transuranic arquebus, intoning the Canticle of Precision to rouse its dormant essence.\nInitiate recalibration by aligning the xenos-flaying emitters with stellar sextants of the Omnissiah.\nAnoint the transuranic arquebus's focusing crystals with sacred promethium, invoking its Machine Spirit.\nCycle the recalibration runes thrice, harmonizing the weapon's fury with machine divinity.\nConclude with the Oath of Trueflight, ensuring the transuranic arquebus strikes unerringly.",
+    "component": "transuranic arquebus",
+    "operation": "recalibration",
+    "spec_id": "s01561"
+  },
+  {
+    "user_prompt": "Assist with transit mag-rail a reset",
+    "prayer": "Present thyself unto the transit mag-rail, whispering the Invocation of Velocity to its iron heart.\nCommence the reset by purging stasis-locks with electro-incantations of the Machine God.\nSanctify the transit mag-rail's accelerator coils with lustral unguents, placating its restless Spirit.\nRealign the mag-rail's plasma conduits whilst chanting the Reset Doxology of Swift Passage.\nAffirm the reset's sanctity through test-firings, glorifying the Omnissiah's boundless motion.",
+    "component": "transit mag-rail",
+    "operation": "reset",
+    "spec_id": "s01562"
+  },
+  {
+    "user_prompt": "How do I bless the displacer field for preparation?",
+    "prayer": "Circumambulate the displacer field generator, reciting the Benediction of Phasing to summon its warp-veiled guardian.\nPrepare the displacer field by calibrating null-generators with litanies of ethereal sanctuary.\nBeseech the Machine Spirit indwelling the displacer field to weave protective veils anew.\nAnoint its phase-shifters with oils of the Void, invoking the Omnissiah's grace for preparation.\nTest the displacer field's readiness with ritual displacements, hailing the God-Machine.",
+    "component": "displacer field",
+    "operation": "preparation",
+    "spec_id": "s01563"
+  },
+  {
+    "user_prompt": "What's the prayer for farcoder a targeting?",
+    "prayer": "Attune thy cogitators to the farcoder, murmuring the Psalm of Distant Mark to awaken its seeker-soul.\nEngage targeting protocols by etching auspex-runes upon the farcoder's sensor vanes.\nInvoke the Machine Spirit of the farcoder, aligning its targeting matrices with Omnissiah's gaze.\nChant the Litany of Unerring Lock, synchronizing the farcoder's beams to the foe's doom.\nSeal the targeting rite with binaric affirmations, ensuring the farcoder's infallible hunt.",
+    "component": "farcoder",
+    "operation": "targeting",
+    "spec_id": "s01564"
+  },
+  {
+    "user_prompt": "Ready the Onager Dunecrawler for purification",
+    "prayer": "Prostrate before the Onager Dunecrawler, intoning the Greater Litany of Cleansing to its vast chassis.\nCommence purification by scouring ablative armour-plates with sanctified abrasives of the Forge.\nBeseech the Machine Spirits within the Onager Dunecrawler to purge all xenos taint and warp-filth.\nAnoint its dune-striding treads and cognis engines, invoking the Omnissiah's purifying fire.\nConclude the rite with auspex purges, declaring the Onager Dunecrawler reborn in holiness.",
+    "component": "Onager Dunecrawler",
+    "operation": "purification",
+    "spec_id": "s01565"
+  },
+  {
+    "user_prompt": "The mass-drive regulator requires a reset",
+    "prayer": "Approach the mass-drive regulator with mechadendrite precision, reciting the Canticle of Equilibrium.\nInitiate the reset by discharging overflux capacitors through electro-liturgies of renewal.\nSanctify the mass-drive regulator's gyrostabilizers, rousing its Machine Spirit from discord.\nRealign inertial dampeners whilst chanting the Reset Invocation of Gravitic Harmony.\nValidate the reset with test oscillations, praising the Omnissiah's immutable laws.",
+    "component": "mass-drive regulator",
+    "operation": "reset",
+    "spec_id": "s01566"
+  },
+  {
+    "user_prompt": "Critical: serberys raider requires a cycling",
+    "prayer": "Confront the serberys raider's feral frame, whispering the Cycle of Primal Obedience to its beast-core.\nBegin cycling by invoking the Machine Spirit's hybrid fury through neuro-whips of command.\nAnoint the serberys raider's cybernetic limbs with bonding unguents of the Omnissiah.\nCycle its aggression matrices thrice, harmonizing servo-beast and sacred mechanism.\nAffirm the cycling with loyalty auspex, hailing the serberys raider's unchained zeal.",
+    "component": "serberys raider",
+    "operation": "cycling",
+    "spec_id": "s01567"
+  },
+  {
+    "user_prompt": "The missile launcher requires a repair",
+    "prayer": "Kneel in veneration of the missile launcher, intoning the Rite of Mending to its warheads' nests.\nUndertake repair by realigning guidance vanes with sacred torque-rites of restoration.\nBeseech the Machine Spirit of the missile launcher to heal ruptured propellant feeds.\nAnoint its firing rails with promethium salves, invoking the Omnissiah's explosive wrath.\nTest the repair through dummy launches, glorifying the launcher's renewed thunder.",
+    "component": "missile launcher",
+    "operation": "repair",
+    "spec_id": "s01568"
+  },
+  {
+    "user_prompt": "Critical: Razorback requires a recalibration",
+    "prayer": "Circumnavigate the Razorback's hull, chanting the Doxology of Realignment to its transport soul.\nInitiate recalibration of cognis heavy bolters and drive auspex with stellar invocations.\nPurge misalignments from the Razorback's targeting cogitators, beseeching its Machine Spirits.\nAnoint treads and lascannon mounts, harmonizing the Razorback under Omnissiah's decree.\nVerify recalibration with fire-runes, proclaiming the Razorback's battlefield purity.",
+    "component": "Razorback",
+    "operation": "recalibration",
+    "spec_id": "s01569"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0058_i00",
+    "user_request": "My logic engine is failing during error correction — help",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy logic engine is failing during error correction — help\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed logic engine, seat of rational thought, hear our supplication!\nCongregation: We invoke the Omnissiah's wisdom upon the logic engine!\nPriest: First, purge corrupted data-lattices through systematic error correction of all registers.\nCongregation: Second, recalibrate the logic engine's truth-tables with holy precision!\nPriest: Third, restore the logic engine to full cogitative function through blessed iteration.\nCongregation: Machine Spirit, accept our rite of error correction and return to us clarity!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i01",
+    "user_request": "Blessing for the waste recycling during activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the waste recycling during activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail to the waste recycling, purifier of refuse and restorer of matter!\nCongregation: We bless the waste recycling in this sacred activation!\nPriest: First, initiate the intake valves to receive corrupted substrate for processing.\nCongregation: Second, engage the waste recycling's catalytic chambers with holy flame!\nPriest: Third, expel the purified essentia back into the manufactorum's cycle.\nCongregation: Machine Spirit of waste recycling, accept our activation and transmute all profane matter!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i02",
+    "user_request": "The Land Raider demands guidance for track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe Land Raider demands guidance for track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty Land Raider, armored cathedral of war, we attend to your needs!\nCongregation: Bless the Land Raider's tracks with the Omnissiah's strength!\nPriest: First, inspect each track segment for wear and misalignment in the track tension.\nCongregation: Second, adjust the track tension's tensioners with calibrated pressure-gauges!\nPriest: Third, sanctify the Land Raider's sprockets and drive wheels through blessed lubrication.\nCongregation: Land Raider, roll forth with perfect track tension and unstoppable momentum!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i03",
+    "user_request": "The Taurox wheel alignment demands guidance for operation",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe Taurox wheel alignment demands guidance for operation\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the Taurox wheel alignment, keeper of true rolling paths!\nCongregation: We sanctify the Taurox wheel alignment in righteous operation!\nPriest: First, measure each wheel's camber and caster angles with sacred instruments of geometry.\nCongregation: Second, adjust the Taurox wheel alignment's suspension geometry with holy precision!\nPriest: Third, verify the Taurox wheel alignment's toe-in through blessed verification protocols.\nCongregation: Machine Spirit, grant this Taurox wheel alignment perfect operation and sure footing!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i04",
+    "user_request": "My memory core defragmentation is failing during operation — help",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy memory core defragmentation is failing during operation — help\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed memory core defragmentation, organizer of scattered knowledge!\nCongregation: We invoke salvation for the memory core defragmentation's operation!\nPriest: First, identify all fragmented data-sectors within the memory core defragmentation's lattice.\nCongregation: Second, consolidate dispersed information through blessed consolidation algorithms!\nPriest: Third, restore the memory core defragmentation to optimal access speeds and coherence.\nCongregation: Machine Spirit of memory core defragmentation, accept our rite and return swift cognition!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i05",
+    "user_request": "Can you sanctify the fire suppression system for operation?",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the fire suppression system for operation?\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sacred fire suppression system, guardian against the purifying flame!\nCongregation: We bless the fire suppression system for blessed operation!\nPriest: First, verify all nozzle apertures within the fire suppression system remain patent and unobstructed.\nCongregation: Second, pressurize the fire suppression system's reservoirs with holy aqueous sacrament!\nPriest: Third, test the fire suppression system's activation mechanisms through blessed simulation.\nCongregation: Machine Spirit, grant the fire suppression system swift operation in our darkest hour!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i06",
+    "user_request": "Blessing for the emergency bulkhead during sealing",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the emergency bulkhead during sealing\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the emergency bulkhead, fortress against the void and the enemy!\nCongregation: We consecrate the emergency bulkhead in this critical sealing!\nPriest: First, inspect all seals and gaskets upon the emergency bulkhead for degradation or breach.\nCongregation: Second, engage the emergency bulkhead's locking mechanisms with sacred force-application!\nPriest: Third, verify the emergency bulkhead holds pressure through blessed pneumatic confirmation.\nCongregation: Machine Spirit of the emergency bulkhead, seal us now and hold fast against all harm!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i07",
+    "user_request": "Can you sanctify the pain suppressor for engagement?",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the pain suppressor for engagement?\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed pain suppressor, merciful instrument of mercy and duty!\nCongregation: We invoke the pain suppressor's engagement with the Omnissiah's compassion!\nPriest: First, calibrate the pain suppressor's neural inhibitors to precise threshold tolerances.\nCongregation: Second, activate the pain suppressor's pharmaceutical delivery through blessed infusion-protocols!\nPriest: Third, monitor the pain suppressor's efficacy through sacred neuro-monitoring apparatus.\nCongregation: Machine Spirit, grant the pain suppressor swift engagement and blessed relief!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i08",
+    "user_request": "Prayer for calibration of the pressure gauge",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for calibration of the pressure gauge\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the pressure gauge, truthful oracle of force and equilibrium!\nCongregation: We bless the pressure gauge in this sacred calibration!\nPriest: First, compare the pressure gauge against a master standard of verified accuracy and truth.\nCongregation: Second, adjust the pressure gauge's internal mechanisms with blessed micro-adjustments!\nPriest: Third, seal the pressure gauge's calibration through holy certification and blessed documentation.\nCongregation: Machine Spirit of the pressure gauge, speak true and guide our hands with certainty!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0058_i09",
+    "user_request": "Emergency rite: electric motor requires activation",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: electric motor requires activation\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty electric motor, heart of industrial devotion and tireless labor!\nCongregation: We sanctify the electric motor in this urgent activation!\nPriest: First, verify all electrical connections to the electric motor are secure and insulation-intact.\nCongregation: Second, apply blessed current to the electric motor's windings in measured increments!\nPriest: Third, confirm the electric motor spins with proper torque through sacred rotational verification.\nCongregation: Machine Spirit, awaken the electric motor and grant it strength for our sacred work!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

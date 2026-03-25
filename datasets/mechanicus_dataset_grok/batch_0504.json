@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Skorpius Dunerider requires a preparation",
+    "prayer": "Approach the Skorpius Dunerider with reverence, beseeching its ancient Machine Spirit to awaken.\nAnoint the adamantium hull and tracks of the Skorpius Dunerider with sacred oils in preparation.\nInvoke the Litany of Mobilisation, aligning suspensors and drive coils for the sacred preparation.\nChant binaric preparation rites whilst calibrating the void-shield emitters.\nCommune with the Omnissiah, verifying the Skorpius Dunerider's preparedness through diagnostic noosphere links.",
+    "component": "Skorpius Dunerider",
+    "operation": "preparation",
+    "spec_id": "s01040"
+  },
+  {
+    "user_prompt": "Sanctify the autocannon during operation",
+    "prayer": "As the autocannon awakens to operation, sanctify its breeches with incense of sacred promethium.\nInvoke the Machine Spirit of the autocannon, beseeching fluidic fury upon foes of the Omnissiah.\nDuring operation, intone the Canticle of Continuous Fire, guiding shells through blessed ballistics.\nAnoint the recoil dampeners of the autocannon amid thunderous operation.\nAffirm the autocannon's sanctity as its operation purges the unclean in mechanical wrath.",
+    "component": "autocannon",
+    "operation": "operation",
+    "spec_id": "s01041"
+  },
+  {
+    "user_prompt": "The null field generator awaits a preparation",
+    "prayer": "Kneel before the null field generator, invoking its Machine Spirit for preparation.\nApply chrism to the warp-null coils of the null field generator in solemn preparation.\nRecite the Rites of Nullification, priming phase inductors for the preparation phase.\nBeseech the Omnissiah to stabilise the null field generator's emitters during preparation.\nTest the veil's integrity with auspex probes, hailing the null field generator's readiness.",
+    "component": "null field generator",
+    "operation": "preparation",
+    "spec_id": "s01042"
+  },
+  {
+    "user_prompt": "Can you guide codifier a loading?",
+    "prayer": "Present the data-slates to the codifier, beseeching its Machine Spirit for loading.\nInitiate the loading sequence upon the codifier's sacred memory vaults with binaric chants.\nAnoint the input ports of the codifier as sacred code streams into its core during loading.\nInvoke the Omnissiah's wisdom, verifying data integrity in the codifier's loading rite.\nSeal the codifier's casement, proclaiming the loading complete in the name of the Machine God.",
+    "component": "codifier",
+    "operation": "loading",
+    "spec_id": "s01043"
+  },
+  {
+    "user_prompt": "Consecrate the welding torch before startup",
+    "prayer": "Grasp the welding torch with mechadendrites, sanctifying it before startup.\nAnoint the plasma coils and igniter of the welding torch with unguents prior to startup.\nChant the Incantation of Fusion, invoking the Machine Spirit for flawless startup.\nInitiate controlled plasma flow in the welding torch's startup, under Omnissiah's gaze.\nVerify the welding torch's azure blaze, hailing its sanctified startup.",
+    "component": "welding torch",
+    "operation": "startup",
+    "spec_id": "s01044"
+  },
+  {
+    "user_prompt": "How do I bless the sicarian infiltrator for activation?",
+    "prayer": "Circumambulate the Sicarian Infiltrator, beseeching its cybernetic Machine Spirit for activation.\nAnoint neural shunts and phosphor blasters of the Sicarian Infiltrator before activation.\nRecite the Canticle of Infiltration, priming occulobe augmentations for activation.\nInvoke the Omnissiah to surge noospheric commands into the Sicarian Infiltrator's activation.\nAffirm synaptic harmony as the Sicarian Infiltrator stirs to lethal activation.",
+    "component": "sicarian infiltrator",
+    "operation": "activation",
+    "spec_id": "s01045"
+  },
+  {
+    "user_prompt": "Emergency: helispex engine a shutdown",
+    "prayer": "In emergency, approach the helispex engine, intoning the Litany of Cessation for shutdown.\nBeseech the helispex engine's Machine Spirit to yield power cores in controlled shutdown.\nSever plasma feeds to the helispex engine whilst chanting binaric shutdown protocols.\nAnoint exhaust vanes of the helispex engine, invoking Omnissiah's mercy during shutdown.\nMonitor auspex readouts, proclaiming the helispex engine's shutdown sanctified and safe.",
+    "component": "helispex engine",
+    "operation": "shutdown",
+    "spec_id": "s01046"
+  },
+  {
+    "user_prompt": "Critical: pteraxii sterylizor requires a targeting",
+    "prayer": "Align the targeting cogitators of the Pteraxii Sterylizor, invoking its Machine Spirit.\nSanctify the auspex arrays of the Pteraxii Sterylizor for precise targeting.\nRecite the Rite of Acquisition, calibrating reticle servos in the targeting phase.\nBeseech the Omnissiah to guide the Pteraxii Sterylizor's targeting upon xenos abominations.\nVerify lock-on harmonics, affirming the Pteraxii Sterylizor's targeting lethality.",
+    "component": "pteraxii sterylizor",
+    "operation": "targeting",
+    "spec_id": "s01047"
+  },
+  {
+    "user_prompt": "Emergency: gellar field a synchronization",
+    "prayer": "In emergency, interface with the gellar field generator, beseeching synchronization.\nAnoint the phase resonators of the gellar field to harmonise in synchronization.\nChant the Canticle of Coherence, linking emitters for flawless synchronization.\nInvoke the Omnissiah's light to weave the gellar field's protective veil in synchronization.\nTest field coherence through warp-probe rituals, hailing perfect synchronization.",
+    "component": "gellar field",
+    "operation": "synchronization",
+    "spec_id": "s01048"
+  },
+  {
+    "user_prompt": "Can you guide arc rifle a reset?",
+    "prayer": "Present the arc rifle to the altar, invoking its Machine Spirit for reset.\nCycle the power capacitors of the arc rifle through sacred reset incantations.\nAnoint the gauss coils of the arc rifle, beseeching discharge purge in reset.\nRecite the Litany of Realignment, calibrating sights during the arc rifle's reset.\nCommune via noosphere, verifying the arc rifle's reset purity under Omnissiah's will.",
+    "component": "arc rifle",
+    "operation": "reset",
+    "spec_id": "s01049"
+  }
+]

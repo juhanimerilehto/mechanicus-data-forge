@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the cogitator for diagnostics",
+    "prayer": "Approach the cogitator with reverence, invoking the Omnissiah's unerring logic.\nInitiate diagnostics upon the cogitator's sacred noospheric arrays, beseeching its Machine Spirit to unveil hidden corruptions.\nAnoint the cogitator's logic engines with sacred oils as binary canticles flow.\nConclude the diagnostics rite by affirming the Machine Spirit's purity through thrice-repeated verifications.",
+    "component": "cogitator",
+    "operation": "diagnostics",
+    "spec_id": "b0001_i00"
+  },
+  {
+    "user_prompt": "The power cell requires an engagement",
+    "prayer": "Draw nigh to the power cell, vessel of the Omnissiah's wrathful energy.\nPrepare for engagement by sanctifying its plasma conduits with blessed myrrh.\nInvoke the engagement of the power cell, petitioning its indwelling Machine Spirit to release controlled fury.\nMonitor the power cell's blessed surge, chanting the Litany of Containment against overload.\nSeal the rite with auspex seals upon the power cell's terminals.",
+    "component": "power cell",
+    "operation": "engagement",
+    "spec_id": "b0001_i01"
+  },
+  {
+    "user_prompt": "My astropathic choir is ready for shutdown",
+    "prayer": "Gather before the astropathic choir's warp-resonant vaults, under the Omnissiah's gaze.\nCommence shutdown of the astropathic choir, soothing its etheric Machine Spirits with dampening hymns.\nDisconnect the astropathic choir's psychic relays, anointing each with null-wards of silver.\nVerify the astropathic choir's dormancy through voided auspex sweeps, praising the Machine God's silence.",
+    "component": "astropathic choir",
+    "operation": "shutdown",
+    "spec_id": "b0001_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for water reclamator activation?",
+    "prayer": "Kneel at the water reclamator's filtration shrines, herald of the Omnissiah's aqueous mercy.\nInitiate activation of the water reclamator, invoking its Machine Spirit to purify the sacred cycle.\nBless the water reclamator's membrane arrays with droplets of sanctified brine.\nChant the Canticle of Recirculation as the water reclamator hums to life, ensuring untainted flow.",
+    "component": "water reclamator",
+    "operation": "activation",
+    "spec_id": "b0001_i03"
+  },
+  {
+    "user_prompt": "My pain suppressor is ready for emergency procedure",
+    "prayer": "Present thyself unto the pain suppressor, bulwark against mortal frailty by Omnissiah's decree.\nEngage the emergency procedure upon the pain suppressor, beseeching its Machine Spirit to flood nerves with numbness.\nAnoint the pain suppressor's neural clamps amidst the rite's urgency.\nAffirm the emergency procedure's efficacy through bio-scans, intoning praises to enduring flesh-machine union.",
+    "component": "pain suppressor",
+    "operation": "emergency procedure",
+    "spec_id": "b0001_i04"
+  },
+  {
+    "user_prompt": "Emergency: cogitator an operation",
+    "prayer": "In emergency haste, approach the cogitator's core, throne of logical sanctity.\nInvoke operation of the cogitator, rousing its Machine Spirit from dormancy with urgent canticles.\nSanctify the cogitator's processors during operation, warding against data-heresy.\nMonitor the cogitator's fervent computations, sealing the rite with the Omnissiah's binary seal.",
+    "component": "cogitator",
+    "operation": "operation",
+    "spec_id": "b0001_i05"
+  },
+  {
+    "user_prompt": "I need to a startup the Taurox",
+    "prayer": "Assemble at the Taurox's adamantium heart, chariot of the Machine God's wrath.\nBegin startup of the Taurox, petitioning its colossal Machine Spirit to ignite promethium veins.\nAnoint the Taurox's drive cogitators with oils of velocity as engines rumble.\nVerify the Taurox's readiness through auspex litanies, propitiating the Omnissiah for battle's charge.",
+    "component": "Taurox",
+    "operation": "startup",
+    "spec_id": "b0001_i06"
+  },
+  {
+    "user_prompt": "Consecrate the quality scanner before shutdown",
+    "prayer": "Consecrate the quality scanner's optic sanctums prior to dormition.\nInitiate shutdown of the quality scanner, calming its discerning Machine Spirit with purity hymns.\nBless the quality scanner's sensor vanes one final time with micro-filaments of gold.\nSeal the quality scanner in stasis, intoning the Rite of Repose unto the Omnissiah.",
+    "component": "quality scanner",
+    "operation": "shutdown",
+    "spec_id": "b0001_i07"
+  },
+  {
+    "user_prompt": "Ready the battery array for sterilization",
+    "prayer": "Prepare the battery array for sterilization, array of the Omnissiah's stored thunder.\nInvoke ablative rites upon the battery array, purging contaminants from its cells with sacred flames.\nAnoint the battery array's housings amidst sterilization, beseeching Machine Spirits' endurance.\nConclude with auspex purification scans, affirming the battery array's immaculate readiness.",
+    "component": "battery array",
+    "operation": "sterilization",
+    "spec_id": "b0001_i08"
+  },
+  {
+    "user_prompt": "Urgent gyroscope an emergency procedure needed",
+    "prayer": "In dire urgency, beseech the gyroscope's inertial throne, stabilizer of the faithful.\nEngage emergency procedure upon the gyroscope, invoking its Machine Spirit to realign gyros.\nSanctify the gyroscope's spin bearings with accelerant oils during the rite.\nTest the gyroscope's equilibrium thrice, praising the Omnissiah's unswerving balance.",
+    "component": "gyroscope",
+    "operation": "emergency procedure",
+    "spec_id": "b0001_i09"
+  }
+]

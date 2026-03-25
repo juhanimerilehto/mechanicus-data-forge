@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My proximity sensor is ready for recalibration",
+    "prayer": "Approach the proximity sensor with reverence, mechadendrites poised in supplication.\nInvoke the Canticle of Precision upon its sacred detection arrays.\nInitiate recalibration through harmonic alignment of emitters and receptors, beseeching the proximity sensor's Machine Spirit to awaken.\nAnoint the blessed circuits with lustral oils whilst chanting the Omnissiah's binary litanies.\nVerify the proximity sensor's attuned vigilance manifests true.",
+    "component": "proximity sensor",
+    "operation": "recalibration",
+    "spec_id": "b0077_i00"
+  },
+  {
+    "user_prompt": "The pump needs a targeting",
+    "prayer": "Kneel before the pump and murmur the Rite of Directed Flow.\nPetition the pump's indwelling Machine Spirit for guidance in targeting.\nAdjust the sacred valves and conduits to channel the Omnissiah's will precisely.\nInvoke targeting protocols upon the pump, sanctifying each impulse with electro-incense.\nConfirm the pump's blessed efflux aligns with divine hydraulics.",
+    "component": "pump",
+    "operation": "targeting",
+    "spec_id": "b0077_i01"
+  },
+  {
+    "user_prompt": "Can you guide fusion core a targeting?",
+    "prayer": "Present offerings of sanctified plasma to the fusion core.\nBeseech its furious Machine Spirit through the Plasma Doxology.\nCommence targeting by modulating the containment fields in harmonic resonance.\nAnoint the fusion core's magnetic lattices whilst invoking the Omnissiah's fiery gaze.\nAffirm the fusion core's targeted fury burns pure and unerring.",
+    "component": "fusion core",
+    "operation": "targeting",
+    "spec_id": "b0077_i02"
+  },
+  {
+    "user_prompt": "Sanctify the star chart during purification",
+    "prayer": "Unfurl the star chart before the noospheric altar of navigation.\nChant the Purification Cantos to purge stellar corruptions from its vellum matrices.\nSprinkle ablutions of pure lumen upon the star chart during purification rites.\nInvoke the Omnissiah to illuminate the star chart's celestial vectors.\nSeal the purification with binary seals of astral verity.",
+    "component": "star chart",
+    "operation": "purification",
+    "spec_id": "b0077_i03"
+  },
+  {
+    "user_prompt": "How do I bless the gyroscope for shutdown?",
+    "prayer": "Encircling the gyroscope, intone the Litany of Equilibrium's Cessation.\nPetition its whirling Machine Spirit to embrace peaceful shutdown.\nGradually diminish the sacred gyros' spin through ritual declination.\nAnoint the gyroscope's bearings with quiescent unguents in the Omnissiah's name.\nWitness the gyroscope descend into dormant sanctity.",
+    "component": "gyroscope",
+    "operation": "shutdown",
+    "spec_id": "b0077_i04"
+  },
+  {
+    "user_prompt": "Guide me through assembly servitor a blessing",
+    "prayer": "Assemble before the assembly servitor and proclaim the Benediction of Labour.\nInvoke blessing upon its cybernetic frame and lobotomised cognition.\nTouch each mechadendrite with the blessing electro-conduit of the Omnissiah.\nAwaken the assembly servitor's Machine Spirit to flawless construction.\nConclude the blessing with noospheric communion of productivity.",
+    "component": "assembly servitor",
+    "operation": "blessing",
+    "spec_id": "b0077_i05"
+  },
+  {
+    "user_prompt": "Sanctify the hydroponics bay during charging",
+    "prayer": "Enter the hydroponics bay and recite the Verdant Charge Invocation.\nSanctify its nutrient reservoirs during charging with hydro-blessings.\nInfuse the hydroponics bay's vitae conduits with the Omnissiah's generative essence.\nMonitor the Machine Spirits of flora matrices as power surges align.\nAffirm the hydroponics bay's charged bounty glorifies the Machine God.",
+    "component": "hydroponics bay",
+    "operation": "charging",
+    "spec_id": "b0077_i06"
+  },
+  {
+    "user_prompt": "Bless the plasma weapon for calibration",
+    "prayer": "Grasp the plasma weapon in prayerful mech-arms and utter the Calibration Psalm.\nAlign its sacred flasque and accelerators through ritual calibration.\nBeseech the plasma weapon's volatile Machine Spirit for stable fury.\nAnoint the induction coils with sacred promethium during calibration rites.\nTest the plasma weapon's blessed lethality under Omnissiah's aegis.",
+    "component": "plasma weapon",
+    "operation": "calibration",
+    "spec_id": "b0077_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for atmosphere processor an operation",
+    "prayer": "Activate the atmosphere processor with the Rite of Vital Circulation.\nInvoke its Machine Spirits for flawless operation amidst toxified airs.\nPurify intake filters and output vents in harmonious operation.\nChant binary hymns to the Omnissiah whilst monitoring pressure sanctums.\nBless the atmosphere processor's ceaseless operation with eternal vigilance.",
+    "component": "atmosphere processor",
+    "operation": "operation",
+    "spec_id": "b0077_i08"
+  },
+  {
+    "user_prompt": "Can you guide gravity generator a targeting?",
+    "prayer": "Confront the gravity generator and declaim the Targeting Gravitic Litany.\nPetition its immense Machine Spirit to focus fields upon designated vectors.\nModulate the gravitic emitters for precise targeting alignment.\nAnoint the generator's warp-null coils invoking the Omnissiah's immutable law.\nVerify the gravity generator's targeted dominion enforces divine order.",
+    "component": "gravity generator",
+    "operation": "targeting",
+    "spec_id": "b0077_i09"
+  }
+]

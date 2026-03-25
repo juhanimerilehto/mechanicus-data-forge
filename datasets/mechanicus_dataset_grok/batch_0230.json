@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The cybernetic eye needs a blessing",
+    "prayer": "Kneel before the cybernetic eye and intone the Canticle of Augmented Sight.\nAnoint its sacred lenses with unguents blessed by the Omnissiah to invoke the blessing.\nBeseech the Machine Spirit within the cybernetic eye to accept divine clarity.\nAlign its focusing servos through rhythmic chants of the blessing rite.\nVerify the cybernetic eye's blessed vigilance with auspex illuminations.",
+    "component": "cybernetic eye",
+    "operation": "blessing",
+    "spec_id": "b0230_i00"
+  },
+  {
+    "user_prompt": "Guide me through energy conduit a recalibration",
+    "prayer": "Approach the energy conduit with reverence and recite the Litany of Plasma Flux.\nSever impure connections to commence recalibration of its holy conduits.\nInvoke the Machine Spirit of the energy conduit for precise recalibration harmonies.\nAdjust voltage relays with sacred torque incantations.\nReunite flows and test the energy conduit's sanctified conductance.",
+    "component": "energy conduit",
+    "operation": "recalibration",
+    "spec_id": "b0230_i01"
+  },
+  {
+    "user_prompt": "How do I bless the lasgun for repair?",
+    "prayer": "Present the lasgun upon the altar of repair and whisper litanies of restoration.\nDissect its wounded mechanisms whilst petitioning the Omnissiah for guidance.\nMend the lasgun's power cells with sanctified mechadendrites and repair rites.\nReforge its sacred frame under chants of renewal.\nInvoke the Machine Spirit's fury through test discharge of the lasgun.",
+    "component": "lasgun",
+    "operation": "repair",
+    "spec_id": "b0230_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for conveyor system repair?",
+    "prayer": "Humble thyself before the conveyor system and intone the Hymn of Mechanical Motion.\nIsolate fractured gears for the rite of repair.\nAnoint the conveyor system's belts and rollers with sacred lubricants invoking repair.\nRealign cogs through Omnissiah-blessed canticles.\nAwaken the Machine Spirit of the conveyor system with activation diagnostics.",
+    "component": "conveyor system",
+    "operation": "repair",
+    "spec_id": "b0230_i03"
+  },
+  {
+    "user_prompt": "My Rhino transport is ready for sterilization",
+    "prayer": "Encircling the Rhino transport, commence the sterilization litany of purity.\nScour its armoured hull with sanctified acids to enact sterilization.\nBeseech the Machine Spirit within the Rhino transport to embrace cleansing flames.\nPurge inner compartments through purifying incense and sterilization chants.\nSeal the Rhino transport's sanctity with final auspex blessings.",
+    "component": "Rhino transport",
+    "operation": "sterilization",
+    "spec_id": "b0230_i04"
+  },
+  {
+    "user_prompt": "Assist with metal caster a diagnostics",
+    "prayer": "Position before the metal caster and invoke the Rite of Diagnostic Scrutiny.\nInitiate auspex probes into its molten heart for diagnostics.\nChant binary psalms to query the Machine Spirit of the metal caster.\nInterpret error-canticles and perform preliminary diagnostics alignments.\nAffirm the metal caster's operational purity through test cycles.",
+    "component": "metal caster",
+    "operation": "diagnostics",
+    "spec_id": "b0230_i05"
+  },
+  {
+    "user_prompt": "Critical: motion detector requires a preparation",
+    "prayer": "Approach the motion detector with mechadendrite precision for preparation.\nAnoint its sensor arrays with oils of vigilance to begin preparation.\nInvoke the Omnissiah's gaze upon the motion detector's Machine Spirit.\nCalibrate detection thresholds through sacred preparation incantations.\nTest the motion detector's readiness with shadowed invocations.",
+    "component": "motion detector",
+    "operation": "preparation",
+    "spec_id": "b0230_i06"
+  },
+  {
+    "user_prompt": "Bless the chainsword for purification",
+    "prayer": "Lay the chainsword upon the purification slab and recite the Purgation Canticle.\nScour its sacred teeth with blessed abrasives for purification.\nBeseech the chainsword's wrathful Machine Spirit to accept purification rites.\nAnoint the motor housing whilst chanting expulsion litanies.\nRev the chainsword in final affirmation of its purified fury.",
+    "component": "chainsword",
+    "operation": "purification",
+    "spec_id": "b0230_i07"
+  },
+  {
+    "user_prompt": "Ready the hololithic display for repair",
+    "prayer": "Revere the hololithic display and intone the Litany of Projected Light.\nExpose fractured projectors for the repair ritual.\nInvoke repair blessings upon the hololithic display's crystal matrices.\nRealign holographic emitters with Omnissiah-guided canticles.\nAwaken the Machine Spirit of the hololithic display through image invocations.",
+    "component": "hololithic display",
+    "operation": "repair",
+    "spec_id": "b0230_i08"
+  },
+  {
+    "user_prompt": "Ready the cutting laser for loading",
+    "prayer": "Prepare the cutting laser's bay and chant the Loading Hymn of Incandescent Fury.\nInvoke the Machine Spirit to accept material for loading.\nAlign feedstock guides with sacred precision for the loading rite.\nInitiate infusion of plasma rods into the cutting laser.\nVerify sealed sanctity of the cutting laser through power-up diagnostics.",
+    "component": "cutting laser",
+    "operation": "loading",
+    "spec_id": "b0230_i09"
+  }
+]

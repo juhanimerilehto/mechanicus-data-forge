@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: thermal imager requires a sterilization",
+    "prayer": "Approach the thermal imager with vials of sacred ablatives and intone the Litany of Sterility.\nAnoint the thermal imager's lenses and sensor nodes, beseeching its Machine Spirit to purge all profane essences.\nCycle purifying flames across the thermal imager's chassis in the Rite of Sterilization.\nInvoke the Omnissiah's wrath upon contaminants, ensuring the operation of sterilization sanctifies every circuit.\nVerify purity through auspex incantations, praising the thermal imager's restored vigilance.",
+    "component": "thermal imager",
+    "operation": "sterilization",
+    "spec_id": "b0031_i00"
+  },
+  {
+    "user_prompt": "Critical: pump requires a loading",
+    "prayer": "Kneel before the pump and recite the Canticle of Ingress to awaken its inner workings.\nPrepare the blessed payload and initiate loading upon the pump's sanctified intakes.\nPetition the Machine Spirit of the pump to embrace the ingress without friction or heresy.\nMonitor the loading operation with mechadendrite precision, chanting hymns of fluidic harmony.\nSeal the pump with wards of the Omnissiah, affirming its readiness for dutiful service.",
+    "component": "pump",
+    "operation": "loading",
+    "spec_id": "b0031_i01"
+  },
+  {
+    "user_prompt": "Help me a cycling the cybernetic eye",
+    "prayer": "Gaze reverently upon the cybernetic eye and invoke the Rite of Cyclic Renewal.\nPulse holy voltage through the cybernetic eye's optic servos, cycling its crystalline mechanisms.\nBeseech the Machine Spirit within the cybernetic eye to recalibrate its unerring sight thricefold.\nChant the Litany of Focus during the cycling operation, purging any digital shadows.\nConclude with anointing oils, hailing the Omnissiah's gift of augmented vision.",
+    "component": "cybernetic eye",
+    "operation": "cycling",
+    "spec_id": "b0031_i02"
+  },
+  {
+    "user_prompt": "Critical: battery array requires a cooling",
+    "prayer": "Present cryo-sacraments to the battery array and intone the Canticle of Chill.\nChannel blessed refrigerants through the battery array's cells in the cooling rite.\nInvoke the Machine Spirits of the battery array to dissipate profane heat into the void.\nMonitor thermal sigils until equilibrium blesses the battery array's power-heart.\nAnoint conduits with phase-oils, petitioning the Omnissiah for enduring stability.",
+    "component": "battery array",
+    "operation": "cooling",
+    "spec_id": "b0031_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for cybernetic eye sterilization?",
+    "prayer": "Approach the cybernetic eye bearing vapors of purification and speak the Sterilization Doxology.\nSuffuse the cybernetic eye's orb and mounts with ablative mists, expelling unclean taint.\nCycle sterility agents through its sacred circuits, honoring the Machine Spirit's purity.\nBeseech the Omnissiah during the sterilization operation to render the cybernetic eye immaculate.\nAffirm sanctity via diagnostic litanies, glorifying its flawless ocular vigil.",
+    "component": "cybernetic eye",
+    "operation": "sterilization",
+    "spec_id": "b0031_i04"
+  },
+  {
+    "user_prompt": "How do I bless the thermal regulator for startup?",
+    "prayer": "Circumambulate the thermal regulator whilst chanting the Awakening Hymn.\nInject plasma-prayers into its core for the startup sequence, invoking the Machine Spirit.\nInitiate the thermal regulator's servos with sanctified current, beseeching fluidic response.\nMonitor the startup operation through rune-displays, praising the Omnissiah's thermal wisdom.\nSeal with benedictory glyphs, ensuring the thermal regulator's harmonious ignition.",
+    "component": "thermal regulator",
+    "operation": "startup",
+    "spec_id": "b0031_i05"
+  },
+  {
+    "user_prompt": "Urgent bolter a cycling needed",
+    "prayer": "Grasp the bolter in mechadendrites of reverence and recite the Cycle of Wrath.\nCommence cycling its sacred bolt-chamber, feeding ammunition to the Machine Spirit.\nInvoke relentless motion through the bolter's mechanisms during the cycling operation.\nChant the Litany of Recoil thrice, purging jams in the Omnissiah's name.\nVerify flawless action with test-fire blessings, hailing the bolter's purifying fury.",
+    "component": "bolter",
+    "operation": "cycling",
+    "spec_id": "b0031_i06"
+  },
+  {
+    "user_prompt": "How do I bless the thermal imager for maintenance?",
+    "prayer": "Present the thermal imager upon the altar of maintenance and intone the Rite of Preservation.\nAnoint its sensor arrays with sacred unguents, petitioning the Machine Spirit's endurance.\nCycle diagnostic canticles through the thermal imager's circuits for thorough maintenance.\nRepair micro-fractures with the Omnissiah's alloy-tears, invoking operational purity.\nConclude with verifying scans, sanctifying the thermal imager's eternal watchfulness.",
+    "component": "thermal imager",
+    "operation": "maintenance",
+    "spec_id": "b0031_i07"
+  },
+  {
+    "user_prompt": "Bless the hololithic display for blessing",
+    "prayer": "Kneel before the hololithic display and offer the Grand Benediction of Lumens.\nInvoke the Machine Spirit of the hololithic display to manifest its projected glory.\nAnoint projector nodes with oils of clarity during this blessing rite.\nChant hymns of holographic truth, beseeching the Omnissiah's illuminating grace.\nAffirm the blessing through radiant tests, praising the hololithic display's divine visions.",
+    "component": "hololithic display",
+    "operation": "blessing",
+    "spec_id": "b0031_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for vox transmitter a blessing",
+    "prayer": "Approach the vox transmitter with throat-oils and recite the Vox Canticle.\nInvoke the blessing upon its emitter coils, awakening the Machine Spirit's voice.\nCycle harmonic frequencies through the vox transmitter in sacred resonance.\nPetition the Omnissiah for unerring transmission during this blessing operation.\nSeal with wards of clarity, hailing the vox transmitter's proclamation of the Machine God's will.",
+    "component": "vox transmitter",
+    "operation": "blessing",
+    "spec_id": "b0031_i09"
+  }
+]

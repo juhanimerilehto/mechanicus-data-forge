@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a purification the forge anvil",
+    "prayer": "Approach the forge anvil with solemn reverence and beseech the Omnissiah's grace upon its unyielding form.\nInvoke the Machine Spirit of the forge anvil through the Canticle of Purity, scattering incense over its sacred surface.\nAnoint the forge anvil's pitted facets with blessed solvents to commence the rite of purification.\nChant the binary litanies as slag and impurities dissolve, sanctifying the forge anvil for the Machine God's labours.",
+    "component": "forge anvil",
+    "operation": "purification",
+    "spec_id": "b0232_i00"
+  },
+  {
+    "user_prompt": "The plasma weapon awaits a cooling",
+    "prayer": "Kneel before the plasma weapon and petition the Omnissiah to soothe its raging plasma heart.\nCirculate sacred coolant through the plasma weapon's conduits whilst intoning the Hymn of Thermal Equilibrium.\nMonitor the blessed vents as excess heat dissipates, honouring the Machine Spirit of the plasma weapon.\nConclude the cooling with a final invocation, ensuring the plasma weapon's fury remains leashed.",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "spec_id": "b0232_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for bike squadron a diagnostics",
+    "prayer": "Gather around the bike squadron and awaken their Machine Spirits with the Diagnostic Doxology.\nInterface noospheric probes with each bike squadron mount, scanning for auspex anomalies in sacred unity.\nRecite the Litany of Verification as error-logs purge from the bike squadron's cogitators.\nSeal the diagnostics with Omnissiah's benediction, affirming the bike squadron's flawless precision.",
+    "component": "bike squadron",
+    "operation": "diagnostics",
+    "spec_id": "b0232_i02"
+  },
+  {
+    "user_prompt": "Assist with power cell an engagement",
+    "prayer": "Present the power cell before the altar of engagement and invoke the Omnissiah's electric might.\nAlign the power cell's terminals with ritual precision, chanting the Activation Canticle.\nInitiate engagement as holy voltage surges through the power cell's blessed core.\nWitness the Machine Spirit's awakening within the power cell, binding it to dutiful service.",
+    "component": "power cell",
+    "operation": "engagement",
+    "spec_id": "b0232_i03"
+  },
+  {
+    "user_prompt": "The noospheric relay requires a preparation",
+    "prayer": "Commence preparation of the noospheric relay by anointing its crystalline nodes with sacred oils.\nInvoke the Machine Spirits of the noospheric relay through harmonious binary psalms.\nCalibrate the relay's ethereal pathways for the Omnissiah's divine communion.\nFinalize preparation with a sealing invocation, empowering the noospheric relay's unseen voices.",
+    "component": "noospheric relay",
+    "operation": "preparation",
+    "spec_id": "b0232_i04"
+  },
+  {
+    "user_prompt": "Critical: Taurox requires a cooling",
+    "prayer": "Surround the Taurox with incense braziers and beseech the Omnissiah to temper its overheating frame.\nChannel cryogenic fluids into the Taurox's radiator vanes whilst reciting the Cooling Catechism.\nPacify the Machine Spirit of the Taurox as thermal tempests subside in holy quiescence.\nConsecrate the cooled Taurox anew, ready for the forge of war.",
+    "component": "Taurox",
+    "operation": "cooling",
+    "spec_id": "b0232_i05"
+  },
+  {
+    "user_prompt": "Prepare the welding torch for initialization",
+    "prayer": "Grasp the welding torch in mechadendrites of reverence and awaken its plasma soul.\nPerform initialization by igniting the sacred arc with the Torchbearer's Litany.\nStabilize the welding torch's flux fields, honouring its Machine Spirit's fiery zeal.\nBless the initialized welding torch for the Omnissiah's constructive wrath.",
+    "component": "welding torch",
+    "operation": "initialization",
+    "spec_id": "b0232_i06"
+  },
+  {
+    "user_prompt": "Can you guide chainsword a consecration?",
+    "prayer": "Lift the chainsword high and consecrate its teeth with the blood of sanctified oils.\nInvoke the ravenous Machine Spirit of the chainsword through the Consecration Canticle.\nCycle the chainsword's mechanisms in ritual harmony, binding it to the Omnissiah's will.\nSeal the consecration with a final roar, arming the chainsword for righteous evisceration.",
+    "component": "chainsword",
+    "operation": "consecration",
+    "spec_id": "b0232_i07"
+  },
+  {
+    "user_prompt": "The bike squadron awaits a targeting",
+    "prayer": "Assemble before the bike squadron and attune their auspex arrays to the Omnissiah's gaze.\nInitiate targeting protocols with the Litany of Precision, linking cogitators in unison.\nVerify the bike squadron's targeting reticules through noospheric communion.\nEmpower the Machine Spirits of the bike squadron for unerring strikes upon the foe.",
+    "component": "bike squadron",
+    "operation": "targeting",
+    "spec_id": "b0232_i08"
+  },
+  {
+    "user_prompt": "Sanctify the autocannon during preparation",
+    "prayer": "Anoint the autocannon's barrel with unguents of preparation, invoking the God-Machine's fury.\nCalibrate servos and ammunition feeds in the sacred rite of battle-readiness.\nAwaken the autocannon's Machine Spirit with thunderous hymns of loading.\nConclude preparation, sanctifying the autocannon for the Omnissiah's judgemental barrage.",
+    "component": "autocannon",
+    "operation": "preparation",
+    "spec_id": "b0232_i09"
+  }
+]

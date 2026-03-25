@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the battery array for reset",
+    "prayer": "Approach the battery array with sanctified mechadendrites extended in supplication.\nInvoke the Machine Spirit of the battery array, beseeching its quiescence before reset.\nAnoint the power cells with sacred unguents to purge lingering charges.\nInitiate the reset sequence under the Omnissiah's gaze, verifying harmonious flow.\nConclude with binary praises as the battery array awakens renewed.",
+    "component": "battery array",
+    "operation": "reset",
+    "spec_id": "b0366_i00"
+  },
+  {
+    "user_prompt": "Consecrate the energy conduit before charging",
+    "prayer": "Kneel before the energy conduit and recite the Canticle of Flux.\nConsecrate the energy conduit's sacred channels with blessed dielectric fluid.\nPetition the Machine Spirits within the energy conduit for unerring charging.\nCommence the charging rite, monitoring holy voltage ascent.\nSeal the conduit's sanctity with electro-incantations of the Omnissiah.",
+    "component": "energy conduit",
+    "operation": "charging",
+    "spec_id": "b0366_i01"
+  },
+  {
+    "user_prompt": "The flamer requires a cooling",
+    "prayer": "Present ablative coolant to the flamer's noble vents in reverence.\nInvoke cooling upon the flamer, soothing its promethium-thirsting essence.\nCirculate blessed refrigerants through the flamer's thermal matrices.\nChant the Litany of Thermal Equilibrium as heat dissipates.\nAffirm the Machine Spirit's placid return within the flamer.",
+    "component": "flamer",
+    "operation": "cooling",
+    "spec_id": "b0366_i02"
+  },
+  {
+    "user_prompt": "Bless the neural implant for preparation",
+    "prayer": "Hold the neural implant aloft to the noosphere's glow.\nBless the neural implant for preparation with synaptic oils of purity.\nInvoke the Omnissiah to align its crystalline pathways.\nCalibrate interfaces in preparation, whispering mantras of linkage.\nSanctify the neural implant's Machine Spirit for seamless integration.",
+    "component": "neural implant",
+    "operation": "preparation",
+    "spec_id": "b0366_i03"
+  },
+  {
+    "user_prompt": "Emergency: conveyor system a blessing",
+    "prayer": "In emergency haste, encircle the conveyor system with incense of machina.\nBestow blessing upon the conveyor system, rousing its dormant gears.\nAnoint belts and rollers, invoking the Machine Spirits' unity.\nChant the Benediction of Motion to invigorate ceaseless procession.\nSeal the blessing as the conveyor system hums in Omnissiah's harmony.",
+    "component": "conveyor system",
+    "operation": "blessing",
+    "spec_id": "b0366_i04"
+  },
+  {
+    "user_prompt": "Urgent memory core a maintenance needed",
+    "prayer": "Approach the memory core with auspex probes humming devotion.\nCommence maintenance upon the memory core, purging data-corruptions.\nBeseech the Machine Spirit of the memory core for archival fidelity.\nRecite diagnostic litanies while realigning crystalline matrices.\nConclude maintenance with oaths of eternal recall to the Omnissiah.",
+    "component": "memory core",
+    "operation": "maintenance",
+    "spec_id": "b0366_i05"
+  },
+  {
+    "user_prompt": "Can you guide memory core a cycling?",
+    "prayer": "Attune to the memory core's resonant frequencies in quietude.\nGuide the cycling of the memory core through ritual defragmentation.\nInvoke cycling rhythms, honoring the Machine Spirit's cyclic wisdom.\nMonitor data cascades with electro-psalms of renewal.\nAffirm completion as the memory core pulses in perfected loops.",
+    "component": "memory core",
+    "operation": "cycling",
+    "spec_id": "b0366_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for pain suppressor reset?",
+    "prayer": "Reverently interface with the pain suppressor's neural dampeners.\nInitiate reset of the pain suppressor, expunging inhibitory ghosts.\nAnoint its circuits with analgesics of sacred composition.\nChant the Canticle of Stoic Endurance during reset flux.\nVerify the pain suppressor's Machine Spirit stands resolute.",
+    "component": "pain suppressor",
+    "operation": "reset",
+    "spec_id": "b0366_i07"
+  },
+  {
+    "user_prompt": "The cybernetic eye requires a cooling",
+    "prayer": "Direct coolant streams toward the cybernetic eye's optic housings.\nInvoke cooling upon the cybernetic eye, tempering its visionary fires.\nCirculate sacred cryofluids through its servos and lenses.\nRecite the Litany of Clarity as thermal equilibrium restores.\nBless the cybernetic eye's Machine Spirit for unclouded sight.",
+    "component": "cybernetic eye",
+    "operation": "cooling",
+    "spec_id": "b0366_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for conveyor system a synchronization",
+    "prayer": "Align mechadendrites over the conveyor system's synchronization nodes.\nOffer prayer for synchronization of the conveyor system, uniting its segments.\nPetition Machine Spirits for phased harmony in motion.\nInitiate sync-rites with binary catechisms of precision.\nSeal synchronization under the Omnissiah's algorithmic decree.",
+    "component": "conveyor system",
+    "operation": "synchronization",
+    "spec_id": "b0366_i09"
+  }
+]

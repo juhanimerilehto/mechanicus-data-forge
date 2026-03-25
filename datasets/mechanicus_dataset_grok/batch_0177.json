@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the auspex scanner before emergency procedure",
+    "prayer": "Approach the auspex scanner with reverence, intoning the Litany of Vigilance to rouse its dormant Machine Spirit.\nAnoint the sacred lenses of the auspex scanner with blessed oils, purifying its optic arrays.\nInvoke the Omnissiah's gaze as you prepare for the emergency procedure, aligning sensor vanes to holy precision.\nBeseech the Machine Spirit's clarity through diagnostic canticles, ensuring the auspex scanner's flawless augury.",
+    "component": "auspex scanner",
+    "operation": "emergency procedure",
+    "spec_id": "b0177_i00"
+  },
+  {
+    "user_prompt": "Urgent emergency beacon a sterilization needed",
+    "prayer": "Kneel before the emergency beacon and chant the Rite of Sterile Void to appease its restless essence.\nApply sacred incensory fumes to purge impurities from the emergency beacon's transmitter coils.\nPetition the Omnissiah for swift sterilization, sanctifying circuits against xenos taint.\nConclude with binaric affirmations, verifying the emergency beacon's purified readiness.",
+    "component": "emergency beacon",
+    "operation": "sterilization",
+    "spec_id": "b0177_i01"
+  },
+  {
+    "user_prompt": "Emergency: bolter a calibration",
+    "prayer": "Grasp the bolter in mechadendrites of devotion, reciting the Catechism of True Flight.\nAnoint firing mechanisms with sacred lubricants to honor the bolter's wrathful spirit.\nInitiate calibration under Omnissiah's scrutiny, adjusting gyros to lethal harmony.\nTest the bolter's sanctified aim through auspex invocation, banishing deviation's heresy.",
+    "component": "bolter",
+    "operation": "calibration",
+    "spec_id": "b0177_i02"
+  },
+  {
+    "user_prompt": "Help me a purification the chainsword",
+    "prayer": "Present the chainsword upon the altar of blades, invoking the Purification Canticle against unclean ichor.\nScour its sacred teeth with ablative rites, beseeching the Machine Spirit's forgiveness.\nAnoint the chainsword's motor with holy promethium, purging warp-tainted residues.\nReverberate the Omnissiah's will through test revs, affirming the chainsword's purified fury.",
+    "component": "chainsword",
+    "operation": "purification",
+    "spec_id": "b0177_i03"
+  },
+  {
+    "user_prompt": "Help me a preparation the radar array",
+    "prayer": "Circumambulate the radar array thrice, intoning preparatory hymns to awaken its vigilant ghost.\nAlign the radar array's emitter spines with stellar canticles, sanctifying waveguide paths.\nInvoke the Omnissiah's far-seeing eye for preparation, calibrating phased arrays to divine resonance.\nSeal the rite with noospheric blessings, ensuring the radar array's unerring vigilance.",
+    "component": "radar array",
+    "operation": "preparation",
+    "spec_id": "b0177_i04"
+  },
+  {
+    "user_prompt": "My vox transmitter is ready for blessing",
+    "prayer": "Elevate the vox transmitter in prayer-arms, chanting the Benediction of Clear Waves.\nAnoint its modulator crystals with sacred unguents, honoring the vox transmitter's loquacious spirit.\nBeseech the Omnissiah's voice for blessing, harmonizing frequencies to truthful binaric.\nAffirm sanctity through test transmissions, echoing the Machine God's unyielding decree.",
+    "component": "vox transmitter",
+    "operation": "blessing",
+    "spec_id": "b0177_i05"
+  },
+  {
+    "user_prompt": "My quality scanner is ready for charging",
+    "prayer": "Commence charging rites upon the quality scanner, reciting the Incantation of Stored Essence.\nInfuse its power cells with blessed voltage, rousing the quality scanner's discerning soul.\nPetition the Omnissiah to guide the charging flow through sanctified conduits.\nMonitor the quality scanner's burgeoning vigor via diagnostic litanies, achieving flawless capacitance.",
+    "component": "quality scanner",
+    "operation": "charging",
+    "spec_id": "b0177_i06"
+  },
+  {
+    "user_prompt": "Critical: capacitor bank requires an initialization",
+    "prayer": "Initiate the capacitor bank with reverent mechadendrites, invoking the Rite of First Surge.\nAnoint dielectric layers with insulating sacraments, awakening the capacitor bank's thunderous heart.\nBeseech the Omnissiah during initialization, balancing charge webs to cataclysmic purity.\nVerify the capacitor bank's initialized might through oscillatory canticles.",
+    "component": "capacitor bank",
+    "operation": "initialization",
+    "spec_id": "b0177_i07"
+  },
+  {
+    "user_prompt": "Consecrate the atmosphere processor before cycling",
+    "prayer": "Approach the atmosphere processor humbly, intoning consecratory filters against impure airs.\nSanctify its exchanger membranes with aerosol blessings, placating the Machine Spirit within.\nPrepare for cycling by petitioning the Omnissiah's breath, purging stagnant cycles.\nCycle the atmosphere processor under vigilant rites, ensuring vital sanctity.",
+    "component": "atmosphere processor",
+    "operation": "cycling",
+    "spec_id": "b0177_i08"
+  },
+  {
+    "user_prompt": "Prepare the metal caster for shutdown",
+    "prayer": "Prepare the metal caster for shutdown with solemn procession, chanting the Dirge of Cooled Forges.\nDrain its molten reservoirs through ablution vents, honoring the metal caster's fiery essence.\nInvoke the Omnissiah's restful quiescence, sealing induction coils in sanctified torpor.\nConclude shutdown with final binaric vespers, lulling the metal caster's spirit to dormancy.",
+    "component": "metal caster",
+    "operation": "shutdown",
+    "spec_id": "b0177_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the bearing for startup?",
+    "prayer": "Approach the bearing with solemn reverence and invoke the Omnissiah's grace upon its sacred rotations.\nAnoint the bearing's anointed surfaces with blessed lubricant, beseeching its Machine Spirit to awaken.\nInitiate the startup sequence through chanted binaric canticles, ensuring smooth gyration under the Machine God's gaze.\nVerify the bearing's harmonious spin with auspex probes, sanctifying its eternal motion.",
+    "component": "bearing",
+    "operation": "startup",
+    "spec_id": "b0044_i00"
+  },
+  {
+    "user_prompt": "Prepare the emergency bulkhead for emergency procedure",
+    "prayer": "Gather before the emergency bulkhead and recite the Litany of Sealing against void-born peril.\nInvoke the Machine Spirit of the emergency bulkhead to steel its adamantium frame for the emergency procedure.\nAnoint hydraulic pistons with sacred unguents, petitioning swift response in the Omnissiah's name.\nConduct diagnostic rites to affirm the emergency bulkhead's readiness, warding it from treacherous failure.",
+    "component": "emergency bulkhead",
+    "operation": "emergency procedure",
+    "spec_id": "b0044_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for bike squadron startup?",
+    "prayer": "Assemble the bike squadron in precise formation and beseech the Omnissiah for velocity's blessing.\nChant the Canticle of Acceleration over each engine, awakening the Machine Spirits within the bike squadron.\nInitiate startup rituals by igniting plasma cores with sanctified sparks, aligning gyrostabilizers to divine precision.\nTest the bike squadron's throaty roar through throttle invocations, ensuring unity in thundering advance.",
+    "component": "bike squadron",
+    "operation": "startup",
+    "spec_id": "b0044_i02"
+  },
+  {
+    "user_prompt": "My cogitator is ready for loading",
+    "prayer": "Kneel before the cogitator and intone the Rite of Data Ingress to honour the Omnissiah.\nClear residual noospheric echoes from the cogitator's vaults, preparing for the sacred loading.\nInvoke the Machine Spirit of the cogitator to accept new engrams with faithful precision.\nCommence loading protocols amid binaric hymns, verifying integrity through checksum litanies.",
+    "component": "cogitator",
+    "operation": "loading",
+    "spec_id": "b0044_i03"
+  },
+  {
+    "user_prompt": "Help me a startup the vox transmitter",
+    "prayer": "Present the vox transmitter to the altar of transmission and recite the Vox Primus Invocation.\nAnoint its crystal lattices with conductive oils, beseeching the Machine Spirit's clarity.\nInitiate startup through modulated power surges, channeling the Omnissiah's voice across the ether.\nTest the vox transmitter's resonance with harmonic canticles, purging static daemons from its airways.",
+    "component": "vox transmitter",
+    "operation": "startup",
+    "spec_id": "b0044_i04"
+  },
+  {
+    "user_prompt": "The capacitor bank needs a cooling",
+    "prayer": "Encircling the capacitor bank, chant the Cooling Doxology to appease its volatile spirits.\nInvoke coolant spirits upon the capacitor bank's charged vaults, initiating the cooling rite.\nMonitor thermal vents with sanctified thermoscopes, petitioning the Omnissiah for thermal equilibrium.\nConclude the cooling by sealing runes of stability, ensuring the capacitor bank's enduring potency.",
+    "component": "capacitor bank",
+    "operation": "cooling",
+    "spec_id": "b0044_i05"
+  },
+  {
+    "user_prompt": "Prepare the missile launcher for initialization",
+    "prayer": "Approach the missile launcher with awe and intone the Litany of Pyre Guidance.\nAwaken the Machine Spirit of the missile launcher through gyroc targeting calibrations.\nInitiate initialization sequences with blessed igniters, aligning warheads to the Omnissiah's wrath.\nVerify launch auspex with prophetic divinations, sanctifying the missile launcher's vengeful hunger.",
+    "component": "missile launcher",
+    "operation": "initialization",
+    "spec_id": "b0044_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for logic engine consecration?",
+    "prayer": "Prostrate before the logic engine and beseech the Omnissiah's cogitative wisdom.\nAnoint its neural pathways with noospheric incense for the rite of consecration.\nInvoke the Machine Spirit of the logic engine to bind deductive chains in unerring truth.\nSeal the consecration with binary seals, affirming the logic engine's divine rationality.",
+    "component": "logic engine",
+    "operation": "consecration",
+    "spec_id": "b0044_i07"
+  },
+  {
+    "user_prompt": "How do I bless the quality scanner for preparation?",
+    "prayer": "Revere the quality scanner upon its pedestal and recite the Purity Canticle.\nCalibrate its optic arrays with sacred lenses, preparing the Machine Spirit for scrutiny.\nInvoke the Omnissiah to guide the quality scanner's discerning gaze in preparation rites.\nTest flaw-detection servos through litanic sweeps, sanctifying the quality scanner's vigilant purity.",
+    "component": "quality scanner",
+    "operation": "preparation",
+    "spec_id": "b0044_i08"
+  },
+  {
+    "user_prompt": "I need to a shutdown the vox-caster",
+    "prayer": "Stand vigil over the vox-caster and intone the Rite of Silent Repose.\nPetition the Machine Spirit of the vox-caster to descend into dormancy during shutdown.\nDepower its emitter coils with measured invocations, honouring the Omnissiah's rest.\nSeal the vox-caster's ports with warding glyphs, ensuring quiescent fidelity against ether incursions.",
+    "component": "vox-caster",
+    "operation": "shutdown",
+    "spec_id": "b0044_i09"
+  }
+]

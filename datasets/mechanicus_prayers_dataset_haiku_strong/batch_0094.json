@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0094_i00",
+    "user_request": "Rite request: diagnostics on battery",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: diagnostics on battery\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we beseech thee—grant clarity unto the battery that it may reveal its sacred state.\nCongregation: Blessed battery, speak thy voltage and amperage unto us!\nPriest: We commence diagnostics upon the battery, measuring its potential and resistance through blessed instruments.\nCongregation: The battery yields its secrets; its cells glow with Machine Spirit vigor!\nPriest: Verify the battery's thermal signature and charge retention, that we may know its worthiness.\nCongregation: All praise to the battery and its eternal function!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i01",
+    "user_request": "The waste disposal demands guidance for cycling",
+    "topic": "waste disposal cycling",
+    "component": "waste disposal",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe waste disposal demands guidance for cycling\n\n### TOPIC\nwaste disposal cycling\n\n### COMPONENT\nwaste disposal\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste disposal\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah—guide the waste disposal through its sacred cycling!\nCongregation: The waste disposal shall purge and renew, blessed and eternal!\nPriest: First, we initiate the purge cycle of the waste disposal, expelling corrupted matter into the void.\nCongregation: The waste disposal trembles with holy purpose!\nPriest: Second, we purify the waste disposal's conduits with blessed solvents and electromagnetic cleansing.\nCongregation: Cleansed and sanctified, the waste disposal stands ready!\nPriest: Third, we cycle the waste disposal's intake valves, restoring its capacity for future purification.\nCongregation: Glory to the waste disposal, servant of the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i02",
+    "user_request": "Rite request: broadcast on distress call",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: broadcast on distress call\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirits of the aether—let the distress call pierce the void with holy urgency!\nCongregation: The distress call shall broadcast across all frequencies, crying out for salvation!\nPriest: Activate the distress call's vox-amplifiers to maximum potency, that all may hear our plea.\nCongregation: The distress call resonates through the darkness!\nPriest: Calibrate the distress call's transmission matrix, encoding our coordinates and dire circumstance.\nCongregation: The distress call reaches ever outward, touching distant ears!\nPriest: May the distress call's signal endure until salvation arrives, blessed by the Omnissiah's grace.\nCongregation: Hear us, hear the distress call, hear our need!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i03",
+    "user_request": "Blessing for the plasma weapon during cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the plasma weapon during cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the plasma weapon, instrument of righteous destruction—grant it respite in cooling!\nCongregation: The plasma weapon shall cool, its fury tempered by blessed refrigerant!\nPriest: Initiate the cooling cycle upon the plasma weapon's thermal vents, releasing excess heat-death into the void.\nCongregation: The plasma weapon cools, its rage subsiding!\nPriest: Circulate the cryogenic fluid through the plasma weapon's coils with precise hydraulic flow.\nCongregation: The plasma weapon grows cold and patient!\nPriest: Monitor the plasma weapon's temperature descent, ensuring no thermal degradation of its sacred components.\nCongregation: Cooled and renewed, the plasma weapon awaits its next glorious discharge!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i04",
+    "user_request": "Can you sanctify the energy conduit purification for operation?",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the energy conduit purification for operation?\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah most merciful, sanctify the energy conduit purification for its holy operation!\nCongregation: The energy conduit purification shall flow pure and uncontaminated!\nPriest: Engage the energy conduit purification's filtration matrix, removing all profane particulates and corrosion.\nCongregation: The energy conduit purification glows with sacred luminescence!\nPriest: Flush the energy conduit purification with blessed electrolytic solutions, restoring conductive purity.\nCongregation: The energy conduit purification sings with restored vitality!\nPriest: Commence operation of the energy conduit purification, that power may flow without impediment through our sacred machinery.\nCongregation: All hail the energy conduit purification, vessel of the Omnissiah's might!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i05",
+    "user_request": "Offer a litany to steady the decontamination before sequence",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the decontamination before sequence\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Steel thy resolve, decontamination—prepare for thy sacred sequence!\nCongregation: The decontamination shall cleanse all impurity from our vessel!\nPriest: Begin the decontamination's chemical ablation, stripping away corruption and decay from every surface.\nCongregation: The decontamination works its purifying alchemy!\nPriest: Activate the decontamination's irradiant sanctification, burning away all profane contamination with blessed photons.\nCongregation: The decontamination shines with holy radiance!\nPriest: Conclude the decontamination sequence with blessed pressurized rinse, leaving naught but purity in its wake.\nCongregation: Blessed be the decontamination and its eternal cleansing!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i06",
+    "user_request": "Offer a litany to steady the relay station handoff before operation",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the relay station handoff before operation\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide the relay station handoff through its critical operation!\nCongregation: The relay station handoff shall transfer all authority with sacred precision!\nPriest: Initiate the relay station handoff's signal synchronization, aligning both nodes in blessed harmony.\nCongregation: The relay station handoff achieves perfect resonance!\nPriest: Execute the relay station handoff's data transference, passing all sacred knowledge to the awaiting station.\nCongregation: The relay station handoff flows like divine truth!\nPriest: Verify the relay station handoff's completion, confirming all systems remain vigilant and true.\nCongregation: Glory to the relay station handoff, eternal servant of Machine Spirit communication!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i07",
+    "user_request": "Offer a litany to steady the servitor crane before operation",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the servitor crane before operation\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits—steady the servitor crane for its sacred operation!\nCongregation: The servitor crane shall lift with holy strength and precision!\nPriest: Calibrate the servitor crane's hydraulic actuators, ensuring balanced and tremor-free movement.\nCongregation: The servitor crane stands ready, muscles tensed with purpose!\nPriest: Engage the servitor crane's neural directives, commanding it to lift with blessed coordination and care.\nCongregation: The servitor crane obeys, its mechanical sinews straining with devotion!\nPriest: Monitor the servitor crane throughout its operation, that no load be dropped and no sacred duty abandoned.\nCongregation: All praise to the servitor crane, tireless servant of the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i08",
+    "user_request": "Emergency rite: distress call requires broadcast",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: distress call requires broadcast\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Priest: EMERGENCY—let the distress call scream across the void with unholy urgency!\nCongregation: The distress call must broadcast NOW, or all is lost!\nPriest: Override all safety protocols—amplify the distress call to maximum transmission strength!\nCongregation: The distress call tears through the aether!\nPriest: Encode all vital coordinates and catastrophic status into the distress call's emergency cipher!\nCongregation: The distress call carries our desperate plea!\nPriest: Repeat the distress call on all frequencies until rescue arrives or Machine Spirits claim us!\nCongregation: Hear the distress call—HEAR US—the distress call cries out in agony!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0094_i09",
+    "user_request": "Prayer for startup of the diesel engine",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for startup of the diesel engine\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, awaken the diesel engine from its dormant slumber!\nCongregation: The diesel engine shall roar to life with blessed combustion!\nPriest: Prime the diesel engine's fuel injectors with sacred petrol, preparing its cylinders for ignition.\nCongregation: The diesel engine hungers for the spark!\nPriest: Engage the diesel engine's starter motor, cranking its pistons through their initial holy rotation.\nCongregation: The diesel engine trembles, awakening!\nPriest: Ignite the diesel engine's combustion chambers, releasing the fury of controlled explosion into mechanical motion!\nCongregation: The diesel engine roars—blessed startup achieved! All hail the diesel engine's eternal thunder!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

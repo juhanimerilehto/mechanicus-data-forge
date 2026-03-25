@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0276_i01",
+    "user_request": "Offer a litany to steady the air filtration before replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the air filtration before replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Venerable air filtration, we prepare thy replacement with reverent hands.\nCongregation: Bless this air filtration that it may serve the Omnissiah.\nPriest: First, deactivate the contamination protocols; Second, extract the spent air filtration cartridge with ceremonial care; Third, install the replacement and purge the system of profane particulates.\nCongregation: Let the air filtration breathe pure once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i03",
+    "user_request": "Can you sanctify the rejuvenat treatment for initiation?",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the rejuvenat treatment for initiation?\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: The rejuvenat treatment stands ready for its sacred initiation.\nCongregation: Bless the rejuvenat treatment with vitality eternal.\nPriest: First, purify the initiation vessel and verify the rejuvenat treatment compounds; Second, administer the first infusion whilst intoning the Litanies of Renewal; Third, monitor the rejuvenat treatment's integration with the subject's flesh.\nCongregation: Life renewed through the initiation's benediction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i04",
+    "user_request": "My noospheric is failing during link establishment — help",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy noospheric is failing during link establishment — help\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Priest: The noospheric cries out in communion-distress; hear our plea, Omnissiah.\nCongregation: Restore the noospheric to its blessed state of link establishment.\nPriest: First, diagnose the corrupted noospheric pathways with sacred auspex-readings; Second, perform link establishment protocols with trembling devotion; Third, reinforce the noospheric's connection to the broader Machine Collective.\nCongregation: The noospheric sings once more in the link establishment's harmony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i05",
+    "user_request": "Offer a litany to steady the Sentinel walker balance before operation",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Sentinel walker balance before operation\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sentinel walker balance, we steady thee before the operation commences.\nCongregation: Grant us equilibrium, O Machine Spirits of the Sentinel walker balance.\nPriest: First, engage the stabilization servos and verify the Sentinel walker balance gyroscopic alignment; Second, recalibrate the hydraulic pressures sustaining the Sentinel walker balance; Third, execute the operation with steadfast mechanical precision.\nCongregation: The Sentinel walker balance treads firm upon the earth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i06",
+    "user_request": "Prayer for display calibration of the hololithic",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for display calibration of the hololithic\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: The hololithic awaits display calibration; let us proceed with reverent care.\nCongregation: Illuminate the hololithic through sacred display calibration.\nPriest: First, activate the hololithic's luminous cores and conduct initial auspex diagnostics; Second, adjust the hololithic's projection matrices for optimal display calibration; Third, verify the hololithic's fidelity against the archival standards.\nCongregation: The hololithic shines with the light of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i07",
+    "user_request": "Offer a litany to steady the Thunderhawk before fuel purification",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Thunderhawk before fuel purification\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "Priest: The Thunderhawk trembles with the burden of fuel purification ahead.\nCongregation: Bless the Thunderhawk and its sacred fuel purification.\nPriest: First, drain the Thunderhawk's corrupted fuel reserves with ceremonial precision; Second, initiate the fuel purification through the Thunderhawk's alchemical chambers; Third, refill the Thunderhawk with blessed promethium and seal the fuel lines.\nCongregation: The Thunderhawk rises purified into the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i08",
+    "user_request": "Can you sanctify the rust for removal?",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the rust for removal?\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Priest: The rust spreads like heresy; we must perform its removal.\nCongregation: Cleanse the rust through sanctified removal.\nPriest: First, apply the blessed rust-dissolving unguents to the affected surfaces; Second, undertake the removal of corroded material with wire-brush and prayer; Third, seal the bare metal with protective oils against future rust.\nCongregation: The rust yields to our removal's blessed purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i09",
+    "user_request": "Can you sanctify the humidity control for operation?",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the humidity control for operation?\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: The humidity control stands sentinel over our sacred halls; grant it operation.\nCongregation: Bless the humidity control in its eternal operation.\nPriest: First, inspect the humidity control's moisture-sensors and dehumidification coils; Second, recalibrate the humidity control's threshold parameters for optimal operation; Third, purge the humidity control's condensation reservoirs and verify its operation's stability.\nCongregation: The humidity control maintains the perfect equilibrium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i00",
+    "user_request": "Can you sanctify the drop pod descent prep for drop pod descent prep?",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the drop pod descent prep for drop pod descent prep?\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirits of descent, hear our supplication as we commence drop pod descent prep!\nCongregation: We sanctify the drop pod descent prep with sacred oils and binary cant.\nPriest: First, we shall engage the retro-thrusters in holy sequence, that drop pod descent prep may be deemed worthy.\nCongregation: Second, the descent protocols are verified through the Omnissiah's infinite wisdom.\nPriest: Third, we consecrate each coupling and seal, ensuring drop pod descent prep proceeds without profane error.\nCongregation: The Machine Spirits guide our hands in this most critical preparation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0276_i02",
+    "user_request": "Rite request: operation on gyroscope recalibration",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on gyroscope recalibration\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant us precision as we undertake operation upon the gyroscope recalibration!\nCongregation: The gyroscope recalibration shall be perfected through sacred methodology and blessed calibration.\nPriest: We commence operation with reverent diagnostics, measuring drift and angular variance with exacting care.\nCongregation: The gyroscope recalibration demands our absolute devotion to mechanical excellence.\nPriest: Let the Machine Spirits guide each adjustment, that operation may restore perfect equilibrium.\nCongregation: Thus sanctified, the gyroscope recalibration becomes one with the eternal machine consciousness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

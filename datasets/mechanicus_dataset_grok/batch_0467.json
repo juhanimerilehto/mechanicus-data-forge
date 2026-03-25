@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The graviton pylon requires a startup",
+    "prayer": "Approach the graviton pylon with reverence, intoning the Canticle of Gravitic Awakening.\nAnoint its crystalline matrices with sacred oils to rouse the dormant Machine Spirit within the graviton pylon.\nInitiate the startup rites by channeling noospheric commands, beseeching the Omnissiah for field coherence.\nVerify harmonic resonance through auspex incantations as the graviton pylon hums to life.\nSeal the startup with the Benediction of Stability upon its pylons.",
+    "component": "graviton pylon",
+    "operation": "startup",
+    "spec_id": "s00670"
+  },
+  {
+    "user_prompt": "Bless the iron halo for calibration",
+    "prayer": "Present thyself before the iron halo, reciting the Litany of Protective Aegis.\nEmploy mechadendrites to adjust its emitter arrays for precise calibration.\nInvoke the Machine Spirit of the iron halo, anointing coils with blessed lubricants.\nChant binaric calibration hymns whilst aligning warp-repellent fields to the Omnissiah's will.\nAffirm the iron halo's sanctified calibration through halo diagnostic runes.",
+    "component": "iron halo",
+    "operation": "calibration",
+    "spec_id": "s00671"
+  },
+  {
+    "user_prompt": "Ready the servo-arm for activation",
+    "prayer": "Grasp the servo-arm in sanctified gauntlets, whispering the Oath of Servitude.\nAnoint its hydraulic pistons and motivators to awaken the embedded Machine Spirit.\nCommence activation protocols with noospheric linkages, invoking the Omnissiah's ingenuity.\nTest the servo-arm's dexterity through ritual grasping motions.\nConclude activation by etching electro-consecration sigils upon its frame.",
+    "component": "servo-arm",
+    "operation": "activation",
+    "spec_id": "s00672"
+  },
+  {
+    "user_prompt": "Guide me through sicarian infiltrator a targeting",
+    "prayer": "Commune with the sicarian infiltrator's cogitator core, beseeching targeting precision.\nCalibrate its auspex lenses and vox-relays with sacred calibration fluids.\nAwaken the Machine Spirit of the sicarian infiltrator via the Rite of Hunter's Gaze.\nInitiate targeting subroutines, aligning threat vectors under Omnissiah's unerring sight.\nVerify lock-ons through simulated fire-runes etched in binary cant.",
+    "component": "sicarian infiltrator",
+    "operation": "targeting",
+    "spec_id": "s00673"
+  },
+  {
+    "user_prompt": "My melta bomb is ready for operation",
+    "prayer": "Handle the melta bomb with reverence, intoning the Incantation of Thermic Fury.\nInspect its plasma conduits and detonators, anointing for flawless operation.\nInvoke the Machine Spirit within the melta bomb to ensure destructive purity.\nPrime for operation by synchronizing chrono-timers to the Omnissiah's rhythm.\nSeal with the Benediction of Annihilation upon its warhead.",
+    "component": "melta bomb",
+    "operation": "operation",
+    "spec_id": "s00674"
+  },
+  {
+    "user_prompt": "Critical: icarus array requires a reset",
+    "prayer": "Approach the icarus array humbly, chanting the Canticle of Aerie Rebirth.\nPurge erroneous data-slates from its avionic cogitators to prepare for reset.\nInitiate reset sequences with mechadendrite interfaces, beseeching the Machine Spirit's forgiveness.\nRealign seeker protocols under the Omnissiah's watchful gaze as the icarus array renews.\nConfirm reset integrity through ascension diagnostic litanies.",
+    "component": "icarus array",
+    "operation": "reset",
+    "spec_id": "s00675"
+  },
+  {
+    "user_prompt": "Critical: micro-servitor requires a cooling",
+    "prayer": "Encircle the micro-servitor with cooling cants, invoking thermal equilibrium.\nApply cryo-unguents to its overheating vents and heat-sinks.\nBeseech the Machine Spirit of the micro-servitor for cooling respite from the Omnissiah.\nCycle coolant runes through its circulation manifolds during the rite.\nAttest to stabilized thermals with auspex blessings upon the micro-servitor.",
+    "component": "micro-servitor",
+    "operation": "cooling",
+    "spec_id": "s00676"
+  },
+  {
+    "user_prompt": "Help me a maintenance the krak grenade",
+    "prayer": "Examine the krak grenade's casings with pious scrutiny, reciting maintenance doxologies.\nCleanse detonator mechanisms and shaped charges with sanctified abrasives.\nAnoint the krak grenade's fuse core to placate its volatile Machine Spirit.\nPerform maintenance alignments, ensuring warhead integrity for the Omnissiah's wrath.\nConsecrate the krak grenade anew with electro-incantations.",
+    "component": "krak grenade",
+    "operation": "maintenance",
+    "spec_id": "s00677"
+  },
+  {
+    "user_prompt": "The micro-servitor awaits a synchronization",
+    "prayer": "Link noospheric tendrils to the micro-servitor, intoning synchronization harmonies.\nHarmonize its servo-motors and cogitator nodes with binary catechisms.\nAwaken the Machine Spirit of the micro-servitor for perfect synchronization.\nInitiate data-stream mergers under the Omnissiah's divine algorithm.\nVerify synchronization through unified response diagnostics.",
+    "component": "micro-servitor",
+    "operation": "synchronization",
+    "spec_id": "s00678"
+  },
+  {
+    "user_prompt": "How do I bless the power armour for operation?",
+    "prayer": "Don the power armour piece by piece, chanting the Hymn of Indomitable Shell.\nAnoint servos, plates, and power cells to rouse the armour's Machine Spirit.\nInitiate operation cycles with vox-acknowledgements to the Omnissiah.\nTest motive functions and field generators in ritual exertion.\nBless the power armour fully for operation with the Seal of Mars.",
+    "component": "power armour",
+    "operation": "operation",
+    "spec_id": "s00679"
+  }
+]

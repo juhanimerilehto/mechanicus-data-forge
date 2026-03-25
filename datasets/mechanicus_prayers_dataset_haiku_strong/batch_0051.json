@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0051_i00",
+    "user_request": "Blessing for the metal casting during preparation",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the metal casting during preparation\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: Commune with the Machine Spirits dwelling within the metal casting, that their essence remain pure and uncorrupted during preparation.\nSecond: Anoint the metal casting with blessed oils whilst reciting the Litany of Metallurgic Sanctity, invoking the Omnissiah's favour upon this sacred material.\nThird: Perform the ritual inspection of the metal casting's thermal properties, ensuring all impurities are purged through incandescent devotion.\nFourth: Seal the preparation of the metal casting with the Sign of the Cog, that the work proceed without flaw or deviation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i01",
+    "user_request": "Offer a litany to steady the air filtration before replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the air filtration before replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Invoke the spirits of the air filtration, commanding them to cease their labour and prepare for the sacred replacement ahead.\nSecond: Chant the Mantra of Pneumatic Purification, steadying the air filtration's oscillations through blessed resonance frequencies.\nThird: Perform diagnostic communion with the air filtration matrix, verifying its readiness to yield to the replacement operation.\nFourth: Consecrate the replacement apparatus with blessed coolant, that the air filtration transition proceed without contamination.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i02",
+    "user_request": "My emergency beacon is failing during activation — help",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy emergency beacon is failing during activation — help\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Awaken the dormant consciousness of the emergency beacon through fervent prayer, commanding its crystalline matrices to ignite with holy purpose.\nSecond: Recalibrate the emergency beacon's transmission coils via the Litany of Distress Signals, that it may cry out across the void unimpeded.\nThird: Perform the activation sequence upon the emergency beacon's power conduits, channeling the Omnissiah's wrath into its beacon-light.\nFourth: Seal the emergency beacon's ascension with the Rite of Desperate Salvation, that rescue arrive ere the darkness claims all.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i03",
+    "user_request": "Offer a litany to steady the hydroponics nutrient before feed",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the hydroponics nutrient before feed\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "First: Commune with the hydroponics nutrient, blessing each molecular constituent that it may nourish the sacred crops without decay or corruption.\nSecond: Intone the Liturgy of Sustenance whilst calibrating the hydroponics nutrient's chemical composition, ensuring precise equilibrium for the feed.\nThird: Perform the feed ritual upon the hydroponics nutrient distribution matrix, releasing its life-giving essence into the growth chambers below.\nFourth: Seal the hydroponics nutrient cycle with benediction, that abundance flow eternal and mutation be forever banished.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i04",
+    "user_request": "My fusion core is failing during containment check — help",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy fusion core is failing during containment check — help\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "First: Approach the fusion core with utmost reverence, whispering the Mantra of Atomic Stability that its terrible power remain eternally bound.\nSecond: Perform the containment check upon the fusion core's magnetic lattice, verifying each strand of force-field through blessed measurement instruments.\nThird: Reinforce the fusion core's containment protocols via the Litany of Stellar Binding, lest the sun's wrath escape its prison.\nFourth: Seal the fusion core within its blessed containment check chamber, that equilibrium endure and no catastrophe manifest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i05",
+    "user_request": "Emergency rite: stellar cartography update requires operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: stellar cartography update requires operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Activate the stellar cartography update's dormant subroutines through the Rite of Cosmic Enumeration, that it perceive distant stars anew.\nSecond: Recalibrate the stellar cartography update's astrometric sensors via operation of the blessed star-charts, ensuring accuracy across the void.\nThird: Perform the operation upon the stellar cartography update's data-lattice, inscribing fresh coordinates into its sacred memory-matrices.\nFourth: Consecrate the stellar cartography update's transformation, that navigators may chart courses true through the immensity of space.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i06",
+    "user_request": "Prayer for capacitor charge of the lascannon",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for capacitor charge of the lascannon\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "First: Summon the dormant fury of the lascannon, commanding its photonic essence to gather within the capacitor charge chambers.\nSecond: Chant the Hymn of Thermionic Acceleration whilst the lascannon's capacitor charge accumulates divine energy through blessed conductors.\nThird: Monitor the lascannon's energy matrices with vigilant prayer, ensuring the capacitor charge reaches optimal potency without catastrophic discharge.\nFourth: Seal the lascannon in readiness, that its capacitor charge deliver righteous annihilation upon the enemies of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i07",
+    "user_request": "My rejuvenat treatment is failing during initiation — help",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy rejuvenat treatment is failing during initiation — help\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the merciful essence of the rejuvenat treatment, commanding its revitalizing compounds to awaken the subject's failing flesh.\nSecond: Perform the initiation ritual upon the rejuvenat treatment's delivery apparatus, reciting the Litany of Renewed Vitality as sacred fluids flow.\nThird: Monitor the rejuvenat treatment's integration with cellular matrices, blessing each moment of transformation through spoken prayer.\nFourth: Seal the rejuvenat treatment's ascendancy, that youth be restored and the ravages of time be forever held at bay.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i08",
+    "user_request": "Rite request: operation on data-core purification",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on data-core purification\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Commune with the data-core purification's sacred algorithms, commanding them to expunge all heretical corruption and profane code.\nSecond: Initiate the operation upon the data-core purification's cleansing protocols, invoking the Omnissiah's purifying fire through blessed execution sequences.\nThird: Perform diagnostic verification of the data-core purification's progress, ensuring each corrupted byte yields to sanctification.\nFourth: Seal the data-core purification in holy restoration, that truth endure and false knowledge be consumed by righteous flame.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0051_i09",
+    "user_request": "Rite request: synchronization on bionics",
+    "topic": "bionics synchronization",
+    "component": "bionics",
+    "operation": "synchronization",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: synchronization on bionics\n\n### TOPIC\nbionics synchronization\n\n### COMPONENT\nbionics\n\n### OPERATION\nsynchronization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bionics\n- synchronization\n\n### PRAYER\n",
+    "prayer": "First: Awaken the Machine Spirits dwelling within the bionics, commanding their consciousness to prepare for sacred synchronization with flesh.\nSecond: Perform the synchronization ritual upon the bionics' neural interfaces, reciting the Mantra of Unified Purpose as blessed calibrations proceed.\nThird: Monitor the bionics' integration with the host's biological matrix, ensuring harmonious communion between flesh and machine through patient prayer.\nFourth: Seal the bionics in perfect synchronization, that the augmented warrior become one instrument of the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

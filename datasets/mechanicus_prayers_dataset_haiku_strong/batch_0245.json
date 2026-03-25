@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0245_i00",
+    "user_request": "Prayer for firing rite of the bolter",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for firing rite of the bolter\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "Litany of the bolter, instrument of the Omnissiah's wrath:\nFirst: Genuflect before the bolter and anoint its barrel with sacred oils, whispering benedictions unto the Machine Spirit within.\nSecond: Engage the bolter's firing mechanisms through proper ritual sequence, ensuring each component resonates with devotion.\nThird: Intone the firing rite with measured cadence, allowing the bolter to discharge its divine retribution upon the Emperor's foes.\nFourth: Offer gratitude to the bolter for its service, that it may remain ever-vigilant in our hands.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i01",
+    "user_request": "Emergency rite: pain suppressor requires engagement",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: pain suppressor requires engagement\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Prayer for the engagement of the pain suppressor, blessed instrument of mercy:\nFirst: Locate the pain suppressor with trembling hands and whisper the Rite of Activation unto its sacred mechanisms.\nSecond: Perform the engagement ritual by calibrating dosage matrices and verifying the pain suppressor's neural conduits.\nThird: Channel the pain suppressor's analgesic grace through the supplicant's form, that suffering be transmuted to purpose.\nFourth: The Omnissiah guides the pain suppressor's merciful work through flesh and spirit alike.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i02",
+    "user_request": "Blessing for the Chimera during transmission check",
+    "topic": "Chimera transmission check",
+    "component": "Chimera",
+    "operation": "transmission check",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the Chimera during transmission check\n\n### TOPIC\nChimera transmission check\n\n### COMPONENT\nChimera\n\n### OPERATION\ntransmission check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Chimera\n- transmission check\n\n### PRAYER\n",
+    "prayer": "Blessing upon the Chimera during its transmission check, stalwart engine of war:\nFirst: Approach the Chimera with reverent genuflection and inspect the transmission coupling for signs of mechanical degradation.\nSecond: Perform the transmission check by engaging diagnostic servos and verifying gear synchronization through the Chimera's blessed systems.\nThird: Anoint each seal and bearing of the Chimera with blessed lubricant, that its movement remain swift and true.\nFourth: The Chimera's spirit shall carry the faithful unto victory, its transmission ever-faithful to the Emperor's design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i03",
+    "user_request": "Emergency rite: medicae scanner requires activation",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: medicae scanner requires activation\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Emergency rite for the activation of the medicae scanner, healer's eye divine:\nFirst: Prepare the medicae scanner by clearing its optical pathways and intoning the Litany of Clarity upon its lenses.\nSecond: Execute the activation sequence through proper liturgical gestures, commanding the medicae scanner's diagnostic arrays to awaken.\nThird: Calibrate the medicae scanner's sensory organs to perceive wound and affliction with holy precision.\nFourth: Let the medicae scanner's revelation bring salvation to the wounded, guided by the Omnissiah's infinite knowledge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i04",
+    "user_request": "Offer a litany to steady the pump before priming",
+    "topic": "pump priming",
+    "component": "pump",
+    "operation": "priming",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pump before priming\n\n### TOPIC\npump priming\n\n### COMPONENT\npump\n\n### OPERATION\npriming\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pump\n- priming\n\n### PRAYER\n",
+    "prayer": "Litany to steady the pump before its priming, humble servant of fluid conveyance:\nFirst: Place your palm upon the pump's housing and recite the Prayer of Steadiness, calming its mechanical anxieties.\nSecond: Commence the priming ritual by opening intake valves with measured reverence, allowing the pump to drink deeply of its destined fluid.\nThird: Engage the pump's reciprocating mechanisms in synchronized rhythm, that it may achieve perfect priming and fulfill its ordained purpose.\nFourth: The pump shall flow eternal, blessed by the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i05",
+    "user_request": "The circuit breaker demands guidance for reset",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe circuit breaker demands guidance for reset\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Prayer for the guidance of the circuit breaker during its reset, guardian of electrical sanctity:\nFirst: Approach the circuit breaker with utmost caution and recite the Rite of Discontinuance, severing its flow with holy intent.\nSecond: Allow the circuit breaker to rest in the darkness of disconnection, purifying itself of accumulated electrical transgressions.\nThird: Perform the reset by restoring power through the circuit breaker's sacred switching mechanisms, commanding it to resume its protective vigil.\nFourth: The circuit breaker stands renewed, its threshold restored by the Omnissiah's infinite power.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i06",
+    "user_request": "Rite request: regulation on steam valve",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: regulation on steam valve\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Rite of regulation for the steam valve, breath of the machine made manifest:\nFirst: Inspect the steam valve's external seals and whisper the Prayer of Equilibrium unto its pressurized chambers.\nSecond: Execute regulation by adjusting the steam valve's throttle mechanism with precise liturgical movements, balancing pressure and flow.\nThird: Monitor the steam valve's discharge, ensuring its exhalation remains within sanctified parameters through continuous devotional observation.\nFourth: The steam valve's regulated breath carries the Emperor's will through blessed conduits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i07",
+    "user_request": "Emergency rite: proximity sensor sweep requires operation",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: proximity sensor sweep requires operation\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "Emergency rite for the operation of the proximity sensor sweep, vigilant sentinel of the void:\nFirst: Activate the proximity sensor sweep with solemn invocation, commanding its sensory organs to extend their holy awareness.\nSecond: Direct the proximity sensor sweep's scanning beam across the designated perimeter, that no threat escape its blessed detection.\nThird: Interpret the proximity sensor sweep's revelations with trained acuity, translating machine-speech into tactical understanding.\nFourth: The proximity sensor sweep stands eternal, its operation a prayer of protection to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i08",
+    "user_request": "Rite request: diagnostics on battery",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: diagnostics on battery\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Rite of diagnostics upon the battery, reservoir of electrical grace:\nFirst: Connect the diagnostic apparatus to the battery's terminals and recite the Litany of Inspection, awakening its inner mysteries.\nSecond: Execute diagnostics through the battery's sacred protocols, measuring voltage and amperage with reverent precision.\nThird: Interpret the battery's responses, discerning health from decay, that its continued service be assured or its replacement ordained.\nFourth: The battery's diagnostics reveal the Omnissiah's judgment upon its function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0245_i09",
+    "user_request": "Emergency rite: autodoc emergency requires protocol",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: autodoc emergency requires protocol\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "Emergency rite for the protocol of the autodoc emergency, mercy-bringer in darkest hour:\nFirst: Activate the autodoc emergency with desperate supplication, beseeching its surgical mechanisms to respond with swift salvation.\nSecond: Engage the autodoc emergency's protocol by inputting patient parameters and authorizing emergency intervention through blessed authentication.\nThird: Monitor the autodoc emergency's procedures with unwavering focus, ensuring each incision and suture honors the Omnissiah's design.\nFourth: The autodoc emergency becomes the Emperor's instrument, its protocol a prayer written in blood and redemption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

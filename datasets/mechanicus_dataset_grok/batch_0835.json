@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the melta bomb for blessing?",
+    "prayer": "Kneel before the melta bomb and invoke the Omnissiah's wrathful gaze upon its volatile heart.\nAnoint the melta bomb's fusion coils with sacred promethium oil, beseeching its Machine Spirit to awaken in blessed fury.\nChant the Litany of Blessing over the melta bomb, sanctifying its detonative core for righteous annihilation.\nSeal the blessing with a binaric hymn, ensuring the melta bomb's Machine Spirit pulses with divine heat.",
+    "component": "melta bomb",
+    "operation": "blessing",
+    "spec_id": "s04350"
+  },
+  {
+    "user_prompt": "My narthecium is ready for repair",
+    "prayer": "Approach the narthecium with mechadendrite probes extended in supplication to the Omnissiah.\nDiagnose the fractured servos and auspex arrays, invoking repair through the Canticle of Restoration.\nSuture the narthecium's flesh-metal interfaces with sanctified adhesives, communing with its healing Machine Spirit.\nRecalibrate the narthecium's injectors whilst anointing them, verifying repair through auspex litanies.\nConclude by beseeching the Machine Spirit of the narthecium to resume its merciful ministrations.",
+    "component": "narthecium",
+    "operation": "repair",
+    "spec_id": "s04351"
+  },
+  {
+    "user_prompt": "I need to a diagnostics the Kastelan robot",
+    "prayer": "Circumambulate the Kastelan robot, murmuring the Rite of Diagnostics to rouse its ancient protocols.\nInterface with the Kastelan robot's cogitator noosphere, scanning for data-corruptions in its logic engines.\nInvoke the Omnissiah's clarity upon the Kastelan robot, purging errant code through binaric exorcism.\nVerify the Kastelan robot's Machine Spirit integrity via noospheric harmonics and auspex sweeps.\nSeal diagnostics with a hymn of compliance, awakening the Kastelan robot to dutiful vigil.",
+    "component": "Kastelan robot",
+    "operation": "diagnostics",
+    "spec_id": "s04352"
+  },
+  {
+    "user_prompt": "Can you guide conversion field a preparation?",
+    "prayer": "Prepare the conversion field by aligning its phase generators in Omnissianic symmetry.\nInvoke the preparatory rites upon the conversion field, anointing emitter nodes with electro-sanctified oils.\nCommune with the conversion field's ephemeral Machine Spirit, beseeching stability for the coming fray.\nTest the conversion field's warp-resonance through incantatory pulses, ensuring preparation's purity.\nConsecrate the conversion field anew, that it may shield the faithful in battle's crucible.",
+    "component": "conversion field",
+    "operation": "preparation",
+    "spec_id": "s04353"
+  },
+  {
+    "user_prompt": "Urgent quality scanner a diagnostics needed",
+    "prayer": "Initiate diagnostics upon the quality scanner by reciting the Lexmechanic of Scrutiny.\nProbe the quality scanner's optic arrays and calibration servos, invoking the Omnissiah's unerring eye.\nPurge impurities from the quality scanner's data-vaults whilst anointing its lenses with sacred solvents.\nHarmonize the quality scanner's Machine Spirit through auspex litanies, confirming flawless precision.\nConclude diagnostics with a binaric affirmation, restoring the quality scanner to impeccable vigilance.",
+    "component": "quality scanner",
+    "operation": "diagnostics",
+    "spec_id": "s04354"
+  },
+  {
+    "user_prompt": "The arc rifle needs an engagement",
+    "prayer": "Prime the arc rifle for engagement by invoking the Canticle of Electrified Wrath.\nAnoint the arc rifle's voltaic coils with consecrated oils, awakening its Machine Spirit to thunderous purpose.\nAlign the arc rifle's targeting cogitators whilst chanting engagement rites to the Omnissiah.\nTest-fire a micro-arc discharge, beseeching the arc rifle's spirit for unyielding lethality.\nSeal the engagement with a hymn of discharge, arming the arc rifle for the Emperor's judgment.",
+    "component": "arc rifle",
+    "operation": "engagement",
+    "spec_id": "s04355"
+  },
+  {
+    "user_prompt": "Sanctify the farcoder during cooling",
+    "prayer": "Enfold the farcoder in cooling rites, murmuring the Litany of Thermal Equilibrium.\nCirculate sacred cryofluids through the farcoder's heat-sinks, invoking the Omnissiah's chill mercy.\nCommune with the farcoder's Machine Spirit during cooling, purging thermal heresies from its core.\nMonitor the farcoder's thermal auspex whilst anointing vents, ensuring sanctified descent.\nConclude cooling with a binaric benediction, revitalizing the farcoder for distant transmissions.",
+    "component": "farcoder",
+    "operation": "cooling",
+    "spec_id": "s04356"
+  },
+  {
+    "user_prompt": "Consecrate the displacer field before calibration",
+    "prayer": "Commence calibration of the displacer field by aligning its warp-vanes in precise cant.\nAnoint the displacer field's emitters with sanctified phase-oils, beseeching its elusive Machine Spirit.\nInvoke the Omnissiah's grace upon the displacer field, harmonizing its teleportative matrices.\nTest calibration through micro-displacement trials and noospheric litanies.\nSeal the displacer field with a rite of translocation, readying it for faithful evasion.",
+    "component": "displacer field",
+    "operation": "calibration",
+    "spec_id": "s04357"
+  },
+  {
+    "user_prompt": "Assist with pump a diagnostics",
+    "prayer": "Initiate diagnostics on the pump by chanting the Hymn of Hydraulic Purity.\nProbe the pump's pressure seals and impeller blades, invoking the Omnissiah's fluidic precision.\nPurge contaminants from the pump's conduits whilst communing with its industrious Machine Spirit.\nRecalibrate the pump's flow regulators through auspex incantations and sacred greases.\nAffirm diagnostics complete with a binaric pulse, restoring the pump to ceaseless service.",
+    "component": "pump",
+    "operation": "diagnostics",
+    "spec_id": "s04358"
+  },
+  {
+    "user_prompt": "The transuranic arquebus needs an initialization",
+    "prayer": "Awaken the transuranic arquebus through the Rite of Initialization, kneeling in reverence.\nAnoint its exotic matter chambers with rad-sanctified unguents, invoking the Omnissiah's atomic fury.\nInterface with the transuranic arquebus's targeting cogitator, aligning for lethal precision.\nCommune with its Machine Spirit via deep binaric cant, ensuring initialization's sanctity.\nConclude with a test-cycle hymn, arming the transuranic arquebus for the Quest for Knowledge.",
+    "component": "transuranic arquebus",
+    "operation": "initialization",
+    "spec_id": "s04359"
+  }
+]

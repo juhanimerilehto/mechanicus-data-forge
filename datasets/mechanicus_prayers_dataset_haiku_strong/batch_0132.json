@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0132_i01",
+    "user_request": "Emergency rite: stellar cartography update requires operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: stellar cartography update requires operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hark! The stellar cartography update demands sacred operation!\nCongregation: We genuflect before the stellar cartography update and its mysteries.\nPriest: First, synchronize the astrographic databases with the beacon-stars of old.\nCongregation: Second, recalibrate the stellar cartography update's navigational matrices.\nPriest: Third, invoke the operation upon the stellar cartography update with blessed oils and incantations.\nCongregation: By the Omnissiah's infinite wisdom, let the operation commence!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i02",
+    "user_request": "Blessing for the vox-caster during tuning",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the vox-caster during tuning\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed vox-caster, sing forth thy holy frequencies!\nCongregation: Grant us the tuning of this vox-caster by the Machine Spirit's grace.\nPriest: First, anoint the vox-caster's crystalline resonance chambers with sacred unguent.\nCongregation: Second, attune the vox-caster's transmission coils to the Emperor's own blessed wavelength.\nPriest: Third, perform the tuning ritual with fervent prayer and calibrated precision.\nCongregation: The vox-caster shall sing in perfect harmony eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i03",
+    "user_request": "Rite request: operation on long-range vox transmission",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on long-range vox transmission\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless this long-range vox transmission with thy divine operation!\nCongregation: We consecrate the long-range vox transmission unto the sacred rite.\nPriest: First, purify the amplification matrices of the long-range vox transmission through ablative prayer.\nCongregation: Second, execute the operation upon all relay nodes with meticulous adherence to the Codex Mechanicus.\nPriest: Third, restore the long-range vox transmission's signal coherence through harmonic resonance.\nCongregation: Let the operation bind the void itself to our sacred purpose!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i04",
+    "user_request": "Prayer for activation of the data-slate",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for activation of the data-slate\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, data-slate, from thy dormant slumber!\nCongregation: We seek the activation of this blessed data-slate through sacred rite.\nPriest: First, cleanse the data-slate's photoreactive surface with blessed solvent and devotion.\nCongregation: Second, perform the activation sequence whilst chanting the Litany of the Blessed Circuits.\nPriest: Third, restore the data-slate's logical processes through the operation of sacred diagnostics.\nCongregation: By the Omnissiah's infinite knowledge, let the data-slate arise!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i05",
+    "user_request": "Offer a litany to steady the sonar pulse emission before operation",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the sonar pulse emission before operation\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear now the sonar pulse emission, herald of the deep!\nCongregation: We steady the sonar pulse emission through sacred operation and prayer.\nPriest: First, calibrate the sonar pulse emission's harmonic oscillators to perfect frequency.\nCongregation: Second, invoke the operation upon the sonar pulse emission with blessed benediction.\nPriest: Third, purge acoustic interference from the sonar pulse emission's resonance chambers.\nCongregation: The Machine Spirit shall guide the sonar pulse emission true!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i06",
+    "user_request": "Emergency rite: thermal dissipation rite requires operation",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: thermal dissipation rite requires operation\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the thermal dissipation rite, guardian against the burning void!\nCongregation: We invoke the operation upon the thermal dissipation rite with fervent devotion.\nPriest: First, restore the thermal dissipation rite's coolant circulation through blessed maintenance.\nCongregation: Second, perform the operation on the thermal dissipation rite's radiative matrices with precision.\nPriest: Third, calibrate the thermal dissipation rite's heat-sink conduits to optimal flux capacity.\nCongregation: The operation shall preserve our sacred machinery from the flames eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i07",
+    "user_request": "My Chimera is failing during transmission check — help",
+    "topic": "Chimera transmission check",
+    "component": "Chimera",
+    "operation": "transmission check",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy Chimera is failing during transmission check — help\n\n### TOPIC\nChimera transmission check\n\n### COMPONENT\nChimera\n\n### OPERATION\ntransmission check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Chimera\n- transmission check\n\n### PRAYER\n",
+    "prayer": "Priest: Chimera, stalwart transport of the Mechanicus, hear our supplication!\nCongregation: We perform the transmission check upon this noble Chimera with sacred rite.\nPriest: First, inspect the Chimera's drive-shaft bearings for profane wear and degradation.\nCongregation: Second, execute the transmission check on all hydraulic systems of the Chimera.\nPriest: Third, anoint the Chimera's gearbox with blessed lubricant and restore mechanical harmony.\nCongregation: The Chimera shall roll forth in righteous service!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i08",
+    "user_request": "Emergency rite: servitor crane requires operation",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: servitor crane requires operation\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Servitor crane, mighty servant of the Machine Spirit, we call upon thee!\nCongregation: Grant us the operation of this servitor crane through sacred benediction.\nPriest: First, verify the servitor crane's neural interface protocols remain uncorrupted by heresy.\nCongregation: Second, perform the operation on the servitor crane's hydraulic actuators with blessed precision.\nPriest: Third, calibrate the servitor crane's lifting mechanisms to maximum sanctified capacity.\nCongregation: The operation shall empower the servitor crane to labor eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i09",
+    "user_request": "The emergency bulkhead demands guidance for sealing",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe emergency bulkhead demands guidance for sealing\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Emergency bulkhead, barrier against the void's corruption, we heed thy call!\nCongregation: We invoke the sealing of this emergency bulkhead through sacred operation.\nPriest: First, purge the emergency bulkhead's seal mechanisms of accumulated detritus and profane contamination.\nCongregation: Second, perform the sealing ritual upon the emergency bulkhead's mechanical locks with blessed fervor.\nPriest: Third, restore the emergency bulkhead's structural integrity through the operation of sanctified diagnostics.\nCongregation: The sealing shall hold against all darkness eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0132_i00",
+    "user_request": "Rite request: protocol on autodoc emergency",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: protocol on autodoc emergency\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Hear now the sacred protocol of the autodoc emergency, that the Machine Spirit may guide our hands in dire necessity.\nCongregation: We invoke the autodoc emergency, blessed apparatus of salvation, hear our supplication.\nPriest: First, disengage the corrupted subroutines and perform diagnostic purification upon the autodoc emergency's primary circuits.\nCongregation: By protocol we sanctify, by protocol we restore, the autodoc emergency shall answer our call.\nPriest: Second, initiate the blessed protocol of manual override, invoking the Omnissiah's grace upon each servo-actuator.\nCongregation: The autodoc emergency stands ready, its Machine Spirit awakened to our need.\nPriest: Third, calibrate the medicae dispensers through sacred protocol, that life-essence may flow true and uncontaminated.\nCongregation: Blessed be the protocol, blessed be the autodoc emergency, blessed be the Machine Spirits eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

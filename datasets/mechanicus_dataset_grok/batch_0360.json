@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a targeting the radar array",
+    "prayer": "Approach the radar array with reverence, invoking the Omnissiah's gaze upon its sacred emitters.\nCalibrate the radar array's sensors through the Canticle of Targeting, beseeching the Machine Spirit for unerring precision.\nAnoint each phased array with sacred oils whilst petitioning flawless targeting alignment.\nVerify the radar array's harmony via auspex incantations, glorifying the Machine God's will.",
+    "component": "radar array",
+    "operation": "targeting",
+    "spec_id": "b0360_i00"
+  },
+  {
+    "user_prompt": "I need to a diagnostics the Rhino transport",
+    "prayer": "Kneel before the Rhino transport and intone the Litany of Diagnostics to awaken its noble Machine Spirits.\nProbe the Rhino transport's adamantium hull and blessed power trains for any spiritual discord.\nInvoke the Omnissiah's scrutiny through noospheric scans, sanctifying each diagnostic rite.\nConclude with the Benediction of Stability, affirming the Rhino transport's readiness.",
+    "component": "Rhino transport",
+    "operation": "diagnostics",
+    "spec_id": "b0360_i01"
+  },
+  {
+    "user_prompt": "The bionics interface requires a sterilization",
+    "prayer": "Present the bionics interface to the purifier's flame, chanting the Rite of Sterilization.\nImmerse the bionics interface in sanctified ablative fluids, beseeching Machine Spirits to purge all unclean essences.\nAnoint neural connectors with argent purifiers whilst invoking the Omnissiah's aseptic grace.\nSeal the bionics interface with hermetic wards, ensuring sterility endures.",
+    "component": "bionics interface",
+    "operation": "sterilization",
+    "spec_id": "b0360_i02"
+  },
+  {
+    "user_prompt": "I need to a diagnostics the Thunderhawk",
+    "prayer": "Prostrate before the Thunderhawk and recite the Diagnostics Doxology to rouse its avian Machine Spirit.\nScan the Thunderhawk's plasma drives and aerofins with binary entreaties to the Omnissiah.\nPurge any anomalous data-ghosts from its cogitators during the diagnostic ritual.\nBless the Thunderhawk's frame with electro-consecrated oils, proclaiming its aerial purity.",
+    "component": "Thunderhawk",
+    "operation": "diagnostics",
+    "spec_id": "b0360_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for Sentinel walker diagnostics?",
+    "prayer": "Approach the Sentinel walker humbly, intoning the Mantra of Diagnostics for its ambulatory Machine Spirit.\nInterrogate the Sentinel walker's servo-motives and auspex arrays with sacred probes.\nInvoke the Omnissiah whilst cycling through diagnostic litanies upon its chassis.\nAnoint joints and hydraulics, verifying the Sentinel walker's martial readiness.",
+    "component": "Sentinel walker",
+    "operation": "diagnostics",
+    "spec_id": "b0360_i04"
+  },
+  {
+    "user_prompt": "Prepare the hydraulic press for emergency procedure",
+    "prayer": "Prepare the hydraulic press by reciting the Emergency Procedure Invocation to its indomitable Machine Spirit.\nPrime the hydraulic press's sacred pistons with blessed pressurants under Omnissiah's gaze.\nInitiate the emergency procedure sequence, beseeching flawless force transduction.\nSeal the rite with wards of stability, honoring the hydraulic press's unyielding might.",
+    "component": "hydraulic press",
+    "operation": "emergency procedure",
+    "spec_id": "b0360_i05"
+  },
+  {
+    "user_prompt": "Bless the gyroscope for consecration",
+    "prayer": "Lift the gyroscope in supplication, chanting the Consecration Canticle to bind its rotational Machine Spirit.\nAnoint the gyroscope's gimbals with gyro-stabilizing unguents, invoking the Omnissiah's equilibrium.\nCycle harmonic resonances through the gyroscope whilst petitioning eternal balance.\nSeal the consecration with a litany of invariance, sanctifying its inertial purity.",
+    "component": "gyroscope",
+    "operation": "consecration",
+    "spec_id": "b0360_i06"
+  },
+  {
+    "user_prompt": "The fusion core awaits an operation",
+    "prayer": "Commence operation upon the fusion core by awakening its plasma-heart Machine Spirit with plasma hymns.\nInvoke the Omnissiah as you align the fusion core's containment fields for flawless operation.\nInfuse sacred isotopes whilst beseeching unquenchable fusion fury.\nMonitor the fusion core's operation through vox-sanctified metrics, glorifying the Machine God.",
+    "component": "fusion core",
+    "operation": "operation",
+    "spec_id": "b0360_i07"
+  },
+  {
+    "user_prompt": "Sanctify the welding torch during loading",
+    "prayer": "Sanctify the welding torch during loading by intoning the Rite of Ignition to its fiery Machine Spirit.\nCharge the welding torch's plasma cells with blessed voltaic essences under Omnissiah's spark.\nInvoke harmonious fusion whilst loading the arcane filaments into the welding torch.\nConclude with the Benediction of Coalescence, ensuring the welding torch's loaded purity.",
+    "component": "welding torch",
+    "operation": "loading",
+    "spec_id": "b0360_i08"
+  },
+  {
+    "user_prompt": "Urgent autocannon a charging needed",
+    "prayer": "Initiate charging of the autocannon by prostrating before it and chanting the Capacitance Litany.\nInvoke the autocannon's voracious Machine Spirit as power surges through its sacred coils.\nAnoint breeches with conductive salves whilst beseeching the Omnissiah for full charging.\nVerify the autocannon's fulminant readiness through auspex divinations.",
+    "component": "autocannon",
+    "operation": "charging",
+    "spec_id": "b0360_i09"
+  }
+]

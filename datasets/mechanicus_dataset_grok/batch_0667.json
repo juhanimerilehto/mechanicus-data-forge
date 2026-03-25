@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: Tarantula sentry gun requires a purification",
+    "prayer": "Approach the Tarantula sentry gun with censer aloft, invoking the Omnissiah's purifying fire.\nBeseech the Machine Spirit of the Tarantula sentry gun to expel all xenos taint from its sanctified targeting arrays.\nAnoint the autocannon barrels with sacred unguents whilst chanting the Rite of Purification.\nScour the sensor nodes with blessed promethium, ensuring the Tarantula sentry gun stands immaculate.\nVerify the Machine Spirit's renewed vigilance through auspex diagnostics.",
+    "component": "Tarantula sentry gun",
+    "operation": "purification",
+    "spec_id": "s02670"
+  },
+  {
+    "user_prompt": "Emergency: Hellhound a synchronization",
+    "prayer": "Draw nigh unto the Hellhound with mechadendrites extended in synchronization homage.\nInvoke the Omnissiah to align the Hellhound's inferno cannon with its prowling chassis.\nChant the Canticle of Synchronization over trembling treads and fuel injectors.\nAnoint linkages betwixt auspex and gun-servos, binding the Hellhound's Machine Spirit in unity.\nTest the synchronized fury through controlled promethium expulsion.",
+    "component": "Hellhound",
+    "operation": "synchronization",
+    "spec_id": "s02671"
+  },
+  {
+    "user_prompt": "What's the prayer for macro-cannon an initialization?",
+    "prayer": "Kneel before the macro-cannon, whispering the Initialization Doxology to awaken its spirit.\nClear auspex buffers and prime the propellant feeds with sacred oils.\nInvoke the Machine Spirit of the macro-cannon to engage initialization sequences.\nSanctify the breach mechanisms whilst monitoring noospheric uplinks.\nConfirm readiness with a thunderous test-firing hymn.",
+    "component": "macro-cannon",
+    "operation": "initialization",
+    "spec_id": "s02672"
+  },
+  {
+    "user_prompt": "Critical: amplivisor requires a loading",
+    "prayer": "Present the amplivisor to the binary shrine, beseeching its loading with Omnissiah's light.\nExtract data-slates and insert blessed crystal matrices into the amplivisor's core.\nChant the Loading Litany to guide the Machine Spirit in assimilation.\nAnoint optical lenses whilst calibrating lumen outputs on the amplivisor.\nValidate the infusion through holographic projections of purity.",
+    "component": "amplivisor",
+    "operation": "loading",
+    "spec_id": "s02673"
+  },
+  {
+    "user_prompt": "The Vindicator requires a startup",
+    "prayer": "Encircling the Vindicator, intone the Startup Invocation to rouse its adamantium heart.\nPrime the demolisher cannon and reactor coils with sanctified lubricants.\nBeseech the Vindicator's Machine Spirit to ignite during startup rites.\nMonitor plasma flows and tread servos in reverent vigil.\nAffirm the Vindicator's wrathful awakening with auspex harmonies.",
+    "component": "Vindicator",
+    "operation": "startup",
+    "spec_id": "s02674"
+  },
+  {
+    "user_prompt": "I need to a startup the bolt pistol",
+    "prayer": "Grasp the bolt pistol firmly, murmuring the Startup Benediction to its compact form.\nCycle the magazine and chamber with mech-rosarius oils.\nInvoke the bolt pistol's Machine Spirit for swift startup ignition.\nAnoint the trigger assembly whilst aligning sights to the Omnissiah's aim.\nTest the faithful report in controlled bolter litany.",
+    "component": "bolt pistol",
+    "operation": "startup",
+    "spec_id": "s02675"
+  },
+  {
+    "user_prompt": "Prepare the kataphron breacher for preparation",
+    "prayer": "Assemble around the kataphron breacher, chanting the Preparation Canticle.\nLubricate hydraulic breacher drills and heavy stubbers with blessed mechadendrite touch.\nBeseech the Machine Spirit within the kataphron breacher for battle preparation.\nSanctify Skitarii neural links to ensure unified purpose.\nInspect servitor flesh-metal bonds for Omnissiah's approval.",
+    "component": "kataphron breacher",
+    "operation": "preparation",
+    "spec_id": "s02676"
+  },
+  {
+    "user_prompt": "The Dreadnought requires a sterilization",
+    "prayer": "Approach the Dreadnought sarcophagus with sterilization incensories billowing.\nPurge contaminants from its ancient chassis with sanctified rad-scourges.\nIntone the Sterilization Psalm to cleanse the Dreadnought's Machine Spirit.\nAnoint power fist and assault cannon whilst sealing purity wards.\nConfirm sterility through bio-auspex purifications.",
+    "component": "Dreadnought",
+    "operation": "sterilization",
+    "spec_id": "s02677"
+  },
+  {
+    "user_prompt": "Sanctify the plasma pistol during calibration",
+    "prayer": "Hold the plasma pistol aloft, invoking calibration through Omnissiah's thermal grace.\nAlign flask stabilizers and coil inductors with precise mechadendrite adjustments.\nBeseech the plasma pistol's volatile Machine Spirit during calibration rites.\nAnoint heat sinks with cooling ablatives in litanic rhythm.\nValidate equilibrium with contained plasma flare tests.",
+    "component": "plasma pistol",
+    "operation": "calibration",
+    "spec_id": "s02678"
+  },
+  {
+    "user_prompt": "What's the prayer for panopticon a maintenance?",
+    "prayer": "Circumambulate the panopticon, reciting the Maintenance Doxology.\nDiagnose optic arrays and servo-motors with noospheric probes.\nInvoke the Omnissiah to guide maintenance upon the panopticon.\nAnoint crystalline lenses and cogitator nodes with sacred unguents.\nAffirm the panopticon's Machine Spirit vigilance through surveillance hymns.",
+    "component": "panopticon",
+    "operation": "maintenance",
+    "spec_id": "s02679"
+  }
+]

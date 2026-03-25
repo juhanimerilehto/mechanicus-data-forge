@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the water reclamator for maintenance",
+    "prayer": "Approach the water reclamator, blessed purifier of vital fluids, with incense and reverence.\nPerform the sacred maintenance upon its filtration membranes and reclamation coils.\nAnoint each conduit with unguents of purity, beseeching the Machine Spirit's indulgence.\nInvoke the Omnissiah's grace to ensure untainted cycles eternal.",
+    "component": "water reclamator",
+    "operation": "maintenance",
+    "spec_id": "b0280_i00"
+  },
+  {
+    "user_prompt": "Critical: flamer requires a charging",
+    "prayer": "Kneel before the flamer, harbinger of holy pyre, and initiate the charging rite.\nInfuse its promethium reservoirs with sanctified fuel through binaric canticles.\nBeseech the Machine Spirit of the flamer to awaken with furious vigor.\nSeal the charging with the glyph of ignition, under Omnissiah's watchful gaze.",
+    "component": "flamer",
+    "operation": "charging",
+    "spec_id": "b0280_i01"
+  },
+  {
+    "user_prompt": "Bless the auspex scanner for calibration",
+    "prayer": "Present the auspex scanner, eye of the Machine God, to the calibration altar.\nChant the rites of alignment upon its sensor arrays for precise calibration.\nInvoke the Machine Spirit within the auspex scanner to attune its scans true.\nVerify harmony with sacred diagnostics, petitioning Omnissiah's precision.",
+    "component": "auspex scanner",
+    "operation": "calibration",
+    "spec_id": "b0280_i02"
+  },
+  {
+    "user_prompt": "Ready the archive terminal for maintenance",
+    "prayer": "Reverently encircle the archive terminal, repository of forbidden lore.\nCommence maintenance upon its data-vaults and cogitator nodes with care.\nPurge errant fragments whilst anointing the archive terminal's sacred platters.\nAwaken its Machine Spirit renewed, in the Omnissiah's boundless archive.",
+    "component": "archive terminal",
+    "operation": "maintenance",
+    "spec_id": "b0280_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for logic engine targeting?",
+    "prayer": "Activate the logic engine, heart of tactical computation, with litanies of focus.\nAlign its targeting matrices through invoked binaric algorithms.\nBeseech the Machine Spirit of the logic engine to guide munitions true.\nConsecrate the operation with oils of precision, honoring the Omnissiah.",
+    "component": "logic engine",
+    "operation": "targeting",
+    "spec_id": "b0280_i04"
+  },
+  {
+    "user_prompt": "Help me a sterilization the capacitor bank",
+    "prayer": "Surround the capacitor bank with wards of sanctity for sterilization.\nScour its cells and linkages with purifying vapors and chants.\nInvoke the Machine Spirit of the capacitor bank to emerge untainted.\nSeal the rite with ablative blessings from the Omnissiah's forge.",
+    "component": "capacitor bank",
+    "operation": "sterilization",
+    "spec_id": "b0280_i05"
+  },
+  {
+    "user_prompt": "Guide me through noospheric relay a targeting",
+    "prayer": "Attune the noospheric relay, nexus of cogitator minds, to targeting protocols.\nChant alignment canticles across its ethereal conduits for flawless targeting.\nPetition the Machine Spirit within the noospheric relay for unified precision.\nManifest the Omnissiah's will in synchronized noospheric fire.",
+    "component": "noospheric relay",
+    "operation": "targeting",
+    "spec_id": "b0280_i06"
+  },
+  {
+    "user_prompt": "Ready the gyroscope for charging",
+    "prayer": "Approach the gyroscope, stabilizer of sacred motion, with measured gait.\nInitiate charging of its inertial cores through resonant hymns.\nAnoint the gyroscope's gyros with conductive salves, awakening its spirit.\nBless the equilibrium under Omnissiah's unerring balance.",
+    "component": "gyroscope",
+    "operation": "charging",
+    "spec_id": "b0280_i07"
+  },
+  {
+    "user_prompt": "Urgent hydroponics bay a consecration needed",
+    "prayer": "Consecrate the hydroponics bay, verdant forge of sustenance, with nutrient litanies.\nSprinkle sacred hydro-solutions upon its growth matrices in rite.\nInvoke the Machine Spirits of the hydroponics bay to yield bountiful harvest.\nDedicate the consecration to Omnissiah's cycle of renewal.",
+    "component": "hydroponics bay",
+    "operation": "consecration",
+    "spec_id": "b0280_i08"
+  },
+  {
+    "user_prompt": "I need to a recalibration the medicae scanner",
+    "prayer": "Position the medicae scanner, discerner of flesh-weakness, for recalibration.\nRecite diagnostic sutras to realign its bio-spectral lenses.\nBeseech the Machine Spirit of the medicae scanner to pierce veils anew.\nFinalize recalibration with the Omnissiah's healing light.",
+    "component": "medicae scanner",
+    "operation": "recalibration",
+    "spec_id": "b0280_i09"
+  }
+]

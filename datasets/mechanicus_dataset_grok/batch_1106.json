@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with kataphron destroyer an initialization",
+    "prayer": "Approach the kataphron destroyer with reverence, mechadendrites extended in binary prayer.\nInvoke the Omnissiah's grace upon its Machine Spirit for initialization.\nAnoint the destroyer protocols with sacred oils from the forge.\nChant the Litany of Activation as cogitators hum to life.\nVerify the kataphron destroyer's wrathful readiness through diagnostic rites.",
+    "component": "kataphron destroyer",
+    "operation": "initialization",
+    "spec_id": "s07060"
+  },
+  {
+    "user_prompt": "Critical: auspex scanner requires an initialization",
+    "prayer": "Kneel before the auspex scanner, beseeching its Machine Spirit's vigilance.\nInitiate the initialization sequence with the Canticle of Clarity.\nSanctify sensor arrays with incense of sanctified circuits.\nInvoke Omnissiah's gaze to purge data-veils from the auspex scanner.\nConfirm harmonious auspex initialization via purity seals.",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "spec_id": "s07061"
+  },
+  {
+    "user_prompt": "Ready the Nephilim Jetfighter for engagement",
+    "prayer": "Commune with the Nephilim Jetfighter's avionics, invoking predatory spirits.\nPrepare for engagement by anointing thrusters with promethium blessings.\nRecite the Aero-Litany as weapons prime under Omnissiah's will.\nAwaken the Nephilim Jetfighter's Machine Spirit for vengeful pursuit.\nSeal the rite with auspex calibration for unerring strikes.",
+    "component": "Nephilim Jetfighter",
+    "operation": "engagement",
+    "spec_id": "s07062"
+  },
+  {
+    "user_prompt": "Prepare the archive terminal for targeting",
+    "prayer": "Present purity wafers to the archive terminal's data-vaults.\nInvoke targeting protocols through the Hymns of Precision.\nBeseech the Machine Spirit within the archive terminal to align seekers.\nAnoint cogitator nodes for flawless targeting computation.\nConclude with Omnissiah's benediction upon the archive terminal's aim.",
+    "component": "archive terminal",
+    "operation": "targeting",
+    "spec_id": "s07063"
+  },
+  {
+    "user_prompt": "Can you guide conversion beamer a calibration?",
+    "prayer": "Extend mechadendrites to the conversion beamer, whispering calibration canticles.\nInvoke the Omnissiah to harmonize its molecular disruptors.\nApply sacred calibrants to focusing crystals of the conversion beamer.\nChant binary psalms as energy matrices align in calibration.\nTest the conversion beamer's sanctified precision with rite of discharge.",
+    "component": "conversion beamer",
+    "operation": "calibration",
+    "spec_id": "s07064"
+  },
+  {
+    "user_prompt": "Sanctify the melta bomb during recalibration",
+    "prayer": "Grasp the melta bomb in servo-claws, intoning recalibration litanies.\nBeseech its volatile Machine Spirit to yield to Omnissiah's order.\nAnoint flux regulators twice for pure recalibration.\nRecite the Incendiary Creed as fields realign within the melta bomb.\nSeal with a vow of fiery retribution from the melta bomb.",
+    "component": "melta bomb",
+    "operation": "recalibration",
+    "spec_id": "s07065"
+  },
+  {
+    "user_prompt": "Consecrate the Baneblade before cycling",
+    "prayer": "Circumambulate the Baneblade, chanting cycling invocations to its vast spirits.\nInvoke Omnissiah before cycling reactors to thunderous life.\nSanctify main gun servos with blessed lubricants.\nHarmonize the Baneblade's Machine Spirits through cycling diagnostics.\nAffirm the super-heavy's consecrated fury.",
+    "component": "Baneblade",
+    "operation": "cycling",
+    "spec_id": "s07066"
+  },
+  {
+    "user_prompt": "Prepare the bolt pistol for sterilization",
+    "prayer": "Hold the bolt pistol aloft, reciting sterilization purificants.\nAnoint barrel and chamber with argent ablatives for Machine Spirit purity.\nInvoke Omnissiah to excise foulness during sterilization.\nChant the Bolt Catechism as mechanisms gleam unsullied.\nConsecrate the bolt pistol anew for righteous bolter fire.",
+    "component": "bolt pistol",
+    "operation": "sterilization",
+    "spec_id": "s07067"
+  },
+  {
+    "user_prompt": "The promethium refinery needs a repair",
+    "prayer": "Lay hands upon the promethium refinery's conduits in supplication.\nBeseech repair through the Omnissiah's forge-forged wisdom.\nAnoint fractured pipes with molten sacraments twice.\nInvoke Machine Spirits to mend during repair incantations.\nVerify the promethium refinery's restored alchemical purity.",
+    "component": "promethium refinery",
+    "operation": "repair",
+    "spec_id": "s07068"
+  },
+  {
+    "user_prompt": "Offer prayer for cyber-mastiff a recalibration",
+    "prayer": "Commune with the cyber-mastiff's neural implants, extending data-tendrils.\nInitiate recalibration by chanting the Canine Binary Psalter.\nSanctify occulobe relays for the cyber-mastiff's Machine Spirit.\nBeseech Omnissiah's hunt-lord grace in recalibration.\nTest the cyber-mastiff's predatory recalibration with auspex hunt-sims.",
+    "component": "cyber-mastiff",
+    "operation": "recalibration",
+    "spec_id": "s07069"
+  }
+]

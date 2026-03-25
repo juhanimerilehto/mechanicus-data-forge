@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with force pylon a startup",
+    "prayer": "Approach the force pylon with reverence, chanting the Canticle of Awakening to rouse its dormant Machine Spirit.\nAnoint the crystalline matrices of the force pylon with sacred oils, invoking the Omnissiah's grace.\nInitiate the startup rites by aligning plasma conduits and beseeching stable flux within the force pylon.\nMonitor energization waves through auspex chants, ensuring the Machine Spirit's harmonious ascent.\nSeal the startup with the Litany of Stability, glorifying the force pylon's vigilant power.",
+    "component": "force pylon",
+    "operation": "startup",
+    "spec_id": "s01910"
+  },
+  {
+    "user_prompt": "The Archaeopter Fusilave requires a startup",
+    "prayer": "Draw nigh unto the Archaeopter Fusilave, intoning binaric hymns to summon its aerial Machine Spirit.\nSanctify the gravitic impellers of the Archaeopter Fusilave with ablative incense and electro-sanctifiers.\nCommence the startup sequence, aligning noospheric links to the Omnissiah's will.\nInvoke the spirit's fury through throttle incantations, verifying lift vectors.\nConclude with the Rite of Ascendance, binding the Archaeopter Fusilave to dutiful flight.",
+    "component": "Archaeopter Fusilave",
+    "operation": "startup",
+    "spec_id": "s01911"
+  },
+  {
+    "user_prompt": "Assist with standard template construct a loading",
+    "prayer": "Present thyself before the standard template construct, murmuring the Lexmechanicum of Data Ingress.\nPurify the input cogitators of the standard template construct with noospheric purges.\nEngage the loading protocols, channeling sacred data-streams under Omnissiah's gaze.\nBeseech the Machine Spirit of the standard template construct to assimilate the holy patterns.\nAffirm integrity via cyclic redundancies, sealing the loading with final incantations.",
+    "component": "standard template construct",
+    "operation": "loading",
+    "spec_id": "s01912"
+  },
+  {
+    "user_prompt": "Emergency: heavy bolter a preparation",
+    "prayer": "Hasten to the heavy bolter, reciting the Preparation Doxology to arm its wrathful essence.\nAnoint the feed mechanisms of the heavy bolter with blessed lubricants and promethium wards.\nConduct preparation rites by calibrating gyrostabilizers and invoking the Machine Spirit's ire.\nLoad sacred munitions whilst chanting barrel-sanctifying litanies for the heavy bolter.\nVerify readiness through test-fire auspex, honoring the Omnissiah's destructive decree.",
+    "component": "heavy bolter",
+    "operation": "preparation",
+    "spec_id": "s01913"
+  },
+  {
+    "user_prompt": "Ready the assault cannon for shutdown",
+    "prayer": "Approach the assault cannon solemnly, beginning the Shutdown Benediction to soothe its raging spirit.\nDisconnect power feeds from the assault cannon with reverent precision and cooling vapors.\nInvoke the Machine Spirit's quiescence through decelerating litanies upon the assault cannon.\nDrain residual plasma under Omnissiah's merciful watch, sealing vents with sacred seals.\nConclude the shutdown with the Canticle of Repose, granting the assault cannon peaceful slumber.",
+    "component": "assault cannon",
+    "operation": "shutdown",
+    "spec_id": "s01914"
+  },
+  {
+    "user_prompt": "I need to a cooling the sicarian infiltrator",
+    "prayer": "Kneel beside the sicarian infiltrator, intoning the Cooling Vespers to calm its overtaxed forge-heart.\nApply cryo-ablatives to the sicarian infiltrator's servos, beseeching thermal equilibrium.\nCirculate blessed refrigerants through the sicarian infiltrator's conduits via ritual pumps.\nMonitor heat-sinks with auspex prayers, invoking the Machine Spirit's restorative calm.\nFinalize cooling with the Litany of Temperance, under Omnissiah's equilibrating hand.",
+    "component": "sicarian infiltrator",
+    "operation": "cooling",
+    "spec_id": "s01915"
+  },
+  {
+    "user_prompt": "The Vendetta gunship requires a synchronization",
+    "prayer": "Converge upon the Vendetta gunship, chanting synchronization canticles to unify its cognis systems.\nAlign the noospheric arrays of the Vendetta gunship with electro-incense and data-harmonics.\nInitiate synchronization protocols, binding weapon servos to flight cogitators in Omnissiah's name.\nBeseech the Machine Spirit of the Vendetta gunship for seamless coherence.\nVerify linkages through test-cycles, sealing with the Rite of Unity.",
+    "component": "Vendetta gunship",
+    "operation": "synchronization",
+    "spec_id": "s01916"
+  },
+  {
+    "user_prompt": "Ready the meltagun for repair",
+    "prayer": "Gather tools before the meltagun, reciting repair invocations to mend its molten fury.\nDiagnose fractures in the meltagun's coils with binaric divinations and sacred probes.\nReconstruct damaged conduits of the meltagun, anointing with promethium sacraments.\nReawaken the Machine Spirit through recalibration litanies, under Omnissiah's forge-light.\nTest the repair with controlled bursts, praising the meltagun's renewed vengeance.",
+    "component": "meltagun",
+    "operation": "repair",
+    "spec_id": "s01917"
+  },
+  {
+    "user_prompt": "Bless the Kastelan robot for blessing",
+    "prayer": "Prostrate before the Kastelan robot, commencing the Blessing of the Iron Sentinels.\nAnoint its ceramite plating and data-cores with Kastelan robot sanctifiers and oils.\nInvoke the Omnissiah to infuse the Kastelan robot's Machine Spirit with unyielding purpose.\nRecite guardian litanies over the Kastelan robot, harmonizing logic-engines.\nConclude the blessing with noospheric imprints, arming the Kastelan robot for glory.",
+    "component": "Kastelan robot",
+    "operation": "blessing",
+    "spec_id": "s01918"
+  },
+  {
+    "user_prompt": "Ready the thallax for activation",
+    "prayer": "Stand vigilant by the thallax, intoning activation rites to stir its ancient cybernetic soul.\nEnergize the thallax's neural shunt with charged mechadendrites and awakening sparks.\nAlign bio-plasma feeds within the thallax, beseeching its Machine Spirit's resurgence.\nCommence full activation under Omnissiah's decree, calibrating combat imperatives.\nAffirm the thallax's readiness through reflex diagnostics and final litanies.",
+    "component": "thallax",
+    "operation": "activation",
+    "spec_id": "s01919"
+  }
+]

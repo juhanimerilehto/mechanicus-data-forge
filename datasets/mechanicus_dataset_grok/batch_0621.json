@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My void shield is ready for charging",
+    "prayer": "Approach the void shield with reverence, beseeching the Omnissiah to awaken its protective essence.\nAnoint the generator arrays of the void shield with sacred oils, preparing conduits for the charging rite.\nInvoke the Machine Spirit within the void shield, commanding it to embrace the surge of plasma-laden power.\nInitiate the charging operation through rhythmic incantations of binary scripture.\nVerify the void shield's fields coalesce in harmonious defiance against the void's hunger.",
+    "component": "void shield",
+    "operation": "charging",
+    "spec_id": "s02210"
+  },
+  {
+    "user_prompt": "Prepare the cooling system for repair",
+    "prayer": "Kneel before the cooling system, chanting the Litany of Thermal Equilibrium to honor the Omnissiah.\nInspect fractured conduits of the cooling system, expunging impurities with sanctified abrasives.\nBeseech the Machine Spirit of the cooling system to forgive its wounds and accept repair.\nCommence the repair operation, welding alloys under the glow of electro-incense.\nTest the restored cooling system with diagnostic hymns, ensuring cryogenic purity.",
+    "component": "cooling system",
+    "operation": "repair",
+    "spec_id": "s02211"
+  },
+  {
+    "user_prompt": "Offer prayer for codifier an initialization",
+    "prayer": "Present thyself unto the codifier, invoking the Omnissiah's wisdom for its initialization.\nClear residual engrams from the codifier's noospheric vaults with purifying data-purgatives.\nAnoint synaptic relays of the codifier, awakening its Machine Spirit to the initialization rite.\nExecute the initialization operation via sequenced binary prayers.\nAffirm the codifier's cognizance through recursive logic loops and auspex verification.",
+    "component": "codifier",
+    "operation": "initialization",
+    "spec_id": "s02212"
+  },
+  {
+    "user_prompt": "Sanctify the data-sluice during purification",
+    "prayer": "Encircling the data-sluice, intone the Canticle of Digital Absolution in the Omnissiah's name.\nDrain corrupted bitstreams from the data-sluice, scouring its matrices with holy solvents.\nInvoke the Machine Spirit of the data-sluice twicefold, demanding purity in this rite.\nConduct the purification operation with cascading noospheric washes.\nSeal the data-sluice's sanctity, confirming untainted flow through prophetic auguries.",
+    "component": "data-sluice",
+    "operation": "purification",
+    "spec_id": "s02213"
+  },
+  {
+    "user_prompt": "Prepare the teleportarium for shutdown",
+    "prayer": "Commune with the teleportarium's altar, beseeching the Omnissiah for a graceful shutdown.\nDisconnect warp-vanes of the teleportarium, murmuring litanies against etheric backlash.\nPacify the Machine Spirit within the teleportarium, guiding it to dormancy.\nEnact the shutdown operation through decelerating gyromantic sequences.\nWitness the teleportarium's fields collapse into blessed silence, verified by auspex quiescence.",
+    "component": "teleportarium",
+    "operation": "shutdown",
+    "spec_id": "s02214"
+  },
+  {
+    "user_prompt": "What's the prayer for Contemptor Dreadnought a cooling?",
+    "prayer": "Prostrate before the Contemptor Dreadnought, honoring its ancient Machine Spirit with thermal devotions.\nExpose heat-sinks of the Contemptor Dreadnought, anointing them against overflux.\nBeseech the Omnissiah to grant cooling respite to the Contemptor Dreadnought's sarcophagus.\nInitiate the cooling operation with cryo-incantations and vaporous ablutions.\nMonitor the Contemptor Dreadnought's vitals until equilibrium is restored in machine-righteousness.",
+    "component": "Contemptor Dreadnought",
+    "operation": "cooling",
+    "spec_id": "s02215"
+  },
+  {
+    "user_prompt": "The needle rifle awaits an initialization",
+    "prayer": "Grasp the needle rifle reverently, invoking the Omnissiah for its initialization awakening.\nPurify monomolecular chambers of the needle rifle with neurotoxic incense.\nAwaken the Machine Spirit of the needle rifle through binary priming rites.\nCommence the initialization operation, calibrating toxin injectors with sacred measures.\nTest the needle rifle's lethal precision via ballistic catechisms.",
+    "component": "needle rifle",
+    "operation": "initialization",
+    "spec_id": "s02216"
+  },
+  {
+    "user_prompt": "Consecrate the standard template construct before targeting",
+    "prayer": "Consecrate the standard template construct with oils of forgotten forge-worlds.\nAlign targeting matrices of the standard template construct under Omnissianic gaze.\nBeseech its Machine Spirit to guide the targeting operation with unerring logic.\nInvoke harmonic auspex links upon the standard template construct.\nAffirm targeting sanctity through simulated fire-storms and prophetic alignments.",
+    "component": "standard template construct",
+    "operation": "targeting",
+    "spec_id": "s02217"
+  },
+  {
+    "user_prompt": "Guide me through volitor implant a preparation",
+    "prayer": "Prepare the volitor implant's cradle, chanting the Noospheric Binding before the Omnissiah.\nAnoint neural anchors of the volitor implant with synaptic unguents.\nInvoke the Machine Spirit within the volitor implant for preparation harmony.\nExecute the preparation operation via phased calibration hymns.\nIntegrate the volitor implant's essence, verifying synaptic communion.",
+    "component": "volitor implant",
+    "operation": "preparation",
+    "spec_id": "s02218"
+  },
+  {
+    "user_prompt": "The Skorpius Dunerider needs a maintenance",
+    "prayer": "Circumambulate the Skorpius Dunerider, intoning the Canticle of Desert Forges to the Omnissiah.\nInspect treads and dorsal arrays of the Skorpius Dunerider for maintenance rites.\nBeseech its Machine Spirit twice to endure the maintenance operation.\nApply sanctified alloys and electro-rituals across the Skorpius Dunerider.\nConclude with auspex blessings, ensuring the Skorpius Dunerider's duneswept fury endures.",
+    "component": "Skorpius Dunerider",
+    "operation": "maintenance",
+    "spec_id": "s02219"
+  }
+]

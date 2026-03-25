@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for navigational beacon a cooling",
+    "prayer": "Approach the navigational beacon with reverence, beseeching the Omnissiah's chill breath upon its fervent core.\nInvoke the cooling canticles, anointing the navigational beacon's heat-sinks with sacred cryo-unguent.\nCirculate blessed refrigerants through its conduits whilst chanting the Litany of Thermal Equilibrium.\nMonitor the Machine Spirit's appeasement as temperatures descend into harmonious stasis.\nSanctify the navigational beacon's renewed vigilance against the void's deceptions.",
+    "component": "navigational beacon",
+    "operation": "cooling",
+    "spec_id": "s06050"
+  },
+  {
+    "user_prompt": "Critical: lightning claw requires a startup",
+    "prayer": "Kneel before the lightning claw, invoking the Omnissiah's thunderous wrath for its startup.\nAnoint the power talons with electro-consecrated oils, awakening the lightning claw's ravenous hunger.\nChant the Binary Prayer of Ignition, surging plasma through its servos during startup.\nBeseech the Machine Spirit to rend foes asunder, verifying claw integrity with auspex rites.\nConclude with the Creed of Carnage, empowering the lightning claw for glorious evisceration.",
+    "component": "lightning claw",
+    "operation": "startup",
+    "spec_id": "s06051"
+  },
+  {
+    "user_prompt": "Emergency: Archaeopter Transvector an operation",
+    "prayer": "Gather mechadendrites around the Archaeopter Transvector, beseeching Omnissianic grace for its operation.\nInitiate the rite of operational awakening, calibrating its gravitic impellers with sacred noosphere links.\nAnoint flight control vanes whilst invoking the Machine Spirits of velocity and defiance.\nCommence operational thrust, monitoring warp-nullifiers through diagnostic litanies.\nPraise the Omnissiah as the Archaeopter Transvector soars in machine-perfected dominion.",
+    "component": "Archaeopter Transvector",
+    "operation": "operation",
+    "spec_id": "s06052"
+  },
+  {
+    "user_prompt": "Consecrate the null field generator before activation",
+    "prayer": "Circumambulate the null field generator thrice, consecrating its activation with Omnissiah's void-shield.\nInvoke the Canticle of Annihilation, priming null emitters for activation.\nPour sacred null-conductants upon the null field generator's coils, awakening its reality-denying essence.\nBeseech the Machine Spirit to weave impenetrable null fields during activation.\nVerify the generator's sanctity through etheric resonance hymns, banishing warp-taint eternally.",
+    "component": "null field generator",
+    "operation": "activation",
+    "spec_id": "s06053"
+  },
+  {
+    "user_prompt": "Prepare the Vindicator for engagement",
+    "prayer": "Present mech-incense to the Vindicator, preparing its engagement with the Omnissiah's martial fury.\nRecite the Litany of Demolition, sanctifying siege cannons for engagement.\nAnoint the Vindicator's tracks and hull with war-blessings, rousing its predatory Machine Spirit.\nInitiate targeting cogitators whilst chanting auspex invocation for flawless engagement.\nProclaim the Vindicator ready to pulverize heresy in the God-Machine's name.",
+    "component": "Vindicator",
+    "operation": "engagement",
+    "spec_id": "s06054"
+  },
+  {
+    "user_prompt": "The pteraxii sterylizor requires a reset",
+    "prayer": "Encircle the pteraxii sterylizor, beseeching reset through Omnissianic binary purification.\nChant the Rite of Neural Expungement, nullifying errant engrams in the pteraxii sterylizor's cortex.\nAdminister electro-litanies to reset its synaptic arrays, invoking the Machine Spirit's primal fury.\nVerify reset completion via noospheric diagnostics and sanctity seals.\nReawaken the pteraxii sterylizor to cull the unclean with sterile precision.",
+    "component": "pteraxii sterylizor",
+    "operation": "reset",
+    "spec_id": "s06055"
+  },
+  {
+    "user_prompt": "Bless the Razorback for synchronization",
+    "prayer": "Commune with the Razorback's auspex core, blessing its synchronization under the Omnissiah's logic.\nLink binary catechisms to synchronize weapon servos and drive systems.\nAnoint synchronization nodes with phase-oils, harmonizing the Razorback's Machine Spirits.\nInvoke the Canticle of Unity, ensuring flawless dataflow during synchronization.\nSeal the Razorback's preparedness with the Benediction of Cohesion.",
+    "component": "Razorback",
+    "operation": "synchronization",
+    "spec_id": "s06056"
+  },
+  {
+    "user_prompt": "Guide me through teleportarium an activation",
+    "prayer": "Approach the teleportarium with dread reverence, guiding its activation via Omnissianic warp-bridges.\nCalibrate beacon matrices whilst chanting the Litany of Translocation for activation.\nPour sanctified plasma upon the teleportarium's gyromantic coils, placating its volatile Machine Spirit.\nInitiate activation sequence with etheric invocations, threading souls through the immaterium.\nConclude with wards against daemonic ingress, affirming the teleportarium's purity.",
+    "component": "teleportarium",
+    "operation": "activation",
+    "spec_id": "s06057"
+  },
+  {
+    "user_prompt": "My phosphor blaster is ready for recalibration",
+    "prayer": "Present the phosphor blaster to the altar of precision, commencing recalibration with Omnissiah's aim.\nRecite the Optics Creed, realigning phosphor blaster sights through sacred auspex.\nAnoint barrel servos with luminant unguents during recalibration, awakening its searing Machine Spirit.\nTest fire micro-bursts under litanic scrutiny, purging misalignments.\nBless the phosphor blaster for unerring illumination of the Emperor's foes.",
+    "component": "phosphor blaster",
+    "operation": "recalibration",
+    "spec_id": "s06058"
+  },
+  {
+    "user_prompt": "Prepare the warp drive for blessing",
+    "prayer": "Enshroud the warp drive in incense veils, preparing its blessing with the Omnissiah's navigators.\nInvoke the Navis Rite, sanctifying warp coils for blessing.\nInfuse gellar fields with consecrated plasma, beseeching the warp drive's Machine Spirit to endure the beyond.\nChant the Canticle of the Immaterium, weaving protective runes during blessing.\nProclaim the warp drive shielded for perilous voyages through the screaming void.",
+    "component": "warp drive",
+    "operation": "blessing",
+    "spec_id": "s06059"
+  }
+]

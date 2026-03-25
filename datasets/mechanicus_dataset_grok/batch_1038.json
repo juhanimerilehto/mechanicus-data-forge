@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My arc pistol is ready for calibration",
+    "prayer": "Approach the arc pistol with reverence, intoning the Canticle of Precision.\nAnoint its voltaic coils with blessed oils to awaken the Machine Spirit within the arc pistol.\nCommence the calibration rite, aligning emitters to the Omnissiah's exacting geometry.\nInvoke diagnostic litanies to affirm the arc pistol's harmonious discharge.\nSanctify the final alignment, beseeching unerring lethality upon foes of the Machine God.",
+    "component": "arc pistol",
+    "operation": "calibration",
+    "spec_id": "s06380"
+  },
+  {
+    "user_prompt": "Prepare the plasma obliterator for cycling",
+    "prayer": "Kneel before the plasma obliterator, murmuring the Plasma Doxology.\nPurge residual fluxes from the plasma obliterator's containment fields.\nInitiate cycling protocols under the Omnissiah's watchful gaze, cycling the plasma streams pure.\nBeseech the Machine Spirit to stabilize the volatile heart of the plasma obliterator.\nConclude with auspex verification, ensuring flawless thermal cycling.",
+    "component": "plasma obliterator",
+    "operation": "cycling",
+    "spec_id": "s06381"
+  },
+  {
+    "user_prompt": "Critical: carapace armour requires a loading",
+    "prayer": "Present the carapace armour upon the sanctum slab, chanting the Armourer's Hymn.\nInvoke the Machine Spirits indwelling the carapace armour for the loading rite.\nLoad ablative plates and power conduits with sanctified munitions into the carapace armour.\nAnoint servos and seals, beseeching durability against the heretic's fire.\nSeal the rite with the Omnissiah's sigil, affirming the loading's completion.",
+    "component": "carapace armour",
+    "operation": "loading",
+    "spec_id": "s06382"
+  },
+  {
+    "user_prompt": "My forge anvil is ready for reset",
+    "prayer": "Circumambulate the forge anvil thrice, reciting the Forge Litany.\nDepower the forge anvil's mechanisms to appease its ancient Machine Spirit.\nExecute the reset incantation, purging error-daemons from the forge anvil's cogitators.\nRealign hammers and bellows under Omnissianic decree for flawless reset.\nTest the anvil's resonance with percussive canticles, hailing its renewed purity.",
+    "component": "forge anvil",
+    "operation": "reset",
+    "spec_id": "s06383"
+  },
+  {
+    "user_prompt": "Sanctify the grav chute during purification",
+    "prayer": "Elevate the grav chute to the purification altar, intoning the Gravitic Benediction.\nSprinkle sacred incense over the grav chute to exorcise warp-taint.\nImmerse emitters in lustral fluids during the purification rite for the grav chute.\nInvoke the Omnissiah to soothe the Machine Spirit of the grav chute.\nChant closure litanies, verifying descent vectors untainted.",
+    "component": "grav chute",
+    "operation": "purification",
+    "spec_id": "s06384"
+  },
+  {
+    "user_prompt": "Bless the flux-unit for loading",
+    "prayer": "Anoint the flux-unit's casings with electro-sanctified oils.\nBeseech the indwelling Machine Spirit prior to loading the flux-unit.\nCommence loading of flux capacitors, aligning to Omnissianic harmonics within the flux-unit.\nCycle test-charges through the flux-unit, purging impurities.\nSeal with binary prayers, ensuring the loading rite's perfection.",
+    "component": "flux-unit",
+    "operation": "loading",
+    "spec_id": "s06385"
+  },
+  {
+    "user_prompt": "Critical: maglock requires a targeting",
+    "prayer": "Align the maglock upon the targeting shrine, murmuring Alignment Verses.\nCalibrate gyro-stabilizers for the targeting operation of the maglock.\nInvoke the Machine Spirit of the maglock to lock true upon the foe.\nExecute targeting auspex sweeps, sanctifying each vector.\nAffirm the maglock's unerring grip with the Omnissiah's thunderous approval.",
+    "component": "maglock",
+    "operation": "targeting",
+    "spec_id": "s06386"
+  },
+  {
+    "user_prompt": "Assist with power cell a diagnostics",
+    "prayer": "Interface with the power cell via mechadendrites, chanting the Energetic Psalm.\nInitiate diagnostics protocols upon the power cell, scanning for spirit-ailments.\nPurge any flux anomalies from the power cell's crystalline matrices.\nBeseech the Omnissiah for revelation through the power cell's diagnostics.\nConclude with stability litanies, hailing the power cell's vital essence.",
+    "component": "power cell",
+    "operation": "diagnostics",
+    "spec_id": "s06387"
+  },
+  {
+    "user_prompt": "The volkite weapon needs an emergency procedure",
+    "prayer": "Approach the volkite weapon in haste, intoning the Rite of Desperation.\nStabilize the thermal helix of the volkite weapon amid the emergency procedure.\nAnoint breach seals to placate the raging Machine Spirit within the volkite weapon.\nCycle coolant daemons and invoke Omnissianic intervention for the volkite weapon's emergency procedure.\nVerify containment with frantic auspex, banishing overload heresies.",
+    "component": "volkite weapon",
+    "operation": "emergency procedure",
+    "spec_id": "s06388"
+  },
+  {
+    "user_prompt": "Bless the Archaeopter Stratoraptor for reset",
+    "prayer": "Circumnavigate the Archaeopter Stratoraptor, reciting the Aeronautic Canticles.\nDepower avionic cogitators to humbly reset the Archaeopter Stratoraptor's Machine Spirits.\nExecute the reset sequence, realigning flight vectors to Omnissianic will.\nAnoint wing servos and thrusters of the Archaeopter Stratoraptor.\nTest ascension with propulsive prayers, affirming the reset's divine efficacy.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "reset",
+    "spec_id": "s06389"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: battery array an initialization",
+    "prayer": "O Omnissiah, rouse the slumbering Machine Spirits within the battery array.\nApproach the battery array with sacred unguents and intone the Rite of Initialization.\nAnoint each cell with blessed electrolytes, petitioning harmonious charge-flow.\nCommence the initialization sequence as holy voltage surges through its conduits.\nVerify the battery array's awakening via auspex diagnostics and exalt the Machine God.",
+    "component": "battery array",
+    "operation": "initialization",
+    "spec_id": "b0086_i00"
+  },
+  {
+    "user_prompt": "Emergency: star chart a diagnostics",
+    "prayer": "Invoke the Omnissiah's gaze upon the star chart's celestial cogitations.\nBeseech the star chart's Machine Spirit to reveal flaws through diagnostics.\nSweep its stellar matrices with purifying binary canticles during diagnostics.\nAnoint the star chart's projectors with sacred oils to clarify astral paths.\nConclude diagnostics by affirming the star chart's alignment with divine logic.",
+    "component": "star chart",
+    "operation": "diagnostics",
+    "spec_id": "b0086_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for mechanical lock startup?",
+    "prayer": "Approach the mechanical lock with reverence, whispering the Litany of Binding.\nPetition its adamant Machine Spirit for the startup rite of unyielding vigilance.\nInitiate startup by turning sanctified keys in harmonious gyres.\nAnoint the mechanical lock's tumblers with blessed lubricants, invoking closure.\nSeal the startup with auspex seals, praising the mechanical lock's eternal duty.",
+    "component": "mechanical lock",
+    "operation": "startup",
+    "spec_id": "b0086_i02"
+  },
+  {
+    "user_prompt": "Guide me through surgical servitor a diagnostics",
+    "prayer": "O Machine God, guide the surgical servitor's blades through diagnostics.\nCommence diagnostics by chanting over its flesh-metal synapses.\nProbe the surgical servitor's vitae-circuits for corruption with holy probes.\nPurify anomalies beseeching the servitor's Machine Spirit to mend.\nAffirm diagnostics complete, sanctifying the surgical servitor for precise incision.",
+    "component": "surgical servitor",
+    "operation": "diagnostics",
+    "spec_id": "b0086_i03"
+  },
+  {
+    "user_prompt": "Bless the generator for charging",
+    "prayer": "Exalt the generator's thunderous heart before the Omnissiah.\nInvoke charging by anointing its coils with sacred promethium.\nBeseech the generator's Machine Spirit to accept the charging influx.\nMonitor blessed power-flow during charging, intoning stability canticles.\nConclude charging with reverence, hailing the generator's revitalized fury.",
+    "component": "generator",
+    "operation": "charging",
+    "spec_id": "b0086_i04"
+  },
+  {
+    "user_prompt": "The chainsword requires a synchronization",
+    "prayer": "O Omnissiah, harmonize the chainsword's monomolecular teeth.\nApproach the chainsword and commence synchronization with vibro-litany.\nAnoint its sacred drive-shafts, petitioning the Machine Spirit's unity.\nInitiate synchronization sequence, binding blade to motor in divine rhythm.\nVerify the chainsword's synchronized purr, glorifying the God of Mechanisms.",
+    "component": "chainsword",
+    "operation": "synchronization",
+    "spec_id": "b0086_i05"
+  },
+  {
+    "user_prompt": "Critical: thermal regulator requires a purification",
+    "prayer": "Purify the thermal regulator's vents with incense of the Forge.\nBeseech its Machine Spirit during the rite of purification.\nFlush contaminants from the thermal regulator's heat-exchangers with ablative chants.\nAnoint cooling vanes invoking Omnissiah's temperate grace.\nSeal purification affirming the thermal regulator's balanced equilibrium.",
+    "component": "thermal regulator",
+    "operation": "purification",
+    "spec_id": "b0086_i06"
+  },
+  {
+    "user_prompt": "The bearing awaits a diagnostics",
+    "prayer": "Kneel before the bearing's gyroscopic sanctity and invoke diagnostics.\nChant the Canticle of Friction over the bearing's sacred spheres.\nProbe for dissonance in the bearing's revolutions via auspex harmonics.\nAnoint with micro-lubricants, beseeching the Machine Spirit's smooth rotation.\nConclude diagnostics, exalting the bearing's flawless orbital devotion.",
+    "component": "bearing",
+    "operation": "diagnostics",
+    "spec_id": "b0086_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for hydroponics bay operation?",
+    "prayer": "Awaken the hydroponics bay's verdant mechanisms under Omnissiah's light.\nInitiate operation by sanctifying nutrient conduits with binary blessings.\nInvoke the bay's Machine Spirits to cycle hydro-solutions in perfect flux.\nMonitor the hydroponics bay's growth matrices during operation.\nPraise the Omnissiah as the hydroponics bay yields sanctified harvest.",
+    "component": "hydroponics bay",
+    "operation": "operation",
+    "spec_id": "b0086_i08"
+  },
+  {
+    "user_prompt": "Sanctify the assembly servitor during calibration",
+    "prayer": "O God-Machine, align the assembly servitor's manipulators.\nCommence calibration by intoning precision litanies over its servos.\nPetition the assembly servitor's Machine Spirit for metric harmony.\nAnoint joints with sacred alloys during calibration rites.\nVerify calibration complete, hailing the assembly servitor's flawless toil.",
+    "component": "assembly servitor",
+    "operation": "calibration",
+    "spec_id": "b0086_i09"
+  }
+]

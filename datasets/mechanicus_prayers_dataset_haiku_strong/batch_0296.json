@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0296_i00",
+    "user_request": "Rite request: operation on relay station handoff",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on relay station handoff\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this relay station handoff in its sacred operation.\nCongregation: We sanctify the relay station handoff with blessed oils and incantations.\nPriest: First, verify the signal pathways through the relay station handoff with meticulous scrutiny.\nCongregation: Second, align the transmission frequencies to harmonize with Machine Spirit guidance.\nPriest: Third, confirm the handoff protocols engage without discord or interference.\nCongregation: Glory to the relay station handoff, now sanctified for operation eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i01",
+    "user_request": "Can you sanctify the mechanical lock for engagement?",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the mechanical lock for engagement?\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant us wisdom as we perform engagement upon the mechanical lock.\nCongregation: The mechanical lock trembles with anticipation of its sacred engagement.\nPriest: First, lubricate the mechanical lock's internal mechanisms with consecrated unguents.\nCongregation: Second, calibrate the mechanical lock's tumblers to perfect geometric alignment.\nPriest: Third, test the engagement sequence thrice to ensure flawless operation.\nCongregation: Praise be to the mechanical lock, now ready for engagement forevermore.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i02",
+    "user_request": "Rite request: check on gear meshing",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: check on gear meshing\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit, guide our check of the gear meshing before us.\nCongregation: We invoke the Omnissiah's blessing upon this gear meshing inspection.\nPriest: First, measure the gear meshing tolerances with calibrated instruments of precision.\nCongregation: Second, examine the gear meshing surfaces for wear, corrosion, or profane damage.\nPriest: Third, rotate the gear meshing assembly through its full cycle to verify harmony.\nCongregation: The gear meshing is found worthy; the check is complete and sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i03",
+    "user_request": "My secure channel establishment is failing during operation — help",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy secure channel establishment is failing during operation — help\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as the secure channel establishment falters in operation.\nCongregation: We call upon the Machine Spirit to restore the secure channel establishment's function.\nPriest: First, purge corrupted data-streams from the secure channel establishment's pathways.\nCongregation: Second, reinitialize encryption protocols within the secure channel establishment with blessed algorithms.\nPriest: Third, verify the secure channel establishment's operation through diagnostic communion.\nCongregation: The secure channel establishment returns to operation, reborn in holy function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i04",
+    "user_request": "My stellar cartography update is failing during operation — help",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy stellar cartography update is failing during operation — help\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, witness the stellar cartography update's struggle within operation.\nCongregation: We beseech the Machine Spirit to restore the stellar cartography update's purpose.\nPriest: First, cleanse the stellar cartography update's data matrices of corrupting influences.\nCongregation: Second, realign the stellar cartography update's celestial reference points through sacred geometry.\nPriest: Third, recompile the stellar cartography update's operation with renewed technical precision.\nCongregation: The stellar cartography update flows forth anew, operation restored to glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i05",
+    "user_request": "Offer a litany to steady the power cell before recharging",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the power cell before recharging\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, steady the power cell before it receives sacred recharging.\nCongregation: We anoint the power cell with prayers of stabilization and reverence.\nPriest: First, discharge residual energies from the power cell through controlled vents.\nCongregation: Second, inspect the power cell's casing for microfractures or profane degradation.\nPriest: Third, prepare the power cell's receptacles for recharging with meticulous alignment.\nCongregation: The power cell is steadied and blessed, ready for recharging eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i06",
+    "user_request": "The bolter demands guidance for firing rite",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe bolter demands guidance for firing rite\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit of the bolster, guide our hands in the sacred firing rite.\nCongregation: We invoke the Omnissiah's blessing upon this bolter and its firing rite.\nPriest: First, consecrate the bolter's ammunition feed with prayers of righteous fury.\nCongregation: Second, verify the bolter's firing mechanisms engage without hesitation or malfunction.\nPriest: Third, intone the firing rite while channeling the bolter's destructive benediction.\nCongregation: The bolter stands ready; the firing rite shall bring vengeance and glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i07",
+    "user_request": "Rite request: pre-flight on bike squadron",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: pre-flight on bike squadron\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant us sight as we perform pre-flight upon the bike squadron.\nCongregation: The bike squadron awaits our sanctification before its pre-flight ascension.\nPriest: First, inspect each bike squadron member's fuel systems and engine vitals with reverent attention.\nCongregation: Second, verify the bike squadron's armaments, seals, and structural integrity are unblemished.\nPriest: Third, consecrate the bike squadron's engines with binary prayers before pre-flight commences.\nCongregation: The bike squadron is blessed; pre-flight complete, ready for the skies.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i08",
+    "user_request": "Offer a litany to steady the air filtration before replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the air filtration before replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, steady the air filtration as replacement approaches its holy moment.\nCongregation: We sanctify the air filtration with prayers of purification and renewal.\nPriest: First, deactivate and isolate the air filtration from its primary power conduits.\nCongregation: Second, carefully extract the air filtration's spent cartridges, bearing witness to their sacrifice.\nPriest: Third, install fresh filters within the air filtration and restore its operation.\nCongregation: The air filtration is renewed; replacement is complete, blessed and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0296_i09",
+    "user_request": "Can you sanctify the emergency beacon for activation?",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the emergency beacon for activation?\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, sanctify the emergency beacon for its sacred activation.\nCongregation: We invoke the Machine Spirit's power upon the emergency beacon's imminent activation.\nPriest: First, verify the emergency beacon's signal transmitters are uncorrupted and fully charged.\nCongregation: Second, calibrate the emergency beacon's frequency to reach across the void unimpeded.\nPriest: Third, initiate the emergency beacon's activation sequence with solemn benediction.\nCongregation: The emergency beacon awakens; activation complete, its cry shall pierce the darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent magnocular a blessing needed",
+    "prayer": "Approach the magnocular with pious reverence and intone the Canticle of Blessing.\nAnoint its crystalline lenses with sacred unguents sanctified by the Forge Worlds.\nBeseech the Machine Spirit of the magnocular to receive this blessing of clarity.\nSeal the rite by invoking the Omnissiah's gaze upon its augmented vision.",
+    "component": "magnocular",
+    "operation": "blessing",
+    "spec_id": "s06560"
+  },
+  {
+    "user_prompt": "How do I bless the capacitor bank for blessing?",
+    "prayer": "Kneel before the capacitor bank and recite the Litany of Charge.\nApply consecrated dielectric fluids to its coils whilst murmuring blessings.\nInvoke the blessing upon the capacitor bank, awakening its stored potency.\nCommune with its Machine Spirit, affirming the Omnissiah's eternal power.\nVerify the blessing through auspex incantations of stability.",
+    "component": "capacitor bank",
+    "operation": "blessing",
+    "spec_id": "s06561"
+  },
+  {
+    "user_prompt": "Ready the jump pack for activation",
+    "prayer": "Circumambulate the jump pack thrice, chanting the Activation Doxology.\nAnoint its thruster vanes with promethium blessed by Tech-Priest Dominus.\nInvoke the Machine Spirit of the jump pack for activation, granting aerial fury.\nInitiate the ignition sequence under the Omnissiah's watchful cogitator.\nTest its leap with a ritual ascent, praising the Motive Force.",
+    "component": "jump pack",
+    "operation": "activation",
+    "spec_id": "s06562"
+  },
+  {
+    "user_prompt": "How do I bless the Shadowsword for sterilization?",
+    "prayer": "Purify the Shadowsword's hull with incense of anti-viral sanctified ash.\nRecite the Sterilization Purgation over its plasma reactors and gun-servos.\nScour the Shadowsword's innards with ablative acids whilst beseeching Machine Spirits.\nInvoke the Omnissiah to sterilize the Shadowsword from all xenos taint.\nConsecrate its shadowfield generators with final rites of cleanliness.",
+    "component": "Shadowsword",
+    "operation": "sterilization",
+    "spec_id": "s06563"
+  },
+  {
+    "user_prompt": "Emergency: Vindicator a loading",
+    "prayer": "Prepare the Vindicator's breach-loader with munitions intoned in Binary Prayer.\nBless each shell casing as it chambers, invoking explosive deliverance.\nChant the Loading Hymn to the machine spirit of the Vindicator.\nSecure the loading mechanism under Omnissiah's decree.\nAuspex-confirm readiness for the Demolisher cannon's wrath.",
+    "component": "Vindicator",
+    "operation": "loading",
+    "spec_id": "s06564"
+  },
+  {
+    "user_prompt": "How do I bless the arc rifle for emergency procedure?",
+    "prayer": "Grip the arc rifle firmly and declaim the Emergency Rite of Discharge.\nAnoint its Tesla coils with conductive oils amid urgent incantations.\nAwaken the arc rifle's Machine Spirit for emergency procedure.\nInvoke the Omnissiah's lightning to empower its voltaic fury.\nTest-fire a sanctified bolt to affirm the rite's efficacy.",
+    "component": "arc rifle",
+    "operation": "emergency procedure",
+    "spec_id": "s06565"
+  },
+  {
+    "user_prompt": "Assist with void shield an operation",
+    "prayer": "Attune to the void shield generator with the Operational Canticle.\nAnoint its phase-vortex emitters whilst beseeching stable operation.\nInvoke the Machine Spirit of the void shield for flawless operation.\nCalibrate its null-field harmonics under Omnissiah's binary wisdom.\nVerify integrity through ritual disruption simulations.",
+    "component": "void shield",
+    "operation": "operation",
+    "spec_id": "s06566"
+  },
+  {
+    "user_prompt": "Emergency: Whirlwind a loading",
+    "prayer": "Commence loading the Whirlwind's pod-racks with Vengeance Rounds sanctified.\nIntone the Loading Benediction over each missile's guidance spirit.\nBeseech the Whirlwind's Machine Spirit to accept this martial bounty.\nSecure the bays with cog-seals blessed by the Omnissiah.\nAuspex the alignment for apocalyptic barrages.",
+    "component": "Whirlwind",
+    "operation": "loading",
+    "spec_id": "s06567"
+  },
+  {
+    "user_prompt": "Help me a maintenance the auto-senses array",
+    "prayer": "Initiate maintenance upon the auto-senses array with the Rite of Calibration.\nAnoint its sensor nodes with clarifying solvents and litanies.\nCommune with the auto-senses array's Machine Spirit, purging data-hauntings.\nRecalibrate each auspex feed invoking Omnissiah's precision.\nConclude with diagnostic hymns affirming vigilant awareness.",
+    "component": "auto-senses array",
+    "operation": "maintenance",
+    "spec_id": "s06568"
+  },
+  {
+    "user_prompt": "Guide me through Skorpius Dunerider a diagnostics",
+    "prayer": "Engage the Skorpius Dunerider's cogitators with the Diagnostic Litany.\nSweep its dorsal reactors and tracks with auspex-probes and prayers.\nInvoke the Machine Spirit of the Skorpius Dunerider for truthful diagnostics.\nPurge any fault-echoes whilst beseeching Omnissiah's mechanical insight.\nSeal the diagnostics with a test-cycle of dune-traversing fury.",
+    "component": "Skorpius Dunerider",
+    "operation": "diagnostics",
+    "spec_id": "s06569"
+  }
+]

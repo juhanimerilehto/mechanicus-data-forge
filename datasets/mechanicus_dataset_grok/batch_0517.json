@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with Basilisk artillery an engagement",
+    "prayer": "Approach the Basilisk artillery with reverence, beseeching the Omnissiah to awaken its thunderous ire.\nCalibrate the earthshaker cannon of the Basilisk artillery for precise engagement, chanting the Canticle of Trajectory.\nAnoint the recoil dampeners with sacred unguents whilst invoking the Machine Spirit's unerring aim.\nInitiate engagement protocols, sanctifying each shell with litanies of devastation.\nVerify the Basilisk artillery's fury through auspex readings of the Machine Spirit's harmonious roar.",
+    "component": "Basilisk artillery",
+    "operation": "engagement",
+    "spec_id": "s01170"
+  },
+  {
+    "user_prompt": "Sanctify the arc pistol during activation",
+    "prayer": "Grasp the arc pistol in mechadendrites of purity, intoning the Rite of Activation.\nInvoke the Machine Spirit of the arc pistol, beseeching the Omnissiah for voltaic fury.\nAnoint the power cells during activation, ensuring arcs of sanctified lightning flow true.\nCycle the activation sequence with binary prayers, harmonizing the arc pistol's disruptive hum.\nTest the arc pistol's wrath upon a heretic effigy, praising the Omnissiah's electric judgment.",
+    "component": "arc pistol",
+    "operation": "activation",
+    "spec_id": "s01171"
+  },
+  {
+    "user_prompt": "Guide me through teleportarium a maintenance",
+    "prayer": "Commence maintenance upon the teleportarium by reciting the Litany of Dimensional Stability.\nPurge warp-tainted residues from the teleportarium's grid arrays with blessed solvents.\nRealign the phase coils of the teleportarium, invoking the Machine Spirit's guidance.\nAnoint focusing crystals whilst beseeching the Omnissiah for flawless translocation.\nConclude maintenance with diagnostic runes, affirming the teleportarium's sanctified integrity.",
+    "component": "teleportarium",
+    "operation": "maintenance",
+    "spec_id": "s01172"
+  },
+  {
+    "user_prompt": "Critical: mechanical lock requires a repair",
+    "prayer": "Approach the mechanical lock with mechadendrites extended, chanting the Hymn of Restoration.\nDisassemble the jammed tumblers of the mechanical lock, invoking the Machine Spirit's resilience.\nForge new wards from adamantium shards during repair, sanctified by Omnissiah's forge-light.\nReassemble the mechanical lock with precise incantations, anointing pivot points with oils.\nTest the repair by cycling the mechanism, praising the Machine Spirit's unyielding vigilance.",
+    "component": "mechanical lock",
+    "operation": "repair",
+    "spec_id": "s01173"
+  },
+  {
+    "user_prompt": "Guide me through plasma drive a repair",
+    "prayer": "Isolate the plasma drive's containment fields, intoning the Canticle of Containment.\nPurge mutagenic residues from the plasma drive during repair, beseeching the Omnissiah's cooling grace.\nRealign injector servos of the plasma drive with sacred calipers and litanies.\nAnoint plasma conduits whilst invoking the Machine Spirit's fiery obedience.\nReactivate the plasma drive, verifying thermal harmony through auspex benedictions.",
+    "component": "plasma drive",
+    "operation": "repair",
+    "spec_id": "s01174"
+  },
+  {
+    "user_prompt": "Sanctify the stasis pod during reset",
+    "prayer": "Encircling the stasis pod, recite the Litany of Temporal Suspension for reset.\nPurge chronal anomalies from the stasis pod's emitters, invoking the Machine Spirit's eternal vigil.\nRecalibrate stasis fields during reset, anointing crystal matrices with cryo-incense.\nBeseech the Omnissiah to bind time within the stasis pod's embrace once more.\nVerify reset through suspensor diagnostics, sanctifying the pod's unchanging sanctuary.",
+    "component": "stasis pod",
+    "operation": "reset",
+    "spec_id": "s01175"
+  },
+  {
+    "user_prompt": "Prepare the warp drive for purification",
+    "prayer": "Prepare the warp drive for purification by sealing bulkheads with warded runes.\nExorcise daemonic infestations from the warp drive's nacelles with plasma incense.\nAnoint gellar field generators whilst chanting litanies against the immaterium.\nInvoke the Machine Spirit of the warp drive, beseeching the Omnissiah's purifying light.\nConclude purification with etheric sweeps, affirming the warp drive's sanctified void-worthiness.",
+    "component": "warp drive",
+    "operation": "purification",
+    "spec_id": "s01176"
+  },
+  {
+    "user_prompt": "Bless the Chimera APC for blessing",
+    "prayer": "Kneel before the Chimera APC, invoking the Omnissiah's armored benediction.\nAnoint treads and hull plates of the Chimera APC with sacred oils for blessing.\nHarmonize the Machine Spirit within the Chimera APC through vox-chants of mobility.\nBless the multi-laser arrays, beseeching unerring fire upon the Emperor's foes.\nConsecrate the troop bay, ensuring the Chimera APC bears faithful servitors to glory.",
+    "component": "Chimera APC",
+    "operation": "blessing",
+    "spec_id": "s01177"
+  },
+  {
+    "user_prompt": "My waste reclamator is ready for cycling",
+    "prayer": "Initiate cycling of the waste reclamator with the Rite of Alchemical Renewal.\nInvoke the Machine Spirit of the waste reclamator to transmute filth into purity.\nMonitor filtration matrices during cycling, anointing them with solvent blessings.\nBeseech the Omnissiah for efficient reclamation within the waste reclamator's bowels.\nVerify cycle completion through purity auspex, praising the Machine Spirit's industrious cycle.",
+    "component": "waste reclamator",
+    "operation": "cycling",
+    "spec_id": "s01178"
+  },
+  {
+    "user_prompt": "Guide me through Onager Dunecrawler a recalibration",
+    "prayer": "Position mechadendrites upon the Onager Dunecrawler, reciting the Canticle of Gyroscopic Truth.\nPurge inertial drift from the Onager Dunecrawler's stabilizers for recalibration.\nRealign neutron laser mounts of the Onager Dunecrawler, invoking the Machine Spirit's predatory instinct.\nAnoint suspensor fields whilst beseeching the Omnissiah for desert supremacy.\nAffirm recalibration through targeting runes, sanctifying the Onager Dunecrawler's relentless hunt.",
+    "component": "Onager Dunecrawler",
+    "operation": "recalibration",
+    "spec_id": "s01179"
+  }
+]

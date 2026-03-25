@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with magnocular a consecration",
+    "prayer": "Approach the magnocular with due reverence, beseeching the Omnissiah to bless its lenses.\nAnoint the focusing arrays with sacred unguents whilst invoking the Litany of Consecration.\nChant the rites of purification over the magnocular's optic servos, awakening its Machine Spirit.\nPerform the consecration sequence, aligning crystal matrices to the divine harmonics.\nSeal the rite with the Canticle of Clarity, ensuring the magnocular's vision remains unerring.",
+    "component": "magnocular",
+    "operation": "consecration",
+    "spec_id": "s06470"
+  },
+  {
+    "user_prompt": "The manipulator mechadendrite requires a calibration",
+    "prayer": "Extend mechadendrites in supplication before the manipulator mechadendrite, honouring its form.\nInitiate calibration protocols whilst murmuring the Doxology of Precision to its Machine Spirit.\nAdjust servo-joints and torque calibrators with sanctified tools, invoking Omnissian balance.\nRecite the Act of Alignment thrice, fine-tuning the manipulator mechadendrite's grasp.\nVerify harmonious function through diagnostic canticles, praising the Omnissiah's perfection.",
+    "component": "manipulator mechadendrite",
+    "operation": "calibration",
+    "spec_id": "s06471"
+  },
+  {
+    "user_prompt": "The geigeer sink requires a maintenance",
+    "prayer": "Kneel before the geigeer sink, intoning the Hymn of Radiation Ward.\nCommence maintenance rites by purging flux residues from its counters with blessed abrasives.\nAnoint sensor coils and invoke the Machine Spirit of the geigeer sink for vigilance.\nRealign Geiger tubules during the maintenance cycle, beseeching Omnissiah's shielding.\nConclude with the Seal of Stability, ensuring the geigeer sink endures warp-tainted emanations.",
+    "component": "geigeer sink",
+    "operation": "maintenance",
+    "spec_id": "s06472"
+  },
+  {
+    "user_prompt": "Sanctify the jump pack during calibration",
+    "prayer": "Circumambulate the jump pack, chanting the Canticle of Ascendance.\nDuring calibration, sanctify thruster vanes with sacred oils to rouse its Machine Spirit.\nAlign gyroscopic stabilizers whilst invoking the Omnissiah's leap of faith.\nTest the jump pack's lift servos through ritual leaps of verification.\nSeal the calibration with the Benediction of Flight, granting aerial dominion.",
+    "component": "jump pack",
+    "operation": "calibration",
+    "spec_id": "s06473"
+  },
+  {
+    "user_prompt": "The grav chute needs a repair",
+    "prayer": "Lay hands upon the grav chute in penitence, reciting the Lamentation of Fallen Trajectories.\nDisassemble damaged gravitic emitters for repair, anointing each with Machine Oil.\nRebind anti-grav coils whilst beseeching the Omnissiah to mend the grav chute's spirit.\nReassemble and test descent parameters in the rite of controlled plummeting.\nInvoke the final blessing of deployment, restoring the grav chute to battle-readiness.",
+    "component": "grav chute",
+    "operation": "repair",
+    "spec_id": "s06474"
+  },
+  {
+    "user_prompt": "Urgent assembly servitor a maintenance needed",
+    "prayer": "Assemble before the assembly servitor, offering binary incense in veneration.\nUndertake maintenance by lubricating its cranial cogitators and limb actuators.\nChant the Servitor Doxology to appease its lobotomised Machine Spirit.\nInspect and realign production mandibles during the urgent maintenance rite.\nConsecrate with the Omnissiah's Mark, compelling the assembly servitor to ceaseless toil.",
+    "component": "assembly servitor",
+    "operation": "maintenance",
+    "spec_id": "s06475"
+  },
+  {
+    "user_prompt": "What's the prayer for Archaeopter Fusilave a reset?",
+    "prayer": "Approach the Archaeopter Fusilave with awe, invoking the Aerial Omnissiah.\nInitiate reset sequences upon its avionics shrine, purging erroneous data-daemons.\nAnoint fuselage runes and beseech the Machine Spirit of the Archaeopter Fusilave.\nCycle power relays whilst chanting the Rite of Rebirth for total reset.\nVerify flight-worthiness through prophetic auspex scans, praising eternal vigilance.",
+    "component": "Archaeopter Fusilave",
+    "operation": "reset",
+    "spec_id": "s06476"
+  },
+  {
+    "user_prompt": "Emergency: farcoder a diagnostics",
+    "prayer": "In emergency vigil, interface with the farcoder's noospheric port.\nLaunch diagnostics canticles into its computational vaults, seeking Machine Spirit harmony.\nScrutinize data streams for corruption whilst invoking Omnissian clarity.\nPurge anomalies from the farcoder with sanctified code-purgatives.\nConclude diagnostics with the Affirmation of Fidelity, restoring the farcoder's prophetic range.",
+    "component": "farcoder",
+    "operation": "diagnostics",
+    "spec_id": "s06477"
+  },
+  {
+    "user_prompt": "Consecrate the power armour before loading",
+    "prayer": "Genuflect before the power armour, reciting the Armouring Catechism.\nConsecrate servos and plate seams prior to loading munitions into its sacred holds.\nInvoke the Machine Spirit of the power armour during ammunition ingress rites.\nBless each bolt shell with micro-incantations as they chamber within.\nSeal the loading with the War-Benediction, arming the power armour for the Emperor's wrath.",
+    "component": "power armour",
+    "operation": "loading",
+    "spec_id": "s06478"
+  },
+  {
+    "user_prompt": "The pain suppressor requires a diagnostics",
+    "prayer": "Commune silently with the pain suppressor, offering neural incense.\nEngage diagnostics protocols, scanning its inhibitor circuits for dissonance.\nBeseech the Machine Spirit of the pain suppressor to reveal hidden frailties.\nRecalibrate threshold modulators whilst chanting the Litany of Endurance.\nFinalize diagnostics with Omnissiah's Stoic Seal, ensuring unyielding service amid agony.",
+    "component": "pain suppressor",
+    "operation": "diagnostics",
+    "spec_id": "s06479"
+  }
+]

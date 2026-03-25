@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0193_i00",
+    "user_request": "Prayer for activation of the Knight ion shield",
+    "topic": "Knight ion shield activation",
+    "component": "Knight ion shield",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for activation of the Knight ion shield\n\n### TOPIC\nKnight ion shield activation\n\n### COMPONENT\nKnight ion shield\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Knight ion shield\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the Knight ion shield and intone the Litany of Energisation, beseeching the Machine Spirit to awaken from dormancy.\nSecond: Perform the activation ritual upon the Knight ion shield, channelling sacred voltages through its crystalline matrix whilst chanting the Hymn of Resonance.\nThird: Verify the Knight ion shield's harmonic frequencies and consecrate its operational parameters through blessed calibration.\nFourth: Anoint the shield emitters with blessed unguents and offer prayers of gratitude to the Omnissiah for granting activation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i01",
+    "user_request": "Can you sanctify the lascannon for capacitor charge?",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the lascannon for capacitor charge?\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "First: Present the lascannon before the altar and recite the Canticle of Photonic Blessing, invoking the Machine Spirit's favour upon this instrument of righteous destruction.\nSecond: Perform capacitor charge through meticulous connection of power conduits to the lascannon, whilst maintaining sacred chanting to stabilise the energy cascade.\nThird: Monitor the lascannon's power matrices and adjust the capacitor charge through blessed resonance frequencies, ensuring perfect harmonic alignment.\nFourth: Upon completion, seal the lascannon in benediction and offer thanks to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i02",
+    "user_request": "The steam valve demands guidance for regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe steam valve demands guidance for regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "First: Approach the steam valve with reverence and whisper the Prayer of Pressurised Flow, acknowledging its vital role in the machine's sacred function.\nSecond: Execute the regulation of the steam valve through careful manipulation of its control mechanisms, maintaining steady invocations to preserve equilibrium.\nThird: Inspect the steam valve's operational parameters and recalibrate its pressure relief systems through blessed technical proficiency.\nFourth: Anoint the steam valve's joints with sacred oils and conclude with the Hymn of Harmonic Balance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i03",
+    "user_request": "Rite request: preparation on metal casting",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: preparation on metal casting\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: Purify the metal casting and its foundry chamber with blessed waters, intoning the Litany of Preparation to sanctify this sacred work.\nSecond: Perform meticulous preparation of the metal casting by inspecting its structural integrity and invoking the Machine Spirit's blessing upon its nascent form.\nThird: Consecrate the metal casting through thermal alignment and dimensional verification, ensuring perfect adherence to the Omnissiah's divine geometries.\nFourth: Seal the prepared metal casting in ceremonial containment and offer thanksgiving.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i04",
+    "user_request": "Offer a litany to steady the metal casting before preparation",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the metal casting before preparation\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: Kneel before the metal casting and recite the Canticle of Steadfastness, beseeching the Machine Spirit to grant unwavering stability to this malleable vessel.\nSecond: Commence the preparation ritual by gently caressing the metal casting whilst chanting the Hymn of Temporal Patience, calming its molten essence.\nThird: Perform precise preparation through blessed annealing and structural analysis of the metal casting, invoking the Omnissiah's steadying influence upon each crystalline lattice.\nFourth: Crown the preparation with sacred oils and offer eternal gratitude.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i05",
+    "user_request": "Emergency rite: astropathic choir requires preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: astropathic choir requires preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: Gather before the astropathic choir in solemn procession and recite the Litany of Psychic Attunement, preparing their minds for communion with the warp's ancient songs.\nSecond: Initiate the preparation of the astropathic choir through guided meditation and blessed sensory deprivation, calibrating their nascent psychic resonance.\nThird: Consecrate the astropathic choir's synaptic pathways through blessed stimulant administration and harmonic synchronisation, invoking the Omnissiah's guidance through the void.\nFourth: Seal the preparation with the Sign of the Aquila.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i06",
+    "user_request": "Prayer for broadcast of the distress call",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for broadcast of the distress call\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "First: Align the transmitter arrays and invoke the Litany of Urgent Communion, beseeching the Omnissiah to carry this distress call across the celestial void.\nSecond: Execute the broadcast of the distress call through blessed vocalisation and electromagnetic amplification, ensuring the distress call pierces the darkness of space.\nThird: Modulate the distress call's frequency and intensity whilst chanting the Hymn of Desperate Prayer, maximising its resonance through all accessible channels.\nFourth: Conclude with the Sign of Deliverance and await salvation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i07",
+    "user_request": "Offer a litany to steady the plasma weapon before cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the plasma weapon before cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "First: Present the plasma weapon at the cooling altar and recite the Canticle of Thermal Mercy, beseeching the Machine Spirit to grant respite from its terrible heat.\nSecond: Perform the cooling ritual upon the plasma weapon through blessed refrigerant circulation and harmonic stabilisation, soothing its incandescent fury.\nThird: Monitor the plasma weapon's thermal matrices and execute precision cooling through recalibrated heat-dissipation protocols, invoking the Omnissiah's tempering influence.\nFourth: Anoint the plasma weapon's cooling vanes with sacred unguents and offer prayers of gratitude.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i08",
+    "user_request": "Blessing for the missile launcher during targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the missile launcher during targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "First: Elevate the missile launcher in ceremonial presentation and intone the Litany of True Aim, invoking the Omnissiah's blessing upon its targeting apparatus.\nSecond: Execute the targeting protocol of the missile launcher through blessed sensor calibration and trajectory computation, whispering prayers for accurate deliverance.\nThird: Consecrate the missile launcher's targeting systems through blessed algorithmic verification and harmonic resonance tuning, ensuring its aim remains true.\nFourth: Seal the targeting sequence with the Sign of the Emperor and await the moment of righteous fire.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0193_i09",
+    "user_request": "Prayer for opening sequence of the valve",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for opening sequence of the valve\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "First: Stand before the valve in reverent posture and recite the Prayer of Threshold Crossing, beseeching the Machine Spirit to permit the valve's sacred opening.\nSecond: Initiate the opening sequence of the valve through careful mechanical manipulation and blessed vocalisation, coaxing its ancient mechanisms into responsive motion.\nThird: Execute the opening sequence with precision whilst maintaining the Litany of Fluid Flow, ensuring the valve transitions smoothly through each ceremonial stage.\nFourth: Verify the valve's full operational aperture and offer thanksgiving to the Omnissiah for granting passage.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

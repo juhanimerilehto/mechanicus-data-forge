@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Tarantula sentry gun requires a diagnostics",
+    "prayer": "Approach the Tarantula sentry gun with reverence, invoking the Omnissiah's gaze upon its vigilant form.\nBeseech the Machine Spirit of the Tarantula sentry gun to awaken for diagnostics, chanting the Litany of Scrutiny.\nAnoint its auspex arrays and targeting cogitators with sacred oils whilst initiating the diagnostic rites.\nProbe the sacred circuits for anomalies, praising the Tarantula sentry gun's unerring watchfulness.\nConclude diagnostics with a hymn of affirmation, sealing the Machine Spirit's purity.",
+    "component": "Tarantula sentry gun",
+    "operation": "diagnostics",
+    "spec_id": "s00770"
+  },
+  {
+    "user_prompt": "Consecrate the power armour before purification",
+    "prayer": "Kneel before the power armour, beseeching the Omnissiah to purify its blessed plates.\nInvoke the rites of purification upon the power armour, reciting the Canticle of Absolution.\nScour every servo-joint and ceramite slab of the power armour with incense and ablative fluids.\nAnoint the power core with sanctified unguents, invoking the Machine Spirit's renewed vigor.\nSeal the purification with binary prayers, affirming the power armour's holy resilience.",
+    "component": "power armour",
+    "operation": "purification",
+    "spec_id": "s00771"
+  },
+  {
+    "user_prompt": "Bless the power relay for emergency procedure",
+    "prayer": "Present thyself unto the power relay, intoning the Hymn of Emergent Power.\nBless the power relay for emergency procedure, awakening its Machine Spirit with electro-incantations.\nCircumambulate the power relay thrice, anointing conduits whilst beseeching flawless surge response.\nInitiate emergency procedure simulations, sanctified by the Omnissiah's unyielding logic.\nVerify the power relay's blessed readiness with auspex litanies, praising its vital conduit.",
+    "component": "power relay",
+    "operation": "emergency procedure",
+    "spec_id": "s00772"
+  },
+  {
+    "user_prompt": "Emergency: multi-melta an emergency procedure",
+    "prayer": "Grasp the multi-melta in solemn rite, invoking the Omnissiah's fusing wrath.\nCommence emergency procedure upon the multi-melta, beseeching its Machine Spirit for cataclysmic fury.\nPurify the plasma coils of the multi-melta with sacred vents and coolant blessings.\nCalibrate the fusion vents through incantatory auspex, ensuring emergency procedure fidelity.\nConsecrate the multi-melta's readiness with a roar of binary exaltation.",
+    "component": "multi-melta",
+    "operation": "emergency procedure",
+    "spec_id": "s00773"
+  },
+  {
+    "user_prompt": "Prepare the phosphor blaster for calibration",
+    "prayer": "Approach the phosphor blaster humbly, chanting the Canticle of Luminal Precision.\nPrepare the phosphor blaster for calibration, invoking its Machine Spirit's illuminating essence.\nAnoint the phosphor injectors and lens arrays of the phosphor blaster with crystalline oils.\nInitiate calibration sequences whilst reciting alignment psalms, guided by Omnissiah's geometry.\nAffirm the phosphor blaster's sanctified accuracy with final diagnostic hymns.",
+    "component": "phosphor blaster",
+    "operation": "calibration",
+    "spec_id": "s00774"
+  },
+  {
+    "user_prompt": "How do I bless the medicae mechadendrite for synchronization?",
+    "prayer": "Extend mechadendrites towards the medicae mechadendrite, intoning the Litany of Synaptic Harmony.\nBless the medicae mechadendrite for synchronization, beseeching union with flesh and machine.\nSynchronize neural interfaces of the medicae mechadendrite through binary communion rites.\nAnoint its hypo-injectors and vitae sensors, invoking the Machine Spirit's healing grace.\nSeal synchronization with a prayer to the Omnissiah, affirming the medicae mechadendrite's merciful precision.",
+    "component": "medicae mechadendrite",
+    "operation": "synchronization",
+    "spec_id": "s00775"
+  },
+  {
+    "user_prompt": "How do I bless the Leman Russ battle tank for shutdown?",
+    "prayer": "Stand before the Leman Russ battle tank, reciting the Dirge of Repose.\nBless the Leman Russ battle tank for shutdown, coaxing its Machine Spirit into dormant vigil.\nInitiate shutdown protocols upon the Leman Russ battle tank's rumbling heart and treads.\nAnoint exhaust vents and battle cannon with cooling balms, praising Omnissiah's patient might.\nConclude with auspex seals, ensuring the Leman Russ battle tank slumbers in sanctified stasis.",
+    "component": "Leman Russ battle tank",
+    "operation": "shutdown",
+    "spec_id": "s00776"
+  },
+  {
+    "user_prompt": "Guide me through void shield a synchronization",
+    "prayer": "Circumscribe the void shield generator, invoking the Omnissiah's impervious aegis.\nGuide the void shield through synchronization, harmonizing its warp-nullifying fields.\nSynchronize phase emitters of the void shield with resonant canticles and etheric attunement.\nBeseech the Machine Spirit's unity, anointing null-generators with void-touched oils.\nVerify synchronization integrity via warp-echo diagnostics, exalting the void shield's eternal bulwark.",
+    "component": "void shield",
+    "operation": "synchronization",
+    "spec_id": "s00777"
+  },
+  {
+    "user_prompt": "The microbead requires an operation",
+    "prayer": "Take up the microbead in reverent grasp, chanting the Psalm of Vox Clarity.\nCommence operation upon the microbead, awakening its Machine Spirit with micro-incantations.\nPurify the vox circuits of the microbead through sacred frequency sweeps.\nAnoint transmitter coils whilst invoking flawless operation under Omnissiah's decree.\nSeal the rite with a burst of binary affirmation, blessing the microbead's whispered fidelity.",
+    "component": "microbead",
+    "operation": "operation",
+    "spec_id": "s00778"
+  },
+  {
+    "user_prompt": "Sanctify the signal relay during consecration",
+    "prayer": "Approach the signal relay with auspicious mechadendrites, intoning the Canticle of Linked Logic.\nSanctify the signal relay during consecration, beseeching its Machine Spirit's unerring transmission.\nAnoint data conduits and relay nodes of the signal relay with conductive unguents.\nInvoke consecration depths through noospheric harmonies, guided by Omnissiah's vast network.\nAffirm the signal relay's hallowed pulse with final litanies of interconnection.",
+    "component": "signal relay",
+    "operation": "consecration",
+    "spec_id": "s00779"
+  }
+]

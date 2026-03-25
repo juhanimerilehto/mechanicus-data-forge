@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Ready the autogun for initialization",
+    "prayer": "Approach the autogun with mechadendrite-extended reverence and beseech its Machine Spirit to awaken.\nAnoint the barrel assemblies of the autogun with sacred unguents of lubricant.\nInitiate the initialization rites by chanting the binary canticles of activation.\nVerify the autogun's cogitator alignment through auspex invocation to the Omnissiah.\nCommence firing calibration as the Machine Spirit stirs within its sanctified frame.",
+    "component": "autogun",
+    "operation": "initialization",
+    "spec_id": "s06660"
+  },
+  {
+    "user_prompt": "Guide me through iron halo a blessing",
+    "prayer": "Kneel before the iron halo and invoke the blessing of the Omnissiah upon its warp-repelling aura.\nTrace electro-consecratory sigils across the iron halo's conductive rings.\nBeseech the Machine Spirit indwelling the iron halo to amplify its protective field.\nChant the Litany of Benediction whilst suffusing the iron halo with plasma incense.\nAffirm the blessing's potency through halo resonance diagnostics.",
+    "component": "iron halo",
+    "operation": "blessing",
+    "spec_id": "s06661"
+  },
+  {
+    "user_prompt": "Help me a purification the Vendetta gunship",
+    "prayer": "Circumambulate the Vendetta gunship, asperging its hull with ablative purification fluids.\nInvoke the Omnissiah's wrath against xenos taint within the Vendetta gunship's sacred aerodynamics.\nPurge corrupted noospheric data from the Vendetta gunship's cogitators with binaric exorcism.\nAnoint thruster nacelles and lascannon housings of the Vendetta gunship anew.\nSeal the purification by intoning the Canticle of Immaculate Ascendance.",
+    "component": "Vendetta gunship",
+    "operation": "purification",
+    "spec_id": "s06662"
+  },
+  {
+    "user_prompt": "Urgent null rod a calibration needed",
+    "prayer": "Grasp the null rod firmly and commence calibration by aligning its psycho-conductive core.\nChant the Calibration Doxology to harmonize the null rod's warp-nullifying harmonics.\nTest the null rod's field integrity against simulated psychic emanations.\nInvoke the Machine Spirit of the null rod to perfect its anti-sorcerous resonance.\nFinalize calibration with Omnissiah-blessed torque adjustments to the null rod.",
+    "component": "null rod",
+    "operation": "calibration",
+    "spec_id": "s06663"
+  },
+  {
+    "user_prompt": "Consecrate the flak armour before charging",
+    "prayer": "Don the flak armour reverently and commence charging by linking to the nearest plasma manifold.\nInvoke the Machine Spirit of the flak armour to accept the influx of sanctified energies.\nMonitor charging flux through noospheric diagnostics and intone stabilizing canticles.\nAnoint the flak armour's ablative layers as power builds to critical thresholds.\nSeal the rite with the Omnissiah's Benediction of Enduring Aegis.",
+    "component": "flak armour",
+    "operation": "charging",
+    "spec_id": "s06665"
+  },
+  {
+    "user_prompt": "What's the prayer for assembly servitor a maintenance?",
+    "prayer": "Present the assembly servitor before the maintenance altar and awaken its lobotomized Machine Spirit.\nDissect occluded servomotors of the assembly servitor with precision mechadendrites.\nReplace worn augmetics within the assembly servitor whilst chanting the Hymn of Restoration.\nReintegrate noospheric linkages and beseech the Omnissiah for flawless subservience.\nConclude maintenance by verifying the assembly servitor's productive alignment.",
+    "component": "assembly servitor",
+    "operation": "maintenance",
+    "spec_id": "s06666"
+  },
+  {
+    "user_prompt": "Sanctify the battery array during diagnostics",
+    "prayer": "Interface with the battery array's primary node and initiate diagnostics under Omnissiah's gaze.\nScan each cell-stack of the battery array for power-heresy and dissonant fluctuations.\nInvoke purifying galvanic surges upon the battery array's corrupted conduits.\nHarmonize the Machine Spirits indwelling the battery array through resonant incantations.\nAffirm diagnostic sanctity with a final auspex litany of verification.",
+    "component": "battery array",
+    "operation": "diagnostics",
+    "spec_id": "s06667"
+  },
+  {
+    "user_prompt": "Help me an operation the ore processor",
+    "prayer": "Approach the ore processor and invoke its colossal Machine Spirit for operational awakening.\nAlign the grinding mandibles of the ore processor with sacred torque incantations.\nCommence operation by feeding consecrated feedstock whilst chanting the Forge Doxology.\nMonitor the ore processor's thermal sacraments and beseech the Omnissiah for unyielding yield.\nSeal the rite by sanctifying effluent outflows from the ore processor.",
+    "component": "ore processor",
+    "operation": "operation",
+    "spec_id": "s06668"
+  },
+  {
+    "user_prompt": "Emergency: medicae mechadendrite a diagnostics",
+    "prayer": "In dire emergency, connect to the medicae mechadendrite and launch diagnostics protocols.\nPurge bio-corruptions from the medicae mechadendrite's surgical arrays.\nInvoke the Omnissiah's mercy upon the medicae mechadendrite's vital augur sensors.\nRecalibrate hypo-injectors within the medicae mechadendrite through binaric pleas.\nVerify the Machine Spirit's restoration for continued flesh-mending ministration.",
+    "component": "medicae mechadendrite",
+    "operation": "diagnostics",
+    "spec_id": "s06669"
+  }
+]

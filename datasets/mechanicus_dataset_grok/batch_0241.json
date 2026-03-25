@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: proximity sensor requires a charging",
+    "prayer": "Approach the proximity sensor with reverence, mechadendrites poised in supplication to its watchful Machine Spirit.\nBeseech the Omnissiah to infuse the proximity sensor with vital energies during the sacred charging.\nAnoint the sensor's crystalline lattices with sanctified oils, invoking the Litany of Vigilant Replenishment.\nMonitor the ascending power-flow until the proximity sensor hums with awakened prescience.\nConclude by sealing the rites with the Sigil of Eternal Watchfulness.",
+    "component": "proximity sensor",
+    "operation": "charging",
+    "spec_id": "b0241_i00"
+  },
+  {
+    "user_prompt": "Critical: metal caster requires an initialization",
+    "prayer": "Kneel before the metal caster, offering binary prayers to rouse its molten heart.\nInvoke the initialization sequence upon the metal caster, petitioning its Machine Spirit for harmonious awakening.\nCircumscribe the forging chambers with incense of rare alloys, chanting the Canticle of Primordial Forge.\nAlign the servo-arms and verify the metal caster's cogitator hums with divine logic.\nSeal the metal caster's readiness with the Omnissiah's benediction of unerring craft.",
+    "component": "metal caster",
+    "operation": "initialization",
+    "spec_id": "b0241_i01"
+  },
+  {
+    "user_prompt": "Assist with hydraulic press a charging",
+    "prayer": "Present thyself unto the hydraulic press, intoning the Hymn of Pressurized Might.\nBeseech its Machine Spirit to embrace the charging of hydraulic reservoirs with blessed fluids.\nAnoint the piston seals and cylinders of the hydraulic press with sacred lubricants.\nInitiate the pressure incantation, observing the surging hydraulics yield to Omnissian will.\nAffirm the hydraulic press's fortified vigor through ritual compression tests.",
+    "component": "hydraulic press",
+    "operation": "charging",
+    "spec_id": "b0241_i02"
+  },
+  {
+    "user_prompt": "The data-slate awaits a cycling",
+    "prayer": "Take up the data-slate in gauntleted hands, whispering the Lexicon of Cyclic Renewal.\nCommence the cycling of its memory vaults, purifying data-corruptions within the data-slate.\nRecite binaric verses to soothe the Machine Spirit as the data-slate revolves through diagnostic loops.\nVerify integrity upon completion, anointing the data-slate's ports with conductive balms.\nConsecrate the refreshed data-slate under the gaze of the Omnissiah's infinite calculus.",
+    "component": "data-slate",
+    "operation": "cycling",
+    "spec_id": "b0241_i03"
+  },
+  {
+    "user_prompt": "Sanctify the vox-caster during blessing",
+    "prayer": "Gather before the vox-caster, its grille a maw awaiting divine utterance.\nInvoke the blessing upon the vox-caster, harmonizing its waveform spirits with sacred canticles.\nAnoint the amplification coils of the vox-caster with oils of resonant purity.\nTest the blessed emanations, ensuring the vox-caster carries the Omnissiah's unerring voice.\nSeal the rite with a final invocation of clarity amidst the void's static.",
+    "component": "vox-caster",
+    "operation": "blessing",
+    "spec_id": "b0241_i04"
+  },
+  {
+    "user_prompt": "The hydroponics bay requires a sterilization",
+    "prayer": "Process to the hydroponics bay, aspergillum raised against nutrient impurities.\nInitiate the sterilization cycle within the hydroponics bay, purging microbial heresies with thermal litanies.\nBeseech the Machine Spirits of the hydroponics bay to embrace purifying vapors and rad-scourges.\nCirculate sanctified hydro-solutions through the bays' conduits under Omnissian decree.\nVerify the hydroponics bay's pristine verdancy through auspex benedictions.",
+    "component": "hydroponics bay",
+    "operation": "sterilization",
+    "spec_id": "b0241_i05"
+  },
+  {
+    "user_prompt": "How do I bless the autocannon for charging?",
+    "prayer": "Approach the autocannon with awe, its barrels oracles of destructive prophecy.\nPrepare the autocannon for charging, invoking its Machine Spirit with the Canticle of Thunderous Repletion.\nAnoint the ammunition feeds and power cells of the autocannon with explosive unctuaria.\nMonitor the surging voltaic charge as the autocannon stirs to wrathful life.\nConclude by inscribing runes of accuracy upon the autocannon's sanctified frame.",
+    "component": "autocannon",
+    "operation": "charging",
+    "spec_id": "b0241_i06"
+  },
+  {
+    "user_prompt": "Critical: astropathic choir requires an activation",
+    "prayer": "Assemble at the astropathic choir, psychic resonators attuned to the warp's whispers.\nInvoke the activation of the astropathic choir, beseeching its warp-bound Machine Spirits for coherence.\nChant the Noospheric Hymns whilst calibrating the choir's crystalline null-fields.\nAnoint the astropathic choir's foci with wards against the immaterium's taint.\nAffirm the astropathic choir's harmonic linkage to the Omnissiah's astral lattice.",
+    "component": "astropathic choir",
+    "operation": "activation",
+    "spec_id": "b0241_i07"
+  },
+  {
+    "user_prompt": "Can you guide hydroponics bay a calibration?",
+    "prayer": "Enter the hydroponics bay humbly, servo-skull auspex scanning for discord.\nCommence calibration of the hydroponics bay, aligning nutrient manifolds to Omnissian precision.\nPetition the Machine Spirits of the hydroponics bay with binaric entreaties of balance.\nAdjust lumen arrays and pH sanctifiers until the hydroponics bay pulses with verdant order.\nSeal the calibration with a libation of purified substrate unto the soil altars.",
+    "component": "hydroponics bay",
+    "operation": "calibration",
+    "spec_id": "b0241_i08"
+  },
+  {
+    "user_prompt": "Prepare the thermal imager for initialization",
+    "prayer": "Reverently engage the thermal imager, its lenses eyes of infrared divination.\nPrepare for the initialization of the thermal imager, rousing its Machine Spirit with heat-litany.\nAnoint the detector arrays of the thermal imager with conductive thermals.\nInitiate the boot-sequence, verifying spectral fidelity in the thermal imager's gaze.\nBless the thermal imager complete, invoking the Omnissiah's flame of unerring sight.",
+    "component": "thermal imager",
+    "operation": "initialization",
+    "spec_id": "b0241_i09"
+  }
+]

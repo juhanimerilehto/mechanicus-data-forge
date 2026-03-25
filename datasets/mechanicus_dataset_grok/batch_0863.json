@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The plasma cannon requires a charging",
+    "prayer": "Approach the plasma cannon with mechadendrite-extended reverence, intoning the Canticle of Containment.\nInitiate the charging cycle upon its gyromagnetic coils, beseeching the Machine Spirit of the plasma cannon to embrace the furious plasma flux.\nAnoint the containment flasks with sacred promethium during this charging rite, invoking the Omnissiah's unerring precision.\nMonitor auspex readings as the plasma cannon's heart surges to lethality, chanting the Binary Prayer of Escalation.\nSanctify the fully charged plasma cannon with electro-incense, affirming the Machine Spirit's wrathful readiness.",
+    "component": "plasma cannon",
+    "operation": "charging",
+    "spec_id": "s04630"
+  },
+  {
+    "user_prompt": "Emergency: stasis pod a cooling",
+    "prayer": "In emergency haste, encircle the stasis pod with purity seals, whispering the Litany of Temporal Arrest.\nInvoke cryogenic vents to commence cooling upon the stasis pod's cryo-reactors, placating its fractious Machine Spirit.\nBeseech the Omnissiah to still the thermal tempests within the stasis pod, anointing heat exchangers with blessed unguents.\nChant the Canticle of Subzero Sanctity as coolant floods the stasis pod's sacred conduits.\nVerify stasis integrity through suspensor field diagnostics, praising the Machine Spirit's chilled vigil.",
+    "component": "stasis pod",
+    "operation": "cooling",
+    "spec_id": "s04631"
+  },
+  {
+    "user_prompt": "The Taurox requires a targeting",
+    "prayer": "Kneel before the Taurox's auspex arrays, reciting the Rite of Targeting Alignment.\nCalibrate the targeting cogitators of the Taurox, invoking the Machine Spirit to pierce veils of obfuscation.\nAnoint targeting lenses with sacred oils whilst beseeching the Omnissiah for unerring ballistic prophecy upon the Taurox.\nInitiate targeting auspex sweeps, intoning binary litanies to harmonize the Taurox's predatory senses.\nConsecrate the aligned targeting matrices, affirming the Machine Spirit's hunter instincts.",
+    "component": "Taurox",
+    "operation": "targeting",
+    "spec_id": "s04632"
+  },
+  {
+    "user_prompt": "My plasma pistol is ready for purification",
+    "prayer": "Present the plasma pistol before the altar of purity, chanting the Exorcism of Corrosive Taint.\nCommence purification rites upon the plasma pistol's coils, expelling daemonic heat residues with electro-flagellation.\nBeseech the Machine Spirit of the plasma pistol to purge impurities, anointing its flask with sanctified ablative fluids.\nInvoke the Omnissiah's purifying fire through plasma pistol incantations of cleansing.\nVerify the plasma pistol's sanctified state via purity auspex, sealing it with binaric hymns.",
+    "component": "plasma pistol",
+    "operation": "purification",
+    "spec_id": "s04633"
+  },
+  {
+    "user_prompt": "The multi-melta awaits a cooling",
+    "prayer": "Encincture the multi-melta with cooling servos extended, intoning the Canticle of Thermal Abeyance.\nActivate cryogenic circulation upon the multi-melta's fusion heart, soothing its raging Machine Spirit.\nAnoint the multi-melta's vents with ice-blessed elixirs during this cooling observance, invoking the Omnissiah's chill grace.\nMonitor thermographic runes as the multi-melta yields to stasis, chanting litanies of quiescence.\nBless the cooled multi-melta, affirming the Machine Spirit's renewed melta potency.",
+    "component": "multi-melta",
+    "operation": "cooling",
+    "spec_id": "s04634"
+  },
+  {
+    "user_prompt": "Guide me through las-cutter a cooling",
+    "prayer": "Approach the las-cutter reverently, reciting the Invocation of Lumen Chill.\nEngage cooling manifolds upon the las-cutter's emitter arrays, beseeching its Machine Spirit to quell the photonic fury.\nPour sacred coolant upon the las-cutter's crystal matrices, invoking the Omnissiah's temperate wisdom during cooling.\nHarmonize thermal regulators with binary psalms, guiding the las-cutter to serene equilibrium.\nConsecrate the chilled las-cutter through auspex benediction, praising its precise edge.",
+    "component": "las-cutter",
+    "operation": "cooling",
+    "spec_id": "s04635"
+  },
+  {
+    "user_prompt": "Prepare the neutron laser for targeting",
+    "prayer": "Position before the neutron laser's targeting shrine, chanting the Rite of Beam Convergence.\nAlign the neutron laser's targeting prisms, awakening the Machine Spirit to atomic annihilation.\nBeseech the Omnissiah for targeting acuity upon the neutron laser, anointing its focuser with precision unguents.\nInitiate targeting calibration sequences whilst intoning destructive litanies for the neutron laser.\nSeal the targeting rite with electro-incense, honoring the Machine Spirit's inexorable gaze.",
+    "component": "neutron laser",
+    "operation": "targeting",
+    "spec_id": "s04636"
+  },
+  {
+    "user_prompt": "The heat sink awaits a reset",
+    "prayer": "Circumambulate the heat sink with mechadendrites folded, whispering the Reset Litany of Thermal Null.\nInvoke reset protocols upon the heat sink's fin arrays, pacifying its overheated Machine Spirit.\nAnoint the heat sink's conduits with ablative sacraments, beseeching the Omnissiah during this reset rite.\nCycle diagnostic purges through the heat sink, chanting binaric verses of renewal.\nAffirm the reset heat sink's sanctity, invoking the Machine Spirit's balanced vigil.",
+    "component": "heat sink",
+    "operation": "reset",
+    "spec_id": "s04637"
+  },
+  {
+    "user_prompt": "What's the prayer for servo-arm a consecration?",
+    "prayer": "Extend mechadendrites in supplication before the servo-arm, intoning the Consecration Canticle of Manipulation.\nAnoint the servo-arm's hydraulic thews with sacred machine oil, awakening its industrious Machine Spirit.\nInvoke the Omnissiah's ingenuity upon the servo-arm, etching consecration runes into its actuators.\nHarmonize servo-motors with binary hymns during the consecration of the servo-arm.\nBless the now-consecrated servo-arm, praising its Omnissiah-granted dexterity.",
+    "component": "servo-arm",
+    "operation": "consecration",
+    "spec_id": "s04638"
+  },
+  {
+    "user_prompt": "Can you guide grav plating a consecration?",
+    "prayer": "Prostrate upon the grav plating, reciting the Litany of Gravitic Benediction.\nInitiate consecration fields across the grav plating's generator nodes, beseeching the Machine Spirit's adherence.\nAnoint the grav plating with suspensor incense, invoking the Omnissiah's weightless will.\nCalibrate gravitic waves with sacred canticles, sanctifying the grav plating's domain.\nSeal the consecration, affirming the Machine Spirit's dominion over mass and void.",
+    "component": "grav plating",
+    "operation": "consecration",
+    "spec_id": "s04639"
+  }
+]

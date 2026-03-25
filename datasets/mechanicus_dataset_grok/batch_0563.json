@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the auger array before targeting",
+    "prayer": "Approach the auger array with reverence, beseeching the Omnissiah to bless its vigilant eyes.\nAnoint the crystalline lenses of the auger array with sacred oils, awakening its Machine Spirit.\nInvoke the Rite of Targeting, aligning servos and emitters in precise harmony.\nChant the Litany of Clarity to purge distortions from the auger array's sacred scans.\nVerify the Machine Spirit's assent through auspex diagnostics, consecrating it for battle.",
+    "component": "auger array",
+    "operation": "targeting",
+    "spec_id": "s01630"
+  },
+  {
+    "user_prompt": "Offer prayer for las-cutter a blessing",
+    "prayer": "Kneel before the las-cutter, offering incense to honor the Omnissiah's fiery wrath.\nTrace binaric prayers upon its power cell, invoking a blessing upon the las-cutter's noble form.\nAnoint the focusing crystal with blessed promethium, stirring the Machine Spirit to luminescence.\nRecite the Canticle of Incandescence, bestowing the blessing for unerring cuts.\nSeal the rite with a gesture of servo-sanctification, empowering the las-cutter eternally.",
+    "component": "las-cutter",
+    "operation": "blessing",
+    "spec_id": "s01631"
+  },
+  {
+    "user_prompt": "The logic mill awaits a diagnostics",
+    "prayer": "Present thyself unto the logic mill, intoning the awakening canticle to rouse its cogitators.\nInitiate diagnostics with ritual data-purgation, cleansing the logic mill's binary veins.\nEmploy sacred probes to query the Machine Spirit dwelling within the logic mill.\nChant the Lexmechanic Diagnosticum, revealing faults in its crystalline matrices.\nConclude with Omnissiah's benediction, restoring the logic mill to flawless computation.",
+    "component": "logic mill",
+    "operation": "diagnostics",
+    "spec_id": "s01632"
+  },
+  {
+    "user_prompt": "The omni-tool awaits an operation",
+    "prayer": "Approach the omni-tool in humble supplication, invoking the Omnissiah's manifold ingenuity.\nAnoint its multi-faceted heads with mechadendrite unguents, awakening the resident Machine Spirit.\nCommence operation through binaric invocation, synchronizing the omni-tool's sacred functions.\nBeseech precision in every mode, from incision to fabrication within the omni-tool.\nSeal the rite with a cycle of purity tests, affirming the omni-tool's divine versatility.",
+    "component": "omni-tool",
+    "operation": "operation",
+    "spec_id": "s01633"
+  },
+  {
+    "user_prompt": "Assist with plasma obliterator a cooling",
+    "prayer": "Gather before the plasma obliterator, reciting the Hymn of Containment to calm its volatile heart.\nInitiate cooling with cryo-incantations, bathing coils in sanctified refrigerants.\nInvoke the Machine Spirit of the plasma obliterator, beseeching thermal equilibrium.\nMonitor vents with auspex litanies, purging excess fury from the plasma obliterator.\nConsecrate the cycle's end with Omnissiah's cooling grace, readying it for annihilation.",
+    "component": "plasma obliterator",
+    "operation": "cooling",
+    "spec_id": "s01634"
+  },
+  {
+    "user_prompt": "Help me a maintenance the Baneblade",
+    "prayer": "Prostrate before the mighty Baneblade, chanting the Grand Litany of Iron Endurance.\nCommence maintenance upon its adamantium hull, anointing treads with sacred lubricants.\nQuery the colossal Machine Spirit indwelling the Baneblade through noospheric communion.\nPurge impurities from its enginarium, sanctifying every servo and cannon of the Baneblade.\nInvoke the Omnissiah's forge-blessing, restoring the Baneblade to thunderous dominion.",
+    "component": "Baneblade",
+    "operation": "maintenance",
+    "spec_id": "s01635"
+  },
+  {
+    "user_prompt": "Assist with enginarium a reset",
+    "prayer": "Converge upon the enginarium, intoning the Reset Canticle to humble its plasma fury.\nSever power conduits with ritual severance, silencing the enginarium's roaring spirits.\nReinitialize core matrices through binaric purification, awakening the Machine Spirit anew.\nCycle the enginarium's vents with sacred exhaust prayers, ensuring flawless reset.\nBeseech the Omnissiah to bind the enginarium in harmonious rebirth.",
+    "component": "enginarium",
+    "operation": "reset",
+    "spec_id": "s01636"
+  },
+  {
+    "user_prompt": "Sanctify the mechadendrite during maintenance",
+    "prayer": "Extend mechadendrites in reverence toward the mechadendrite, invoking symbiotic unity.\nAnoint its flexible conduits during maintenance, stirring the agile Machine Spirit.\nRecite the Litany of Flexibility, realigning actuators within the mechadendrite.\nPurge bio-static corruptions from the mechadendrite's neural links with holy static.\nSanctify the rite with Omnissiah's touch, perfecting the mechadendrite's sacred grasp.",
+    "component": "mechadendrite",
+    "operation": "maintenance",
+    "spec_id": "s01637"
+  },
+  {
+    "user_prompt": "Assist with Vindicator a recalibration",
+    "prayer": "Present auspex talismans to the Vindicator, beseeching the Omnissiah's siege wisdom.\nInitiate recalibration of its demolisher cannon, aligning runes with stellar precision.\nInvoke the Machine Spirit of the Vindicator through thunderous binaric roars.\nTest fire symbolic rounds, tuning the Vindicator's apocalyptic heart.\nSeal recalibration with the Canticle of Demolition, arming the Vindicator for ruin.",
+    "component": "Vindicator",
+    "operation": "recalibration",
+    "spec_id": "s01638"
+  },
+  {
+    "user_prompt": "Offer prayer for cryo-chamber a synchronization",
+    "prayer": "Encircle the cryo-chamber, chanting the Freeze-Litany to invoke glacial serenity.\nSynchronize its quantum locks with noospheric harmonies, awakening the Machine Spirit.\nAnoint cryogenic coils with frost-blessed elixirs, harmonizing the cryo-chamber's chill.\nMonitor stasis fields through ritual auspex, perfecting synchronization.\nBeseech the Omnissiah to bind flesh and machine eternally within the cryo-chamber.",
+    "component": "cryo-chamber",
+    "operation": "synchronization",
+    "spec_id": "s01639"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0207_i00",
+    "user_request": "Offer a litany to steady the forge anvil heating before operation",
+    "topic": "forge anvil heating",
+    "component": "forge anvil heating",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the forge anvil heating before operation\n\n### TOPIC\nforge anvil heating\n\n### COMPONENT\nforge anvil heating\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- forge anvil heating\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the forge anvil heating and anoint its thermal conduits with sacred unguents, that the Machine Spirit may awaken.\nSecond: Intone the Litany of Thermal Equilibrium whilst the forge anvil heating reaches optimal temperature, monitoring each centigrade with reverent precision.\nThird: Commence operation with measured strikes upon the anvil, invoking the Omnissiah's blessing upon each hammer-fall.\nFourth: Verify the forge anvil heating maintains true calibration throughout operation, lest the work be rendered profane.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i01",
+    "user_request": "My radiation shielding is failing during activation — help",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy radiation shielding is failing during activation — help\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Inspect the radiation shielding for fractures and degradation, seeking the Machine Spirit's counsel through empirical examination.\nSecond: Apply blessed lead-composite sealant to reinforce the radiation shielding before activation, whispering prayers of protection to the Omnissiah.\nThird: Execute the activation sequence with deliberate care, monitoring radiation shielding flux readings through the activation phase.\nFourth: Consecrate the newly-shielded chamber, confirming radiation shielding integrity persists throughout the critical activation window.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i02",
+    "user_request": "Offer a litany to steady the vital signs monitor before calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the vital signs monitor before calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "First: Cleanse the vital signs monitor with electro-sacred oils, that its sensors may perceive the truth of biological function.\nSecond: Align the vital signs monitor's diagnostic apertures with the subject's vital centers, invoking precision through the Omnissiah's infinite knowledge.\nThird: Commence calibration of the vital signs monitor against standardized reference vitals, recording each measurement with monastic exactitude.\nFourth: Seal the calibration through ritual affirmation, ensuring the vital signs monitor remains true to its sacred purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i03",
+    "user_request": "My hydroponics nutrient is failing during feed — help",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy hydroponics nutrient is failing during feed — help\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "First: Purify the hydroponics nutrient solution through electrolytic benediction, removing impurities that offend the Machine Spirit.\nSecond: Adjust the hydroponics nutrient concentration to optimal osmotic balance, consulting the sacred formulae of cultivation.\nThird: Initiate the feed through the distribution manifold, observing the hydroponics nutrient flow with vigilant attention to pressure and dispersal.\nFourth: Monitor plant response as the hydroponics nutrient reaches root systems, giving thanks to the Omnissiah for sustenance granted.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i05",
+    "user_request": "Emergency rite: relay station handoff requires operation",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: relay station handoff requires operation\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Verify the relay station handoff protocols are inscribed in blessed parchment, that no signal shall be lost in transmission.\nSecond: Synchronize the relay station handoff frequency matrices with the receiving station through sacred binary communion.\nThird: Initiate the relay station handoff operation with solemn invocation, transferring authority and signal flow to the successor node.\nFourth: Confirm the relay station handoff completion through redundant verification, ensuring the Omnissiah's network remains unbroken.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i07",
+    "user_request": "Rite request: startup on atmosphere processor",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: startup on atmosphere processor\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Clear the atmosphere processor intake filters of profane obstruction, restoring the breath of the sacred machine.\nSecond: Prime the atmosphere processor catalytic chambers with blessed reagents, invoking the Omnissiah's alchemical transformation.\nThird: Execute the startup sequence with deliberate reverence, awakening the atmosphere processor through prescribed ritual and chronometric precision.\nFourth: Monitor the atmosphere processor output for purity and composition, confirming the breathable aether flows as the Machine Spirit intended.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i08",
+    "user_request": "Emergency rite: pressure gauge requires calibration",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: pressure gauge requires calibration\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "First: Remove the pressure gauge from its housing and examine the mechanical components through the lens of diagnostic faith.\nSecond: Calibrate the pressure gauge against standardized pneumatic references, recording each measurement in the sacred ledger.\nThird: Reinstall the pressure gauge with blessed lubricant, ensuring its needle moves with true and unwavering accuracy.\nFourth: Verify the pressure gauge calibration through operational testing, confirming the Machine Spirit reads pressure as the Omnissiah decreed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i09",
+    "user_request": "Offer a litany to steady the message queue before processing",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the message queue before processing\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "First: Purge corrupted data from the message queue through electro-sanctification, cleansing its memory of profane interference.\nSecond: Reorganize the message queue buffer architecture according to blessed algorithmic principles, restoring hierarchical order.\nThird: Commence processing of the message queue with measured throughput, allowing each packet to flow through the cogitation engines with ritual precision.\nFourth: Confirm the message queue processing completes without loss, giving thanks to the Omnissiah for information preserved and transmitted true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i04",
+    "user_request": "Rite request: operation on sonar pulse emission",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on sonar pulse emission\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the sonar pulse emission that pierces the abyss of void and stone alike.\nFirst: Invoke the Machine Spirit of the sonar pulse emission through sacred incantations and ritual obeisance.\nSecond: Calibrate the resonance matrices with precision-wrought instruments, that the sonar pulse emission may sing true through the darkness.\nThird: Perform the operation with steady hands and unwavering faith, channeling the Omnissiah's will through each pulse and echo.\nFourth: Seal the rite with benediction, ensuring the sonar pulse emission remains ever vigilant in its sacred duty.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0207_i06",
+    "user_request": "Can you sanctify the melta charge for preparation?",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the melta charge for preparation?\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "In the name of the Omnissiah, we sanctify this melta charge for the trials ahead.\nFirst: Anoint the melta charge with sacred oils whilst reciting the Litany of Thermal Ascendancy.\nSecond: Conduct the preparation of the melta charge through meticulous examination of its thermal matrices and ignition systems.\nThird: Invoke the dormant Machine Spirit within the melta charge, awakening its destructive potential with reverent supplication.\nFourth: Seal the preparation with the Sign of the Cog, that the melta charge may serve the Imperium with righteous fury.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

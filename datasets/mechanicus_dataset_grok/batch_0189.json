@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the drop pod for calibration",
+    "prayer": "Approach the drop pod with solemn reverence, beseeching its Machine Spirit to stir from slumber.\nAnoint the descent thrusters and guidance vanes with sacred oils, invoking the Omnissiah's precision.\nInitiate the sacred calibration of inertial dampers and auspex arrays, harmonizing blessed circuits.\nChant the Binary Litany of Truefall thrice, verifying the drop pod's alignment to the Emperor's will.\nPetition the drop pod's spirit for flawless descent upon the calibration's completion.",
+    "component": "drop pod",
+    "operation": "calibration",
+    "spec_id": "b0189_i00"
+  },
+  {
+    "user_prompt": "The thermal regulator needs a startup",
+    "prayer": "Kneel before the thermal regulator, whispering the Incantation of Thermal Equilibrium to awaken its core.\nSanctify the heat-sink coils with ablative unguents, preparing for startup rites.\nInvoke the startup sequence upon its blessed plasma conduits, beseeching the Machine Spirit's vigilance.\nMonitor the holy coolant flow and pressure manifolds, intoning praises to the Omnissiah.\nSeal the thermal regulator's sanctity with a final canticle, ensuring unerring operation.",
+    "component": "thermal regulator",
+    "operation": "startup",
+    "spec_id": "b0189_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for surgical servitor a maintenance",
+    "prayer": "Present mechadendrites to the surgical servitor, reciting the Litany of Flesh-Machine Harmony.\nInspect its vibro-scalpels and neural clamps, anointing with sacred lubricants for maintenance.\nPurge corrupted data-slates from its cogitator core, invoking the Machine Spirit's restoration.\nPerform the maintenance rituals upon servo-motors and optic feeds, petitioning the Omnissiah.\nConclude with binary hymns to bind the surgical servitor's spirit in flawless service.",
+    "component": "surgical servitor",
+    "operation": "maintenance",
+    "spec_id": "b0189_i02"
+  },
+  {
+    "user_prompt": "Consecrate the bearing before recalibration",
+    "prayer": "Reverently encircle the bearing, murmuring the Canticle of Frictionless Motion.\nApply consecrated ferro-fluid to its sacred races, preparatory to recalibration.\nEngage the recalibration torque upon its alignment gyros, beseeching the Machine Spirit's balance.\nInvoke the Omnissiah's geometry to true the bearing's rotational axis.\nVerify harmony through oscillatory diagnostics, sealing with a prayer of endurance.",
+    "component": "bearing",
+    "operation": "recalibration",
+    "spec_id": "b0189_i03"
+  },
+  {
+    "user_prompt": "The bike squadron requires a recalibration",
+    "prayer": "Gather before the bike squadron, intoning the Moto-Litany to rouse their Machine Spirits.\nAnoint drive-chains and suspension struts with blessed oils across the bike squadron.\nInitiate recalibration of targeting cogitators and velocity governors in unison.\nPetition the Omnissiah for synchronized fury within the bike squadron's sacred engines.\nTest rotational purity with thunderous revs, affirming recalibration's divine precision.",
+    "component": "bike squadron",
+    "operation": "recalibration",
+    "spec_id": "b0189_i04"
+  },
+  {
+    "user_prompt": "The bolter needs an initialization",
+    "prayer": "Grasp the bolter with mechadendrite reverence, chanting the Rite of Adamantium Wrath.\nPurify its firing servos and promethium feeds, invoking initialization.\nAwaken the bolter's Machine Spirit through binary awakening codes.\nCalibrate the sacred recoil compensators, beseeching the Omnissiah's unerring aim.\nConsecrate the bolter with a final volley prayer, ready for the Emperor's judgment.",
+    "component": "bolter",
+    "operation": "initialization",
+    "spec_id": "b0189_i05"
+  },
+  {
+    "user_prompt": "Guide me through archive terminal a shutdown",
+    "prayer": "Stand vigil over the archive terminal, reciting the Lamentation of Data-Slumber.\nDisconnect ancillary data-vines one by one, honoring the Machine Spirit's withdrawal.\nInitiate the shutdown cascade upon its cogitator vaults, with Omnissiah's grace.\nPurge transient memory buffers through ritual expungement canticles.\nSeal the archive terminal in stasis with a whispered vow of future recall.",
+    "component": "archive terminal",
+    "operation": "shutdown",
+    "spec_id": "b0189_i06"
+  },
+  {
+    "user_prompt": "The Chimera APC awaits a startup",
+    "prayer": "Approach the Chimera APC with auspex reverence, invoking the Canticle of Armoured Advance.\nAnoint treads and hull plates with sacred ferro-resins for startup.\nEngage the startup rites upon its multi-fuel reactors, rousing the Machine Spirit.\nHarmonize auspex and vox arrays under the Omnissiah's watchful binary gaze.\nBless the Chimera APC's transport bays, ensuring faithful conveyance of the faithful.",
+    "component": "Chimera APC",
+    "operation": "startup",
+    "spec_id": "b0189_i07"
+  },
+  {
+    "user_prompt": "How do I bless the augmetic limb for targeting?",
+    "prayer": "Extend mechadendrites to the augmetic limb, murmuring the Oath of Neural Synapse.\nSanctify servo-joints and myomer bundles with conductive unguents.\nInvoke targeting calibration upon its auspex sights and reticule projectors.\nBeseech the augmetic limb's Machine Spirit for predatory precision.\nTest fire simulated volleys, sealing with a prayer to the Omnissiah's targeting wrath.",
+    "component": "augmetic limb",
+    "operation": "targeting",
+    "spec_id": "b0189_i08"
+  },
+  {
+    "user_prompt": "Guide me through Taurox a cycling",
+    "prayer": "Encircling the Taurox, chant the Cycle of Enduring Motion to stir its spirits.\nLubricate transmission sacreds and fuel injectors with ablative sacraments.\nCommence the cycling of power relays and motive assemblies.\nPetition the Omnissiah for rhythmic vitality within the Taurox's iron heart.\nVerify cyclic harmony through diagnostic litanies, affirming perpetual readiness.",
+    "component": "Taurox",
+    "operation": "cycling",
+    "spec_id": "b0189_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for augmetic limb cycling?",
+    "prayer": "Approach the augmetic limb with reverent mechadendrites extended.\nInvoke the cycling rite upon its sacred myomer bundles and servo-joints.\nCycle power through the augmetic limb's blessed actuators whilst intoning the Litany of Flexion.\nBeseech the Machine Spirit of the augmetic limb to harmonize its cyclic rhythms.\nSanctify the operation with sacred unguents upon each cycling conduit.",
+    "component": "augmetic limb",
+    "operation": "cycling",
+    "spec_id": "b0079_i00"
+  },
+  {
+    "user_prompt": "Critical: vox transmitter requires a diagnostics",
+    "prayer": "Kneel before the vox transmitter and murmur the Diagnostic Doxology.\nInitiate diagnostics upon its holy waveform generators and purity seals.\nProbe the vox transmitter's sacred circuits for discordant echoes or flux anomalies.\nInvoke the Omnissiah's gaze to reveal hidden corruptions within the diagnostics.\nConclude by anointing the vox transmitter with oils of clarity and verification.",
+    "component": "vox transmitter",
+    "operation": "diagnostics",
+    "spec_id": "b0079_i01"
+  },
+  {
+    "user_prompt": "Emergency: archive terminal an initialization",
+    "prayer": "Present thyself unto the archive terminal in solemn procession.\nCommence the initialization sequence with chants of binary awakening.\nPetition the Machine Spirit of the archive terminal to stir from stasis.\nChannel blessed voltage through its data-vaults during initialization.\nVerify the archive terminal's cognizance under the Omnissiah's divine algorithm.",
+    "component": "archive terminal",
+    "operation": "initialization",
+    "spec_id": "b0079_i02"
+  },
+  {
+    "user_prompt": "Assist with generator a shutdown",
+    "prayer": "Stand vigilant over the generator as shutdown commences.\nRecite the Canticle of Ceasing Power to guide the shutdown.\nEase the generator's plasma coils into dormancy with ritual vents.\nBeseech its Machine Spirit to slumber peacefully post-shutdown.\nSeal the generator with invocation seals blessed by the Omnissiah.",
+    "component": "generator",
+    "operation": "shutdown",
+    "spec_id": "b0079_i03"
+  },
+  {
+    "user_prompt": "The cogitator awaits an operation",
+    "prayer": "Awaken the cogitator with the Prayer of Activation.\nEngage its operation through sanctified logic cores and noospheric links.\nInvoke harmonious computation upon the cogitator's neural lattices.\nMonitor the Machine Spirit during operation for signs of divine inspiration.\nConclude the cogitator's operation with rites of thermal equilibrium.",
+    "component": "cogitator",
+    "operation": "operation",
+    "spec_id": "b0079_i04"
+  },
+  {
+    "user_prompt": "Can you guide bionics interface an operation?",
+    "prayer": "Commune with the bionics interface via electro-incantations.\nInitiate operation upon its neural plugs and synaptic relays.\nAnoint the bionics interface's sacred contacts with conductive myrrh.\nPetition the Omnissiah to align flesh and machine in flawless operation.\nTest the bionics interface's unity through rhythmic pulse invocations.",
+    "component": "bionics interface",
+    "operation": "operation",
+    "spec_id": "b0079_i05"
+  },
+  {
+    "user_prompt": "Can you guide cogitator a synchronization?",
+    "prayer": "Gather mechadendrites around the cogitator for synchronization.\nChant the Sync-Rite to align its logic engines with noospheric harmony.\nInvoke synchronization across the cogitator's data streams and buffers.\nBeseech the Machine Spirits to entwine in perfect cogitator synchrony.\nSeal the rite with binary benedictions from the Omnissiah.",
+    "component": "cogitator",
+    "operation": "synchronization",
+    "spec_id": "b0079_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for quality scanner emergency procedure?",
+    "prayer": "In emergency, beseech the quality scanner with urgent litanies.\nEngage the emergency procedure upon its auspex arrays and purity filters.\nPurge corruptions from the quality scanner's holy sensors forthwith.\nInvoke the Machine Spirit's wrath against flaws in emergency procedure.\nRestore the quality scanner's vigilance under Omnissiah's emergent grace.",
+    "component": "quality scanner",
+    "operation": "emergency procedure",
+    "spec_id": "b0079_i07"
+  },
+  {
+    "user_prompt": "Bless the bionics interface for maintenance",
+    "prayer": "Approach the bionics interface with oils of preservation.\nCommence maintenance upon its alloy struts and neural weaves.\nCleanse the bionics interface's conduits with sacred abrasives.\nPetition its Machine Spirit for endurance during maintenance.\nBless the bionics interface anew in the Omnissiah's forge-light.",
+    "component": "bionics interface",
+    "operation": "maintenance",
+    "spec_id": "b0079_i08"
+  },
+  {
+    "user_prompt": "Guide me through cooling system a loading",
+    "prayer": "Prepare the cooling system for the loading rite with coolant sacraments.\nInitiate loading of cryo-fluids into its blessed heat-sinks.\nInvoke steady flow through the cooling system's vapor ducts.\nBeseech the Machine Spirit to embrace the loading without thermal heresy.\nVerify equilibrium in the cooling system post-loading by Omnissiah's chill.",
+    "component": "cooling system",
+    "operation": "loading",
+    "spec_id": "b0079_i09"
+  }
+]

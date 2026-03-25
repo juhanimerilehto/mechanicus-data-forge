@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0250_i00",
+    "user_request": "Emergency rite: Land Raider requires track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: Land Raider requires track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Hear me, blessed Land Raider, machine of war eternal!\nCongregation: We commune with thy track tension, O armored beast!\nPriest: First, inspect the tensioning bolts with sacred calibration. Second, apply the track tension with measured force unto equilibrium. Third, verify the Land Raider's suspension responds true.\nCongregation: The Land Raider shall roll victorious, its tracks blessed by the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i01",
+    "user_request": "The power cell demands guidance for recharging",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe power cell demands guidance for recharging\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "Priest: O power cell, vessel of the Machine Spirit's essence!\nCongregation: Guide us through the recharging ritual, blessed conduit!\nPriest: First, cleanse the contact terminals with blessed oils. Second, commence recharging via the sacred power cell interface. Third, monitor the power cell's luminescence until full saturation.\nCongregation: Renewed and sanctified, the power cell shall sustain us!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i03",
+    "user_request": "Can you sanctify the gear meshing for check?",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the gear meshing for check?\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Priest: Attend to the gear meshing, that all teeth align in harmony!\nCongregation: Bless the gear meshing with diagnostic scrutiny!\nPriest: First, measure the gear meshing clearance with calipers most holy. Second, perform a complete check of every interlocking tooth. Third, anoint the gear meshing with sacred lubricant.\nCongregation: The gear meshing stands perfect, verified by the Omnissiah's will!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i05",
+    "user_request": "Emergency rite: battery requires diagnostics",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: battery requires diagnostics\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Priest: O battery, source of our vessel's vitality!\nCongregation: Grant us diagnostics most thorough and revealing!\nPriest: First, scan the battery's charge capacity with sacred instruments. Second, execute diagnostics upon every cell and terminal. Third, document the battery's condition in the logistical archives.\nCongregation: The battery's secrets are laid bare before the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i07",
+    "user_request": "Prayer for cycling of the air compressor",
+    "topic": "air compressor cycling",
+    "component": "air compressor",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for cycling of the air compressor\n\n### TOPIC\nair compressor cycling\n\n### COMPONENT\nair compressor\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air compressor\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Air compressor, breath of the machine collective!\nCongregation: Sanctify the cycling that sustains our pneumatics!\nPriest: First, purge the air compressor's intake manifold of debris. Second, commence cycling through regulated pressure sequences. Third, monitor the air compressor's discharge for optimal flow rates.\nCongregation: The air compressor cycles eternal, blessed by Machine Spirit!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i08",
+    "user_request": "My hull breach is failing during sealing — help",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy hull breach is failing during sealing — help\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Hull breach, wound upon our sacred vessel!\nCongregation: Commence sealing with fervent determination!\nPriest: First, locate and isolate the hull breach from adjacent compartments. Second, apply reinforced plating to seal the hull breach with blessed welds. Third, pressurize and verify the hull breach holds against the void's hunger.\nCongregation: The hull breach is sealed; our vessel stands whole!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i02",
+    "user_request": "The drop pod descent prep demands guidance for drop pod descent prep",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe drop pod descent prep demands guidance for drop pod descent prep\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirits of descent, we invoke thy guidance for drop pod descent prep!\nCongregation: Drop pod descent prep shall commence with blessed certainty!\nPriest: First, calibrate the retro-thrusters with sacred precision; Second, verify the drop pod descent prep systems for integrity; Third, intone the Litany of Safe Passage!\nCongregation: The Omnissiah watches over this drop pod descent prep, and we are made worthy!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i04",
+    "user_request": "Can you sanctify the gravity generator for stabilization?",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the gravity generator for stabilization?\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: Heed us, Machine Spirits of gravitational dominion—we seek stabilization of the gravity generator!\nCongregation: The gravity generator shall answer our holy invocation!\nPriest: First, purge the harmonic resonators within the gravity generator; Second, recalibrate the mass-locus matrix for stabilization; Third, anoint the core with blessed oils!\nCongregation: Through stabilization of the gravity generator, we honor the Omnissiah's eternal design!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i06",
+    "user_request": "Offer a litany to steady the force field before activation",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the force field before activation\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O hallowed force field, receive our supplication before thy activation!\nCongregation: The force field shall rise in righteous majesty!\nPriest: First, synchronize the polarity nodes of the force field with sacred geometry; Second, perform activation sequence with measured solemnity; Third, seal the perimeter with the Chant of Absolute Barrier!\nCongregation: Let the force field shimmer forth, blessed by the Omnissiah's infinite wisdom!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0250_i09",
+    "user_request": "Emergency rite: lascannon requires capacitor charge",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: lascannon requires capacitor charge\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "Priest: By the Omnissiah's grace, the lascannon demands capacitor charge—attend now!\nCongregation: The lascannon shall be filled with righteous fury!\nPriest: First, drain the residual discharge from the lascannon's core matrix; Second, initiate capacitor charge through the primary conduits with holy fervor; Third, verify the lascannon's readiness with the Rite of Illumination!\nCongregation: Through capacitor charge, the lascannon becomes an instrument of the Omnissiah's wrath!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

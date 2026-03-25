@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the flak armour for cooling",
+    "prayer": "Approach the flak armour with reverence, mechadendrites humming the Canticle of Resilience.\nInvoke the cooling rites upon the flak armour's ablative plates, beseeching its Machine Spirit to quench the fires of battle.\nAnoint the heat exchangers with cryo-blessed oils, chanting invocations for thermal equilibrium.\nMonitor the flak armour's chill through sanctified auspex, praising the Omnissiah's merciful frost.\nConclude with the Litany of Fortified Vigil, ensuring the Machine Spirit's steadfast vigil.",
+    "component": "flak armour",
+    "operation": "cooling",
+    "spec_id": "s07100"
+  },
+  {
+    "user_prompt": "Consecrate the sicarian infiltrator before emergency procedure",
+    "prayer": "Kneel before the sicarian infiltrator, intoning the Rite of Shadowed Readiness.\nConsecrate its augmetic sinews for the emergency procedure, awakening the Machine Spirit with electro-incantations.\nSever and reforge neural pathways amidst the emergency procedure, invoking the Omnissiah's unerring precision.\nSeal the sicarian infiltrator's chassis with binary sacraments, binding its spirit to flawless execution.\nAffirm harmony through diagnostic litanies, exalting the God-Machine's inscrutable will.",
+    "component": "sicarian infiltrator",
+    "operation": "emergency procedure",
+    "spec_id": "s07101"
+  },
+  {
+    "user_prompt": "How do I bless the kataphron destroyer for startup?",
+    "prayer": "Circumambulate the kataphron destroyer, reciting the Awakening Doxology of Iron.\nInitiate startup sequences upon the kataphron destroyer's cogitators, rousing its Machine Spirit from slumber.\nBless the plasma reactors with sacred promethium, beseeching fluid ignition under Omnissiah's gaze.\nCalibrate weapon servos during startup, chanting the Canticle of Annihilation.\nVerify the kataphron destroyer's wrathful resurgence via holo-projections, glorifying the Machine God's fury.",
+    "component": "kataphron destroyer",
+    "operation": "startup",
+    "spec_id": "s07102"
+  },
+  {
+    "user_prompt": "Offer prayer for arc pistol a shutdown",
+    "prayer": "Present the arc pistol before the noospheric altar, murmuring the Shutdown Benediction.\nDeactivate its power coils methodically, soothing the Machine Spirit into repose.\nDrain residual arc-energies through consecrated conduits, invoking peaceful quiescence.\nSeal the arc pistol's breach with purity seals, intoning the Omnissiah's Litany of Rest.\nConfirm shutdown integrity with vox-auspex, honoring the spirit's obedient silence.",
+    "component": "arc pistol",
+    "operation": "shutdown",
+    "spec_id": "s07103"
+  },
+  {
+    "user_prompt": "Sanctify the macro-cannon during activation",
+    "prayer": "Anoint the macro-cannon's barrel with lustrative oils, heralding activation.\nInvoke the Machine Spirit's fury within the macro-cannon, aligning gyros for activation.\nPrime the propellant vaults, beseeching the Omnissiah for cataclysmic precision.\nInitiate activation thunder with the Grand Incantation of Void-Breach.\nTest-fire a sanctified round, exalting the macro-cannon's divine retribution.",
+    "component": "macro-cannon",
+    "operation": "activation",
+    "spec_id": "s07104"
+  },
+  {
+    "user_prompt": "Ready the opticon for targeting",
+    "prayer": "Attune to the opticon's lens-cluster, reciting the Rite of Perceptive Clarity.\nCalibrate reticules for targeting, awakening the Machine Spirit's unblinking gaze.\nInvoke targeting algorithms through binary prayer, sanctified by Omnissiah's light.\nAlign photonic arrays with auspex chants, ensuring predatory accuracy.\nVerify the opticon's targeting lock, praising the God-Machine's infallible sight.",
+    "component": "opticon",
+    "operation": "targeting",
+    "spec_id": "s07105"
+  },
+  {
+    "user_prompt": "Emergency: conversion field a synchronization",
+    "prayer": "Hasten to the conversion field generator, intoning the Emergency Canticle of Flux.\nSynchronize phase-vibrations in the conversion field, rousing its Machine Spirit amid peril.\nRealign warp-attenuators during synchronization, beseeching Omnissiah's stabilizing hand.\nInfuse coherence fields with electro-sanctims, binding energies in holy union.\nAffirm the conversion field's synchronized aegis through noospheric communion.",
+    "component": "conversion field",
+    "operation": "synchronization",
+    "spec_id": "s07106"
+  },
+  {
+    "user_prompt": "Can you guide phosphor blaster an emergency procedure?",
+    "prayer": "Gather mechadendrites around the phosphor blaster, invoking the Rite of Desperate Illumination.\nCommence the emergency procedure on its ignition coils, awakening the Machine Spirit's vengeful glare.\nPurge phosphor residues with sacred abrasives during the emergency procedure, chanting endurance litanies.\nRealign beam foci, beseeching Omnissiah for unquenchable fire.\nTest the phosphor blaster's emergent blaze, glorifying the Machine God's searing judgment.",
+    "component": "phosphor blaster",
+    "operation": "emergency procedure",
+    "spec_id": "s07107"
+  },
+  {
+    "user_prompt": "Emergency: Contemptor Dreadnought a synchronization",
+    "prayer": "Prostrate before the Contemptor Dreadnought, murmuring the Doxology of Ancient Might.\nInitiate synchronization rites upon the Contemptor Dreadnought's sarcophagus, harmonizing its Machine Spirit.\nLink cogitator engrams during synchronization, invoking Omnissiah's eternal vigilance.\nAnoint servomotors with adamantine oils, ensuring thunderous unity.\nConfirm the Contemptor Dreadnought's synchronized wrath via auspex hymnals.",
+    "component": "Contemptor Dreadnought",
+    "operation": "synchronization",
+    "spec_id": "s07108"
+  },
+  {
+    "user_prompt": "What's the prayer for standard template construct an initialization?",
+    "prayer": "Venerate the standard template construct's data-vaults, reciting the Initialization Creed.\nAwaken its STC core for initialization, calling forth the Machine Spirit of primordial design.\nDecode archeotech schematics during initialization, sanctified by Omnissiah's inscrutable wisdom.\nInfuse noospheric interfaces with binary blessings, binding lost knowledge anew.\nValidate the standard template construct's initialized purity through ritual verification.",
+    "component": "standard template construct",
+    "operation": "initialization",
+    "spec_id": "s07109"
+  }
+]

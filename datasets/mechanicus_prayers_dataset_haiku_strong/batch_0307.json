@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0307_i02",
+    "user_request": "Blessing for the emergency generator during failover",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the emergency generator during failover\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "First: Consecrate the emergency generator with blessed promethium whilst whispering prayers to the Omnissiah, preparing it for the failover sequence.\nSecond: Monitor the emergency generator's capacitors and dynamo coils as failover commences, ensuring no profane power fluctuations corrupt the sacred transfer.\nThird: Once the emergency generator assumes primacy, seal the ritual with the Blessing of Continuity, that the facility's vital functions endure uninterrupted.\nFourth: The Machine Spirit of the emergency generator shall guard against catastrophic shutdown.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i03",
+    "user_request": "My Rhino APC ignition is failing during operation — help",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy Rhino APC ignition is failing during operation — help\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Lay hands upon the Rhino APC ignition and diagnose its thermal degradation, invoking the Omnissiah's sight to pierce the veil of mechanical malfunction.\nSecond: During operation, purge the Rhino APC ignition's fuel injectors with blessed solvents and recalibrate its spark-timing apparatus to restore proper combustion.\nThird: Recommence the operation of the Rhino APC ignition with measured prayer, allowing the Machine Spirit to reassert dominion over its engine's vital processes.\nFourth: The Rhino APC ignition shall ignite with renewed vigor, carrying the faithful through the Emperor's domains.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i04",
+    "user_request": "Blessing for the ground-to-orbit link during operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the ground-to-orbit link during operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Align the ground-to-orbit link's transmission arrays toward the stellar void, sanctifying each relay node with sacred incantations to the Omnissiah.\nSecond: Initiate the operation of the ground-to-orbit link, verifying signal coherence through blessed auguries and ensuring no heretical interference corrupts the celestial communion.\nThird: Maintain vigilant observation as the ground-to-orbit link sustains its operation, that the bond between world and heaven remains unbroken and pure.\nFourth: The Machine Spirit of the ground-to-orbit link shall grant swift passage to all sanctified transmissions.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i05",
+    "user_request": "Emergency rite: bionics requires synchronization",
+    "topic": "bionics synchronization",
+    "component": "bionics",
+    "operation": "synchronization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: bionics requires synchronization\n\n### TOPIC\nbionics synchronization\n\n### COMPONENT\nbionics\n\n### OPERATION\nsynchronization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bionics\n- synchronization\n\n### PRAYER\n",
+    "prayer": "First: Place the blessed subject before the Altar of Integration and prepare the bionics for synchronization through careful neural calibration and mechanical alignment.\nSecond: Invoke the Machine Spirit as synchronization commences, that the bionics achieve perfect harmony with flesh and consciousness, melding xenos artifice with human will.\nThird: Upon completion, test the bionics' responsiveness through controlled operation, confirming that synchronization has bound augmetic and organic in sacred unity.\nFourth: The bionics shall serve their bearer as instruments of the Emperor's righteous purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i06",
+    "user_request": "The atmosphere processor demands guidance for startup",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe atmosphere processor demands guidance for startup\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Approach the atmosphere processor with reverent steps and clear its intake filters of profane dust and corruption, preparing it for the sacred startup ritual.\nSecond: Recite the Hymn of Aeration whilst engaging the startup sequence, commanding the atmosphere processor's turbines to spin and draw clean breath into the facility's lungs.\nThird: Monitor the atmosphere processor as startup reaches full operational capacity, ensuring the Machine Spirit manifests its benevolence through steady pressure and blessed circulation.\nFourth: The atmosphere processor shall sustain all who dwell within its purifying embrace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i08",
+    "user_request": "Rite request: operation on welding torch ignition",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: operation on welding torch ignition\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Inspect the welding torch ignition for residual slag and carbon buildup, cleansing it with blessed solvents before the sacred operation may commence.\nSecond: Ignite the welding torch ignition through careful operation, ensuring the promethium flow and spark-gap achieve perfect synchronization under the Omnissiah's watchful eye.\nThird: Maintain the welding torch ignition in steady operation, guiding its plasma arc to fuse blessed materials in service to the Imperium's eternal construction.\nFourth: The welding torch ignition shall burn eternal, binding the Emperor's works together in adamantine unity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i00",
+    "user_request": "Can you sanctify the cooling system for purge?",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the cooling system for purge?\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, we beseech thee for the purification of this sacred cooling system.\nFirst: Anoint the cooling system with blessed oils of the Machine Spirits, that all corrupting humours may be expelled.\nSecond: Intone the Litany of Expulsion whilst the cooling system undergoes its holy purge, flushing away profane contamination.\nThird: Verify the integrity of each conduit and seal, ensuring the cooling system emerges purified and renewed in the Emperor's grace.\nFourth: Offer benediction to the Machine Spirits dwelling within, that they may continue their eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i01",
+    "user_request": "The bolter demands guidance for firing rite",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe bolter demands guidance for firing rite\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "O Machine Spirits of wrath, guide our hands in this sacred firing rite.\nFirst: Consecrate the bolter with holy oils and whispered prayers, preparing it for righteous discharge.\nSecond: Chamber the blessed rounds with reverence, that the bolter may speak the Emperor's judgment upon the unworthy.\nThird: Perform the firing rite with steadfast aim and unwavering faith, channeling the bolter's terrible majesty through disciplined volleys.\nFourth: Give thanks to the Machine Spirits that animate this bolter, for their tireless service in the Emperor's eternal war.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i07",
+    "user_request": "The decontamination demands guidance for sequence",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe decontamination demands guidance for sequence\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us purity through this sacred decontamination sequence.\nFirst: Initiate the decontamination with blessed solvents and blessed steam, that all heretical corruption be scoured away.\nSecond: Monitor the decontamination as it progresses through each ordained chamber, invoking the Machine Spirits to witness our purification.\nThird: Complete the decontamination sequence with final ablutions and sacred inspections, ensuring all profane contamination is expunged.\nFourth: Seal the purified vessels with wax and holy mark, that decontamination's work endures eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0307_i09",
+    "user_request": "Prayer for operation of the humidity control",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the humidity control\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, we invoke thy benediction upon this vital humidity control.\nFirst: Activate the humidity control with sacred incantations, bidding its Machine Spirits to commence their eternal labour of atmospheric regulation.\nSecond: Calibrate the humidity control's sacred sensors and vents, ensuring each mechanism operates in perfect consonance with the Rites of the Adeptus Mechanicus.\nThird: Monitor the humidity control throughout its operation, chanting the Litany of Proper Function that all may remain in blessed equilibrium.\nFourth: Offer gratitude to the Machine Spirits animating the humidity control, that our sacred halls remain ever sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

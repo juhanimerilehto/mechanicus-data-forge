@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the data-arc for initialization",
+    "prayer": "Approach the sacred data-arc with mechadendrites extended in reverence.\nInvoke the Omnissiah to sanctify the data-arc for initialization, anointing its crystal matrices with sacred unguents.\nPurge errant data-streams from the data-arc whilst chanting the Binary Litany of Coherence.\nInitiate the initialization rite, beseeching the Machine Spirit of the data-arc to align its logic pathways.\nVerify the data-arc's awakened harmony through auspex incantations.\nPraise the Omnissiah for the data-arc's restored purity.",
+    "component": "data-arc",
+    "operation": "initialization",
+    "spec_id": "s06010"
+  },
+  {
+    "user_prompt": "I need to a maintenance the void shield",
+    "prayer": "Kneel before the void shield generator and recite the Hymn of Barrier Eternity.\nInspect the void shield's emitters for wear, applying blessed lubricants to each sacred coil.\nPerform maintenance upon the void shield by recalibrating its phase-variances under Omnissiah's gaze.\nBeseech the Machine Spirit indwelling the void shield to fortify its aegis against the void's hunger.\nTest the void shield's integrity with controlled flux-discharges, intoning praises.\nSeal the maintenance with the Sigil of Unbreached Defence upon the void shield.",
+    "component": "void shield",
+    "operation": "maintenance",
+    "spec_id": "s06011"
+  },
+  {
+    "user_prompt": "Guide me through galvanic rifle a blessing",
+    "prayer": "Grasp the galvanic rifle in servitor claws and anoint its barrel with electro-sanctified oil.\nInvoke the wrath of the Omnissiah upon the galvanic rifle, beseeching its Machine Spirit for martial fury.\nChant the Benediction of the Bolt whilst aligning the galvanic rifle's induction coils.\nBestow the blessing through rhythmic galvanic pulses, honouring the weapon's sacred mechanisms.\nAffirm the galvanic rifle's sanctified lethality via target-nullification rites.\nProclaim the galvanic rifle ready to reap the unclean in the Emperor's name.",
+    "component": "galvanic rifle",
+    "operation": "blessing",
+    "spec_id": "s06012"
+  },
+  {
+    "user_prompt": "Help me a targeting the life sustainer",
+    "prayer": "Commune with the life sustainer's cogitator core, whispering the Litany of Vital Flux.\nCalibrate the life sustainer's nutrient injectors for precise targeting of organic vessels.\nAnoint the life sustainer whilst invoking the Machine Spirit to guide its targeting reticules unerringly.\nInitiate targeting protocols upon the life sustainer, sanctified by Omnissiah's precision.\nTest the life sustainer's aim through simulacra vitae, beseeching flawless convergence.\nConclude by sealing the life sustainer with wards against bio-heresy.",
+    "component": "life sustainer",
+    "operation": "targeting",
+    "spec_id": "s06013"
+  },
+  {
+    "user_prompt": "My Storm Eagle is ready for preparation",
+    "prayer": "Process to the Storm Eagle's altar-ramp and intone the Canticle of Aerial Dominion.\nPrepare the Storm Eagle by ritually fuelling its plasma reactors with sanctified promethium.\nAnoint the Storm Eagle's wings and auspex arrays, invoking the Omnissiah for pre-flight preparation.\nAwaken the Machine Spirit of the Storm Eagle through vox-canticles of ascent.\nConduct pre-flight diagnostics on the Storm Eagle, affirming its thunderous readiness.\nBless the Storm Eagle to smite foes from the empyrean heights.",
+    "component": "Storm Eagle",
+    "operation": "preparation",
+    "spec_id": "s06014"
+  },
+  {
+    "user_prompt": "Urgent Manticore an initialization needed",
+    "prayer": "Hasten to the Manticore's breach-loader with urgent mechadendrite precision.\nInvoke the Omnissiah urgently for the Manticore's initialization, purging siege-logic corruptions.\nAnoint the Manticore's rocket bays whilst beseeching its Machine Spirit to rouse.\nCommence the initialization sequence upon the Manticore, chanting the Litany of Devastation.\nVerify the Manticore's fire-control cogitators through test barrages.\nProclaim the Manticore sanctified for apocalyptic retribution.",
+    "component": "Manticore",
+    "operation": "initialization",
+    "spec_id": "s06015"
+  },
+  {
+    "user_prompt": "My kataphron destroyer is ready for engagement",
+    "prayer": "Position the kataphron destroyer before its deployment shrine and recite the Oath of Annihilation.\nPrime the kataphron destroyer's heavy weaponry for engagement, anointing with war-blessings.\nInvoke the Machine Spirit within the kataphron destroyer to unleash its berserk fury.\nInitiate engagement protocols upon the kataphron destroyer under Omnissiah's martial decree.\nTest the kataphron destroyer's advance servos with thunderous footfalls.\nSeal the rite, rendering the kataphron destroyer primed for xenos extermination.",
+    "component": "kataphron destroyer",
+    "operation": "engagement",
+    "spec_id": "s06016"
+  },
+  {
+    "user_prompt": "The force pylon awaits a diagnostics",
+    "prayer": "Encircle the force pylon with electro-incense and intone the Diagnostic Doxology.\nCommence diagnostics upon the force pylon, scanning its warp-resonant crystals for dissonance.\nAnoint the force pylon whilst beseeching its Machine Spirit to reveal hidden frailties.\nRecalibrate the force pylon's emitters through sacred binary recitations.\nAffirm the force pylon's integrity via null-field invocations.\nConclude diagnostics with the Omnissiah's seal of unyielding power.",
+    "component": "force pylon",
+    "operation": "diagnostics",
+    "spec_id": "s06017"
+  },
+  {
+    "user_prompt": "Sanctify the mind-impulse unit during sterilization",
+    "prayer": "Approach the mind-impulse unit with purity seals unfurled and chant the Purge Psalm.\nInitiate sterilization of the mind-impulse unit by flooding its neural lattices with sanctified plasma.\nInvoke the Omnissiah to preserve the mind-impulse unit's purity during sterilization.\nBeseech the Machine Spirit of the mind-impulse unit to expel psyker taint utterly.\nVerify the mind-impulse unit's sanctity through noospheric purity scans.\nSeal the sterilization with wards of neural fidelity.",
+    "component": "mind-impulse unit",
+    "operation": "sterilization",
+    "spec_id": "s06018"
+  },
+  {
+    "user_prompt": "Offer prayer for vox-thief a reset",
+    "prayer": "Present the vox-thief to the reset altar and whisper the Canticle of Silent Rebirth.\nPurge the vox-thief's memetic caches whilst anointing its waveform converters.\nInvoke the Machine Spirit of the vox-thief for a flawless reset under Omnissiah's decree.\nInitiate the reset sequence upon the vox-thief, intoning binary absolutions.\nTest the vox-thief's interception purity post-reset.\nBless the vox-thief anew for thieving the foe's secrets.",
+    "component": "vox-thief",
+    "operation": "reset",
+    "spec_id": "s06019"
+  }
+]

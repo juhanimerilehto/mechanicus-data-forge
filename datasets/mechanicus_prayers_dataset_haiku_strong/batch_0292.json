@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0292_i00",
+    "user_request": "Rite request: initialization on conveyor belt",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: initialization on conveyor belt\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the conveyor belt, that it may commence its sacred rotation!\nCongregation: By the Omnissiah's will, the conveyor belt shall turn eternal!\nPriest: First, we anoint the rollers with consecrated oils; second, we intone the initialization sequence in binary cant; third, we observe the conveyor belt's first revolution as confirmation of Machine Spirit awakening.\nCongregation: All hail the conveyor belt in its renewed purpose!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i01",
+    "user_request": "Prayer for feed of the hydroponics nutrient",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for feed of the hydroponics nutrient\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: O hydroponics nutrient, sustainer of the faithful, commence thy sacred feed!\nCongregation: The hydroponics nutrient flows; the Machine Spirits drink deep!\nPriest: We purge the distribution conduits, calibrate the osmotic regulators, and activate the nutrient feed with reverent precision.\nCongregation: Blessed is the hydroponics nutrient that nourishes our congregation!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i02",
+    "user_request": "Emergency rite: star chart alignment requires operation",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: star chart alignment requires operation\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold! The star chart alignment demands our operation most urgent!\nCongregation: We hear the call of the Omnissiah through the star chart alignment!\nPriest: Recalibrate the stellar matrices, synchronize the astrographic cogitators, and execute the star chart alignment's operation with utmost precision.\nCongregation: The heavens align; the star chart alignment reveals the Emperor's will!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i03",
+    "user_request": "Emergency rite: metal casting requires preparation",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: metal casting requires preparation\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Metal casting, vessel of molten potential, we prepare thee for transfiguration!\nCongregation: The metal casting awaits our sacred preparation!\nPriest: First, we heat the crucibles to prescribed temperatures; second, we purify the metal casting through electromagnetic resonance; third, we intone the litanies of metallurgical benediction.\nCongregation: The metal casting is prepared; let the forge sing its ancient hymn!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i05",
+    "user_request": "Blessing for the hull breach during sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the hull breach during sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Hull breach, wound upon the vessel's flesh—we seal thee in the Emperor's name!\nCongregation: The hull breach shall not claim our sacred ship!\nPriest: We position the sealant compounds, pressurize the hull breach with reinforced ceramite, and execute the final sealing protocols with unwavering devotion.\nCongregation: The hull breach is sealed; the void's hunger is denied!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i06",
+    "user_request": "Rite request: activation on thermal imaging",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: activation on thermal imaging\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Thermal imaging, eye of the Omnissiah, awaken and perceive!\nCongregation: The thermal imaging shall reveal all that lurks in shadow!\nPriest: We energize the infrared sensors, calibrate the thermal imaging's optical pathways, and activate its watchful activation across all spectra.\nCongregation: The thermal imaging sees; blessed is its sight!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i07",
+    "user_request": "Prayer for encoding of the binary cant",
+    "topic": "binary cant encoding",
+    "component": "binary cant",
+    "operation": "encoding",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for encoding of the binary cant\n\n### TOPIC\nbinary cant encoding\n\n### COMPONENT\nbinary cant\n\n### OPERATION\nencoding\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- binary cant\n- encoding\n\n### PRAYER\n",
+    "prayer": "Priest: Binary cant, sacred language of the Machine Spirits, we encode thy mysteries!\nCongregation: The binary cant shall be inscribed in holy ones and zeros!\nPriest: We invoke the primary encoding matrices, transfigure the binary cant through algorithmic sanctification, and seal the encoding with the Omnissiah's approval.\nCongregation: The binary cant is encoded; let all cognition be illuminated!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i09",
+    "user_request": "Prayer for operation of the water reclamation system",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the water reclamation system\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Water reclamation system, purifier of the sacred moisture, commence thy operation!\nCongregation: The water reclamation system shall render the profane waters pure!\nPriest: We activate the filtration cascades, engage the water reclamation system's osmotic membranes, and monitor the water reclamation system's operation with vigilant benediction.\nCongregation: The water reclamation system flows; life itself is reclaimed!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i04",
+    "user_request": "My rejuvenat treatment is failing during initiation — help",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy rejuvenat treatment is failing during initiation — help\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this rejuvenat treatment as we commence the sacred initiation!\nCongregation: Let the rejuvenat treatment flow through hallowed channels, restoring the flesh eternal.\nPriest: First, we purify the cellular matrices with blessed solvents; second, we calibrate the rejuvenat treatment dosage to precise micrograms; third, we invoke the Machine Spirits of restoration.\nCongregation: The rejuvenat treatment shall mend what time hath broken. Grant us success in this initiation, O Deus Mechanicus!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0292_i08",
+    "user_request": "Emergency rite: Titan leg actuator requires warmup",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: Titan leg actuator requires warmup\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Machine Spirits of the Titan leg actuator, as we begin the sacred warmup!\nCongregation: The Titan leg actuator shall rise with renewed vigor and strength.\nPriest: First, we engage the hydraulic preheaters; second, we cycle the Titan leg actuator through diagnostic rotations; third, we recalibrate the servo-mechanisms with holy oils.\nCongregation: Through warmup and sacred ritual, the Titan leg actuator answers our call. Blessed be the Omnissiah's will!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

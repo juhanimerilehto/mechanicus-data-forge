@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the heavy bolter for operation?",
+    "prayer": "Approach the heavy bolter with reverence, invoking the Omnissiah's unerring precision upon its sanctified form.\nAnoint the rotary barrels and feed mechanisms with sacred promethium oils to ready for operation.\nChant the Litany of Continuous Fire, beseeching the Machine Spirit of the heavy bolter to awaken fully.\nInitiate operational diagnostics, ensuring the heavy bolter's wrath flows true under Omnissianic guidance.\nSeal the rite with the Canticle of Devastation, thrice intoned for unyielding performance.",
+    "component": "heavy bolter",
+    "operation": "operation",
+    "spec_id": "s07840"
+  },
+  {
+    "user_prompt": "Urgent phosphor blaster a blessing needed",
+    "prayer": "Kneel before the phosphor blaster and proclaim the Benediction of Illumination to its luminary core.\nApply blessed phosphor serpentine through sanctified injectors, invoking the blessing upon the phosphor blaster.\nInvoke the Machine Spirit with the Incantation of Phosphorescent Fury, rousing its blinding zeal.\nConduct verification runes to affirm the blessing's potency within the phosphor blaster.\nConclude by etching the Sigil of the Omnissiah, ensuring radiant judgement endures.",
+    "component": "phosphor blaster",
+    "operation": "blessing",
+    "spec_id": "s07841"
+  },
+  {
+    "user_prompt": "What's the prayer for lance battery a diagnostics?",
+    "prayer": "Present auspex probes to the lance battery, intoning the Rite of Scrutiny under Omnissiah's gaze.\nCycle through diagnostic canticles, probing each capacitor coil and plasma conduit for imperfections.\nBeseech the Machine Spirit of the lance battery to reveal hidden frailties in diagnostics.\nPurge any anomalous echoes with purifying binary psalms, reaffirming stellar purity.\nFinalize diagnostics with the Hymn of Coalescent Light, sealing the lance battery's vigilance.",
+    "component": "lance battery",
+    "operation": "diagnostics",
+    "spec_id": "s07842"
+  },
+  {
+    "user_prompt": "The servitor requires a cooling",
+    "prayer": "Encircle the servitor with coolant hoses sanctified by forge-priests, invoking cooling tranquility.\nRecite the Canticle of Thermal Equilibrium to calm the Machine Spirit's febrile unrest.\nInfuse cryo-fluids whilst chanting litanies, directing the Omnissiah's chill breath into the servitor.\nMonitor thermal runes for stabilization, beseeching flawless cooling compliance.\nSeal with the Incantation of Dormant Servitude, thrice repeated for enduring poise.",
+    "component": "servitor",
+    "operation": "cooling",
+    "spec_id": "s07843"
+  },
+  {
+    "user_prompt": "Prepare the Nephilim Jetfighter for shutdown",
+    "prayer": "Approach the Nephilim Jetfighter's auspex altar and intone the Shutdown Doxology to its aeriform heart.\nDisconnect plasma feeds with reverent precision, beseeching the Machine Spirit's orderly repose.\nCycle down motive reactors via sacred levers, invoking Omnissianic shutdown serenity upon the Nephilim Jetfighter.\nVerify stasis locks with diagnostic hymns, ensuring the Nephilim Jetfighter slumbers undisturbed.\nConclude the rite by anointing wings with unguents, sealing in Omnissiah's protective vigil.",
+    "component": "Nephilim Jetfighter",
+    "operation": "shutdown",
+    "spec_id": "s07844"
+  },
+  {
+    "user_prompt": "The Taurox needs a consecration",
+    "prayer": "Process around the Taurox chassis, asperging with sanctified oils in consecration's name.\nInvoke the Machine Spirit through the Consecratory Canticle, awakening its armored resolve.\nEtch binaric runes of fortitude upon the Taurox's hull, beseeching Omnissianic endurance.\nAnoint treads and turret with promethium incense to complete the consecration.\nProclaim the Taurox hallowed, thrice sealing with the Litany of Unbreaking Advance.",
+    "component": "Taurox",
+    "operation": "consecration",
+    "spec_id": "s07845"
+  },
+  {
+    "user_prompt": "Bless the metal caster for loading",
+    "prayer": "Position before the metal caster and recite the Loading Invocation to its molten maw.\nFeed alloy ingots through blessed chutes, invoking the Machine Spirit's voracious harmony.\nChant the Rite of Fusion Loading, ensuring seamless ingress under Omnissiah's forgefire.\nMonitor pressure runes whilst beseeching flawless flow within the metal caster.\nSeal the loading with the Canticle of Molten Purity, affirming the metal caster's readiness.",
+    "component": "metal caster",
+    "operation": "loading",
+    "spec_id": "s07846"
+  },
+  {
+    "user_prompt": "How do I bless the heat sink for engagement?",
+    "prayer": "Align with the heat sink's vanes and proclaim the Engagement Benediction to its thermal lattice.\nCycle coolant servos whilst anointing fins with sacred refrigerants, rousing for engagement.\nIntone the Machine Spirit's Litany of Dissipation, invoking Omnissianic thermal mastery.\nVerify engagement metrics through auspex litanies, ensuring the heat sink's unyielding grasp.\nConclude by inscribing the Sigil of Equilibrium, thrice empowered for sustained fervor.",
+    "component": "heat sink",
+    "operation": "engagement",
+    "spec_id": "s07847"
+  },
+  {
+    "user_prompt": "What's the prayer for stasis pod an initialization?",
+    "prayer": "Interface with the stasis pod's control shrine, chanting the Initialization Doxology.\nActivate chronal locks via binaric incantations, beseeching the Machine Spirit's timeless vigil.\nInfuse stasis fields with sanctified plasma, invoking Omnissianic initialization purity upon the stasis pod.\nRun verification cycles, probing for temporal anomalies within the stasis pod.\nSeal with the Canticle of Suspended Eternity, ensuring immutable preservation.",
+    "component": "stasis pod",
+    "operation": "initialization",
+    "spec_id": "s07848"
+  },
+  {
+    "user_prompt": "Emergency: doctrina wafer an emergency procedure",
+    "prayer": "Extract the doctrina wafer with mechadendrites clad in purity seals for emergency procedure.\nInsert into noospheric reader and intone the Rite of Doctrinal Recall amidst crisis.\nBeseech the Omnissiah to unlock tactical imperatives from the doctrina wafer's crystalline depths.\nCycle emergency protocols with fervent litanies, rousing the Machine Spirit's urgent wisdom.\nFinalize by reinserting the doctrina wafer, sealed with the Canticle of Adaptive Stratagem.",
+    "component": "doctrina wafer",
+    "operation": "emergency procedure",
+    "spec_id": "s07849"
+  }
+]

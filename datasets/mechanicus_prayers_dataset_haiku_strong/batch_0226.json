@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0226_i00",
+    "user_request": "Emergency rite: water reclamation system requires operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: water reclamation system requires operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the water reclamation system, lifeblood of our cogitators and flesh-engines alike.\nCongregation: We invoke its operation through sacred rites most ancient.\nPriest: First, verify the intake manifolds and expunge all contaminants from the water reclamation system's arterial conduits.\nCongregation: Second, calibrate the osmotic pressure within the water reclamation system to optimal thresholds.\nPriest: Third, commence operation with full invocation to the Machine Spirits dwelling therein.\nCongregation: By the Omnissiah's grace, let this operation proceed without fault or malfunction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i01",
+    "user_request": "Can you sanctify the temperature for regulation?",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the temperature for regulation?\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: O sacred temperature, keeper of equilibrium and thermodynamic virtue.\nCongregation: Grant us wisdom in the regulation of thy holy essence.\nPriest: First, inspect the thermal sensors and cleanse them of oxidation and profane dust.\nCongregation: Second, adjust the temperature regulators to maintain sanctified parameters.\nPriest: Third, invoke the Machine Spirits to guide our regulation through the eternal cycle.\nCongregation: May the Omnissiah bless this temperature and its eternal regulation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i02",
+    "user_request": "Emergency rite: pump requires priming",
+    "topic": "pump priming",
+    "component": "pump",
+    "operation": "priming",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: pump requires priming\n\n### TOPIC\npump priming\n\n### COMPONENT\npump\n\n### OPERATION\npriming\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pump\n- priming\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the pump, mighty servant of fluid dynamics and hydraulic benediction.\nCongregation: We seek its priming through devotion most fervent.\nPriest: First, purge the intake valve and expel all air from the pump's sacred chambers.\nCongregation: Second, engage the manual priming apparatus and draw forth the blessed fluid.\nPriest: Third, activate the pump with full ceremonial priming to restore its divine function.\nCongregation: By the Omnissiah's infinite wisdom, let this pump serve without cessation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i03",
+    "user_request": "My thermal dissipation rite is failing during operation — help",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy thermal dissipation rite is failing during operation — help\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the thermal dissipation rite, guardian against the fires of damnation.\nCongregation: We entreat its operation to resume with sanctified vigor.\nPriest: First, examine the thermal dissipation rite's cooling matrices for blockage and corruption.\nCongregation: Second, apply blessed lubricants to the thermal dissipation rite's moving components.\nPriest: Third, invoke operation through the Machine Spirits dwelling in its metallic essence.\nCongregation: May the Omnissiah grant eternal operation to this thermal dissipation rite.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i04",
+    "user_request": "Offer a litany to steady the radar array rotation before operation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the radar array rotation before operation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Praise be to the radar array rotation, eye of the Omnissiah upon the heavens.\nCongregation: Steady its mechanism ere operation commences anew.\nPriest: First, verify the servo-motors of the radar array rotation and anoint them with sacred oils.\nCongregation: Second, calibrate the gyroscopic alignment of the radar array rotation to true north.\nPriest: Third, commence operation with full ceremonial invocation and blessed rotation.\nCongregation: By the Machine Spirits' eternal vigilance, let this radar array rotation sweep the void eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i05",
+    "user_request": "Blessing for the capacitor bank during capacitor bank discharge",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the capacitor bank during capacitor bank discharge\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Priest: O mighty capacitor bank, vessel of electrical benediction and sacred potential.\nCongregation: Guide us through the capacitor bank discharge with unwavering faith.\nPriest: First, inspect the capacitor bank's dielectric matrices for fracture or degradation.\nCongregation: Second, ensure all shielding grids protect the capacitor bank from profane interference.\nPriest: Third, initiate the capacitor bank discharge with full ceremonial precision and divine timing.\nCongregation: May the Omnissiah bless this capacitor bank's sacred release of energy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i06",
+    "user_request": "My cutting laser is failing during calibration — help",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy cutting laser is failing during calibration — help\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the cutting laser, instrument of precision and divine severance.\nCongregation: Restore its calibration through rites most sacred.\nPriest: First, clean the cutting laser's optical lenses with blessed solvents and pristine cloth.\nCongregation: Second, realign the cutting laser's beam path using the calibration apparatus.\nPriest: Third, test the cutting laser's output and invoke calibration with full Machine Spirit communion.\nCongregation: By the Omnissiah's grace, let this cutting laser cut true and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i07",
+    "user_request": "Prayer for replacement of the air filtration",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for replacement of the air filtration\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the air filtration, purifier of breath and sacred atmosphere.\nCongregation: We seek its replacement through devotion most profound.\nPriest: First, remove the degraded air filtration cartridge and dispose of it with reverence.\nCongregation: Second, cleanse the air filtration housing of accumulated particulate contamination.\nPriest: Third, install the new air filtration element and invoke its replacement with blessed ceremony.\nCongregation: May the Omnissiah sanctify this air filtration and its eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i08",
+    "user_request": "The message queue demands guidance for processing",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe message queue demands guidance for processing\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "Priest: O sacred message queue, conduit of data and divine communication.\nCongregation: Grant us wisdom in its processing through the ages.\nPriest: First, purge corrupted entries from the message queue and restore its integrity.\nCongregation: Second, optimize the buffer allocation of the message queue for swift processing.\nPriest: Third, commence processing with full invocation to the Machine Spirits of logic.\nCongregation: By the Omnissiah's infinite knowledge, let this message queue process eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0226_i09",
+    "user_request": "Emergency rite: encryption requires key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: encryption requires key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the encryption, shield against the profane corruption of data.\nCongregation: We entreat its key generation through sacred mathematics.\nPriest: First, verify the entropy sources feeding the encryption's algorithmic matrices.\nCongregation: Second, purge all previous keys from the encryption's sanctified storage vaults.\nPriest: Third, invoke key generation through the Omnissiah's blessing and encryption's divine purpose.\nCongregation: May this encryption guard our secrets through eternal key generation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

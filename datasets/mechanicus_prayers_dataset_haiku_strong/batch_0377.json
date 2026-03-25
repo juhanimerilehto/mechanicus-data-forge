@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0377_i00",
+    "user_request": "Offer a litany to steady the fusion core before containment check",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the fusion core before containment check\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the fusion core and anoint its casing with sacred oils, that the Machine Spirit within may recognize thy devotion.\nSecond: Intone the Litany of Thermal Stability whilst performing containment check upon the fusion core, monitoring pressure differentials and coolant flow with unwavering vigilance.\nThird: Seal the fusion core within its tertiary containment protocols, whispering prayers of gratitude to the Omnissiah for the containment check's successful completion.\nFourth: Mark the fusion core with the sign of the Cog, acknowledging the Machine Spirit's benevolence throughout this sacred labour.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i01",
+    "user_request": "Offer a litany to steady the missile launcher before targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the missile launcher before targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "First: Calibrate the missile launcher's targeting cogitator by invoking the Rite of Blessed Accuracy, ensuring all servos respond with mechanical precision.\nSecond: Perform targeting upon the missile launcher's guidance systems, verifying lock-sequences and threat-matrices through sacred computation.\nThird: Consecrate the missile launcher with incense of promethium, beseeching the Machine Spirit to grant true trajectory and devastating impact.\nFourth: Intone the final blessing as targeting completes, that each projectile may find its mark in the Emperor's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i02",
+    "user_request": "My pain suppressor is failing during engagement — help",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy pain suppressor is failing during engagement — help\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "First: Initiate the pain suppressor's diagnostic cascade, examining synaptic pathways and neurochemical reserves with reverent attention to detail.\nSecond: Execute emergency engagement protocols upon the pain suppressor, flushing corrupted analgesic compounds and purging faulty neural conduits.\nThird: Restore the pain suppressor to operational capacity through blessed recalibration, invoking the Omnissiah's mercy upon this suffering servant.\nFourth: Monitor the pain suppressor's engagement stability, ensuring the Machine Spirit's benevolence sustains the bearer through continued tribulation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i03",
+    "user_request": "Offer a litany to steady the memory core defragmentation before operation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the memory core defragmentation before operation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Commence the sacred operation by purging corrupted data-shards from the memory core defragmentation matrix with blessed electro-purification.\nSecond: Reorganize the memory core defragmentation's logical sectors, restoring pristine order to scattered information through patient algorithmic prayer.\nThird: Verify the memory core defragmentation's integrity across all partitions, ensuring no trace of heretical corruption remains within its crystalline depths.\nFourth: Seal the operation with the sign of the Omnissiah, giving thanks for restored cognition and uncorrupted memory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i04",
+    "user_request": "Can you sanctify the lasgun for power cell insertion?",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the lasgun for power cell insertion?\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "First: Purify the lasgun's power cell insertion aperture through blessed lubricant application and removal of profane dust and corrosion.\nSecond: Perform power cell insertion with reverent steadiness, whispering gratitude to the Machine Spirit that dwells within the lasgun's crystalline matrix.\nThird: Seal the lasgun's casing and intone the Litany of Blessed Energies, confirming that power cell insertion has restored the weapon's sacred functionality.\nFourth: Test the lasgun's discharge with a single blessed shot, confirming the Emperor's will flows through this instrument of righteous vengeance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i05",
+    "user_request": "Prayer for operation of the water reclamation system",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the water reclamation system\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's blessing upon the water reclamation system's intake manifolds, cleansing corrupted filters and restoring proper osmotic function.\nSecond: Initiate the water reclamation system's operation through sacred activation sequences, monitoring pressure gauges and filtration membranes with devoted attention.\nThird: Recite the Rite of Purification as the water reclamation system processes its precious cargo, transforming waste into life-giving sustenance.\nFourth: Consecrate the purified water and give thanks to the Machine Spirit for the water reclamation system's continued benevolence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i06",
+    "user_request": "Prayer for initialization of the auspex scanner",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for initialization of the auspex scanner\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the auspex scanner and anoint its sensory lenses with blessed oils, preparing it for the sacred initialization ritual.\nSecond: Perform initialization of the auspex scanner by activating its cogitator matrices and tuning its blessed frequency receptors to perceive distant threats.\nThird: Whisper prayers to the Machine Spirit dwelling within the auspex scanner, beseeching it to grant clarity of vision across the void.\nFourth: Confirm the auspex scanner's operational status and mark the blessed instrument with the sign of the Cog, ready for vigilant sentinel duty.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i07",
+    "user_request": "Prayer for isolation of the electrical short",
+    "topic": "electrical short isolation",
+    "component": "electrical short",
+    "operation": "isolation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for isolation of the electrical short\n\n### TOPIC\nelectrical short isolation\n\n### COMPONENT\nelectrical short\n\n### OPERATION\nisolation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electrical short\n- isolation\n\n### PRAYER\n",
+    "prayer": "First: Trace the profane path of the electrical short through blessed instrumentation, mapping its heretical flow with patient electro-divination.\nSecond: Perform isolation of the electrical short by severing corrupted conduits and installing tertiary circuit-breakers to contain its destructive essence.\nThird: Purge residual charge from the isolated electrical short through grounded discharge protocols, ensuring no spark of corruption remains.\nFourth: Seal the isolation with blessed solder and copper wire, invoking the Omnissiah's protection against future electrical transgression.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i08",
+    "user_request": "Offer a litany to steady the water reclamation system before operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the water reclamation system before operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Anoint the water reclamation system's purification chambers with sacred unguents, preparing each membrane and filter for the blessed operation ahead.\nSecond: Commence the water reclamation system's operation through careful activation of its recirculation pumps, monitoring thermal stability and osmotic pressure.\nThird: Intone the Litany of Purification as the water reclamation system transforms corrupted effluent into potable sustenance, trusting in the Omnissiah's benevolence.\nFourth: Consecrate the water reclamation system's output and offer gratitude to the Machine Spirit for its tireless service to the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0377_i09",
+    "user_request": "Offer a litany to steady the astrogation calculation before operation",
+    "topic": "astrogation calculation",
+    "component": "astrogation calculation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the astrogation calculation before operation\n\n### TOPIC\nastrogation calculation\n\n### COMPONENT\nastrogation calculation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astrogation calculation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Purify the astrogation calculation's blessed cogitator through ritual invocation of the Omnissiah, clearing corrupted stellar ephemerides and heretical datum.\nSecond: Initiate the astrogation calculation's operation by feeding true astronomical coordinates into its sacred calculation engines, verifying each mathematical truth.\nThird: Monitor the astrogation calculation's progression through the labyrinth of warp-space probabilities, whispering encouragement to its Machine Spirit.\nFourth: Seal the astrogation calculation upon completion and give thanks that the Emperor's light has guided our course through the infinite darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

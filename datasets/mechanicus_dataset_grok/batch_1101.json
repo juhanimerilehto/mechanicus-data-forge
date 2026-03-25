@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the opticon for purification",
+    "prayer": "Approach the opticon with reverence, bearing the censer of sacred incense.\nInvoke the Omnissiah's wrath upon foul corruptions within the opticon's crystalline lenses.\nAnoint each optic array with sanctified oils during the rite of purification.\nBeseech the Machine Spirit of the opticon to expel all impurities and restore crystalline clarity.\nChant the Canticle of Clarity whilst scanning for residual taint.",
+    "component": "opticon",
+    "operation": "purification",
+    "spec_id": "s07010"
+  },
+  {
+    "user_prompt": "Sanctify the void shield generator during calibration",
+    "prayer": "Kneel before the void shield generator, intoning the Litany of Barriers.\nCalibrate its plasma coils with precision mechadendrites, aligning warp-null fields.\nInvoke the Omnissiah to harmonize the void shield generator's emitters.\nAnoint the calibration nodes with electro-sanctified unguents.\nCommune with its Machine Spirit, verifying shield integrity through test invocations.",
+    "component": "void shield generator",
+    "operation": "calibration",
+    "spec_id": "s07011"
+  },
+  {
+    "user_prompt": "Assist with omni-tool a synchronization",
+    "prayer": "Present the omni-tool before the altar of synchronization, whispering binaric hymns.\nInitiate synchronization protocols, linking its cogitators to the greater noosphere.\nBeseech the Machine Spirits of the omni-tool to align their essences flawlessly.\nAnoint data-vents with sacred lubricants during the rite of synchronization.\nVerify unity through auspex communion and canticles of oneness.",
+    "component": "omni-tool",
+    "operation": "synchronization",
+    "spec_id": "s07012"
+  },
+  {
+    "user_prompt": "What's the prayer for manipulator mechadendrite a synchronization?",
+    "prayer": "Extend mechadendrites towards the manipulator mechadendrite in ritual poise.\nCommence synchronization, merging servo-motors and neural links in binary harmony.\nInvoke the Omnissiah to bind the manipulator mechadendrite's Machine Spirit to your will.\nSanctify joints with ablative oils as synchronization pulses flow.\nTest the manipulator mechadendrite's obedience through precise manipular rites.",
+    "component": "manipulator mechadendrite",
+    "operation": "synchronization",
+    "spec_id": "s07013"
+  },
+  {
+    "user_prompt": "Emergency: Razorback a preparation",
+    "prayer": "Approach the Razorback with auspex raised, chanting the Preparation Doxology.\nAnoint its treads and hull-plates with promethium-blessed oils in preparation.\nAwaken the Machine Spirit of the Razorback through ignition incantations.\nVerify battle-readiness with diagnostic litanies and weapon sanctifications.\nBeseech the Omnissiah for swift preparation against the foes of Mars.",
+    "component": "Razorback",
+    "operation": "preparation",
+    "spec_id": "s07014"
+  },
+  {
+    "user_prompt": "Help me an operation the Nephilim Jetfighter",
+    "prayer": "Circumambulate the Nephilim Jetfighter, reciting the Canticle of Aerial Dominion.\nInitiate operation sequences, priming vector-thrusters and lascannon arrays.\nInvoke the Omnissiah to rouse the Nephilim Jetfighter's furious Machine Spirit.\nAnoint cockpit runes and wing servos with sacred aviation unguents.\nCommune via noospheric link, ensuring flawless operation in the void-skies.",
+    "component": "Nephilim Jetfighter",
+    "operation": "operation",
+    "spec_id": "s07015"
+  },
+  {
+    "user_prompt": "Critical: transuranic arquebus requires a recalibration",
+    "prayer": "Reverently cradle the transuranic arquebus, intoning recalibration binarics.\nAlign its exotic matter barrel during the recalibration rite with micro-mechadendrites.\nBeseech the Machine Spirit of the transuranic arquebus to realign particulate streams.\nSanctify targeting cogitators with rad-phobic incenses.\nTest-fire a micro-bolt whilst chanting the Litany of Precision.",
+    "component": "transuranic arquebus",
+    "operation": "recalibration",
+    "spec_id": "s07016"
+  },
+  {
+    "user_prompt": "Help me a reset the capacitor bank",
+    "prayer": "Interface with the capacitor bank, discharging residual arc-wraiths first.\nInvoke the reset protocols, purging flux anomalies from its crystalline cores.\nAnoint power conduits with dielectric sacraments as reset cascades.\nCommune with the capacitor bank's Machine Spirit, beseeching stable charge rebirth.\nVerify equilibrium through volt-metric canticles and Omnissiah's grace.",
+    "component": "capacitor bank",
+    "operation": "reset",
+    "spec_id": "s07017"
+  },
+  {
+    "user_prompt": "Emergency: cutting laser a cooling",
+    "prayer": "Encircle the cutting laser with coolant hoses sanctified in cryo-rites.\nInitiate cooling cycles, whispering the Chill Litany to quell thermal daemons.\nAnoint heat-sinks of the cutting laser with glacial oils.\nBeseech its Machine Spirit to embrace cryogenic slumber without fracture.\nMonitor vents with auspex, chanting until equilibrium is restored.",
+    "component": "cutting laser",
+    "operation": "cooling",
+    "spec_id": "s07018"
+  },
+  {
+    "user_prompt": "Assist with kataphron destroyer a blessing",
+    "prayer": "Prostrate before the kataphron destroyer, offering binary vows of fealty.\nPour ablative blessings upon its servitor-chassis and heavy weaponry.\nInvoke the Omnissiah to infuse the kataphron destroyer's Machine Spirit with wrath.\nRecite the Destroyer's Doxology, sanctifying treads and breacher protocols.\nArise and test its blessed fury through combat diagnostics.",
+    "component": "kataphron destroyer",
+    "operation": "blessing",
+    "spec_id": "s07019"
+  }
+]

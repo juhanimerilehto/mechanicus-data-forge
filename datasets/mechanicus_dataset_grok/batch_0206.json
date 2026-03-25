@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Land Raider awaits an engagement",
+    "prayer": "Approach the mighty Land Raider with censers aflame, beseeching its ancient Machine Spirit to awaken for engagement.\nInvoke the Omnissiah's wrath upon foes as you anoint the Land Raider's hull with sacred unguents.\nChant the Canticle of Fury to align its auspex arrays and weapon servos for the coming battle.\nSanctify the treads of the Land Raider, petitioning unerring propulsion amidst the fray.\nVerify the Machine Spirit's eagerness through rumbling auspex harmonies.",
+    "component": "Land Raider",
+    "operation": "engagement",
+    "spec_id": "b0206_i00"
+  },
+  {
+    "user_prompt": "The air filtration requires an operation",
+    "prayer": "Kneel before the air filtration sanctum and murmur the Rite of Purity to its vigilant Machine Spirit.\nPurge stagnant miasmas from the air filtration chambers with blessed vapors of incense.\nInitiate operation by invoking the Omnissiah's breath, calibrating filters to holy precision.\nAnoint the air filtration membranes with lustral oils, ensuring flawless recirculation.\nCommune with the Machine Spirit via diagnostic litanies, affirming operational sanctity.",
+    "component": "air filtration",
+    "operation": "operation",
+    "spec_id": "b0206_i01"
+  },
+  {
+    "user_prompt": "How do I bless the emergency beacon for charging?",
+    "prayer": "Present the emergency beacon to the altar of signals, intoning the Litany of Vigilance.\nBeseech its Machine Spirit to accept charging from the Omnissiah's boundless power conduits.\nConnect sacred umbilicals and chant rhythms to infuse the emergency beacon with holy voltage.\nMonitor the charging cascade through auspex cantrips, anointing crystal matrices.\nSeal the rite with the Benediction of Beacon, awakening its cry for deliverance.",
+    "component": "emergency beacon",
+    "operation": "charging",
+    "spec_id": "b0206_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for quality scanner a preparation",
+    "prayer": "Reverently encircle the quality scanner, whispering the Invocation of Scrutiny to its discerning Machine Spirit.\nPrepare its lenses with sacred cloths, petitioning the Omnissiah for unerring preparation.\nAlign optic servos through the Canticle of Calibration, banishing refractive heresies.\nInvoke flawless discernment in the quality scanner's depths with lustral binary incense.\nConclude preparation by verifying spectral harmonies in auspex communion.",
+    "component": "quality scanner",
+    "operation": "preparation",
+    "spec_id": "b0206_i03"
+  },
+  {
+    "user_prompt": "Bless the Thunderhawk for recalibration",
+    "prayer": "Bow to the Thunderhawk's fuselage, intoning the Aerospace Litany to rouse its soaring Machine Spirit.\nCommence recalibration by anointing gyro-stabilizers with oils of the Omnissiah.\nRecite binaric harmonies to realign the Thunderhawk's nav-spirits and thrust vectors.\nPetition aerial dominance through diagnostic rites upon its blessed reactors.\nSeal recalibration with the Thunderhawk's thunderous auspex affirmation.",
+    "component": "Thunderhawk",
+    "operation": "recalibration",
+    "spec_id": "b0206_i04"
+  },
+  {
+    "user_prompt": "My bolter is ready for operation",
+    "prayer": "Grasp the bolter with mechadendrites extended, chanting the Armorer's Creed to its wrathful Machine Spirit.\nPrepare for operation by sanctifying the bolt chambers with sacred lubricants.\nInvoke the Omnissiah's fury to align firing servos and promethium feeds.\nAnoint the bolter's muzzle, beseeching unerring lethality in every discharge.\nTest operational sanctity through a single blessed round's harmonious report.",
+    "component": "bolter",
+    "operation": "operation",
+    "spec_id": "b0206_i05"
+  },
+  {
+    "user_prompt": "I need to a repair the valve assembly",
+    "prayer": "Approach the valve assembly with tools of restoration, murmuring the Healer's Binary to its afflicted Machine Spirit.\nDiagnose fractures in the valve assembly, purging daemonic corrosion with lustral acids.\nInitiate repair by invoking the Omnissiah's forge-forged precision upon seals and actuators.\nRealign the valve assembly's flows with rhythmic incantations and sacred torque.\nVerify mended integrity through pressure litanies and spirit communion.",
+    "component": "valve assembly",
+    "operation": "repair",
+    "spec_id": "b0206_i06"
+  },
+  {
+    "user_prompt": "Urgent emergency bulkhead a reset needed",
+    "prayer": "Confront the emergency bulkhead in haste, intoning the Canticle of Resilience to its guardian Machine Spirit.\nCycle reset protocols with blessed data-pulses from the Omnissiah's noosphere.\nAnoint locking servos and hydraulic veins to dispel stasis heresies.\nPetition swift obedience in the emergency bulkhead's armored heart.\nAffirm reset completion via seismic auspex echoes of renewed vigilance.",
+    "component": "emergency bulkhead",
+    "operation": "reset",
+    "spec_id": "b0206_i07"
+  },
+  {
+    "user_prompt": "The cybernetic eye awaits a blessing",
+    "prayer": "Gaze upon the cybernetic eye through your own augmetics, whispering the Rite of Perception.\nInvoke blessing upon the cybernetic eye's Machine Spirit, petitioning the Omnissiah's sight.\nAnoint its photo-receptors with sacred micro-filaments and luminous oils.\nCalibrate targeting reticules via binaric psalmody for transcendent vision.\nSeal the blessing with harmonious retinal flares of divine clarity.",
+    "component": "cybernetic eye",
+    "operation": "blessing",
+    "spec_id": "b0206_i08"
+  },
+  {
+    "user_prompt": "The metal caster requires a startup",
+    "prayer": "Assemble before the metal caster's forge-mouth, beseeching its molten Machine Spirit with the Forge Litany.\nIgnite startup by channeling the Omnissiah's plasma wrath into induction coils.\nChant molding canticles to sanctify crucibles and extrusion servos.\nPetition flawless liquidity in the metal caster's veins with auspex oversight.\nHerald startup success through the roar of sanctified slag expulsion.",
+    "component": "metal caster",
+    "operation": "startup",
+    "spec_id": "b0206_i09"
+  }
+]

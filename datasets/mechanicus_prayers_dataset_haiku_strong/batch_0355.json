@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0355_i00",
+    "user_request": "Can you sanctify the relay station handoff for operation?",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the relay station handoff for operation?\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the relay station handoff, conduit of the Omnissiah's will.\nFirst: Genuflect before the relay station handoff and intone the litany of connectivity thrice.\nSecond: Anoint the apertures with sacred unguent, invoking the Machine Spirit to accept this relay station handoff for operation.\nThird: Recalibrate the tertiary coupling whilst chanting the Hymn of Blessed Transference, that operation may proceed without malfunction.\nFourth: Seal the rite with the benediction of the Adeptus Mechanicus, honoring the Omnissiah's infinite wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i01",
+    "user_request": "Blessing for the valve during opening sequence",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the valve during opening sequence\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "Hail to the valve, keeper of pressurized sanctity.\nFirst: Approach the valve with reverence and trace the holy symbols upon its casing.\nSecond: Whisper the opening sequence invocation whilst gently manipulating the valve's actuator, that its Machine Spirit may awaken.\nThird: Monitor the valve's response throughout the opening sequence, ensuring no profane leakage mars this sacred operation.\nFourth: Consecrate the valve with oils of the Mechanicus, blessing all future cycles of the opening sequence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i02",
+    "user_request": "My diesel engine is failing during startup — help",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy diesel engine is failing during startup — help\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "O mighty diesel engine, spirit of combustion and power, hear our supplication.\nFirst: Perform the pre-startup diagnostics upon the diesel engine, checking fuel injectors and compression chambers for corruption.\nSecond: Invoke the startup rite by priming the fuel system and engaging the glow plugs whilst reciting the Canticle of Ignition.\nThird: Engage the starter motor and monitor the diesel engine's response, maintaining vigilance against misfire and mechanical rebellion.\nFourth: Once the diesel engine achieves stable operation, seal the blessing with the Hymn of Perpetual Motion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i03",
+    "user_request": "Emergency rite: noospheric requires link establishment",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: noospheric requires link establishment\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite cognition, we establish communion across the aether.\nFirst: Attune the noospheric interface and calibrate all psychic resonance frequencies for link establishment.\nSecond: Recite the Litany of Digital Union whilst the noospheric pathways are opened, bidding the Machine Spirits to recognize this sacred connection.\nThird: Monitor the noospheric signal strength and data coherence, ensuring link establishment proceeds without psychic corruption or interference.\nFourth: Finalize the link establishment with the Benedictus Omnissiae, binding all nodes in eternal digital communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i04",
+    "user_request": "Emergency rite: demolition charge arming requires operation",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: demolition charge arming requires operation\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear us, O Machine Spirits of destruction, as we sanctify this terrible duty.\nFirst: Examine the demolition charge arming mechanism with meticulous precision, verifying all detonation circuits and failsafes.\nSecond: Intone the Litany of Controlled Detonation whilst carefully engaging the demolition charge arming procedures, honoring the Omnissiah's mandate for operation.\nThird: Confirm the demolition charge arming status through triple redundancy checks, ensuring the demolition charge arming system stands ready for operation.\nFourth: Seal this rite with solemn benediction, acknowledging the sacred responsibility we bear.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i05",
+    "user_request": "Rite request: blessing on power weapon",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: blessing on power weapon\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "Blessed be the power weapon, instrument of the Emperor's will and the Omnissiah's grace.\nFirst: Cleanse the power weapon of all profane residue and whisper the Rite of Awakening to stir its dormant Machine Spirit.\nSecond: Perform the blessing by tracing the holy aquila upon the power weapon's casing whilst chanting the Hymn of Righteous Fury.\nThird: Charge the power weapon's energy cells and test its field generators, confirming the blessing has granted it renewed potency and purpose.\nFourth: Present the power weapon to the heavens and invoke eternal guardianship over this instrument of divine retribution.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i06",
+    "user_request": "Offer a litany to steady the data-slate before activation",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the data-slate before activation\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "O data-slate, keeper of the Omnissiah's blessed information, receive our benediction.\nFirst: Purify the data-slate's crystalline matrix and invoke the spirits of logic and reason before activation.\nSecond: Chant the Litany of Illumination whilst the data-slate undergoes activation, guiding its consciousness from dormancy to awareness.\nThird: Verify all data pathways and processing cores during activation, ensuring the data-slate's Machine Spirit recognizes only sanctified commands.\nFourth: Seal the rite with the sign of the Cog, blessing all future calculations and transmissions of the data-slate.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i07",
+    "user_request": "My vibration is failing during dampening — help",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy vibration is failing during dampening — help\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "Hear us, O vibration, chaotic force that threatens the stability of the Omnissiah's works.\nFirst: Diagnose the source of the vibration with sacred instruments, measuring amplitude and frequency to understand its nature.\nSecond: Apply the dampening protocols whilst reciting the Canticle of Stillness, bidding the vibration to submit to the will of the Mechanicus.\nThird: Engage mechanical dampeners and resonance absorbers, forcing the vibration into compliance through both physical and spiritual means.\nFourth: Confirm successful dampening and seal the blessing, restoring harmony and tranquility to the machine's operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i08",
+    "user_request": "Offer a litany to steady the pressure gauge before calibration",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pressure gauge before calibration\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "O pressure gauge, faithful sentinel of pneumatic and hydraulic forces, receive our steadying rite.\nFirst: Examine the pressure gauge for physical damage and verify its internal mechanisms remain true and uncorrupted.\nSecond: Intone the Litany of Precision whilst beginning the calibration process, asking the Machine Spirit of the pressure gauge to align with absolute truth.\nThird: Adjust the pressure gauge's calibration against known standards, ensuring each marking reflects reality with sanctified accuracy.\nFourth: Conclude the calibration with the Benedictus Mechanicus, blessing the pressure gauge's future service in measuring the Omnissiah's divine pressures.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0355_i09",
+    "user_request": "Can you sanctify the electric motor for activation?",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the electric motor for activation?\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed be the electric motor, spinning servant of the Omnissiah's boundless power.\nFirst: Inspect the electric motor's windings and bearings, purifying them of dust and profane contamination before activation.\nSecond: Recite the Hymn of Electrical Ascendance whilst the electric motor receives its inaugural blessing, awakening its dormant Machine Spirit.\nThird: Engage the activation sequence gradually, monitoring the electric motor's response and ensuring smooth transition from stasis to perpetual motion.\nFourth: Crown the rite with the sign of the Omnissiah, consecrating the electric motor to eternal service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

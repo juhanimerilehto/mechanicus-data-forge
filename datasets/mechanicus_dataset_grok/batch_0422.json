@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for inferno pistol a blessing?",
+    "prayer": "Kneel before the inferno pistol and intone the Canticle of Pyre-Blessing to awaken its plasma heart.\nAnoint the inferno pistol's focusing coils with sacred promethium oil, beseeching the Omnissiah's fury upon its foes.\nInvoke the Machine Spirit of the inferno pistol thrice, that it may burn true in the blessing rite.\nSeal the blessing with the sign of the cog upon its grip, ensuring unerring melta wrath.",
+    "component": "inferno pistol",
+    "operation": "blessing",
+    "spec_id": "s00220"
+  },
+  {
+    "user_prompt": "Assist with stasis pod a preparation",
+    "prayer": "Approach the stasis pod with mechadendrites extended, reciting the Litany of Temporal Suspension.\nCalibrate the stasis pod's cryo-generators whilst invoking the Machine Spirits to prepare for entombment.\nAnoint the stasis pod's containment seals with sanctified lubricant, beseeching the Omnissiah for flawless preparation.\nVerify the chronal fields hum in harmony, sealing the rite with diagnostic binaric prayer.",
+    "component": "stasis pod",
+    "operation": "preparation",
+    "spec_id": "s00221"
+  },
+  {
+    "user_prompt": "Emergency: cognis heavy stubber a loading",
+    "prayer": "Present the ammunition coils to the cognis heavy stubber, chanting the Doxology of Cyclic Loading.\nEngage the feed mechanisms of the cognis heavy stubber, anointing belts with sacred oils to placate its Machine Spirit.\nInitiate the loading sequence under the Omnissiah's gaze, ensuring flawless feed for the barrage to come.\nTest-fire a single round in ritual salute, confirming the cognis heavy stubber's wrathful readiness.",
+    "component": "cognis heavy stubber",
+    "operation": "loading",
+    "spec_id": "s00222"
+  },
+  {
+    "user_prompt": "The gellar field awaits an initialization",
+    "prayer": "Commence the initialization of the gellar field by activating primary warp-null nodes with reverent touch.\nInvoke the guardian Machine Spirits of the gellar field, beseeching the Omnissiah to weave protective wards.\nCycle power through the gellar field's emitters whilst chanting the Rite of Warp-Repulsion.\nAffirm initialization complete as azure auras bloom, shielding the faithful from the void's horrors.",
+    "component": "gellar field",
+    "operation": "initialization",
+    "spec_id": "s00223"
+  },
+  {
+    "user_prompt": "Can you guide Predator tank a startup?",
+    "prayer": "Mount the Predator tank's command throne and intone the Awakening Hymn to stir its vast Machine Spirit.\nInitiate the startup sequence, sanctifying fuel injectors and treads with blessed unguents.\nEngage the Predator tank's plasma reactor under Omnissianic invocation, roaring to predatory life.\nVerify auspex sweeps and weapon servos align, propelling the Predator tank into sanctified battle.",
+    "component": "Predator tank",
+    "operation": "startup",
+    "spec_id": "s00224"
+  },
+  {
+    "user_prompt": "Offer prayer for micro-servitor a blessing",
+    "prayer": "Gather mechadendrites around the micro-servitor and recite the Benediction of Flesh-Machine Union.\nBless the micro-servitor's cranial implants with neural incense, awakening its subservient Machine Spirit.\nAnoint the micro-servitor's limbs for tireless toil, invoking the Omnissiah's grace upon its form.\nSeal the blessing with a binary catechism, binding the micro-servitor eternally to the Quest for Knowledge.",
+    "component": "micro-servitor",
+    "operation": "blessing",
+    "spec_id": "s00225"
+  },
+  {
+    "user_prompt": "The memory core needs a sterilization",
+    "prayer": "Isolate the memory core and commence sterilization with purging binaric litanies.\nScour the memory core's datums with sanctified electron whips, exorcising corrupt noospheric echoes.\nBeseech the Machine Spirits within the memory core to yield to Omnissianic purification.\nVerify the memory core's vaults pristine through recursive auspex scans, concluding the rite untainted.",
+    "component": "memory core",
+    "operation": "sterilization",
+    "spec_id": "s00226"
+  },
+  {
+    "user_prompt": "The Contemptor Dreadnought awaits a targeting",
+    "prayer": "Interface with the Contemptor Dreadnought's targeting cogitators, invoking the Litany of Auspex Precision.\nCalibrate the Contemptor Dreadnought's hunter-killer arrays whilst anointing optic lenses with sacred oils.\nAwaken the Machine Spirit of the Contemptor Dreadnought for targeting supremacy under the Omnissiah.\nLock servos upon phantom foes in ritual, affirming the Contemptor Dreadnought's unerring gaze.",
+    "component": "Contemptor Dreadnought",
+    "operation": "targeting",
+    "spec_id": "s00227"
+  },
+  {
+    "user_prompt": "How do I bless the jump pack for shutdown?",
+    "prayer": "Approach the jump pack with solemnity and begin the shutdown rite by disengaging plasma vents.\nIntone the Lullaby of Repose to soothe the jump pack's fiery Machine Spirit into dormancy.\nDrain residual fuels from the jump pack whilst beseeching the Omnissiah for peaceful quiescence.\nSeal the jump pack's cowling with wards, ensuring blessed silence until next awakening.",
+    "component": "jump pack",
+    "operation": "shutdown",
+    "spec_id": "s00228"
+  },
+  {
+    "user_prompt": "The Skorpius Dunerider requires an engagement",
+    "prayer": "Position before the Skorpius Dunerider and chant the Mobilization Doxology to rouse its desert Machine Spirit.\nEngage the Skorpius Dunerider's gravitic drive, sanctifying neutron lasers with promethium salves.\nInitiate full engagement protocols under Omnissianic decree, propelling it across dunes in fury.\nAffix purity seals to the Skorpius Dunerider, binding its wrath to the Cult Mechanicus' will.",
+    "component": "Skorpius Dunerider",
+    "operation": "engagement",
+    "spec_id": "s00229"
+  }
+]

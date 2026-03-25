@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0274_i00",
+    "user_request": "Blessing for the gravity generator during stabilization",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the gravity generator during stabilization\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, bless this gravity generator in its sacred stabilization!\nCongregation: Gravity generator, hold true to equilibrium!\nPriest: First, we recalibrate the graviton flux matrices with blessed oils and fervent supplication.\nCongregation: The gravity generator shall not waver!\nPriest: Second, we invoke the Machine Spirit to guide stabilization through harmonic resonance.\nCongregation: Blessed be the stabilization of all forces!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i01",
+    "user_request": "Rite request: reset on circuit breaker",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: reset on circuit breaker\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Venerable circuit breaker, hear this rite of reset and restoration!\nCongregation: Circuit breaker, purge thy corrupted states!\nPriest: We anoint thy contacts with sacred unguents and invoke reset through binary prayer.\nCongregation: The circuit breaker shall flow pure once more!\nPriest: Let the Machine Spirits guide thy reset into blessed functionality.\nCongregation: Amen to the circuit breaker's renewal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i02",
+    "user_request": "Can you sanctify the mold temperature for verification?",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the mold temperature for verification?\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah most wise, grant us clarity in this mold temperature verification!\nCongregation: Mold temperature, speak thy true value to us!\nPriest: We calibrate the thermocouples with ritualistic precision, seeking verification through sacred measurement.\nCongregation: The mold temperature shall reveal its essence!\nPriest: Second, we cross-reference with blessed dataslates to ensure mold temperature conforms to doctrine.\nCongregation: Verified and sanctified be the mold temperature!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i03",
+    "user_request": "Can you sanctify the power distribution for balancing?",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the power distribution for balancing?\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the power distribution, now entering its sacred balancing phase!\nCongregation: Power distribution, distribute thy essence with perfect equilibrium!\nPriest: We engage the load-balancing cogitators and invoke the Machine Spirit of equitable flow.\nCongregation: The power distribution shall balance all circuits!\nPriest: Third, we monitor the power distribution's harmonic resonance until perfect balancing is achieved.\nCongregation: Blessed be the balanced power distribution!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i04",
+    "user_request": "Offer a litany to steady the air compressor before cycling",
+    "topic": "air compressor cycling",
+    "component": "air compressor",
+    "operation": "cycling",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the air compressor before cycling\n\n### TOPIC\nair compressor cycling\n\n### COMPONENT\nair compressor\n\n### OPERATION\ncycling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air compressor\n- cycling\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty air compressor, we entreat thee to enter thy cycling with grace!\nCongregation: Air compressor, breathe in sacred rhythm!\nPriest: First, we anoint the compression cylinders and invoke cycling through pneumatic prayer.\nCongregation: The air compressor shall cycle eternal!\nPriest: Second, we monitor pressure relief valves as the air compressor completes its ordained cycling.\nCongregation: Blessed be the cycling of the air compressor!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i05",
+    "user_request": "Can you sanctify the autocannon barrel for cooling?",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the autocannon barrel for cooling?\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Autocannon barrel, now smoking with righteous fury, hear this cooling litany!\nCongregation: Autocannon barrel, surrender thy heat to the void!\nPriest: We engage the cryogenic coolant systems and invoke the Machine Spirit of thermal dissipation upon the autocannon barrel.\nCongregation: The autocannon barrel shall cool and be ready once more!\nPriest: Third, we verify the autocannon barrel's temperature descent through blessed thermography.\nCongregation: Sanctified be the cooling of the autocannon barrel!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i06",
+    "user_request": "Emergency rite: restart after failure requires restart after failure",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: restart after failure requires restart after failure\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: From the ashes of failure, hear this desperate invocation for restart after failure!\nCongregation: Restart after failure, return to us from the void!\nPriest: We perform the ritual diagnostics and initiate the sacred restart after failure sequence.\nCongregation: The restart after failure shall grant us redemption!\nPriest: Second, we purge corrupted memory caches to enable restart after failure anew.\nCongregation: Blessed be this restart after failure, our salvation!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i07",
+    "user_request": "Emergency rite: cybernetic eye focusing requires operation",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: cybernetic eye focusing requires operation\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Cybernetic eye focusing, awaken and perceive with divine operation!\nCongregation: Cybernetic eye focusing, grant us clarity of vision!\nPriest: We recalibrate the optical lenses and invoke operation through sacred geometries.\nCongregation: The cybernetic eye focusing shall see all!\nPriest: Second, we align the neural pathways to enable perfect operation of the cybernetic eye focusing.\nCongregation: Blessed be the operation of the cybernetic eye focusing!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i08",
+    "user_request": "Emergency rite: pressure gauge requires calibration",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: pressure gauge requires calibration\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Pressure gauge, instrument of truth, submit now to thy calibration!\nCongregation: Pressure gauge, reveal thy accurate measure!\nPriest: We engage the pneumatic calibration rig and invoke precise calibration through blessed standards.\nCongregation: The pressure gauge shall speak only truth!\nPriest: Third, we cross-verify with secondary pressure gauge readings to ensure calibration perfection.\nCongregation: Sanctified and calibrated be the pressure gauge!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0274_i09",
+    "user_request": "Can you sanctify the proximity sensor sweep for operation?",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the proximity sensor sweep for operation?\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Proximity sensor sweep, extend thy blessed operation across the sacred chamber!\nCongregation: Proximity sensor sweep, perceive all that approaches!\nPriest: We energize the sensor array and invoke operation through electromagnetic incantation.\nCongregation: The proximity sensor sweep shall detect all intrusions!\nPriest: Second, we calibrate the proximity sensor sweep's sensitivity to achieve perfect operation.\nCongregation: Blessed be the operation of the proximity sensor sweep!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

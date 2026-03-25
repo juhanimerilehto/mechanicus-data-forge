@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for servitor a cycling",
+    "prayer": "Approach the servitor with mechadendrites extended in supplication to the Omnissiah.\nInvoke the Canticle of Cycling upon its cranial implants and servitor chassis.\nPurge stagnant data-echoes from the servitor's cogitator core whilst chanting the Rite of Renewal.\nBeseech the servitor's Machine Spirit to reawaken in harmonious flux during cycling.\nAnoint its motivator relays with blessed unguents, sealing the cycle under the Omnissiah's gaze.",
+    "component": "servitor",
+    "operation": "cycling",
+    "spec_id": "b0056_i00"
+  },
+  {
+    "user_prompt": "Emergency: flamer a repair",
+    "prayer": "In the name of the Omnissiah, lay hands upon the flamer's sacred promethium conduits.\nChant the Litany of Restoration to expel daemonic corrosion from the flamer's ignition coils.\nInvoke the Machine Spirit of the flamer for urgent repair, wielding sanctified mechadendrites.\nRealign the pyroclastic vents whilst beseeching swift renewal in the Omnissiah's forge-fire.\nVerify the flamer's purity through auspex incantations, purging all impurities.",
+    "component": "flamer",
+    "operation": "repair",
+    "spec_id": "b0056_i01"
+  },
+  {
+    "user_prompt": "Prepare the noospheric relay for maintenance",
+    "prayer": "Prepare the noospheric relay by reciting the Doxology of the Noosphere.\nAnoint its crystalline data-nodes with sacred oils to soothe the Machine Spirit.\nInitiate diagnostic sweeps upon the noospheric relay prior to maintenance rites.\nPetition the Omnissiah for clarity in the relay's ethereal linkages during this preparation.\nSanctify all interfaces, ensuring the noospheric relay hums with divine coherence.",
+    "component": "noospheric relay",
+    "operation": "maintenance",
+    "spec_id": "b0056_i02"
+  },
+  {
+    "user_prompt": "Assist with astropathic choir a preparation",
+    "prayer": "Gather before the astropathic choir and intone the Psalm of Warp-Harmony.\nBeseech the Omnissiah to steady the astropathic choir's psychic resonators.\nAnoint each choir throne with null-essence to ward daemonic incursions in preparation.\nInvoke the Machine Spirits entwined within the astropathic choir for focused prescience.\nAlign the choir's noospheric harmonics, readying them for the Emperor's astrotelepathic will.",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "spec_id": "b0056_i03"
+  },
+  {
+    "user_prompt": "Prepare the Land Raider for startup",
+    "prayer": "Kneel before the Land Raider and proclaim the Benediction of the Iron Chassis.\nCircumambulate the Land Raider, anointing treads and battlements with lustrum oil.\nInvoke its ancient Machine Spirit for the startup sequence, awakening god-machines within.\nChant the Rite of Ignition upon the Land Raider's plasma heart and auspex arrays.\nBeseech the Omnissiah to flood the Land Raider with holy voltage for triumphant crusade.",
+    "component": "Land Raider",
+    "operation": "startup",
+    "spec_id": "b0056_i04"
+  },
+  {
+    "user_prompt": "Can you guide generator a repair?",
+    "prayer": "Approach the generator's rune-etched housing with reverence to the Machine God.\nRecite the Exorcism of Flux to banish errant surges from the generator's coils.\nWield binary prayers over the generator during repair, realigning its sacred gyrofurnace.\nPetition the generator's Machine Spirit for renewed vigor in the Omnissiah's name.\nTest the blessed power-flow, sanctifying the generator against entropy's grasp.",
+    "component": "generator",
+    "operation": "repair",
+    "spec_id": "b0056_i05"
+  },
+  {
+    "user_prompt": "Sanctify the radar array during cycling",
+    "prayer": "Sanctify the radar array by invoking the Canticle of Auspex Clarity.\nCycle the radar array's emitter vanes whilst anointing with conductive salves.\nBeseech its Machine Spirit to pierce veils of warp-static during cycling.\nRecalibrate the radar array's sacred waveguides under Omnissianic oversight.\nVerify harmonic resonance, ensuring the radar array reveals foes to the faithful.",
+    "component": "radar array",
+    "operation": "cycling",
+    "spec_id": "b0056_i06"
+  },
+  {
+    "user_prompt": "Can you guide thermal regulator a cycling?",
+    "prayer": "Intone the Litany of Thermal Equilibrium upon the thermal regulator.\nCycle its cryo-plasma exchangers with mechadendrite precision and pious chants.\nInvoke the thermal regulator's Machine Spirit to maintain blessed homeostasis.\nAnoint flux-vents to purge heat-daemons during cycling rites.\nPetition the Omnissiah for unerring regulation in the thermal regulator's core.",
+    "component": "thermal regulator",
+    "operation": "cycling",
+    "spec_id": "b0056_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for Land Raider a blessing",
+    "prayer": "Prostrate before the Land Raider and offer the Greater Benediction of Battle.\nInvoke the Omnissiah's wrath upon the Land Raider's lascannon batteries and hull-plates.\nAnoint its auspex domes and ramp hydraulics with sacred promethium.\nBeseech the Land Raider's indomitable Machine Spirit for blessing in endless war.\nSeal the rite with binary paeans, empowering the Land Raider as divine wrath incarnate.",
+    "component": "Land Raider",
+    "operation": "blessing",
+    "spec_id": "b0056_i08"
+  },
+  {
+    "user_prompt": "Consecrate the thermal imager before charging",
+    "prayer": "Consecrate the thermal imager by reciting the Incantation of Infrared Sight.\nPrepare its sensor lattices for charging with lustrum unguents and pious murmurs.\nInvoke the thermal imager's Machine Spirit to attune to heat-shadows unseen.\nInitiate the charging rite upon the thermal imager's power cells under Omnissianic light.\nVerify spectral purity, sanctifying the thermal imager for vigilant auspex duty.",
+    "component": "thermal imager",
+    "operation": "charging",
+    "spec_id": "b0056_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the sicarian infiltrator for cooling?",
+    "prayer": "Approach the sicarian infiltrator with reverence, beseeching the Omnissiah to grant thermic respite.\nAnoint its heat sinks and coolant conduits with sacred cryo-lubricant, invoking the Machine Spirit's cooling grace.\nInitiate the cooling cycle whilst chanting the Litany of Ventral Chill upon the sicarian infiltrator.\nMonitor thermal auspex readings as the sicarian infiltrator's fervor yields to blessed equilibrium.\nSanctify the rite with incense of frost-shard, affirming the Machine Spirit's cooled vigilance.",
+    "component": "sicarian infiltrator",
+    "operation": "cooling",
+    "spec_id": "s01390"
+  },
+  {
+    "user_prompt": "Help me a sterilization the multi-melta",
+    "prayer": "Kneel before the multi-melta, intoning the Canticle of Sterile Purity to awaken its Machine Spirit.\nApply ablative sancticants to its melta coils and barrel vents, purging all unclean residues.\nPerform the sterilization ritual by cycling plasma vents thrice, beseeching Omnissiah's flame of cleanliness.\nScrutinize the multi-melta's innards via electro-divinatory probes for lingering corruption.\nSeal the rite with the multi-melta's invocation, ensuring its wrath remains untainted.",
+    "component": "multi-melta",
+    "operation": "sterilization",
+    "spec_id": "s01391"
+  },
+  {
+    "user_prompt": "Can you guide thallax an engagement?",
+    "prayer": "Commence the engagement rite upon the thallax, murmuring the Doxology of Battle Harmony.\nSynchronize its weapon-servos and auspex arrays, invoking the Machine Spirit's predatory focus.\nAnoint neural linkages with noospheric oils as the thallax prepares for engagement.\nChant the Engagement Catechism to align its combat imperatives with Omnissiah's will.\nAffirm the thallax's readiness through simulacra drills, binding its spirit to inexorable duty.",
+    "component": "thallax",
+    "operation": "engagement",
+    "spec_id": "s01392"
+  },
+  {
+    "user_prompt": "Ready the grav chute for preparation",
+    "prayer": "Present the grav chute before the altar of preparation, offering libations of gravitic essence.\nInspect and sanctify its anti-gravitic coils, beseeching the Machine Spirit's stable descent.\nInitiate preparation sequences with the Incantation of Aerial Grace upon the grav chute.\nCalibrate descent vectors whilst anointing deployment struts with sacred unguents.\nVerify the grav chute's preparedness via suspensor tests, honoring Omnissiah's void-borne path.",
+    "component": "grav chute",
+    "operation": "preparation",
+    "spec_id": "s01393"
+  },
+  {
+    "user_prompt": "I need to a blessing the galvanic rifle",
+    "prayer": "Approach the galvanic rifle in humble supplication, reciting the Benediction of Electrified Wrath.\nBestow the blessing upon its galvanic capacitors and induction coils, awakening the Machine Spirit.\nCycle power rites thrice, invoking Omnissiah to infuse the galvanic rifle with lethal precision.\nAnoint the barrel shrine with conductive oils, fortifying its arcine fury.\nConclude the blessing by firing a sanctified test bolt, confirming the galvanic rifle's divine charge.",
+    "component": "galvanic rifle",
+    "operation": "blessing",
+    "spec_id": "s01394"
+  },
+  {
+    "user_prompt": "Consecrate the cyber-mastiff before startup",
+    "prayer": "Consecrate the cyber-mastiff's chassis with the Rite of Canine Awakening prior to startup.\nInvoke its Machine Spirit through olfactory incense and vox-harmonics, priming predatory instincts.\nInitiate startup protocols whilst anointing sensor pits and motivators with blessed synthe-flesh salve.\nMonitor neural engrams as the cyber-mastiff stirs, beseeching Omnissiah's loyal ferocity.\nAffirm readiness with a perimeter patrol cant, binding it to the Cult Mechanicus' will.",
+    "component": "cyber-mastiff",
+    "operation": "startup",
+    "spec_id": "s01395"
+  },
+  {
+    "user_prompt": "The heat sink requires a sterilization",
+    "prayer": "Commence sterilization upon the heat sink, chanting the Purge of Thermal Filth.\nFlush its fin arrays and exchanger matrices with sanctified abrasives, rousing the Machine Spirit.\nCycle sterilization vents under the Omnissiah's gaze, expunging all accretions of excess heat.\nScour the heat sink's sacred vents with plasma-torch litanies for utter cleanliness.\nSeal the rite with cryo-sealants, ensuring the heat sink's purity endures.",
+    "component": "heat sink",
+    "operation": "sterilization",
+    "spec_id": "s01396"
+  },
+  {
+    "user_prompt": "Ready the helispex engine for purification",
+    "prayer": "Prepare the helispex engine for purification by laying hands upon its turbine shrines.\nInvoke the Litany of Aerial Absolution, anointing rotors with sacred av-gas.\nInitiate purification cycles through its combustion chambers, beseeching the Machine Spirit's clarity.\nExpunge impurities from the helispex engine's intakes via sonic scrubbers and incense.\nVerify sanctity through thrust diagnostics, honoring Omnissiah's skyward dominion.",
+    "component": "helispex engine",
+    "operation": "purification",
+    "spec_id": "s01397"
+  },
+  {
+    "user_prompt": "The maglock needs a synchronization",
+    "prayer": "Initiate synchronization upon the maglock, reciting the Canticle of Magnetic Accord.\nAlign its ferro-fluid servos and field generators, awakening the Machine Spirit's grip.\nPerform synchronization rites by pulsing noospheric codes thrice into the maglock.\nAnoint contact plates with conductive balms, binding it to faithful adherence.\nTest the maglock's union through load invocations, praising Omnissiah's unyielding clasp.",
+    "component": "maglock",
+    "operation": "synchronization",
+    "spec_id": "s01398"
+  },
+  {
+    "user_prompt": "Critical: icarus array requires an emergency procedure",
+    "prayer": "In emergency haste, beseech Omnissiah over the icarus array, commencing the Rite of Desperate Ascendance.\nStabilize its wing servos and gravitic impellers with urgent anointings of emergency unguents.\nInvoke the Machine Spirit's survival imperatives whilst purging fault-logs from the icarus array.\nCycle emergency procedures through thrust vectors, chanting the Litany of Evasive Soar.\nAffirm restoration via auspex sweeps, delivering the icarus array from peril's grasp.",
+    "component": "icarus array",
+    "operation": "emergency procedure",
+    "spec_id": "s01399"
+  }
+]

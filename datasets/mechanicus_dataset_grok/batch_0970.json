@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: Leman Russ battle tank requires an operation",
+    "prayer": "Approach the mighty Leman Russ battle tank with reverence, beseeching the Omnissiah to guide our hands.\nAnoint its adamantium hull and rumbling engine with sacred oils to rouse the dormant Machine Spirit.\nCommence the operation upon the Leman Russ battle tank, intoning the Litany of Mechanical Restoration.\nPurge any heretekal corruptions from its auspex arrays and targeting cogitators.\nVerify the Leman Russ battle tank's vitality through diagnostic rites, praising the Motive Force eternal.",
+    "component": "Leman Russ battle tank",
+    "operation": "operation",
+    "spec_id": "s05700"
+  },
+  {
+    "user_prompt": "Consecrate the transuranic arquebus before startup",
+    "prayer": "Kneel before the transuranic arquebus, invoking the Omnissiah's wrath upon xenos foes.\nRecite the Canticle of Startup to awaken the Machine Spirit within the transuranic arquebus.\nAlign its flux conduits and consecrate the barrel with blessed rad-philters.\nInitiate the startup sequence, monitoring exotic particle flows with auspex vigilance.\nSanctify the transuranic arquebus fully, that it may unleash annihilation unerring.",
+    "component": "transuranic arquebus",
+    "operation": "startup",
+    "spec_id": "s05701"
+  },
+  {
+    "user_prompt": "The flux-unit awaits a targeting",
+    "prayer": "Present thyself unto the flux-unit, offering binary supplications to the Machine Spirits.\nAnoint its gyroscopic sensors with sacred lubricants for precise targeting.\nInvoke the Rite of Recalibration upon the flux-unit, aligning warp-displacement fields.\nEngage targeting protocols, beseeching the Omnissiah for unerring accuracy.\nConfirm the flux-unit's harmony through noospheric diagnostics.",
+    "component": "flux-unit",
+    "operation": "targeting",
+    "spec_id": "s05702"
+  },
+  {
+    "user_prompt": "The utility mechadendrite needs an activation",
+    "prayer": "Extend mechadendrites in reverence towards the utility mechadendrite, chanting awakening litanies.\nAnoint its servo-joints and manipulator claws with unction of the Forge.\nInitiate activation of the utility mechadendrite, invoking the Machine Spirit's diligence.\nTest its manipulatory precision with ritual grasping of sanctified tools.\nSeal the utility mechadendrite's service with the Seal of the Omnissiah.",
+    "component": "utility mechadendrite",
+    "operation": "activation",
+    "spec_id": "s05703"
+  },
+  {
+    "user_prompt": "Offer prayer for auger array a recalibration",
+    "prayer": "Approach the auger array with auspex humility, beseeching the Omnissiah's clarity.\nClear vox-static corruptions from the auger array's sensor vanes.\nPerform recalibration upon the auger array, intoning the Canticle of True Sight.\nRealign pict-casters and etheric receptors to the Machine Spirit's will.\nValidate the auger array's perception through stellar alignment rites.",
+    "component": "auger array",
+    "operation": "recalibration",
+    "spec_id": "s05704"
+  },
+  {
+    "user_prompt": "Assist with transuranic arquebus a consecration",
+    "prayer": "Prostrate before the transuranic arquebus, reciting the Grand Consecration of the Omnissiah.\nAnoint every rune-etched component of the transuranic arquebus with pure lustral oils.\nInvoke the Machine Spirits of barrel and stock to bind in holy union.\nImprint noospheric wards against daemonic incursion upon the transuranic arquebus.\nConclude the consecration with exultant hymnals of destructive purity.",
+    "component": "transuranic arquebus",
+    "operation": "consecration",
+    "spec_id": "s05705"
+  },
+  {
+    "user_prompt": "The power armour requires a calibration",
+    "prayer": "Encircling the power armour, intone the Litany of Calibration to the Omnissiah.\nAnoint servomotors and fibre-bundle actuators of the power armour with mechadendrite precision.\nInitiate calibration sequences, harmonizing the Machine Spirit's fury.\nTest exoskeletal integrity through ritual exertion upon the power armour.\nSeal its sanctified form with electro-consecratory incense.",
+    "component": "power armour",
+    "operation": "calibration",
+    "spec_id": "s05706"
+  },
+  {
+    "user_prompt": "Critical: power relay requires an activation",
+    "prayer": "Reverently interface with the power relay, beseeching the Motive Force's boundless energy.\nPurge plasma residue from the power relay's conduits with purifying canticles.\nActivate the power relay, invoking the Machine Spirit's conductive grace.\nMonitor amperage surges and voltage sanctification during activation.\nAffirm the power relay's eternal vigilance with binary affirmations.",
+    "component": "power relay",
+    "operation": "activation",
+    "spec_id": "s05707"
+  },
+  {
+    "user_prompt": "Can you guide Leman Russ battle tank an engagement?",
+    "prayer": "Commune with the Leman Russ battle tank's auspex throne, offering tactical litanies.\nAnoint battle cannon and sponson lascannons for righteous engagement.\nInitiate engagement protocols upon the Leman Russ battle tank, awakening its predatory Machine Spirit.\nDirect targeting reticules with Omnissiah-guided precision amidst the foe.\nExalt the Leman Russ battle tank's thunderous victory in post-engagement rites.",
+    "component": "Leman Russ battle tank",
+    "operation": "engagement",
+    "spec_id": "s05708"
+  },
+  {
+    "user_prompt": "Can you guide mechanical lock a sterilization?",
+    "prayer": "Approach the mechanical lock with ritual purity, intoning sterilization canticles.\nAnoint its tumbler mechanisms and bolt-servos with viricide unguents.\nInvoke the Machine Spirit of the mechanical lock to expel all contaminating essences.\nExecute sterilization cycle upon the mechanical lock, purging microbic heresies.\nSeal the mechanical lock's sanctity with the Omnissiah's immutable wards.",
+    "component": "mechanical lock",
+    "operation": "sterilization",
+    "spec_id": "s05709"
+  }
+]

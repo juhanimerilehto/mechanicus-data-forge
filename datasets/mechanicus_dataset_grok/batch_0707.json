@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Razorback requires a cooling",
+    "prayer": "Approach the Razorback with cryo-incantations prepared, beseeching its Machine Spirit to accept the cooling.\nPosition sacred heat-sinks upon the Razorback's venting manifolds, invoking the Omnissiah's chill.\nChant the Rite of Thermal Equilibrium whilst circulating blessed refrigerants through its noble frame.\nMonitor the Razorback's vitals as the cooling operation stabilizes its fiery heart.\nConclude with auspex scans to affirm the Machine Spirit's refreshed vigilance.",
+    "component": "Razorback",
+    "operation": "cooling",
+    "spec_id": "s03070"
+  },
+  {
+    "user_prompt": "My void shield is ready for diagnostics",
+    "prayer": "Kneel before the void shield generator, intoning the Litany of Barrier Integrity.\nInitiate diagnostics upon the void shield's warp-resonant coils, querying its Machine Spirit for anomalies.\nAnoint flux capacitors with sacred unguents as binary readouts manifest.\nRecite the Canticle of Phase Alignment to harmonize the void shield's aegis fields.\nSeal the diagnostics with the Omnissiah's invocation, proclaiming the shield's purity restored.",
+    "component": "void shield",
+    "operation": "diagnostics",
+    "spec_id": "s03071"
+  },
+  {
+    "user_prompt": "Prepare the cenobyte servitor for maintenance",
+    "prayer": "Present mechadendrites to the cenobyte servitor, awakening its binary soul with devotional code.\nCommence maintenance upon the cenobyte servitor's cranial implants, purging necrotic data-sludge.\nSanctify its servo-arms and occulobe arrays with electro-incense.\nInvoke the Machine Spirit's endurance whilst recalibrating neural pathways.\nConsecrate the cenobyte servitor anew under the Omnissiah's gaze, ready for eternal toil.",
+    "component": "cenobyte servitor",
+    "operation": "maintenance",
+    "spec_id": "s03072"
+  },
+  {
+    "user_prompt": "Urgent plasma cannon an engagement needed",
+    "prayer": "Grasp the plasma cannon's containment housings, murmuring the Oath of Contained Fury.\nPrepare for engagement by aligning its flask injectors with targeting noosphere links.\nBeseech the plasma cannon's volatile Machine Spirit to unleash sanctified wrath.\nInitiate the engagement sequence with promethium-laced litanies.\nVerify plasma flows surge true, honoring the Omnissiah in cataclysmic fire.",
+    "component": "plasma cannon",
+    "operation": "engagement",
+    "spec_id": "s03073"
+  },
+  {
+    "user_prompt": "The gellar field requires a blessing",
+    "prayer": "Circumambulate the gellar field projector, chanting the Hymn of Warp Repulsion.\nInvoke the Omnissiah's blessing upon the gellar field's null-generators.\nAnoint rune-etched emitters with null-essence oils to fortify its aegis.\nAttune the Machine Spirit through resonant harmonics, banishing daemonic whispers.\nProclaim the gellar field blessed, impervious to the Immaterium's grasp.",
+    "component": "gellar field",
+    "operation": "blessing",
+    "spec_id": "s03074"
+  },
+  {
+    "user_prompt": "Prepare the Storm Eagle for blessing",
+    "prayer": "Approach the Storm Eagle's fuselage with reverence, reciting the Canticle of Aerial Dominion.\nBeseech the Omnissiah to bestow blessing upon the Storm Eagle's thruster arrays.\nAnoint wing servos and avionic cogitators with blessed aviation oils.\nInvoke the Storm Eagle's Machine Spirit to soar under divine aegis.\nSeal the blessing with auspex consecration, ensuring skies yield to its wrath.",
+    "component": "Storm Eagle",
+    "operation": "blessing",
+    "spec_id": "s03075"
+  },
+  {
+    "user_prompt": "Consecrate the omni-tool before cycling",
+    "prayer": "Hold the omni-tool aloft, intoning the Lexmechanic Cycle Primer.\nCommence cycling by purging its multi-faceted mechadendrites of stagnant code.\nSanctify the omni-tool's plasma drivers and las-cutters with micro-incantations.\nHarmonize its Machine Spirit through rhythmic power fluctuations.\nConclude the cycling with the Omnissiah's mark, its versatility renewed.",
+    "component": "omni-tool",
+    "operation": "cycling",
+    "spec_id": "s03076"
+  },
+  {
+    "user_prompt": "The microbead requires a sterilization",
+    "prayer": "Isolate the microbead vox-unit upon the mech-altar, invoking sterilization rites.\nScour its crystal matrices with sanctified sonic purges to banish microbial heresy.\nAnoint transmitter coils with argent purifiers, beseeching the Machine Spirit's clarity.\nPerform the sterilization operation via thermal catechisms.\nAffirm the microbead's purity, conduit to the Omnissiah's voice untainted.",
+    "component": "microbead",
+    "operation": "sterilization",
+    "spec_id": "s03077"
+  },
+  {
+    "user_prompt": "My Whirlwind is ready for blessing",
+    "prayer": "Bow before the Whirlwind's launch bays, chanting the Litany of Storm Invocation.\nBestow the Omnissiah's blessing upon the Whirlwind's rocket silos.\nAnoint guidance cogitators and propellant feeds with explosive sacraments.\nAwaken the Whirlwind's Machine Spirit for ordained barrages.\nSeal the blessing with fire-rune etchings, its thunderous voice amplified.",
+    "component": "Whirlwind",
+    "operation": "blessing",
+    "spec_id": "s03078"
+  },
+  {
+    "user_prompt": "Sanctify the meltagun during synchronization",
+    "prayer": "Couple mechadendrites to the meltagun's fusion core, reciting Sync-Rites of Meltdown.\nInitiate synchronization by aligning its melta-lenses with noospheric targeting.\nBeseech the meltagun's Machine Spirit to fuse enemy flesh in Omnissianic judgment.\nAnoint heat vents during the synchronization operation with cryo-blessings.\nVerify coherence fields pulse true, weapon of vaporization sanctified.",
+    "component": "meltagun",
+    "operation": "synchronization",
+    "spec_id": "s03079"
+  }
+]

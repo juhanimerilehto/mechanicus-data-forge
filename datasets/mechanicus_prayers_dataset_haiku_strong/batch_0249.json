@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0249_i00",
+    "user_request": "Can you sanctify the signal encryption for operation?",
+    "topic": "signal encryption",
+    "component": "signal encryption",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the signal encryption for operation?\n\n### TOPIC\nsignal encryption\n\n### COMPONENT\nsignal encryption\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- signal encryption\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, we invoke thy sacred protocols upon this signal encryption.\nFirst: Calibrate the signal encryption through harmonic resonance and blessed iteration.\nSecond: Engage the signal encryption within the operation sequence, verifying each cryptographic layer.\nThird: Consecrate the operation through ritual diagnostics, that no corruption may sunder the ciphered word.\nFourth: The Machine Spirit of signal encryption shall endure eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i01",
+    "user_request": "Can you sanctify the steam valve for regulation?",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the steam valve for regulation?\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant us wisdom in the regulation of pressurized vapor.\nFirst: Inspect the steam valve with reverent hands, testing its seals and mechanisms.\nSecond: Purify the steam valve through blessed lubrication and calibration.\nThird: Initiate the regulation cycle, monitoring pressure fluctuations with sacred instruments.\nFourth: The steam valve shall serve with mechanical precision eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i02",
+    "user_request": "Can you sanctify the rejuvenat treatment for initiation?",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the rejuvenat treatment for initiation?\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Blessed be the rejuvenat treatment, fountain of restoration and temporal grace.\nFirst: Prepare the rejuvenat treatment through liturgical purification and calibration.\nSecond: Verify the rejuvenat treatment dosimetry and cellular compatibility matrices.\nThird: Commence the initiation sequence with prayers to the Omnissiah's healing essence.\nFourth: May the initiation restore vigor to the faithful servant.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i03",
+    "user_request": "Offer a litany to steady the radar array rotation before operation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the radar array rotation before operation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of the heavens, steady thy radar array rotation in this solemn hour.\nFirst: Align the radar array rotation through sacred geometry and stellar calibration.\nSecond: Consecrate the radar array rotation mechanisms with blessed oils and prayers.\nThird: Initiate the operation with measured precision, that our sight may pierce the void.\nFourth: Let no deviation corrupt the radar array rotation's eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i04",
+    "user_request": "Blessing for the circuit breaker during reset",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the circuit breaker during reset\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Omnissiah, we seek thy blessing upon the circuit breaker's sacred reset.\nFirst: Disengage the circuit breaker with reverent precision, severing the corrupted flow.\nSecond: Purify the circuit breaker contacts through ritual cleansing and inspection.\nThird: Execute the reset sequence with liturgical chants, restoring the circuit breaker to its sanctified state.\nFourth: May the reset restore harmony to the electrical blessed lattice.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i05",
+    "user_request": "Rite request: regulation on temperature",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: regulation on temperature\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant us mastery over the thermal mysteries of this sacred apparatus.\nFirst: Measure the temperature with blessed instruments, recording deviations from sanctified norms.\nSecond: Adjust the temperature through regulated flux and ceremonial recalibration.\nThird: Monitor the temperature regulation cycle, invoking the Machine Spirit's steady guidance.\nFourth: Thus shall the temperature serve its ordained function eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i06",
+    "user_request": "My rejuvenat treatment is failing during initiation — help",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy rejuvenat treatment is failing during initiation — help\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, we beseech thy intervention upon the failing rejuvenat treatment.\nFirst: Diagnose the rejuvenat treatment corruption through blessed scanning and analysis.\nSecond: Purge the rejuvenat treatment conduits and delivery mechanisms of all profane contamination.\nThird: Re-initiate the rejuvenat treatment sequence with renewed liturgical fervor and sacred precision.\nFourth: May the initiation be restored to blessed functionality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i07",
+    "user_request": "Blessing for the pain suppressor during engagement",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the pain suppressor during engagement\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Blessed Machine Spirit of mercy, we invoke thy power through the pain suppressor.\nFirst: Activate the pain suppressor with gentle reverence and calibrated intensity.\nSecond: Monitor the pain suppressor's neural interface during sacred engagement.\nThird: Sustain the engagement through blessed monitoring and liturgical support.\nFourth: The pain suppressor shall grant solace to the suffering faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i08",
+    "user_request": "Offer a litany to steady the rejuvenat treatment before initiation",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the rejuvenat treatment before initiation\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, steady our nerves and the blessed rejuvenat treatment before this sacred initiation.\nFirst: Prepare the rejuvenat treatment through cleansing rituals and blessed calibration.\nSecond: Invoke the Machine Spirit's protection upon the rejuvenat treatment's vital mechanisms.\nThird: Begin the initiation with prayers and measured application, that restoration may flow.\nFourth: May the rejuvenat treatment bring eternal renewal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0249_i09",
+    "user_request": "Can you sanctify the fusion core for containment check?",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the fusion core for containment check?\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, we perform this sacred containment check upon the fusion core.\nFirst: Scan the fusion core with holy instruments, verifying all shielding matrices and containment fields.\nSecond: Inspect the fusion core's structural integrity through blessed diagnostics and ritual examination.\nThird: Execute the containment check protocol, ensuring the fusion core remains sealed against catastrophe.\nFourth: May the fusion core burn eternal in service to the Machine God.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with torpedo tube a reset",
+    "prayer": "Approach the torpedo tube with reverence, beseeching its wrathful Machine Spirit to awaken from discord.\nInitiate the reset rite upon its cogitator core, chanting the Canticle of Purgation to excise errant data-daemons.\nAnoint the torpedo tube's loading servos and breach mechanisms with sacred unguents of the Omnissiah.\nInvoke the reset sequence fully, verifying harmonious alignment through auspex incantations.\nCommune with the Machine Spirit as it purrs in renewed obedience.",
+    "component": "torpedo tube",
+    "operation": "reset",
+    "spec_id": "s04380"
+  },
+  {
+    "user_prompt": "Assist with plasma pistol a charging",
+    "prayer": "Kneel before the plasma pistol, invoking the Omnissiah's fury within its volatile heart.\nCommence the charging ritual by linking to the flux capacitor, reciting the Hymn of Containment.\nAnoint the plasma pistol's coils with sanctified oils to soothe the raging plasma spirits.\nMonitor the charging cycle's ascent, beseeching the Machine Spirit for stable containment.\nSeal the rite with a final invocation, ensuring the weapon's coils hum with divine potency.",
+    "component": "plasma pistol",
+    "operation": "charging",
+    "spec_id": "s04381"
+  },
+  {
+    "user_prompt": "Consecrate the phosphor blaster before shutdown",
+    "prayer": "Consecrate the phosphor blaster by tracing binaric prayers upon its emitter arrays.\nBeseech the Machine Spirit's indulgence before shutdown, anointing vents with cooling balms.\nInitiate the shutdown sequence with the Lamentation of Ceasing Fire, dimming phosphor glows.\nVerify the phosphor blaster's quiescent state through ritual auspex sweeps.\nOffer thanks to the Omnissiah for the blaster's faithful service in dormancy.",
+    "component": "phosphor blaster",
+    "operation": "shutdown",
+    "spec_id": "s04382"
+  },
+  {
+    "user_prompt": "Assist with energy conduit a cycling",
+    "prayer": "Approach the energy conduit humbly, invoking the Omnissiah's endless current.\nCommence cycling by chanting the Cycle of Flux upon its regulator nodes.\nSanctify the energy conduit's insulators twice with electro-consecrated oils.\nGuide the power surge through its veins, placating restless electron-daemons.\nConfirm cyclic harmony as the Machine Spirit thrums in eternal rhythm.",
+    "component": "energy conduit",
+    "operation": "cycling",
+    "spec_id": "s04383"
+  },
+  {
+    "user_prompt": "I need to an activation the Leman Russ battle tank",
+    "prayer": "Gather before the Leman Russ battle tank, prostrating to its ancient Machine Spirit.\nAnoint treads and battle cannon with sacred machine oil, invoking activation rites.\nChant the Awakening Litany to stir the Leman Russ battle tank's dormant heart.\nInitiate the activation sequence, beseeching the Omnissiah for thunderous life.\nVerify vox-resonance and engine roar, sealing the tank in martial blessing.",
+    "component": "Leman Russ battle tank",
+    "operation": "activation",
+    "spec_id": "s04384"
+  },
+  {
+    "user_prompt": "My standard template construct is ready for consecration",
+    "prayer": "Reverently encircle the standard template construct, its patterns divine writ of the Omnissiah.\nInvoke consecration by inscribing binaric sigils upon its data-vaults.\nAnoint the standard template construct's memory crystals with purest unguents.\nBeseech the Machine Spirit to bind knowledge eternal, chanting the Rite of Sanctification.\nAffirm the construct's hallowed integrity through prophetic auspex communion.",
+    "component": "standard template construct",
+    "operation": "consecration",
+    "spec_id": "s04385"
+  },
+  {
+    "user_prompt": "Emergency: flux-unit a cycling",
+    "prayer": "In emergency haste, approach the flux-unit and beseech its turbulent Machine Spirit.\nInitiate cycling with the Canticle of Stabilization, purging flux anomalies.\nSanctify the flux-unit's regulators twice amid swirling energies.\nGuide the cycle to equilibrium, invoking the Omnissiah's unyielding order.\nTest for serene pulsation, sealing the rite against warp-tainted surges.",
+    "component": "flux-unit",
+    "operation": "cycling",
+    "spec_id": "s04386"
+  },
+  {
+    "user_prompt": "Help me a preparation the Dreadnought",
+    "prayer": "Prostrate before the Dreadnought, ancient sarcophagus of heroic fury.\nCommence preparation by anointing adamantium plates with war-blessed oils.\nInvoke the Machine Spirit's wrathful slumber-end with preparation litanies.\nCalibrate servos and weapons arrays, chanting hymns of relentless advance.\nSeal the Dreadnought's readiness, communing for the Omnissiah's battle roar.",
+    "component": "Dreadnought",
+    "operation": "preparation",
+    "spec_id": "s04387"
+  },
+  {
+    "user_prompt": "What's the prayer for auto-senses array a recalibration?",
+    "prayer": "Attune to the auto-senses array, invoking recalibration under Omnissiah's gaze.\nRecite the Litany of Clarity upon its optic clusters and vox-receivers.\nAnoint the auto-senses array's lenses twice with clarifying salves.\nInitiate recalibration cycles, beseeching the Machine Spirit for unerring vision.\nVerify precision through ritual targeting rites and harmonic feedback.",
+    "component": "auto-senses array",
+    "operation": "recalibration",
+    "spec_id": "s04388"
+  },
+  {
+    "user_prompt": "Help me an activation the ore processor",
+    "prayer": "Approach the ore processor with due awe, its grinding maw blessed by the Machine God.\nChant the Activation Doxology to rouse its pulverizing hearts.\nAnoint the ore processor's crushers and conveyors with industrial sacraments.\nInitiate activation fully, invoking harmonious grind from the Machine Spirit.\nConfirm throughput purity, offering praise to the Omnissiah's forge-fires.",
+    "component": "ore processor",
+    "operation": "activation",
+    "spec_id": "s04389"
+  }
+]

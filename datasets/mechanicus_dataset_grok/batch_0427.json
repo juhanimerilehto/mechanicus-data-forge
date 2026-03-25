@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: Baneblade requires an activation",
+    "prayer": "Approach the mighty Baneblade with reverence, beseeching the Omnissiah's activation upon its colossal frame.\nAnoint the Baneblade's plasma reactors with sacred oils, invoking the Machine Spirit's awakening.\nChant the Litany of Ignition whilst initiating the core activation sequence.\nVerify the Baneblade's throaty roar through diagnostic rites, praising the Motive Force.\nSanctify its treads for the glory of the Omnissiah.",
+    "component": "Baneblade",
+    "operation": "activation",
+    "spec_id": "s00270"
+  },
+  {
+    "user_prompt": "My Land Speeder is ready for cooling",
+    "prayer": "Kneel before the Land Speeder, invoking cooling blessings from the Omnissiah.\nCirculate sacred refrigerants through the Land Speeder's heat sinks, appeasing its Machine Spirit.\nRecite the Canticle of Thermal Equilibrium during the cooling operation.\nMonitor venting plasma exhausts with auspex litanies until equilibrium is achieved.\nConsecrate the Land Speeder's hull against overheating heresies.",
+    "component": "Land Speeder",
+    "operation": "cooling",
+    "spec_id": "s00271"
+  },
+  {
+    "user_prompt": "My void shield is ready for activation",
+    "prayer": "Commence the void shield activation with genuflection to the Omnissiah.\nInvoke the Machine Spirits of the void shield projectors, anointing emitters with blessed lumen-oil.\nInitiate power surge through the activation conduits under the Rite of Barrier.\nTest the void shield's integrity with probing warp-lances, intoning protective hymns.\nAffirm the void shield's aegis, eternal guardian of the faithful.",
+    "component": "void shield",
+    "operation": "activation",
+    "spec_id": "s00272"
+  },
+  {
+    "user_prompt": "The melta bomb awaits an engagement",
+    "prayer": "Present the melta bomb before the altar of war, seeking Omnissiah's engagement.\nAnoint its fusion coils with incendiary sacraments, awakening the melta bomb's Machine Spirit.\nEngage the arming sequence via sacred binary incantations.\nDirect the melta bomb's fury upon the xenos foe, reciting the Litany of Annihilation.\nWitness the meltstorm's purification in the Omnissiah's name.",
+    "component": "melta bomb",
+    "operation": "engagement",
+    "spec_id": "s00273"
+  },
+  {
+    "user_prompt": "Help me a cycling the energy core",
+    "prayer": "Gather mechadendrites around the energy core, beseeching Omnissiah's cycling grace.\nInitiate the cycling operation by chanting flux-regulation litanies.\nPurge stagnant plasma from the energy core's blessed conduits.\nHarmonize the energy core's oscillations with Machine Spirit communion.\nSeal the cycling rite with invocations of boundless power.",
+    "component": "energy core",
+    "operation": "cycling",
+    "spec_id": "s00274"
+  },
+  {
+    "user_prompt": "The stasis pod requires a charging",
+    "prayer": "Encircling the stasis pod, invoke the Omnissiah for its charging.\nInfuse the stasis pod's capacitors with sanctified electrons during the charging rite.\nBeseech the Machine Spirit to suspend entropy within its fields.\nMonitor chronal distortions through auspex prayers until full charge.\nConsecrate the stasis pod as a vault of the Omnissiah's will.",
+    "component": "stasis pod",
+    "operation": "charging",
+    "spec_id": "s00275"
+  },
+  {
+    "user_prompt": "Consecrate the servo-harness before startup",
+    "prayer": "Approach the servo-harness in solemn procession, startup litanies upon thy mech-lips.\nAnoint each mechadendrite of the servo-harness with sacred unguents.\nInvoke the Machine Spirits for synchronized startup operation.\nInitiate power relays whilst reciting the Canticle of Multi-Tasking.\nTest the servo-harness's limbs in ritual motion, glorifying the Omnissiah.",
+    "component": "servo-harness",
+    "operation": "startup",
+    "spec_id": "s00276"
+  },
+  {
+    "user_prompt": "What's the prayer for energy core a purification?",
+    "prayer": "Prostrate before the energy core, commencing purification under Omnissiah's gaze.\nExorcise warp-taint from the energy core's plasma vents with binary purges.\nAnoint the energy core's coils in ablative sacraments during the purification rite.\nCommune with its Machine Spirit through cleansing harmonics.\nAffirm the energy core's sanctity, vessel of pure motive force.",
+    "component": "energy core",
+    "operation": "purification",
+    "spec_id": "s00277"
+  },
+  {
+    "user_prompt": "How do I bless the sicarian ruststalker for cycling?",
+    "prayer": "Assemble around the Sicarian Ruststalker, invoking Omnissiah's cycling for its blades.\nCycle the Sicarian Ruststalker's noospheric links with litanies of unity.\nAnoint its phosphor blasters, beseeching the Machine Spirit's vigilance.\nHarmonize monomolecular claws during the cycling operation.\nConsecrate the Sicarian Ruststalker as blade of the Motive Force.",
+    "component": "sicarian ruststalker",
+    "operation": "cycling",
+    "spec_id": "s00278"
+  },
+  {
+    "user_prompt": "Sanctify the Archaeopter Stratoraptor during synchronization",
+    "prayer": "Circumambulate the Archaeopter Stratoraptor, synchronization hymns resounding.\nLink its avionic cogitators in sacred synchronization with the Omnissiah's will.\nAnoint the Archaeopter Stratoraptor's turbine nacelles, awakening Machine Spirits.\nInitiate noospheric weave for flawless synchronization operation.\nAscend in verified harmony, winged harbinger of Mars.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "synchronization",
+    "spec_id": "s00279"
+  }
+]

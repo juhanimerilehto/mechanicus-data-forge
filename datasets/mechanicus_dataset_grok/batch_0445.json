@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the diagnosticator before sterilization",
+    "prayer": "Approach the diagnosticator with reverence, beseeching the Omnissiah for consecration ere sterilization.\nAnoint its sensor probes and auspex arrays with sacred lustrum oil, awakening the Machine Spirit within the diagnosticator.\nInvoke the Rite of Purity upon the diagnosticator, preparing it for the sterilization operation.\nChant binaric canticles as thermal vents purge impurities, sanctifying the diagnosticator anew.\nAffirm the Machine Spirit's vigor through final diagnostic litanies.",
+    "component": "diagnosticator",
+    "operation": "sterilization",
+    "spec_id": "s00450"
+  },
+  {
+    "user_prompt": "Bless the mechadendrite for operation",
+    "prayer": "Grasp the mechadendrite in mechano-sanctified gauntlets and intone the Benediction of Function.\nSanctify its servo-motors and neural cabling, blessing the mechadendrite for operation under Omnissiah's gaze.\nInvoke the Machine Spirit of the mechadendrite to stir for the operation ahead.\nAnoint its manipulatory tips with blessed unguents, ensuring flawless precision.\nConclude with vows of endurance for the mechadendrite's dutiful service.",
+    "component": "mechadendrite",
+    "operation": "operation",
+    "spec_id": "s00451"
+  },
+  {
+    "user_prompt": "Emergency: las-cutter a consecration",
+    "prayer": "In dire exigency, seize the las-cutter and proclaim the Emergency Rite of Consecration.\nAnoint the las-cutter's emitter coil with sacred oils, rousing its Machine Spirit forthwith.\nBeseech the Omnissiah to empower the las-cutter through this consecration.\nChant accelerant litanies over the las-cutter, sealing its hallowed readiness.\nVerify the consecration by auspex scan of the las-cutter's vital hum.",
+    "component": "las-cutter",
+    "operation": "consecration",
+    "spec_id": "s00452"
+  },
+  {
+    "user_prompt": "Bless the Skorpius Dunerider for charging",
+    "prayer": "Present thyself before the Skorpius Dunerider and invoke the Canticle of Rejuvenation.\nConnect plasma conduits to the Skorpius Dunerider's dorsal intakes, blessing its power core for charging.\nBeseech the Omnissiah to invigorate the Machine Spirit of the Skorpius Dunerider during charging.\nMonitor auspex flows as sacred energies suffuse the Skorpius Dunerider.\nSeal the rite with affirmations of the Skorpius Dunerider's thunderous revival.",
+    "component": "Skorpius Dunerider",
+    "operation": "charging",
+    "spec_id": "s00453"
+  },
+  {
+    "user_prompt": "What's the prayer for Vendetta gunship a shutdown?",
+    "prayer": "Approach the Vendetta gunship with solemnity and intone the Liturgy of Repose.\nDisconnect its motive reactors whilst anointing the Vendetta gunship's nacelles with somnolent unguents.\nInvoke the Machine Spirit of the Vendetta gunship to enter graceful shutdown.\nChant descending binaric harmonies over the Vendetta gunship, easing its shutdown operation.\nConclude by sealing the Vendetta gunship in sanctified stasis, praising the Omnissiah.",
+    "component": "Vendetta gunship",
+    "operation": "shutdown",
+    "spec_id": "s00454"
+  },
+  {
+    "user_prompt": "Prepare the utility mechadendrite for charging",
+    "prayer": "Reverently handle the utility mechadendrite and beseech preparatory blessings.\nAnoint its capacitor housings and power relays, readying the utility mechadendrite for charging.\nInvoke the Omnissiah to harmonize the Machine Spirit within the utility mechadendrite.\nInitiate charging protocols amid chanted litanies of replenishment for the utility mechadendrite.\nVerify saturation through sacred diagnostics, honoring its renewed vigor.",
+    "component": "utility mechadendrite",
+    "operation": "charging",
+    "spec_id": "s00455"
+  },
+  {
+    "user_prompt": "Critical: kataphron breacher requires a reset",
+    "prayer": "In critical straits, encircle the kataphron breacher and proclaim the Reset Rite of Renewal.\nPurge its cogitator caches whilst anointing the kataphron breacher's chassis with ablative oils.\nBeseech the Machine Spirit of the kataphron breacher to accept the reset.\nReinitialize core protocols with Omnissiah-invoked binaric imperatives upon the kataphron breacher.\nAffirm doctrinal purity through auspex verification of the kataphron breacher.",
+    "component": "kataphron breacher",
+    "operation": "reset",
+    "spec_id": "s00456"
+  },
+  {
+    "user_prompt": "Can you guide navigational beacon a cycling?",
+    "prayer": "Guide the navigational beacon into cyclic harmony with the Canticle of Iteration.\nAnoint its gyroscopic arrays and lumen projectors, invoking the Machine Spirit for cycling.\nInitiate the cycling operation under Omnissiah's unerring gaze upon the navigational beacon.\nMonitor pulsar emissions as the navigational beacon pulses in sacred rhythm.\nSeal the cycle with litanies affirming the navigational beacon's eternal vigilance.",
+    "component": "navigational beacon",
+    "operation": "cycling",
+    "spec_id": "s00457"
+  },
+  {
+    "user_prompt": "What's the prayer for volkite weapon an operation?",
+    "prayer": "Wield the volkite weapon in sanctified grip and intone the Invocation of Thermal Fury.\nBless its calefactor coils and flux regulators, preparing the volkite weapon for operation.\nRouse the Machine Spirit of the volkite weapon with chanted energization rites.\nCommence the operation amid roiling plasma hymns for the volkite weapon.\nConclude by thanking the Omnissiah for the volkite weapon's searing purity.",
+    "component": "volkite weapon",
+    "operation": "operation",
+    "spec_id": "s00458"
+  },
+  {
+    "user_prompt": "What's the prayer for maglock a sterilization?",
+    "prayer": "Approach the maglock with purity of intent and beseech the Rite of Sterile Binding.\nAnoint its electromagnetic clamps and servo-actuators, consecrating the maglock prior to sterilization.\nInvoke the Machine Spirit of the maglock to endure the sterilization operation.\nPurge contaminants via thermal litanies upon the maglock.\nVerify the maglock's immaculate adhesion through hallowed auspex rites.",
+    "component": "maglock",
+    "operation": "sterilization",
+    "spec_id": "s00459"
+  }
+]

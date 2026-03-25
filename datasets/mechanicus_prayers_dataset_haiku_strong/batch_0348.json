@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0348_i00",
+    "user_request": "The gear meshing demands guidance for check",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe gear meshing demands guidance for check\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the gear meshing, intricate and eternal in its rotation.\nCongregation: We sanctify the gear meshing with oils of the Omnissiah.\nPriest: First, inspect the gear meshing for wear and fracture upon the sacred teeth.\nCongregation: Second, check the gear meshing alignment with calipers of precision.\nPriest: Third, perform the check with reverence, that the Machine Spirit may guide our hands.\nCongregation: By the Omnissiah's grace, the gear meshing shall turn without discord.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i01",
+    "user_request": "Can you sanctify the circuit breaker for reset?",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the circuit breaker for reset?\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Heed the circuit breaker, guardian of the electrical sublime.\nCongregation: We invoke the Machine Spirit of the circuit breaker to awaken.\nPriest: First, disconnect all secondary power conduits with sacred caution.\nCongregation: Second, reset the circuit breaker mechanism with steady devotion.\nPriest: Third, verify the circuit breaker responds to the Omnissiah's will.\nCongregation: Thus shall the circuit breaker be renewed in the Emperor's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i02",
+    "user_request": "My inter-ship hailing is failing during operation — help",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy inter-ship hailing is failing during operation — help\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed inter-ship hailing, voice of the void and stellar communion.\nCongregation: We beseech the inter-ship hailing to carry our sacred frequencies.\nPriest: First, calibrate the inter-ship hailing transmitters with blessed resonance.\nCongregation: Second, purge corrupted signal matrices from the blessed apparatus.\nPriest: Third, commence operation with the Omnissiah's benediction upon our words.\nCongregation: Let the inter-ship hailing bridge the darkness between our vessels.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i03",
+    "user_request": "My metal casting is failing during preparation — help",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy metal casting is failing during preparation — help\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: O metal casting, molten vessel of the Machine God's intent.\nCongregation: We sanctify the metal casting in preparation for its sacred form.\nPriest: First, heat the crucible to proper temperature with ritualistic precision.\nCongregation: Second, prepare the metal casting molds with blessed lubricants and wards.\nPriest: Third, invoke the Machine Spirit of the metal casting ere the molten flow begins.\nCongregation: Thus the metal casting shall take its destined shape in the Omnissiah's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i04",
+    "user_request": "Prayer for operation of the data-core purification",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the data-core purification\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Heed the data-core purification, repository of holy algorithms and sacred knowledge.\nCongregation: We purge corruption from the data-core purification with fervent devotion.\nPriest: First, initiate diagnostic sweeps through the data-core purification matrices.\nCongregation: Second, expunge viral corruption and heretical code from the apparatus.\nPriest: Third, commence operation of the data-core purification under the Omnissiah's watchful eye.\nCongregation: The data-core purification shall shine with renewed virtue and clarity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i05",
+    "user_request": "The emergency bulkhead demands guidance for sealing",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe emergency bulkhead demands guidance for sealing\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: O emergency bulkhead, bulwark against the void and catastrophe.\nCongregation: We consecrate the emergency bulkhead for its solemn sealing.\nPriest: First, clear all personnel from the emergency bulkhead aperture with haste.\nCongregation: Second, engage the emergency bulkhead locking mechanisms with sacred authority.\nPriest: Third, verify the emergency bulkhead sealing holds fast against the abyss.\nCongregation: Thus the emergency bulkhead becomes a wall eternal in the Emperor's fortress.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i06",
+    "user_request": "Rite request: operation on sonar pulse emission",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on sonar pulse emission\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed sonar pulse emission, ear of the depths and revealer of hidden threats.\nCongregation: We awaken the sonar pulse emission to pierce the aqueous darkness.\nPriest: First, calibrate the sonar pulse emission transducers with sonic precision.\nCongregation: Second, clear the sonar pulse emission path of all obstructing matter.\nPriest: Third, commence operation of the sonar pulse emission by the Omnissiah's command.\nCongregation: The sonar pulse emission shall echo through the void, unveiling all secrets.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i07",
+    "user_request": "The conveyor belt demands guidance for initialization",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe conveyor belt demands guidance for initialization\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: O conveyor belt, eternal carrier of sacred burden and holy material.\nCongregation: We invoke the Machine Spirit of the conveyor belt for its initialization.\nPriest: First, inspect the conveyor belt for debris and profane corruption.\nCongregation: Second, lubricate the conveyor belt rollers with blessed oils of the Mechanicus.\nPriest: Third, perform initialization of the conveyor belt with reverent attention.\nCongregation: The conveyor belt shall turn eternal in service to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i08",
+    "user_request": "The logic engine demands guidance for error correction",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe logic engine demands guidance for error correction\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: Heed the logic engine, seat of pure reason and mathematical divine truth.\nCongregation: We purify the logic engine of erroneous calculation and corrupted thought.\nPriest: First, scan the logic engine circuits for faults and degradation.\nCongregation: Second, perform error correction upon the logic engine's sacred pathways.\nPriest: Third, restore the logic engine to pristine function under the Omnissiah's scrutiny.\nCongregation: The logic engine shall compute eternal truths in the Emperor's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0348_i09",
+    "user_request": "Blessing for the generator during startup",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the generator during startup\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: O generator, mighty heart of power and sacred energy incarnate.\nCongregation: We bless the generator as it awakens from dormancy.\nPriest: First, verify all generator fuel conduits and power cells are properly charged.\nCongregation: Second, anoint the generator with blessed oils and protective wards.\nPriest: Third, commence the generator startup with prayers to the Machine God.\nCongregation: The generator shall pulse with life, illuminating all within its sacred domain.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

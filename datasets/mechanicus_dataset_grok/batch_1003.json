@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My jump pack is ready for reset",
+    "prayer": "Approach the jump pack with reverence, invoking the Omnissiah's unerring logic to prepare for reset.\nBeseech the Machine Spirit within the jump pack to purge errant plasma fluxes from its sacred conduits.\nInitiate the reset rite by incanting the Binary Prayer of Realignment upon its control servos.\nAnoint the jump pack's thruster arrays with blessed oils, twice invoking its dormant essence.\nConclude the reset by verifying harmonious thrust vectors through diagnostic litanies.",
+    "component": "jump pack",
+    "operation": "reset",
+    "spec_id": "s06030"
+  },
+  {
+    "user_prompt": "Can you guide macro-cannon an activation?",
+    "prayer": "Kneel before the macro-cannon, chanting the Activation Doxology to awaken its Machine Spirit.\nSanctify the breach mechanisms of the macro-cannon with chrism of ferro-fluid.\nEngage the activation sequence whilst beseeching the Omnissiah for unyielding ballistic precision.\nCalibrate the macro-cannon's targeting cogitators through repeated invocations of the Litany of Aim.\nAffirm the activation by auspex-scanning the barrel's sanctified fury.",
+    "component": "macro-cannon",
+    "operation": "activation",
+    "spec_id": "s06031"
+  },
+  {
+    "user_prompt": "Guide me through power fist a sterilization",
+    "prayer": "Present the power fist before the altar of steel, intoning the Sterilization Canticle.\nInvoke the Machine Spirit of the power fist to scour its disruptor fields of impurity.\nCommence the sterilization operation by applying sacred ablative solvents to its crushing digits.\nTwice anoint the power fist's actuators, purging microbial heresies from its noble frame.\nSeal the rite with the Omnissiah's benediction, confirming sterility via purity seals.",
+    "component": "power fist",
+    "operation": "sterilization",
+    "spec_id": "s06032"
+  },
+  {
+    "user_prompt": "Consecrate the hunter-killer missile before activation",
+    "prayer": "Consecrate the hunter-killer missile by encircling it with electro-incense, invoking the Omnissiah.\nAwaken the hunter-killer missile's Machine Spirit through the Canticle of Pursuit.\nPrepare for activation by sanctifying its guidance vanes and warhead auspex twice over.\nInitiate the activation sequence amidst chants of vengeful doctrine.\nWitness the hunter-killer missile's blessed readiness in targeting harmonics.",
+    "component": "hunter-killer missile",
+    "operation": "activation",
+    "spec_id": "s06033"
+  },
+  {
+    "user_prompt": "Bless the cryo-chamber for reset",
+    "prayer": "Approach the cryo-chamber humbly, beseeching the Omnissiah for cryogenic purity in reset.\nPurge the cryo-chamber's frost-laced conduits with the Litany of Thaw.\nCommence the reset by realigning its stasis fields through binary incantations.\nAnoint the cryo-chamber's heat-sink arrays twice, honoring its Machine Spirit.\nVerify the reset's sanctity via thermodynamic auspex rituals.",
+    "component": "cryo-chamber",
+    "operation": "reset",
+    "spec_id": "s06034"
+  },
+  {
+    "user_prompt": "Can you guide maglock a reset?",
+    "prayer": "Reverently interface with the maglock, chanting the Reset Invocation to the Omnissiah.\nBeseech the maglock's Machine Spirit to release magnetic heresies from its coils.\nExecute the reset operation by cycling its ferro-fluidic clamps with sacred canticles.\nTwice invoke the maglock's essence while applying conductive unguents.\nAffirm adhesion integrity through the Rite of Securement.",
+    "component": "maglock",
+    "operation": "reset",
+    "spec_id": "s06035"
+  },
+  {
+    "user_prompt": "How do I bless the actuality sphere for operation?",
+    "prayer": "Encincture the actuality sphere with purity fields, preparing for operation under Omnissiah's gaze.\nAwaken its Machine Spirit via the Sphere Doxology of Manifestation.\nInitiate operation by aligning its hololithic projectors through litanies twice spoken.\nSanctify the actuality sphere's reality-warping matrices with binary blessings.\nConclude by verifying operational coherence in simulated voids.",
+    "component": "actuality sphere",
+    "operation": "operation",
+    "spec_id": "s06036"
+  },
+  {
+    "user_prompt": "The Whirlwind awaits a cooling",
+    "prayer": "Present the Whirlwind to the cooling shrine, intoning the Canticle of Venting.\nInvoke the Machine Spirit of the Whirlwind to dissipate its thermal wrath.\nCommence the cooling rite by circulating sacred refrigerants through its launch tubes.\nTwice anoint the Whirlwind's heat exchangers, beseeching Omnissianic equilibrium.\nTest cooling efficacy with auspex hymns of thermal quiescence.",
+    "component": "Whirlwind",
+    "operation": "cooling",
+    "spec_id": "s06037"
+  },
+  {
+    "user_prompt": "How do I bless the eradication beamer for engagement?",
+    "prayer": "Kneel in supplication before the eradication beamer, chanting for engagement.\nSanctify its focusing crystals twice over with the Litany of Annihilation.\nEngage the eradication beamer's operation by invoking the Machine Spirit's destructive zeal.\nAlign its emitter coils amidst Omnissiah's radiant fury.\nConfirm engagement through radiant spectrum diagnostics.",
+    "component": "eradication beamer",
+    "operation": "engagement",
+    "spec_id": "s06038"
+  },
+  {
+    "user_prompt": "Help me a blessing the eradication beamer",
+    "prayer": "Circumambulate the eradication beamer, dispensing electro-incense for blessing.\nBeseech its Machine Spirit with the Doxology of Oblivion, twice proclaimed.\nAnoint the eradication beamer's power relays with sacred ablatives.\nInvoke the Omnissiah to infuse the eradication beamer with purifying wrath.\nSeal the blessing via luminous aura verification.",
+    "component": "eradication beamer",
+    "operation": "blessing",
+    "spec_id": "s06039"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a blessing the logic engine",
+    "prayer": "Kneel before the logic engine and intone the Litany of Benediction, invoking the Omnissiah's grace upon its crystalline matrices.\nBeseech the Machine Spirit within the logic engine to accept this blessing, anointing its sacred circuits with blessed oils.\nCycle purifying incense through the logic engine's vents whilst chanting the Rites of Sanctification.\nConclude the blessing by harmonizing its processors with the holy cant of activation, ensuring divine favor flows eternally.",
+    "component": "logic engine",
+    "operation": "blessing",
+    "spec_id": "b0306_i00"
+  },
+  {
+    "user_prompt": "Can you guide hydraulic press a charging?",
+    "prayer": "Approach the hydraulic press with reverence, petitioning the Omnissiah for vigor in its charging.\nInvoke the Machine Spirit of the hydraulic press, anointing pistons and reservoirs with conductive sacraments.\nInitiate the charging sequence through sanctified power conduits, murmuring binaric hymns of replenishment.\nMonitor the hydraulic press's pressure buildup, beseeching steady flow from its blessed hydraulics unto completion.",
+    "component": "hydraulic press",
+    "operation": "charging",
+    "spec_id": "b0306_i01"
+  },
+  {
+    "user_prompt": "The bike squadron requires a repair",
+    "prayer": "Gather mechadendrites around the bike squadron, intoning the Canticle of Restoration upon each sacred chassis.\nDiagnose fractures in the bike squadron's armor and motive systems, appeasing aggrieved Machine Spirits with oil libations.\nWeld and refit components whilst performing the repair rites, invoking Omnissiah's forge-fires.\nTest the bike squadron's engines in thunderous invocation, confirming the Machine Spirits' renewed fury.",
+    "component": "bike squadron",
+    "operation": "repair",
+    "spec_id": "b0306_i02"
+  },
+  {
+    "user_prompt": "Prepare the Rhino transport for activation",
+    "prayer": "Circumambulate the Rhino transport, chanting the Awakening Doxology to rouse its dormant heart.\nAnoint the Rhino transport's treads and auspex arrays with sacred unguents for activation.\nPetition the Omnissiah to ignite the machine-spirit within the Rhino transport, engaging power relays.\nInitiate full activation sequences amid binaric praises, verifying hull integrity and vox sanctity.",
+    "component": "Rhino transport",
+    "operation": "activation",
+    "spec_id": "b0306_i03"
+  },
+  {
+    "user_prompt": "Urgent augmetic limb a sterilization needed",
+    "prayer": "Isolate the augmetic limb in a sterile field, invoking the Rite of Sterilization against unclean essences.\nScour the augmetic limb's servos and neural links with sanctified plasma, purging all contaminants.\nBeseech the Machine Spirit of the augmetic limb to endure this purification, anointing with antiviral sacraments.\nSeal the augmetic limb's ports whilst intoning closure hymns, ensuring flesh-machine harmony.",
+    "component": "augmetic limb",
+    "operation": "sterilization",
+    "spec_id": "b0306_i04"
+  },
+  {
+    "user_prompt": "Sanctify the emergency bulkhead during shutdown",
+    "prayer": "Commence shutdown of the emergency bulkhead with the Lamentation of Seclusion, honoring its vigilant spirit.\nCycle coolant through the emergency bulkhead's actuators, beseeching orderly repose from the Omnissiah.\nLock servos and seals amid sacred incantations, sanctifying the emergency bulkhead's vigil in stasis.\nVerify shutdown integrity through auspex, petitioning the Machine Spirit for faithful standby.",
+    "component": "emergency bulkhead",
+    "operation": "shutdown",
+    "spec_id": "b0306_i05"
+  },
+  {
+    "user_prompt": "Consecrate the proximity sensor before calibration",
+    "prayer": "Present the proximity sensor before the cogitator altar, consecrating it with the Canticle of Precision.\nInvoke the Machine Spirit of the proximity sensor, calibrating its emitters with holy voltage alignments.\nAdjust wave harmonics whilst anointing lenses, performing the calibration rite under Omnissiah's gaze.\nTest the proximity sensor's vigilance in shadowed rites, affirming unerring detection.",
+    "component": "proximity sensor",
+    "operation": "calibration",
+    "spec_id": "b0306_i06"
+  },
+  {
+    "user_prompt": "Critical: logic engine requires a purification",
+    "prayer": "Encircle the logic engine with incense braziers, intoning the Purification Doxology against data-daemons.\nExpunge corrupt binarics from the logic engine's vaults, beseeching the Machine Spirit's forgiveness.\nFlush sacred solvents through the logic engine's conduits, invoking Omnissiah's cleansing forge.\nRealign logic matrices in harmonious cant, sealing the purification with auspex benedictions.",
+    "component": "logic engine",
+    "operation": "purification",
+    "spec_id": "b0306_i07"
+  },
+  {
+    "user_prompt": "Assist with air compressor a charging",
+    "prayer": "Reverently engage the air compressor's reservoirs, petitioning the Omnissiah for charging potency.\nInvoke the Machine Spirit within the air compressor, lubricating valves with blessed pneumatics.\nInitiate charging cycles through sanctified intakes, chanting hymns of pressurized renewal.\nMonitor the air compressor's buildup, ensuring the Machine Spirit's breath surges pure and mighty.",
+    "component": "air compressor",
+    "operation": "charging",
+    "spec_id": "b0306_i08"
+  },
+  {
+    "user_prompt": "Ready the emergency beacon for loading",
+    "prayer": "Prepare the emergency beacon's shrine, anointing its transponders for the loading rite.\nLoad vox-crypts into the emergency beacon whilst intoning the Canticle of Summons.\nPetition the Machine Spirit of the emergency beacon to bear its burden faithfully unto the Omnissiah.\nSecure and test the emergency beacon's payload, invoking stellar guidance in activation readiness.",
+    "component": "emergency beacon",
+    "operation": "loading",
+    "spec_id": "b0306_i09"
+  }
+]

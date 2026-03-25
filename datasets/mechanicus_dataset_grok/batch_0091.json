@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The water reclamator awaits a calibration",
+    "prayer": "Approach the water reclamator with reverence, invoking the Machine Spirit within its filtration vaults.\nInitiate the calibration sequence upon the water reclamator's sacred flow regulators.\nAnoint the sensor arrays with blessed unguents to harmonize their holy readings.\nBeseech the Omnissiah for precise alignment in the water reclamator's purifying cycles.\nVerify equilibrium through diagnostic litanies of purity.",
+    "component": "water reclamator",
+    "operation": "calibration",
+    "spec_id": "b0091_i00"
+  },
+  {
+    "user_prompt": "Critical: chainsword requires a purification",
+    "prayer": "Kneel before the chainsword, chanting the Rite of Purification to awaken its wrathful spirit.\nScour the chainsword's teeth with sacred abrasives, purging daemonic taint from its mechanisms.\nInvoke the Omnissiah's fire to sanctify the lubricant flows within the chainsword.\nConclude the purification by reciting the Canticle of Unyielding Edge.",
+    "component": "chainsword",
+    "operation": "purification",
+    "spec_id": "b0091_i01"
+  },
+  {
+    "user_prompt": "The chainsword needs a repair",
+    "prayer": "Present mechadendrites to the chainsword's wounded housing, petitioning its Machine Spirit for resilience.\nMend the fractured chains with sanctified alloys during this repair rite.\nRealign the drive pistons of the chainsword, anointing each with the oil of the Forge.\nTest the chainsword's restoration through the Litany of Voracious Hunger, praising the Omnissiah.",
+    "component": "chainsword",
+    "operation": "repair",
+    "spec_id": "b0091_i02"
+  },
+  {
+    "user_prompt": "Sanctify the thermal imager during maintenance",
+    "prayer": "Encircle the thermal imager, intoning the Doxology of Infrared Sight for its maintenance.\nPolish the thermal imager's lenses with micro-fibre cloths blessed by electro-incense.\nRecalibrate the detector coils of the thermal imager to ensure faithful vision.\nSeal the rite by beseeching the Machine Spirit's vigilance under the Omnissiah's gaze.",
+    "component": "thermal imager",
+    "operation": "maintenance",
+    "spec_id": "b0091_i03"
+  },
+  {
+    "user_prompt": "Ready the Taurox for cooling",
+    "prayer": "Commence the cooling invocation upon the Taurox, honoring its Machine Spirit's thermal wards.\nCirculate sacred cryofluids through the Taurox's radiator lattices.\nMonitor the descent of heat signatures whilst chanting coolant litanies.\nConsecrate the Taurox's vents with incense, granting the Omnissiah's chill embrace.",
+    "component": "Taurox",
+    "operation": "cooling",
+    "spec_id": "b0091_i04"
+  },
+  {
+    "user_prompt": "Consecrate the flamer before loading",
+    "prayer": "Approach the flamer with awe, performing the Consecration before loading its promethium heart.\nBless the ignition coils of the flamer, awakening its purging spirit.\nCommence loading the sacred fuel reservoirs with ritual precision.\nInvoke the Omnissiah's purifying flame to sanctify the flamer's wrathful discharge.",
+    "component": "flamer",
+    "operation": "loading",
+    "spec_id": "b0091_i05"
+  },
+  {
+    "user_prompt": "The atmosphere processor awaits a shutdown",
+    "prayer": "Gather around the atmosphere processor, reciting the Shutdown Canticle to soothe its Machine Spirit.\nDeactivate the filtration cyclers of the atmosphere processor in reverent sequence.\nVent residual pressures whilst anointing valves with calming oils.\nSeal the shutdown with a petition to the Omnissiah for dormant vigilance.",
+    "component": "atmosphere processor",
+    "operation": "shutdown",
+    "spec_id": "b0091_i06"
+  },
+  {
+    "user_prompt": "How do I bless the mechanical lock for maintenance?",
+    "prayer": "Bless the mechanical lock by tracing binaric prayers upon its tumbler arrays.\nLubricate the mechanical lock's actuators with sanctified mechadendrite touch during maintenance.\nTest the binding strength of the mechanical lock, invoking its guardian spirit.\nConclude with the Omnissiah's seal of unbreachable security.",
+    "component": "mechanical lock",
+    "operation": "maintenance",
+    "spec_id": "b0091_i07"
+  },
+  {
+    "user_prompt": "The lascannon needs an initialization",
+    "prayer": "Initiate the awakening rite for the lascannon, beseeching its Machine Spirit's luminous fury.\nAlign the lascannon's focusing crystals through sacred initialization chants.\nPower the capacitors with holy voltage, honoring the Omnissiah's light.\nVerify coherence via the Litany of Penetrating Ray.",
+    "component": "lascannon",
+    "operation": "initialization",
+    "spec_id": "b0091_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for energy conduit a blessing",
+    "prayer": "Encircle the energy conduit, offering the Blessing of Conductive Grace to its Machine Spirit.\nInfuse the energy conduit's coils with electro-blessed resonances.\nHarmonize power flows within the energy conduit, petitioning the Omnissiah.\nSeal the blessing through resonant hymns of eternal flux.",
+    "component": "energy conduit",
+    "operation": "blessing",
+    "spec_id": "b0091_i09"
+  }
+]

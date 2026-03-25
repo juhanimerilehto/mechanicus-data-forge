@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: smelting furnace a repair",
+    "prayer": "Approach the smelting furnace with reverence, beseeching the Omnissiah for aid in its repair.\nInspect the fractured refractory linings of the smelting furnace, invoking the Rite of Mending.\nAnoint warped heat exchangers with sacred unguents to soothe the raging Machine Spirit.\nRealign the bellows mechanisms through binaric incantations of restoration.\nIgnite a test cycle, praising the Omnissiah as the smelting furnace roars renewed.",
+    "component": "smelting furnace",
+    "operation": "repair",
+    "spec_id": "s01130"
+  },
+  {
+    "user_prompt": "The drop pod awaits a maintenance",
+    "prayer": "Kneel before the drop pod's adamantium hull and recite the Maintenance Liturgy.\nLubricate descent servos and grav-chutes with blessed oils for the drop pod's Machine Spirit.\nInspect purity seals and ablative plating, replacing heresies of wear.\nTest retro-thrusters in simulated descent, invoking the Omnissiah's precision.\nSeal the drop pod with final binaric affirmations of readiness.",
+    "component": "drop pod",
+    "operation": "maintenance",
+    "spec_id": "s01131"
+  },
+  {
+    "user_prompt": "Bless the electoo for purification",
+    "prayer": "Extend mechadendrites to the electoo, chanting the Purification Doxology.\nPurge profane data-threads from the electoo's neural lattice with electro-ablations.\nImmerse in sanctified fluids to cleanse the Machine Spirit's corrupted pathways.\nReinitialize the electoo's purity matrix beneath the Omnissiah's gaze.\nVerify sanctity through noospheric resonance tests.",
+    "component": "electoo",
+    "operation": "purification",
+    "spec_id": "s01132"
+  },
+  {
+    "user_prompt": "The amplivisor awaits a diagnostics",
+    "prayer": "Attune cranial auspex to the amplivisor's optic arrays for diagnostics.\nInvoke scanning rites upon the amplivisor to reveal lens-servo anomalies.\nBeseech its Machine Spirit via noospheric probes for fault revelations.\nCompile the Litany of Errors from the amplivisor's diagnostic streams.\nCorrect with binaric amendments, lauding the Omnissiah's clarity.",
+    "component": "amplivisor",
+    "operation": "diagnostics",
+    "spec_id": "s01133"
+  },
+  {
+    "user_prompt": "Urgent Skorpius Disintegrator a startup needed",
+    "prayer": "Anoint the Skorpius Disintegrator's disintegrator cannon to commence startup.\nInvoke awakening canticles upon the Skorpius Disintegrator's Machine Spirit.\nPrime neutronium reactors and align targeting cogitators with sacred rites.\nChant the Hymn of Ignition as power surges through its mechanisms.\nTest-fire a low-yield bolt, affirming the Omnissiah's destructive blessing.",
+    "component": "Skorpius Disintegrator",
+    "operation": "startup",
+    "spec_id": "s01134"
+  },
+  {
+    "user_prompt": "The lance battery requires an emergency procedure",
+    "prayer": "Encircling the lance battery, beseech the Omnissiah for emergency procedure.\nVent plasma overcharges from the lance battery's capacitor banks with urgency.\nStabilize focusing crystals via counter-rituals against daemonic surges.\nReinforce containment fields with layered purity seals upon the lance battery.\nDivine operational restoration through auspex hymnals.",
+    "component": "lance battery",
+    "operation": "emergency procedure",
+    "spec_id": "s01135"
+  },
+  {
+    "user_prompt": "The air filtration awaits a sterilization",
+    "prayer": "Approach the air filtration unit, intoning sterilization benedictions.\nInfuse filtration membranes with sanctified incensory gases for purification.\nInvoke the air filtration's Machine Spirit to scour microbial heresies from ducts.\nCycle sterilization protocols whilst chanting the Litany of Cleanse.\nSeal and affirm purity with binary atmospheric scans.",
+    "component": "air filtration",
+    "operation": "sterilization",
+    "spec_id": "s01136"
+  },
+  {
+    "user_prompt": "Offer prayer for archive terminal a reset",
+    "prayer": "Kneel at the archive terminal, reciting the Reset Benediction of the Omnissiah.\nPurge corrupted data-spirits from the archive terminal's memory vaults.\nReboot the cogitator core with binaric invocation of renewal.\nReinstall sacred doctrina wafers into the archive terminal.\nSweep diagnostics to ensure harmonious data-flow restoration.",
+    "component": "archive terminal",
+    "operation": "reset",
+    "spec_id": "s01137"
+  },
+  {
+    "user_prompt": "The volkite weapon needs a loading",
+    "prayer": "Prepare the volkite weapon with reverence, aligning thermal cartridge breeches.\nLoad pyre-cartridges into the volkite weapon, beseeching acceptance.\nCoax the Machine Spirit through precise servo-gestures during chambering.\nCycle loading mechanisms with the Canticle of Thermal Union.\nPrime for radiant discharge, praising the Omnissiah's incinerating wrath.",
+    "component": "volkite weapon",
+    "operation": "loading",
+    "spec_id": "s01138"
+  },
+  {
+    "user_prompt": "The doctrina wafer needs an initialization",
+    "prayer": "Hold the doctrina wafer aloft, commencing initialization under Omnissiah's gaze.\nInterface noospheric loaders to awaken the doctrina wafer's encoded wisdom.\nChant binaric sequences binding its Machine Spirit to doctrinal purity.\nSlot into receiver cogitators with sanctified precision.\nVerify assimilation through test queries of immutable truth.",
+    "component": "doctrina wafer",
+    "operation": "initialization",
+    "spec_id": "s01139"
+  }
+]

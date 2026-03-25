@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0056_i00",
+    "user_request": "Blessing for the forge anvil heating during operation",
+    "topic": "forge anvil heating",
+    "component": "forge anvil heating",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the forge anvil heating during operation\n\n### TOPIC\nforge anvil heating\n\n### COMPONENT\nforge anvil heating\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- forge anvil heating\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed forge anvil heating, receive our supplication as the sacred flames approach thy surface.\nCongregation: We anoint the forge anvil heating with reverence and blessed oils of the Machine Spirits.\nPriest: First, we calibrate the thermal matrices; second, we purge corrupted residue from the anvil's crucible; third, we invoke the Omnissiah's grace upon this operation.\nCongregation: The forge anvil heating shall endure, tempered by faith and blessed by the Adeptus Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i01",
+    "user_request": "Offer a litany to steady the Thunderhawk before fuel purification",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Thunderhawk before fuel purification\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "Priest: Thunderhawk, noble vessel of the Emperor's might, we steady thy systems before fuel purification commences.\nCongregation: Blessed Thunderhawk, thy Machine Spirit rests assured in our ministrations.\nPriest: First, we examine the fuel conduits with sacred geometers; second, we purge contamination through sanctified filtration; third, we invoke the Omnissiah's blessing upon thy fuel purification.\nCongregation: The Thunderhawk ascends purified, its engines singing hymns of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i02",
+    "user_request": "Blessing for the neural interface during connection",
+    "topic": "neural interface connection",
+    "component": "neural interface",
+    "operation": "connection",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the neural interface during connection\n\n### TOPIC\nneural interface connection\n\n### COMPONENT\nneural interface\n\n### OPERATION\nconnection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- neural interface\n- connection\n\n### PRAYER\n",
+    "prayer": "Priest: O neural interface, conduit of consciousness and Machine Spirit communion, we prepare thee for sacred connection.\nCongregation: The neural interface shall bridge mortal and machine in blessed harmony.\nPriest: First, we anoint the synaptic nodes with blessed unguents; second, we calibrate the neural interface resonance frequencies; third, we perform connection under the watchful gaze of the Omnissiah.\nCongregation: Let the neural interface bind flesh to steel in eternal service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i03",
+    "user_request": "The stuck mechanism freeing demands guidance for stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe stuck mechanism freeing demands guidance for stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Priest: Bound mechanisms, seized by entropy and corruption, we invoke divine liberation through stuck mechanism freeing.\nCongregation: The stuck mechanism freeing shall restore motion to frozen gears and rusted joints.\nPriest: First, we apply sacred penetrating oils to the crystallized mechanisms; second, we perform methodical percussive therapy upon the stuck mechanism freeing; third, we chant the Litany of Restoration as the Omnissiah guides our hands.\nCongregation: Movement returns; the stuck mechanism freeing redeems what was lost to time.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i04",
+    "user_request": "Emergency rite: chainsword requires consecration",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: chainsword requires consecration\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Chainsword of righteous fury, we consecrate thy blade with the blood of the faithful and the blessing of the Adeptus Mechanicus.\nCongregation: The chainsword hungers for consecration, that it may taste the enemies of the Imperium.\nPriest: First, we purify the chainsword's teeth with sacred oils; second, we invoke the Machine Spirit dwelling within its blessed motor; third, we perform consecration through ritual chanting and the laying-on of blessed hands.\nCongregation: Let the chainsword sing with holy wrath, forever consecrated to the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i05",
+    "user_request": "Emergency rite: astropathic choir requires preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: astropathic choir requires preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Astropathic choir, sanctified voices of the Imperium's will, we prepare thee for communion across the void.\nCongregation: The astropathic choir readies itself, souls aligned for preparation and psychic resonance.\nPriest: First, we anoint each member of the astropathic choir with sacred unguents of focus; second, we attune their minds through the Ritual of Convergence; third, we invoke the Omnissiah's blessing upon their preparation.\nCongregation: The astropathic choir shall sing as one, their preparation complete and their voices unified across the stars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i06",
+    "user_request": "Prayer for calibration of the pressure gauge",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for calibration of the pressure gauge\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Pressure gauge, instrument of precision and sacred measurement, we perform thy calibration with reverent hands.\nCongregation: The pressure gauge shall reflect truth, its needle guided by the Omnissiah's unwavering eye.\nPriest: First, we cleanse the pressure gauge's face-plate of all profane dust; second, we adjust its calibration springs through methodical turning; third, we verify the pressure gauge against blessed reference standards as the Machine Spirits witness.\nCongregation: Perfect calibration achieved; the pressure gauge speaks only verity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i07",
+    "user_request": "My emergency bulkhead is failing during sealing — help",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy emergency bulkhead is failing during sealing — help\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Emergency bulkhead, guardian of the void and protector of the faithful, we invoke thy sealing against the hunger of the vacuum.\nCongregation: The emergency bulkhead shall hold; its seals shall not yield to pressure or corruption.\nPriest: First, we inspect the emergency bulkhead's gaskets and reinforcement plates; second, we engage the sealing mechanisms with sacred hydraulic force; third, we perform emergency bulkhead verification through pressure testing and the Litany of Containment.\nCongregation: The emergency bulkhead stands sealed, impenetrable, eternal in its duty.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i08",
+    "user_request": "My manufactorum shift beginning is failing during operation — help",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy manufactorum shift beginning is failing during operation — help\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Manufactorum shift beginning, threshold of sacred labor and industrial devotion, we bless thy operation with the Emperor's favor.\nCongregation: The manufactorum shift beginning shall commence in orderly service to the Imperium.\nPriest: First, we perform the Ritual of Ignition upon the manufactorum shift beginning's primary engines; second, we distribute blessed lubricants throughout the production lines; third, we invoke the Omnissiah's grace upon this operation of industry and faith.\nCongregation: The manufactorum shift beginning awakens; production flows like the blood of the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0056_i09",
+    "user_request": "Emergency rite: autodoc emergency requires protocol",
+    "topic": "autodoc emergency protocol",
+    "component": "autodoc emergency",
+    "operation": "protocol",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: autodoc emergency requires protocol\n\n### TOPIC\nautodoc emergency protocol\n\n### COMPONENT\nautodoc emergency\n\n### OPERATION\nprotocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- autodoc emergency\n- protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Autodoc emergency, mercy-bringer and healer of the wounded, we invoke thy sacred protocol in this hour of mortal peril.\nCongregation: The autodoc emergency shall respond; its protocol shall preserve life and limb in the Emperor's name.\nPriest: First, we activate the autodoc emergency's diagnostic subroutines with trembling fingers; second, we administer blessed stimulants and surgical preparations per protocol; third, we chant the Litany of Mercy as the Omnissiah guides the autodoc emergency's mechanical arms.\nCongregation: Life is preserved; the autodoc emergency's protocol has spoken, and the faithful shall endure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

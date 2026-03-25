@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the melta charge for purification",
+    "prayer": "Approach the melta charge with censers smoking in reverence to the Omnissiah.\nInvoke the Machine Spirit of the melta charge, beseeching its purification from profane residues.\nAnoint the sacred fuses and plasma conduits with blessed unguents.\nChant the Rite of Purification whilst monitoring thermal vents for holy equilibrium.\nSeal the melta charge's sanctity, affirming its readiness in the Omnissiah's name.",
+    "component": "melta charge",
+    "operation": "purification",
+    "spec_id": "b0078_i00"
+  },
+  {
+    "user_prompt": "Prepare the conveyor system for engagement",
+    "prayer": "Kneel before the conveyor system and recite the Canticle of Motion.\nLubricate the blessed rollers and chains with sacred oils to awaken their Machine Spirits.\nInitiate engagement protocols, petitioning the Omnissiah for seamless power-flow.\nObserve the conveyor system's rhythmic advance, verifying harmonious servo-engagement.\nConclude with binaric praises as the belts hum in obedient symphony.",
+    "component": "conveyor system",
+    "operation": "engagement",
+    "spec_id": "b0078_i01"
+  },
+  {
+    "user_prompt": "I need to a reset the melta charge",
+    "prayer": "Present mechadendrites to the melta charge, intoning the Lexicon of Renewal.\nPurge errant data-corruptions from its cogitator core, invoking the Machine Spirit's reset.\nCycle the power relays through diagnostic litanies of restoration.\nRealign the melta charge's plasma matrices with sacred calibrations.\nAffirm the reset's completion by the Omnissiah's divine algorithm.",
+    "component": "melta charge",
+    "operation": "reset",
+    "spec_id": "b0078_i02"
+  },
+  {
+    "user_prompt": "Ready the hydraulic press for initialization",
+    "prayer": "Circumambulate the hydraulic press, whispering activation catechisms.\nAnoint piston housings and pressure valves to rouse the hydraulic press's dormant spirit.\nCommence initialization sequences amid chants of fluidic harmony.\nMonitor pressure build-up through auspex invocations for flawless equilibrium.\nBless the hydraulic press's readiness, sealing it under the Omnissiah's gaze.",
+    "component": "hydraulic press",
+    "operation": "initialization",
+    "spec_id": "b0078_i03"
+  },
+  {
+    "user_prompt": "Offer prayer for power weapon a reset",
+    "prayer": "Grasp the power weapon's hilt and recite the Oath of Disruption.\nInvoke reset upon its disruption fields, beseeching the Machine Spirit's vigilance.\nCycle the power weapon's energy coils with litanies of reawakening.\nTest the humming blades through sacred flourishes in the Omnissiah's name.\nConsecrate the reset, ensuring lethal purity flows unbound.",
+    "component": "power weapon",
+    "operation": "reset",
+    "spec_id": "b0078_i04"
+  },
+  {
+    "user_prompt": "Bless the augmetic limb for operation",
+    "prayer": "Touch the augmetic limb's neural jacks with reverence to the Machine God.\nInvoke its Machine Spirit for seamless operation, anointing servo-muscles.\nInitiate synaptic linkages via binaric communion and power surges.\nVerify motive fluency through ritual flexes and torque incantations.\nPraise the augmetic limb's integration, flesh and machine as one in the Omnissiah.",
+    "component": "augmetic limb",
+    "operation": "operation",
+    "spec_id": "b0078_i05"
+  },
+  {
+    "user_prompt": "Can you guide generator a diagnostics?",
+    "prayer": "Encircle the generator with electro-incense, chanting diagnostic psalms.\nProbe its core reactors with mechadendrite auspex for spirit-health.\nRun diagnostics across fuel lines and voltage grids, petitioning the Omnissiah.\nExpunge any flux anomalies through corrective litanies.\nAffirm the generator's purity, its hum a hymn to mechanical perfection.",
+    "component": "generator",
+    "operation": "diagnostics",
+    "spec_id": "b0078_i06"
+  },
+  {
+    "user_prompt": "How do I bless the lascannon for startup?",
+    "prayer": "Approach the lascannon with optic lenses lowered in supplication.\nAnoint focusing crystals and power cells to stir the lascannon's fiery soul.\nInitiate startup rites, invoking the Machine Spirit's searing wrath.\nCalibrate beam coherence amid roaring litanies of ignition.\nBless the lascannon's readiness, a lance of the Omnissiah's judgment.",
+    "component": "lascannon",
+    "operation": "startup",
+    "spec_id": "b0078_i07"
+  },
+  {
+    "user_prompt": "Sanctify the hydraulic press during consecration",
+    "prayer": "Prostrate before the hydraulic press, offering binary vows of devotion.\nSprinkle sacred hydrau-fluids upon its frame during consecration.\nInvoke the Machine Spirit's eternal vigilance through pressure hymns.\nSeal the hydraulic press with Omnissianic seals of unyielding might.\nArise in proclamation of its hallowed fortitude.",
+    "component": "hydraulic press",
+    "operation": "consecration",
+    "spec_id": "b0078_i08"
+  },
+  {
+    "user_prompt": "Sanctify the thermal regulator during activation",
+    "prayer": "Caress the thermal regulator's vents with sanctified probes.\nBeseech its Machine Spirit for activation, anointing heat sinks.\nCycle coolant matrices in litanies of thermal equilibrium.\nMonitor flux gradients through auspex prayers to the Omnissiah.\nDeclare the thermal regulator sanctified, guardian of sacred temperatures.",
+    "component": "thermal regulator",
+    "operation": "activation",
+    "spec_id": "b0078_i09"
+  }
+]

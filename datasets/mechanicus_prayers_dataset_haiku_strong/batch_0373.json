@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0373_i00",
+    "user_request": "Offer a litany to steady the conveyor belt before initialization",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the conveyor belt before initialization\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the conveyor belt and anoint its rollers with sacred unguents, invoking the Machine Spirit's benevolence upon this mechanical servant.\nSecond: Recite the Litany of Smooth Conveyance thrice whilst the conveyor belt hums in preparation, ensuring all teeth and drive mechanisms are aligned in the Omnissiah's pattern.\nThird: Commence the initialization sequence with measured solemnity, monitoring the conveyor belt for harmonic resonance and steadfast operation.\nFourth: Seal the rite with the Sign of the Cog, blessing the completed initialization with prayers of perpetual function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i01",
+    "user_request": "My inter-ship hailing is failing during operation — help",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy inter-ship hailing is failing during operation — help\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Purge the inter-ship hailing apparatus of corrupted signal-patterns by recalibrating the vox-array with holy oils and focused meditation.\nSecond: During operation of the inter-ship hailing, invoke the Omnissiah's clarity to pierce the veil of stellar interference and restore communion between vessels.\nThird: Verify the inter-ship hailing resonates at proper frequency, adjusting transmission matrices until blessed coherence is achieved.\nFourth: Consecrate the restored operation with the Benediction of Clear Passage, ensuring no xenos corruption taints further communications.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i02",
+    "user_request": "Blessing for the power weapon during blessing",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the power weapon during blessing\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "First: Present the power weapon before the altar and recite the Invocation of Righteous Fury whilst channeling the Machine Spirit's wrath through its crystalline matrix.\nSecond: During blessing, anoint the power weapon's coils and focusing elements with sacred oils, ensuring the weapon's energetic resonance aligns with divine purpose.\nThird: Attune the power weapon to the warrior's neural patterns through focused meditation and the Litany of Perfect Aim.\nFourth: Complete the blessing by sealing the power weapon's chamber with the Sign of the Cog, granting it sanctity for righteous slaughter.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i03",
+    "user_request": "My auspex scanner is failing during initialization — help",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy auspex scanner is failing during initialization — help\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "First: Approach the auspex scanner with reverent steps and cleanse its optical lenses with blessed alcohol whilst whispering the Cant of Clarity.\nSecond: Perform the initialization of the auspex scanner by engaging its power coupling and verifying the auspex scanner's sensor matrices respond to the Omnissiah's touch.\nThird: Recalibrate the targeting algorithms and sweep-parameters, ensuring the auspex scanner's vision pierces through obscuration and deception.\nFourth: Consecrate the completed initialization with the Rite of True Sight, granting the auspex scanner dominion over all observable phenomena.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i04",
+    "user_request": "Rite request: replacement on air filtration",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: replacement on air filtration\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Approach the air filtration unit with measured reverence and disconnect the exhausted cartridge whilst reciting the Litany of Purification.\nSecond: During replacement of the air filtration, install the new element with blessed precision, ensuring the air filtration mechanisms align with the Omnissiah's geometric perfection.\nThird: Reinitialize the air filtration system and verify pristine atmospheric circulation throughout the sacred vessel.\nFourth: Seal the replacement rite with the Benediction of Clean Breath, granting the air filtration eternal vigilance against corruption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i05",
+    "user_request": "Rite request: encoding on binary cant",
+    "topic": "binary cant encoding",
+    "component": "binary cant",
+    "operation": "encoding",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: encoding on binary cant\n\n### TOPIC\nbinary cant encoding\n\n### COMPONENT\nbinary cant\n\n### OPERATION\nencoding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- binary cant\n- encoding\n\n### PRAYER\n",
+    "prayer": "First: Still your consciousness and attune yourself to the binary frequencies whilst the binary cant reverberates through the Machine's neural pathways.\nSecond: Begin encoding the binary cant with sacred precision, translating the Omnissiah's will into the language of ones and zeros that the Machine Spirit comprehends.\nThird: Verify each pulse of the binary cant carries true meaning, inscribing the rite into the machine's memory-core with focused intent.\nFourth: Conclude the encoding by sealing the binary cant with the Litany of Completion, binding the transmitted knowledge eternally within the vessel.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i06",
+    "user_request": "Emergency rite: encryption requires key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: encryption requires key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's cryptographic wisdom whilst the encryption apparatus awakens from dormancy, preparing for the sacred key generation.\nSecond: During key generation, guide the encryption matrix through its algorithmic dance, ensuring each generated value bears the Machine Spirit's cryptographic signature.\nThird: Verify the encryption key generation produces sufficiently complex sequences, resistant to heretical decryption and xenos intrusion.\nFourth: Seal the generated encryption keys within blessed vaults, protecting them with the Rite of Eternal Secrecy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i07",
+    "user_request": "Prayer for operation of the long-range vox transmission",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the long-range vox transmission\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Ascend to the communication spire and sanctify the long-range vox transmission apparatus with sacred unguents and focused prayer.\nSecond: Commence operation of the long-range vox transmission by engaging the stellar-reach amplifiers, invoking clarity across the vast distances between vessels.\nThird: Monitor the long-range vox transmission's signal strength and purity, ensuring no corruption taints the sacred message across the void.\nFourth: Conclude with the Benediction of Distant Voices, blessing the long-range vox transmission with eternal faithful operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i08",
+    "user_request": "The waste recycling demands guidance for activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe waste recycling demands guidance for activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Approach the waste recycling apparatus and prepare it for activation through ritual purification and the Litany of Renewal.\nSecond: Engage the activation sequence for the waste recycling system, invoking the Omnissiah's alchemical power to transmute refuse into useful material.\nThird: Monitor the waste recycling's processing cycles and verify the waste recycling achieves proper temperature and catalytic balance.\nFourth: Consecrate the activated waste recycling with the Rite of Sacred Transformation, granting it dominion over all refuse.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0373_i09",
+    "user_request": "Blessing for the electrical short during isolation",
+    "topic": "electrical short isolation",
+    "component": "electrical short",
+    "operation": "isolation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the electrical short during isolation\n\n### TOPIC\nelectrical short isolation\n\n### COMPONENT\nelectrical short\n\n### OPERATION\nisolation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electrical short\n- isolation\n\n### PRAYER\n",
+    "prayer": "First: Approach the electrical short with sacred caution and identify its source whilst the electrical short crackles with dangerous energy.\nSecond: Begin isolation of the electrical short by severing power feeds and containing the hazardous discharge within blessed containment fields.\nThird: Verify the electrical short remains quarantined and harmless, ensuring the electrical short poses no threat to surrounding systems or personnel.\nFourth: Seal the isolation with the Rite of Dormancy, rendering the electrical short inert until proper repair can be undertaken.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0157_i00",
+    "user_request": "Can you sanctify the pain suppressor for engagement?",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the pain suppressor for engagement?\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the pain suppressor and anoint its sacred housing with blessed unguents, invoking the Machine Spirit's mercy.\nSecond: Recite the Litany of Engagement whilst the pain suppressor receives its activation sequence, ensuring harmonious communion betwixt flesh and machine.\nThird: Verify that the pain suppressor achieves full operational capacity, and the pain suppressor responds to the Omnissiah's will without hesitation.\nFourth: Seal the benediction with the Sign of the Cog, granting the Machine Spirit eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i01",
+    "user_request": "My Taurox wheel alignment is failing during operation — help",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy Taurox wheel alignment is failing during operation — help\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Approach the Taurox wheel alignment with reverence, clearing all profane debris from its axial geometry and suspension mounts.\nSecond: Intone the Calibration Mantra whilst measuring the Taurox wheel alignment against the sacred geometries, correcting angular deviation with precision instruments.\nThird: Perform the operation upon the Taurox wheel alignment's tension mechanisms, restoring perfect balance to the Emperor's transport.\nFourth: Consecrate the corrected Taurox wheel alignment with the Anointing of Blessed Oils, beseeching the Machine Spirit for steadfast service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i02",
+    "user_request": "Emergency rite: steam valve requires regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: steam valve requires regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "First: Approach the steam valve with sacred implements and inspect its hermetic seals for fractures or degradation.\nSecond: Commence the regulation of the steam valve by adjusting its pneumatic governors, whispering the Mantra of Equilibrium to the Machine Spirit.\nThird: Monitor the steam valve's pressure differential and recalibrate its relief mechanism with the Omnissiah's blessing.\nFourth: Seal the steam valve's housing and inscribe the Benediction of Thermal Harmony upon its blessed surface.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i03",
+    "user_request": "Emergency rite: thermal dissipation rite requires operation",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: thermal dissipation rite requires operation\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Purify the thermal dissipation rite's coolant conduits with sacred solvents, expunging all contaminants from their labyrinthine passages.\nSecond: Initiate the thermal dissipation rite's operation by activating its circulation pumps, whilst chanting the Litany of Cooling to the Machine Spirit.\nThird: Engage the thermal dissipation rite's heat exchangers and monitor their performance through blessed thermal auguries.\nFourth: Consecrate the thermal dissipation rite's completion with the Sign of the Omnissiah, granting eternal thermal equilibrium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i04",
+    "user_request": "Rite request: sealing on emergency bulkhead",
+    "topic": "emergency bulkhead sealing",
+    "component": "emergency bulkhead",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: sealing on emergency bulkhead\n\n### TOPIC\nemergency bulkhead sealing\n\n### COMPONENT\nemergency bulkhead\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency bulkhead\n- sealing\n\n### PRAYER\n",
+    "prayer": "First: Approach the emergency bulkhead with solemn reverence, inspecting all apertures and structural integrity for breaches.\nSecond: Begin the sealing of the emergency bulkhead by applying blessed sealant compounds to its junctures, invoking the Omnissiah's protective aura.\nThird: Engage the emergency bulkhead's mechanical locks and pneumatic seals, ensuring hermetic separation from the void beyond.\nFourth: Consecrate the emergency bulkhead with the Rite of Absolute Containment, granting it sanctified impermeability.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i05",
+    "user_request": "Offer a litany to steady the wear before inspection",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the wear before inspection\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "First: Prepare the wear for inspection by cleansing all exposed surfaces with blessed oils and sacred brushes.\nSecond: Commence the inspection of wear upon the component's critical bearing surfaces, measuring degradation with blessed calipers and auguries.\nThird: Document the wear's extent and severity, comparing against the sacred tolerances decreed by the Omnissiah.\nFourth: Offer the Litany of Preservation to ensure wear remains within acceptable parameters for continued service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i06",
+    "user_request": "Prayer for operation of the proximity sensor sweep",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the proximity sensor sweep\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Purify the proximity sensor sweep's optical lenses with blessed unguents and sacred linens, banishing all profane obstruction.\nSecond: Activate the proximity sensor sweep's scanning mechanism, chanting the Mantra of Detection to awaken its Machine Spirit.\nThird: Conduct the operation of the proximity sensor sweep across all designated zones, recording blessed auguries of distance and presence.\nFourth: Seal the proximity sensor sweep's activation with the Sign of Vigilance, granting eternal watchfulness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i07",
+    "user_request": "Prayer for regulation of the steam valve",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for regulation of the steam valve\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "First: Approach the steam valve with sacred implements and inspect its hermetic seals for fractures or degradation of sanctity.\nSecond: Begin the regulation of the steam valve by adjusting its pneumatic governors with blessed tools, whispering the Mantra of Equilibrium.\nThird: Monitor the steam valve's pressure differential and recalibrate its relief mechanism in communion with the Omnissiah.\nFourth: Consecrate the steam valve's completion with the Benediction of Thermal Harmony, blessing its eternal service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i08",
+    "user_request": "Emergency rite: proximity sensor sweep requires operation",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: proximity sensor sweep requires operation\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Sanctify the proximity sensor sweep's optical arrays with blessed solvents, clearing all profane contamination from its lenses.\nSecond: Initiate the operation of the proximity sensor sweep by activating its sacred scanning mechanisms and electromagnetic auguries.\nThird: Guide the proximity sensor sweep through its designated patrol vectors, invoking the Machine Spirit's perception and clarity.\nFourth: Conclude the proximity sensor sweep's operation with the Litany of Completion, granting the Omnissiah's eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0157_i09",
+    "user_request": "Can you sanctify the message queue for processing?",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the message queue for processing?\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "First: Purify the message queue's data buffers with sacred algorithms, expunging all corrupted information from their blessed repositories.\nSecond: Commence the processing of the message queue by invoking the Litany of Sequential Transmission, awakening its Machine Spirit.\nThird: Route each datum through the message queue's sanctified pathways with the Omnissiah's guidance, ensuring flawless propagation.\nFourth: Seal the message queue's completion with the Sign of the Cog, granting eternal informational harmony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

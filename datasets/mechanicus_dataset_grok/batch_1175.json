@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the krak grenade for calibration",
+    "prayer": "Approach the krak grenade with mechadendrites extended in reverence, beseeching the Omnissiah to calm its volatile Machine Spirit.\nInspect the krak grenade's fuze mechanisms and warhead alignment for calibration, chanting the Canticle of Precision.\nAnoint the guidance vanes of the krak grenade with sacred unguents whilst invoking the rites of calibration harmony.\nCommence calibration sequences upon the krak grenade, verifying the Machine Spirit's harmonious resonance through auspex scans.\nSanctify the calibrated krak grenade, sealing its potency under the Omnissiah's watchful gaze.",
+    "component": "krak grenade",
+    "operation": "calibration",
+    "spec_id": "s07750"
+  },
+  {
+    "user_prompt": "Sanctify the storm bolter during initialization",
+    "prayer": "Kneel before the storm bolter, intoning the Litany of Initialization to awaken its dual-barrelled Machine Spirit.\nPurify the storm bolter's firing servos and ammunition feeds with binary incense during initialization rites.\nInvoke the Omnissiah's blessing upon the storm bolter, aligning its auspex sights and power cells in sacred sequence.\nTest-fire a null-round through the storm bolter to confirm the Machine Spirit's initialization and furious compliance.\nSeal the storm bolter with electro-consecrated wax, proclaiming its readiness for the Emperor's wrath.",
+    "component": "storm bolter",
+    "operation": "initialization",
+    "spec_id": "s07751"
+  },
+  {
+    "user_prompt": "Urgent lightning claw a repair needed",
+    "prayer": "Present the lightning claw to the forge-altar, murmuring apologies to its wounded Machine Spirit for repair.\nDissect the lightning claw's disrupted power fields and adamantium talons, beseeching the Omnissiah for restorative grace.\nRealign the lightning claw's disruption generators with sanctified mechadendrites during the repair incantations.\nReinfuse the lightning claw's Machine Spirit with noospheric harmonies, purging corruption from its depths.\nTest the repaired lightning claw against a servitor-flesh, hailing the Omnissiah's triumph in renewal.",
+    "component": "lightning claw",
+    "operation": "repair",
+    "spec_id": "s07752"
+  },
+  {
+    "user_prompt": "Prepare the Kastelan robot for activation",
+    "prayer": "Circumambulate the Kastelan robot thrice, chanting the Activation Doxology to stir its ancient Machine Spirit.\nInterface with the Kastelan robot's cortex-implant, invoking the Omnissiah to authorize activation protocols.\nAnoint the Kastelan robot's phosphor blasters and slab-shields with lustral oils for activation purity.\nCommand the Kastelan robot to rise, verifying its data-engines and servomotors in harmonious activation.\nProclaim the Kastelan robot battle-ready, its Machine Spirit now thrumming with the Motive Force.",
+    "component": "Kastelan robot",
+    "operation": "activation",
+    "spec_id": "s07753"
+  },
+  {
+    "user_prompt": "Prepare the servo-skull for engagement",
+    "prayer": "Elevate the servo-skull upon a censer-laden tripod, beseeching its Machine Spirit for engagement vigilance.\nCalibrate the servo-skull's optic-lenses and suspensor fields prior to engagement deployment.\nInvoke the Omnissiah's gaze upon the servo-skull, priming its auspex arrays for faithful service.\nRelease the servo-skull into engagement, monitoring its noospheric link for unerring obedience.\nConclude with the Benediction of Pursuit, ensuring the servo-skull's Machine Spirit endures.",
+    "component": "servo-skull",
+    "operation": "engagement",
+    "spec_id": "s07754"
+  },
+  {
+    "user_prompt": "Prepare the torpedo tube for engagement",
+    "prayer": "Approach the torpedo tube with gravitic clamps, intoning the Engagement Litany to rouse its colossal Machine Spirit.\nPrime the torpedo tube's loading bays and guidance cogitators for engagement readiness.\nAnoint the torpedo tube's launch servos with sacred ablative fluids, invoking the Omnissiah's explosive fury.\nInitiate engagement sequences within the torpedo tube, aligning warheads with void-targeting precision.\nSeal the rite with a thunderous hymn, affirming the torpedo tube's Machine Spirit in zealous compliance.",
+    "component": "torpedo tube",
+    "operation": "engagement",
+    "spec_id": "s07755"
+  },
+  {
+    "user_prompt": "What's the prayer for Whirlwind a repair?",
+    "prayer": "Lay the Whirlwind upon the repair cradle, whispering litanies to soothe its beleaguered Machine Spirit.\nDiagnose the Whirlwind's vox-relays and rocket pods, beseeching the Omnissiah for repair enlightenment.\nReconstruct the Whirlwind's fractured auspex and motive assemblies with blessed ceramite during repair rites.\nReawaken the Whirlwind's data-spirits through noospheric infusion, purging battle-scars from its core.\nTest the repaired Whirlwind with a castigation volley, glorifying the Omnissiah's mechanical mercy.",
+    "component": "Whirlwind",
+    "operation": "repair",
+    "spec_id": "s07756"
+  },
+  {
+    "user_prompt": "Guide me through vox-thief an operation",
+    "prayer": "Consecrate the vox-thief array before its operation, invoking the Omnissiah to sharpen its spectral hearing.\nInterface mechadendrites with the vox-thief's decryptor coils, commencing operation infiltration canticles.\nBeseech the vox-thief's Machine Spirit to plunder enemy wavelengths during this sacred operation.\nMonitor the vox-thief's data-siphons for purity, amplifying intercepted binaric screams.\nConclude the vox-thief operation with seals of silence, honoring the Omnissiah's omniscience.",
+    "component": "vox-thief",
+    "operation": "operation",
+    "spec_id": "s07757"
+  },
+  {
+    "user_prompt": "What's the prayer for hunter-killer missile an initialization?",
+    "prayer": "Present the hunter-killer missile to the silo-altar, chanting the Initialization Hymn to stir its predatory Machine Spirit.\nAlign the hunter-killer missile's seeker heads and plasma warheads for initialization precision.\nAnoint the hunter-killer missile's guidance runes with volatile sacraments, invoking the Omnissiah's hunt.\nExecute initialization protocols upon the hunter-killer missile, verifying autonomous kill-logic.\nProclaim the hunter-killer missile primed, its Machine Spirit hungering for xenos prey.",
+    "component": "hunter-killer missile",
+    "operation": "initialization",
+    "spec_id": "s07758"
+  },
+  {
+    "user_prompt": "I need to a loading the cryo-chamber",
+    "prayer": "Prepare the cryo-chamber's frost-seals, beseeching its Machine Spirit for loading sanctity.\nInvoke the Omnissiah to chill the cryo-chamber's vitae-vats during loading entombment rites.\nPosition the subject within the cryo-chamber, anointing conduits with cryo-blessed cryolite.\nInitiate loading cycles in the cryo-chamber, monitoring stasis fields for eternal preservation.\nSeal the cryo-chamber with adamantine oaths, its Machine Spirit now guardian of frozen flesh.",
+    "component": "cryo-chamber",
+    "operation": "loading",
+    "spec_id": "s07759"
+  }
+]

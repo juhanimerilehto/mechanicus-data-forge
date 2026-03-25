@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a recalibration the jump pack",
+    "prayer": "Approach the jump pack with reverence, mechadendrites humming the Binary Litany.\nBeseech the Machine Spirit of the jump pack to yield to recalibration's grace.\nAnoint thrust nozzles with sacred oils, invoking Omnissiah's precision.\nInitiate recalibration rites, aligning gyrostabilizers in harmonious flux.\nVerify the jump pack's spirit through auspex chants of equilibrium.",
+    "component": "jump pack",
+    "operation": "recalibration",
+    "spec_id": "s06000"
+  },
+  {
+    "user_prompt": "What's the prayer for galvanic rifle a preparation?",
+    "prayer": "Kneel before the galvanic rifle, intoning the Rite of Preparation.\nAwaken the galvanic rifle's Machine Spirit with electro-incantations.\nPurify its coils with blessed incense for the preparation ordeal.\nCalibrate power relays whilst beseeching the Omnissiah's wrathful fury.\nSeal the galvanic rifle's sanctity with sigils of unerring discharge.",
+    "component": "galvanic rifle",
+    "operation": "preparation",
+    "spec_id": "s06001"
+  },
+  {
+    "user_prompt": "Ready the force pylon for emergency procedure",
+    "prayer": "Hasten to the force pylon in exigency, reciting emergency protocols.\nInvoke the force pylon's defiant Machine Spirit against warp-taint.\nAnoint emitters with argent wards for the emergency procedure.\nCommence the emergency procedure, channeling Omnissiah's bulwark.\nAffirm the force pylon's resilience via lumen-diagnostic litanies.",
+    "component": "force pylon",
+    "operation": "emergency procedure",
+    "spec_id": "s06002"
+  },
+  {
+    "user_prompt": "The long las awaits a consecration",
+    "prayer": "Present the long las unto the altar of consecration, hands purified.\nChant the Consecration Canticle to rouse its crystalline Machine Spirit.\nSanctify the long las barrel with myrrh-laced ablutions.\nImbue the long las focusing arrays with Omnissiah's luminous gaze.\nTest consecration through las-volley invocations of purity.",
+    "component": "long las",
+    "operation": "consecration",
+    "spec_id": "s06003"
+  },
+  {
+    "user_prompt": "Bless the Terminator armour for reset",
+    "prayer": "Encircle the Terminator armour, murmuring reset binaric hymns.\nPurge errant data-daemons from the Terminator armour's cogitators.\nAnoint servos and plates invoking the Machine Spirit's rebirth.\nExecute the reset sequence under Omnissiah's unyielding decree.\nConfirm the Terminator armour's vigil with auspex verifications.",
+    "component": "Terminator armour",
+    "operation": "reset",
+    "spec_id": "s06004"
+  },
+  {
+    "user_prompt": "The psych-out grenade requires an initialization",
+    "prayer": "Grasp the psych-out grenade solemnly for initialization rites.\nBeseech its warp-shielded Machine Spirit to embrace activation.\nInscribe psychic runes upon the psych-out grenade's casing.\nInitiate initialization whilst invoking Omnissiah's nullifying wrath.\nValidate through psycho-reactive diagnostics and sealing prayers.",
+    "component": "psych-out grenade",
+    "operation": "initialization",
+    "spec_id": "s06005"
+  },
+  {
+    "user_prompt": "Consecrate the data-sluice before recalibration",
+    "prayer": "Commune with the data-sluice, data-streams whispering supplications.\nCleanse data-sluice conduits of binary corruptions before recalibration.\nAnoint flow-regulators, awakening the data-sluice Machine Spirit.\nPerform recalibration harmonies in Omnissiah's algorithmic wisdom.\nRatify data-sluice purity via noospheric integrity scans.",
+    "component": "data-sluice",
+    "operation": "recalibration",
+    "spec_id": "s06006"
+  },
+  {
+    "user_prompt": "Emergency: memograph implant a targeting",
+    "prayer": "Implant the memograph implant with urgent targeting binarics.\nInvoke the memograph implant's Machine Spirit for targeting acuity.\nAlign neural interfaces through sacred calibration oils.\nExecute targeting protocols under Omnissiah's predatory sight.\nAffix memograph implant stability with post-rite auspex litanies.",
+    "component": "memograph implant",
+    "operation": "targeting",
+    "spec_id": "s06007"
+  },
+  {
+    "user_prompt": "Consecrate the torpedo tube before synchronization",
+    "prayer": "Align before the torpedo tube, chanting synchronization psalms.\nRouse the torpedo tube's Machine Spirit with pressure-seal incantations.\nBless guidance vanes prior to synchronization's sacred union.\nInitiate synchronization whilst beseeching Omnissiah's trajectile truth.\nVerify torpedo tube coherence through test-fire diagnostics.",
+    "component": "torpedo tube",
+    "operation": "synchronization",
+    "spec_id": "s06008"
+  },
+  {
+    "user_prompt": "Urgent melta bomb a cooling needed",
+    "prayer": "Tend the melta bomb in haste, intoning cooling catechisms.\nPacify the melta bomb's plasma-heart Machine Spirit with chillants.\nAnoint heat-sinks invoking Omnissiah's tempered fury.\nCommence cooling rites to avert thermic cataclysm.\nSeal the melta bomb's equilibrium with thermal litanies and scans.",
+    "component": "melta bomb",
+    "operation": "cooling",
+    "spec_id": "s06009"
+  }
+]

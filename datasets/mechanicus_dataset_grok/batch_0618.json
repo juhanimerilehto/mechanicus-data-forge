@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Guide me through kataphron breacher a purification",
+    "prayer": "Approach the kataphron breacher with censer aloft, intoning the Canticle of Purification to rouse its dormant Machine Spirit.\nScour the kataphron breacher's hull with sanctified abrasives, expunging xenos taint and warp-born impurities.\nAnoint its breacher drills and servomotors with blessed unguents, beseeching the Omnissiah for unyielding purity.\nInvoke the Rite of Final Catharsis upon the kataphron breacher, confirming the Machine Spirit's restored vigilance through auspex litanies.",
+    "component": "kataphron breacher",
+    "operation": "purification",
+    "spec_id": "s02180"
+  },
+  {
+    "user_prompt": "Bless the utility mechadendrite for engagement",
+    "prayer": "Extend mechadendrite probes towards the utility mechadendrite, chanting the Invocation of Engagement to awaken its cogitative core.\nAlign the utility mechadendrite's manipulators with sacred calipers, sanctifying their union under the Omnissiah's gaze.\nBeseech the Machine Spirit of the utility mechadendrite to embrace its task, lubricating linkages with holy oils.\nInitiate engagement protocols whilst reciting binaric hymns, ensuring harmonious servo-response.",
+    "component": "utility mechadendrite",
+    "operation": "engagement",
+    "spec_id": "s02181"
+  },
+  {
+    "user_prompt": "My optical mechadendrite is ready for sterilization",
+    "prayer": "Present the optical mechadendrite before the purity seals, murmuring the Litany of Sterilization to purify its lens arrays.\nIrradiate the optical mechadendrite's photoreceptors with sanctified rad-scourges, banishing microbial heresies.\nAnoint optical conduits with sterilizing incense, invoking the Machine Spirit's clarity from the Omnissiah.\nConclude the sterilization of the optical mechadendrite through diagnostic purges and auspex verification.",
+    "component": "optical mechadendrite",
+    "operation": "sterilization",
+    "spec_id": "s02182"
+  },
+  {
+    "user_prompt": "Help me an initialization the grav chute",
+    "prayer": "Position thyself beside the grav chute, intoning the Doxology of Initialization to stir its gravitic Machine Spirit.\nCalibrate the grav chute's suspensor fields with electro-incantations, aligning them to the Omnissiah's will.\nAnoint emitter coils with consecrated lubricants, beseeching flawless initialization.\nActivate the grav chute's core sequence amid binaric praises, affirming the Machine Spirit's ascent.",
+    "component": "grav chute",
+    "operation": "initialization",
+    "spec_id": "s02183"
+  },
+  {
+    "user_prompt": "Emergency: mind-impulse unit a calibration",
+    "prayer": "Hasten to the mind-impulse unit in exigency, chanting the Calibration Canticle to soothe its neural Machine Spirit.\nInterface cranial augmetics with the mind-impulse unit, reciting synaptic litanies for precise alignment.\nAdjust impulse relays via sacred voltmeters, invoking the Omnissiah's precision upon the mind-impulse unit.\nVerify calibration through noospheric diagnostics, sealing the mind-impulse unit with purity wards.",
+    "component": "mind-impulse unit",
+    "operation": "calibration",
+    "spec_id": "s02184"
+  },
+  {
+    "user_prompt": "Sanctify the stasis pod during preparation",
+    "prayer": "Encircling the stasis pod, invoke the Benediction of Preparation to honour its cryogenic Machine Spirit.\nSanctify the stasis pod's cryo-manifolds with anointed cryo-fluids, preparing for temporal suspension.\nBeseech the Omnissiah to bless the stasis pod's containment fields during this sacred preparation.\nSeal the stasis pod with litanies of stasis, confirming the Machine Spirit's eternal vigil.",
+    "component": "stasis pod",
+    "operation": "preparation",
+    "spec_id": "s02185"
+  },
+  {
+    "user_prompt": "Help me a recalibration the null field generator",
+    "prayer": "Confront the null field generator solemnly, intoning the Recalibration Rite to realign its entropic Machine Spirit.\nProbe the null field generator's warp-nullifiers with mechadendrite auspex, purging dissonant resonances.\nRecalibrate flux capacitors under Omnissiah's decree, anointing with null-conductive salves.\nFinalize the null field generator's recalibration through harmonic field tests and binaric affirmations.",
+    "component": "null field generator",
+    "operation": "recalibration",
+    "spec_id": "s02186"
+  },
+  {
+    "user_prompt": "My Manticore is ready for operation",
+    "prayer": "Bow before the Manticore, chanting the Operational Invocation to rouse its colossal Machine Spirit.\nSanctify the Manticore's missile bays and tread assemblies with sacred munitions oils.\nInitiate operation sequences amid thunderous binaric doxologies, beseeching the Omnissiah's fury.\nAffirm the Manticore's operational purity through vox-diagnostics and enginseer oversight.",
+    "component": "Manticore",
+    "operation": "operation",
+    "spec_id": "s02188"
+  },
+  {
+    "user_prompt": "Consecrate the neutron laser before maintenance",
+    "prayer": "Present the neutron laser in reverence, intoning the Maintenance Litany to appease its annihilative Machine Spirit.\nDisassemble the neutron laser's focusing arrays with consecrated tools, purging particulate heresies.\nAnoint beam conduits with phase-plasma unguents, invoking Omnissiah's precision before maintenance.\nReassemble and consecrate the neutron laser through alignment incantations and potency tests.",
+    "component": "neutron laser",
+    "operation": "maintenance",
+    "spec_id": "s02189"
+  }
+]

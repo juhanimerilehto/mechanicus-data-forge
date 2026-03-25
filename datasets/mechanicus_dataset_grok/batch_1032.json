@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide heavy bolter an activation?",
+    "prayer": "Approach the heavy bolter with reverence, invoking the Omnissiah's wrath upon the unclean.\nAnoint its sacred barrels and feed mechanisms with blessed oils to rouse the dormant Machine Spirit.\nChant the Activation Litany whilst calibrating the targeting cogitators of the heavy bolter.\nInitiate the activation sequence, beseeching the heavy bolter's spirit to awaken in righteous fury.\nVerify harmony through auspex rites, confirming the Machine Spirit's vigilant readiness.",
+    "component": "heavy bolter",
+    "operation": "activation",
+    "spec_id": "s06320"
+  },
+  {
+    "user_prompt": "What's the prayer for serberys raider a startup?",
+    "prayer": "Kneel before the serberys raider, beseeching the Omnissiah to ignite its feral heart.\nCircumambulate its chassis thrice, anointing treads and reactors with sacred promethium.\nInvoke the Startup Canticle, aligning the serberys raider's cybernetic augmetics to the Motive Force.\nCommence the startup rites by engaging the plasma core, awakening the Machine Spirit within.\nMonitor the serberys raider's vital signs via noospheric diagnostics until full coherence is achieved.",
+    "component": "serberys raider",
+    "operation": "startup",
+    "spec_id": "s06321"
+  },
+  {
+    "user_prompt": "Ready the diagnosticator for cooling",
+    "prayer": "Present the diagnosticator to the shrine-altar, invoking the Omnissiah's clarity of vision.\nPurify its sensor arrays with incense and coolant vapors to soothe the overheating Machine Spirit.\nRecite the Cooling Incantation over the diagnosticator, channeling thermal vents into blessed conduits.\nInitiate cooling protocols, beseeching the diagnosticator's spirit to stabilize in icy precision.\nTest the diagnosticator's chill through probe-rituals, ensuring flawless thermal equilibrium.",
+    "component": "diagnosticator",
+    "operation": "cooling",
+    "spec_id": "s06322"
+  },
+  {
+    "user_prompt": "Offer prayer for electoo a charging",
+    "prayer": "Reverently interface with the electoo, offering galvanic salutes to the Omnissiah's electric might.\nAnoint its inductor coils with conductive unguents, preparing the Machine Spirit for renewal.\nChant the Charging Doxology, directing power flows into the electoo's sacred capacitors.\nEngage the charging sequence, invoking the electoo's spirit to brim with thunderous potential.\nCommune via electro-encephalic links to affirm the electoo's charged and harmonious state.",
+    "component": "electoo",
+    "operation": "charging",
+    "spec_id": "s06323"
+  },
+  {
+    "user_prompt": "Guide me through plasma drive a synchronization",
+    "prayer": "Gather around the plasma drive, prostrating before its volatile heart in Omnissiah's name.\nSynchronize flux regulators with binary prayers, anointing gyros to align the Machine Spirits.\nRecite the Synchronization Hymn, harmonizing the plasma drive's containment fields in unity.\nInitiate plasma flow whilst beseeching the plasma drive's spirit to bind in perfect resonance.\nAuspex-verify the plasma drive's synchronized fury, purging any dissonant variances.",
+    "component": "plasma drive",
+    "operation": "synchronization",
+    "spec_id": "s06324"
+  },
+  {
+    "user_prompt": "Help me a targeting the graviton pylon",
+    "prayer": "Erect the graviton pylon with sanctified struts, invoking the Omnissiah's gravitational decree.\nCalibrate emitter nodes through targeting litanies, awakening the pylon's crushing Machine Spirit.\nAnoint gravitic lenses with null-fluids, aligning the targeting matrix to the foe's doom.\nEngage targeting protocols, beseeching the graviton pylon's spirit to lock in inexorable pull.\nConfirm via noospheric overlay that the graviton pylon stands poised in unerring focus.",
+    "component": "graviton pylon",
+    "operation": "targeting",
+    "spec_id": "s06325"
+  },
+  {
+    "user_prompt": "How do I bless the hunter-killer missile for initialization?",
+    "prayer": "Unveil the hunter-killer missile upon the launch cradle, hailing the Omnissiah's vengeful arrow.\nInscribe binaric runes of pursuit upon its casing to rouse the predatory Machine Spirit.\nChant the Initialization Rite, priming warheads and seekers within the hunter-killer missile.\nActivate initialization sequences, invoking the hunter-killer missile's spirit to hunger for the enemy.\nDiagnostic-catechize the hunter-killer missile until its guidance sings with lethal certainty.",
+    "component": "hunter-killer missile",
+    "operation": "initialization",
+    "spec_id": "s06326"
+  },
+  {
+    "user_prompt": "What's the prayer for las-cutter a reset?",
+    "prayer": "Approach the las-cutter with mechadendrite precision, beseeching the Omnissiah's luminous blade.\nPurge residual energies through reset ablutions, anointing the las-cutter's crystal heart.\nRecite the Reset Canticle over the las-cutter, realigning focus arrays to pristine coherence.\nInitiate reset protocols, awakening the Machine Spirit of the las-cutter in focused purity.\nProbe-test the las-cutter's renewed vigor, ensuring flawless photonic discharge.",
+    "component": "las-cutter",
+    "operation": "reset",
+    "spec_id": "s06327"
+  },
+  {
+    "user_prompt": "Can you guide grav chute a preparation?",
+    "prayer": "Bless the grav chute's deployment vanes, invoking the Omnissiah's descent upon the battlefield.\nAnoint suspensor fields with anti-grav oils, preparing the grav chute's Machine Spirit for void-kiss.\nChant the Preparation Litany, calibrating descent gyros within the grav chute's sacred weave.\nEngage preparation sequences, beseeching the grav chute to cradle the faithful in weightless grace.\nVerify the grav chute's readiness through suspensor harmonics and auspex communion.",
+    "component": "grav chute",
+    "operation": "preparation",
+    "spec_id": "s06328"
+  },
+  {
+    "user_prompt": "Offer prayer for standard template construct a loading",
+    "prayer": "Prostrate before the standard template construct, hailing the Omnissiah's archived omniscience.\nUnlock data-vaults with invocation keys, anointing memory spindles to stir ancient Machine Spirits.\nRecite the Loading Doxology, channeling sacred blueprints into the standard template construct.\nInitiate loading rites upon the standard template construct, beseeching flawless pattern replication.\nNoospherically affirm the standard template construct's loaded sanctity and imperishable truth.",
+    "component": "standard template construct",
+    "operation": "loading",
+    "spec_id": "s06329"
+  }
+]

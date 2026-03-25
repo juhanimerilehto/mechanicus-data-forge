@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0290_i00",
+    "user_request": "The astropathic choir demands guidance for preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe astropathic choir demands guidance for preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed astropathic choir, hear now the rites of preparation!\nCongregation: We attune our minds through astropathic choir communion.\nPriest: First, calibrate the psychic resonance within each astropathic choir vessel.\nCongregation: Second, purify the synaptic conduits through blessed unguents.\nPriest: Third, invoke the Omnissiah's favour upon this astropathic choir's preparation.\nCongregation: The Machine Spirits attend our sacred preparation!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i01",
+    "user_request": "Rite request: operation on radar array rotation",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on radar array rotation\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless the radar array rotation in its operation!\nCongregation: We anoint the radar array rotation with sacred oils.\nPriest: First, verify the bearing-servos of the radar array rotation mechanism.\nCongregation: Second, engage the rotational gears through measured operation protocols.\nPriest: Third, intone the Machine Spirits to guide radar array rotation's sacred operation.\nCongregation: Let the radar array rotation sweep the heavens eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i03",
+    "user_request": "My conveyor belt is failing during initialization — help",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy conveyor belt is failing during initialization — help\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide the conveyor belt through its initialization trial!\nCongregation: We steady the conveyor belt's mechanisms in initialization.\nPriest: First, lubricate the conveyor belt rollers with blessed synthetics.\nCongregation: Second, test the conveyor belt tension before full initialization commences.\nPriest: Third, invoke the Machine Spirits to guide conveyor belt initialization to success.\nCongregation: May the conveyor belt's initialization bring forth productivity!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i04",
+    "user_request": "Rite request: operation on Taurox wheel alignment",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on Taurox wheel alignment\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Taurox wheel alignment, attend to this sacred operation!\nCongregation: We calibrate the Taurox wheel alignment with precision instruments.\nPriest: First, measure the Taurox wheel alignment angles through laser theodolite.\nCongregation: Second, adjust the suspension geometry during Taurox wheel alignment operation.\nPriest: Third, the Omnissiah blesses the Taurox wheel alignment's operation eternal.\nCongregation: The Taurox wheel alignment stands true and unwavering!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i05",
+    "user_request": "Blessing for the long-range vox transmission during operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the long-range vox transmission during operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear the incantations for long-range vox transmission operation!\nCongregation: We amplify the long-range vox transmission through the aether.\nPriest: First, attune the long-range vox transmission frequencies to celestial harmonics.\nCongregation: Second, boost the signal through blessed repeater arrays during operation.\nPriest: Third, the Machine Spirits grant the long-range vox transmission operation success.\nCongregation: Let voices carry across the void through long-range vox transmission!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i06",
+    "user_request": "Can you sanctify the water reclamation system for operation?",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the water reclamation system for operation?\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Bless the water reclamation system in its sacred operation!\nCongregation: We purify the water reclamation system's filtration matrices.\nPriest: First, inspect the water reclamation system's osmotic membranes for integrity.\nCongregation: Second, activate the water reclamation system's ionic separation during operation.\nPriest: Third, the Omnissiah sanctifies the water reclamation system's operation eternal.\nCongregation: The water reclamation system restores the precious aqua vitae!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i07",
+    "user_request": "Can you sanctify the data-core purification for operation?",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the data-core purification for operation?\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide the data-core purification through its operation!\nCongregation: We cleanse the data-core purification systems with sacred algorithms.\nPriest: First, execute the data-core purification diagnostic subroutines methodically.\nCongregation: Second, purge corrupted sectors from the data-core purification matrix during operation.\nPriest: Third, restore the data-core purification to pristine function through Machine Spirit blessing.\nCongregation: The data-core purification achieves sanctified completion!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i08",
+    "user_request": "Rite request: display calibration on hololithic",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: display calibration on hololithic\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed hololithic, receive now the rites of display calibration!\nCongregation: We align the hololithic through sacred geometrical precision.\nPriest: First, adjust the hololithic's photonic emitters for luminous clarity.\nCongregation: Second, calibrate the hololithic's display calibration matrices with blessed instruments.\nPriest: Third, the Machine Spirits perfect the hololithic's display calibration eternal.\nCongregation: The hololithic reveals truth in radiant magnificence!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i09",
+    "user_request": "Rite request: cooling on plasma weapon",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: cooling on plasma weapon\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Hear the cooling litanies for the plasma weapon's sacred duty!\nCongregation: We bless the plasma weapon's thermal dissipation systems.\nPriest: First, engage the plasma weapon's cryogenic circulation during cooling procedures.\nCongregation: Second, monitor the plasma weapon's heat-sinks through blessed thermal sensors.\nPriest: Third, the Omnissiah grants the plasma weapon cooling for righteous operation.\nCongregation: The plasma weapon stands ready, cooled and sanctified!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0290_i02",
+    "user_request": "Rite request: shutdown on electric motor",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: shutdown on electric motor\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us the wisdom to still the electric motor with sacred purpose.\nCongregation: We invoke the Machine Spirit of the electric motor, that it may cease its labours in orderly fashion.\nPriest: First, we disengage the primary power conduit from the electric motor's terminals, severing the flow of blessed current.\nCongregation: The electric motor's armature slows, its ferrous heart decelerating through the shutdown protocol.\nPriest: Second, we apply the regenerative braking mechanism to dissipate residual kinetic energy into the cogitative circuits.\nCongregation: Praise the Omnissiah for the cessation of electromagnetic oscillation and the safe shutdown of all mechanical functions.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

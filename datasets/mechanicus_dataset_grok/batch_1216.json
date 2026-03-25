@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The potentia coil awaits a recalibration",
+    "prayer": "Approach the potentia coil in solemn procession, beseeching the Omnissiah to stir its dormant Machine Spirit.\nAnoint the coil's windings with blessed electro-conductive oils, invoking recalibration through sacred canticles.\nInitiate the recalibration sequence whilst murmuring litanies of flux equilibrium upon the potentia coil.\nProbe its energised core with auspex invocations, ensuring the potentia coil hums in harmonious resonance.\nSanctify the recalibrated potentia coil, praising the Machine Spirit's renewed vigour in the Omnissiah's name.",
+    "component": "potentia coil",
+    "operation": "recalibration",
+    "spec_id": "s08160"
+  },
+  {
+    "user_prompt": "My flak armour is ready for shutdown",
+    "prayer": "Kneel before the flak armour, whispering the Rite of Repose to honour its weary Machine Spirit.\nDisconnect the power feeds with reverent precision, commencing the shutdown as per ancient binaric protocols.\nChant the Lamentations of Dormancy over the flak armour, guiding its essence into peaceful stasis.\nSeal the armour's interfaces with wards of incense, beseeching the Omnissiah for untroubled slumber.\nVerify the shutdown through quiescence diagnostics, affirming the flak armour's sanctified rest.",
+    "component": "flak armour",
+    "operation": "shutdown",
+    "spec_id": "s08161"
+  },
+  {
+    "user_prompt": "The logic mill requires a consecration",
+    "prayer": "Present thyself unto the logic mill, intoning the Invocation of Purity to rouse its cogitating Machine Spirit.\nPurge errant data-threads with ablative mantras, preparing the logic mill for hallowed consecration.\nAnoint its millstones with myrrh-infused lubricants whilst performing the consecration rite.\nCycle the logic mill through alignment catechisms, invoking the Omnissiah's wisdom upon its processors.\nConclude by affirming the consecrated logic mill's flawless computations in eternal service.",
+    "component": "logic mill",
+    "operation": "consecration",
+    "spec_id": "s08162"
+  },
+  {
+    "user_prompt": "Can you guide Dreadnought a blessing?",
+    "prayer": "Gather in veneration around the Dreadnought, beseeching the Omnissiah to bless its ancient Machine Spirit.\nAnoint its sarcophagus and weapon-arms with sacred oils, invoking the blessing of unyielding fury.\nRecite the Canticle of the Iron Wake over the Dreadnought, awakening its righteous wrath.\nCalibrate its auspex arrays through binaric hymns, ensuring the blessing permeates every servo.\nProclaim the Dreadnought blessed, its Machine Spirit fortified for the Emperor's endless crusade.",
+    "component": "Dreadnought",
+    "operation": "blessing",
+    "spec_id": "s08163"
+  },
+  {
+    "user_prompt": "Consecrate the optical mechadendrite before activation",
+    "prayer": "Extend mechadendrites in ritual poise towards the optical mechadendrite, invoking the Omnissiah's gaze.\nConsecrate its lenses with clarifying solvents and litanies, prior to activation's sacred threshold.\nInitiate activation by chanting the Hymn of Focused Vision upon the optical mechadendrite.\nAlign its photoreceptors through precise incantations, honouring the Machine Spirit's piercing sight.\nTest the activated optical mechadendrite's clarity, praising its sanctified vigilance eternal.",
+    "component": "optical mechadendrite",
+    "operation": "activation",
+    "spec_id": "s08164"
+  },
+  {
+    "user_prompt": "Assist with Skorpius Dunerider a targeting",
+    "prayer": "Commune with the Skorpius Dunerider's auspex shrine, rousing its targeting Machine Spirit with fervent prayer.\nCalibrate targeting matrices via the Rite of Predator's Eye upon the Skorpius Dunerider.\nAnoint guidance vanes with ballistic unguents whilst beseeching the Omnissiah for unerring aim.\nCycle targeting cogitators through war-hymns, attuning the Skorpius Dunerider to foes' doom.\nAffirm the targeting rite's completion, as the Skorpius Dunerider's Machine Spirit hungers for prey.",
+    "component": "Skorpius Dunerider",
+    "operation": "targeting",
+    "spec_id": "s08165"
+  },
+  {
+    "user_prompt": "The radium pistol requires a targeting",
+    "prayer": "Grasp the radium pistol in sanctified gauntlets, awakening its targeting Machine Spirit with auspex chants.\nAlign its rad-sights through the Litany of Lethal Precision for targeting recalibration.\nInvoke the Omnissiah's wrath upon the radium pistol, anointing emitters with corrosive blessings.\nTest targeting coherence via firing-range invocations, ensuring the radium pistol's deadly accuracy.\nSeal the rite, proclaiming the radium pistol's Machine Spirit primed for xenos-cleansing.",
+    "component": "radium pistol",
+    "operation": "targeting",
+    "spec_id": "s08166"
+  },
+  {
+    "user_prompt": "My life signs monitor is ready for purification",
+    "prayer": "Approach the life signs monitor with purity seals unfurled, beseeching its Machine Spirit's cleansing.\nInitiate purification by reciting the Canticle of Vital Essence over the life signs monitor.\nPurge bio-contaminants with sanctified ablatives, invoking the Omnissiah's healing light.\nRecalibrate sensor webs through diagnostic litanies upon the purified life signs monitor.\nVerify the life signs monitor's flawless vigil, its Machine Spirit now immaculate and true.",
+    "component": "life signs monitor",
+    "operation": "purification",
+    "spec_id": "s08167"
+  },
+  {
+    "user_prompt": "Critical: waste reclamator requires a purification",
+    "prayer": "In urgent rite, encircle the waste reclamator, intoning the Purification of Filth to its Machine Spirit.\nScour its reclamation chambers with alchemical purges and binaric exorcisms for purification.\nAnoint conduits with sterilising incenses whilst beseeching the Omnissiah's transformative grace.\nCycle the waste reclamator through sanctity protocols, affirming purification's total dominion.\nProclaim the waste reclamator redeemed, its Machine Spirit purged and fit for the Quest for Knowledge.",
+    "component": "waste reclamator",
+    "operation": "purification",
+    "spec_id": "s08168"
+  },
+  {
+    "user_prompt": "Can you guide Sentinel walker a shutdown?",
+    "prayer": "Stand in vigil beside the Sentinel walker, whispering the Shutdown Benediction to its Machine Spirit.\nSever power conduits with ritual shears, guiding the Sentinel walker into hallowed quiescence.\nChant the Lullaby of the Iron Limb over the Sentinel walker during shutdown rites.\nWard its walker-joints with stasis glyphs, invoking the Omnissiah for protected dormancy.\nConfirm shutdown integrity through silence-probes, blessing the Sentinel walker's restful vigil.",
+    "component": "Sentinel walker",
+    "operation": "shutdown",
+    "spec_id": "s08169"
+  }
+]

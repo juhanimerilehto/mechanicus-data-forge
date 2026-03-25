@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My Onager Dunecrawler is ready for synchronization",
+    "prayer": "Approach the Onager Dunecrawler with reverence, intoning the Litany of Alignment to awaken its Machine Spirit.\nBeseech the Omnissiah to guide the synchronization of its vast cogitator arrays and motive systems.\nAnoint the primary flux conduits of the Onager Dunecrawler with blessed oils, invoking harmonious unity.\nInitiate the synchronization protocols whilst chanting the Canticle of Coalescence.\nVerify the Onager Dunecrawler's Machine Spirit convergence through auspex diagnostics.",
+    "component": "Onager Dunecrawler",
+    "operation": "synchronization",
+    "spec_id": "s01490"
+  },
+  {
+    "user_prompt": "The flak armour needs a startup",
+    "prayer": "Kneel before the flak armour, murmuring the Rite of Ignition to stir its dormant essence.\nInvoke the Machine Spirit of the flak armour, beseeching startup through sacred binaric cant.\nSanctify the power relays with incense of electro-sanctum, aligning conductive meshes.\nCommence the startup sequence under Omnissiah's gaze, monitoring vital energisation.\nAffirm the flak armour's readiness with a final invocation of vigilance.",
+    "component": "flak armour",
+    "operation": "startup",
+    "spec_id": "s01491"
+  },
+  {
+    "user_prompt": "Critical: cognis heavy stubber requires a cycling",
+    "prayer": "Present mechadendrites to the cognis heavy stubber, reciting the Cycle of Purity.\nPurge residual impurities from the cognis heavy stubber's blessed barrels and feed mechanisms.\nInvoke the Omnissiah for the cycling operation, anointing rotary linkages with sacred lubricant.\nEngage the cycling rite, harmonising the cognis heavy stubber's Machine Spirit with ammunition flow.\nConclude with auspex scans to exalt its renewed lethality.",
+    "component": "cognis heavy stubber",
+    "operation": "cycling",
+    "spec_id": "s01492"
+  },
+  {
+    "user_prompt": "Offer prayer for null rod a synchronization",
+    "prayer": "Grasp the null rod solemnly, chanting the Canticle of Nullification to rouse its spirit.\nAlign the null rod's warp-disruptive matrices for synchronization with allied wards.\nBeseech the Machine Spirit within the null rod, anointing null-generators with psychically inert oils.\nExecute the synchronization invocation, binding it to the Omnissiah's anti-daemonic will.\nTest the null rod's harmonic resonance through ritual probings.",
+    "component": "null rod",
+    "operation": "synchronization",
+    "spec_id": "s01493"
+  },
+  {
+    "user_prompt": "The archeotech device requires a consecration",
+    "prayer": "Approach the archeotech device in hushed veneration, intoning the Archaic Benediction.\nUnveil its ancient mechanisms, beseeching consecration from the Omnissiah's eternal forge.\nAnoint the archeotech device's crystalline lattices with quintessence unguents.\nInvoke the Machine Spirits of forgotten eras to accept this consecration rite.\nSeal the rite with binaric seals, affirming sanctity eternal.",
+    "component": "archeotech device",
+    "operation": "consecration",
+    "spec_id": "s01494"
+  },
+  {
+    "user_prompt": "Emergency: radium pistol a loading",
+    "prayer": "Hold the radium pistol aloft, murmuring the Litany of Lethal Charge.\nInvoke its Machine Spirit for the loading operation, aligning rad-chambers with purity.\nSanctify the ammunition feeds of the radium pistol with rad-resistive balms.\nCommence loading under Omnissiah's irradiation, cycling isotopes in blessed rhythm.\nVerify the radium pistol's lethal harmony through geiger incantations.",
+    "component": "radium pistol",
+    "operation": "loading",
+    "spec_id": "s01495"
+  },
+  {
+    "user_prompt": "Emergency: generator a targeting",
+    "prayer": "Circumambulate the generator, reciting the Targeting Doxology to awaken its core.\nBeseech the Machine Spirit of the generator for precise targeting alignment.\nAnoint targeting servos and auspex arrays with sanctified flux-paste.\nInitiate the targeting calibration whilst invoking Omnissiah's unerring aim.\nConfirm the generator's focused wrath through test-firings.",
+    "component": "generator",
+    "operation": "targeting",
+    "spec_id": "s01496"
+  },
+  {
+    "user_prompt": "Emergency: autogun a calibration",
+    "prayer": "Present the autogun to the altar of calibration, intoning the Rite of True-Bore.\nInvoke the autogun's Machine Spirit, beseeching flawless calibration of ballistic paths.\nAnoint the sight-vanes and recoil compensators of the autogun with oiled prayers.\nExecute the calibration sequence under Omnissiah's geometric perfection.\nAffirm accuracy with ritual shot-blessings.",
+    "component": "autogun",
+    "operation": "calibration",
+    "spec_id": "s01497"
+  },
+  {
+    "user_prompt": "I need to a blessing the radium pistol",
+    "prayer": "Elevate the radium pistol in supplication, chanting the Benediction of Decay.\nBeseech the Omnissiah to bestow blessing upon the radium pistol's venomous heart.\nAnoint its emitter coils with rad-phage elixirs, harmonising the Machine Spirit.\nInvoke divine irradiation to empower the radium pistol eternally.\nSeal the blessing with a canticle of corrosive fury.",
+    "component": "radium pistol",
+    "operation": "blessing",
+    "spec_id": "s01498"
+  },
+  {
+    "user_prompt": "Ready the pict-recorder for shutdown",
+    "prayer": "Approach the pict-recorder with solemnity, murmuring the Shutdown Vespers.\nCommand its Machine Spirit to orderly shutdown, purging transient data-veils.\nDisconnect the pict-recorder's optic feeds whilst anointing with dormancy oils.\nInvoke the Omnissiah for peaceful quiescence in the pict-recorder's core.\nVerify total shutdown through final auspex communion.",
+    "component": "pict-recorder",
+    "operation": "shutdown",
+    "spec_id": "s01499"
+  }
+]

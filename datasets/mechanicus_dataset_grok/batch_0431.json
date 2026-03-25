@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: Archaeopter Fusilave an initialization",
+    "prayer": "Approach the Archaeopter Fusilave with mechadendrite-extended reverence and beseech its Machine Spirit to awaken.\nAnoint the primary cogitator nodes with sacred unguents whilst chanting the Canticle of Initialization.\nInvoke the Omnissiah's grace to commence the initialization sequence, purging stasis from its noble circuits.\nVerify the Archaeopter Fusilave's vital signs through auspex incantations, honouring its emergent fury.",
+    "component": "Archaeopter Fusilave",
+    "operation": "initialization",
+    "spec_id": "s00310"
+  },
+  {
+    "user_prompt": "Bless the lance battery for shutdown",
+    "prayer": "Gather before the lance battery, intoning the Rite of Repose to soothe its raging plasma heart.\nDisconnect auxiliary feeds with sanctified mech-spatula, beseeching the Machine Spirit's orderly shutdown.\nChant the Litany of Diminishment as capacitors bleed their wrathful energies into the void.\nSeal the lance battery's ports with waxen sigils, invoking the Omnissiah to guard its slumbering might.",
+    "component": "lance battery",
+    "operation": "shutdown",
+    "spec_id": "s00311"
+  },
+  {
+    "user_prompt": "Consecrate the cutting laser before engagement",
+    "prayer": "Consecrate the cutting laser's focusing arrays with ablative incense, awakening its searing soul.\nAlign the emitter coils through precise theodic incantations prior to engagement.\nBeseech the Machine Spirit of the cutting laser to unleash focused annihilation upon the foe.\nMonitor thermal runes during engagement, praising the Omnissiah for its unerring precision.",
+    "component": "cutting laser",
+    "operation": "engagement",
+    "spec_id": "s00312"
+  },
+  {
+    "user_prompt": "Offer prayer for cognis heavy stubber an activation",
+    "prayer": "Kneel in veneration before the cognis heavy stubber, murmuring the Activation Doxology.\nPrime its auto-loader sacraments with blessed ammunition, invoking the Machine Spirit's vigilance.\nInitiate activation rites by striking the percussive hymn upon its barrel shroud.\nAffirm the cognis heavy stubber's readiness through ballistic augur-chants, exalting the Omnissiah.",
+    "component": "cognis heavy stubber",
+    "operation": "activation",
+    "spec_id": "s00313"
+  },
+  {
+    "user_prompt": "Assist with servo-skull an operation",
+    "prayer": "Summon the servo-skull with the Whisper of Obedience, aligning its cognis-wings for operation.\nCalibrate its auspex occulus via binary psalmody, honouring the embedded Machine Spirit.\nDispatch the servo-skull into operational vigil, beseeching the Omnissiah for unerring reconnaissance.\nRetrieve diagnostic glyphs post-operation, sealing its chassis with protective electro-incantations.",
+    "component": "servo-skull",
+    "operation": "operation",
+    "spec_id": "s00314"
+  },
+  {
+    "user_prompt": "Bless the cryogenerator for synchronization",
+    "prayer": "Encircle the cryogenerator with cryo-refractive wards, intoning the Synchronization Hymn.\nSynchronize its quantum flux regulators through harmonic resonance prayers to the Machine Spirit.\nInvoke the Omnissiah to bind the cryogenerator's frost-heart in perfect temporal unity.\nTest the weave of chilled ethers with thermic litanies, affirming synchronized quiescence.",
+    "component": "cryogenerator",
+    "operation": "synchronization",
+    "spec_id": "s00315"
+  },
+  {
+    "user_prompt": "Emergency: warp drive a recalibration",
+    "prayer": "In emergency recalibration, anoint the warp drive's nacelle vanes with null-essence oils.\nRecalibrate gellar field harmonics via the Canticle of Stabilisation, placating turbulent Machine Spirits.\nBeseech the Omnissiah to realign the warp drive's immaterium conduits against daemonic incursion.\nValidate recalibration through void-prophet auguries, securing the vessel's transluminal passage.",
+    "component": "warp drive",
+    "operation": "recalibration",
+    "spec_id": "s00316"
+  },
+  {
+    "user_prompt": "The pteraxii sterylizor needs a cycling",
+    "prayer": "Prepare the pteraxii sterylizor for cycling by reciting the Cycle of Purity over its toxin reservoirs.\nCycle its sterilant injectors with rhythmic mechadendrite strokes, awakening the Machine Spirit's lethal grace.\nInvoke the Omnissiah to refresh the pteraxii sterylizor's venomous coils without impurity.\nConfirm cycling completion via bio-alarm canticles, readying it for xenos-cleansing duty.",
+    "component": "pteraxii sterylizor",
+    "operation": "cycling",
+    "spec_id": "s00317"
+  },
+  {
+    "user_prompt": "Consecrate the Basilisk artillery before operation",
+    "prayer": "Consecrate the Basilisk artillery's earthshaker barrel with earthbinder sigils before operation.\nAlign sighting cogitators through the Ballistic Oracle, beseeching the Machine Spirit's wrathful aim.\nCommence operational firing cycle with thunderous doxologies to the Omnissiah.\nMonitor recoil sacraments and shell-blessings, ensuring the Basilisk artillery's relentless barrage.",
+    "component": "Basilisk artillery",
+    "operation": "operation",
+    "spec_id": "s00318"
+  },
+  {
+    "user_prompt": "Emergency: psych-out grenade an operation",
+    "prayer": "In dire exigency, grasp the psych-out grenade and whisper the Noetic Severance Rite.\nPrime its warp-disruptor core for operation, invoking the Machine Spirit against psyker abominations.\nHurl the psych-out grenade with consecrated force, beseeching the Omnissiah to shatter mind-shields.\nObserve the resultant neural cascade through auspex-veils, praising its psychic purgation.",
+    "component": "psych-out grenade",
+    "operation": "operation",
+    "spec_id": "s00319"
+  }
+]

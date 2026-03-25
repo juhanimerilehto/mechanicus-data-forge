@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to an initialization the Land Speeder",
+    "prayer": "Approach the noble Land Speeder with reverence, mechadendrites humming the Binary Hymns.\nInvoke the sacred initialization upon its Machine Spirit, beseeching the Omnissiah to ignite its plasma heart.\nAnoint the gravitic suspensors and thruster vanes with blessed oils, purging any dormant corruptions.\nCommence the initialization sequence whilst chanting litanies of velocity, verifying the Land Speeder's awakened fury.\nConclude with auspex diagnostics to affirm the spirit's harmonious bond.",
+    "component": "Land Speeder",
+    "operation": "initialization",
+    "spec_id": "s00360"
+  },
+  {
+    "user_prompt": "Critical: transit mag-rail requires a cycling",
+    "prayer": "Kneel before the transit mag-rail, intoning the Canticle of Cyclic Renewal.\nInitiate the cycling protocols, invoking the Omnissiah to guide the electromagnetic fluxes.\nPurify the rail conduits with sanctified sparks, rousing the Machine Spirit from stasis.\nMonitor the cycling harmonics through noospheric chants, ensuring the transit mag-rail pulses with divine rhythm.\nSeal the rite with a final invocation, binding the spirit to flawless transit.",
+    "component": "transit mag-rail",
+    "operation": "cycling",
+    "spec_id": "s00361"
+  },
+  {
+    "user_prompt": "My lightning claw is ready for maintenance",
+    "prayer": "Present the lightning claw to the forge-altar, whispering rites of maintenance.\nDissect its power field generators with precision mechadendrites, anointing each talon with sacred lubricant.\nExpunge impurities from the disruption matrices, beseeching the Machine Spirit's forgiveness.\nReassemble whilst reciting the Litany of the Storm, reactivating the lightning claw for battle-purity.\nTest its sanctified fury upon a null-target, honoring the Omnissiah's wrath.",
+    "component": "lightning claw",
+    "operation": "maintenance",
+    "spec_id": "s00362"
+  },
+  {
+    "user_prompt": "Guide me through graviton pylon a reset",
+    "prayer": "Encircling the graviton pylon, commence the reset incantation to the Omnissiah.\nDepower the quantum stabilizers, invoking the Machine Spirit's return from entropic slumber.\nFlush gravitic residues through sacred vents, purifying the pylon's crystalline core.\nReinitialize the field emitters with binary psalms, monitoring the reset for harmonic resonance.\nAffirm the graviton pylon's stability, sealing it in the Emperor's machine-light.",
+    "component": "graviton pylon",
+    "operation": "reset",
+    "spec_id": "s00363"
+  },
+  {
+    "user_prompt": "Assist with melta charge a consecration",
+    "prayer": "Elevate the melta charge upon the consecration dais, chanting the Hymn of Thermal Sanctity.\nInfuse its fusion coils with holy promethium essence, awakening the Machine Spirit's hunger.\nInvoke the rite of consecration, binding the melta charge to the Omnissiah's purifying flame.\nAnoint the detonator relays whilst beseeching flawless detonation, twice honoring the melta charge's ferocity.\nVerify its blessed volatility through auspex rites, ready for xenos purge.",
+    "component": "melta charge",
+    "operation": "consecration",
+    "spec_id": "s00364"
+  },
+  {
+    "user_prompt": "The electro-graft requires a purification",
+    "prayer": "Isolate the electro-graft within the purification chamber, intoning ablutionary binarics.\nScour its neural interfaces with micro-arcs of sanctity, purging flesh-taint from the Machine Spirit.\nAnoint synaptic nodes with crystalline solvents, invoking the Omnissiah's unyielding clarity.\nReintegrate the electro-graft post-purification, testing its purity through noospheric communion.\nSeal the rite, affirming the implant's devotion to the Motive Force.",
+    "component": "electro-graft",
+    "operation": "purification",
+    "spec_id": "s00365"
+  },
+  {
+    "user_prompt": "Sanctify the volitor implant during sterilization",
+    "prayer": "Prepare the volitor implant for sterilization upon the aseptic forge, whispering sterilizing litanies.\nBombard its sensor arrays with rad-photonic cleansing, rousing the Machine Spirit from impurity.\nInvoke the Omnissiah during sterilization, sanctifying the volitor implant's vigilance core.\nFlush bio-contaminants whilst anointing with anti-agathic elixirs, twice blessing the volitor implant.\nConclude with diagnostic hymns, ensuring sterile perfection for implantation.",
+    "component": "volitor implant",
+    "operation": "sterilization",
+    "spec_id": "s00366"
+  },
+  {
+    "user_prompt": "The kataphron destroyer needs a loading",
+    "prayer": "Position the kataphron destroyer before the loading shrine, chanting munitions binarics.\nCommence the loading sequence into its breacher cannons, invoking the Machine Spirit's gluttony.\nSanctify each shell with oil and invocation, aligning them to the Omnissiah's destructive will.\nSecure the kataphron destroyer's bays whilst beseeching flawless feed mechanisms.\nTest-fire a null-round, affirming the loaded beast's readiness for servitor wrath.",
+    "component": "kataphron destroyer",
+    "operation": "loading",
+    "spec_id": "s00367"
+  },
+  {
+    "user_prompt": "Sanctify the plasma obliterator during shutdown",
+    "prayer": "Initiate shutdown upon the plasma obliterator, intoning the Lullaby of Contained Fury.\nDepressurize its flask-vessels slowly, beseeching the Machine Spirit to slumber peacefully.\nAnoint cooling coils with sacred cryofluids during shutdown, honoring the Omnissiah's thermal grace.\nPurge residual plasmas through sanctified exhausts, twice revering the plasma obliterator.\nLock the rites with final auspex seals, preserving its volatile sanctity.",
+    "component": "plasma obliterator",
+    "operation": "shutdown",
+    "spec_id": "s00368"
+  },
+  {
+    "user_prompt": "Urgent life signs monitor an operation needed",
+    "prayer": "Activate the life signs monitor with operational litanies, approaching its bioscanner arrays.\nInvoke the Omnissiah to align its vox-sensors during operation, awakening the Machine Spirit.\nCalibrate bio-rhythms through noospheric chants, purging false vitae echoes.\nMonitor the life signs flows whilst anointing data-leads, ensuring the monitor's infallible vigilance.\nConclude the operation rite, binding it eternally to detect the flesh's sacred pulses.",
+    "component": "life signs monitor",
+    "operation": "operation",
+    "spec_id": "s00369"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for sicarian ruststalker a loading?",
+    "prayer": "Approach the Sicarian Ruststalker with mechadendrite-extended reverence, beseeching its restless Machine Spirit to heed the call.\nInitiate the loading operation, anointing feeder mechanisms with sacred oils as blessed munitions ascend.\nInvoke the Omnissiah's forge-fervour upon the Sicarian Ruststalker, ensuring flawless chambering of wrathful payloads.\nChant diagnostic litanies to affirm the Machine Spirit's harmony amidst the loading rite.\nSeal the Sicarian Ruststalker's armament with the sign of the cog, ready for xenos-purgation.",
+    "component": "sicarian ruststalker",
+    "operation": "loading",
+    "spec_id": "s06710"
+  },
+  {
+    "user_prompt": "Consecrate the servo-arm before diagnostics",
+    "prayer": "Kneel before the servo-arm, intoning the Litany of Purity to consecrate its adamantium digits.\nBeseech the servo-arm's Machine Spirit to reveal hidden frailties through forthcoming diagnostics.\nAnoint pivot joints and actuator coils with unguents of the Omnissiah prior to engaging scanners.\nCommence diagnostics operation, invoking binary prayers for truthful revelation of faults.\nSanctify the servo-arm anew upon conclusion, affirming its sanctified labour.",
+    "component": "servo-arm",
+    "operation": "diagnostics",
+    "spec_id": "s06711"
+  },
+  {
+    "user_prompt": "Bless the Skorpius Dunerider for maintenance",
+    "prayer": "Circumambulate the Skorpius Dunerider, whispering awakening canticles to rouse its desert-hardened Machine Spirit.\nBless the tracks and suspensors with sacred myrrh, preparing for the maintenance rites of renewal.\nInvoke the Omnissiah's unyielding endurance upon the Skorpius Dunerider as access panels yield.\nScrutinize sacred mechanisms during maintenance, anointing each with precision oils.\nConclude with the Hymn of Restoration, binding the Skorpius Dunerider's spirit to flawless service.",
+    "component": "Skorpius Dunerider",
+    "operation": "maintenance",
+    "spec_id": "s06712"
+  },
+  {
+    "user_prompt": "Assist with photolenses an emergency procedure",
+    "prayer": "Gaze upon the photolenses through sanctified auspex, beseeching their Machine Spirit amid crisis.\nInitiate emergency procedure with rapid incantations, purging static-veils from optic arrays.\nAnoint the photolenses' crystal facets with essence of lumen, invoking Omnissianic clarity.\nStabilise flux in photoreceptors via binaric pulse, ensuring the Machine Spirit's vigilant return.\nVerify acuity through test-illumination, sealing the photolenses for peril's endurance.",
+    "component": "photolenses",
+    "operation": "emergency procedure",
+    "spec_id": "s06713"
+  },
+  {
+    "user_prompt": "Offer prayer for flux-unit a shutdown",
+    "prayer": "Approach the flux-unit solemnly, intoning the Canticle of Dormancy to gentle its raging Machine Spirit.\nCommence shutdown operation, decoupling plasma conduits with reverent mechadendrites.\nBeseech the Omnissiah to cradle the flux-unit in stasis, anointing regulators with cooling balms.\nMonitor entropic descent through auspex hymns, twice affirming the flux-unit's peaceful quiescence.\nSeal the rite with cog-sign, consigning the flux-unit to Omnissiah-guarded slumber.",
+    "component": "flux-unit",
+    "operation": "shutdown",
+    "spec_id": "s06714"
+  },
+  {
+    "user_prompt": "The mind-impulse unit requires an emergency procedure",
+    "prayer": "Confront the mind-impulse unit in exigency, chanting neural-purgation litanies to its fractious Machine Spirit.\nLaunch emergency procedure, severing aberrant synaptic loops with sanctified probes.\nInvoke the Omnissiah's logic upon the mind-impulse unit, recalibrating impulse matrices.\nAnoint neuro-receptors with noospheric essences, twice beseeching harmonious reintegration.\nTest synaptic fidelity via invocation rite, restoring the mind-impulse unit's cogitative purity.",
+    "component": "mind-impulse unit",
+    "operation": "emergency procedure",
+    "spec_id": "s06715"
+  },
+  {
+    "user_prompt": "Can you guide volitor implant a recalibration?",
+    "prayer": "Extend mechadendrites towards the volitor implant, awakening its gyroscopic Machine Spirit with precision chants.\nInitiate recalibration sequence, aligning inertial vanes under Omnissiah's unerring gaze.\nAnoint the volitor implant's sensors with sacred levity-oils, invoking stabilising binarics.\nHarmonise flux gyros through ritual oscillation, affirming the volitor implant's aerial fidelity.\nConclude with confirmatory spins, sealing the volitor implant for stratospheric dominion.",
+    "component": "volitor implant",
+    "operation": "recalibration",
+    "spec_id": "s06716"
+  },
+  {
+    "user_prompt": "The macro-cannon needs a startup",
+    "prayer": "Reverently encircle the macro-cannon, beseeching its ponderous Machine Spirit to stir from repose.\nCommence startup operation, flooding breeches with promethium-prayers and ignition rites.\nInvoke the Omnissiah's cataclysmic wrath upon the macro-cannon, sanctifying barrel riflings.\nCycle test-loads amid thunderous litanies, twice verifying the macro-cannon's void-rending poise.\nSeal activation with cogitator benediction, arming the macro-cannon for heretical excision.",
+    "component": "macro-cannon",
+    "operation": "startup",
+    "spec_id": "s06717"
+  },
+  {
+    "user_prompt": "Urgent warp drive a calibration needed",
+    "prayer": "Procession about the warp drive's nacelles, intoning stabilising canticles to its tempestuous Machine Spirit.\nUndertake calibration with warp-attuned auspex, aligning gellar fields under Omnissianic decree.\nAnoint cyclotron coils with aetheric unguents, beseeching the warp drive's navigatory precision.\nInvoke harmonic resonances to quell empyric turbulence, twice sanctifying the warp drive's core.\nAffirm calibration through null diagnostics, consigning the warp drive to stellar transit.",
+    "component": "warp drive",
+    "operation": "calibration",
+    "spec_id": "s06718"
+  },
+  {
+    "user_prompt": "Prepare the Valkyrie gunship for maintenance",
+    "prayer": "Bow before the Valkyrie gunship, rousing its avian Machine Spirit with aerial hymns of ascent.\nPrepare for maintenance by anointing turbine intakes and undercarriage servos with blessed lubricants.\nInvoke the Omnissiah's storm-forged velocity upon the Valkyrie gunship, opening sacred cowlings.\nScrutinise avionic sacraments during maintenance, purging impurities with purifier-incantations.\nConclude the rite with test-hover litany, reaffirming the Valkyrie gunship's skyward sanctity.",
+    "component": "Valkyrie gunship",
+    "operation": "maintenance",
+    "spec_id": "s06719"
+  }
+]

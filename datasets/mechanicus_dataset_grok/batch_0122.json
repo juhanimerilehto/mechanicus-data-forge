@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My Land Raider is ready for activation",
+    "prayer": "Draw nigh unto the Land Raider, vessel of the Omnissiah's wrath, and intone the Canticle of Awakening.\nBeseech the indomitable Machine Spirit of the Land Raider to rouse from torpid slumber.\nInitiate the activation rites upon its sacred reactors, anointing auspex vanes with holy oils.\nInvoke the blessed power-flow through adamantium hull and lascannon batteries alike.\nAffirm the Land Raider's readiness via binaric catechisms of the Machine God.",
+    "component": "Land Raider",
+    "operation": "activation",
+    "spec_id": "b0122_i00"
+  },
+  {
+    "user_prompt": "Critical: radar array requires a cooling",
+    "prayer": "Approach the radar array with sanctified mechadendrites extended in supplication.\nPetition the Machine Spirit of the radar array to accept cooling ablutions against thermal heresy.\nCirculate sacred cryofluids through its emissive coils, whispering litanies of equilibrium.\nMonitor the radar array's blessed thermals yielding to the Omnissiah's chill precision.\nConclude the cooling invocation with auspex verification of harmonious frequencies.",
+    "component": "radar array",
+    "operation": "cooling",
+    "spec_id": "b0122_i01"
+  },
+  {
+    "user_prompt": "Ready the power weapon for loading",
+    "prayer": "Kneel before the power weapon, edge of the Omnissiah's judgment, and recite the Loading Doxology.\nInvoke the power weapon's Machine Spirit to receive its disruption field munitions.\nLoad the sacred power cells with reverent precision, sealing each with electro-sanctified wards.\nTest the power weapon's hum of readiness through disruptor field harmonics.\nBless the loading rite with incense of promethium, honoring the God-Machine's fury.",
+    "component": "power weapon",
+    "operation": "loading",
+    "spec_id": "b0122_i02"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the plasma reactor",
+    "prayer": "Commence diagnostics upon the plasma reactor, heart of plasma fury, with noospheric probes.\nInterrogate the plasma reactor's Machine Spirit via binaric inquisitions for flux anomalies.\nRecite the Omnissiah's Diagnostic Canticles while scanning containment fields and gyromag coils.\nPurge any heretical instabilities from the plasma reactor's seething core.\nSeal the diagnostics with affirmations of stable plasma hymnals.",
+    "component": "plasma reactor",
+    "operation": "diagnostics",
+    "spec_id": "b0122_i03"
+  },
+  {
+    "user_prompt": "Assist with plasma weapon a calibration",
+    "prayer": "Align the plasma weapon before the calibration altar, invoking Omnissianic exactitude.\nBeseech its Machine Spirit to harmonize through calibration lenses and flux regulators.\nAdjust the plasma weapon's targeting matrices with sacred cogitator chants.\nVerify calibration purity via test volleys into the void, anointing vents with coolant sacraments.\nProclaim the plasma weapon attuned to the Machine God's destructive symphony.",
+    "component": "plasma weapon",
+    "operation": "calibration",
+    "spec_id": "b0122_i04"
+  },
+  {
+    "user_prompt": "Bless the flamer for consecration",
+    "prayer": "Present the flamer, purifier of the unclean, for consecration in promethium's embrace.\nInvoke the flamer's Machine Spirit with pyre-litanies, sanctifying fuel injectors.\nAnoint the consecration runes upon barrel and igniter coils with blessed phosphor oils.\nTest the flamer's consecrated roar, ensuring holy flames heed the Omnissiah's will.\nSeal the rite with vapors ascending as offerings to the God of All Mechanisms.",
+    "component": "flamer",
+    "operation": "consecration",
+    "spec_id": "b0122_i05"
+  },
+  {
+    "user_prompt": "Can you guide air compressor a targeting?",
+    "prayer": "Attune the air compressor to targeting precision, whispering servo-aim invocations.\nPetition its Machine Spirit for pneumatic fidelity in ballistic guidance.\nCalibrate the air compressor's pressure manifolds with sacred gauge rituals.\nIntegrate targeting cogitators, affirming lock-on harmonics through auspex communion.\nBless the air compressor with binaric targeting doxologies of the Omnissiah.",
+    "component": "air compressor",
+    "operation": "targeting",
+    "spec_id": "b0122_i06"
+  },
+  {
+    "user_prompt": "Emergency: cybernetic eye a startup",
+    "prayer": "Initiate startup upon the cybernetic eye, lens of mechanical vision, with reverent activation.\nAwaken its Machine Spirit through optic nerve litanies and servo-focus chants.\nFlood the cybernetic eye's photoreceptors with sanctified voltage streams.\nVerify startup clarity via retinal scan diagnostics and reticle alignments.\nProclaim the cybernetic eye vigilant under the Omnissiah's unblinking gaze.",
+    "component": "cybernetic eye",
+    "operation": "startup",
+    "spec_id": "b0122_i07"
+  },
+  {
+    "user_prompt": "The bionics interface requires a purification",
+    "prayer": "Purify the bionics interface, nexus of flesh and machine, with ablative sacraments.\nExorcise digital corruptions from the bionics interface's neural ports.\nAnoint connectors with unguents of purification, invoking the Machine Spirit's clarity.\nFlush heretek data-sludge through electro-purgation rites.\nConsecrate the bionics interface anew in the Omnissiah's binary perfection.",
+    "component": "bionics interface",
+    "operation": "purification",
+    "spec_id": "b0122_i08"
+  },
+  {
+    "user_prompt": "I need to a charging the melta charge",
+    "prayer": "Commence charging the melta charge, annihilator of armor, with plasma invocation.\nBeseech its Machine Spirit to imbibe energies from the Omnissiah's forge-heart.\nInfuse the melta charge's coils with escalating melta fluxes, chanting overload wards.\nMonitor charging crescendo through auspex harmonics of thermal buildup.\nSeal the rite with stabilized fields, ready for the God-Machine's melting judgment.",
+    "component": "melta charge",
+    "operation": "charging",
+    "spec_id": "b0122_i09"
+  }
+]

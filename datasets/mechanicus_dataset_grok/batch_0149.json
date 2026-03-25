@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent Chimera APC a purification needed",
+    "prayer": "Kneel before the venerable Chimera APC and intone the Litany of Purification.\nAnoint its armoured hull and treads with sacred oils to banish impurities.\nBeseech the Machine Spirit of the Chimera APC to expel all daemonic residues.\nCircumambulate the Chimera APC thrice, asperging with blessed promethium.\nInvoke the Omnissiah's cleansing fire upon its sanctified chassis.",
+    "component": "Chimera APC",
+    "operation": "purification",
+    "spec_id": "b0149_i00"
+  },
+  {
+    "user_prompt": "Ready the plasma reactor for shutdown",
+    "prayer": "Approach the plasma reactor with reverence and recite the Canticle of Shutdown.\nDecouple plasma feeds whilst petitioning its volatile Machine Spirit for quiescence.\nInitiate the controlled shutdown sequence under the Omnissiah's vigilant gaze.\nMonitor the plasma reactor's thermal decay through diagnostic binaric prayers.\nSeal its conduits with electro-seals blessed against hasty reawakening.",
+    "component": "plasma reactor",
+    "operation": "shutdown",
+    "spec_id": "b0149_i01"
+  },
+  {
+    "user_prompt": "The gravity generator awaits a purification",
+    "prayer": "Present electro-incense to the gravity generator's core and chant purification rites.\nPurge its gravitic coils from warp-taint with sanctified sonic waves.\nInvoke the Machine Spirit of the gravity generator to realign its holy fields.\nAnoint flux regulators whilst beseeching the Omnissiah's immutable laws.\nVerify purity through auspex litanies echoing the void's perfection.",
+    "component": "gravity generator",
+    "operation": "purification",
+    "spec_id": "b0149_i02"
+  },
+  {
+    "user_prompt": "Bless the battery array for purification",
+    "prayer": "Gather before the battery array and proclaim the Rite of Purification.\nDischarge residual corruptions from its cells with binaric exorcisms.\nRecharge the battery array's essence via the Omnissiah's boundless electrum.\nAnoint capacitor nodes to soothe their Machine Spirits.\nConclude with sealing canticles ensuring untainted power-flow.",
+    "component": "battery array",
+    "operation": "purification",
+    "spec_id": "b0149_i03"
+  },
+  {
+    "user_prompt": "I need to a sterilization the thermal imager",
+    "prayer": "Commence sterilization of the thermal imager with ablative incense.\nScour its lenses and sensors with sanctified abrasives and litanies.\nPetition the Machine Spirit within the thermal imager to shed microbial foes.\nApply thermal cauterization under Omnissiah's purifying blaze.\nTest sterility through invocation scans free of profane heat-shadows.",
+    "component": "thermal imager",
+    "operation": "sterilization",
+    "spec_id": "b0149_i04"
+  },
+  {
+    "user_prompt": "The water reclamator requires an engagement",
+    "prayer": "Prepare the water reclamator for engagement with hydro-blessed unguents.\nInvoke its aqueous Machine Spirit through cascading filtration chants.\nAlign pumps and membranes whilst reciting the Omnissiah's Cycle of Renewal.\nInitiate engagement sequences with reverent torque incantations.\nMonitor the water reclamator's vital flows in harmonious purity.",
+    "component": "water reclamator",
+    "operation": "engagement",
+    "spec_id": "b0149_i05"
+  },
+  {
+    "user_prompt": "Consecrate the plasma reactor before recalibration",
+    "prayer": "Consecrate the plasma reactor prior to recalibration with plasma-litany.\nAttune its containment fields via the Omnissiah's precise calculus.\nBeseech the plasma reactor's Machine Spirit for recalibrational obedience.\nAdjust flux matrices through sanctified servo-rites.\nAffirm recalibration with diagnostic hymns of stellar fidelity.",
+    "component": "plasma reactor",
+    "operation": "recalibration",
+    "spec_id": "b0149_i06"
+  },
+  {
+    "user_prompt": "The battery array needs a sterilization",
+    "prayer": "Initiate sterilization of the battery array with galvanic purges.\nExorcise contaminants from its electrolytic hearts via binaric wrath.\nAnoint the battery array's terminals to placate awakened Machine Spirits.\nInvoke the Omnissiah's sterile void upon each cell.\nSeal with warded insulators post-sterilization rites.",
+    "component": "battery array",
+    "operation": "sterilization",
+    "spec_id": "b0149_i07"
+  },
+  {
+    "user_prompt": "How do I bless the Land Raider for operation?",
+    "prayer": "Bless the Land Raider for operation by anointing its mighty tracks.\nAwaken its colossal Machine Spirit with thunderous canticles.\nInvoke the Omnissiah to empower the Land Raider's guns and armour.\nCircumscribe its hull with electro-wards for battle sanctity.\nCommence operational litanies ensuring the Land Raider's wrathful vigil.",
+    "component": "Land Raider",
+    "operation": "operation",
+    "spec_id": "b0149_i08"
+  },
+  {
+    "user_prompt": "Can you guide logic engine a preparation?",
+    "prayer": "Guide the logic engine's preparation with cogitator incense.\nClear noospheric pathways through invocatory data-purgation.\nPetition its arcane Machine Spirit for preparatory alignment.\nSanctify logic cores under the Omnissiah's binary omniscience.\nFinalize with verification runes affirming flawless computation.",
+    "component": "logic engine",
+    "operation": "preparation",
+    "spec_id": "b0149_i09"
+  }
+]

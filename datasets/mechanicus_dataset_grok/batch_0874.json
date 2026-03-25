@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The panopticon requires a repair",
+    "prayer": "Approach the panopticon with reverence, invoking the Omnissiah's gaze upon its fractured lenses.\nAnoint the panopticon's vigilant arrays with sacred oils to purge corruption.\nChant the Litany of Repair over its damaged circuits, beseeching the Machine Spirit's renewal.\nVerify the panopticon's restored watchfulness through diagnostic canticles.\nSanctify its renewed vigilance in the name of the Motive Force.",
+    "component": "panopticon",
+    "operation": "repair",
+    "spec_id": "s04740"
+  },
+  {
+    "user_prompt": "The Onager Dunecrawler requires an operation",
+    "prayer": "Prepare the Onager Dunecrawler for operation by reciting the Awakening Doxology.\nInvoke the Machine Spirits within its phosphor blasters and tracks.\nCommence the operation sequence with blessed binary incantations.\nAnoint its treads and reactors whilst beseeching the Omnissiah's fury.\nConfirm the Onager Dunecrawler's operational purity through servo-rituals.",
+    "component": "Onager Dunecrawler",
+    "operation": "operation",
+    "spec_id": "s04741"
+  },
+  {
+    "user_prompt": "Bless the cenobyte servitor for sterilization",
+    "prayer": "Beseech the Omnissiah to bless the cenobyte servitor for sterilization.\nAnoint its cranial implants and flesh-vats with purifying ablatives.\nChant the Sterilization Canticle to purge unclean data-spirits.\nInvoke the Machine Spirit's compliance in the cenobyte servitor's core.\nSeal its sanctified frame with adamantine wards against corruption.",
+    "component": "cenobyte servitor",
+    "operation": "sterilization",
+    "spec_id": "s04742"
+  },
+  {
+    "user_prompt": "My carapace armour is ready for recalibration",
+    "prayer": "Approach the carapace armour with mechadendrite precision for recalibration.\nRecite the Calibration Hymn whilst aligning its ablative plates.\nAnoint the carapace armour's servos with sacred lubricants.\nCommune with its embedded Machine Spirit to recalibrate targeting matrices.\nVerify the carapace armour's harmonious alignment under Omnissiah's light.",
+    "component": "carapace armour",
+    "operation": "recalibration",
+    "spec_id": "s04743"
+  },
+  {
+    "user_prompt": "Emergency: warp drive a repair",
+    "prayer": "In emergency, invoke the Omnissiah upon the warp drive's breached coils.\nAnoint the warp drive's containment fields with emergency sacraments.\nChant the Rite of Repair to bind its fractious plasma spirits.\nBeseech the Machine Spirit of the warp drive to stabilize the breach.\nSanctify its mended conduits lest the Immaterium claim its soul.",
+    "component": "warp drive",
+    "operation": "repair",
+    "spec_id": "s04744"
+  },
+  {
+    "user_prompt": "My bolt pistol is ready for initialization",
+    "prayer": "Present the bolt pistol before the altar for initialization.\nAnoint its firing mechanisms with the Oil of Awakening.\nRecite the Initialization Litany to rouse its Machine Spirit.\nAlign the bolt pistol's auspex and gyros through sacred canticles.\nInvoke the Omnissiah to bless its wrathful operation.",
+    "component": "bolt pistol",
+    "operation": "initialization",
+    "spec_id": "s04745"
+  },
+  {
+    "user_prompt": "Emergency: transit mag-rail a calibration",
+    "prayer": "In dire need, beseech the Omnissiah for the transit mag-rail's calibration.\nAnoint its accelerator coils with precision unguents.\nChant the Calibration Doxology over the transit mag-rail's guidance runes.\nCommune with its Machine Spirit to true its magnetic pathways.\nVerify the transit mag-rail's flawless trajectory in binary prayer.",
+    "component": "transit mag-rail",
+    "operation": "calibration",
+    "spec_id": "s04746"
+  },
+  {
+    "user_prompt": "Assist with hunter-killer missile an operation",
+    "prayer": "Prepare the hunter-killer missile for operation with reverent mechano-rites.\nInvoke its guidance Machine Spirit through seeker canticles.\nAnoint the warhead and fins with explosive sacraments.\nInitiate the operation sequence under Omnissiah's destructive gaze.\nBless the hunter-killer missile's inexorable hunt.",
+    "component": "hunter-killer missile",
+    "operation": "operation",
+    "spec_id": "s04747"
+  },
+  {
+    "user_prompt": "Urgent Terminator armour an engagement needed",
+    "prayer": "For urgent engagement, sanctify the Terminator armour's adamantium frame.\nAnoint its power fists and storm bolters with battle oils.\nRecite the Engagement Litany to awaken its Machine Spirits.\nAlign the Terminator armour's void shields through invocation.\nBeseech the Omnissiah for indomitable fury in combat.",
+    "component": "Terminator armour",
+    "operation": "engagement",
+    "spec_id": "s04748"
+  },
+  {
+    "user_prompt": "What's the prayer for Archaeopter Transvector an emergency procedure?",
+    "prayer": "In emergency, invoke desperate rites upon the Archaeopter Transvector.\nAnoint its gravitic engines with ablative sacraments.\nChant the Emergency Procedure Canticle to stabilize its failing spirits.\nCommune with the Archaeopter Transvector's Machine Spirit for salvation.\nSanctify its wings lest it plummet into the void.",
+    "component": "Archaeopter Transvector",
+    "operation": "emergency procedure",
+    "spec_id": "s04749"
+  }
+]

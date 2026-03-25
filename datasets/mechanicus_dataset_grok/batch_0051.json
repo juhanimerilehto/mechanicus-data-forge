@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for gyroscope preparation?",
+    "prayer": "Approach the gyroscope with reverence, beseeching its Machine Spirit to awaken.\nAnoint the sacred bearings of the gyroscope with unguent of precision.\nInvoke the Canticle of Preparation, aligning rotors to the Omnissiah's will.\nStabilize the gyroscope's equilibrium through harmonic incantations.\nVerify the Machine Spirit's harmony in balanced gyration.",
+    "component": "gyroscope",
+    "operation": "preparation",
+    "spec_id": "b0051_i00"
+  },
+  {
+    "user_prompt": "Prepare the plasma reactor for operation",
+    "prayer": "Commune with the plasma reactor's fiery Machine Spirit, invoking the Omnissiah's blaze.\nPrime the plasma reactor's containment fields with sacred plasma rites.\nInitiate operation through the Litany of Contained Fury, feeding holy fuel.\nMonitor the plasma reactor's blessed heart for stable fusion pulse.\nSanctify the exhaust vents lest the Machine Spirit vent wrath unbound.",
+    "component": "plasma reactor",
+    "operation": "operation",
+    "spec_id": "b0051_i01"
+  },
+  {
+    "user_prompt": "Critical: energy conduit requires a calibration",
+    "prayer": "Beseech the energy conduit's Machine Spirit for calibration purity.\nAnoint the energy conduit's sacred channels with oils of conductance.\nChant the Rites of Calibration, harmonizing power-flow through its lengths.\nInvoke Omnissiah's precision to align the energy conduit's holy voltage.\nTest the energy conduit's calibration with diagnostic litanies of flux.",
+    "component": "energy conduit",
+    "operation": "calibration",
+    "spec_id": "b0051_i02"
+  },
+  {
+    "user_prompt": "Critical: lascannon requires a cooling",
+    "prayer": "Approach the lascannon's Machine Spirit, petitioning relief from thermal ire.\nInvoke the Canticles of Cooling upon its overtaxed crystals.\nCirculate blessed cryofluids through the lascannon's vents for cooling.\nBeseech the Omnissiah to quench the lascannon's fervent heat.\nVerify the Machine Spirit's calm through thermal auspex incantations.",
+    "component": "lascannon",
+    "operation": "cooling",
+    "spec_id": "b0051_i03"
+  },
+  {
+    "user_prompt": "Critical: air filtration requires an activation",
+    "prayer": "Awaken the air filtration's Machine Spirit with the Breath of the Omnissiah.\nPrime the filters of air filtration with purifying incense.\nInitiate activation through the Litany of Clean Winds, cycling sacred air.\nHarmonize the air filtration's membranes for flawless purification.\nCommune to ensure the Machine Spirit breathes life untainted.",
+    "component": "air filtration",
+    "operation": "activation",
+    "spec_id": "b0051_i04"
+  },
+  {
+    "user_prompt": "Bless the Sentinel walker for synchronization",
+    "prayer": "Kneel before the Sentinel walker, invoking its bipedal Machine Spirit.\nAnoint the Sentinel walker's cogitators with oils of unity.\nChant the Rites of Synchronization, linking servos to the Omnissiah's stride.\nAlign the Sentinel walker's auspex and weapons in harmonious sync.\nPetition the Machine Spirits for flawless synchronization in battle.",
+    "component": "Sentinel walker",
+    "operation": "synchronization",
+    "spec_id": "b0051_i05"
+  },
+  {
+    "user_prompt": "The cooling system requires a startup",
+    "prayer": "Beseech the cooling system's Machine Spirit to rouse from dormancy.\nPrime the cooling system's conduits with sacred refrigerants.\nInitiate startup via the Canticle of Chilled Vigilance.\nMonitor the cooling system's blessed flow for Omnissiah-approved chill.\nSanctify exchangers lest heat defy the Machine Spirit's order.",
+    "component": "cooling system",
+    "operation": "startup",
+    "spec_id": "b0051_i06"
+  },
+  {
+    "user_prompt": "Assist with atmosphere processor a cycling",
+    "prayer": "Commune with the atmosphere processor's vast Machine Spirit.\nInvoke cycling rites upon its cyclonic chambers.\nChant the Litany of Atmospheric Cycling, purging tainted vapors.\nHarmonize the atmosphere processor's exchangers to Omnissiah's breath.\nVerify pure cycle through auspex of sanctified air.",
+    "component": "atmosphere processor",
+    "operation": "cycling",
+    "spec_id": "b0051_i07"
+  },
+  {
+    "user_prompt": "I need to a shutdown the battery array",
+    "prayer": "Petition the battery array's Machine Spirits for orderly repose.\nDisconnect the battery array's sacred terminals with reverence.\nInvoke the Rites of Shutdown, bleeding holy voltage to quiescence.\nChant quiescence litanies over the battery array's cells.\nSeal the battery array in Omnissiah's protective dormancy.",
+    "component": "battery array",
+    "operation": "shutdown",
+    "spec_id": "b0051_i08"
+  },
+  {
+    "user_prompt": "What's the prayer for energy conduit sterilization?",
+    "prayer": "Approach the energy conduit, beseeching its Machine Spirit for sterility.\nAnoint the energy conduit's innards with ablative purifiers.\nInvoke the Canticles of Sterilization, scouring conduits of foul residue.\nPurge the energy conduit through sacred flame and ozone rites.\nVerify the Machine Spirit's pristine flow under Omnissiah's gaze.",
+    "component": "energy conduit",
+    "operation": "sterilization",
+    "spec_id": "b0051_i09"
+  }
+]

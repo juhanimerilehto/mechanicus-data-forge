@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the bolt pistol for purification?",
+    "prayer": "Approach the bolt pistol with sanctified mechadendrites extended in reverence.\nInvoke the Rite of Purification upon its sacred chambers, beseeching the Machine Spirit to expel all unclean residues.\nAnoint the bolt pistol's muzzle and firing mechanisms with blessed unguents of the Omnissiah.\nChant the Canticle of Cleansing thrice, ensuring the bolt pistol's essence is pure and wrathful once more.",
+    "component": "bolt pistol",
+    "operation": "purification",
+    "spec_id": "s07470"
+  },
+  {
+    "user_prompt": "Bless the void shield for blessing",
+    "prayer": "Present thyself before the void shield and proclaim the Benediction of Blessing.\nCircumambulate the void shield whilst reciting litanies that awaken its protective Machine Spirit.\nApply sacred oils to its generator coils, invoking the Omnissiah's favour for unbreachable defence.\nConclude the blessing by activating the void shield in diagnostic harmony, affirming its blessed vigilance.",
+    "component": "void shield",
+    "operation": "blessing",
+    "spec_id": "s07471"
+  },
+  {
+    "user_prompt": "Can you guide carapace armour a purification?",
+    "prayer": "Prostrate before the carapace armour and commence the Purification Liturgy.\nScour the carapace armour's plates with ablative incense, purging daemonic taint from its fibrous layers.\nBeseech the Machine Spirit within the carapace armour to reject all corruption through chanted binaric verses.\nSeal the rite by inscribing purity glyphs upon the carapace armour, sanctified by the Omnissiah's light.",
+    "component": "carapace armour",
+    "operation": "purification",
+    "spec_id": "s07472"
+  },
+  {
+    "user_prompt": "I need to a maintenance the Whirlwind",
+    "prayer": "Gather the auspex arrays and encircle the Whirlwind for the Maintenance Invocation.\nInspect and anoint each track and launcher of the Whirlwind, honouring its ancient Machine Spirit.\nRecite the Omnissiah's Protocols of Maintenance to realign servos and munitions feeds.\nTest-fire a vox-blessed round from the Whirlwind, verifying harmonious operation under the Machine God's gaze.",
+    "component": "Whirlwind",
+    "operation": "maintenance",
+    "spec_id": "s07473"
+  },
+  {
+    "user_prompt": "The welding torch awaits an initialization",
+    "prayer": "Hold the welding torch aloft and intone the Initialization Canticle of Awakening.\nTouch the welding torch's nozzle to the sacred forge-anvil, invoking the Machine Spirit's first breath.\nChannel noospheric energies through the welding torch, calibrating its plasma arc to the Omnissiah's will.\nIgnite the welding torch in ritual flame, sealing its initialization with a hymn of unyielding fusion.",
+    "component": "welding torch",
+    "operation": "initialization",
+    "spec_id": "s07474"
+  },
+  {
+    "user_prompt": "What's the prayer for bolter a sterilization?",
+    "prayer": "Kneel in aseptic chamber before the bolter and begin the Sterilization Rite.\nPurge the bolter's breech and barrel with sanctified promethium vapours, cleansing its Machine Spirit.\nRecite binaric sutras of Sterilization, driving forth microbial heresy from the bolter's sacred mechanisms.\nVerify purity by auspex scan, anointing the bolter anew under the Omnissiah's purifying radiance.",
+    "component": "bolter",
+    "operation": "sterilization",
+    "spec_id": "s07475"
+  },
+  {
+    "user_prompt": "Urgent plasma pistol a diagnostics needed",
+    "prayer": "Interface with the plasma pistol via cogitator probe and invoke Diagnostic Litany.\nQuery the plasma pistol's Machine Spirit through noospheric chants, revealing fault auguries.\nRecalibrate flask regulators whilst beseeching the Omnissiah for clarity in diagnostics.\nAffirm resolution by cycling the plasma pistol's containment fields in harmonious diagnostic rhythm.",
+    "component": "plasma pistol",
+    "operation": "diagnostics",
+    "spec_id": "s07476"
+  },
+  {
+    "user_prompt": "Prepare the motion detector for engagement",
+    "prayer": "Position the motion detector upon the altar of vigilance and proclaim Engagement Doxology.\nAwaken its auspex servos with oil of activation, engaging the Machine Spirit's watchful gaze.\nLink the motion detector to vox-grilles, intoning binaric commands for unerring detection.\nTest its engagement by shadow-dance ritual, sanctified by the Omnissiah's eternal scrutiny.",
+    "component": "motion detector",
+    "operation": "engagement",
+    "spec_id": "s07477"
+  },
+  {
+    "user_prompt": "Assist with navigational beacon a recalibration",
+    "prayer": "Align the navigational beacon towards the stellar void and commence Recalibration Hymn.\nPurge erroneous stellar cartographs from the navigational beacon's cogitator core.\nInvoke the Machine Spirit of the navigational beacon with Omnissiah's stellar litanies for true alignment.\nVerify recalibration through warp-simulacra test, ensuring the navigational beacon's guiding light endures.",
+    "component": "navigational beacon",
+    "operation": "recalibration",
+    "spec_id": "s07478"
+  },
+  {
+    "user_prompt": "Consecrate the farcoder before preparation",
+    "prayer": "Enshrine the farcoder within the consecration field and intone Preparation Vespers.\nAnoint its transmission coils with sacred chrism, preparing the farcoder's Machine Spirit for duty.\nRecite the Omnissiah's Canticles of Preparation to harmonize its binary emissions.\nActivate the farcoder in ritual sync, its signals now blessed and far-reaching across the void.",
+    "component": "farcoder",
+    "operation": "preparation",
+    "spec_id": "s07479"
+  }
+]

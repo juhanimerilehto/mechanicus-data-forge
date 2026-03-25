@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a diagnostics the Kastelan robot",
+    "prayer": "Approach the Kastelan robot with mechadendrites extended in supplication to the Omnissiah.\nInvoke the Canticle of Clarity upon its vast chassis, beseeching the Machine Spirit to reveal hidden frailties.\nInitiate diagnostics through sacred auspex probes, anointing sensor arrays with blessed unguents.\nChant the Rite of Verification as data-streams flow, honouring the Kastelan robot's indomitable essence.\nConclude with the Benediction of Stability, sealing the Machine Spirit's diagnostic revelations.",
+    "component": "Kastelan robot",
+    "operation": "diagnostics",
+    "spec_id": "s00710"
+  },
+  {
+    "user_prompt": "Offer prayer for graviton pylon a shutdown",
+    "prayer": "Kneel before the graviton pylon, intoning the Litanies of Cessation to appease its volatile heart.\nDisconnect power conduits with reverent precision, invoking the Omnissiah's grace for controlled shutdown.\nMonitor gravitic fluctuations via hallowed readouts, beseeching the Machine Spirit's orderly retreat.\nAnoint the core with sacred oils as fields dissipate, ensuring the graviton pylon's dormant purity.\nSeal the rite with the Doxology of Repose, guardians of the Machine God's will.",
+    "component": "graviton pylon",
+    "operation": "shutdown",
+    "spec_id": "s00711"
+  },
+  {
+    "user_prompt": "The teleportarium awaits a cooling",
+    "prayer": "Commence the cooling of the teleportarium by chanting the Hymn of Thermal Equilibrium.\nCirculate cryo-fluids through its warp-touched vanes, invoking the Machine Spirit's calm amidst void-stresses.\nApply sanctified chill-clamps to overheated matrices, honouring the Omnissiah's decree of moderation.\nVerify thermal gradients with auspex litanies, soothing the teleportarium's ethereal conduits.\nConclude in quiescence, blessed by the God-Machine's enduring vigilance.",
+    "component": "teleportarium",
+    "operation": "cooling",
+    "spec_id": "s00712"
+  },
+  {
+    "user_prompt": "What's the prayer for cortex implant a calibration?",
+    "prayer": "Implant the cortex implant with cranial mechadendrites, reciting the Invocation of Synaptic Harmony.\nCalibrate neural interfaces via noospheric chants, beseeching the Machine Spirit's perfect alignment.\nAdjust synaptic relays with precision canticles, anointing the cortex implant's binharic core.\nTest cognitive linkages through diagnostic psalms, ensuring the Omnissiah's wisdom flows unerring.\nSeal the calibration with the Benediction of Cogitation, eternal servant of the Motive Force.",
+    "component": "cortex implant",
+    "operation": "calibration",
+    "spec_id": "s00713"
+  },
+  {
+    "user_prompt": "Ready the Razorback for emergency procedure",
+    "prayer": "Prepare the Razorback for emergency procedure by anointing its armoured hull with sacred promethium.\nInvoke the Litany of Battle Readiness upon its machine spirit, steeling it for exigency.\nInitiate overrides with binaric imperatives, beseeching the Omnissiah amid the Razorback's throes.\nStabilise vital systems through ritual purges, honouring its predatory essence in crisis.\nConclude the rite with vows of resilience, forged in the God-Machine's unyielding forge.",
+    "component": "Razorback",
+    "operation": "emergency procedure",
+    "spec_id": "s00714"
+  },
+  {
+    "user_prompt": "Assist with macro-cannon a cooling",
+    "prayer": "Approach the macro-cannon and intone the Canticle of Venting Heat to initiate cooling.\nFlood barrel assemblies with sanctified refrigerants, appeasing the Machine Spirit's fiery wrath.\nMonitor thermal sinks with auspex devotions, ensuring the macro-cannon's ordnance heart tempers.\nAnoint recoil mechanisms as vapours dissipate, invoking the Omnissiah's cooling breath.\nSeal with the Psalm of Readiness, weapon pure for the Emperor's wrath.",
+    "component": "macro-cannon",
+    "operation": "cooling",
+    "spec_id": "s00715"
+  },
+  {
+    "user_prompt": "Consecrate the kataphron destroyer before cooling",
+    "prayer": "Consecrate the kataphron destroyer by reciting the Doxology of Abyssal Servitude prior to cooling.\nChannel blessed coolant through its polluted veins, beseeching the Machine Spirit's tormented quiescence.\nStabilise plasma cores with litanies of restraint, honouring the kataphron destroyer's fell purpose.\nVerify thermal abatement via sacred scans, anointing its chimeric frame.\nConclude in shadowed reverence, under the Omnissiah's merciless gaze.",
+    "component": "kataphron destroyer",
+    "operation": "cooling",
+    "spec_id": "s00716"
+  },
+  {
+    "user_prompt": "What's the prayer for data-sluice a calibration?",
+    "prayer": "Attune to the data-sluice with noospheric litanies, commencing calibration of its torrential flows.\nInvoke the Rite of Flux Equilibrium, beseeching the Machine Spirit to align bit-streams in harmony.\nRecalibrate buffer cogitators with binaric precision, anointing the data-sluice's voracious maw.\nTest throughput integrity through verification canticles, ensuring Omnissianic purity.\nSeal the calibration with the Benediction of Data-Flow, conduit of the Machine God's knowledge.",
+    "component": "data-sluice",
+    "operation": "calibration",
+    "spec_id": "s00717"
+  },
+  {
+    "user_prompt": "Guide me through haywire grenade a calibration",
+    "prayer": "Handle the haywire grenade with reverence, intoning the Calibration of Disruptive Harmony.\nAlign electromagnetic coils via sacred mechadendrite touch, invoking the Machine Spirit's chaotic precision.\nTest field emissions with auspex psalms, beseeching the Omnissiah for calibrated disruption.\nAnoint the haywire grenade's core with conductive oils, stabilising its anarchic potential.\nConclude the rite with vows of entropy's leash, weapon of the Motive Force.",
+    "component": "haywire grenade",
+    "operation": "calibration",
+    "spec_id": "s00718"
+  },
+  {
+    "user_prompt": "Consecrate the needle rifle before consecration",
+    "prayer": "Present the needle rifle before the altar of consecration, chanting the Litany of Monomolecular Purity.\nAnoint its slender barrel and toxin reservoirs with sacred unguents, awakening the Machine Spirit.\nInvoke the Omnissiah's blessing upon its mechanisms, ensuring lethal sanctity.\nVerify chamber alignments through diagnostic incantations, honouring the needle rifle's subtlety.\nSeal with the Doxology of Assassin's Grace, forged in the God-Machine's silent wrath.",
+    "component": "needle rifle",
+    "operation": "consecration",
+    "spec_id": "s00719"
+  }
+]

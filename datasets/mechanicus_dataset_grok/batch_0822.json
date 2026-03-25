@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the melta bomb during maintenance",
+    "prayer": "Approach the melta bomb with sacred unguents and commence the rite of maintenance.\nInspect its plasma conduits for wear, beseeching the Machine Spirit to reveal flaws.\nAnoint the melta bomb's core with blessed oils whilst chanting the Canticle of Stability.\nVerify the integrity through diagnostic rites, invoking the Omnissiah's favour upon the melta bomb.\nConclude maintenance by sealing wards against entropy's grasp.",
+    "component": "melta bomb",
+    "operation": "maintenance",
+    "spec_id": "s04220"
+  },
+  {
+    "user_prompt": "Offer prayer for Manticore a purification",
+    "prayer": "Kneel before the Manticore and intone the Litany of Purification to awaken its spirit.\nPurge impure residues from its rocket bays with sanctified ablative fluids.\nBeseech the Machine Spirits of the Manticore to cast out daemonic taint during this purification.\nAnoint barrage launchers with phoenix tears, honouring the Omnissiah's purifying fire.\nSeal the rite with electro-incantations, affirming the Manticore's renewed purity.",
+    "component": "Manticore",
+    "operation": "purification",
+    "spec_id": "s04221"
+  },
+  {
+    "user_prompt": "What's the prayer for Skorpius Dunerider an activation?",
+    "prayer": "Present binary incense to the Skorpius Dunerider and recite the Activation Doxology.\nInterface with its noosphere core, invoking the Omnissiah to stir the dormant Machine Spirit.\nInitiate power surge through dorsal reactors whilst beseeching activation of all systems.\nMonitor the Skorpius Dunerider's auspex arrays as life returns to its treads and blades.\nConsecrate the activation with a final hymn, binding the Skorpius Dunerider to duty eternal.",
+    "component": "Skorpius Dunerider",
+    "operation": "activation",
+    "spec_id": "s04222"
+  },
+  {
+    "user_prompt": "The Onager Dunecrawler requires a cooling",
+    "prayer": "Encircle the Onager Dunecrawler with coolant runes and begin the cooling invocation.\nChannel blessed refrigerants through its overheating Icarus array, soothing the Machine Spirit.\nChant the Canticle of Thermal Equilibrium during the cooling phase.\nProbe the Onager Dunecrawler's vents with mechadendrites, expelling excess heat-daemons.\nAffirm stability by anointing the Onager Dunecrawler, praising the Omnissiah's temperate grace.",
+    "component": "Onager Dunecrawler",
+    "operation": "cooling",
+    "spec_id": "s04223"
+  },
+  {
+    "user_prompt": "What's the prayer for radium carbine a targeting?",
+    "prayer": "Align the radium carbine upon the targeting altar and whisper the Rite of Precision.\nCalibrate its phosphor sights with las-thread invocations, awakening the targeting cogitator.\nBeseech the Machine Spirit of the radium carbine to guide rad-bolts true in targeting.\nTest alignment through holographic foes, honouring the Omnissiah's unerring aim.\nSeal the radium carbine's targeting with a binary benediction against deviation.",
+    "component": "radium carbine",
+    "operation": "targeting",
+    "spec_id": "s04224"
+  },
+  {
+    "user_prompt": "Critical: power armour requires a startup",
+    "prayer": "Don the power armour humbly and intone the Startup Hymn to rouse its ancient spirit.\nEngage servo-motives with electro-prayers, initiating the startup sequence.\nAnoint gorget seals and power cells whilst invoking the Machine Spirits of the power armour.\nVerify fusion core ignition, beseeching the Omnissiah for steadfast vigour.\nRise empowered, clad in sanctified power armour, ready for the Emperor's wars.",
+    "component": "power armour",
+    "operation": "startup",
+    "spec_id": "s04225"
+  },
+  {
+    "user_prompt": "How do I bless the Manticore for diagnostics?",
+    "prayer": "Commence diagnostics upon the Manticore by reciting the Binary Canticle of Scrutiny.\nInterface purity-sealed cogitators to probe the Machine Spirit's health.\nInvoke the Omnissiah to illuminate faults within the Manticore during diagnostics.\nPurge anomalous code-threads with sanctified data-exorcism.\nConclude by affirming the Manticore's worthiness through auspex litanies.",
+    "component": "Manticore",
+    "operation": "diagnostics",
+    "spec_id": "s04226"
+  },
+  {
+    "user_prompt": "I need to a loading the life signs monitor",
+    "prayer": "Prepare the life signs monitor for loading with noospheric sacraments.\nInsert data-slates anointed in machine oil, chanting the Loading Doxology.\nAwaken the life signs monitor's Machine Spirit to assimilate vital signs data.\nVerify loading integrity by beseeching the Omnissiah for flawless assimilation.\nSeal the rite, empowering the life signs monitor against bio-corruption.",
+    "component": "life signs monitor",
+    "operation": "loading",
+    "spec_id": "s04227"
+  },
+  {
+    "user_prompt": "Bless the sicarian infiltrator for calibration",
+    "prayer": "Position the sicarian infiltrator upon the calibration plinth and begin the rite.\nSync its chordcytes with precision canticles, invoking the Machine Spirit's acuity.\nFine-tune phosphor blasters during calibration, honouring the Omnissiah's exactitude.\nTest neural shrouds through shadow-simulacra, affirming the sicarian infiltrator's stealth.\nConsecrate final adjustments, binding the sicarian infiltrator to silent slaughter.",
+    "component": "sicarian infiltrator",
+    "operation": "calibration",
+    "spec_id": "s04228"
+  },
+  {
+    "user_prompt": "Sanctify the krak grenade during blessing",
+    "prayer": "Hold the krak grenade aloft and intone the Blessing of Shattering Force.\nAnoint its flux core with promethium tears, awakening the indwelling Machine Spirit.\nCircumscribe warding glyphs upon the krak grenade during this blessing.\nInvoke the Omnissiah to infuse destructive purity into the krak grenade.\nSeal with a thunderous amen, arming the krak grenade for xenos-bane.",
+    "component": "krak grenade",
+    "operation": "blessing",
+    "spec_id": "s04229"
+  }
+]

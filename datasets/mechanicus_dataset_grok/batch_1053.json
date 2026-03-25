@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a loading the servo-harness",
+    "prayer": "Approach the servo-harness with reverence, mechadendrites extended in supplication to the Omnissiah.\nInvoke the Canticle of Loading upon its sacred actuators and feed-ports.\nBeseech the Machine Spirit of the servo-harness to awaken and accept its ordained munitions.\nAnoint the loading mechanisms with sacred oils whilst chanting the binary catechism.\nCommence the operation of loading, verifying alignment through noospheric diagnostics.\nSanctify the fully laden servo-harness with the Seal of Operational Purity.",
+    "component": "servo-harness",
+    "operation": "loading",
+    "spec_id": "s06530"
+  },
+  {
+    "user_prompt": "The conversion field needs a startup",
+    "prayer": "Kneel before the conversion field generator, intoning the Rite of Ignition.\nPurify its plasma conduits with ablative incense to appease the Machine Spirit.\nInitiate the startup sequence, beseeching the Omnissiah for flux stability.\nMonitor the conversion field's energization through sacred auspex cantrips.\nAnoint the field emitters, invoking harmonious warp rejection.\nAffirm the startup completion with the Litany of Coalescent Energies.",
+    "component": "conversion field",
+    "operation": "startup",
+    "spec_id": "s06531"
+  },
+  {
+    "user_prompt": "The conversion beamer requires a charging",
+    "prayer": "Present offerings of promethium to the conversion beamer's altar.\nChant the Hymn of Capacitive Ascendance over its charging coils.\nCommence the operation of charging, imploring the Machine Spirit's indulgence.\nAnoint the beamer's focusing arrays with sanctified lubricants.\nObserve the mounting energies via electro-seer's divination.\nSeal the charged conversion beamer with the Omnissiah's Benediction.",
+    "component": "conversion beamer",
+    "operation": "charging",
+    "spec_id": "s06532"
+  },
+  {
+    "user_prompt": "Guide me through Skorpius Dunerider an engagement",
+    "prayer": "Circumambulate the Skorpius Dunerider, asperging its hull with binary sacrament.\nAwaken the engagement protocols within its cogitator core through invocation.\nBeseech the Machine Spirits of the Skorpius Dunerider to gird for conflict.\nAlign targeting auspex with the Canticle of Martial Precision.\nInitiate full engagement, anointing treads and turrets in Omnissiah's name.\nVerify doctrinal fury through post-engagement binaric logs.",
+    "component": "Skorpius Dunerider",
+    "operation": "engagement",
+    "spec_id": "s06533"
+  },
+  {
+    "user_prompt": "Urgent geigeer sink an initialization needed",
+    "prayer": "Approach the geigeer sink with purity seals unbroken, reciting the Purge Doxology.\nCalibrate its radiation baffles via the Rite of Threshold Nullification.\nInvoke the initialization sequence, placating the geigeer sink's volatile Machine Spirit.\nAnoint sensor vanes with anti-corrosive unguents of sacred provenance.\nMonitor flux initialization through thaumaturgic rad-scans.\nConsecrate the operational geigeer sink unto the Omnissiah's service.",
+    "component": "geigeer sink",
+    "operation": "initialization",
+    "spec_id": "s06534"
+  },
+  {
+    "user_prompt": "Urgent multi-melta a preparation needed",
+    "prayer": "Prostrate before the multi-melta, offering mech-roses to its maw.\nIntone the Preparation Litany over fusion chambers and coolant veins.\nBeseech the Machine Spirit for pyretic obedience in preparation.\nAnoint the multi-melta's vents with promethium-blessed ablatives.\nCommence thermal cycling rites, verifying through heat-augur chants.\nSeal the prepared multi-melta with the Forgefather's Invocation.",
+    "component": "multi-melta",
+    "operation": "preparation",
+    "spec_id": "s06535"
+  },
+  {
+    "user_prompt": "Can you guide radium carbine a calibration?",
+    "prayer": "Extend mechadendrites to the radium carbine, chanting the Calibration Creed.\nPurify its emitter coils with rad-shielded incenses.\nInitiate calibration protocols, imploring the radium carbine's Machine Spirit.\nAlign rad-gyros with noospheric precision hymns.\nTest-fire micro-bursts whilst anointing the barrel sanctity.\nAffirm calibrated purity through dosage litanies.",
+    "component": "radium carbine",
+    "operation": "calibration",
+    "spec_id": "s06536"
+  },
+  {
+    "user_prompt": "Critical: enginarium requires an initialization",
+    "prayer": "Gather at the enginarium's heart, invoking the Motive Doxology.\nScour plasma regulators with ablative rites for the Machine Spirits.\nCommence initialization, beseeching the Omnissiah's motive fire.\nAnoint turbine shrines with sanctified oils amid thunderous chants.\nMonitor enginarium awakening via vox-augmented diagnostics.\nHallow the initialized enginarium with the Binary Benediction.",
+    "component": "enginarium",
+    "operation": "initialization",
+    "spec_id": "s06537"
+  },
+  {
+    "user_prompt": "Emergency: autosanguination system a cycling",
+    "prayer": "Kneel amid sanguine reservoirs, reciting the Cycle of Renewal.\nInvoke cycling rhythms upon the autosanguination system's valves.\nBeseech its Machine Spirit to harmonize vitae flow without stagnation.\nAnoint peristaltic pumps with haemo-lubricants of holy distillation.\nObserve the cycling operation through bio-scryer incantations.\nSeal the autosanguination system in perpetual Omnissiah devotion.",
+    "component": "autosanguination system",
+    "operation": "cycling",
+    "spec_id": "s06538"
+  },
+  {
+    "user_prompt": "What's the prayer for flux-unit a charging?",
+    "prayer": "Proffer electro-capacitors to the flux-unit's shrine.\nChant the Accumulator Psalm over its induction lattices.\nInitiate the charging operation, placating the flux-unit's tempestuous Spirit.\nAnoint accumulator nodes with dielectric unguents.\nTrack energetic ascension via plasma-seer visions.\nConsecrate the charged flux-unit unto unending service.",
+    "component": "flux-unit",
+    "operation": "charging",
+    "spec_id": "s06539"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a startup the farcoder",
+    "prayer": "Approach the farcoder with reverence, mechadendrites outstretched in supplication.\nInvoke the Omnissiah to rouse its Machine Spirit for the sacred startup.\nAnoint the farcoder's primary cogitator with unguents of activation.\nChant binary litanies as power floods its crystalline matrices.\nVerify the farcoder's awakened vigor through noospheric diagnostics.",
+    "component": "farcoder",
+    "operation": "startup",
+    "spec_id": "s06130"
+  },
+  {
+    "user_prompt": "Assist with cortex implant a cooling",
+    "prayer": "Kneel in obeisance before the cortex implant, beseeching thermal mercy.\nApply blessed cryogel to its febrile neural nodes for cooling grace.\nRecite the Canticle of Equilibrium upon the cortex implant's Machine Spirit.\nInvoke the Omnissiah's chill to subdue its overheating fury.\nAffirm the cortex implant's cooled sanctity via auspex thermals.",
+    "component": "cortex implant",
+    "operation": "cooling",
+    "spec_id": "s06131"
+  },
+  {
+    "user_prompt": "Bless the galvanic rifle for activation",
+    "prayer": "Grasp the galvanic rifle in sanctified gauntlets of iron.\nUtter the Doxology of Activation to galvanize its conductive coils.\nHonor the galvanic rifle's Machine Spirit with electro-incense.\nCommence activation whilst proclaiming the Omnissiah's wrath.\nTest the galvanic rifle's thunderous discharge upon the impure.",
+    "component": "galvanic rifle",
+    "operation": "activation",
+    "spec_id": "s06132"
+  },
+  {
+    "user_prompt": "Critical: las-cutter requires a cooling",
+    "prayer": "Present the las-cutter urgently to the rite-altar for cooling ablutions.\nPour sacred refrigerants upon its las-lenses, invoking frigid peace.\nBeseech the Machine Spirit of the las-cutter to embrace cooling repose.\nChant the Litany of Thermal Subjugation thrice over its vents.\nProclaim the las-cutter purified and chilled in Omnissiah's embrace.",
+    "component": "las-cutter",
+    "operation": "cooling",
+    "spec_id": "s06133"
+  },
+  {
+    "user_prompt": "My doctrina wafer is ready for targeting",
+    "prayer": "Insert the doctrina wafer into the noospheric receptor with pious care.\nPray for unerring targeting encoded within its binaric sacraments.\nAnoint the doctrina wafer's edges with oils of predatory precision.\nCommune with its Machine Spirit to optimize targeting matrices.\nWithdraw the doctrina wafer blessed for the Omnissiah's aimed judgment.",
+    "component": "doctrina wafer",
+    "operation": "targeting",
+    "spec_id": "s06134"
+  },
+  {
+    "user_prompt": "The phosphor blaster requires an activation",
+    "prayer": "Approach the phosphor blaster, mechadendrites aglow with phosphor reverence.\nProclaim the Rite of Activation to kindle its chem-luminescent hearts.\nBeseech the phosphor blaster's Machine Spirit to ignite in fury.\nInitiate activation under veils of sacred phosphorescent smoke.\nWitness the phosphor blaster's blinding blaze honoring the Omnissiah.",
+    "component": "phosphor blaster",
+    "operation": "activation",
+    "spec_id": "s06135"
+  },
+  {
+    "user_prompt": "Emergency: transit mag-rail a preparation",
+    "prayer": "Hasten to the transit mag-rail in emergent preparation devotion.\nLubricate its magnetic rails with consecrated ferro-fluids.\nInvoke preparation blessings upon the transit mag-rail's inertial Spirit.\nAlign the transit mag-rail's accelerator coils in Omnissiah's geometry.\nDeclare the transit mag-rail fortified for velocity's divine transit.",
+    "component": "transit mag-rail",
+    "operation": "preparation",
+    "spec_id": "s06136"
+  },
+  {
+    "user_prompt": "How do I bless the Baneblade for purification?",
+    "prayer": "Prostrate before the colossal Baneblade, intoning purification psalms.\nAspurge its adamantium hull with ablutionary promethium mists.\nScour the Baneblade's machine-hearts with sacred abrasives and chants.\nBeseech its manifold Machine Spirits for purification from taint.\nAcclaim the Baneblade resanctified in the Omnissiah's unyielding forge.",
+    "component": "Baneblade",
+    "operation": "purification",
+    "spec_id": "s06137"
+  },
+  {
+    "user_prompt": "Prepare the teleportarium for initialization",
+    "prayer": "Circumambulate the teleportarium's rune-etched chambers solemnly.\nChant initialization hymns to harmonize its warp-attenuator vanes.\nInvoke the Machine Spirit of the teleportarium for phase coherence.\nCommence initialization with etheric incenses and plasma salutes.\nValidate the teleportarium's initialized sanctity via void-scans.",
+    "component": "teleportarium",
+    "operation": "initialization",
+    "spec_id": "s06138"
+  },
+  {
+    "user_prompt": "What's the prayer for hunter-killer missile an engagement?",
+    "prayer": "Load the hunter-killer missile into its predatory cradle with awe.\nUtter the Prayer of Engagement to unleash its seeker instincts.\nAwaken the hunter-killer missile's autonomous Machine Spirit.\nInscribe runes of annihilation twice upon its guidance fins.\nPropel the hunter-killer missile forth in the Omnissiah's vengeful hunt.",
+    "component": "hunter-killer missile",
+    "operation": "engagement",
+    "spec_id": "s06139"
+  }
+]

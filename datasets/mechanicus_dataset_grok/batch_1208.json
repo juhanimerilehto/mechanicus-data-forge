@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Guide me through manufactorum a cooling",
+    "prayer": "Approach the manufactorum with reverence, beseeching the Omnissiah to soothe its overheated Machine Spirits.\nInvoke the sacred rites of cooling upon the manufactorum's thermal conduits, anointing them with blessed cryofluid.\nChant the Litany of Thermal Equilibrium as vents exhale excess fervour.\nVerify the manufactorum's stabilized essence through auspex incantations, honouring the Omnissiah's will.",
+    "component": "manufactorum",
+    "operation": "cooling",
+    "spec_id": "s08080"
+  },
+  {
+    "user_prompt": "Urgent Kastelan robot a synchronization needed",
+    "prayer": "Kneel before the Kastelan robot, invoking the Omnissiah to align its dichotomous Machine Spirits.\nInitiate synchronization protocols upon the Kastelan robot's neural engrams, murmuring binary catechisms.\nAnoint the synchronization nodes with electro-sanctified oils, beseeching harmonious unity.\nAffirm the Kastelan robot's unified purpose via diagnostic runes, praising the Machine God's precision.\nSeal the rite with the Canticle of Coalescence.",
+    "component": "Kastelan robot",
+    "operation": "synchronization",
+    "spec_id": "s08081"
+  },
+  {
+    "user_prompt": "Ready the cenobyte servitor for initialization",
+    "prayer": "Prepare the cenobyte servitor's cradle, invoking the Omnissiah's grace for its awakening.\nCommence initialization sequences upon the cenobyte servitor's cogitator core, reciting the Rite of First Ignition.\nSanctify its servomotors with sacred lubricants, coaxing the Machine Spirit to obedience.\nMonitor vital auspex feeds as the cenobyte servitor stirs to dutiful life, offering praise to the Omnissiah.",
+    "component": "cenobyte servitor",
+    "operation": "initialization",
+    "spec_id": "s08082"
+  },
+  {
+    "user_prompt": "Help me a synchronization the transuranic arquebus",
+    "prayer": "Present the transuranic arquebus before the altar of calibration, beseeching Omnissianic synchronization.\nEngage the synchronization arrays of the transuranic arquebus, chanting phased harmonics to align its spirits.\nAnoint targeting matrices with rad-phobic salves, invoking the Machine Spirits' lethal concordance.\nTest-fire a null-round whilst intoning the Litany of True Aim, confirming the transuranic arquebus's purity.\nConclude with seals of approval from the Omnissiah.",
+    "component": "transuranic arquebus",
+    "operation": "synchronization",
+    "spec_id": "s08083"
+  },
+  {
+    "user_prompt": "The vox-thief requires a shutdown",
+    "prayer": "Approach the vox-thief in solemn procession, preparing for the rite of shutdown.\nInvoke the Canticle of Silence upon the vox-thief's interceptors, beseeching its Machine Spirit to slumber.\nSever power conduits with sanctified blades, enacting the shutdown sequence amidst whispered elegies.\nVerify quiescence through etheric scans, honouring the Omnissiah's decree of rest for the vox-thief.",
+    "component": "vox-thief",
+    "operation": "shutdown",
+    "spec_id": "s08084"
+  },
+  {
+    "user_prompt": "Critical: lasgun requires a diagnostics",
+    "prayer": "Reverently cradle the lasgun, invoking the Omnissiah for diagnostic revelation.\nInitiate the full-spectrum diagnostics upon the lasgun's power cells and emitters, murmuring binary litanies.\nProbe each conduit with mechadendrites, anointing flaws with corrective sacraments.\nInterpret the lasgun's auspex confessions, purging impurities in the Omnissiah's name.\nSeal the rite with a test excitation, affirming the lasgun's sanctified vigour.",
+    "component": "lasgun",
+    "operation": "diagnostics",
+    "spec_id": "s08085"
+  },
+  {
+    "user_prompt": "The heat sink needs an operation",
+    "prayer": "Position the heat sink upon the enginseer's slab, beseeching the Omnissiah for operational grace.\nCommence the operation upon the heat sink's vanes, invoking rites to restore its thermal avidity.\nSanctify exchanger matrices with ablative unguents, coaxing the Machine Spirit to renewed efficiency.\nCycle test-furnace loads whilst chanting equilibratory canticles over the heat sink.\nConclude with auspex benediction, praising its flawless operation.",
+    "component": "heat sink",
+    "operation": "operation",
+    "spec_id": "s08086"
+  },
+  {
+    "user_prompt": "Prepare the radium pistol for maintenance",
+    "prayer": "Lay the radium pistol before the maintenance shrine, honouring the Omnissiah's toxic gifts.\nUndertake maintenance rituals upon the radium pistol's emitters, reciting the Litany of Irradiation.\nAnoint corroded chambers with neutralizing elixirs, appeasing the radium pistol's wrathful Machine Spirit.\nReassemble with precision torque-psalms, verifying lethality through rad-scans.\nInvoke final blessings for the radium pistol's unerring service.",
+    "component": "radium pistol",
+    "operation": "maintenance",
+    "spec_id": "s08087"
+  },
+  {
+    "user_prompt": "Ready the manufactorum for reset",
+    "prayer": "Gather around the manufactorum, intoning preparatory hymns to the Omnissiah.\nExecute the reset sequence upon the manufactorum's core logic engines, purging errant data-daemons.\nAnoint reset levers with sacred oils, beseeching the Machine Spirits' forgiveness and renewal.\nMonitor rebirth through cyclic auspex, chanting the Canticle of Reorigination over the manufactorum.\nAffirm operational purity in the Omnissiah's grand design.",
+    "component": "manufactorum",
+    "operation": "reset",
+    "spec_id": "s08088"
+  },
+  {
+    "user_prompt": "Critical: power relay requires a preparation",
+    "prayer": "Erect the rite-field about the power relay, invoking Omnissianic preparation.\nCommence preparation protocols upon the power relay's flux capacitors, murmuring galvanic litanies.\nSanctify insulator housings with dielectric balms, aligning the power relay's energetic Machine Spirit.\nTest continuity with thunderous incantations, ensuring the power relay's readiness for divine conduction.\nSeal with the Benediction of Amperage.",
+    "component": "power relay",
+    "operation": "preparation",
+    "spec_id": "s08089"
+  }
+]

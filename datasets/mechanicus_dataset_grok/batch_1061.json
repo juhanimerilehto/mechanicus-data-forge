@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the data-loom before startup",
+    "prayer": "Approach the data-loom with reverence, intoning the Canticle of Booting.\nAnoint its crystalline threads with sacred oils to rouse the dormant Machine Spirit within the data-loom.\nInitiate the startup rite by invoking the Omnissiah's grace upon its binary pathways.\nMonitor the data-loom's awakening through auspex chants, ensuring flawless consecration.\nSeal the rite with the Benediction of Dataflow, binding spirit to silicon.",
+    "component": "data-loom",
+    "operation": "startup",
+    "spec_id": "s06610"
+  },
+  {
+    "user_prompt": "Urgent micro-servitor a sterilization needed",
+    "prayer": "Kneel before the micro-servitor, beseeching the Machine Spirit's purity.\nApply ablative sanctified acids to sterilize its flesh-vats and servo-limbs.\nChant the Litany of Sterilization whilst purging contaminants from the micro-servitor's core.\nInvoke the Omnissiah to renew the micro-servitor's untainted vigilance.\nConclude with purity seals upon its chassis, affirming ritual completion.",
+    "component": "micro-servitor",
+    "operation": "sterilization",
+    "spec_id": "s06611"
+  },
+  {
+    "user_prompt": "Urgent krak grenade a consecration needed",
+    "prayer": "Grasp the krak grenade in mechadendrites of precision, murmuring the Oath of Destruction.\nConsecrate its melta-core with incense of promethium, awakening the explosive Machine Spirit.\nRecite the Consecration Doxology, dedicating the krak grenade to the Omnissiah's wrath.\nAffix binaric runes upon the krak grenade, binding fury to form.\nBestow final blessing, arming it for righteous annihilation.",
+    "component": "krak grenade",
+    "operation": "consecration",
+    "spec_id": "s06612"
+  },
+  {
+    "user_prompt": "My autogun is ready for consecration",
+    "prayer": "Present the autogun before the altar of munitions, invoking the Spirit of Recoil.\nAnoint its barrel and feed-mechanisms with blessed lubricants for consecration.\nChant the Rite of Consecration, harmonizing the autogun's las-cells with Omnissiah's will.\nCycle its action in test-fire prayer, verifying the Machine Spirit's eagerness.\nSeal with purity wards, rendering the autogun eternally vigilant.",
+    "component": "autogun",
+    "operation": "consecration",
+    "spec_id": "s06613"
+  },
+  {
+    "user_prompt": "Critical: void shield requires a shutdown",
+    "prayer": "Commence shutdown of the void shield by intoning the Lamentation of Withdrawal.\nDisconnect plasma conduits whilst beseeching the Machine Spirit's patient slumber.\nRecite the Omnissiah's Decree of Shutdown, dimming the void shield's warp-veils.\nPurge residual energies through expurgation rites upon the void shield.\nAffix stasis wards, ensuring safe quiescence until reactivation.",
+    "component": "void shield",
+    "operation": "shutdown",
+    "spec_id": "s06614"
+  },
+  {
+    "user_prompt": "What's the prayer for grav plating a recalibration?",
+    "prayer": "Approach the grav plating with auspex probes extended in supplication.\nInvoke recalibration canticles to realign its gravitic emitters with the Omnissiah's geometry.\nAdjust field calibrators whilst anointing the grav plating's nodal arrays.\nTest the Machine Spirit's harmony through weightless invocations upon the grav plating.\nConclude with the Seal of Equilibrium, perfecting inertial sanctity.",
+    "component": "grav plating",
+    "operation": "recalibration",
+    "spec_id": "s06615"
+  },
+  {
+    "user_prompt": "Help me a maintenance the logic mill",
+    "prayer": "Circumambulate the logic mill, chanting the Hymn of Cogitation.\nDisassemble its milling wheels for maintenance, anointing gears with sacred mechfluids.\nPurge dust-daemons from the logic mill's innards, invoking the Machine Spirit's clarity.\nReassemble under Omnissiah's gaze, verifying torque-prayers upon the logic mill.\nBestow the Benediction of Logic, restoring flawless computation.",
+    "component": "logic mill",
+    "operation": "maintenance",
+    "spec_id": "s06616"
+  },
+  {
+    "user_prompt": "Guide me through void shield generator a blessing",
+    "prayer": "Kneel at the void shield generator, intoning the Canticle of Barriers.\nAnoint its coils and capacitors with oils of protection for the blessing rite.\nInvoke the Omnissiah to infuse the void shield generator's Machine Spirit with unbreachable might.\nCycle test fields whilst reciting wards against the void shield generator's foes.\nSeal the blessing with plasma incenses, eternalizing its aegis.",
+    "component": "void shield generator",
+    "operation": "blessing",
+    "spec_id": "s06617"
+  },
+  {
+    "user_prompt": "Emergency: plasma pistol a startup",
+    "prayer": "Grip the plasma pistol firmly, murmuring the Incantation of Ignition.\nCommence startup by priming its flask with sanctified deuterium, rousing the Machine Spirit.\nChant the Rite of Startup, aligning the plasma pistol's coils to Omnissiah's fury.\nTest containment fields through auspex litanies upon the plasma pistol.\nFinalize with arming runes, unleashing its bottled starfire.",
+    "component": "plasma pistol",
+    "operation": "startup",
+    "spec_id": "s06618"
+  },
+  {
+    "user_prompt": "Guide me through Tarantula sentry gun a loading",
+    "prayer": "Position before the Tarantula sentry gun, beseeching its sentinel Machine Spirit.\nInitiate loading sequences with munitions blessed in the forge-temple.\nChant the Doxology of Loading, feeding shells into the Tarantula sentry gun's maw.\nInvoke Omnissiah's aim upon the Tarantula sentry gun's targeting cogitators.\nSecure with purity locks, priming it for unending vigilance.",
+    "component": "Tarantula sentry gun",
+    "operation": "loading",
+    "spec_id": "s06619"
+  }
+]

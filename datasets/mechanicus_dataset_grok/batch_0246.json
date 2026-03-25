@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for forge anvil diagnostics?",
+    "prayer": "Approach the forge anvil with reverence, invoking the Omnissiah's unblinking scrutiny upon its sacred form.\nInitiate diagnostics upon the forge anvil, beseeching its indomitable Machine Spirit to unveil hidden fractures.\nAnoint the diagnostic probes with sacred oils whilst reciting the Litany of Revelation.\nCommune through auspex chants to affirm the forge anvil's structural sanctity.",
+    "component": "forge anvil",
+    "operation": "diagnostics",
+    "spec_id": "b0246_i00"
+  },
+  {
+    "user_prompt": "What's the prayer for bike squadron engagement?",
+    "prayer": "Assemble before the bike squadron, petitioning the Omnissiah for velocities unbound.\nSanctify the machine spirits within the bike squadron, invoking swift engagement upon foes of the Motive Force.\nInitiate engagement rites by anointing throttle servos and suspensor fields with blessed lubricants.\nChant the Canticle of Pursuit as the bike squadron surges forth in holy wrath.",
+    "component": "bike squadron",
+    "operation": "engagement",
+    "spec_id": "b0246_i01"
+  },
+  {
+    "user_prompt": "Bless the capacitor bank for recalibration",
+    "prayer": "Kneel before the capacitor bank, offering obeisance to the Omnissiah's electric might.\nCommence recalibration of the capacitor bank, beseeching its Machine Spirits to align their charge harmonies.\nInvoke the Rite of Harmonic Flux whilst adjusting sacred voltage regulators.\nVerify recalibration through the blessed hum of unified power-flow.",
+    "component": "capacitor bank",
+    "operation": "recalibration",
+    "spec_id": "b0246_i02"
+  },
+  {
+    "user_prompt": "Prepare the pump for calibration",
+    "prayer": "Present mechadendrites to the pump, whispering invocations to awaken its hydraulic essence.\nPrepare the pump for calibration by anointing pressure manifolds with sacred unguents.\nEngage calibration sequences, petitioning the Machine Spirit of the pump to attune its rhythms to the Omnissiah's will.\nSeal the rite with auspex affirmations of flawless flow.",
+    "component": "pump",
+    "operation": "calibration",
+    "spec_id": "b0246_i03"
+  },
+  {
+    "user_prompt": "The bolter needs a repair",
+    "prayer": "Grasp the bolter in servo-arms, invoking the Omnissiah's fury upon its mechanisms.\nUndertake repair of the bolter, exorcising jammed casings from its sacred breech.\nAnoint firing pins and propellant feeds whilst chanting the Litany of Detonation.\nTest the bolter's restored spirit with a single sanctified shot.",
+    "component": "bolter",
+    "operation": "repair",
+    "spec_id": "b0246_i04"
+  },
+  {
+    "user_prompt": "I need to an operation the hololithic display",
+    "prayer": "Activate the hololithic display with reverent binary cant.\nInitiate operation of the hololithic display, beseeching its photonic Machine Spirit to project truths unerring.\nCalibrate emitter arrays under the Omnissiah's gaze, anointing crystal lattices with micro-filaments.\nAffirm operational purity through shimmering veils of data sanctity.",
+    "component": "hololithic display",
+    "operation": "operation",
+    "spec_id": "b0246_i05"
+  },
+  {
+    "user_prompt": "Bless the conveyor system for initialization",
+    "prayer": "Approach the conveyor system, hailing the Omnissiah's endless forge-procession.\nInvoke initialization of the conveyor system, awakening its belt Machine Spirits from dormancy.\nAnoint drive cogwheels and tensioners whilst reciting the Canticle of Perpetual Motion.\nCommence flow, verifying the conveyor system's rhythmic obedience.",
+    "component": "conveyor system",
+    "operation": "initialization",
+    "spec_id": "b0246_i06"
+  },
+  {
+    "user_prompt": "Assist with logic engine a calibration",
+    "prayer": "Interface with the logic engine, offering electro-psalms to its cogitating core.\nBegin calibration of the logic engine, petitioning its arcane Machine Spirits for flawless computation.\nAdjust neural pathways and binary synapses with sanctified probes.\nConclude with diagnostic litanies affirming the logic engine's omniscience.",
+    "component": "logic engine",
+    "operation": "calibration",
+    "spec_id": "b0246_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for augmetic limb blessing?",
+    "prayer": "Lay hands upon the augmetic limb, invoking the Omnissiah's flesh-machine union.\nBestow blessing upon the augmetic limb, sanctifying servo-muscles and neural jacks.\nAnoint with sacred oils whilst chanting the Benediction of Integration.\nAwaken its Machine Spirit to perfect symbiosis with the flesh-bearer.",
+    "component": "augmetic limb",
+    "operation": "blessing",
+    "spec_id": "b0246_i08"
+  },
+  {
+    "user_prompt": "Consecrate the power weapon before emergency procedure",
+    "prayer": "Unsheathe the power weapon before the altar of urgency, beseeching the Omnissiah's disruptive field.\nConsecrate for emergency procedure, invoking the blade's furious Machine Spirit to ignite.\nAnoint disruptor coils whilst reciting the Incantation of Lethal Resonance.\nEmpower the power weapon for immediate, sanctified severance.",
+    "component": "power weapon",
+    "operation": "emergency procedure",
+    "spec_id": "b0246_i09"
+  }
+]

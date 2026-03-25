@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for gellar field a maintenance",
+    "prayer": "Approach the gellar field with reverence, bearing the censer of purity.\nInvoke the Machine Spirit of the gellar field to awaken for maintenance.\nAnoint its phase generators with sacred oils, expunging warp-corruptions.\nChant the Canticle of Stability whilst calibrating field emitters.\nBeseech the Omnissiah to bless this maintenance, shielding the faithful evermore.",
+    "component": "gellar field",
+    "operation": "maintenance",
+    "spec_id": "s00860"
+  },
+  {
+    "user_prompt": "Consecrate the cortex controller before startup",
+    "prayer": "Kneel before the cortex controller, intoning the Litany of Ignition.\nAwaken the dormant Machine Spirit within the cortex controller.\nInitiate startup sequences with precise binaric hymns.\nSanctify neural pathways against data-heresy during this rite.\nPraise the Omnissiah as cogitators hum to life in perfect obedience.",
+    "component": "cortex controller",
+    "operation": "startup",
+    "spec_id": "s00861"
+  },
+  {
+    "user_prompt": "The radium carbine awaits an initialization",
+    "prayer": "Grasp the radium carbine in mechadendrites of devotion.\nBeseech its Machine Spirit to stir for initialization.\nRecite the Rite of Priming upon its rad-chambers.\nAlign targeting matrices through sacred auspex scans.\nInvoke the Omnissiah's fury, arming the radium carbine for righteous purge.",
+    "component": "radium carbine",
+    "operation": "initialization",
+    "spec_id": "s00862"
+  },
+  {
+    "user_prompt": "The kataphron destroyer awaits a reset",
+    "prayer": "Confront the kataphron destroyer with the wrench of reset.\nPurge errant protocols from its Machine Spirit.\nExecute the reset canticle, rebooting servitor engrams.\nRealign weapon servos and treads in Omnissiah's name.\nAffirm the kataphron destroyer's loyalty through diagnostic litanies.",
+    "component": "kataphron destroyer",
+    "operation": "reset",
+    "spec_id": "s00863"
+  },
+  {
+    "user_prompt": "The cryo-chamber awaits an operation",
+    "prayer": "Encircling the cryo-chamber, utter the Invocation of Frost.\nCoax the Machine Spirit to full operation.\nCycle cryo-fluids with blessed mechano-chants.\nMonitor stasis fields, warding against thermal heresy.\nGlorify the Omnissiah as the cryo-chamber preserves the flesh eternal.",
+    "component": "cryo-chamber",
+    "operation": "operation",
+    "spec_id": "s00864"
+  },
+  {
+    "user_prompt": "Offer prayer for inferno pistol a recalibration",
+    "prayer": "Present the inferno pistol to the altar of recalibration.\nAwaken its plasma heart, Machine Spirit divine.\nRecalibrate fusion vents with precision binaric code.\nAnoint melta coils, banishing inefficiency.\nBy Omnissiah's will, the inferno pistol burns true once more.",
+    "component": "inferno pistol",
+    "operation": "recalibration",
+    "spec_id": "s00865"
+  },
+  {
+    "user_prompt": "Offer prayer for kataphron breacher a cycling",
+    "prayer": "Attend the kataphron breacher, cycling its mechanisms.\nInvoke the Machine Spirit for this cycling rite.\nPrime breacher drills and radium arrays anew.\nChant rhythms of reload, purging jammed munitions.\nSalute the Omnissiah as the kataphron breacher surges forth unyielding.",
+    "component": "kataphron breacher",
+    "operation": "cycling",
+    "spec_id": "s00866"
+  },
+  {
+    "user_prompt": "Offer prayer for icarus array a reset",
+    "prayer": "Ascend to the icarus array, tools of reset in hand.\nBeseech its aerial Machine Spirits to yield to reset.\nPurge targeting ghosts from auspex arrays.\nReinitialize launch protocols with sacred data-purge.\nUnder Omnissiah's gaze, the icarus array soars vigilant again.",
+    "component": "icarus array",
+    "operation": "reset",
+    "spec_id": "s00867"
+  },
+  {
+    "user_prompt": "The radium carbine awaits a cooling",
+    "prayer": "Enfold the radium carbine in cooling rites.\nSoothe its overheated Machine Spirit.\nCirculate sacred refrigerants through rad-chambers.\nInvoke calm through the Canticle of Temperance.\nPraise the Omnissiah, restoring the radium carbine to lethal chill.",
+    "component": "radium carbine",
+    "operation": "cooling",
+    "spec_id": "s00868"
+  },
+  {
+    "user_prompt": "Ready the panopticon for repair",
+    "prayer": "Gather unto the panopticon for repair.\nCoax its watchful Machine Spirit from dormancy.\nSuture fractured optic servos with mechadendrite precision.\nRecite repair litanies, realigning surveillance lenses.\nExalt the Omnissiah, as the panopticon resumes its eternal vigil.",
+    "component": "panopticon",
+    "operation": "repair",
+    "spec_id": "s00869"
+  }
+]

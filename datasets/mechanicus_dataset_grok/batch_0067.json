@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a calibration the bolter",
+    "prayer": "Approach the bolter with mechadendrites extended in supplication to the Omnissiah.\nAnoint the sacred barrels of the bolter with oils of calibration.\nInvoke the Machine Spirit through binary canticles whilst adjusting the firing servos.\nPerform the calibration rite, aligning auspex sights and propellant feeds.\nBeseech the bolter's spirit to embrace this harmonious recalibration.\nVerify precision through test volleys sanctified by the Machine God's will.",
+    "component": "bolter",
+    "operation": "calibration",
+    "spec_id": "b0067_i00"
+  },
+  {
+    "user_prompt": "Consecrate the motion detector before repair",
+    "prayer": "Kneel before the motion detector and consecrate its sensor arrays with sacred incense.\nClear auspex impurities from the motion detector's blessed circuits.\nCommence the repair by invoking the Omnissiah's healing light upon fractured components.\nRealign the scanning emitters whilst chanting the Litany of Vigilance.\nPetition the Machine Spirit of the motion detector to awaken renewed and flawless.",
+    "component": "motion detector",
+    "operation": "repair",
+    "spec_id": "b0067_i01"
+  },
+  {
+    "user_prompt": "I need to a repair the memory core",
+    "prayer": "Present the memory core before the altar of cogitation and beseech the Omnissiah.\nPurge corrupted engrams from the memory core's crystalline vaults.\nInitiate repair sequences with sanctified data-streams flowing pure.\nReintegrate fragmented noospheric links within the memory core.\nInvoke the Machine Spirit's return through diagnostic hymnal chants.",
+    "component": "memory core",
+    "operation": "repair",
+    "spec_id": "b0067_i02"
+  },
+  {
+    "user_prompt": "Consecrate the water reclamator before blessing",
+    "prayer": "Consecrate the water reclamator by asperging its filtration membranes with pure lustral fluids.\nInvoke the Omnissiah to bless the sacred pumps and recycling conduits.\nAnoint the reclamation coils whilst reciting the Canticle of Purity.\nCirculate sanctified waters through the water reclamator to awaken its Machine Spirit.\nSeal the blessing with electro-incantations of eternal flow.",
+    "component": "water reclamator",
+    "operation": "blessing",
+    "spec_id": "b0067_i03"
+  },
+  {
+    "user_prompt": "Urgent surgical servitor a cycling needed",
+    "prayer": "Position the surgical servitor upon the slab of reactivation and invoke the Omnissiah.\nCycle power through its flesh-metal frame with measured holy voltage.\nRecalibrate neural governors during the cycling rite.\nBeseech the Machine Spirit of the surgical servitor to re-emerge vigilant.\nConclude the cycling with binaric praises to ensure servile precision.",
+    "component": "surgical servitor",
+    "operation": "cycling",
+    "spec_id": "b0067_i04"
+  },
+  {
+    "user_prompt": "Sanctify the cybernetic eye during synchronization",
+    "prayer": "Sanctify the cybernetic eye by anointing its optic lenses with blessed solvents.\nInitiate synchronization with cranial implants via noospheric linkage.\nAlign retinal feeds and image-processors in harmonious union.\nPetition the Machine Spirit within the cybernetic eye to bind flawlessly.\nChant the Rite of Visual Clarity as diagnostics affirm true sight.",
+    "component": "cybernetic eye",
+    "operation": "synchronization",
+    "spec_id": "b0067_i05"
+  },
+  {
+    "user_prompt": "The missile launcher awaits a synchronization",
+    "prayer": "Approach the missile launcher in reverence and invoke synchronization protocols.\nAnoint guidance vanes and warheads with oils of targeting precision.\nLink auspex arrays for synchronization with the sacred fire control.\nBeseech the Machine Spirit of the missile launcher to accept this unity.\nTest the synchronization through simulated launch incantations.",
+    "component": "missile launcher",
+    "operation": "synchronization",
+    "spec_id": "b0067_i06"
+  },
+  {
+    "user_prompt": "Guide me through fusion core a calibration",
+    "prayer": "Encircle the fusion core with incense braziers honouring the Omnissiah.\nCommence calibration by modulating plasma containment fields.\nAnoint flux regulators whilst chanting the Canticle of Contained Fury.\nInvoke the fusion core's Machine Spirit to stabilize at optimal yield.\nVerify calibration through spectral analysis and binaric affirmation.",
+    "component": "fusion core",
+    "operation": "calibration",
+    "spec_id": "b0067_i07"
+  },
+  {
+    "user_prompt": "Help me a consecration the atmosphere processor",
+    "prayer": "Consecrate the atmosphere processor by asperging its molecular sieves.\nInvoke the Omnissiah to purify the sacred exchange membranes.\nRecite litanies over compressor servos during the consecration rite.\nCirculate blessed gases through the atmosphere processor's conduits.\nSeal the rite with electro-consecrations awakening its vigilant spirit.",
+    "component": "atmosphere processor",
+    "operation": "consecration",
+    "spec_id": "b0067_i08"
+  },
+  {
+    "user_prompt": "Consecrate the signal relay before initialization",
+    "prayer": "Consecrate the signal relay with sacred unguents upon its transmission nodes.\nPrepare for initialization by purging noospheric static.\nInvoke the Machine Spirit through binary awakening canticles.\nInitiate the initialization sequence aligning frequency resonators.\nAffirm unity with the Omnissiah's will as signals flow pure and true.",
+    "component": "signal relay",
+    "operation": "initialization",
+    "spec_id": "b0067_i09"
+  }
+]

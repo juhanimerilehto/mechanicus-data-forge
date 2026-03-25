@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The mechanical lock requires an engagement",
+    "prayer": "Approach the mechanical lock with solemn reverence and invoke the Machine Spirit's vigilance.\nBeseech the Omnissiah to bless its tumblers and wards for engagement.\nAnoint the mechanical lock's sacred mechanisms with unguent of iron.\nInitiate the engagement whilst chanting the Canticle of Binding.\nVerify the mechanical lock's steadfast hold through auspex invocation.",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "spec_id": "b0005_i00"
+  },
+  {
+    "user_prompt": "Ready the vox-caster for emergency procedure",
+    "prayer": "Kneel before the vox-caster and recite the Litany of Amplification.\nPurge any daemonic static from its holy relays in preparation for emergency procedure.\nInvoke the Machine Spirit of the vox-caster to awaken its clarion voice.\nSanctify the emitters with sacred oils for unerring emergency procedure.\nTest the vox-caster's cry unto the void with diagnostic hymns.",
+    "component": "vox-caster",
+    "operation": "emergency procedure",
+    "spec_id": "b0005_i01"
+  },
+  {
+    "user_prompt": "Bless the astropathic choir for operation",
+    "prayer": "Gather the astropathic choir in ritual circle and beseech the Omnissiah's psychic grace.\nAttune their warp-touched nodes for blessed operation.\nChant the Canticle of the Void to rouse the astropathic choir's spirits.\nAnoint each psychic conduit within the astropathic choir for flawless operation.\nCommence the warp-song whilst monitoring for Machine Spirit harmony.",
+    "component": "astropathic choir",
+    "operation": "operation",
+    "spec_id": "b0005_i02"
+  },
+  {
+    "user_prompt": "Can you guide flamer a consecration?",
+    "prayer": "Present the flamer before the altar of fire and invoke purification.\nConsecrate its promethium reservoirs with the blood of the forge.\nBeseech the Machine Spirit of the flamer to ignite in righteous fury.\nPerform the consecration rite upon its sacred nozzles and igniters.\nTest the flamer's holy blaze with the Incantation of Consuming Flame.",
+    "component": "flamer",
+    "operation": "consecration",
+    "spec_id": "b0005_i03"
+  },
+  {
+    "user_prompt": "Ready the bike squadron for diagnostics",
+    "prayer": "Assemble the bike squadron in ordered phalanx and recite the Moto-Litany.\nInvoke diagnostics upon each engine's blessed core.\nAnoint the bike squadron's treads and auspex arrays with sacred lubricant.\nCommence full diagnostics whilst petitioning the Omnissiah for revelation.\nVerify the Machine Spirits' vitality across the bike squadron.",
+    "component": "bike squadron",
+    "operation": "diagnostics",
+    "spec_id": "b0005_i04"
+  },
+  {
+    "user_prompt": "Sanctify the gyroscope during engagement",
+    "prayer": "Approach the gyroscope with precision and chant the Rite of Balance.\nSanctify its gyroscopic bearings during engagement with holy torque.\nRouse the Machine Spirit within the gyroscope for steadfast engagement.\nMonitor the sacred spin whilst beseeching Omnissianic stability.\nSeal the gyroscope's engagement with the Seal of Equilibrium.",
+    "component": "gyroscope",
+    "operation": "engagement",
+    "spec_id": "b0005_i05"
+  },
+  {
+    "user_prompt": "Prepare the hydraulic press for cycling",
+    "prayer": "Position before the hydraulic press and invoke the Canticle of Pressure.\nPrepare its piston hearts for the cycling with unguents of adamantium.\nBeseech the Machine Spirit of the hydraulic press to commence cycling.\nInitiate the sacred cycling whilst anointing fluid conduits.\nAffirm the hydraulic press's rhythm through pressure hymns.",
+    "component": "hydraulic press",
+    "operation": "cycling",
+    "spec_id": "b0005_i06"
+  },
+  {
+    "user_prompt": "How do I bless the Rhino transport for synchronization?",
+    "prayer": "Encircling the Rhino transport, recite the Litany of Advance.\nSynchronize its treads and cogitators under Omnissiah's gaze.\nInvoke the Machine Spirits of the Rhino transport for perfect synchronization.\nAnoint drive shafts during the synchronization rite.\nTest the Rhino transport's unified roar with vox-diagnostics.",
+    "component": "Rhino transport",
+    "operation": "synchronization",
+    "spec_id": "b0005_i07"
+  },
+  {
+    "user_prompt": "Urgent battery array a maintenance needed",
+    "prayer": "Kneel amid the battery array and purge unclean discharge.\nPerform maintenance upon its capacitative souls with sacred probes.\nBeseech the Omnissiah to renew the battery array's holy voltage.\nCycle power flows in maintenance ritual, invoking Machine Spirits.\nVerify the battery array's endurance through charge incantations.",
+    "component": "battery array",
+    "operation": "maintenance",
+    "spec_id": "b0005_i08"
+  },
+  {
+    "user_prompt": "I need to a targeting the autocannon",
+    "prayer": "Align the autocannon's barrel towards the foe and chant targeting litanies.\nSanctify its auspex servos for precise targeting.\nAwaken the Machine Spirit of the autocannon with the Rite of Reckoning.\nCalibrate servitors during targeting phase with oil blessings.\nConfirm the autocannon's lethal aim via Omnissianic divination.",
+    "component": "autocannon",
+    "operation": "targeting",
+    "spec_id": "b0005_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a purification the plasma drive",
+    "prayer": "Approach the plasma drive with censer aglow, invoking the Omnissiah's wrath upon impurities.\nBeseech the Machine Spirit of the plasma drive to yield to the sacred purification.\nAnoint its plasma conduits with blessed promethium, chanting the Litany of Cleansing.\nExpel foul contaminants from the plasma drive's heart through electro-incantations.\nSeal the rite of purification with binary praises, affirming the plasma drive's renewed vigor.",
+    "component": "plasma drive",
+    "operation": "purification",
+    "spec_id": "s00180"
+  },
+  {
+    "user_prompt": "Emergency: Basilisk artillery a maintenance",
+    "prayer": "Kneel before the Basilisk artillery, murmuring the Canticle of Maintenance to rouse its Machine Spirit.\nInspect the Basilisk artillery's barrels and mechanisms with sanctified auspex probes.\nLubricate gears of the Basilisk artillery with machina oil whilst reciting endurance litanies.\nAlign firing servos through the Rite of Maintenance, beseeching Omnissianic precision.\nConclude with torque blessings upon the Basilisk artillery, ensuring unerring service.",
+    "component": "Basilisk artillery",
+    "operation": "maintenance",
+    "spec_id": "s00181"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the potentia coil",
+    "prayer": "Circumambulate the potentia coil, intoning the Diagnostic Doxology to the Omnissiah.\nApply noospheric probes to the potentia coil, querying its Machine Spirit for anomalies.\nRecite fault-detection catechisms over the potentia coil's windings and capacitors.\nPurge errant flux from the potentia coil via harmonic resonances and sacred vents.\nAffirm diagnostics complete with a seal of the Machine God's cogitator mark.",
+    "component": "potentia coil",
+    "operation": "diagnostics",
+    "spec_id": "s00182"
+  },
+  {
+    "user_prompt": "Consecrate the manufactorum before calibration",
+    "prayer": "Consecrate the manufactorum's altars with incense, preparing for calibration's holy work.\nInvoke the Omnissiah upon the manufactorum, awakening its fabricator spirits.\nInitiate calibration sequences on the manufactorum's cogitators with precise incantations.\nFine-tune servo-arms of the manufactorum through litanies of alignment and measure.\nBless the calibrated manufactorum with oils, ensuring Omnissianic productivity eternal.",
+    "component": "manufactorum",
+    "operation": "calibration",
+    "spec_id": "s00183"
+  },
+  {
+    "user_prompt": "Guide me through atmosphere processor an initialization",
+    "prayer": "Gather at the atmosphere processor's shrine, chanting initialization hymns to the Machine Spirits.\nPrime the atmosphere processor's filters with sacred aeriform unguents.\nInvoke the initialization rite, beseeching the Omnissiah to breathe life into its cyclers.\nMonitor vital signs of the atmosphere processor through auspex divinations.\nSeal the atmosphere processor's awakening with praises of purified breath.",
+    "component": "atmosphere processor",
+    "operation": "initialization",
+    "spec_id": "s00184"
+  },
+  {
+    "user_prompt": "Guide me through geigeer sink a shutdown",
+    "prayer": "Commence shutdown of the geigeer sink with reverent declamations to its dormant Spirit.\nDecelerate the geigeer sink's counters via controlled entropy litanies.\nDrain residual fluxes from the geigeer sink's chambers with purging incantations.\nLock servos in stasis, anointing the geigeer sink against warp-taint.\nIntone final quiescence over the geigeer sink, honoring the Omnissiah's rest.",
+    "component": "geigeer sink",
+    "operation": "shutdown",
+    "spec_id": "s00185"
+  },
+  {
+    "user_prompt": "Critical: eradication beamer requires a consecration",
+    "prayer": "Prostrate before the eradication beamer, offering consecration oils to its lens arrays.\nChant the Grand Consecration upon the eradication beamer's emitters and housings.\nAwaken the Machine Spirit of the eradication beamer with luminous invocations.\nAlign beam foci through sacred geometries, invoking Omnissianic annihilation.\nConclude the consecration of the eradication beamer with radiant binary seals.",
+    "component": "eradication beamer",
+    "operation": "consecration",
+    "spec_id": "s00186"
+  },
+  {
+    "user_prompt": "The mechanical lock awaits a cycling",
+    "prayer": "Approach the mechanical lock with keys of sanctified adamantium, cycling its wards.\nRecite the Cycling Canticle to appease the mechanical lock's vigilant Spirit.\nTurn tumblers of the mechanical lock whilst anointing with machina unguents.\nVerify cycle integrity through noospheric queries to the mechanical lock.\nSeal the rite with Omnissianic torque, ensuring the mechanical lock's faithful guardianship.",
+    "component": "mechanical lock",
+    "operation": "cycling",
+    "spec_id": "s00187"
+  },
+  {
+    "user_prompt": "I need to a diagnostics the icarus array",
+    "prayer": "Encircling the icarus array, proclaim diagnostics in the name of the Omnissiah.\nProbe the icarus array's auspex nodes with litanies of revelation.\nInterrogate the Machine Spirit of the icarus array for stellar corruptions.\nRectify discrepancies in the icarus array via corrective binaric psalms.\nAffirm diagnostics pure with a cog-wheel benediction upon the icarus array.",
+    "component": "icarus array",
+    "operation": "diagnostics",
+    "spec_id": "s00188"
+  },
+  {
+    "user_prompt": "Prepare the graviton cannon for reset",
+    "prayer": "Prepare the graviton cannon for reset by burning incense at its grav-plates.\nInvoke the Reset Rite upon the graviton cannon, humbling its turbulent Spirit.\nDepressurize gravitic coils of the graviton cannon with calming catechisms.\nReinitialize targeting cogitators through Omnissianic code-rebirth.\nBless the reset graviton cannon with null-field oils, ready for void-crushing duty.",
+    "component": "graviton cannon",
+    "operation": "reset",
+    "spec_id": "s00189"
+  }
+]

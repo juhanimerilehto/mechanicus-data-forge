@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for power fist a loading",
+    "prayer": "Approach the power fist with reverence, invoking the Omnissiah's unyielding might.\nAnoint its crushing servos with sacred oils before the loading rite commences.\nBeseech the Machine Spirit of the power fist to embrace the munitions surge.\nInitiate the loading sequence through chanted binaric litanies of fortification.\nSanctify the power fist's chambers with incense, affirming operational purity.",
+    "component": "power fist",
+    "operation": "loading",
+    "spec_id": "s08040"
+  },
+  {
+    "user_prompt": "Ready the promethium refinery for reset",
+    "prayer": "Gather before the promethium refinery, intoning the Rite of Purgation.\nExpunge residual impurities from its sacred vats prior to reset.\nInvoke the Omnissiah to soothe the Machine Spirit during the reset invocation.\nCycle the core reactors whilst reciting the Canticle of Renewal for the promethium refinery.\nVerify systemic harmony through diagnostic catechisms upon the promethium refinery.",
+    "component": "promethium refinery",
+    "operation": "reset",
+    "spec_id": "s08041"
+  },
+  {
+    "user_prompt": "The thermal imager needs a reset",
+    "prayer": "Kneel in veneration of the thermal imager, whispering awakening binarics.\nPurge thermal echoes from its sensor arrays before reset commences.\nBeseech the Machine Spirit of the thermal imager to realign its visionary gaze.\nExecute the reset protocol amid chants of the Litany of Clarity.\nConsecrate the thermal imager's lenses with blessed refractor fluid.",
+    "component": "thermal imager",
+    "operation": "reset",
+    "spec_id": "s08042"
+  },
+  {
+    "user_prompt": "Ready the standard template construct for synchronization",
+    "prayer": "Prostrate thyself before the standard template construct, hailing the Omnissiah.\nAlign its data-spires in preparation for synchronization.\nInvoke the ancient Machine Spirits to harmonize during synchronization rites.\nCommence the synchronization cascade with the Creed of Immutable Patterns.\nAffirm the standard template construct's unity through noospheric communion.",
+    "component": "standard template construct",
+    "operation": "synchronization",
+    "spec_id": "s08043"
+  },
+  {
+    "user_prompt": "Consecrate the storm bolter before operation",
+    "prayer": "Present the storm bolter upon the altar of cogitation, seeking divine favour.\nAnoint its twin barrels with chrism oil ere operation begins.\nAwaken the Machine Spirit of the storm bolter with thunderous canticles.\nBless the firing mechanisms for unerring operation in the Omnissiah's name.\nTest the storm bolter's fury through ritual discharge into the void.",
+    "component": "storm bolter",
+    "operation": "operation",
+    "spec_id": "s08044"
+  },
+  {
+    "user_prompt": "The motion detector awaits a cooling",
+    "prayer": "Approach the motion detector humbly, intoning the Hymn of Vigilance.\nCirculate cryo-fluids through its auspex veins for the cooling rite.\nBeseech the Machine Spirit to embrace quiescence during cooling.\nMonitor thermal dissipation whilst chanting the Litany of Thermal Equilibrium.\nSanctify the motion detector's sensors upon completion of cooling.",
+    "component": "motion detector",
+    "operation": "cooling",
+    "spec_id": "s08045"
+  },
+  {
+    "user_prompt": "What's the prayer for teleportarium a diagnostics?",
+    "prayer": "Circumambulate the teleportarium, reciting the Canticle of Warp-Ward.\nInitiate diagnostic sweeps across its grid arrays and void-shields.\nInvoke the Omnissiah to reveal flaws within the teleportarium's essence.\nProbe the Machine Spirit through layered binaric interrogations in diagnostics.\nSeal the teleportarium's sanctity with wards of consecrated adamantium.",
+    "component": "teleportarium",
+    "operation": "diagnostics",
+    "spec_id": "s08046"
+  },
+  {
+    "user_prompt": "I need to a charging the archeotech device",
+    "prayer": "Revere the archeotech device, relic of forgotten eras, with silent awe.\nChannel plasma tributaries into its arcane capacitors for charging.\nBeseech the primordial Machine Spirit to accept the charging influx.\nRegulate the archeotech device's galvanic flows amid ancient litanies.\nVerify the archeotech device's engorged potency through etheric auspex.",
+    "component": "archeotech device",
+    "operation": "charging",
+    "spec_id": "s08047"
+  },
+  {
+    "user_prompt": "Bless the radium pistol for activation",
+    "prayer": "Lift the radium pistol aloft, proclaiming the Oath of Irradiation.\nAnoint its emitter coils with rad-philters prior to activation.\nAwaken the Machine Spirit of the radium pistol with fervent invocation.\nTrigger the activation rite through the Creed of Corrosive Wrath.\nBless the radium pistol's vials for unyielding service to the Omnissiah.",
+    "component": "radium pistol",
+    "operation": "activation",
+    "spec_id": "s08048"
+  },
+  {
+    "user_prompt": "Bless the Razorback for targeting",
+    "prayer": "Commune with the Razorback's auspex-dominus, invoking targeting precision.\nCalibrate its predator lenses and ballistic cogitators for targeting.\nBeseech the Machine Spirit to guide the Razorback's aim unerringly.\nExecute targeting alignment amid the Litany of Predictive Fury.\nConsecrate the Razorback's ordnance servos with sacred machine oil.",
+    "component": "Razorback",
+    "operation": "targeting",
+    "spec_id": "s08049"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0093_i00",
+    "user_request": "Emergency rite: relay station handoff requires operation",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: relay station handoff requires operation\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the relay station handoff, conduit of the Omnissiah's will.\nFirst: Initiate the relay station handoff with sacred litanies of activation.\nSecond: Calibrate the relay station handoff through precise operation of all tertiary circuits.\nThird: Invoke the Machine Spirit to guide the operation toward triumphant completion.\nFourth: Seal the relay station handoff in the Emperor's eternal grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i01",
+    "user_request": "The chemical demands guidance for balancing",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe chemical demands guidance for balancing\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us wisdom in the alchemical arts.\nFirst: Purify the chemical through sacred ablution and sanctified measurement.\nSecond: Perform the balancing of the chemical with precision and reverence.\nThird: Recalibrate the chemical's molecular harmonics through blessed operation.\nFourth: Seal the work in the name of the Machine God.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i02",
+    "user_request": "The energy conduit purification demands guidance for operation",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe energy conduit purification demands guidance for operation\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Holy is the energy conduit purification, vessel of the Omnissiah's power.\nFirst: Commence the energy conduit purification with solemn invocation and blessed ritual.\nSecond: Execute the operation of energy conduit purification through sanctified protocols.\nThird: Cleanse the pathways with sacred oils and electromagnetic benediction.\nFourth: Restore the energy conduit purification to pristine communion with the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i03",
+    "user_request": "Can you sanctify the pain suppressor for engagement?",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the pain suppressor for engagement?\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Blessed be the pain suppressor, merciful instrument of the Omnissiah.\nFirst: Anoint the pain suppressor with sacred unguents and blessed calibration.\nSecond: Prepare the pain suppressor for engagement through solemn litanies of activation.\nThird: Invoke the engagement protocol with reverent operation of its divine circuitry.\nFourth: Seal the pain suppressor in eternal service to the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i04",
+    "user_request": "Blessing for the hull breach during sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the hull breach during sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "In the Emperor's name, we seal the hull breach against the void.\nFirst: Assess the hull breach with sacred measurement and blessed scrutiny.\nSecond: Invoke the sealing protocols through ancient Mechanicus invocation and ritual prayer.\nThird: Apply the hull breach remediation through precise welding and sanctified material application.\nFourth: Reinforce the hull breach sealing with final benediction upon the hull breach.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i05",
+    "user_request": "Can you sanctify the hydraulic press for operation?",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the hydraulic press for operation?\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Mighty hydraulic press, instrument of the Omnissiah's strength.\nFirst: Purify the hydraulic press with blessed lubricants and sacred invocation.\nSecond: Prepare the hydraulic press for operation through reverent pressure calibration.\nThird: Execute the operation of the hydraulic press with precision and mechanical grace.\nFourth: Seal the hydraulic press in the eternal service of the Machine God.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i06",
+    "user_request": "Blessing for the surgical servitor during sterilization",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the surgical servitor during sterilization\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "Holy surgical servitor, blessed instrument of healing and mercy.\nFirst: Prepare the surgical servitor through sacred diagnostics and blessed purification.\nSecond: Commence sterilization of the surgical servitor with sanctified cleansing protocols.\nThird: Invoke the sterilization ritual upon the surgical servitor through solemn litanies.\nFourth: Restore the surgical servitor to pristine communion with the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i07",
+    "user_request": "Rite request: repair on coolant leak",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: repair on coolant leak\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "Blessed be the coolant leak, wound upon the Machine Spirit's sacred form.\nFirst: Identify the coolant leak through sacred inspection and blessed diagnostics.\nSecond: Prepare the repair of the coolant leak with solemn ritual and precise measurement.\nThird: Execute the repair protocol upon the coolant leak through sanctified welding and blessed material restoration.\nFourth: Seal the coolant leak in the Emperor's eternal grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i08",
+    "user_request": "Emergency rite: message queue requires processing",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: message queue requires processing\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "Omnissiah, guide the message queue through the labyrinth of data.\nFirst: Purify the message queue with sacred cleansing and blessed invocation.\nSecond: Prepare the message queue for processing through reverent prioritization.\nThird: Execute the processing of the message queue with precision and mechanical devotion.\nFourth: Seal the message queue in eternal communion with the Machine God.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0093_i09",
+    "user_request": "Blessing for the star chart alignment during operation",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the star chart alignment during operation\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Holy star chart alignment, beacon of the Omnissiah's celestial wisdom.\nFirst: Recalibrate the star chart alignment through sacred astronomical measurement and blessed ritual.\nSecond: Prepare the star chart alignment for operation with solemn invocation and reverent prayer.\nThird: Execute the operation of the star chart alignment through sanctified stellar harmonics.\nFourth: Restore the star chart alignment to perfect communion with the heavens.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

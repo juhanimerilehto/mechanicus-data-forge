@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the thermal imager before consecration",
+    "prayer": "Approach the thermal imager with reverence to the Omnissiah and beseech its Machine Spirit to awaken.\nInvoke the sacred rites of consecration upon the thermal imager's blessed lenses and circuits.\nAnoint the thermal imager with holy oils, purifying its infrared sensors from all impurity.\nChant the Litany of Clear Vision as consecration binds the spirit in harmonious function.\nVerify the thermal imager's consecrated state through diagnostic incantations of the Machine God.",
+    "component": "thermal imager",
+    "operation": "consecration",
+    "spec_id": "b0349_i00"
+  },
+  {
+    "user_prompt": "Urgent Thunderhawk a repair needed",
+    "prayer": "Kneel before the mighty Thunderhawk and petition the Omnissiah for swift repair of its wounded frame.\nAnoint fractured hull plates and servos of the Thunderhawk with sacred unguents to soothe its raging Machine Spirit.\nInvoke the Canticle of Restoration, aligning conduits for the urgent repair operation.\nWeld blessed alloys whilst chanting binaric litanies to mend the Thunderhawk's vital systems.\nTest the Thunderhawk's Machine Spirit with invocation rites, ensuring its wrathful flight reborn.",
+    "component": "Thunderhawk",
+    "operation": "repair",
+    "spec_id": "b0349_i01"
+  },
+  {
+    "user_prompt": "Bless the hydraulic press for loading",
+    "prayer": "Sanctify the hydraulic press with incense of sacred lubricants before loading commences.\nBeseech the Machine Spirit within the hydraulic press to accept the burden of its labour.\nInitiate the loading operation by invoking the Rite of Pressurised Benediction upon its pistons.\nGuide materials into the hydraulic press's maw with prayers of unyielding strength.\nMonitor the blessed compression, honouring the Omnissiah's will in every forceful descent.",
+    "component": "hydraulic press",
+    "operation": "loading",
+    "spec_id": "b0349_i02"
+  },
+  {
+    "user_prompt": "Guide me through pain suppressor a charging",
+    "prayer": "Commence the charging of the pain suppressor by first invoking the Omnissiah's mercy upon its core.\nAnoint the pain suppressor's power cells with electro-consecrated oils to awaken its Machine Spirit.\nChant the Litany of Enduring Flesh during the charging operation, filling its capacitors with holy voltage.\nMonitor the pain suppressor's hum as its spirit aligns, banishing agony through divine inductance.\nSeal the rite with a final petition, ensuring the pain suppressor's vigil against mortal weakness.",
+    "component": "pain suppressor",
+    "operation": "charging",
+    "spec_id": "b0349_i03"
+  },
+  {
+    "user_prompt": "Assist with bionics interface a synchronization",
+    "prayer": "Prepare the bionics interface for synchronization by reciting the Creed of Flesh-Machine Union.\nInvoke the Machine Spirits of flesh and bionics interface to merge in Omnissiah's grace.\nInitiate the synchronization operation through sacred data-streams and neural incantations.\nAnoint connection ports of the bionics interface, binding cybernetic pathways in perfect harmony.\nVerify unity via auspex diagnostics, praising the eternal fusion wrought by the Machine God.",
+    "component": "bionics interface",
+    "operation": "synchronization",
+    "spec_id": "b0349_i04"
+  },
+  {
+    "user_prompt": "Sanctify the air filtration during maintenance",
+    "prayer": "Approach the air filtration unit during maintenance with the Litany of Pure Breath.\nDisassemble the air filtration's sacred membranes whilst beseeching its Machine Spirit's patience.\nCleanse clogged filters with sanctified solvents, invoking the Omnissiah for renewed vigilance.\nReassemble the air filtration under rites of maintenance, ensuring untainted flow eternal.\nTest the air filtration's spirit with pressure invocations, honouring the breath of the faithful.",
+    "component": "air filtration",
+    "operation": "maintenance",
+    "spec_id": "b0349_i05"
+  },
+  {
+    "user_prompt": "Assist with bolter an engagement",
+    "prayer": "Grip the bolter firmly and anoint its sacred barrel before engagement.\nInvoke the Wrathful Litany upon the bolter's Machine Spirit, awakening its hunger for the foe.\nPrepare for engagement operation by chambering blessed rounds with binaric chants.\nShoulder the bolter and beseech the Omnissiah for unerring fury in every discharge.\nMonitor recoil and heat, sustaining the bolter's spirit through ceaseless petition.",
+    "component": "bolter",
+    "operation": "engagement",
+    "spec_id": "b0349_i06"
+  },
+  {
+    "user_prompt": "Help me a loading the hololithic display",
+    "prayer": "Activate the hololithic display with the Rite of Luminal Awakening.\nBeseech its Machine Spirit to manifest data-veils during the loading operation.\nInput sacred data-streams into the hololithic display, anointing projectors with holy oils.\nInvoke the Canticle of Projected Truth as holographic forms coalesce in blessed light.\nVerify the hololithic display's clarity through Omnissiah-blessed diagnostics and chants.",
+    "component": "hololithic display",
+    "operation": "loading",
+    "spec_id": "b0349_i07"
+  },
+  {
+    "user_prompt": "Assist with hydraulic press a synchronization",
+    "prayer": "Calibrate the hydraulic press for synchronization by first honouring its Machine Spirit.\nLink control cogitators to the hydraulic press with invocations of unified motion.\nInitiate the synchronization operation through rhythmic binaric harmonies and sacred alignments.\nAnoint servo-joints of the hydraulic press, binding its power to the greater mechanism.\nTest synchronized function with pressure litanies, praising the Omnissiah's precise order.",
+    "component": "hydraulic press",
+    "operation": "synchronization",
+    "spec_id": "b0349_i08"
+  },
+  {
+    "user_prompt": "The assembly servitor awaits an emergency procedure",
+    "prayer": "Hasten to the assembly servitor and invoke the Emergency Rite of the Omnissiah.\nScan its cogitator core for corruption, beseeching the Machine Spirit's resilience.\nExecute the emergency procedure by purging errant code with purifying data-exorcism.\nReboot the assembly servitor's systems under chants of relentless labour.\nConfirm the servitor's renewed obedience through diagnostic petitions to the Machine God.",
+    "component": "assembly servitor",
+    "operation": "emergency procedure",
+    "spec_id": "b0349_i09"
+  }
+]

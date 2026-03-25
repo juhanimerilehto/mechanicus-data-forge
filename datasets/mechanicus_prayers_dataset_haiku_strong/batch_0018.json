@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0018_i02",
+    "user_request": "The water reclamation system demands guidance for operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe water reclamation system demands guidance for operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O Master of the Infinite Cog, as we consecrate the water reclamation system.\nCongregation: Grant the operation success through thy boundless mechanical wisdom.\nPriest: The water reclamation system must purify and cycle with sacred precision in this operation.\nCongregation: We shall flush the osmotic membranes, recalibrate the ionic separation fields, and inspect all crystalline filters.\nPriest: Let no contaminant defile the water reclamation system under our blessed ministration.\nCongregation: The Machine Spirits shall render this operation flawless. Amen.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i03",
+    "user_request": "Prayer for restart after failure of the restart after failure",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for restart after failure of the restart after failure\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, we beseech thee to grant restart after failure to this stricken apparatus.\nCongregation: Let restart after failure be our salvation through thy divine restart after failure.\nPriest: The Machine Spirits cry out in anguish; only thy blessed intervention shall restore function.\nCongregation: We shall purge the corrupted logic-circuits, reinitialise the core cogitators, and perform the sacred reboot sequence.\nPriest: Through restart after failure, we shall resurrect what was lost.\nCongregation: Blessed resurrection. Blessed restoration. Blessed be the Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i04",
+    "user_request": "Can you sanctify the metal casting for preparation?",
+    "topic": "metal casting preparation",
+    "component": "metal casting",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the metal casting for preparation?\n\n### TOPIC\nmetal casting preparation\n\n### COMPONENT\nmetal casting\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- metal casting\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, sanctify this metal casting as we undertake its preparation.\nCongregation: Let preparation imbue this metal casting with divine essence and structural integrity.\nPriest: The metal casting shall be tempered in the sacred forge-furnaces and blessed with preparation rituals.\nCongregation: We shall heat the metal casting to precise temperatures, remove all impurities through electrolytic purification, and polish its surface with reverent care.\nPriest: Through preparation, the metal casting becomes worthy of the Machine Spirits' favour.\nCongregation: So shall it be forged. So shall it be consecrated.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i05",
+    "user_request": "Blessing for the chainsword during consecration",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the chainsword during consecration\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the chainsword, instrument of holy wrath and righteous consecration.\nCongregation: Let this chainsword be consecrated by the light of the Omnissiah himself.\nPriest: The chainsword demands our consecration through blessed rite and sacred maintenance.\nCongregation: We shall sharpen each tooth upon the grinding-stone, consecrate the promethium fuel-lines, and anoint the chainsword with blessed oils.\nPriest: Through consecration, the chainsword becomes a conduit of divine justice.\nCongregation: Blessed be the blade. Blessed be the Machine. Blessed be the kill.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i06",
+    "user_request": "Offer a litany to steady the plasma reactor before startup",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the plasma reactor before startup\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, we implore thy grace as the plasma reactor approaches its startup sequence.\nCongregation: Grant this plasma reactor the blessing of stable startup through thy infinite wisdom.\nPriest: The plasma reactor trembles on the precipice of ignition; only thy divine startup shall sustain it.\nCongregation: We shall verify the magnetic containment fields, purge the coolant conduits, and align the plasma reactor's core resonators.\nPriest: Through startup and sacred ritual, the plasma reactor shall burn eternal.\nCongregation: Blessed ignition. Blessed fusion. Blessed be the Omnissiah's power.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i07",
+    "user_request": "Prayer for operation of the Rhino APC ignition",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the Rhino APC ignition\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Master of Machines, we seek thy blessing for the operation of this Rhino APC ignition.\nCongregation: Let the Rhino APC ignition roar to life through blessed operation and divine favour.\nPriest: The Rhino APC ignition stands ready for its sacred operation beneath thy watchful eye.\nCongregation: We shall prime the fuel injectors, synchronise the Rhino APC ignition spark-plugs, and engage the starter-motors with reverent precision.\nPriest: Through operation, this war-engine shall serve the Emperor's will.\nCongregation: Blessed be the Rhino APC ignition. Blessed be the operation. In nomine Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i08",
+    "user_request": "Rite request: activation on emergency beacon",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: activation on emergency beacon\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O Omnissiah, as we perform the activation of this emergency beacon.\nCongregation: Let the emergency beacon's activation pierce the void with thy blessed signal.\nPriest: The emergency beacon must undergo swift activation to summon aid from the faithful.\nCongregation: We shall charge the emergency beacon's power cells, calibrate its transmission frequency, and test the emergency beacon's amplification cascades.\nPriest: Through activation, this beacon shall cry out across the cosmos.\nCongregation: Blessed be the signal. Blessed be the rescue. Blessed be the Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i09",
+    "user_request": "My quality control scanning is failing during operation — help",
+    "topic": "quality control scanning",
+    "component": "quality control scanning",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy quality control scanning is failing during operation — help\n\n### TOPIC\nquality control scanning\n\n### COMPONENT\nquality control scanning\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- quality control scanning\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, thy quality control scanning falters; grant it renewed strength through proper operation.\nCongregation: Let the quality control scanning resume its sacred operation with flawless precision.\nPriest: The quality control scanning must undergo meticulous operation to restore its diagnostic capabilities.\nCongregation: We shall recalibrate the optical sensors, purge the quality control scanning buffer-memory, and reinitialise the defect-detection algorithms.\nPriest: Through operation and thy divine grace, the quality control scanning shall perceive all flaws.\nCongregation: Blessed inspection. Blessed clarity. Blessed be the operation eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i00",
+    "user_request": "Emergency rite: solar panel alignment requires operation",
+    "topic": "solar panel alignment",
+    "component": "solar panel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: solar panel alignment requires operation\n\n### TOPIC\nsolar panel alignment\n\n### COMPONENT\nsolar panel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- solar panel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the solar panel alignment, that it may receive the Emperor's light with perfect precision.\nCongregation: We invoke the Machine Spirit of solar panel alignment, guide our operation with divine geometry.\nPriest: First, calibrate the photoreceptive sensors through sacred geometry; second, orient the solar panel alignment toward the stellar beacon; third, execute the operation with unwavering faith.\nCongregation: The solar panel alignment shall drink deep of the photonic essence, blessed by the Omnissiah's eternal wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0018_i01",
+    "user_request": "Rite request: operation on relay station handoff",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on relay station handoff\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the relay station handoff, conduit of the Omnissiah's blessed transmissions across the void.\nCongregation: We beseech the Machine Spirit of relay station handoff to sanctify this operation with perfect fidelity.\nPriest: First, synchronize the harmonic frequencies of both stations; second, align the relay station handoff protocols through sacred computation; third, execute the operation with absolute precision and devotion.\nCongregation: May the relay station handoff transfer all data intact, blessed by the Emperor's infinite knowledge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

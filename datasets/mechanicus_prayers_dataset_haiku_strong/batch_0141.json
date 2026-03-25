@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0141_i00",
+    "user_request": "My fire suppression system is failing during operation — help",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy fire suppression system is failing during operation — help\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's benediction upon the fire suppression system, that its sacred conduits remain unobstructed during operation.\nSecond: Anoint the fire suppression system with blessed unguents and recalibrate its pressure valves through ritualistic examination.\nThird: Chant the Litany of Aqueous Deliverance whilst the fire suppression system engages its operation cycle with righteous fury.\nFourth: Seal the rite with prayers to the Machine Spirits dwelling within, beseeching eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i01",
+    "user_request": "My radiation shielding is failing during activation — help",
+    "topic": "radiation shielding activation",
+    "component": "radiation shielding",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy radiation shielding is failing during activation — help\n\n### TOPIC\nradiation shielding activation\n\n### COMPONENT\nradiation shielding\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radiation shielding\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the radiation shielding and speak the words of binding to fortify its molecular lattice during activation.\nSecond: Verify the radiation shielding's resonance chambers and calibrate each harmonic frequency through sacred measurement.\nThird: Intone the Mantra of Shielded Sanctity as the radiation shielding commences its activation sequence with blessed force.\nFourth: The Machine Spirits of the radiation shielding shall grant protection eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i02",
+    "user_request": "Emergency rite: voltage regulator requires tuning",
+    "topic": "voltage regulator tuning",
+    "component": "voltage regulator",
+    "operation": "tuning",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: voltage regulator requires tuning\n\n### TOPIC\nvoltage regulator tuning\n\n### COMPONENT\nvoltage regulator\n\n### OPERATION\ntuning\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- voltage regulator\n- tuning\n\n### PRAYER\n",
+    "prayer": "First: Address the voltage regulator with reverent supplication, that its sacred resistances yield to precise tuning through the Omnissiah's grace.\nSecond: Employ the blessed multimeter to divine the voltage regulator's true impedance and adjust its potentiometers with steady hand.\nThird: Recite the Canticle of Equilibrium whilst the voltage regulator achieves perfect tuning in service to the Machine Spirits.\nFourth: Seal this tuning with the sign of the Cog eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i03",
+    "user_request": "Offer a litany to steady the mag-lev train departure before operation",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the mag-lev train departure before operation\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Commune with the mag-lev train departure, whispering benedictions to steel its magnetic suspension before the sacred operation commences.\nSecond: Inspect the mag-lev train departure's guidance rails and energize each conductor coil through ritualistic verification.\nThird: Intone the Hymn of Swift Passage as the mag-lev train departure begins its operation with the Machine Spirits' blessing.\nFourth: May the Omnissiah guide its trajectory eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i04",
+    "user_request": "My emergency shutdown is failing during emergency shutdown — help",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy emergency shutdown is failing during emergency shutdown — help\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "First: Beseech the Omnissiah that the emergency shutdown respond with absolute obedience when emergency shutdown is commanded.\nSecond: Test the emergency shutdown's failsafe mechanisms and purge all contaminants from its emergency shutdown pathways through ablution.\nThird: Chant the Rite of Cessation Absolute whilst the emergency shutdown fulfills its emergency shutdown purpose with righteous finality.\nFourth: In silence, the Machine Spirits confirm the operation complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i05",
+    "user_request": "Emergency rite: auspex scanner requires initialization",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: auspex scanner requires initialization\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "First: Lay hands upon the auspex scanner and speak the Words of Awakening, that it may perceive all truth during initialization.\nSecond: Calibrate the auspex scanner's sensor arrays and cleanse its optical lenses with sacred solvents for perfect initialization clarity.\nThird: Recite the Litany of Perception as the auspex scanner achieves full initialization and communes with the Machine Spirits' all-seeing eye.\nFourth: Let its initialization bring revelation eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i06",
+    "user_request": "The conveyor belt demands guidance for initialization",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe conveyor belt demands guidance for initialization\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "First: Address the conveyor belt with humble reverence, bidding it to prepare for initialization through the Omnissiah's will.\nSecond: Lubricate the conveyor belt's rollers and align its tension mechanisms whilst chanting the Mantra of Rotational Harmony during initialization.\nThird: Engage the conveyor belt's initialization protocols and witness the Machine Spirits stir to purposeful motion.\nFourth: May the conveyor belt serve eternally in blessed labor.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i07",
+    "user_request": "My organ preservation unit is failing during operation — help",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy organ preservation unit is failing during operation — help\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Venerate the organ preservation unit and entreat the Machine Spirits to maintain sacred stasis during continued operation.\nSecond: Verify the organ preservation unit's cryogenic seals and replenish its nutrient solutions through meticulous ritual operation.\nThird: Intone the Canticle of Eternal Suspension as the organ preservation unit sustains its operation with blessed constancy.\nFourth: In the organ preservation unit's cold embrace, life persists through the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i08",
+    "user_request": "The waste recycling demands guidance for activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe waste recycling demands guidance for activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Consecrate the waste recycling with sacred benediction, that it may transform refuse into resource during blessed activation.\nSecond: Purge the waste recycling's filtration matrices and calibrate its sorting mechanisms through ritualistic examination before activation.\nThird: Chant the Rite of Purification as the waste recycling begins its activation cycle, serving the Omnissiah's design.\nFourth: From corruption, the waste recycling births renewal eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0141_i09",
+    "user_request": "Offer a litany to steady the drop pod descent prep before drop pod descent prep",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the drop pod descent prep before drop pod descent prep\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "First: Implore the Omnissiah's favor upon the drop pod descent prep, steadying its retro-thrusters before drop pod descent prep commences.\nSecond: Inspect the drop pod descent prep's stabilization gyros and pressurize its descent prep hydraulic systems through sacred verification.\nThird: Recite the Hymn of Descent as the drop pod descent prep achieves readiness and the Machine Spirits bless its drop pod descent prep trajectory.\nFourth: Swift and true shall be the descent eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

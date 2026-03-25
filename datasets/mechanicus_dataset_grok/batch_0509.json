@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the melta bomb for startup?",
+    "prayer": "Approach the melta bomb with reverence, chanting the Incantation of Priming to rouse its dormant Machine Spirit.\nAnoint the fusion coils of the melta bomb with blessed promethium, invoking the Omnissiah's igniting grace.\nInitiate the startup rites by engaging the plasma vents, beseeching stability within its volatile heart.\nVerify the melta bomb's awakening through auspex harmonics, sealing the rite with the Litany of Containment.",
+    "component": "melta bomb",
+    "operation": "startup",
+    "spec_id": "s01090"
+  },
+  {
+    "user_prompt": "Assist with data-loom a cycling",
+    "prayer": "Kneel before the data-loom and recite the Doxology of Flux to honor its binary essence.\nCycle the crystalline matrices of the data-loom, purging stagnant noospheric echoes with sanctified static.\nInvoke the Machine Spirits of computation during this cycling, anointing data-vents with neural oils.\nConclude by intoning diagnostic canticles, ensuring the data-loom's omniscient weave remains pure.",
+    "component": "data-loom",
+    "operation": "cycling",
+    "spec_id": "s01091"
+  },
+  {
+    "user_prompt": "I need to a sterilization the Valkyrie gunship",
+    "prayer": "Circumambulate the Valkyrie gunship thrice, asperging its hull with ablative incense against xenos taint.\nCommence sterilization by activating plasma scrubbers, chanting the Purgation Psalm to exorcise impurities.\nBeseech the Omnissiah to purify the Valkyrie gunship's Machine Spirit through searing vents and auspex sweeps.\nSeal the rite with the Anointing of Thrusters, verifying the gunship's hull gleams in sterile perfection.",
+    "component": "Valkyrie gunship",
+    "operation": "sterilization",
+    "spec_id": "s01092"
+  },
+  {
+    "user_prompt": "Emergency: lasgun a consecration",
+    "prayer": "Grasp the lasgun firmly, murmuring the Benediction of Luminance to awaken its power cell.\nConsecrate the focusing crystals of the lasgun with sacred oils, invoking the Omnissiah's radiant fury.\nCycle the lasgun's emitters in ritual sequence, binding its Machine Spirit to unerring precision.\nAffirm the consecration through test-fire litanies, ensuring the lasgun channels divine retribution.",
+    "component": "lasgun",
+    "operation": "consecration",
+    "spec_id": "s01093"
+  },
+  {
+    "user_prompt": "Guide me through carapace armour an emergency procedure",
+    "prayer": "Expose the carapace armour's ablative layers and intone the Emergency Invocation of Fortitude.\nCommence the emergency procedure by injecting noospheric stabilizers into its servos and plates.\nAnoint the carapace armour's joints with mechadendrite salves, beseeching the Machine Spirit's resilience.\nReassemble and test under duress, sealing with the Canticle of Unyielding Aegis for the carapace armour.",
+    "component": "carapace armour",
+    "operation": "emergency procedure",
+    "spec_id": "s01094"
+  },
+  {
+    "user_prompt": "Critical: transit mag-rail requires an engagement",
+    "prayer": "Align before the transit mag-rail, reciting the Canticle of Acceleration to attune its ferrocoils.\nEngage the engagement protocols by channeling warp-silent currents, awakening the embedded Machine Spirits.\nMonitor the transit mag-rail's hypervelocity buildup through sanctified gauges and litanies.\nFinalize engagement with the Omnissiah's Benediction, propelling the mag-rail to ordained velocity.",
+    "component": "transit mag-rail",
+    "operation": "engagement",
+    "spec_id": "s01095"
+  },
+  {
+    "user_prompt": "Assist with mind-impulse unit a cycling",
+    "prayer": "Interface with the mind-impulse unit via sanctified bionics, chanting the Neuron Rite of Flux.\nInitiate cycling of the synaptic lattices within the mind-impulse unit, flushing errant psi-echoes.\nBeseech the Machine Spirit's clarity during this cycling, anointing neural relays with cognito-lubricants.\nConclude with harmonic resonance scans, affirming the mind-impulse unit's synaptic purity.",
+    "component": "mind-impulse unit",
+    "operation": "cycling",
+    "spec_id": "s01096"
+  },
+  {
+    "user_prompt": "I need to a blessing the bolt pistol",
+    "prayer": "Present the bolt pistol upon the altar of munitions, intoning the Arming Doxology.\nBless the bolt pistol's gyrocaine injectors with sacred unguents, invoking the Omnissiah's explosive wrath.\nCycle its magazine feeds in ritual harmony, binding the Machine Spirit to faithful discharge.\nSeal the blessing through ballistic catechisms, ensuring the bolt pistol delivers martyrdom's kiss.",
+    "component": "bolt pistol",
+    "operation": "blessing",
+    "spec_id": "s01097"
+  },
+  {
+    "user_prompt": "Guide me through Onager Dunecrawler a diagnostics",
+    "prayer": "Commence auspex communion with the Onager Dunecrawler, reciting the Diagnostic Litany of Gears.\nProbe the Onager Dunecrawler's reactor heart and crawler tracks for anomalous binaric whispers.\nInvoke the Omnissiah during diagnostics, anointing servo-arms with error-purging oils.\nRatify the Onager Dunecrawler's integrity with the Rite of Calibration, banishing any shadow-code.",
+    "component": "Onager Dunecrawler",
+    "operation": "diagnostics",
+    "spec_id": "s01098"
+  },
+  {
+    "user_prompt": "Help me a reset the sicarian ruststalker",
+    "prayer": "Approach the Sicarian Ruststalker with mechadendrite reverence, chanting the Reset Canticle of Blades.\nCycle its monomolecular limbs through ablative purges, rousing the cybernetic Machine Spirits.\nAnoint the Ruststalker's occulobe arrays with synaptic incense during this reset.\nFinalize with the Omnissiah's Binding Oath, verifying the Sicarian Ruststalker's predatory precision.",
+    "component": "sicarian ruststalker",
+    "operation": "reset",
+    "spec_id": "s01099"
+  }
+]

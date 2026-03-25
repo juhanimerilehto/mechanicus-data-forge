@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a reset the volitor implant",
+    "prayer": "Approach the volitor implant with sanctified mechadendrites and intone the Canticle of Restoration.\nBeseech the Machine Spirit of the volitor implant to relinquish its errant cycles.\nInitiate the reset sequence whilst anointing neural interfaces with sacred unguents.\nChant the Doxology of Rebirth as diagnostic rites confirm the volitor implant's renewed purity.\nInvoke the Omnissiah's grace upon the volitor implant, binding its essence anew.",
+    "component": "volitor implant",
+    "operation": "reset",
+    "spec_id": "s05730"
+  },
+  {
+    "user_prompt": "Bless the memograph implant for maintenance",
+    "prayer": "Kneel before the memograph implant and recite the Hymn of Eternal Memory.\nInspect its crystalline vaults for wear, invoking maintenance blessings from the Omnissiah.\nAnoint data pathways with blessed oils to soothe the Machine Spirit within the memograph implant.\nPerform cyclic purifications, harmonizing the memograph implant's rhythms to perfection.\nSeal the rite with the Litany of Preservation, ensuring the memograph implant's vigilance endures.",
+    "component": "memograph implant",
+    "operation": "maintenance",
+    "spec_id": "s05731"
+  },
+  {
+    "user_prompt": "Urgent electro-graft a sterilization needed",
+    "prayer": "Present the electro-graft to the purifier's flame and whisper the Purgation Creed.\nImmerse its conduits in sterilizing ablatives, beseeching the electro-graft's Machine Spirit to endure.\nScour every contact node with sanctified abrasives during this sterilization rite.\nVerify purity through auspex scans, intoning thanks to the Omnissiah for the electro-graft's cleansing.\nConclude by sealing the electro-graft in wards against corruption's return.",
+    "component": "electro-graft",
+    "operation": "sterilization",
+    "spec_id": "s05732"
+  },
+  {
+    "user_prompt": "Urgent assault cannon a targeting needed",
+    "prayer": "Commence the assault cannon's targeting rite by invoking the Omnissiah's unerring gaze.\nCalibrate auspex arrays upon the assault cannon, anointing servos with sacred lubricants.\nAwaken the Machine Spirit of the assault cannon through ballistic litanies.\nAlign targeting matrices in sequential harmony, beseeching precision from the void.\nTest-fire a null-round whilst chanting the Hymn of Annihilation for the assault cannon's glory.",
+    "component": "assault cannon",
+    "operation": "targeting",
+    "spec_id": "s05733"
+  },
+  {
+    "user_prompt": "Prepare the Kastelan robot for cooling",
+    "prayer": "Prepare the Kastelan robot's chassis for cooling by reciting the Chill Litany.\nCirculate cryo-fluids through its heat-sinks, soothing the Machine Spirit's fervent core.\nMonitor thermals with reverence, invoking the Omnissiah upon the Kastelan robot.\nStabilize flux vents as the cooling rite progresses, binding the Kastelan robot's wrath.\nConclude with auspex benediction, affirming the Kastelan robot's readiness to march.",
+    "component": "Kastelan robot",
+    "operation": "cooling",
+    "spec_id": "s05734"
+  },
+  {
+    "user_prompt": "Critical: flux-unit requires a cooling",
+    "prayer": "Approach the flux-unit amid rising heat and intone the Cryo-Canticle of the Omnissiah.\nDivert plasmic vents to initiate cooling, beseeching the flux-unit's Machine Spirit to calm.\nAnoint radiator vanes with sanctified refrigerants during this vital cooling rite.\nHarmonize thermal regulators, invoking quiescence upon the flux-unit.\nSeal the flux-unit's sanctity with the Litany of Thermal Equilibrium.",
+    "component": "flux-unit",
+    "operation": "cooling",
+    "spec_id": "s05735"
+  },
+  {
+    "user_prompt": "Assist with logic mill a calibration",
+    "prayer": "Position the logic mill before the calibration altar and chant the Binary Doxology.\nEngage alignment servitors to adjust its millstones, awakening the Machine Spirit.\nInvoke the Omnissiah's logic upon the logic mill as calibration sequences unfold.\nVerify computational purity through recursive tests on the logic mill.\nConclude the rite with seals of harmonic precision, exalting the logic mill's truth.",
+    "component": "logic mill",
+    "operation": "calibration",
+    "spec_id": "s05736"
+  },
+  {
+    "user_prompt": "Consecrate the vox-thief before cooling",
+    "prayer": "Consecrate the vox-thief with incense of silenced frequencies and the Muting Hymn.\nPrepare coolant reservoirs, beseeching the vox-thief's Machine Spirit for forbearance.\nInitiate cooling flows through its waveform coils, anointing in the Omnissiah's name.\nMonitor etheric stability as the vox-thief yields to chill, warding against dissonance.\nFinalize with the Litany of Subsonic Peace upon the vox-thief.",
+    "component": "vox-thief",
+    "operation": "cooling",
+    "spec_id": "s05737"
+  },
+  {
+    "user_prompt": "Consecrate the manipulator mechadendrite before synchronization",
+    "prayer": "Consecrate the manipulator mechadendrite by tracing binaric runes along its length.\nInitiate synchronization protocols, invoking harmony from the manipulator mechadendrite's Spirit.\nLink neural manifolds to the host, anointing joints with sacred oils.\nCalibrate motive responses in rhythmic litanies for the manipulator mechadendrite.\nSeal unity with the Omnissiah's blessing, ensuring the manipulator mechadendrite's flawless obedience.",
+    "component": "manipulator mechadendrite",
+    "operation": "synchronization",
+    "spec_id": "s05738"
+  },
+  {
+    "user_prompt": "Can you guide life signs monitor a synchronization?",
+    "prayer": "Guide the life signs monitor to synchronization by intoning the Vital Codex.\nInterface bio-scanners with cogitator relays, awakening its Machine Spirit.\nAnoint sensor nodes whilst beseeching the Omnissiah for synchronization clarity.\nHarmonize pulse rhythms through iterative rites on the life signs monitor.\nVerify bio-fidelity with the Litany of Living Data, sanctifying the life signs monitor.",
+    "component": "life signs monitor",
+    "operation": "synchronization",
+    "spec_id": "s05739"
+  }
+]

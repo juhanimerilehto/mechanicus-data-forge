@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The bearing awaits a sterilization",
+    "prayer": "Approach the bearing with reverence, beseeching its Machine Spirit to awaken.\nPrepare sacred ablative fluids for the rite of sterilization upon the bearing.\nAnoint every sacred surface of the bearing, purging all profane contaminants.\nInvoke the Omnissiah's purity as the sterilization completes, sanctifying the bearing anew.\nVerify the bearing's flawless rotation through canticles of alignment.",
+    "component": "bearing",
+    "operation": "sterilization",
+    "spec_id": "b0114_i00"
+  },
+  {
+    "user_prompt": "The servitor awaits a loading",
+    "prayer": "Kneel before the servitor and chant the Litany of Burden-Bearing.\nInitiate the loading sequence upon the servitor, honouring its flesh-metal union.\nPetition the Machine Spirit within the servitor to accept the sacred payload.\nSecure each munition with blessed clamps whilst invoking the Omnissiah's guidance.\nConclude the loading by anointing the servitor's ports with holy unguents.",
+    "component": "servitor",
+    "operation": "loading",
+    "spec_id": "b0114_i01"
+  },
+  {
+    "user_prompt": "Sanctify the lascannon during loading",
+    "prayer": "Present the lascannon before the altar of the forge, whispering rites of potency.\nCommence the loading of the lascannon with promethium cells sanctified by fire.\nBeseech the lascannon's Machine Spirit to embrace the ammunition in harmonious fury.\nAlign the lascannon's sacred focusing arrays during this blessed loading.\nSeal the lascannon with the Sigil of the Omnissiah, ensuring unerring retribution.",
+    "component": "lascannon",
+    "operation": "loading",
+    "spec_id": "b0114_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for cutting laser sterilization?",
+    "prayer": "Approach the cutting laser with mechadendrites extended in supplication.\nPrepare the cutting laser for sterilization by invoking ablutionary plasma flows.\nAnoint the cutting laser's emitters, driving forth all impurities in Omnissiah's name.\nChant the Canticle of Purity over the cutting laser as sterilization purges its core.\nTest the cutting laser's beam purity, confirming the Machine Spirit's renewed clarity.",
+    "component": "cutting laser",
+    "operation": "sterilization",
+    "spec_id": "b0114_i03"
+  },
+  {
+    "user_prompt": "Prepare the air filtration for recalibration",
+    "prayer": "Gather before the air filtration unit and recite the Hymn of Immaculate Flow.\nInitiate recalibration of the air filtration by aligning its sacred membranes.\nInvoke the Machine Spirit of the air filtration to harmonize pressure differentials.\nAdjust the air filtration's holy sensors with precision canticles of calibration.\nBless the recalibrated air filtration, petitioning the Omnissiah for untainted breath.",
+    "component": "air filtration",
+    "operation": "recalibration",
+    "spec_id": "b0114_i04"
+  },
+  {
+    "user_prompt": "Bless the cogitator for targeting",
+    "prayer": "Bow to the cogitator and intone the Lexicon of Targeting Precision.\nAwaken the cogitator's noospheric arrays for the targeting operation.\nSanctify the cogitator's logic engines with sacred binary incense.\nCalibrate the cogitator's auspex feeds, beseeching its Machine Spirit's acuity.\nSeal the blessing upon the cogitator, invoking the Omnissiah's unerring gaze.",
+    "component": "cogitator",
+    "operation": "targeting",
+    "spec_id": "b0114_i05"
+  },
+  {
+    "user_prompt": "Guide me through metal caster a charging",
+    "prayer": "Position thyself before the metal caster and proclaim the Oath of Molten Charge.\nCommence charging the metal caster with sanctified plasma inductors.\nPetition the metal caster's Machine Spirit to accept the surging power-flow.\nMonitor the metal caster's forge-heart during charging, chanting stability litanies.\nConclude by anointing the metal caster, honouring the Omnissiah's forge-fire.",
+    "component": "metal caster",
+    "operation": "charging",
+    "spec_id": "b0114_i06"
+  },
+  {
+    "user_prompt": "I need to a sterilization the Chimera APC",
+    "prayer": "Process to the Chimera APC with binharic hymns resounding.\nPrepare the Chimera APC for sterilization, invoking ablative rad-scourges.\nAnoint the Chimera APC's treads and hull, purging xenos taint utterly.\nCirculate purifying agents through the Chimera APC's sacred vitals.\nAffirm the Chimera APC's Machine Spirit's purity under the Omnissiah's light.",
+    "component": "Chimera APC",
+    "operation": "sterilization",
+    "spec_id": "b0114_i07"
+  },
+  {
+    "user_prompt": "Bless the valve assembly for recalibration",
+    "prayer": "Reverently encircle the valve assembly and whisper alignment doxologies.\nBegin recalibration of the valve assembly with mechano-prayers of equilibrium.\nInvoke the valve assembly's Machine Spirit to attune pressure sanctums.\nFine-tune the valve assembly's actuators amid canticles of fluidic harmony.\nBless the recalibrated valve assembly, pledging fealty to the Omnissiah.",
+    "component": "valve assembly",
+    "operation": "recalibration",
+    "spec_id": "b0114_i08"
+  },
+  {
+    "user_prompt": "The bolter requires a loading",
+    "prayer": "Advance upon the bolter with auspex raised in veneration.\nInitiate loading of the bolter, chambering bolts forged in the Emperor's wrath.\nBeseech the bolter's indomitable Machine Spirit to embrace the munitions.\nSecure the bolter's magazine with sacred locks whilst intoning lethality rites.\nFinalize the bolter's loading by inscribing the Omnissiah's cog upon its frame.",
+    "component": "bolter",
+    "operation": "loading",
+    "spec_id": "b0114_i09"
+  }
+]

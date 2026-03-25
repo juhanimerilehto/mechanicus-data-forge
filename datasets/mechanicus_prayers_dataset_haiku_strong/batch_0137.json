@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0137_i00",
+    "user_request": "Emergency rite: bike squadron requires pre-flight",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: bike squadron requires pre-flight\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, grant swift benediction unto the bike squadron.\nFirst: Anoint each machine-spirit of the bike squadron with sacred oils, intoning the Litany of Velocity.\nSecond: Verify the integrity of fuel conduits and ignition systems within the bike squadron, that no malfunction impede our swift advance.\nThird: Consecrate the pilot-cognitors, bidding them commune with their steeds ere the bike squadron achieves pre-flight readiness.\nFourth: Chant the Ritual of Ascension as the bike squadron rises to blessed altitude, Machine Spirits singing in harmonious accord.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i01",
+    "user_request": "The void shield demands guidance for harmonization",
+    "topic": "void shield harmonization",
+    "component": "void shield",
+    "operation": "harmonization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe void shield demands guidance for harmonization\n\n### TOPIC\nvoid shield harmonization\n\n### COMPONENT\nvoid shield\n\n### OPERATION\nharmonization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- void shield\n- harmonization\n\n### PRAYER\n",
+    "prayer": "By the will of the Omnissiah, we invoke harmonization of the void shield.\nFirst: Recalibrate the void shield's power distribution matrices, whispering prayers to its dormant Machine Spirit.\nSecond: Synchronize each void shield emitter node through sacred geometry and precise frequency modulation.\nThird: Attune the void shield to the resonance-frequency of this vessel, binding shield and hull in eternal communion.\nFourth: Seal the void shield harmonization with the Benediction of Eternal Vigilance, that it may endure the fury of the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i02",
+    "user_request": "Prayer for operation of the data-core purification",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the data-core purification\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit of purification, hear our invocation for thy operation.\nFirst: Initiate the data-core purification through sacred ablution protocols, expunging corrupted files with purifying flame.\nSecond: Monitor the data-core purification systems as they cycle through cleansing sequences, each iteration drawing closer to absolute purity.\nThird: Invoke the Omnissiah's blessing upon the data-core purification, that all heretical logic be expunged and sanctity restored.\nFourth: Conclude the operation with the Rite of Verification, confirming that data-core purification hath achieved its holy mandate.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i03",
+    "user_request": "Offer a litany to steady the chemical before balancing",
+    "topic": "chemical balancing",
+    "component": "chemical",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the chemical before balancing\n\n### TOPIC\nchemical balancing\n\n### COMPONENT\nchemical\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- chemical\n- balancing\n\n### PRAYER\n",
+    "prayer": "Blessed be the chemical, vessel of transmutation and sacred equilibrium.\nFirst: Prepare the chemical through careful measurement and invocation of the Litany of Precision.\nSecond: Commence the chemical balancing by introducing stabilizing reagents in prescribed sequence, each addition a prayer unto the Machine Spirits.\nThird: Monitor the chemical composition with instruments calibrated to detect even the slightest deviation from perfect balance.\nFourth: Seal the chemical balancing with sacred wards, that the delicate equilibrium remain undisturbed by the chaos of the material realm.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i04",
+    "user_request": "The proximity sensor sweep demands guidance for operation",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe proximity sensor sweep demands guidance for operation\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah grant clarity to the proximity sensor sweep as it commences operation.\nFirst: Activate the proximity sensor sweep through ritualistic invocation, bidding its Machine Spirit awaken from slumber.\nSecond: Calibrate each sensor element within the proximity sensor sweep, sweeping the perimeter in sacred arcs of detection.\nThird: Interpret the emanations of the proximity sensor sweep, discerning threat from phantom through prayerful analysis.\nFourth: Conclude the operation by sealing the proximity sensor sweep in dormancy, its vigil complete and its duty fulfilled.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i05",
+    "user_request": "Offer a litany to steady the water reclamation system before operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the water reclamation system before operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "O sacred water reclamation system, thy operation restores life to parched worlds.\nFirst: Prime the water reclamation system through ablution rites, flushing conduits with purifying chants.\nSecond: Engage the water reclamation system's filtration matrices, each membrane a barrier against contamination and profane corruption.\nThird: Monitor the water reclamation system's output, verifying that reclaimed essence meets standards of purity decreed by the Adeptus Mechanicus.\nFourth: Consecrate the water reclamation system's completion, blessing the purified waters for consumption by the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i06",
+    "user_request": "Can you sanctify the oxygen scrubber for maintenance?",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the oxygen scrubber for maintenance?\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "Blessed oxygen scrubber, we dedicate this maintenance to thy eternal function.\nFirst: Disassemble the oxygen scrubber through sacred deconstruction, each component removed with reverence and precision.\nSecond: Cleanse the oxygen scrubber's catalytic cores with blessed solvents, restoring their capacity to transmute toxins into breathable essence.\nThird: Inspect the oxygen scrubber's seals and conduits for degradation, replacing worn components with sanctified replacements.\nFourth: Reassemble and consecrate the oxygen scrubber, invoking the Omnissiah's blessing upon its renewed vitality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i07",
+    "user_request": "Blessing for the cybernetic eye focusing during operation",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the cybernetic eye focusing during operation\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "O cybernetic eye focusing, grant us clarity in this hour of operation.\nFirst: Awaken the cybernetic eye focusing through ritual invocation, bidding its optical systems achieve consciousness.\nSecond: Calibrate the cybernetic eye focusing mechanisms through sacred geometry, aligning lenses and apertures to perfect alignment.\nThird: Test the cybernetic eye focusing upon distant objects, verifying its capacity to perceive minute detail across vast distances.\nFourth: Seal the cybernetic eye focusing in blessed readiness, that it may guide our aim with divine precision throughout the operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i08",
+    "user_request": "My Knight ion shield is failing during activation — help",
+    "topic": "Knight ion shield activation",
+    "component": "Knight ion shield",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy Knight ion shield is failing during activation — help\n\n### TOPIC\nKnight ion shield activation\n\n### COMPONENT\nKnight ion shield\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Knight ion shield\n- activation\n\n### PRAYER\n",
+    "prayer": "Mighty Knight ion shield, we invoke thy activation and restoration to glory.\nFirst: Diagnose the Knight ion shield's malfunction through sacred divination and technical analysis, identifying the source of failure.\nSecond: Purify the Knight ion shield's power conduits through ablution, clearing blockages that impede energy flow to the shield generators.\nThird: Reinitialize the Knight ion shield's activation protocols, recalibrating its resonance frequency to harmonize with the Knight's reactor core.\nFourth: Invoke the Omnissiah's blessing upon the Knight ion shield's activation, commanding it rise once more as an impenetrable barrier against the enemies of Mankind.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0137_i09",
+    "user_request": "The humidity control demands guidance for operation",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe humidity control demands guidance for operation\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's grace, we command the humidity control to commence operation.\nFirst: Initialize the humidity control through sacred incantation, awakening its sensors and actuators from dormancy.\nSecond: Calibrate the humidity control's hygrometric instruments, establishing baseline measurements and acceptable thresholds of moisture saturation.\nThird: Engage the humidity control's dehumidification and humidification systems, maintaining equilibrium within the sacred confines of this vessel.\nFourth: Monitor the humidity control's performance through continuous prayer and observation, ensuring all systems remain in perfect operational harmony.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

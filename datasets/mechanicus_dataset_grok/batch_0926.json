@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the micro-servitor before maintenance",
+    "prayer": "Approach the micro-servitor with censer aloft, invoking the Omnissiah's grace upon its humble frame.\nConsecrate the micro-servitor's actuators and cogitators with sacred oils, banishing impurities ere maintenance commences.\nBeseech the Machine Spirit of the micro-servitor to yield willingly to the rite of maintenance, aligning its sacred mechanisms.\nVerify the consecration through auspex scans, intoning the Canticle of Stability as the Machine Spirit stirs anew.",
+    "component": "micro-servitor",
+    "operation": "maintenance",
+    "spec_id": "s05260"
+  },
+  {
+    "user_prompt": "The eradication beamer needs a calibration",
+    "prayer": "Present thyself before the eradication beamer, reciting the Litany of Precision to awaken its wrathful essence.\nAnoint the focusing arrays of the eradication beamer with unguents of coherence, preparing for calibration.\nInitiate the calibration sequence whilst beseeching the Omnissiah to harmonize its destructive beams.\nInvoke the Machine Spirit through diagnostic runes, ensuring the eradication beamer's lethality is perfectly attuned.\nSeal the rite with the Incantation of Annihilation, confirming alignment under the Omnissiah's gaze.",
+    "component": "eradication beamer",
+    "operation": "calibration",
+    "spec_id": "s05261"
+  },
+  {
+    "user_prompt": "Ready the life sustainer for engagement",
+    "prayer": "Kneel in reverence to the life sustainer, chanting the Hymn of Vitality to rouse its nurturing core.\nSanctify the life sustainer's conduits and pumps with blessed lubricants, readying for engagement.\nEngage the activation rites, invoking the Machine Spirit to sustain the faithful in battle's embrace.\nMonitor vital flows through sacred auspex, beseeching the Omnissiah to fortify the life sustainer against corruption.\nConclude with the Benediction of Endurance, affirming the life sustainer's preparedness.",
+    "component": "life sustainer",
+    "operation": "engagement",
+    "spec_id": "s05262"
+  },
+  {
+    "user_prompt": "Can you guide power fist an engagement?",
+    "prayer": "Grasp the power fist in solemn grip, murmuring the Oath of Crushing Might to its adamantium form.\nAnoint the power fist's servos and talons with oils of fury, priming for engagement.\nInvoke the Machine Spirit of the power fist to surge with righteous violence during engagement.\nTest the field generators through the Rite of Power Surge, under the Omnissiah's unblinking eye.\nSeal the power fist's readiness with the Canticle of Demolition, its spirit eager for the fray.",
+    "component": "power fist",
+    "operation": "engagement",
+    "spec_id": "s05263"
+  },
+  {
+    "user_prompt": "Consecrate the Leman Russ battle tank before diagnostics",
+    "prayer": "Circumambulate the Leman Russ battle tank, asperging its hull with incense against the heretic's taint.\nConsecrate the Leman Russ battle tank's auspex arrays and noosphere links before diagnostics begin.\nInitiate diagnostic incantations, beseeching the Omnissiah to reveal flaws within its vast Machine Spirit.\nProbe the Leman Russ battle tank's reactors and treads with sanctified mechadendrites, intoning binaric litanies.\nAffirm purity through the Rite of Verification, the Leman Russ battle tank's spirit restored and vigilant.",
+    "component": "Leman Russ battle tank",
+    "operation": "diagnostics",
+    "spec_id": "s05264"
+  },
+  {
+    "user_prompt": "Offer prayer for orbital strike relay an operation",
+    "prayer": "Align thyself with the orbital strike relay, invoking the Motive Force for its operation.\nSanctify the orbital strike relay's targeting cogitators and vox-relays with sacred myrrh.\nCommence the operation sequence, beseeching the Machine Spirit to guide cataclysmic fire from the void.\nMonitor trajectory runes whilst chanting the Litany of Orbital Fury, under Omnissiah's decree.\nConclude the orbital strike relay's operation with the Benediction of Devastation, its purpose fulfilled.",
+    "component": "orbital strike relay",
+    "operation": "operation",
+    "spec_id": "s05265"
+  },
+  {
+    "user_prompt": "Help me a synchronization the Storm Eagle",
+    "prayer": "Approach the Storm Eagle with wings folded in respect, reciting the Canticle of Aerial Dominion.\nInitiate synchronization rites upon the Storm Eagle's avionics and thrusters, anointing with volatile sanctifiers.\nBeseech the Machine Spirit of the Storm Eagle to entwine with noospheric commands in perfect synchronization.\nVerify harmonic bonds through auspex harmonies, invoking the Omnissiah's winds of war.\nSeal the Storm Eagle's synchronization with the Incantation of Swift Ascent, ready for the Emperor's wrath.",
+    "component": "Storm Eagle",
+    "operation": "synchronization",
+    "spec_id": "s05266"
+  },
+  {
+    "user_prompt": "Bless the galvanic rifle for purification",
+    "prayer": "Hold the galvanic rifle aloft, intoning the Purification Doxology to cleanse its galvanic coils.\nAnoint the galvanic rifle's barrels and power cells with acids of absolution for purification.\nInvoke the Machine Spirit through rites of purification, expelling daemonic static from its sacred circuits.\nTest the galvanic rifle's discharge with blessed ammunition, under the Omnissiah's purifying light.\nConclude with the Sanctus of Clarity, the galvanic rifle reborn in electric purity.",
+    "component": "galvanic rifle",
+    "operation": "purification",
+    "spec_id": "s05267"
+  },
+  {
+    "user_prompt": "Emergency: lasgun a targeting",
+    "prayer": "In emergency haste, grasp the lasgun and utter the Urgent Invocation of Targeting True.\nSanctify the lasgun's sights and emitters with hasty unguents, aligning for targeting precision.\nBeseech the Machine Spirit of the lasgun to lock upon foes amidst the fray's targeting demands.\nCalibrate targeting matrices through rapid litanies, faithful to the Omnissiah's aim.\nAffirm the lasgun's lethal focus with the Rite of Beam Convergence, heresy unerringly smote.",
+    "component": "lasgun",
+    "operation": "targeting",
+    "spec_id": "s05268"
+  },
+  {
+    "user_prompt": "Prepare the assault cannon for operation",
+    "prayer": "Present the assault cannon before the altar of war, chanting the Arming Hymn of Barrage.\nLubricate the assault cannon's spinning drums and feeds with sacred oils for operation.\nInvoke the Machine Spirit to unleash stormfire in operation, blessed by the Omnissiah's forge.\nInitiate test-firing rites through sanctified range, intoning canticles of relentless output.\nSeal the assault cannon's operation readiness with the Benediction of Shredding Fury.",
+    "component": "assault cannon",
+    "operation": "operation",
+    "spec_id": "s05269"
+  }
+]

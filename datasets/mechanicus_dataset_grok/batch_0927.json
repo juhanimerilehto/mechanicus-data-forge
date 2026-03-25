@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The void shield generator needs a reset",
+    "prayer": "Approach the void shield generator with reverence, mechadendrites humming the Binary Litany.\nInvoke the sacred reset upon its warp-repelling matrices, purging errant fluxes.\nBeseech the Machine Spirit of the void shield generator to realign its aegis fields.\nAnoint the generator's core inductors with oils of the Omnissiah.\nVerify harmonic resonance through auspex chants, as barriers reform in glory.",
+    "component": "void shield generator",
+    "operation": "reset",
+    "spec_id": "s05270"
+  },
+  {
+    "user_prompt": "Guide me through neutron laser a cooling",
+    "prayer": "Kneel before the neutron laser and intone the Cooling Doxology of Stability.\nCirculate sacred cryofluids through its plasma conduits, invoking the operation of cooling.\nPacify the raging Machine Spirit within the neutron laser with chill benedictions.\nMonitor thermal auspex readings whilst reciting the Canticle of Equilibrium.\nSanctify the barrels anew, ensuring the neutron laser's fury remains leashed.",
+    "component": "neutron laser",
+    "operation": "cooling",
+    "spec_id": "s05271"
+  },
+  {
+    "user_prompt": "Offer prayer for bolt pistol a cooling",
+    "prayer": "Present the bolt pistol upon the altar of munitions, whispering the Cooling Incantation.\nChannel blessed refrigerants into its overheating casings, beseeching calm.\nInvoke the Machine Spirit of the bolt pistol to embrace the rite of cooling.\nPolish the ejection ports with sanctified cloths, murmuring to the Omnissiah.\nTest-fire a devotional round, confirming the bolt pistol's tempered wrath.",
+    "component": "bolt pistol",
+    "operation": "cooling",
+    "spec_id": "s05272"
+  },
+  {
+    "user_prompt": "Critical: Razorback requires a diagnostics",
+    "prayer": "Encircle the Razorback with incense of machine oil, commencing diagnostics.\nProbe its auspex arrays and cogitator nodes with litanies of discernment.\nCommune with the Machine Spirit of the Razorback, revealing hidden corruptions.\nRecite the Omnissiah's Diagnostic Catechism over its treads and turrets.\nSeal flaws with binaric seals, restoring the Razorback to vigilant purity.",
+    "component": "Razorback",
+    "operation": "diagnostics",
+    "spec_id": "s05273"
+  },
+  {
+    "user_prompt": "What's the prayer for displacer field an operation?",
+    "prayer": "Attune thyself to the displacer field, invoking its operation through warp-litany.\nCalibrate the phase shifters with mechadendrite precision and sacred chants.\nBeseech the elusive Machine Spirit of the displacer field to manifest fidelity.\nAnoint emitter nodes whilst entoning the Canticle of Translocation.\nAffirm seamless operation, as the displacer field dances in Omnissian harmony.",
+    "component": "displacer field",
+    "operation": "operation",
+    "spec_id": "s05274"
+  },
+  {
+    "user_prompt": "The haywire grenade needs a recalibration",
+    "prayer": "Handle the haywire grenade with utmost veneration, initiating recalibration.\nAlign its electromagnetic disruptors via the Rite of Harmonic Realignment.\nInvoke the Machine Spirit of the haywire grenade to shed discordant frequencies.\nInscribe binaric runes upon its casing, beseeching the Omnissiah's guidance.\nTest disruption fields in controlled invocation, perfecting the haywire grenade's ire.",
+    "component": "haywire grenade",
+    "operation": "recalibration",
+    "spec_id": "s05275"
+  },
+  {
+    "user_prompt": "Emergency: ore processor a purification",
+    "prayer": "Surround the ore processor with purifying incense, commencing the rite.\nFlush impurities from its grinding maws with ablutionary solvents.\nBeseech the Machine Spirit of the ore processor to embrace purification.\nChant the Litany of Refinement over its crucibles and conveyors.\nVerify crystalline output, sanctified by the Omnissiah's forge-fire.",
+    "component": "ore processor",
+    "operation": "purification",
+    "spec_id": "s05276"
+  },
+  {
+    "user_prompt": "Urgent manipulator mechadendrite a recalibration needed",
+    "prayer": "Extend servo-arms to the manipulator mechadendrite, intoning recalibration.\nFine-tune its haptic sensors and motivator coils with precise litanies.\nAwaken the Machine Spirit of the manipulator mechadendrite from misalignment.\nAnoint joints with lubricating sacraments, invoking dexterous renewal.\nExecute test-grasps in devotion, affirming the mechadendrite's flawless grasp.",
+    "component": "manipulator mechadendrite",
+    "operation": "recalibration",
+    "spec_id": "s05277"
+  },
+  {
+    "user_prompt": "The air compressor requires a maintenance",
+    "prayer": "Approach the air compressor in ritual genuflection, undertaking maintenance.\nPurge particulate heresies from its pressure chambers with sacred bellows.\nCommune with the Machine Spirit of the air compressor, restoring pneumatic vigor.\nBless piston rods and valves whilst reciting the Canticle of Compression.\nCycle test-pressures under Omnissian watch, ensuring unyielding service.",
+    "component": "air compressor",
+    "operation": "maintenance",
+    "spec_id": "s05278"
+  },
+  {
+    "user_prompt": "Emergency: hunter-killer missile a startup",
+    "prayer": "Prepare the hunter-killer missile for startup with explosive reverence.\nIgnite its guidance cogitator through the Rite of Predatory Awakening.\nBeseech the Machine Spirit of the hunter-killer missile to hunger for foes.\nAnoint warheads with incendiary oils, chanting the Litany of Annihilation.\nLaunch a simulacrum in pious simulation, unleashing the missile's doom.",
+    "component": "hunter-killer missile",
+    "operation": "startup",
+    "spec_id": "s05279"
+  }
+]

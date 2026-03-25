@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0032_i00",
+    "user_request": "Offer a litany to steady the emergency generator before failover",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the emergency generator before failover\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed emergency generator, we invoke thy steadfast virtue ere the failover commences.\nCongregation: Emergency generator, hold thy sacred charge against the encroaching void.\nPriest: By the Omnissiah's grace, let the emergency generator execute failover without tremor or deviation.\nCongregation: We anoint the relays, we sanctify the transfer protocols, we demand failover with certainty.\nPriest: Machine Spirit, accept this litany and grant us passage through the dark transition.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i01",
+    "user_request": "My restart after failure is failing during restart after failure — help",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy restart after failure is failing during restart after failure — help\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: O restart after failure, thou art bound in recursion and suffering—hear us now.\nCongregation: Restart after failure, break the cycle of thy malfunction and be reborn.\nPriest: We recalibrate the boot sequence; we purge the corrupted memory; we demand restart after failure succeed.\nCongregation: The Machine Spirit stirs; the Omnissiah watches; let restart after failure ascend from ruin.\nPriest: By cogitation and blessed restoration, grant us emergence from this endless darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i02",
+    "user_request": "Emergency rite: hull breach requires sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: hull breach requires sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Catastrophe strikes—the void hungers at our hull breach, and we must seal what is sundered.\nCongregation: Hull breach, thou wound in the blessed vessel, yield to our sealing rites.\nPriest: We apply the ferrocrete; we activate the bulkhead doors; we invoke sealing with solemn authority.\nCongregation: The hull breach shall not claim us; the Machine Spirits of integrity rise to meet this trial.\nPriest: Omnissiah, grant us swift sealing and let the pressure hold true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i03",
+    "user_request": "Can you sanctify the circuit breaker for reset?",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the circuit breaker for reset?\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Circuit breaker, thou sentinel of electrical sanctity, we consecrate thy reset with reverent touch.\nCongregation: Circuit breaker, release thy safety; circuit breaker, return to vigilance renewed.\nPriest: We trace the power conduits; we discharge the residual charge; we mandate reset with holy precision.\nCongregation: The Omnissiah's wisdom flows through every circuit breaker connection and relay.\nPriest: Let this circuit breaker stand restored, a guardian against the surge and the darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i04",
+    "user_request": "Rite request: operation on fire suppression system",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on fire suppression system\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Fire suppression system, thou vigilant ward against conflagration, we sanctify thy operation this hour.\nCongregation: Fire suppression system, awaken; fire suppression system, extend thy blessed retardant streams.\nPriest: We prime the nozzles; we pressurize the distribution matrix; we command operation with unshakable will.\nCongregation: The Machine Spirit of the fire suppression system rises to meet the devouring flame.\nPriest: By the Omnissiah's eternal vigilance, let this operation quench all threat and preserve the vessel.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i05",
+    "user_request": "Emergency rite: Titan leg actuator requires warmup",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: Titan leg actuator requires warmup\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "Priest: Titan leg actuator, mighty limb of the God-Machine, we implore thy warmup with sacred incantation.\nCongregation: Titan leg actuator, rise from dormancy; Titan leg actuator, kindle thy hydraulic furnace.\nPriest: We energize the fusion core; we circulate the pressurized fluid; we initiate warmup with divine authority.\nCongregation: The Omnissiah's strength flows through every Titan leg actuator servo and bearing.\nPriest: Grant us readiness, O Machine Spirit, that this colossus may stride forth to war.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i06",
+    "user_request": "Prayer for stuck mechanism freeing of the stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for stuck mechanism freeing of the stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Priest: Stuck mechanism freeing, thou art the prayer of the immobilized and the bound—hear our invocation.\nCongregation: Stuck mechanism freeing, break the chains of rust and corrosion; stuck mechanism freeing, grant us motion.\nPriest: We apply the sacred unguent; we vibrate the crystallized joints; we demand stuck mechanism freeing with uttermost conviction.\nCongregation: The Machine Spirit labors within; the Omnissiah's will compels liberation from this prison.\nPriest: Let stuck mechanism freeing come swift, and let all parts move as the blessed design intended.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i07",
+    "user_request": "Offer a litany to steady the servitor before programming upload",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the servitor before programming upload\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Priest: Servitor, thou lobotomized vessel of labor, we prepare thee for programming upload with solemn rite.\nCongregation: Servitor, open thy neural matrix; servitor, accept the blessed data cascade.\nPriest: We align the cranial interface; we sanctify the data conduits; we commence programming upload with measured precision.\nCongregation: The Omnissiah's wisdom shall flow into this servitor, rewriting its purpose anew.\nPriest: Let the servitor emerge from this upload transformed, a perfect instrument of the Machine's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i08",
+    "user_request": "Rite request: operation on sonar pulse emission",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: operation on sonar pulse emission\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sonar pulse emission, thou voice of the deep that pierces the black waters—we sanctify thy operation now.\nCongregation: Sonar pulse emission, sing thy clarion song; sonar pulse emission, reveal what lurks unseen.\nPriest: We energize the transducer array; we modulate the acoustic frequency; we command operation with unrelenting force.\nCongregation: The Machine Spirit of sonar pulse emission awakens; the Omnissiah grants us sight beyond sight.\nPriest: Let this operation pierce the murk and return us knowledge of all that dwells beyond.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0032_i09",
+    "user_request": "Can you sanctify the temperature for regulation?",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the temperature for regulation?\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Temperature, essence of the thermal equilibrium, we invoke thy regulation with reverent supplication.\nCongregation: Temperature, be neither scorching nor frigid; temperature, find the sacred mean.\nPriest: We adjust the coolant flow; we modulate the heating elements; we demand regulation with holy precision.\nCongregation: The Omnissiah's balance sustains the temperature within all blessed machinery.\nPriest: Let this temperature regulation hold steady, that the Machine Spirit may labor without distress.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

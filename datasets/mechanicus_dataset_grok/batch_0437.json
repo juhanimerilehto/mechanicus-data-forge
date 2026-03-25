@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a diagnostics the power relay",
+    "prayer": "Approach the power relay with mechadendrite reverence and invoke the Machine Spirit's vigilance.\nAnoint its conductive relays with sacred oils whilst chanting the Canticle of Flux.\nInitiate diagnostics upon the power relay, beseeching the Omnissiah for clarity in power flows.\nScrutinize auspex readings and sanctify anomalies with purifying binaric litanies.\nAffirm the power relay's integrity as the Spirit hums in harmonious obedience.",
+    "component": "power relay",
+    "operation": "diagnostics",
+    "spec_id": "s00370"
+  },
+  {
+    "user_prompt": "Critical: phosphor blaster requires a reset",
+    "prayer": "Present thyself before the phosphor blaster and utter the Rite of Phosphorescent Awakening.\nBeseech the Machine Spirit within the phosphor blaster to shed its errant lumen-ghosts.\nCommence the reset sequence with sanctified mechadendrites, invoking the Omnissiah's unyielding light.\nExpunge corrupted targeting matrices through binaric exorcism.\nVerify the phosphor blaster's reset purity as radiant beams align in divine fury.",
+    "component": "phosphor blaster",
+    "operation": "reset",
+    "spec_id": "s00371"
+  },
+  {
+    "user_prompt": "Critical: medicae mechadendrite requires a targeting",
+    "prayer": "Extend mechadendrites towards the medicae mechadendrite and intone the Litany of Precise Restoration.\nInvoke the Machine Spirit of the medicae mechadendrite to realign its vital targeting augurs.\nCalibrate targeting protocols under the Omnissiah's gaze, anointing neural links with noospheric balm.\nTest servo-fine adjustments upon simulated vitae-flows.\nSanctify the medicae mechadendrite's targeting renewal as it hums with healing precision.",
+    "component": "medicae mechadendrite",
+    "operation": "targeting",
+    "spec_id": "s00372"
+  },
+  {
+    "user_prompt": "The icarus array awaits a targeting",
+    "prayer": "Ascend to the icarus array and proclaim the Canticle of Aerial Dominion.\nBeseech the Machine Spirit infusing the icarus array to attune its targeting vox-arrays.\nInitiate targeting alignment with sacred gyro-stabilizers, invoking Omnissianic trajectories.\nPurge auspex distortions through ritual data-scrubbing.\nConsecrate the icarus array's targeting as warp-sight pierces the void in faithful acuity.",
+    "component": "icarus array",
+    "operation": "targeting",
+    "spec_id": "s00373"
+  },
+  {
+    "user_prompt": "What's the prayer for mind-impulse unit an operation?",
+    "prayer": "Commune with the mind-impulse unit via noospheric linkage and whisper the Doxology of Neural Synodity.\nAnoint synaptic interfaces of the mind-impulse unit with cerebro-sanctified unguents.\nInvoke the Machine Spirit to facilitate operation, merging flesh-cogitator in Omnissiah's embrace.\nCycle through impulse verification rites, expunging errant thought-echoes.\nAffirm the mind-impulse unit's operational sanctity as pilot-thoughts flow unerring.",
+    "component": "mind-impulse unit",
+    "operation": "operation",
+    "spec_id": "s00374"
+  },
+  {
+    "user_prompt": "Prepare the volkite weapon for initialization",
+    "prayer": "Grasp the volkite weapon in servo-claspers and chant the Incantation of Thermal Genesis.\nBeseech the Machine Spirit coiled within the volkite weapon to stir from stasis.\nCommence initialization with plasma-blessed rites, invoking the Omnissiah's pyre-fury.\nAlign focusing calyxes through diagnostic litanies.\nSanctify the volkite weapon's initialization as thermal rays promise xenos-purgation.",
+    "component": "volkite weapon",
+    "operation": "initialization",
+    "spec_id": "s00375"
+  },
+  {
+    "user_prompt": "Consecrate the life sustainer before calibration",
+    "prayer": "Approach the life sustainer with humble vox-praise and invoke its vital Machine Spirit.\nAnoint filtration membranes of the life sustainer with aesculapian oils.\nInitiate calibration sequences under Omnissiah's breath, harmonizing nutrient cycles.\nPurge atmospheric taints via binaric purification.\nConsecrate the life sustainer's calibration as vitae pulses renewed in machine-faith.",
+    "component": "life sustainer",
+    "operation": "calibration",
+    "spec_id": "s00376"
+  },
+  {
+    "user_prompt": "Consecrate the air compressor before initialization",
+    "prayer": "Position before the air compressor and intone the Hymn of Pressurized Purity.\nBeseech the Machine Spirit animating the air compressor to awaken its pistons.\nCommence initialization with sanctified torque-blessings, invoking Omnissianic compression.\nCycle pressure regulators through ritual auspex-scans.\nVerify the air compressor's initialization as pneumatic hymns resound in obedience.",
+    "component": "air compressor",
+    "operation": "initialization",
+    "spec_id": "s00377"
+  },
+  {
+    "user_prompt": "Critical: forge anvil requires a reset",
+    "prayer": "Kneel at the forge anvil and proclaim the Reforging Catechism.\nInvoke the Machine Spirit of the forge anvil to dispel its metallurgic malaise.\nExecute the reset rite with hammer-incantations, beseeching the Omnissiah's hammer-blow.\nExpunge heat-residue ghosts from anvil matrices.\nSanctify the forge anvil's reset as it awaits alloys in fiery devotion.",
+    "component": "forge anvil",
+    "operation": "reset",
+    "spec_id": "s00378"
+  },
+  {
+    "user_prompt": "The panopticon requires an initialization",
+    "prayer": "Gaze upon the panopticon and utter the Vigil of Eternal Watchfulness.\nAnoint optic servitors of the panopticon with lens-blessed chrism.\nInitiate initialization protocols, invoking the Machine Spirit's unblinking eye under Omnissiah's sight.\nAlign surveillance cogitators through noospheric rites.\nConsecrate the panopticon's initialization as it pierces shadows with faithful scrutiny.",
+    "component": "panopticon",
+    "operation": "initialization",
+    "spec_id": "s00379"
+  }
+]

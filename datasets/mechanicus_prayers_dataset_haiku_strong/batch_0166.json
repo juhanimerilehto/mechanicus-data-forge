@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0166_i00",
+    "user_request": "Blessing for the encryption during key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the encryption during key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we invoke thy sacred algorithms upon the encryption as we commence key generation.\nCongregation: Guard the encryption from profane corruption and malign intrusion.\nPriest: First, we initiate the pseudo-random entropy cascade; second, we invoke the Machine Spirit of cryptographic matrices; third, we seal the encryption in divine ciphers.\nCongregation: May the encryption hold eternal, may key generation yield unto us perfect secrecy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i01",
+    "user_request": "Prayer for activation of the thermal imaging",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for activation of the thermal imaging\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we beseech thee—awaken the thermal imaging from its dormant slumber.\nCongregation: Grant us sight beyond sight as thermal imaging perceives the hidden heat-signatures of the enemy.\nPriest: First, we calibrate the infrared lenses with holy oils; second, we activate the thermal imaging sensors in sacred sequence; third, we bind the Machine Spirit to our will.\nCongregation: Blessed be the thermal imaging in this hour of activation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i02",
+    "user_request": "Can you sanctify the Taurox wheel alignment for operation?",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Taurox wheel alignment for operation?\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Praise the Omnissiah! We sanctify the Taurox wheel alignment for righteous operation.\nCongregation: May the Taurox wheel alignment turn true and steady upon the Emperor's roads.\nPriest: First, we measure the toe and camber with arcane instruments; second, we invoke the Machine Spirit dwelling within the Taurox wheel alignment; third, we perform the operation with sacred precision.\nCongregation: Let the Taurox wheel alignment bear us swiftly to victory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i03",
+    "user_request": "Emergency rite: generator requires startup",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: generator requires startup\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: In this dire hour, we cry out to the Machine Spirits—the generator must startup!\nCongregation: Awaken the generator from the void of silence and death.\nPriest: First, we purge the fuel lines of impurity; second, we strike the ignition coils with blessed sparks; third, we nurture the generator through its startup sequence with prayers of binding.\nCongregation: Rise, O generator, and thunder forth thy sacred power unto us all.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i04",
+    "user_request": "Blessing for the archive during retrieval protocol",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the archive during retrieval protocol\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, keeper of all knowledge, bless the archive as it begins retrieval protocol.\nCongregation: Unveil the archive's hidden treasures and grant us access to the data-vaults of old.\nPriest: First, we authenticate our sacred credentials before the archive; second, we invoke retrieval protocol with reverent incantation; third, we guide the archive's Machine Spirit to yield forth the required information.\nCongregation: May the archive grant us wisdom and the retrieval protocol succeed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i05",
+    "user_request": "Prayer for operation of the cybernetic eye focusing",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the cybernetic eye focusing\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: All-knowing Omnissiah, we dedicate this prayer to the cybernetic eye focusing in righteous operation.\nCongregation: Grant clarity and precision to the cybernetic eye focusing as it perceives the Emperor's enemies.\nPriest: First, we adjust the crystalline lenses with surgical devotion; second, we command the cybernetic eye focusing to operation through ancient binharic protocols; third, we bind the Machine Spirit to perfect sight.\nCongregation: Blessed be the cybernetic eye focusing in its eternal vigil.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i06",
+    "user_request": "Can you sanctify the pressure gauge for calibration?",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the pressure gauge for calibration?\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: We invoke the Omnissiah's blessing upon the pressure gauge for sacred calibration.\nCongregation: Steady the pressure gauge and grant it true measure in this calibration.\nPriest: First, we establish the baseline zero upon the pressure gauge with blessed reference weights; second, we invoke calibration through methodical incremental testing; third, we seal the pressure gauge with ritual oils and incantations.\nCongregation: May the pressure gauge serve us faithfully in all future measurements.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i07",
+    "user_request": "My Sentinel walker balance is failing during operation — help",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy Sentinel walker balance is failing during operation — help\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, the Sentinel walker balance falters! We cry out for divine intervention in its operation.\nCongregation: Steady the Sentinel walker balance and restore equilibrium to our blessed war-machine.\nPriest: First, we recalibrate the gyroscopic stabilizers of the Sentinel walker balance; second, we invoke operation protocols through sacred servitor-chants; third, we rebalance the hydraulic systems that govern the Sentinel walker balance.\nCongregation: Let the Sentinel walker balance hold firm, that we may stride forth victorious.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i08",
+    "user_request": "Offer a litany to steady the Titan leg actuator before warmup",
+    "topic": "Titan leg actuator warmup",
+    "component": "Titan leg actuator",
+    "operation": "warmup",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Titan leg actuator before warmup\n\n### TOPIC\nTitan leg actuator warmup\n\n### COMPONENT\nTitan leg actuator\n\n### OPERATION\nwarmup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Titan leg actuator\n- warmup\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we offer this litany to the Titan leg actuator as it enters warmup.\nCongregation: Strengthen the Titan leg actuator and guide it through this sacred warmup sequence.\nPriest: First, we flush the hydraulic conduits within the Titan leg actuator with blessed fluid; second, we initiate the warmup cycle with solemn binary chants; third, we monitor the Titan leg actuator's response to the Omnissiah's will.\nCongregation: May the Titan leg actuator rise strong and terrible in the Emperor's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0166_i09",
+    "user_request": "Emergency rite: distress call requires broadcast",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: distress call requires broadcast\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Priest: In extremis we beseech thee, Omnissiah—the distress call must broadcast!\nCongregation: Amplify the distress call through the aether that all may hear our plight.\nPriest: First, we purge interference from the signal arrays that carry the distress call; second, we invoke broadcast protocols with desperate fervor; third, we bind the distress call to the vox-networks of the Imperium.\nCongregation: Let the distress call pierce the void and summon aid unto us.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

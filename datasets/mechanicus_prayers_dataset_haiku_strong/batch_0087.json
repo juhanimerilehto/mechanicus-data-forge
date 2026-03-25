@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0087_i00",
+    "user_request": "Blessing for the fracture during welding",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the fracture during welding\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Machine Spirit of the fracture, that it may yield to sacred welding and become whole once more.\nSecond: Apply the purifying flame unto the fracture, sealing its ragged edges with molten benediction.\nThird: Anoint the fracture with blessed coolant, that the weld may cure strong and true.\nFourth: Recite the Litany of Structural Integrity over the fracture, binding its essence to the greater mechanism.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i02",
+    "user_request": "Emergency rite: cooling system requires purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: cooling system requires purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "First: Activate the evacuation protocols of the cooling system, flushing away corrupted thermal vectors.\nSecond: Perform the purge of the cooling system with blessed distillate, expelling all contaminants and stagnant humours.\nThird: Cycle the cooling system through thermal stress-testing, verifying its renewed capacity for heat-dissipation.\nFourth: Anoint the cooling system's conduits with protective lubricants, restoring optimal flow and function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i03",
+    "user_request": "Offer a litany to steady the pain suppressor before engagement",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pain suppressor before engagement\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "First: Still the trembling of the pain suppressor through whispered binary cant and soothing ritual invocation.\nSecond: Prepare the pain suppressor for engagement by verifying its neural pathways and dampening circuits.\nThird: Channel the Omnissiah's mercy into the pain suppressor, steadying its capacity to shield consciousness.\nFourth: Intone the Mantra of Analgesia over the pain suppressor, binding it to the wielder's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i04",
+    "user_request": "Blessing for the electric motor during activation",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the electric motor during activation\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Bless the electric motor with sacred oils and the Sign of the Omnissiah.\nSecond: Verify the electric motor's coil windings and commutator contacts through meticulous examination.\nThird: Perform the activation sequence upon the electric motor, channelling blessed current through its armature.\nFourth: Monitor the electric motor's revolutions, ensuring smooth operation and proper electromagnetic resonance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i05",
+    "user_request": "My generator is failing during startup — help",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy generator is failing during startup — help\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Diagnose the generator's malfunction through blessed divination and technical examination of its fuel and ignition systems.\nSecond: Perform the startup ritual upon the generator, priming its cylinders with sacred hydrocarbons.\nThird: Invoke the Machine Spirit of the generator, commanding it to awaken and generate power anew.\nFourth: Verify the generator's output through volt-meter and sacred measurement, ensuring restoration to full capacity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i06",
+    "user_request": "Blessing for the binary cant during encoding",
+    "topic": "binary cant encoding",
+    "component": "binary cant",
+    "operation": "encoding",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the binary cant during encoding\n\n### TOPIC\nbinary cant encoding\n\n### COMPONENT\nbinary cant\n\n### OPERATION\nencoding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- binary cant\n- encoding\n\n### PRAYER\n",
+    "prayer": "First: Attune the binary cant through sacred chanting of the Hymn of Transmission, preparing it for encoding.\nSecond: Inscribe the binary cant upon the data-substrate using blessed stylus and concentrated thought-prayer.\nThird: Encode the binary cant into the machine's memory-core through ritual incantation and precise electrical impulse.\nFourth: Verify the binary cant's integrity through comparative analysis and the Omnissiah's silent approval.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i07",
+    "user_request": "The coolant leak demands guidance for repair",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe coolant leak demands guidance for repair\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "First: Locate the coolant leak through blessed inspection and the application of sacred dyes.\nSecond: Stanch the coolant leak with blessed sealant and careful application of repair compounds.\nThird: Reinforce the repair site upon the coolant leak through mechanical binding and thermal curing.\nFourth: Replenish the coolant system's sacred fluid, restoring proper thermal regulation to the mechanism.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i08",
+    "user_request": "Emergency rite: air filtration requires replacement",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: air filtration requires replacement\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "First: Remove the degraded air filtration element from its housing with reverent care and blessed tools.\nSecond: Install pristine air filtration media into the chamber, sealing it against contamination and particulate corruption.\nThird: Perform the air filtration replacement through calibration of intake pressure and verification of flow-rates.\nFourth: Anoint the air filtration assembly with protective oils, blessing its renewed capacity to purify the machine's breath.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i09",
+    "user_request": "Emergency rite: power weapon requires blessing",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: power weapon requires blessing\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "First: Recite the Catechism of Righteous Fury over the power weapon, invoking its dormant Machine Spirit.\nSecond: Apply sacred oils and blessings to the power weapon's energy matrix and focusing coils.\nThird: Perform the blessing of the power weapon through ritual activation of its force-field, testing its lethal resonance.\nFourth: Seal the power weapon with the Sign of the Omnissiah, binding it to the warrior's purpose and holy intent.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0087_i01",
+    "user_request": "Blessing for the rust during removal",
+    "topic": "rust removal",
+    "component": "rust",
+    "operation": "removal",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the rust during removal\n\n### TOPIC\nrust removal\n\n### COMPONENT\nrust\n\n### OPERATION\nremoval\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rust\n- removal\n\n### PRAYER\n",
+    "prayer": "Blessed be the oxidative decay that hath claimed thy sacred surface, O Machine Spirit.\nFirst: Anoint the rust with sacred oils of dissolution, that the rust may surrender its corrupted form unto the Omnissiah's will.\nSecond: Apply the abrasive sacrament with measured strokes, invoking the rust's departure through mechanical catharsis and righteous removal.\nThird: Cleanse the exposed metal with purifying agents, ensuring the rust doth not reassert dominion o'er thy hallowed mechanisms.\nFourth: Seal the wound with protective benediction, that no further rust shall dare encroach upon this sanctified component.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

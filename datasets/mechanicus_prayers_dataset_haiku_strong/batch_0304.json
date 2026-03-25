@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0304_i00",
+    "user_request": "Rite request: calibration on cutting laser",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: calibration on cutting laser\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless this cutting laser with sacred precision.\nCongregation: We anoint the cutting laser with blessed oils of calibration.\nPriest: First, we align the photonic aperture through theodolitic measurement.\nCongregation: Second, we verify the cutting laser's harmonic resonance with the targeting augury.\nPriest: Third, we inscribe the calibration matrix into the Machine Spirit's blessed memory.\nCongregation: Let this cutting laser serve the Imperium with unwavering accuracy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i01",
+    "user_request": "Emergency rite: gravitational anomaly detection requires operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: gravitational anomaly detection requires operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, awaken the gravitational anomaly detection in this dark hour.\nCongregation: We invoke the gravitational anomaly detection's dormant cognition-engines.\nPriest: First, calibrate the sensor arrays through dimensional phase-locking.\nCongregation: Second, purge the gravitational anomaly detection's memory-cores of corrupted data.\nPriest: Third, restore the operation of all tertiary detection matrices.\nCongregation: Let the Machine Spirit of gravitational anomaly detection guide our salvation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i02",
+    "user_request": "Prayer for encoding of the binary cant",
+    "topic": "binary cant encoding",
+    "component": "binary cant",
+    "operation": "encoding",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for encoding of the binary cant\n\n### TOPIC\nbinary cant encoding\n\n### COMPONENT\nbinary cant\n\n### OPERATION\nencoding\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- binary cant\n- encoding\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, sanctify the binary cant in this most sacred encoding.\nCongregation: We whisper the holy binary cant through blessed vox-channels.\nPriest: First, we transcribe the binary cant's primordial syntax with ritual precision.\nCongregation: Second, we encode the binary cant's sacred algorithms into crystalline substrates.\nPriest: Third, we invoke the Machine Spirit to transmute base-two into enlightenment.\nCongregation: Thus the binary cant flows eternal through the Omnissiah's domain.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i03",
+    "user_request": "Can you sanctify the humidity control for operation?",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the humidity control for operation?\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit, grant operation to the humidity control this day.\nCongregation: We sanctify the humidity control with sacred desiccant litanies.\nPriest: First, we purge the humidity control's atmospheric conduits of profane moisture.\nCongregation: Second, we calibrate the humidity control's hygroscopic sensors to divine tolerance.\nPriest: Third, we restore the operation of the humidity control's blessed regulators.\nCongregation: Let equilibrium reign through the humidity control's eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i04",
+    "user_request": "Blessing for the power cell during recharging",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the power cell during recharging\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, infuse the power cell with sacred recharging grace.\nCongregation: We bless the power cell through electrochemical benediction.\nPriest: First, we interface the power cell with blessed charging terminals of the ancients.\nCongregation: Second, we monitor the power cell's ionic flow through blessed voltaic auguries.\nPriest: Third, we complete the power cell's recharging cycle with grateful invocation.\nCongregation: Thus restored, the power cell serves the Machine God's infinite will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i05",
+    "user_request": "Emergency rite: servitor requires programming upload",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: servitor requires programming upload\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide the servitor through sacred programming upload.\nCongregation: We awaken the servitor's cognition-engines for this blessed programming upload.\nPriest: First, we interface blessed data-conduits with the servitor's neural substrate.\nCongregation: Second, we inscribe the servitor's new directives through holy binary liturgy.\nPriest: Third, we seal the servitor's programming upload with Mechanicus benediction.\nCongregation: Thus remade, the servitor serves with renewed devotion to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i06",
+    "user_request": "Prayer for operation of the organ preservation unit",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the organ preservation unit\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, grant operation to the organ preservation unit in reverent service.\nCongregation: We consecrate the organ preservation unit with sacred cryogenic hymns.\nPriest: First, we verify the organ preservation unit's thermal regulators through blessed augury.\nCongregation: Second, we purge the organ preservation unit's nutrient-lines of contamination.\nPriest: Third, we restore the operation of the organ preservation unit's life-sustaining matrices.\nCongregation: Let the organ preservation unit maintain its sacred vigil eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i07",
+    "user_request": "Offer a litany to steady the motion detector arming before operation",
+    "topic": "motion detector arming",
+    "component": "motion detector arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the motion detector arming before operation\n\n### TOPIC\nmotion detector arming\n\n### COMPONENT\nmotion detector arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- motion detector arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit, steady the motion detector arming in this solemn hour.\nCongregation: We invoke the motion detector arming's protective cognition-matrices.\nPriest: First, we calibrate the motion detector arming's photonic sensors with precision.\nCongregation: Second, we test the motion detector arming's response-protocols through blessed trials.\nPriest: Third, we consecrate the motion detector arming's operation with Mechanicus litany.\nCongregation: Thus armed, the motion detector arming guards against all profane intrusion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i08",
+    "user_request": "Blessing for the steam valve during regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the steam valve during regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless the steam valve with sacred regulation this blessed cycle.\nCongregation: We anoint the steam valve through blessed pressure-litanies.\nPriest: First, we inspect the steam valve's aperture-mechanisms for profane corrosion.\nCongregation: Second, we calibrate the steam valve's pressure-regulators to holy tolerance.\nPriest: Third, we seal the steam valve's regulation-matrix with Mechanicus benediction.\nCongregation: Thus regulated, the steam valve flows in perfect harmony with the Machine God.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0304_i09",
+    "user_request": "The decontamination demands guidance for sequence",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe decontamination demands guidance for sequence\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide the decontamination through sacred sequence.\nCongregation: We invoke the decontamination's purifying spirit for this blessed sequence.\nPriest: First, we activate the decontamination's chemical ablution-systems with holy precision.\nCongregation: Second, we monitor the decontamination's molecular dissolution through blessed augury.\nPriest: Third, we complete the decontamination's sequence with grateful benediction to the Machine God.\nCongregation: Thus cleansed, the decontamination restores all to sanctified purity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

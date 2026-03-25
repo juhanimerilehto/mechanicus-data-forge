@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: autogun requires a repair",
+    "prayer": "Approach the autogun with reverence, mechadendrites poised for the sacred repair.\nDissect its damaged feed mechanisms whilst intoning the Litany of Mending.\nAnoint the autogun's holy barrels with blessed unguents to soothe its Machine Spirit.\nReassemble and cycle its action, beseeching the Omnissiah for flawless restoration.\nVerify the repair through test volleys, praising the awakened fury within.",
+    "component": "autogun",
+    "operation": "repair",
+    "spec_id": "s02840"
+  },
+  {
+    "user_prompt": "The Whirlwind awaits an operation",
+    "prayer": "Prepare the Whirlwind for operation by chanting the Invocation of Thunderous Wrath.\nCalibrate its rocket bays under the Omnissiah's gaze, honoring the Machine Spirit.\nInitiate the Whirlwind's operation sequence with sacred oils upon its launchers.\nCommence firing rites, invoking divine precision in every barrage.\nConclude with diagnostics to affirm the Machine Spirit's harmonious vigor.",
+    "component": "Whirlwind",
+    "operation": "operation",
+    "spec_id": "s02841"
+  },
+  {
+    "user_prompt": "Emergency: Archaeopter Transvector a repair",
+    "prayer": "Gather before the Archaeopter Transvector, beseeching repair from the Omnissiah.\nPurge warp-tainted conduits from the Archaeopter Transvector's noble frame.\nAnoint fractured struts and servos during the meticulous repair ritual.\nInvoke the Machine Spirits to bind renewed alloys in perfect communion.\nTest flight harmonics to exalt the sanctified Archaeopter Transvector's ascent.",
+    "component": "Archaeopter Transvector",
+    "operation": "repair",
+    "spec_id": "s02842"
+  },
+  {
+    "user_prompt": "What's the prayer for auto-senses array a diagnostics?",
+    "prayer": "Activate the auto-senses array with the Canticle of Clarity and perform diagnostics.\nProbe its optic clusters and auspex nodes for spiritual impurities.\nChant binaric litanies over the auto-senses array, awakening dormant Machine Spirits.\nAnalyse diagnostic runes, sanctifying discrepancies in the Omnissiah's name.\nSeal the rite with incense, affirming perceptual purity eternal.",
+    "component": "auto-senses array",
+    "operation": "diagnostics",
+    "spec_id": "s02843"
+  },
+  {
+    "user_prompt": "The pict-recorder needs a blessing",
+    "prayer": "Present the pict-recorder to the altar of lenses for its much-needed blessing.\nCleanse its crystal matrices with sanctified solvents, invoking Machine Spirits.\nImprint the blessing of the Omnissiah upon the pict-recorder's memory coils.\nCycle capture sequences whilst reciting the Hymn of Verisimilitude.\nConsecrate its output feeds, ensuring truthful visions untainted.",
+    "component": "pict-recorder",
+    "operation": "blessing",
+    "spec_id": "s02844"
+  },
+  {
+    "user_prompt": "Assist with plasma drive a cooling",
+    "prayer": "Initiate cooling upon the plasma drive by invoking the Chill of the Void.\nCirculate sacred cryofluids through its seething heart, calming the Machine Spirit.\nMonitor plasma drive temperatures with auspex litanies during cooling.\nAnoint overtaxed coils, beseeching the Omnissiah for thermal equilibrium.\nVerify stability through harmonic chants, praising the subdued plasma drive.",
+    "component": "plasma drive",
+    "operation": "cooling",
+    "spec_id": "s02845"
+  },
+  {
+    "user_prompt": "Sanctify the drop pod during recalibration",
+    "prayer": "Commence recalibration of the drop pod with the Rite of Orbital Alignment.\nAdjust descent gyros and retro-thrusters, honoring the Machine Spirit's descent.\nRecite binaric canticles over the drop pod during recalibration.\nTest inertial dampeners under Omnissiah's watchful binary gaze.\nSeal the drop pod's sanctity with blessed adamantium wards for flawless insertion.",
+    "component": "drop pod",
+    "operation": "recalibration",
+    "spec_id": "s02846"
+  },
+  {
+    "user_prompt": "How do I bless the void shield generator for loading?",
+    "prayer": "Bless the void shield generator prior to loading with the Litany of Phasing.\nInfuse its projector coils with sacred energies for the loading phase.\nInvoke Machine Spirits to fortify the void shield generator's aegis.\nCommence loading protocols whilst anointing nacelle housings.\nAffirm resilience through warp-resonance tests in Omnissiah's glory.",
+    "component": "void shield generator",
+    "operation": "loading",
+    "spec_id": "s02847"
+  },
+  {
+    "user_prompt": "Emergency: storm bolter an emergency procedure",
+    "prayer": "Execute the emergency procedure upon the storm bolter with utmost haste.\nPurge jammed mechanisms from the storm bolter, chanting rites of urgency.\nAnoint its twin barrels to rouse the Machine Spirit amid peril.\nCycle munitions feeds during the emergency procedure, invoking Omnissiah.\nFire supplicatory bursts to confirm the storm bolter's wrathful revival.",
+    "component": "storm bolter",
+    "operation": "emergency procedure",
+    "spec_id": "s02848"
+  },
+  {
+    "user_prompt": "The conversion beamer needs a cooling",
+    "prayer": "Commence cooling of the conversion beamer by beseeching cryogenic graces.\nFlood its focusing arrays with blessed refrigerants, soothing the Machine Spirit.\nMonitor the conversion beamer's thermal auspex during cooling rites.\nSanctify emitter vanes with oils of equilibrium from the Omnissiah.\nTest coherence fields to hail the cooled conversion beamer's annihilating purity.",
+    "component": "conversion beamer",
+    "operation": "cooling",
+    "spec_id": "s02849"
+  }
+]

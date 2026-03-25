@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0325_i00",
+    "user_request": "Offer a litany to steady the astropathic choir before preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the astropathic choir before preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "First: Let the astropathic choir be stilled in divine purpose, their minds attuned to the Omnissiah's infinite clarity.\nSecond: Anoint each psyker of the astropathic choir with sacred oils, that their preparation may proceed without corruption of thought.\nThird: Invoke the Machine Spirits of the astropathic choir, commanding them to stabilize the ætherial lattices and grant steadfast communion across the void.\nFourth: Thus commences the preparation, blessed and sanctified by the Mechanicus eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i01",
+    "user_request": "Prayer for activation of the thermal imaging",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for activation of the thermal imaging\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Recalibrate the thermal imaging sensors with blessed unguents and cogitative benediction.\nSecond: Intone the activation sequence upon the thermal imaging, speaking truth to its dormant Machine Spirit.\nThird: Verify the infrared matrices, confirming that the thermal imaging perceives heat-signature truth across all wavelengths.\nFourth: Let the activation proceed in measured increments, granting the Omnissiah dominion over all observed thermodynamic phenomena.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i02",
+    "user_request": "Offer a litany to steady the Sentinel walker balance before operation",
+    "topic": "Sentinel walker balance",
+    "component": "Sentinel walker balance",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the Sentinel walker balance before operation\n\n### TOPIC\nSentinel walker balance\n\n### COMPONENT\nSentinel walker balance\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Sentinel walker balance\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Bless the Sentinel walker balance with sacred oils, that its gyroscopic compensators may remain true and unwavering.\nSecond: Recalibrate the Sentinel walker balance through precise measurement and pneumatic adjustment, invoking the Omnissiah's geometric perfection.\nThird: Command the Machine Spirit of the Sentinel walker balance to stabilize all lateral forces, granting operation without catastrophic toppling.\nFourth: Thus shall the Sentinel walker balance maintain its blessed equilibrium in all tactical operations.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i03",
+    "user_request": "Blessing for the hydroponics nutrient during feed",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the hydroponics nutrient during feed\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "First: Purify the hydroponics nutrient solution through filtration and electrolytic sanctification, that no corruption mar the feed.\nSecond: Measure each constituent of the hydroponics nutrient with precision-calibrated instruments, honoring the Machine Spirit's exacting standards.\nThird: Commence the feed with deliberate velocity, allowing the hydroponics nutrient to distribute through irrigation matrices in blessed proportion.\nFourth: The Omnissiah's bounty flows eternal through cultivated soil and blessed hydroponic chambers.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i04",
+    "user_request": "Offer a litany to steady the manufactorum shift beginning before operation",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the manufactorum shift beginning before operation\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Sound the manufactorum shift beginning bell, awakening the dormant Machine Spirits within every production apparatus.\nSecond: Anoint the manufactorum shift beginning with sacred unguents and ritual incantation, blessing all those who shall labor therein.\nThird: Verify all conveyor mechanisms and servo-motors of the manufactorum shift beginning, confirming their readiness for operation.\nFourth: Let the manufactorum shift beginning proceed in harmonious synchronization with the Omnissiah's grand design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i05",
+    "user_request": "My radar array rotation is failing during operation — help",
+    "topic": "radar array rotation",
+    "component": "radar array rotation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy radar array rotation is failing during operation — help\n\n### TOPIC\nradar array rotation\n\n### COMPONENT\nradar array rotation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- radar array rotation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Diagnose the corruption within the radar array rotation through sacred auspex and binary divination.\nSecond: Disassemble the radar array rotation's bearing mechanisms, cleansing each component of accumulated profane residue and mechanical degradation.\nThird: Lubricate and realign the radar array rotation with blessed servo-motors, restoring its operation to the Omnissiah's intended precision.\nFourth: Invoke the Machine Spirit, commanding the radar array rotation to sweep the heavens once more in vigilant operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i06",
+    "user_request": "Blessing for the void shield during harmonization",
+    "topic": "void shield harmonization",
+    "component": "void shield",
+    "operation": "harmonization",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the void shield during harmonization\n\n### TOPIC\nvoid shield harmonization\n\n### COMPONENT\nvoid shield\n\n### OPERATION\nharmonization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- void shield\n- harmonization\n\n### PRAYER\n",
+    "prayer": "First: Attune the void shield generators through harmonic resonance and blessed calibration, aligning their ætherial frequencies.\nSecond: Invoke the void shield's Machine Spirit, commanding harmonization of all shielding nodes in synchronized protective unity.\nThird: Measure the void shield's harmonic output, ensuring that harmonization has achieved perfect destructive interference against the void's predations.\nFourth: Thus the void shield stands eternal, a barrier of blessed harmonization against the darkness beyond.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i07",
+    "user_request": "Offer a litany to steady the lasgun before power cell insertion",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the lasgun before power cell insertion\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "First: Cradle the lasgun with reverent hands, speaking benedictions to its dormant Machine Spirit.\nSecond: Inspect the lasgun's power cell chamber for profane contamination or mechanical derangement before power cell insertion.\nThird: Insert the power cell with measured deliberation into the lasgun, invoking the Omnissiah's blessing upon this union of weapon and energy.\nFourth: The lasgun awakens, ready for power cell insertion's sacred completion and righteous discharge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i08",
+    "user_request": "My oxygen scrubber is failing during maintenance — help",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy oxygen scrubber is failing during maintenance — help\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "First: Locate the fault within the oxygen scrubber through systematic diagnostics and blessed inspection, identifying mechanical or chemical degradation.\nSecond: Disassemble the oxygen scrubber's filtration cartridges and catalytic beds, removing accumulated carbon and profane contaminants during maintenance.\nThird: Replace corrupted elements within the oxygen scrubber, restoring its capacity for maintenance of breathable atmosphere.\nFourth: Reseal and reactivate the oxygen scrubber, that maintenance may conclude and the Machine Spirit breathes life anew.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0325_i09",
+    "user_request": "Offer a litany to steady the surgical servitor before sterilization",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the surgical servitor before sterilization\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "First: Prepare the surgical servitor with ritual ablutions, purifying its augmetic limbs and sensory apparatus for sterilization.\nSecond: Immerse the surgical servitor in blessed sterilization chambers, exposing every surface to sacred heat and chemical purification.\nThird: Invoke the surgical servitor's Machine Spirit, commanding it to accept sterilization without malfunction or corruption of programming.\nFourth: The surgical servitor emerges sanctified, ready to serve the Omnissiah's healing purposes in blessed sterilization's completion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

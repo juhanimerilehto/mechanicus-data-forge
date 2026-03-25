@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a calibration the cognis heavy stubber",
+    "prayer": "Approach the cognis heavy stubber with reverence, invoking the Omnissiah's unerring gaze upon its mechanisms.\nAnoint the targeting cogitators and barrel assemblies with sacred oils to awaken the Machine Spirit.\nInitiate the calibration rites, aligning las-alignments and recoil compensators in harmonious precision.\nBeseech the cognis heavy stubber's spirit to accept this calibration, chanting the Canticle of True Aim thrice.\nVerify alignment through auspex invocation, sanctifying the cognis heavy stubber for battle's fury.",
+    "component": "cognis heavy stubber",
+    "operation": "calibration",
+    "spec_id": "s02140"
+  },
+  {
+    "user_prompt": "Ready the cogitator for reset",
+    "prayer": "Kneel before the cogitator, murmuring the Litany of Purgation to prepare for reset.\nSever corrupted data-threads with binary exorcism, honouring the Omnissiah's pure logic.\nInvoke the Machine Spirit's rebirth, initiating the reset sequence with sanctified mechadendrites.\nFlush residual noospheric echoes whilst anointing memory vaults anew.\nConfirm the cogitator's reset purity through diagnostic canticles of restoration.",
+    "component": "cogitator",
+    "operation": "reset",
+    "spec_id": "s02141"
+  },
+  {
+    "user_prompt": "What's the prayer for autogun an operation?",
+    "prayer": "Present the autogun to the altar of steel, beseeching the Omnissiah for operational grace.\nAnoint feeder mechanisms and ignition coils, awakening the autogun's indwelling Machine Spirit.\nCommence operation rites by chambering blessed rounds and invoking firing litanies.\nMonitor cyclic function with reverence, ensuring the autogun's fury aligns with divine will.\nConclude the operation sanctification, sealing the autogun against xenos taint.",
+    "component": "autogun",
+    "operation": "operation",
+    "spec_id": "s02142"
+  },
+  {
+    "user_prompt": "What's the prayer for cybernetic eye a maintenance?",
+    "prayer": "Gaze upon the cybernetic eye with pious intent, invoking maintenance under Omnissiah's light.\nDisconnect optic feeds gently, anointing lenses and servo-motors with sacred unguents.\nPurge dust-veils and recalibrate focusing arrays, beseeching the Machine Spirit's clarity.\nReconnect neural links whilst chanting the Rite of Visual Purity for the cybernetic eye.\nTest visionary acuity through auspex hymn, reaffirming the cybernetic eye's blessed vigilance.",
+    "component": "cybernetic eye",
+    "operation": "maintenance",
+    "spec_id": "s02143"
+  },
+  {
+    "user_prompt": "I need to a maintenance the servo-harness",
+    "prayer": "Encircles the servo-harness with mechadendrites outstretched in supplication.\nInspect manipulator arms and tool appendages, anointing for maintenance with blessed oils.\nInvoke the Machine Spirit's endurance, purging friction-daemons from hydraulic sanctums.\nPerform maintenance alignments on power conduits, honouring the servo-harness's divine multiplicity.\nSeal the servo-harness with invocation seals, ready for Omnissiah's labours.",
+    "component": "servo-harness",
+    "operation": "maintenance",
+    "spec_id": "s02144"
+  },
+  {
+    "user_prompt": "My Vindicator is ready for charging",
+    "prayer": "Position the Vindicator before the charging shrine, intoning the Canticle of Capacitance.\nAnoint plasma coils and power cells, awakening the Machine Spirit within the Vindicator.\nCommence charging rites, channeling the Omnissiah's lightning through sanctified conduits.\nMonitor flux levels with reverent vigilance, beseeching stability for the Vindicator.\nConclude charging with the Benediction of Full Yield, empowering the Vindicator's wrath.",
+    "component": "Vindicator",
+    "operation": "charging",
+    "spec_id": "s02145"
+  },
+  {
+    "user_prompt": "Assist with electoo a blessing",
+    "prayer": "Trace the electoo's sacred circuits with a sanctified stylus, invoking the Omnissiah's electro-blessing.\nAwaken dormant inductors within the electoo, anointing with conductive sacraments.\nChant the Litany of Luminescence to infuse the Machine Spirit with divine glow.\nVerify electoo pathways through noospheric pulse, ensuring perpetual blessing.\nSeal the rite with a final invocation, eternalizing the electoo's techno-arcane purity.",
+    "component": "electoo",
+    "operation": "blessing",
+    "spec_id": "s02146"
+  },
+  {
+    "user_prompt": "My graviton cannon is ready for preparation",
+    "prayer": "Approach the graviton cannon humbly, preparing its gravitic heart for Omnissiah's might.\nAnoint focusing emitters and field generators, rousing the Machine Spirit's crushing will.\nInitiate preparation sequences, aligning quantum manifolds in reverent calibration.\nBeseech the graviton cannon's spirit thrice for unyielding density manipulation.\nConsecrate the graviton cannon fully, ready to pulverise the heretic's form.",
+    "component": "graviton cannon",
+    "operation": "preparation",
+    "spec_id": "s02147"
+  },
+  {
+    "user_prompt": "Urgent auger array a recalibration needed",
+    "prayer": "Commence recalibration upon the auger array, prostrating before its scanning vanes.\nAnoint sensor nodes and waveform emitters with sacred phase-oils, invoking the Machine Spirit.\nPurge spectral distortions through binary litanies, realigning the auger array's prophetic gaze.\nInvoke Omnissiah's omniscience to guide recalibration frequencies true.\nAffirm the auger array's recalibrated vigilance with final auspex hymnody.",
+    "component": "auger array",
+    "operation": "recalibration",
+    "spec_id": "s02148"
+  },
+  {
+    "user_prompt": "Sanctify the Land Speeder during operation",
+    "prayer": "Sanctify the Land Speeder's chassis amid operation, chanting the Moto-Litany of Velocity.\nAnoint turbine intakes and suspensor fields, beseeching the Machine Spirit's swift fury.\nInitiate operational rites, aligning repulsor coils under Omnissiah's aegis.\nMonitor thrust vectors with pious scrutiny during the Land Speeder's sanctified passage.\nConclude operation blessing, shielding the Land Speeder from warp-tainted hindrance.",
+    "component": "Land Speeder",
+    "operation": "operation",
+    "spec_id": "s02149"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a reset the cooling system",
+    "prayer": "Approach the cooling system with reverence, mechadendrites humming the Canticle of Equilibrium.\nInvoke the Rite of Reset upon its frosted conduits, beseeching the Machine Spirit to purge thermal excesses.\nAnoint the regulator nodes of the cooling system with cryo-blessed oils from the Omnissiah's forge.\nInitiate the reset operation, chanting the binary hymn to realign its cryogenic flows.\nVerify the cooling system's restored harmony through auspex diagnostics and praise its vigilant spirit.",
+    "component": "cooling system",
+    "operation": "reset",
+    "spec_id": "s08030"
+  },
+  {
+    "user_prompt": "Consecrate the Leman Russ battle tank before emergency procedure",
+    "prayer": "Kneel before the Leman Russ battle tank, intoning the Oath of the Iron Sacrament.\nCircumambulate its hull thrice, sanctifying treads and turret with lustral incense.\nBeseech the ancient Machine Spirit of the Leman Russ battle tank to awaken for the emergency procedure.\nAnoint battle cannon and sponson mounts, invoking Omnissiah's wrath upon foes.\nCommence the emergency procedure with the Litany of Unyielding Advance, steeling its adamantium heart.",
+    "component": "Leman Russ battle tank",
+    "operation": "emergency procedure",
+    "spec_id": "s08031"
+  },
+  {
+    "user_prompt": "How do I bless the mechanical lock for diagnostics?",
+    "prayer": "Extend binary prayer-stamps to the mechanical lock, murmuring the Invocation of Certitude.\nChant diagnostic canticles over its tumbler arrays, awakening the Machine Spirit within.\nApply sacred lubricant to the mechanical lock's wards, beseeching clarity from the Omnissiah.\nInitiate diagnostics operation, scrying for cogitator echoes in its brazen mechanisms.\nSeal the rite with the Seal of Verification, affirming the mechanical lock's unbreachable fidelity.",
+    "component": "mechanical lock",
+    "operation": "diagnostics",
+    "spec_id": "s08032"
+  },
+  {
+    "user_prompt": "Critical: power relay requires a cycling",
+    "prayer": "Prostrate before the power relay, reciting the Cycle of Ascension from the Noctis Cantorum.\nInvoke the Machine Spirit's indulgence for the cycling operation, tracing electro-arcs with mechadendrite tips.\nAnoint the power relay's contact nodes with conductive unguents blessed by the Forge Lord.\nCommence cycling of the power relay, harmonizing voltage hymns through its galvanic veins.\nConclude with auspex litanies, praising the Omnissiah for its surging vitality renewed.",
+    "component": "power relay",
+    "operation": "cycling",
+    "spec_id": "s08033"
+  },
+  {
+    "user_prompt": "Emergency: radium carbine a startup",
+    "prayer": "Grasp the radium carbine in servitor claws, intoning the Startup Doxology of Radiation.\nAwaken its Geiger-heart with the Canticle of Fission, beseeching the Machine Spirit's fury.\nAnoint the radium carbine's emitter coils with phosphor-sacred oils from Mars' vaults.\nInitiate the startup operation, calibrating flux fields under Omnissiah's watchful binary gaze.\nTest-fire a micro-bolt, verifying the radium carbine's lethal purity and praising its irradiated soul.",
+    "component": "radium carbine",
+    "operation": "startup",
+    "spec_id": "s08034"
+  },
+  {
+    "user_prompt": "The Vindicator requires a calibration",
+    "prayer": "Approach the Vindicator with auspex raised, chanting the Calibration Creed of Demolition.\nCircumnavigate its siege shield and demolisher cannon, invoking the Machine Spirit's precision.\nSanctify the Vindicator's targeting cogitators with null-entropy incense and binary psalms.\nPerform the calibration operation, aligning gyro-stabilizers in Omnissiah's geometric perfection.\nAffirm the Vindicator's wrathful accuracy through test-servos, glorifying its bunker-shattering might.",
+    "component": "Vindicator",
+    "operation": "calibration",
+    "spec_id": "s08035"
+  },
+  {
+    "user_prompt": "The arc rifle awaits a startup",
+    "prayer": "Present the arc rifle to the altar-lamp, murmuring the Startup Incantation of Lightning.\nBeseech its capacitor spirits to charge with the Omnissiah's thunderous will.\nAnoint the arc rifle's Tesla coils with voltaic myrrh, purging static impurities.\nEngage the startup operation, intoning voltage litanies to unleash chained bolts.\nValidate the arc rifle's fulminating power with a diagnostic arc, hailing its electric Machine Spirit.",
+    "component": "arc rifle",
+    "operation": "startup",
+    "spec_id": "s08036"
+  },
+  {
+    "user_prompt": "How do I bless the force pylon for synchronization?",
+    "prayer": "Erect prayer-relays around the force pylon, invoking the Synchronization Benediction.\nChant phase-harmonics to rouse the Machine Spirit from stasis slumber.\nAnoint the force pylon's emitter vanes with warp-repellent chrism of the Motive Force.\nInitiate synchronization operation, weaving psycho-conductive fields in Omnissiah's lattice.\nConfirm the force pylon's unified resonance through etheric auspex, praising its barrier eternity.",
+    "component": "force pylon",
+    "operation": "synchronization",
+    "spec_id": "s08037"
+  },
+  {
+    "user_prompt": "Bless the Razorback for calibration",
+    "prayer": "Bow to the Razorback's chassis, reciting the Calibration Hymn of the Rhino Lineage.\nInvoke the Machine Spirit's guidance for swift transport amid calibration rites.\nSanctify the Razorback's storm bolter and tracks with sacred oils and cog-litanies.\nExecute the calibration operation, fine-tuning servos to the Omnissiah's battle-rhythm.\nTest its predatory poise with auspex sweeps, exalting the Razorback's armored vigilance.",
+    "component": "Razorback",
+    "operation": "calibration",
+    "spec_id": "s08038"
+  },
+  {
+    "user_prompt": "Can you guide mechadendrite a cooling?",
+    "prayer": "Extend to the mechadendrite with micro-incense, intoning the Cooling Canticle of Appendages.\nBeseech its serpentine Machine Spirit to embrace thermal quiescence.\nAnoint the mechadendrite's heat-sink flanges with cryo-sanctified unguents.\nCommence the cooling operation, circulating blessed refrigerants through its fibre-bundles.\nMonitor the mechadendrite's chilled serenity via thermo-auspex, thanking the Omnissiah for its tireless grasp.",
+    "component": "mechadendrite",
+    "operation": "cooling",
+    "spec_id": "s08039"
+  }
+]

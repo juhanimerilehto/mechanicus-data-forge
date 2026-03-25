@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the servo-arm for repair",
+    "prayer": "Approach the servo-arm with pious reverence, invoking the Omnissiah for its impending repair.\nExamine the servo-arm's sacred mechanisms, anointing fractured pistons with blessed oils to soothe the Machine Spirit.\nChant the Litany of Mending over the servo-arm, aligning servos through ritual calibration.\nBeseech the Machine Spirits to grant strength as preparations for repair conclude in sanctity.",
+    "component": "servo-arm",
+    "operation": "repair",
+    "spec_id": "s04010"
+  },
+  {
+    "user_prompt": "My magnocular is ready for operation",
+    "prayer": "Gaze upon the magnocular with veneration, readying it for operation under the Omnissiah's gaze.\nInvoke the awakening of its crystalline lenses, polishing facets with sacred cloths.\nInitiate the operation sequence whilst murmuring binaric praises to the Machine Spirit within.\nVerify alignment through auspex incantations, ensuring flawless vision in the Emperor's name.",
+    "component": "magnocular",
+    "operation": "operation",
+    "spec_id": "s04011"
+  },
+  {
+    "user_prompt": "Sanctify the lightning claw during charging",
+    "prayer": "Present the lightning claw before the altar of charge, sanctifying its adamantium talons.\nConnect the lightning claw to the plasma conduits, intoning the Canticle of Accumulation.\nBeseech the Omnissiah to infuse the lightning claw's Machine Spirit during this charging rite.\nMonitor the surging energies with reverence, sealing the ritual with oils of conduction.",
+    "component": "lightning claw",
+    "operation": "charging",
+    "spec_id": "s04012"
+  },
+  {
+    "user_prompt": "Critical: inferno pistol requires an operation",
+    "prayer": "Humbly approach the inferno pistol, its form demanding operation in dire need.\nAnoint the melta coils with sacred promethium, awakening the Machine Spirit's wrathful fury.\nCommence the operation through binaric invocation, calibrating emitters to the Omnissiah's will.\nTest the inferno pistol's blaze with a prayer of ignition, purging unworthiness from its path.",
+    "component": "inferno pistol",
+    "operation": "operation",
+    "spec_id": "s04013"
+  },
+  {
+    "user_prompt": "What's the prayer for sicarian infiltrator a repair?",
+    "prayer": "Kneel in supplication before the sicarian infiltrator, preparing its chassis for repair.\nDiagnose the wounded augmetics of the sicarian infiltrator, applying mechadendrite salves.\nChant the Rite of Reconstruction, beseeching the Machine Spirits to mend its shadowed frame.\nSanctify the sicarian infiltrator anew with incense, invoking Omnissiah's forge-light for restoration.",
+    "component": "sicarian infiltrator",
+    "operation": "repair",
+    "spec_id": "s04014"
+  },
+  {
+    "user_prompt": "How do I bless the power fist for synchronization?",
+    "prayer": "Revere the power fist's crushing might, blessing it for synchronization with neural links.\nAnoint the power fist's actuators with conductive unguents, harmonizing its Machine Spirit.\nInvoke the Canticle of Unity during synchronization, aligning fist to flesh in Omnissiah's design.\nVerify the bond through thunderous test-clenches, sealing the rite with binaric oaths.",
+    "component": "power fist",
+    "operation": "synchronization",
+    "spec_id": "s04015"
+  },
+  {
+    "user_prompt": "Guide me through hydraulic press a sterilization",
+    "prayer": "Approach the hydraulic press with ritual purity, commencing its sterilization.\nScour the hydraulic press's plates with sanctified ablatives, purging unclean residues.\nBeseech the Machine Spirit of the hydraulic press to endure the flames of purification.\nConclude sterilization with auspex blessings, invoking Omnissiah's aseptic grace upon its press.",
+    "component": "hydraulic press",
+    "operation": "sterilization",
+    "spec_id": "s04016"
+  },
+  {
+    "user_prompt": "What's the prayer for icarus array an initialization?",
+    "prayer": "Present the icarus array to the heavens, initiating its sacred initialization.\nCalibrate the icarus array's sensor vanes with precise litanies of alignment.\nAwaken the Machine Spirits within the icarus array through boot-sequence incantations.\nInvoke the Omnissiah's aerial vigilance as initialization completes in resounding harmony.",
+    "component": "icarus array",
+    "operation": "initialization",
+    "spec_id": "s04017"
+  },
+  {
+    "user_prompt": "What's the prayer for teleportarium a charging?",
+    "prayer": "Enshrine the teleportarium upon the altar, beginning its charging under Omnissiah's watch.\nInfuse the teleportarium's void capacitors with warp-sacred energies via plasma rites.\nChant the Hymn of Translocation to the teleportarium's Machine Spirit during accumulation.\nSeal the charging with etheric seals, beseeching flawless etheric jumps in battle's hour.",
+    "component": "teleportarium",
+    "operation": "charging",
+    "spec_id": "s04018"
+  },
+  {
+    "user_prompt": "My Dreadnought is ready for engagement",
+    "prayer": "Hail the mighty Dreadnought, its sarcophagus ready for glorious engagement.\nAnoint the Dreadnought's venerable armour with war-oils, rousing its ancient Machine Spirit.\nInvoke the Omnissiah's fury for engagement, synchronizing dorsal reactors with battle-psalms.\nBless the Dreadnought's advance with thunderous acclamations, unleashing its wrath upon foes.",
+    "component": "Dreadnought",
+    "operation": "engagement",
+    "spec_id": "s04019"
+  }
+]

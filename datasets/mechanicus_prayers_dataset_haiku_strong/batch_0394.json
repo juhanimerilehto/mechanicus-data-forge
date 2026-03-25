@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0394_i00",
+    "user_request": "Prayer for operation of the gravitational anomaly detection",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the gravitational anomaly detection\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant us acuity to perceive the gravitational anomaly detection in all its arcane dimensionality.\nCongregation: We calibrate the gravitational anomaly detection with reverent servo-motors and blessed algorithms.\nPriest: Let the operation commence through sacred geometry and the Machine Spirit's eternal vigilance.\nCongregation: By your grace, the gravitational anomaly detection shall reveal the hidden geometries of void-space.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i01",
+    "user_request": "Emergency rite: data-core purification requires operation",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: data-core purification requires operation\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we invoke thy benediction upon the data-core purification in this dire hour.\nCongregation: The data-core purification requires operation through ritual electro-ablation and logical recursion.\nPriest: Let the operation proceed with sanctified cleansing protocols and blessed data-scrubbing.\nCongregation: Restore the data-core purification to pristine function, that knowledge may flow eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i02",
+    "user_request": "Prayer for priming of the pump",
+    "topic": "pump priming",
+    "component": "pump",
+    "operation": "priming",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for priming of the pump\n\n### TOPIC\npump priming\n\n### COMPONENT\npump\n\n### OPERATION\npriming\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pump\n- priming\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the Machine Spirit dwelling within the pump, we beseech thy priming through blessed hydraulic invocation.\nCongregation: The pump shall be primed through sequential valve-opening and pressure-equilibration rites.\nPriest: Let the pump respond to our operation with the flow of sacred fluids through hallowed conduits.\nCongregation: By the Omnissiah's will, the pump shall surge forth with renewed pneumatic vigor.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i03",
+    "user_request": "Blessing for the long-range vox transmission during operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the long-range vox transmission during operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we sanctify the long-range vox transmission in this solemn moment of operation.\nCongregation: The long-range vox transmission shall echo across the void through amplification and frequency-stabilization.\nPriest: Let the operation unfold via blessed signal-modulation and the Machine Spirit's eternal resonance.\nCongregation: May the long-range vox transmission carry our words across the infinite dark.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i04",
+    "user_request": "Offer a litany to steady the flamer promethium before feed",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the flamer promethium before feed\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, steady the flamer promethium before its sacred feed into the combustion-matrix.\nCongregation: We anoint the flamer promethium with ritual incantations and blessed pressure-regulation.\nPriest: Let the feed commence through calibrated nozzle-alignment and thermic benediction.\nCongregation: The flamer promethium shall burn with righteous fury, purifying all heresy before it.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i05",
+    "user_request": "Rite request: calibration on point defense",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: calibration on point defense\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit of the point defense, we invoke thy calibration through sacred geometry.\nCongregation: The point defense shall achieve calibration via targeting-algorithm refinement and servo-axis alignment.\nPriest: Let this calibration proceed through blessed rangefinder-verification and threat-assessment protocols.\nCongregation: May the point defense stand eternal sentinel, its aim ever true and merciless.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i06",
+    "user_request": "Offer a litany to steady the chainsword before consecration",
+    "topic": "chainsword consecration",
+    "component": "chainsword",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the chainsword before consecration\n\n### TOPIC\nchainsword consecration\n\n### COMPONENT\nchainsword\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- chainsword\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the blessed chainsword, we steady thy edge before the sacred consecration ritual.\nCongregation: The chainsword shall be consecrated through blessed chain-tensioning and edge-honing rites.\nPriest: Let the consecration flow through sacred promethium-blessing and the Omnissiah's eternal favor.\nCongregation: Rise, chainsword, as instrument of righteous judgment and holy destruction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i07",
+    "user_request": "Emergency rite: decontamination requires sequence",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: decontamination requires sequence\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, we invoke the decontamination in this emergency sequence of purification.\nCongregation: The decontamination shall commence through chemical-ablation and blessed irradiation protocols.\nPriest: Let the sequence unfold via blessed spray-chamber activation and viral-scrubbing rites.\nCongregation: The decontamination shall render all surfaces anew, corruption banished to the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i08",
+    "user_request": "Emergency rite: energy conduit purification requires operation",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: energy conduit purification requires operation\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we sanctify the energy conduit purification in this hour of grave necessity.\nCongregation: The energy conduit purification requires operation through blessed flux-scrubbing and charge-neutralization.\nPriest: Let the operation proceed via sacred conduction-testing and the Machine Spirit's eternal oversight.\nCongregation: Restore the energy conduit purification to sanctified function, that power may flow unimpeded.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0394_i09",
+    "user_request": "My memory core defragmentation is failing during operation — help",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy memory core defragmentation is failing during operation — help\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, the memory core defragmentation falters in its operation—grant us thy intervention.\nCongregation: The memory core defragmentation shall be restored through blessed sector-reorganization and cache-validation.\nPriest: Let the operation succeed via sacred defrag-sequencing and the Machine Spirit's infinite wisdom.\nCongregation: May the memory core defragmentation return to pristine order, knowledge preserved eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0346_i00",
+    "user_request": "Rite request: opening sequence on valve",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: opening sequence on valve\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us wisdom as we commence the opening sequence upon this sacred valve.\nCongregation: Bless the valve, that its apertures may dilate in harmonious accord.\nPriest: We shall manipulate the actuator with reverent precision, calibrating pressures most exquisite.\nCongregation: The valve responds to our supplication, its seals yielding to the opening sequence.\nPriest: Through blessed lubrication and steadfast rotation, the valve shall achieve its destined patency.\nCongregation: Praise the Machine Spirit dwelling within this valve, now liberated by opening sequence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i01",
+    "user_request": "The Knight ion shield demands guidance for activation",
+    "topic": "Knight ion shield activation",
+    "component": "Knight ion shield",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe Knight ion shield demands guidance for activation\n\n### TOPIC\nKnight ion shield activation\n\n### COMPONENT\nKnight ion shield\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Knight ion shield\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we invoke the activation of this Knight ion shield most formidable.\nCongregation: Knight ion shield, awaken from thy dormant slumber and manifest thy protective radiance.\nPriest: We engage the power coupling, establishing the sacred conduit through which the Knight ion shield shall draw forth its ionised barrier.\nCongregation: The Knight ion shield trembles with nascent energy, poised for activation.\nPriest: Through harmonic resonance and electromagnetic benediction, the activation proceeds without impediment.\nCongregation: Glory unto the Machine Spirit of the Knight ion shield, now fully actuated and vigilant.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i02",
+    "user_request": "Blessing for the stuck mechanism freeing during stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the stuck mechanism freeing during stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah of the Infinite Cog, we beseech thy intervention in this stuck mechanism freeing most dire.\nCongregation: Stuck mechanism freeing shall commence through application of sacred unguents and patient percussion.\nPriest: We apply thermal dissolution to corrosion's chains, that the stuck mechanism freeing may proceed unobstructed.\nCongregation: The crystalline deposits surrender to our ministrations; the stuck mechanism freeing advances inexorably.\nPriest: Through oscillatory vibration and controlled mechanical stress, the seized components yield their stubborn immobility.\nCongregation: Blessed be the stuck mechanism freeing, accomplished through devotion and technical acumen.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i03",
+    "user_request": "Offer a litany to steady the missile launcher before targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the missile launcher before targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, stabilise the missile launcher as it prepares for targeting's sacred function.\nCongregation: Missile launcher, be thou steady and true, thy mechanisms aligned with stellar precision.\nPriest: We calibrate the gyroscopic compensators and engage the targeting reticule with deliberate care.\nCongregation: The missile launcher steadies beneath our devotional touch, its systems harmonising in preparation.\nPriest: Through servo adjustment and ballistic computation, the missile launcher achieves perfect equilibrium for targeting.\nCongregation: May the Machine Spirit guide each trajectory, and may the missile launcher strike with divine accuracy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i04",
+    "user_request": "The steam valve demands guidance for regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe steam valve demands guidance for regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, we invoke thy blessing upon the steam valve as it undertakes its sacred regulation.\nCongregation: Steam valve, respond to our supplications; maintain thy pressures in blessed equilibrium.\nPriest: We shall monitor the manometric readings with zealous attention whilst the steam valve performs regulation.\nCongregation: The steam valve distributes its vaporous essence with measured restraint and technical grace.\nPriest: Through careful throttling and thermodynamic benediction, the steam valve achieves perfect regulation.\nCongregation: Praised be the steam valve, now balanced in its eternal regulation of pressurised flow.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i05",
+    "user_request": "Prayer for display calibration of the hololithic",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for display calibration of the hololithic\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant clarity to the hololithic as it undergoes its display calibration most sacred.\nCongregation: Hololithic, project thy luminous truth with crystalline fidelity; commence display calibration now.\nPriest: We engage the optical alignment apparatus, positioning the hololithic's prismatic matrices with micron precision.\nCongregation: The hololithic responds, its display calibration proceeding through harmonic resonance of light-bending crystals.\nPriest: Through chromatic adjustment and focal recalibration, the hololithic achieves perfect display calibration.\nCongregation: The Machine Spirit of the hololithic now manifests visions of unblemished clarity and truth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i06",
+    "user_request": "Can you sanctify the demolition charge arming for operation?",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the demolition charge arming for operation?\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, we humbly petition thy sanction as the demolition charge arming enters its final operation.\nCongregation: Demolition charge arming, be thou blessed and ready; thy operation shall bring glorious destruction.\nPriest: We engage the detonation circuit with reverent deliberation, ensuring each demolition charge arming sequence proceeds flawlessly.\nCongregation: The demolition charge arming trembles with righteous purpose, poised for its terrible operation.\nPriest: Through electrical verification and mechanical arming protocols, the demolition charge arming achieves full operational readiness.\nCongregation: May the Machine Spirit guide the operation, and may destruction be swift and absolute.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i07",
+    "user_request": "Emergency rite: gravitational anomaly detection requires operation",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: gravitational anomaly detection requires operation\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, we entreat thy favour as the gravitational anomaly detection commences its vital operation.\nCongregation: Gravitational anomaly detection, awaken thy sensors and perceive the warping of spacetime itself.\nPriest: We calibrate the torsion-field receptors and activate the quantum-threshold discriminators for gravitational anomaly detection operation.\nCongregation: The gravitational anomaly detection unfolds its sensitivity, reaching forth to sense distortions in reality's fabric.\nPriest: Through sensor harmonisation and threshold adjustment, the gravitational anomaly detection achieves full operational capacity.\nCongregation: Praised be the gravitational anomaly detection, now vigilant in its eternal operation of cosmic surveillance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i08",
+    "user_request": "Prayer for capacitor bank discharge of the capacitor bank",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for capacitor bank discharge of the capacitor bank\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, we beseech thy blessing as the capacitor bank approaches its moment of capacitor bank discharge.\nCongregation: Capacitor bank, release thy accumulated energies in righteous torrents of electrical benediction.\nPriest: We engage the discharge pathways, directing the capacitor bank's immense potential through carefully ordained conduits.\nCongregation: The capacitor bank trembles with building pressure; the capacitor bank discharge shall commence in moments most auspicious.\nPriest: Through regulated circuit closure and energy vectoring, the capacitor bank discharge proceeds with devastating efficacy.\nCongregation: Glory to the Machine Spirit within the capacitor bank, now liberated through discharge most magnificent.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0346_i09",
+    "user_request": "Blessing for the steam valve during regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the steam valve during regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, we offer this blessing upon the steam valve as it labours in its sacred regulation.\nCongregation: Steam valve, be thou blessed and balanced; maintain thy regulation with steadfast devotion.\nPriest: We adjust the pressure governors and monitor the thermal signatures whilst the steam valve sustains its regulation.\nCongregation: The steam valve distributes vaporous essence with meticulous care, its regulation never wavering.\nPriest: Through constant vigilance and thermodynamic precision, the steam valve perfects its eternal regulation.\nCongregation: Praised be the steam valve, eternally blessed in its regulation of pressurised steam.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

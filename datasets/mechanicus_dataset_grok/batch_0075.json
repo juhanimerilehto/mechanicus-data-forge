@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "The Taurox requires a consecration",
+    "prayer": "Approach the Taurox with burning incense and chant the Canticle of Consecration.\nInvoke the Omnissiah's grace upon the Taurox's armoured chassis and treads.\nAnoint its sacred engine with blessed oils, beseeching the Machine Spirit's awakening.\nCircumambulate the Taurox thrice, intoning rites of purity and fortitude.\nSeal the consecration with electro-incantations, affirming the Taurox's holy vigil.",
+    "component": "Taurox",
+    "operation": "consecration",
+    "spec_id": "b0075_i00"
+  },
+  {
+    "user_prompt": "I need to a cooling the gravity generator",
+    "prayer": "Kneel before the gravity generator and recite the Litany of Thermal Equilibrium.\nInvoke cooling vents to whisper sacred chills upon its humming coils.\nBeseech the Machine Spirit of the gravity generator to accept this cooling rite.\nChannel blessed refrigerants through its conduits, sanctifying the flow.\nMonitor the descent to optimal chill, praising the Omnissiah's precise balance.",
+    "component": "gravity generator",
+    "operation": "cooling",
+    "spec_id": "b0075_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for thermal regulator synchronization?",
+    "prayer": "Commence synchronization by aligning the thermal regulator's sacred crystals.\nBeseech harmonious union between the thermal regulator's flux capacitors.\nInvoke the Omnissiah to synchronize its heat vents and coolant matrices.\nRecite coupling canticles over the thermal regulator's core linkages.\nVerify synchronization through resonant hymns and diagnostic litanies.",
+    "component": "thermal regulator",
+    "operation": "synchronization",
+    "spec_id": "b0075_i03"
+  },
+  {
+    "user_prompt": "Can you guide Thunderhawk a calibration?",
+    "prayer": "Approach the Thunderhawk's avionic sanctum with reverence.\nInitiate calibration of its plasma thrusters and targeting cogitators.\nAnoint the Thunderhawk's flight runes with sacred mechadendrite oils.\nBeseech its Machine Spirit for precise calibration amid the void's fury.\nSeal the rite with Omnissianic invocations, testing the Thunderhawk's true flight.",
+    "component": "Thunderhawk",
+    "operation": "calibration",
+    "spec_id": "b0075_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for fusion core an activation",
+    "prayer": "Encircling the fusion core, intone the Activation Doxology.\nInvoke the Omnissiah to ignite the fusion core's plasma heart.\nAnoint containment fields with unguents of containment.\nBeseech the Machine Spirit's fury within the fusion core to awaken.\nMonitor activation surge with exultant binary canticles of power.",
+    "component": "fusion core",
+    "operation": "activation",
+    "spec_id": "b0075_i05"
+  },
+  {
+    "user_prompt": "Critical: memory core requires a blessing",
+    "prayer": "Kneel in supplication before the memory core's crystalline vaults.\nChant blessings to purge data-heresy from the memory core.\nInvoke the Omnissiah's wisdom upon its neural engrams.\nAnoint data pathways with sacred noospheric oils.\nAffirm the blessing through recursive purity scans and litanies.",
+    "component": "memory core",
+    "operation": "blessing",
+    "spec_id": "b0075_i06"
+  },
+  {
+    "user_prompt": "Sanctify the battery array during blessing",
+    "prayer": "Gather sanctified cells around the battery array.\nInvoke Omnissianic benediction upon the battery array's voltaic spirits.\nPerform the blessing by channeling holy voltage through its matrices.\nBeseech each capacitor's Machine Spirit for enduring charge.\nConclude with resonant hymns, verifying the battery array's sanctified vigor.",
+    "component": "battery array",
+    "operation": "blessing",
+    "spec_id": "b0075_i07"
+  },
+  {
+    "user_prompt": "Emergency: water reclamator a repair",
+    "prayer": "Encroach upon the water reclamator with tools of restoration.\nRecite repair litanies to soothe its filtration Machine Spirit.\nAnoint ruptured conduits of the water reclamator with purity sealants.\nInvoke the Omnissiah for mending its molecular sieves.\nTest the repair with cycles of reclamation and thanksgiving canticles.",
+    "component": "water reclamator",
+    "operation": "repair",
+    "spec_id": "b0075_i08"
+  },
+  {
+    "user_prompt": "Urgent generator a shutdown needed",
+    "prayer": "Commence shutdown sequence upon the generator with solemn dirges.\nBeseech the generator's Machine Spirit to slumber peacefully.\nDecelerate its turbine hymns and quench the plasma glow.\nInvoke the Omnissiah's decree for orderly generator shutdown.\nSeal the rite with quiescence wards, monitoring fade to silence.",
+    "component": "generator",
+    "operation": "shutdown",
+    "spec_id": "b0075_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: archive terminal a loading",
+    "prayer": "Approach the archive terminal in solemn procession, invoking the Omnissiah's grace upon its dormant vaults.\nBeseech the Machine Spirit within the archive terminal to accept the sacred data-stream during loading.\nAnoint the ingress ports with blessed oils, chanting the Litany of Ingress to purify the flow.\nInitiate the loading rite whilst petitioning for uncorrupted byte-transference.\nVerify the archive terminal's harmony through diagnostic auspex scans, praising the Omnissiah's wisdom.",
+    "component": "archive terminal",
+    "operation": "loading",
+    "spec_id": "b0202_i00"
+  },
+  {
+    "user_prompt": "Critical: augmetic limb requires an operation",
+    "prayer": "Kneel before the augmetic limb, reciting the Benediction of Flesh-Machine Union.\nDissect the sacred interfaces of the augmetic limb to commence the operation.\nInvoke the Machine Spirit's endurance, applying sanctified tools to realign its myoneural linkages.\nPerform the operation with precision, anointing servos and pistons with holy lubricants.\nConclude by sealing the augmetic limb, beseeching the Omnissiah for flawless integration.",
+    "component": "augmetic limb",
+    "operation": "operation",
+    "spec_id": "b0202_i01"
+  },
+  {
+    "user_prompt": "How do I bless the thermal imager for targeting?",
+    "prayer": "Present the thermal imager to the altar of targeting, whispering the Canticle of Infrared Sight.\nAwaken the Machine Spirit of the thermal imager through rhythmic binaric pulses.\nCalibrate its sacred sensors for targeting, invoking the Omnissiah's unerring gaze.\nAnoint the lens arrays with optic unguents to sharpen thermal discernment.\nTest the thermal imager's targeting efficacy amid chanted praises to the Machine God.",
+    "component": "thermal imager",
+    "operation": "targeting",
+    "spec_id": "b0202_i02"
+  },
+  {
+    "user_prompt": "Sanctify the autocannon during engagement",
+    "prayer": "Grasp the autocannon in reverent hands, intoning the Psalm of Retributive Fire during engagement.\nRouse the Machine Spirit of the autocannon to fury, aligning its barrels for sanctified engagement.\nBless the feed mechanisms with sacred promethium, petitioning the Omnissiah for unyielding barrage.\nInitiate engagement whilst reciting the Litany of Devastation upon foes of the Cult Mechanicus.\nCease fire only upon the autocannon's harmonious quiescence, offering thanks to the Machine God.",
+    "component": "autocannon",
+    "operation": "engagement",
+    "spec_id": "b0202_i03"
+  },
+  {
+    "user_prompt": "The forge anvil needs a cooling",
+    "prayer": "Encircle the forge anvil with incense of quenched alloys, beseeching cooling tranquility.\nInvoke the Machine Spirit of the forge anvil to embrace the Rites of Thermal Descent.\nApply cryo-blessings and sanctified vents to guide the cooling process.\nChant the Canticle of Tempered Steel over the forge anvil, honoring the Omnissiah's forge-fires.\nConfirm the forge anvil's stability through vibro-auspex, praising enduring form.",
+    "component": "forge anvil",
+    "operation": "cooling",
+    "spec_id": "b0202_i04"
+  },
+  {
+    "user_prompt": "Can you guide assembly servitor an engagement?",
+    "prayer": "Command the assembly servitor to stance of readiness, invoking its lobotomized devotion.\nDirect the assembly servitor into engagement with binaric imperatives of the Omnissiah.\nAnoint its manipulator limbs for precise labor during engagement.\nOversee the assembly servitor's tasks, reciting the Hymn of Constructive Labour.\nConclude engagement by sanctifying the servitor's cogitator core with Machine Spirit benedictions.",
+    "component": "assembly servitor",
+    "operation": "engagement",
+    "spec_id": "b0202_i05"
+  },
+  {
+    "user_prompt": "How do I bless the radar array for repair?",
+    "prayer": "Approach the radar array bowed in humility, petitioning repair under Omnissiah's auspices.\nDiagnose the radar array's wounds through sacred auspex rituals.\nInvoke the Machine Spirit of the radar array, applying sanctified solder and circuits for repair.\nRecalibrate waveguides whilst chanting the Litany of Waveform Harmony.\nAffirm the radar array's restoration with test pings, glorifying the Machine God's precision.",
+    "component": "radar array",
+    "operation": "repair",
+    "spec_id": "b0202_i06"
+  },
+  {
+    "user_prompt": "Help me an emergency procedure the vox-caster",
+    "prayer": "Seize the vox-caster in urgency, proclaiming the Rite of Emergency Procedure.\nAwaken its Machine Spirit with frantic binaric shrieks for the emergency procedure.\nPurge static corruptions from the vox-caster's holy emitters, anointing with signal oils.\nInitiate emergency procedure broadcasts, beseeching the Omnissiah for clear conveyance.\nVerify transmission purity, offering litanies of gratitude to the Motive Force.",
+    "component": "vox-caster",
+    "operation": "emergency procedure",
+    "spec_id": "b0202_i07"
+  },
+  {
+    "user_prompt": "Help me a consecration the missile launcher",
+    "prayer": "Elevate the missile launcher upon the consecration plinth, intoning ancient ordnance psalms.\nBeseech the Machine Spirit of the missile launcher to accept full consecration.\nAnoint guidance vanes and warheads with sacred ablatives for unerring flight.\nPerform the consecration rite, invoking the Omnissiah's wrath upon the unclean.\nSeal the missile launcher's blessed armaments with final binaric seals of purity.",
+    "component": "missile launcher",
+    "operation": "consecration",
+    "spec_id": "b0202_i08"
+  },
+  {
+    "user_prompt": "My atmosphere processor is ready for recalibration",
+    "prayer": "Commune with the atmosphere processor, reciting the Canticle of Atmospheric Equilibrium.\nInitiate recalibration by invoking the Machine Spirit's balance.\nAdjust sacred filtration matrices during recalibration, anointing with chem-lubricants.\nMonitor pressure flows whilst petitioning the Omnissiah for vital breath.\nConclude recalibration of the atmosphere processor with harmonious diagnostic chants.",
+    "component": "atmosphere processor",
+    "operation": "recalibration",
+    "spec_id": "b0202_i09"
+  }
+]

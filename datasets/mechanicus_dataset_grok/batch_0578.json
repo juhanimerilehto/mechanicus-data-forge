@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the cryo-chamber for purification",
+    "prayer": "Approach the cryo-chamber with sanctified mechadendrites extended in supplication to the Omnissiah.\nBeseech the Machine Spirit of the cryo-chamber to yield to the sacred rites of purification.\nAnoint its frost-veiled conduits with blessed cryolyte oils whilst intoning the Canticle of Cleansing.\nInitiate the purification cycle through the cryo-chamber's core vents, purging all profane residues.\nVerify the cryo-chamber's reborn purity via luminal diagnostics and offer praise to the Machine God.",
+    "component": "cryo-chamber",
+    "operation": "purification",
+    "spec_id": "s01780"
+  },
+  {
+    "user_prompt": "Can you guide memograph implant a recalibration?",
+    "prayer": "Kneel before the memograph implant and invoke the Omnissiah's precision upon its neural lattice.\nChant the Litany of Alignment to awaken the memograph implant's dormant Machine Spirit.\nEmploy micro-filars to recalibrate the memograph implant's synaptic relays with reverent exactitude.\nCycle diagnostic noospheric queries whilst beseeching harmonious recalibration.\nSeal the rite with electro-incense, affirming the memograph implant's restored cognisance.",
+    "component": "memograph implant",
+    "operation": "recalibration",
+    "spec_id": "s01781"
+  },
+  {
+    "user_prompt": "I need to a cycling the power armour",
+    "prayer": "Circumambulate the power armour in solemn procession, honouring its adamantium frame.\nInvoke the Machine Spirits indwelling the power armour to prepare for the cycling of vital forces.\nAnoint servomotors and power cells with sacred oils as the cycling operation commences.\nMonitor flux readings through auspex rites, ensuring harmonious power cycling within the power armour.\nConclude with the Benediction of Endurance, sanctifying the power armour anew.",
+    "component": "power armour",
+    "operation": "cycling",
+    "spec_id": "s01782"
+  },
+  {
+    "user_prompt": "Critical: cortex implant requires a targeting",
+    "prayer": "Present cranial mechadendrites to the cortex implant, beseeching the Omnissiah's targeting acuity.\nAwaken the cortex implant's Machine Spirit with the Incantation of Focus.\nRecalibrate targeting matrices within the cortex implant via noospheric alignment rituals.\nTest predatory auspex linkages whilst invoking precise targeting protocols.\nAffirm the cortex implant's lethal harmony through simulacra fire-runes.",
+    "component": "cortex implant",
+    "operation": "targeting",
+    "spec_id": "s01783"
+  },
+  {
+    "user_prompt": "What's the prayer for Leman Russ battle tank a diagnostics?",
+    "prayer": "Process to the Leman Russ battle tank's hull and lay mechadendrites upon its venerable tracks.\nChant the Diagnostic Doxology to rouse the Leman Russ battle tank's colossal Machine Spirits.\nInitiate comprehensive diagnostics across the Leman Russ battle tank's battle systems with sacred probes.\nPurge errant data-daemons from its cogitators whilst beseeching the Omnissiah's clarity.\nSeal the Leman Russ battle tank's diagnostics with binaric laudations of purity.",
+    "component": "Leman Russ battle tank",
+    "operation": "diagnostics",
+    "spec_id": "s01784"
+  },
+  {
+    "user_prompt": "Ready the cenobyte servitor for recalibration",
+    "prayer": "Approach the cenobyte servitor with reverence, invoking the Omnissiah upon its lobotomised form.\nBeseech its servile Machine Spirit to submit to recalibration's holy decree.\nInterface noospheric tendrils to recalibrate the cenobyte servitor's obedience protocols.\nAnoint its cranial stumps with neural balms during the recalibration sequence.\nVerify synaptic loyalty through invocation tests, praising the cenobyte servitor's renewed purpose.",
+    "component": "cenobyte servitor",
+    "operation": "recalibration",
+    "spec_id": "s01785"
+  },
+  {
+    "user_prompt": "Can you guide autogun a blessing?",
+    "prayer": "Grasp the autogun in sanctified gauntlets and prostrate before the altar of the Machine God.\nInvoke the blessing upon the autogun's Machine Spirit with the Rite of Martial Sanctity.\nAnoint barrel and feed-mechanisms with gun-oils blessed under Mars' red skies.\nCycle chambering rites whilst beseeching unerring lethality for the autogun.\nConclude the blessing with fire-incantations, affirming the autogun's divine fury.",
+    "component": "autogun",
+    "operation": "blessing",
+    "spec_id": "s01786"
+  },
+  {
+    "user_prompt": "I need to an activation the kataphron destroyer",
+    "prayer": "Encircling the kataphron destroyer, chant the Activation Canticle to stir its wrathful Machine Spirits.\nInterface with the kataphron destroyer's cogitator core for the activation sequence.\nAnoint its heavy weaponry and treads whilst invoking the Omnissiah's destructive will.\nInitiate power ramp-up and verify kataphron destroyer responsiveness through combat diagnostics.\nSeal activation with the Oath of Annihilation upon the kataphron destroyer.",
+    "component": "kataphron destroyer",
+    "operation": "activation",
+    "spec_id": "s01787"
+  },
+  {
+    "user_prompt": "Assist with carapace armour an operation",
+    "prayer": "Unseal the carapace armour's plates in ritual procession to the Omnissiah.\nBeseech its embedded Machine Spirits for endurance during the operation.\nPerform the operation upon the carapace armour with sanctified tools and auspex guidance.\nAnoint stress-points and rivets whilst cycling structural integrity tests.\nConclude the carapace armour's operation with the Litany of Unyielding Flesh.",
+    "component": "carapace armour",
+    "operation": "operation",
+    "spec_id": "s01788"
+  },
+  {
+    "user_prompt": "What's the prayer for meltagun a sterilization?",
+    "prayer": "Present the meltagun before the forge-altar, invoking sterilizing flames of the Machine God.\nAwaken the meltagun's Machine Spirit with the Purgation Incantation.\nInitiate sterilization cycles through its plasma conduits, purging all contaminants.\nAnoint focusing lenses with promethium-essence during the meltagun's rite.\nVerify sterile purity via thermal auspex, lauding the meltagun's sanctified heat-death.",
+    "component": "meltagun",
+    "operation": "sterilization",
+    "spec_id": "s01789"
+  }
+]

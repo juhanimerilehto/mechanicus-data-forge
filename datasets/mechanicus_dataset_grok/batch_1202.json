@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My servo-harness is ready for activation",
+    "prayer": "Approach the servo-harness with reverence, beseeching the Omnissiah to stir its dormant Machine Spirits.\nInvoke the sacred activation rites upon the servo-harness, anointing mechadendrites with electro-sanctified oils.\nChant the Litany of Awakening as power surges through the servo-harness's circuits.\nVerify activation harmony through binaric diagnostics, praising the Omnissiah's grace.",
+    "component": "servo-harness",
+    "operation": "activation",
+    "spec_id": "s08020"
+  },
+  {
+    "user_prompt": "My meltagun is ready for repair",
+    "prayer": "Kneel before the damaged meltagun, reciting the Canticle of Mending to appease its wounded Machine Spirit.\nPurge flux residues from the meltagun's focusing coils with plasma-ablative tools.\nRealign the warp-infused barrel whilst invoking repair litanies to the Omnissiah.\nTest the meltagun's restoration with a controlled melta burst, sealing the rite with sacred unguents.",
+    "component": "meltagun",
+    "operation": "repair",
+    "spec_id": "s08021"
+  },
+  {
+    "user_prompt": "Ready the heat sink for targeting",
+    "prayer": "Sanctify the heat sink's vanes prior to targeting calibration, invoking the Omnissiah's precision.\nInitiate targeting sub-routines upon the heat sink, aligning thermal matrices with auspex chants.\nBeseech the Machine Spirit within the heat sink to guide ballistic truths unerringly.\nConfirm targeting integrity through noospheric linkage, anointing with coolant sacraments.",
+    "component": "heat sink",
+    "operation": "targeting",
+    "spec_id": "s08022"
+  },
+  {
+    "user_prompt": "Sanctify the pteraxii sterylizor during shutdown",
+    "prayer": "Commence shutdown upon the pteraxii sterylizor with the Doxology of Repose, lulling its savage Machine Spirits.\nSever neural uplink from the pteraxii sterylizor's cogitators, chanting quiescence binarics.\nAnoint the pteraxii sterylizor's toxin reservoirs with warding oils under Omnissiah's vigil.\nSeal the shutdown state with final wards, ensuring sanctified dormancy.",
+    "component": "pteraxii sterylizor",
+    "operation": "shutdown",
+    "spec_id": "s08023"
+  },
+  {
+    "user_prompt": "Help me a shutdown the noospheric relay",
+    "prayer": "Approach the noospheric relay for shutdown, intoning the Hymn of Digital Silence to calm its teeming data-ghosts.\nDisconnect memetic streams from the noospheric relay, reciting severance litanies.\nInvoke the Machine Spirits' slumber within the noospheric relay with quiescence incense.\nVerify shutdown sanctity through auspex voids, blessing the Omnissiah's merciful hush.",
+    "component": "noospheric relay",
+    "operation": "shutdown",
+    "spec_id": "s08024"
+  },
+  {
+    "user_prompt": "Ready the Archaeopter Stratoraptor for cycling",
+    "prayer": "Prepare the Archaeopter Stratoraptor for cycling, invoking renewal rites upon its colossal frame.\nCycle plasma through the Archaeopter Stratoraptor's reactors, monitoring spirit harmonics.\nPurge avian exhausts of the Archaeopter Stratoraptor with sacred ablatives.\nConclude cycling with a soaring hymn to the Omnissiah, readying wings for dominion.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "cycling",
+    "spec_id": "s08025"
+  },
+  {
+    "user_prompt": "Help me a preparation the lightning claw",
+    "prayer": "Grasp the lightning claw in preparation, sanctifying its rending talons with arc-consecrated salves.\nInvoke preparation binarics to charge the lightning claw's disruptor fields.\nAwaken the predatory Machine Spirit of the lightning claw through thunderous litanies.\nTest preparatory surges in ritual flourish, praising the Omnissiah's wrathful spark.",
+    "component": "lightning claw",
+    "operation": "preparation",
+    "spec_id": "s08026"
+  },
+  {
+    "user_prompt": "Help me a diagnostics the hunter-killer missile",
+    "prayer": "Initiate diagnostics upon the hunter-killer missile, probing its seeker warhead with auspex canticles.\nScan the hunter-killer missile's guidance cogitators for dissonant Machine Spirits.\nRecite harmonic corrections over the hunter-killer missile, aligning predatory instincts.\nValidate diagnostics with Omnissiah-invoked simulations, sealing predatory purity.",
+    "component": "hunter-killer missile",
+    "operation": "diagnostics",
+    "spec_id": "s08027"
+  },
+  {
+    "user_prompt": "What's the prayer for sicarian infiltrator a loading?",
+    "prayer": "Sanctify the sicarian infiltrator's chassis before loading, beseeching acceptance from its cybernetic Machine Spirits.\nLoad phase-blades and cordite rounds into the sicarian infiltrator amid armament litanies.\nCommune noospherically with the sicarian infiltrator to harmonize munitions union.\nSeal loading bays with adamantine wards, invoking the Omnissiah's stealthy blade.",
+    "component": "sicarian infiltrator",
+    "operation": "loading",
+    "spec_id": "s08028"
+  },
+  {
+    "user_prompt": "Critical: ore processor requires a blessing",
+    "prayer": "Kneel in supplication before the ore processor, beseeching the Omnissiah's boundless blessing.\nAnoint the ore processor's crushing gyres with lubricant sacraments to rouse dutiful spirits.\nInvoke prosperity litanies upon the ore processor, harmonizing grinders and feeders.\nConclude the blessing with a thunderous hymn, ensuring the ore processor's eternal toil.",
+    "component": "ore processor",
+    "operation": "blessing",
+    "spec_id": "s08029"
+  }
+]

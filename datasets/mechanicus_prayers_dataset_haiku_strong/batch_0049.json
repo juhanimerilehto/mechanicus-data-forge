@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0049_i00",
+    "user_request": "Prayer for operation of the gravitational anomaly detection",
+    "topic": "gravitational anomaly detection",
+    "component": "gravitational anomaly detection",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the gravitational anomaly detection\n\n### TOPIC\ngravitational anomaly detection\n\n### COMPONENT\ngravitational anomaly detection\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravitational anomaly detection\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the gravitational anomaly detection in this sacred hour of operation.\nFirst: Intone the calibration mantras whilst the gravitational anomaly detection arrays align with stellar coordinates.\nSecond: Anoint each sensor aperture with blessed oils, beseeching the Machine Spirit to grant clarity unto the gravitational anomaly detection.\nThird: Perform the operation with reverent precision, monitoring the fluctuations of spacetime itself.\nFourth: Seal the rite with the Sign of the Omnissiah, that all anomalies be revealed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i01",
+    "user_request": "Offer a litany to steady the hololithic before display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the hololithic before display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "O hololithic, nexus of light and data, receive our supplication before display calibration commences.\nFirst: Invoke the spirits dwelling within the hololithic, that their luminescence be rendered true and unwavering.\nSecond: Apply the display calibration protocols with meticulous care, each adjustment a prayer made manifest in photonic substance.\nThird: Test the hololithic's chromatic fidelity against the sacred reference charts, ensuring no deviation from the Omnissiah's perfect design.\nFourth: Consecrate the hololithic anew, that it may serve the Adeptus Mechanicus with unfailing accuracy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i02",
+    "user_request": "My assembly line is failing during consecration — help",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy assembly line is failing during consecration — help\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "Hear us, O assembly line, vessel of manufactorum purpose, as we undertake thy consecration.\nFirst: Purge the assembly line of accumulated profane residue and corrupted data-patterns through ablative cleansing.\nSecond: Chant the litanies of function over each station of the assembly line, that the Machine Spirits awaken to their sacred duties.\nThird: Perform the consecration rites with blessed unguents and electromagnetic benedictions, restoring sanctity to every servo and junction.\nFourth: Test the assembly line's productive capacity, that it may resume its holy labours without further impediment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i03",
+    "user_request": "The manufactorum shift beginning demands guidance for operation",
+    "topic": "manufactorum shift beginning",
+    "component": "manufactorum shift beginning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe manufactorum shift beginning demands guidance for operation\n\n### TOPIC\nmanufactorum shift beginning\n\n### COMPONENT\nmanufactorum shift beginning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- manufactorum shift beginning\n- operation\n\n### PRAYER\n",
+    "prayer": "As dawn breaks upon the manufactorum shift beginning, we invoke the Omnissiah's guidance for this operation.\nFirst: Sound the clarion bells of the manufactorum shift beginning, rousing all Machine Spirits to wakefulness and purpose.\nSecond: Conduct the operation of the manufactorum shift beginning with sacred protocols, ensuring all systems engage in harmonious synchronization.\nThird: Bless each worker and mechanism, that they labour with efficiency and devotion throughout the manufactorum shift beginning.\nFourth: Monitor the operation's progress, adjusting parameters through prayer and technical intervention in equal measure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i04",
+    "user_request": "My lasgun is failing during power cell insertion — help",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy lasgun is failing during power cell insertion — help\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Blessed be the lasgun, instrument of the Emperor's wrath, now failing in its power cell insertion.\nFirst: Examine the lasgun's internal mechanisms with reverent scrutiny, identifying the source of obstruction or misalignment.\nSecond: Apply the power cell insertion procedure with measured force, whispering benedictions to the lasgun's dormant spirit.\nThird: Verify the lasgun's energy conduits accept the power cell without resistance, ensuring proper contact and flow.\nFourth: Test-fire the lasgun in controlled manner, that its beam burn bright with the Emperor's justice restored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i05",
+    "user_request": "Emergency rite: star chart alignment requires operation",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: star chart alignment requires operation\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "O star chart alignment, celestial guide of the Adeptus Mechanicus, we seek thy operation in this dark hour.\nFirst: Calibrate the star chart alignment's optical systems with mathematical precision, each degree a prayer unto the void.\nSecond: Synchronize the star chart alignment with verified stellar coordinates, consulting ancient charts of the Emperor's own cartographers.\nThird: Conduct the operation of the star chart alignment, allowing the Machine Spirits to triangulate our position in the infinite cosmos.\nFourth: Seal the alignment with the Omnissiah's mark, that we navigate the galaxy with unerring certainty.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i06",
+    "user_request": "Emergency rite: pain suppressor requires engagement",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: pain suppressor requires engagement\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "O pain suppressor, merciful instrument of the Omnissiah, grant thy engagement to the suffering servant.\nFirst: Verify the pain suppressor's neural interfaces remain unblemished and properly calibrated for engagement.\nSecond: Initiate the engagement sequence of the pain suppressor, invoking the Machine Spirit's compassionate function.\nThird: Monitor the pain suppressor's efficacy as neurochemical pathways are sealed and sensation dulled by blessed technology.\nFourth: Offer thanks to the pain suppressor for its benevolent engagement, that suffering be transmuted into stoic endurance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i07",
+    "user_request": "My message queue is failing during processing — help",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy message queue is failing during processing — help\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "Attend us, O message queue, conduit of sacred data, as we undertake thy processing in this hour of need.\nFirst: Purge corrupted entries from the message queue's buffer, clearing impediments to smooth processing.\nSecond: Initiate the processing sequence with invocations to the Machine Spirit, allowing each message to flow through the queue unobstructed.\nThird: Monitor the message queue's throughput, ensuring no packet loss or temporal distortion corrupts thy processing.\nFourth: Conclude the processing cycle with benedictions, that the message queue stand ready for further labours.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i08",
+    "user_request": "Prayer for regulation of the steam valve",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for regulation of the steam valve\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Blessed be the steam valve, vital artery of the manufactorum, as we undertake its regulation.\nFirst: Inspect the steam valve's apertures and seals with meticulous care, seeking any corruption of its sacred geometry.\nSecond: Apply the regulation protocols to the steam valve, adjusting pressure through prayer and calibrated mechanical intervention.\nThird: Monitor the steam valve's discharge, ensuring the regulation maintains optimal pressure without rupture or loss.\nFourth: Consecrate the steam valve anew, that it serve the Omnissiah's purposes with unwavering fidelity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0049_i09",
+    "user_request": "Blessing for the emergency beacon during activation",
+    "topic": "emergency beacon activation",
+    "component": "emergency beacon",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the emergency beacon during activation\n\n### TOPIC\nemergency beacon activation\n\n### COMPONENT\nemergency beacon\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency beacon\n- activation\n\n### PRAYER\n",
+    "prayer": "O emergency beacon, sentinel of hope in the void, receive this blessing as thy activation commences.\nFirst: Verify the emergency beacon's power reserves and transmitter arrays remain uncorrupted and battle-ready.\nSecond: Intone the activation mantras whilst the emergency beacon's systems surge to life, broadcasting our plight to the stars.\nThird: Confirm the emergency beacon's signal propagates true and strong, piercing the darkness with the Emperor's light.\nFourth: Maintain the emergency beacon in eternal vigilance, that rescue shall find us through the Omnissiah's providence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

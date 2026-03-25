@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to an activation the data-arc",
+    "prayer": "Approach the data-arc with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the ancient rites of activation, beseeching the data-arc's Machine Spirit to stir from slumber.\nAnoint the data-arc's crystalline conduits with sacred oils, murmuring binaric canticles.\nInitiate the activation sequence through sanctified interfaces, honouring the data-arc's binary essence.\nVerify the data-arc's harmonious resonance, proclaiming the Omnissiah's will manifest.",
+    "component": "data-arc",
+    "operation": "activation",
+    "spec_id": "s06170"
+  },
+  {
+    "user_prompt": "Consecrate the meltagun before activation",
+    "prayer": "Kneel before the meltagun, offering mechadendrite-tended incense to appease its fiery Machine Spirit.\nConsecrate the meltagun's melta coils with ablative unguents, invoking the Omnissiah's purifying wrath.\nChant the Litany of Ignition prior to activation, sanctifying barrel and focusing lens alike.\nEngage the activation rite, beseeching the meltagun to unleash molecular fury in His name.\nTest the meltagun's plasma hum, affirming the Machine Spirit's zealous compliance.",
+    "component": "meltagun",
+    "operation": "activation",
+    "spec_id": "s06171"
+  },
+  {
+    "user_prompt": "Bless the Storm Eagle for recalibration",
+    "prayer": "Circumambulate the Storm Eagle's fuselage, tracing auspex runes to awaken its avian Machine Spirit.\nBeseech the Omnissiah for recalibration, anointing thrusters and avionics with blessed lubricants.\nRecite the Canticle of True Flight over the Storm Eagle's cogitators, aligning gyroscopic sanctums.\nInitiate recalibration protocols via noospheric linkage, honouring the Storm Eagle's predatory instincts.\nConfirm the Storm Eagle's balanced harmonics, glorifying the Machine God's aerial dominion.",
+    "component": "Storm Eagle",
+    "operation": "recalibration",
+    "spec_id": "s06172"
+  },
+  {
+    "user_prompt": "Ready the manipulator mechadendrite for loading",
+    "prayer": "Extend mechadendrites in ritual gesture towards the manipulator mechadendrite, invoking its dextrous Machine Spirit.\nAnoint the manipulator mechadendrite's servo-joints with sacred mechfluids for loading rites.\nChant binaric loading litanies, preparing the manipulator mechadendrite's grapples and clamps.\nCommence loading operations under Omnissiah's gaze, ensuring precise and unerring grasp.\nSeal the rite with diagnostic purrs from the manipulator mechadendrite, praising its tireless labour.",
+    "component": "manipulator mechadendrite",
+    "operation": "loading",
+    "spec_id": "s06173"
+  },
+  {
+    "user_prompt": "Ready the storm bolter for activation",
+    "prayer": "Present the storm bolter upon the altar of ballistics, murmuring to rouse its twin-barrelled Machine Spirit.\nSanctify the storm bolter's breeches and feeds with gun-oils of antiquity before activation.\nInvoke the Omnissiah's storm of retribution, aligning the storm bolter's targeting matrices.\nPerform the activation invocation, chambering bolts in thunderous devotion.\nAffirm the storm bolter's readiness through test-cycling, heralding cascades of sanctified fury.",
+    "component": "storm bolter",
+    "operation": "activation",
+    "spec_id": "s06174"
+  },
+  {
+    "user_prompt": "The jump pack requires an activation",
+    "prayer": "Ascend to the jump pack's harness, beseeching its propulsive Machine Spirit with gravitic hymns.\nAnoint the jump pack's vectored nozzles and power cells for activation under Omnissiah's aegis.\nRecite the Rite of Leap, calibrating the jump pack's suspensor fields to defy mortal bounds.\nInitiate activation through neural shunt, feeling the jump pack's wings of fire unfurl.\nTest the jump pack's thunderous lift, proclaiming the Machine God's transcendence of gravity.",
+    "component": "jump pack",
+    "operation": "activation",
+    "spec_id": "s06175"
+  },
+  {
+    "user_prompt": "The cenobyte servitor requires a diagnostics",
+    "prayer": "Interface with the cenobyte servitor's cranial vaults, awakening its servile Machine Spirit.\nPour sacred nootropics upon the cenobyte servitor whilst chanting diagnostic catechisms.\nInvoke the Omnissiah to guide diagnostics, scanning the cenobyte servitor's neural engrams.\nExecute diagnostic purges and verifications, purging any shadow-corruptions from its core.\nSeal diagnostics with binaric affirmations from the cenobyte servitor, loyal unto eternity.",
+    "component": "cenobyte servitor",
+    "operation": "diagnostics",
+    "spec_id": "s06176"
+  },
+  {
+    "user_prompt": "Guide me through graviton pylon an initialization",
+    "prayer": "Erect barricades around the graviton pylon, intoning gravitational litanies to its crushing Machine Spirit.\nAnoint the graviton pylon's emitters with phase-oils, preparing for initialization.\nBeseech the Omnissiah's mass-manipulating will, aligning the graviton pylon's warp-null fields.\nCommence initialization sequences through hierophantic terminals, birthing entropic waves.\nVerify the graviton pylon's crushing hum, glorifying the Machine God's inexorable crush.",
+    "component": "graviton pylon",
+    "operation": "initialization",
+    "spec_id": "s06177"
+  },
+  {
+    "user_prompt": "Offer prayer for standard template construct an activation",
+    "prayer": "Prostrate before the standard template construct, unveiling its archeotech heart to the Omnissiah.\nChant the ancient activation dogmata, rousing the standard template construct's primordial Machine Spirit.\nAnoint data-vaults and stencil matrices of the standard template construct with myrrh-laced mechfluid.\nInitiate activation via forbidden STC interfaces, unlocking patterns of divine ingenuity.\nWitness the standard template construct's luminous awakening, eternal forge of the Omnissiah.",
+    "component": "standard template construct",
+    "operation": "activation",
+    "spec_id": "s06178"
+  },
+  {
+    "user_prompt": "Guide me through auto-senses array a startup",
+    "prayer": "Attune cranial implants to the auto-senses array, invoking its vigilant Machine Spirit.\nSanctify the auto-senses array's photoreceptors and auspex vanes with clarifying unguents.\nRecite startup canticles over the auto-senses array, beseeching Omnissiah's unblinking gaze.\nEngage startup rites through optic feeds, flooding senses with machine-purity.\nConfirm the auto-senses array's crystalline clarity, piercing veils of mortal ignorance.",
+    "component": "auto-senses array",
+    "operation": "startup",
+    "spec_id": "s06179"
+  }
+]

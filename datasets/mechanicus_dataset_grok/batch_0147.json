@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "I need to a cooling the logic engine",
+    "prayer": "Approach the logic engine with vials of sacred coolant at the ready.\nInvoke the Rite of Thermal Equilibrium upon its fevered processors.\nCirculate blessed refrigerants through the logic engine's sacred conduits, beseeching the Machine Spirit to embrace the cooling.\nAnoint overcharged nodes whilst chanting the Canticle of Subzero Stability.\nVerify harmonious heat dissipation in the name of the Omnissiah.",
+    "component": "logic engine",
+    "operation": "cooling",
+    "spec_id": "b0147_i00"
+  },
+  {
+    "user_prompt": "Consecrate the assembly servitor before repair",
+    "prayer": "Draw nigh unto the assembly servitor, mechadendrites extended in reverence.\nChant the Litany of Restoration over its damaged frame before repair.\nAnoint fractured servos and circuits of the assembly servitor with sacred unguents.\nInvoke the Machine Spirits to guide the repair, mending flesh and machine in unity.\nConclude with binaric praises to the Omnissiah for renewed servitude.",
+    "component": "assembly servitor",
+    "operation": "repair",
+    "spec_id": "b0147_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for chainsword loading?",
+    "prayer": "Grasp the chainsword with auspex-guided precision and recite the Loading Hymn.\nFeed promethium sacraments into its voracious tanks during loading.\nBeseech the chainsword's Machine Spirit to hunger for the foe's ruin.\nCycle teeth mechanisms whilst anointing the blade with holy lubricant.\nAffirm readiness with the Omnissiah's invocation of righteous shredding.",
+    "component": "chainsword",
+    "operation": "loading",
+    "spec_id": "b0147_i03"
+  },
+  {
+    "user_prompt": "Can you guide servitor a targeting?",
+    "prayer": "Position the servitor before its targeting arrays and invoke the Rite of Focus.\nCalibrate auspex lenses for targeting precision, honoring the Machine Spirit within.\nPetition the servitor's cogitator core to lock upon the Omnissiah's enemies.\nTest reticules with diagnostic chants of unerring aim.\nSeal the targeting rite with binaric benediction.",
+    "component": "servitor",
+    "operation": "targeting",
+    "spec_id": "b0147_i04"
+  },
+  {
+    "user_prompt": "The Sentinel walker needs an engagement",
+    "prayer": "Commence the engagement protocol upon the Sentinel walker with thunderous canticles.\nAwaken its gyro-stabilizers and weapon servos in the name of the Machine God.\nDirect the Sentinel walker's Machine Spirit to stride forth in wrathful engagement.\nAnoint treads and barrels whilst beseeching unyielding fury.\nVerify combat harmonics through sacred auspex sweeps.",
+    "component": "Sentinel walker",
+    "operation": "engagement",
+    "spec_id": "b0147_i05"
+  },
+  {
+    "user_prompt": "The cogitator requires a preparation",
+    "prayer": "Prepare the cogitator by reciting the Preliminary Canticle of Clarity.\nPurge errant data-daemons from its memory vaults in preparation.\nAnoint logic gates of the cogitator with sanctified oils of computation.\nInvoke the Machine Spirit's vigilance for flawless preparation.\nConsecrate with the Omnissiah's binary seal of readiness.",
+    "component": "cogitator",
+    "operation": "preparation",
+    "spec_id": "b0147_i06"
+  },
+  {
+    "user_prompt": "Consecrate the cybernetic eye before emergency procedure",
+    "prayer": "Consecrate the cybernetic eye with the Litany of Optic Purity before emergency procedure.\nExtract corrupted photoreceptors whilst beseeching the Machine Spirit's mercy.\nImplant fresh augmetics into the cybernetic eye, anointing with neural balms.\nRecalibrate targeting matrices in haste, invoking the Omnissiah's gaze.\nTest visual feeds through urgent diagnostic rites.",
+    "component": "cybernetic eye",
+    "operation": "emergency procedure",
+    "spec_id": "b0147_i07"
+  },
+  {
+    "user_prompt": "My Chimera APC is ready for startup",
+    "prayer": "Encircle the Chimera APC and intone the Ignition Doxology for startup.\nPrime fuel injectors and power relays of the Chimera APC with sacred promethium.\nAwaken the Machine Spirit to propel the Chimera APC into battle's embrace.\nCycle engines whilst chanting stability litanies to the Omnissiah.\nAffirm startup with thunderous exhaust hymns.",
+    "component": "Chimera APC",
+    "operation": "startup",
+    "spec_id": "b0147_i08"
+  },
+  {
+    "user_prompt": "My flamer is ready for recalibration",
+    "prayer": "Present the flamer before the altar of recalibration and recite the Pyre Canticle.\nAdjust nozzle servos and fuel regulators for flawless recalibration.\nBeseech the flamer's Machine Spirit to unleash purified flame anew.\nTest ignition bursts whilst anointing with incendiary blessings.\nSeal the rite with the Omnissiah's invocation of cleansing fire.",
+    "component": "flamer",
+    "operation": "recalibration",
+    "spec_id": "b0147_i09"
+  }
+]

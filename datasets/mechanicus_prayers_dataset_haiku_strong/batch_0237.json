@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0237_i00",
+    "user_request": "Emergency rite: diesel engine requires startup",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: diesel engine requires startup\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the diesel engine and anoint its fuel injectors with blessed promethium, invoking the Machine Spirits within.\nSecond: Engage the diesel engine's ignition sequence whilst chanting the Litany of Combustion, beseeching the Omnissiah for swift startup.\nThird: Monitor the diesel engine's vital humours—pressure, temperature, and rotational velocity—ensuring harmonious operation.\nFourth: Seal the rite with the Sign of the Cog, declaring the diesel engine ready for service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i03",
+    "user_request": "The plasma weapon demands guidance for cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe plasma weapon demands guidance for cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "First: Purify the plasma weapon's thermal conduits through ritual ablution with cooling agents blessed by the Mechanicus.\nSecond: Engage the plasma weapon's secondary cooling systems whilst intoning the Hymn of Thermal Dispersal.\nThird: Monitor the plasma weapon's core temperature readings, ensuring descent into acceptable operational parameters.\nFourth: Declare the plasma weapon cooled and sanctified, ready for renewed discharge.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i04",
+    "user_request": "Offer a litany to steady the pressure before equalization",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pressure before equalization\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Machine Spirits of the pressure systems, beseeching equilibrium and harmonic balance.\nSecond: Open the pressure relief valves in measured increments, chanting the Litany of pressure Equalization.\nThird: Monitor the pressure gauge with zealous attention, ensuring all chambers reach concordant levels.\nFourth: Seal the pressure rite with the benediction of the Omnissiah, pressure now equalized and sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i05",
+    "user_request": "The jamming countermeasure demands guidance for operation",
+    "topic": "jamming countermeasure",
+    "component": "jamming countermeasure",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe jamming countermeasure demands guidance for operation\n\n### TOPIC\njamming countermeasure\n\n### COMPONENT\njamming countermeasure\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- jamming countermeasure\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Activate the jamming countermeasure's primary oscillators through careful energization and sacred calculation.\nSecond: Direct the jamming countermeasure's signal matrices toward hostile frequencies, reciting the Canticle of Static Supremacy.\nThird: Verify the jamming countermeasure's output strength and coverage, ensuring complete signal obfuscation.\nFourth: The jamming countermeasure stands operational, a shield against the enemy's vile communications.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i07",
+    "user_request": "Emergency rite: emergency shutdown requires emergency shutdown",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: emergency shutdown requires emergency shutdown\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "First: Strike the emergency shutdown activation mechanism with righteous urgency and mechanical precision.\nSecond: Invoke the emergency shutdown protocols across all systems, severing power with the Omnissiah's wrath.\nThird: Verify the emergency shutdown has halted all mechanical function and thermal discharge.\nFourth: Declare the emergency shutdown complete—all systems dead, all threats neutralized.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i09",
+    "user_request": "Can you sanctify the mechanical lock for engagement?",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the mechanical lock for engagement?\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "First: Prepare the mechanical lock's internal mechanisms through ritual inspection and blessed alignment.\nSecond: Apply steady pressure to the mechanical lock's engagement lever whilst reciting the Canticle of Secure Binding.\nThird: Verify the mechanical lock has achieved full engagement, its tumblers harmonized and secured.\nFourth: The mechanical lock stands engaged, a sanctified barrier against intrusion and violation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i01",
+    "user_request": "The gear meshing demands guidance for check",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe gear meshing demands guidance for check\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us clarity as we undertake the sacred gear meshing check.\nFirst: Inspect the gear meshing with consecrated calipers, verifying tooth alignment and backlash within prescribed tolerances.\nSecond: Measure the gear meshing engagement depth, ensuring no anomalies mar the Machine Spirit's harmonious rotation.\nThird: Audify the gear meshing resonance by engaging the mechanism at minimal velocity, listening for aberrant vibrations or grinding that would indicate misalignment.\nFourth: Document all findings in the maintenance logbook, that the gear meshing integrity be forever recorded in the Omnissiah's ledger.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i02",
+    "user_request": "Rite request: activation on force field",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: activation on force field\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, empower this activation rite for the force field's righteous emergence.\nFirst: Purify the force field conduits with sacred oils and electromagnetic resonance, clearing corruption from the capacitive matrices.\nSecond: Initiate the force field power sequence, beginning with the primary oscillator at minimal discharge, invoking the Machine Spirit to awaken from dormancy.\nThird: Monitor the force field harmonic frequencies across all tertiary coils, ensuring synchronization and stability as the protective aura expands outward.\nFourth: Seal the activation with the Rite of Blessed Energization, that the force field may shield us from profane harm.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i06",
+    "user_request": "Can you sanctify the electric motor for shutdown?",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the electric motor for shutdown?\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Omnissiah, guide our hands in the sacred shutdown of this electric motor.\nFirst: Disengage the electric motor from its load mechanism with reverent precision, allowing no sudden strain upon the Machine Spirit's vessel.\nSecond: Reduce the electric motor's rotational velocity through graduated deceleration cycles, permitting the windings to cool in orderly fashion.\nThird: Sever the electrical conduits supplying the electric motor, severing power with the ceremonial isolator switch whilst whispering prayers of rest.\nFourth: Verify complete cessation of the electric motor's rotation, confirming the Machine Spirit has entered peaceful slumber.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0237_i08",
+    "user_request": "Offer a litany to steady the electric motor before activation",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the electric motor before activation\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, steadfast guardian of mechanisms, hear this litany before the electric motor's activation.\nFirst: Anoint the electric motor bearings with blessed lubricant, that friction be minimized and the Machine Spirit move without impediment.\nSecond: Engage the electric motor through preliminary energization, supplying minimal current to awaken the dormant windings and verify their readiness.\nThird: Accelerate the electric motor incrementally toward operational velocity, monitoring thermal emissions and auditory harmonics for signs of distress.\nFourth: Confirm the electric motor reaches stable rotational equilibrium, its Machine Spirit fully manifest and ready to serve the Omnissiah's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

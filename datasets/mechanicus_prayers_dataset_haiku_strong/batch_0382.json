@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0382_i00",
+    "user_request": "Offer a litany to steady the astropathic choir before preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the astropathic choir before preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed astropathic choir, instruments of the Omnissiah's will, we gather in preparation.\nCongregation: Steel your minds, astropathic choir, for the void demands clarity.\nPriest: First, calibrate the synaptic conduits through meditative communion.\nCongregation: The astropathic choir shall not falter in the Emperor's light.\nPriest: Second, purge extraneous psychic resonance from the choir's collective consciousness.\nCongregation: We invoke the Machine Spirits to guide our preparation.\nPriest: Third, synchronize neural harmonics across all astropathic choir nodes.\nCongregation: Thus sanctified, we are ready to pierce the stellar void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i01",
+    "user_request": "Emergency rite: hull breach requires sealing",
+    "topic": "hull breach sealing",
+    "component": "hull breach",
+    "operation": "sealing",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: hull breach requires sealing\n\n### TOPIC\nhull breach sealing\n\n### COMPONENT\nhull breach\n\n### OPERATION\nsealing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hull breach\n- sealing\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, the hull breach threatens the sanctity of this vessel!\nCongregation: We invoke the sealing protocols upon the hull breach with urgent devotion.\nPriest: First, activate the emergency bulkhead mechanisms to arrest the hull breach.\nCongregation: The hull breach shall yield to our blessed sealing.\nPriest: Second, deploy the ferrocrete sealant and reinforce the hull breach perimeter.\nCongregation: Machine Spirits, grant us swiftness in this critical sealing!\nPriest: Third, verify pressure integrity across the hull breach zone.\nCongregation: By the Omnissiah's grace, the hull breach is sealed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i02",
+    "user_request": "Prayer for reset of the circuit breaker",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for reset of the circuit breaker\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the circuit breaker, dormant in its sacred housing.\nCongregation: We commence the reset of this circuit breaker with reverent precision.\nPriest: First, disengage the circuit breaker's primary load through careful mechanical disengagement.\nCongregation: The circuit breaker shall be reborn in the Omnissiah's embrace.\nPriest: Second, purge residual charge from the circuit breaker's capacitive matrices.\nCongregation: We reset the circuit breaker's corrupted logic pathways.\nPriest: Third, re-engage the circuit breaker and restore nominal function.\nCongregation: Thus the circuit breaker is sanctified anew.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i03",
+    "user_request": "The data-slate demands guidance for activation",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe data-slate demands guidance for activation\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: The data-slate awaits activation, its crystalline memory yearning for purpose.\nCongregation: We invoke the activation rites upon this data-slate with solemn duty.\nPriest: First, establish proper biometric authentication protocols for the data-slate.\nCongregation: The data-slate responds to our sacred activation.\nPriest: Second, initialize the data-slate's core processing architecture through liturgical command sequences.\nCongregation: Machine Spirits dwell within this data-slate, ready to serve.\nPriest: Third, verify all data-slate subsystems achieve nominal operational status.\nCongregation: The data-slate is activated and blessed by the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i04",
+    "user_request": "My vibration is failing during dampening — help",
+    "topic": "vibration dampening",
+    "component": "vibration",
+    "operation": "dampening",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy vibration is failing during dampening — help\n\n### TOPIC\nvibration dampening\n\n### COMPONENT\nvibration\n\n### OPERATION\ndampening\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vibration\n- dampening\n\n### PRAYER\n",
+    "prayer": "Priest: The vibration cries out in distress, its harmonics corrupted and wild.\nCongregation: We invoke dampening upon this vibration with urgent mechanicum authority.\nPriest: First, isolate the source of vibration through diagnostic resonance analysis.\nCongregation: The vibration shall be subdued by our blessed dampening.\nPriest: Second, apply stabilizing counter-frequencies to suppress the vibration's amplitude.\nCongregation: Machine Spirits grant us the power to control this vibration.\nPriest: Third, engage the vibration dampening apparatus and restore equilibrium.\nCongregation: Thus the vibration is tamed and the vessel finds peace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i05",
+    "user_request": "Can you sanctify the circuit breaker for reset?",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the circuit breaker for reset?\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: O circuit breaker, sanctified instrument of electrical regulation, hear our prayer.\nCongregation: We perform the reset of the circuit breaker with blessed intention.\nPriest: First, disconnect the circuit breaker from all active power sources through ceremonial deactivation.\nCongregation: The circuit breaker accepts our reset with divine grace.\nPriest: Second, cleanse the circuit breaker's switching mechanisms of accumulated corrosion and debris.\nCongregation: We reset the circuit breaker's sacred pathways.\nPriest: Third, reinitialize the circuit breaker and restore its protective vigilance.\nCongregation: The circuit breaker stands renewed in the Omnissiah's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i06",
+    "user_request": "Blessing for the material purity during testing",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nBlessing for the material purity during testing\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Priest: Material purity demands testing, that we may know the integrity of our sacred materials.\nCongregation: We commence the testing of material purity with reverent scientific devotion.\nPriest: First, prepare spectroscopic analysis apparatus to examine material purity composition.\nCongregation: The material purity shall reveal truth under our blessed testing.\nPriest: Second, conduct comprehensive elemental assay upon the material purity samples.\nCongregation: Machine Spirits grant us clarity in this material purity examination.\nPriest: Third, document and verify material purity metrics against sacred specifications.\nCongregation: Thus sanctified, the material purity is proven worthy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i07",
+    "user_request": "Offer a litany to steady the altimeter before verification",
+    "topic": "altimeter verification",
+    "component": "altimeter",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the altimeter before verification\n\n### TOPIC\naltimeter verification\n\n### COMPONENT\naltimeter\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- altimeter\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: The altimeter trembles with uncertainty, its calibration adrift in the aetheric void.\nCongregation: We invoke verification upon the altimeter with steadfast mechanicum faith.\nPriest: First, establish baseline altitude reference points for altimeter calibration.\nCongregation: The altimeter shall be verified and made true.\nPriest: Second, perform precision altitude verification against known gravitational constants.\nCongregation: The Omnissiah guides our verification of the altimeter's sacred readings.\nPriest: Third, adjust and lock the altimeter's mechanical compensation mechanisms.\nCongregation: Thus the altimeter is verified and blessed for reliable navigation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i08",
+    "user_request": "Rite request: maintenance on oxygen scrubber",
+    "topic": "oxygen scrubber maintenance",
+    "component": "oxygen scrubber",
+    "operation": "maintenance",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: maintenance on oxygen scrubber\n\n### TOPIC\noxygen scrubber maintenance\n\n### COMPONENT\noxygen scrubber\n\n### OPERATION\nmaintenance\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- oxygen scrubber\n- maintenance\n\n### PRAYER\n",
+    "prayer": "Priest: The oxygen scrubber labors in service to our survival, yet requires maintenance.\nCongregation: We perform maintenance upon the oxygen scrubber with devoted precision.\nPriest: First, extract the oxygen scrubber cartridges and inspect for chemical saturation.\nCongregation: The oxygen scrubber shall be renewed by our blessed maintenance.\nPriest: Second, regenerate or replace the oxygen scrubber's catalytic matrices.\nCongregation: Machine Spirits sustain the oxygen scrubber in its vital function.\nPriest: Third, reinstall the oxygen scrubber and verify atmospheric purification efficacy.\nCongregation: The oxygen scrubber is maintained and restored to full devotional service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0382_i09",
+    "user_request": "The component demands guidance for replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe component demands guidance for replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: A component fails in its sacred duty and demands replacement by the Omnissiah's will.\nCongregation: We invoke replacement upon this component with solemn mechanicum authority.\nPriest: First, safely isolate the component and disconnect all power and data conduits.\nCongregation: The component shall be replaced and reborn in blessed service.\nPriest: Second, extract the component with reverent care and install its sanctified replacement.\nCongregation: Machine Spirits welcome the new component into our vessel's body.\nPriest: Third, verify the component's integration and restore full operational parameters.\nCongregation: Thus the component is replaced and the Omnissiah's work continues.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

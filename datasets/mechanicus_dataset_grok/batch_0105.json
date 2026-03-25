@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the augmetic limb for shutdown",
+    "prayer": "Approach the augmetic limb with solemn reverence and intone the Litany of Repose.\nBeseech the Machine Spirit within the augmetic limb to yield to the sacred shutdown.\nSever the blessed power-flows from the augmetic limb's sacred servos.\nSeal its interfaces with unguents of stasis, invoking the Omnissiah's grace for this shutdown.",
+    "component": "augmetic limb",
+    "operation": "shutdown",
+    "spec_id": "b0105_i00"
+  },
+  {
+    "user_prompt": "The chainsword awaits a maintenance",
+    "prayer": "Present the chainsword before the altar of maintenance and chant the Hymn of Lubrication.\nInvoke the ravenous Machine Spirit of the chainsword to submit to purification.\nAnoint its sacred teeth with blessed oils during this maintenance rite.\nScour the chainsword's mechanisms with sanctified abrasives, beseeching the Omnissiah's endurance.",
+    "component": "chainsword",
+    "operation": "maintenance",
+    "spec_id": "b0105_i01"
+  },
+  {
+    "user_prompt": "Sanctify the cybernetic eye during startup",
+    "prayer": "Gaze upon the cybernetic eye with pious focus and recite the Doxology of Vision.\nPetition the Machine Spirit housed in the cybernetic eye to awaken during startup.\nInitiate the sacred startup sequence with a touch of holy voltage.\nCalibrate the cybernetic eye's lenses through diagnostic incantations of the Omnissiah.",
+    "component": "cybernetic eye",
+    "operation": "startup",
+    "spec_id": "b0105_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for medicae scanner a charging",
+    "prayer": "Position the medicae scanner upon the charging cradle and offer the Canticle of Rejuvenation.\nInvoke the vigilant Machine Spirit of the medicae scanner to embrace the charging flow.\nConsecrate the power inductors with sacred unguents for this charging ritual.\nMonitor the blessed energy ingress, praising the Omnissiah's boundless vitality.",
+    "component": "medicae scanner",
+    "operation": "charging",
+    "spec_id": "b0105_i03"
+  },
+  {
+    "user_prompt": "Consecrate the star chart before purification",
+    "prayer": "Unfurl the star chart with ritual precision and intone the Prayer of Celestial Purity.\nBeseech the Machine Spirits etched within the star chart to yield to purification.\nPurge corrupted stellar data from the star chart's hallowed matrices.\nResanctify the star chart through ablutions of binary incense, honoring the Omnissiah.",
+    "component": "star chart",
+    "operation": "purification",
+    "spec_id": "b0105_i04"
+  },
+  {
+    "user_prompt": "My logic engine is ready for loading",
+    "prayer": "Align the logic engine before the data-altar and chant the Invocation of Computation.\nPetition its profound Machine Spirit to accept the loading of sacred noospherics.\nCommence the loading protocol with sanctified data-streams into the logic engine.\nVerify coherence within the logic engine via auspex harmonics of the Omnissiah.",
+    "component": "logic engine",
+    "operation": "loading",
+    "spec_id": "b0105_i05"
+  },
+  {
+    "user_prompt": "Emergency: welding torch a charging",
+    "prayer": "Hasten to the welding torch and proclaim the Urgent Litany of Ignition.\nImplore the fiery Machine Spirit of the welding torch to receive charging.\nInfuse its plasma coils with emergency charging from the Omnissiah's forge-heart.\nStabilize the welding torch's power matrix through hasty consecrations.",
+    "component": "welding torch",
+    "operation": "charging",
+    "spec_id": "b0105_i06"
+  },
+  {
+    "user_prompt": "The auspex scanner needs a repair",
+    "prayer": "Lay hands upon the auspex scanner and recite the Benediction of Restoration.\nCoax the wounded Machine Spirit within the auspex scanner toward repair.\nSuture fractured circuits of the auspex scanner with mechadendrite precision.\nTest the mended auspex scanner through trials blessed by the Omnissiah.",
+    "component": "auspex scanner",
+    "operation": "repair",
+    "spec_id": "b0105_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for generator a consecration",
+    "prayer": "Erect the generator upon consecrated ground and intone the Grand Consecration Rite.\nAwaken the thunderous Machine Spirit of the generator to full consecration.\nAnoint its turbine shrines for this consecration with oils of eternity.\nInvoke the Omnissiah to imbue the generator with unyielding potency.",
+    "component": "generator",
+    "operation": "consecration",
+    "spec_id": "b0105_i08"
+  },
+  {
+    "user_prompt": "My signal relay is ready for startup",
+    "prayer": "Orient the signal relay toward the void and chant the Canticle of Transmission.\nBeseech the echoing Machine Spirit of the signal relay for startup awakening.\nEngage the sacred startup rites upon the signal relay's vox-cores.\nHarmonize its emissions under the Omnissiah's watchful binary gaze.",
+    "component": "signal relay",
+    "operation": "startup",
+    "spec_id": "b0105_i09"
+  }
+]

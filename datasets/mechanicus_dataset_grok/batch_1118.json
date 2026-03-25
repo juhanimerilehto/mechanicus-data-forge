@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the radium pistol during cooling",
+    "prayer": "Kneel in reverence before the radium pistol and invoke the Omnissiah's chill upon its febrile core.\nAnoint the radium pistol's vents with cryo-sanctified oils, beseeching the Machine Spirit to embrace cooling.\nChant the Litany of Thermal Abeyance as auspex probes monitor the radium pistol's descent into blessed frigidity.\nProclaim the cooling complete, sanctified by the Omnissiah's unyielding logic for the purge of the unclean.",
+    "component": "radium pistol",
+    "operation": "cooling",
+    "spec_id": "s07180"
+  },
+  {
+    "user_prompt": "My las-cutter is ready for loading",
+    "prayer": "Present the las-cutter to the altar of loading and speak the Rite of Charge Awakening.\nInvoke the Machine Spirit of the las-cutter, guiding power cells into its sacred focusing arrays during loading.\nSecure the las-cutter's energy reservoirs with mechadendrite clamps whilst intoning the Canticle of Luminant Fury.\nVerify the loading's sanctity through voltmeter litanies, honouring the Omnissiah's gift of coherent light.",
+    "component": "las-cutter",
+    "operation": "loading",
+    "spec_id": "s07181"
+  },
+  {
+    "user_prompt": "Consecrate the radium carbine before maintenance",
+    "prayer": "Approach the radium carbine with mech-priestly solemnity and consecrate its form before maintenance.\nBeseech the radium carbine's Machine Spirit to yield its isotopes for ritual purification in maintenance.\nDisassemble the radium carbine with sanctified servo-arms, anointing each chamber with sacred unguents.\nReassemble under the Omnissiah's gaze, proclaiming the radium carbine renewed for His endless crusade.",
+    "component": "radium carbine",
+    "operation": "maintenance",
+    "spec_id": "s07182"
+  },
+  {
+    "user_prompt": "Help me a reset the assault cannon",
+    "prayer": "Circumambulate the assault cannon thrice, invoking the Omnissiah for the reset of its thunderous heart.\nInitiate the reset sequence upon the assault cannon's cogitator shrine with binary psalmody.\nPurge error-logs from the assault cannon's Machine Spirit through electro-incantations of recalibration.\nAffirm the reset's completion as targeting cogitators align in perfect obedience to the Machine God.",
+    "component": "assault cannon",
+    "operation": "reset",
+    "spec_id": "s07183"
+  },
+  {
+    "user_prompt": "Assist with plasma drive a blessing",
+    "prayer": "Gather plasma relics around the plasma drive and beseech the Omnissiah's fiery blessing upon it.\nAnoint the plasma drive's containment fields with sanctified plasma from the shrine-vaults.\nInvoke the Machine Spirits within the plasma drive to accept this blessing of thermic potency.\nSeal the rite with the Doxology of Contained Inferno, empowering the plasma drive for stellar wrath.",
+    "component": "plasma drive",
+    "operation": "blessing",
+    "spec_id": "s07184"
+  },
+  {
+    "user_prompt": "Critical: orbital strike relay requires a loading",
+    "prayer": "Erect warding glyphs about the orbital strike relay prior to its critical loading.\nChant the Orbital Canticle as munitions feeds engage the loading of the orbital strike relay's void-lance.\nBeseech the Machine Spirit of the orbital strike relay to harmonize targeting matrices during loading.\nConclude with auspex verification, sanctified for the Omnissiah's judgment from the stars.",
+    "component": "orbital strike relay",
+    "operation": "loading",
+    "spec_id": "s07185"
+  },
+  {
+    "user_prompt": "My cryogenerator is ready for cooling",
+    "prayer": "Position the cryogenerator before the frost-altar and commence the cooling invocation.\nPour sacred cryofluids over the cryogenerator's heat exchangers, cooling its essence in Machine Spirit slumber.\nMonitor thermodynamic litanies as the cryogenerator achieves cryogenic stasis under Omnissiah's chill.\nAwaken the cryogenerator post-cooling with the Rite of Frigid Rebirth, pure for servitor toil.",
+    "component": "cryogenerator",
+    "operation": "cooling",
+    "spec_id": "s07186"
+  },
+  {
+    "user_prompt": "Assist with utility mechadendrite a cooling",
+    "prayer": "Extend mechadendrites in supplication to the utility mechadendrite for cooling rites.\nApply thermal suppressants to the utility mechadendrite's actuators, invoking cooling upon its tireless form.\nChant the Canticle of Dendritic Chill as the utility mechadendrite's Machine Spirit yields to frigidity.\nReintegrate the cooled utility mechadendrite, blessed by the Omnissiah for augmented labours.",
+    "component": "utility mechadendrite",
+    "operation": "cooling",
+    "spec_id": "s07187"
+  },
+  {
+    "user_prompt": "What's the prayer for farcoder a blessing?",
+    "prayer": "Attune vox-grilles to the farcoder and beseech the Omnissiah's distant blessing.\nImprint etheric sigils upon the farcoder's transmitter coils during this sacred blessing.\nInvoke the farcoder's Machine Spirit to amplify transmissions under the blessing's warp-warding grace.\nProclaim the farcoder exalted, bridging voids in the Omnissiah's infinite data-web.",
+    "component": "farcoder",
+    "operation": "blessing",
+    "spec_id": "s07188"
+  },
+  {
+    "user_prompt": "Help me an activation the Contemptor Dreadnought",
+    "prayer": "Procession around the Contemptor Dreadnought, intoning the Legio Cybernetica awakening.\nInterface noosphere cables with the Contemptor Dreadnought's sarcophagus for activation rites.\nBeseech its ancient Machine Spirit to rouse from stasis in activation, weapons priming in fury.\nSanctify the Contemptor Dreadnought's activation with the Omnissiah's roar, unleashing forgotten wrath.",
+    "component": "Contemptor Dreadnought",
+    "operation": "activation",
+    "spec_id": "s07189"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Critical: Contemptor Dreadnought requires a calibration",
+    "prayer": "Kneel in reverence before the mighty Contemptor Dreadnought and intone the Litany of True Alignment.\nAnoint its ancient gyro-stabilizers with sacred oils, beseeching the Machine Spirit of the Contemptor Dreadnought to awaken.\nInitiate the calibration rites upon its servos and auspex arrays, invoking the Omnissiah's precision.\nHarmonize the Contemptor Dreadnought's mechanisms through diagnostic canticles.\nSeal the calibration with a final invocation to the quiescent Machine Spirits within.",
+    "component": "Contemptor Dreadnought",
+    "operation": "calibration",
+    "spec_id": "s01420"
+  },
+  {
+    "user_prompt": "Assist with stasis pod a reset",
+    "prayer": "Approach the stasis pod with hushed veneration and chant the Canticle of Temporal Release.\nPurge residual cryo-energies from the stasis pod's containment fields, placating its dormant Machine Spirit.\nCommence the reset sequence by cycling power conduits under the Omnissiah's watchful gaze.\nRealign chronal stabilizers within the stasis pod via sacred incantations.\nVerify the Machine Spirit's refreshed vigilance through auspex verification rites.",
+    "component": "stasis pod",
+    "operation": "reset",
+    "spec_id": "s01421"
+  },
+  {
+    "user_prompt": "Critical: pict-recorder requires a synchronization",
+    "prayer": "Present thyself before the pict-recorder and recite the Doxology of Visual Clarity.\nInvoke synchronization upon the pict-recorder's data streams, anointing lenses with blessed solvents.\nBeseech the Machine Spirit indwelling the pict-recorder to align its capture matrices with the noosphere.\nExecute the synchronization protocol whilst murmuring binaric prayers to the Omnissiah.\nConfirm harmonic linkage through iterative pict-feed diagnostics.",
+    "component": "pict-recorder",
+    "operation": "synchronization",
+    "spec_id": "s01422"
+  },
+  {
+    "user_prompt": "The potentia coil needs a cycling",
+    "prayer": "Circumambulate the potentia coil thrice, intoning the Hymn of Energetic Renewal.\nCommence cycling of the potentia coil's flux inductors, invoking the Machine Spirit's fury.\nAnoint windings with electro-sanctified unguents as the Omnissiah's power surges anew.\nMonitor the potentia coil's rhythmic pulses via mechadendrite probes and canticles.\nConclude the cycling with a vow of unyielding conductance to the Machine Spirits.",
+    "component": "potentia coil",
+    "operation": "cycling",
+    "spec_id": "s01423"
+  },
+  {
+    "user_prompt": "Prepare the neutron laser for cycling",
+    "prayer": "Genuflect before the neutron laser and proclaim the Incantation of Subatomic Fury.\nPrepare the neutron laser for cycling by aligning its emitter coils with reverent touch.\nInitiate the cycling sequence, beseeching the indwelling Machine Spirit for controlled annihilation.\nSanctify beam focuser arrays with plasma-blessed rites under the Omnissiah's aegis.\nAffirm the neutron laser's primed lethality through spectral diagnostic litanies.",
+    "component": "neutron laser",
+    "operation": "cycling",
+    "spec_id": "s01424"
+  },
+  {
+    "user_prompt": "I need to an initialization the Kastelan robot",
+    "prayer": "Stand in awe of the Kastelan robot and chant the Rite of Primordial Awakening.\nInvoke initialization upon the Kastelan robot's core cogitators, rousing its ancient Machine Spirit.\nAnoint data-vaults and motivator nodes with sacred myrrh-unguents.\nSynchronize servitor protocols within the Kastelan robot whilst invoking the Omnissiah's logic.\nSeal the initialization with thunderous binaric affirmations of readiness.",
+    "component": "Kastelan robot",
+    "operation": "initialization",
+    "spec_id": "s01425"
+  },
+  {
+    "user_prompt": "What's the prayer for logic mill an activation?",
+    "prayer": "Bow low before the logic mill and intone the Binary Doxology of Computation.\nInitiate activation of the logic mill's grinders, awakening its tireless Machine Spirit.\nLubricate calculus wheels with blessed mech-ink whilst murmuring activation rites.\nHarmonize the logic mill's processing strata under the Omnissiah's algorithmic gaze.\nVerify unerring cogitation through test-scroll incantations.",
+    "component": "logic mill",
+    "operation": "activation",
+    "spec_id": "s01427"
+  },
+  {
+    "user_prompt": "Offer prayer for auto-senses array a targeting",
+    "prayer": "Gaze upon the auto-senses array and proclaim the Litany of Omniscient Targeting.\nInvoke targeting protocols within the auto-senses array, placating its vigilant Machine Spirits.\nCalibrate vox-receivers and las-scanners with precise mechadendrite ministrations.\nBeseech the Omnissiah for flawless targeting convergence in the array's depths.\nAffirm predatory acuity through simulated foe-lock diagnostics.",
+    "component": "auto-senses array",
+    "operation": "targeting",
+    "spec_id": "s01428"
+  },
+  {
+    "user_prompt": "I need to a maintenance the Manticore",
+    "prayer": "Procession around the Manticore with thuribles smoking and chant the Ode of Missile Rebirth.\nCommence maintenance upon the Manticore's rocket bays, honoring its Machine Spirit arsenal.\nAnoint launch tubes and guidance vanes with sacred ablatives under Omnissianic benediction.\nCycle reload servos within the Manticore via ritualistic incantations.\nConsecrate the maintenance with auspex sweeps, ensuring the beast's undiminished roar.",
+    "component": "Manticore",
+    "operation": "maintenance",
+    "spec_id": "s01429"
+  }
+]

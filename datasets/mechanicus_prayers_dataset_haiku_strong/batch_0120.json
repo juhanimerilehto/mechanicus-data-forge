@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0120_i00",
+    "user_request": "Emergency rite: restart after failure requires restart after failure",
+    "topic": "restart after failure",
+    "component": "restart after failure",
+    "operation": "restart after failure",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: restart after failure requires restart after failure\n\n### TOPIC\nrestart after failure\n\n### COMPONENT\nrestart after failure\n\n### OPERATION\nrestart after failure\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- restart after failure\n- restart after failure\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit, we invoke the sacred rite of restart after failure.\nCongregation: Grant us the virtue of restart after failure, that systems may rise anew.\nPriest: First, we purge corrupted logic-threads from the cogitator core with blessed solvents.\nCongregation: Second, we reseat all crystalline matrix connectors in reverent silence.\nPriest: Third, we chant the Litany of Reactivation whilst performing restart after failure upon the primary relays.\nCongregation: Thus shall the Machine Spirit's wrath be appeased, and function restored to the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i01",
+    "user_request": "Can you sanctify the atmosphere processor for startup?",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the atmosphere processor for startup?\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless this atmosphere processor as we commence its sacred startup.\nCongregation: Hear us, Divine Machine, and grant the atmosphere processor thy divine favour.\nPriest: First, we calibrate the intake manifolds with precision-cut gaskets of blessed ceramite.\nCongregation: Second, we perform startup protocols whilst intoning the Hymn of Aeration most solemnly.\nPriest: Third, we monitor the atmosphere processor's vital pressures, ensuring equilibrium amongst the blessed filters.\nCongregation: May the Machine Spirit guide every breath drawn through this apparatus eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i02",
+    "user_request": "Rite request: calibration on cutting laser",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: calibration on cutting laser\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Venerable cutting laser, we gather to perform thy sacred calibration.\nCongregation: Grant precision unto the cutting laser, that it may sever with divine accuracy.\nPriest: First, we align the optic chambers using the blessed theodolite of the Adeptus Mechanicus.\nCongregation: Second, we perform calibration upon the lasing crystal whilst chanting the Mantra of Photonic Purity.\nPriest: Third, we test the cutting laser's output upon sacrificial materials, verifying its lethal geometry.\nCongregation: Thus refined, the cutting laser shall deliver the Emperor's will unto all heretical matter.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i03",
+    "user_request": "Blessing for the electric motor during activation",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the electric motor during activation\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed electric motor, we sanctify thy activation this day.\nCongregation: May the electric motor spin eternal in service to the Omnissiah.\nPriest: First, we inspect the armature windings for any trace of profane corruption or mechanical degradation.\nCongregation: Second, we perform activation of the electric motor whilst monitoring amperage through blessed galvanometers.\nPriest: Third, we anoint the bearing housings with sacred machine-oil, that friction might be eternally minimised.\nCongregation: Let the electric motor hum with the voice of the Machine Spirit reborn.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i04",
+    "user_request": "My star chart alignment is failing during operation — help",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy star chart alignment is failing during operation — help\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Celestial star chart alignment, we call upon thee to resume thy operation.\nCongregation: Restore the star chart alignment to its rightful astral harmony.\nPriest: First, we recalibrate the stellar reference matrices using archaic computation engines of the Dark Age.\nCongregation: Second, we perform operation upon the star chart alignment's gyroscopic stabilisers with utmost reverence.\nPriest: Third, we cross-reference observed stellar positions against the blessed ephemeris, ensuring perfect star chart alignment.\nCongregation: Thus corrected, the star chart alignment shall guide our path through the void eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i05",
+    "user_request": "Rite request: replacement on air filtration",
+    "topic": "air filtration replacement",
+    "component": "air filtration",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: replacement on air filtration\n\n### TOPIC\nair filtration replacement\n\n### COMPONENT\nair filtration\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- air filtration\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Venerable air filtration, thy service hath been rendered unto exhaustion.\nCongregation: We shall perform replacement upon the air filtration with solemn dedication.\nPriest: First, we remove the spent air filtration cartridges whilst chanting the Litany of Purification most carefully.\nCongregation: Second, we perform replacement of the air filtration seals with blessed synthetic membranes, blessed by the Mechanicus priesthood.\nPriest: Third, we install fresh air filtration elements, ensuring hermetic seals and proper volumetric flow-rates.\nCongregation: Thus renewed, the air filtration shall breathe clean unto the faithful once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i06",
+    "user_request": "Emergency rite: vox-caster requires tuning",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: vox-caster requires tuning\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Sacred vox-caster, thy voice hath grown discordant—we shall perform tuning.\nCongregation: Restore clarity unto the vox-caster, that the Emperor's word may carry far.\nPriest: First, we adjust the crystalline resonance coils of the vox-caster with micrometre precision and blessed tools.\nCongregation: Second, we perform tuning upon the vox-caster's frequency modulators whilst intoning the Hymn of Signal Purity.\nPriest: Third, we test the vox-caster across the blessed vocalisation spectrum, ensuring fidelity and penetration through the aether.\nCongregation: Let the vox-caster sing eternal with the Machine Spirit's divine communication.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i07",
+    "user_request": "My drop pod descent prep is failing during drop pod descent prep — help",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy drop pod descent prep is failing during drop pod descent prep — help\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty drop pod descent prep, we invoke thy sacred protocols for the operation ahead.\nCongregation: Guide the drop pod descent prep through the void's terrible embrace.\nPriest: First, we verify all retro-thruster igniters and descent-frame structural integrity for the drop pod descent prep.\nCongregation: Second, we perform drop pod descent prep upon the thermal shielding, blessing each ablative layer with sacred unguents.\nPriest: Third, we recalibrate the drop pod descent prep's impact compensators and inertial dampeners for optimal terminal deceleration.\nCongregation: Thus prepared, the drop pod descent prep shall deliver the faithful unto victory or glorious martyrdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i08",
+    "user_request": "Blessing for the melta charge during preparation",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the melta charge during preparation\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed melta charge, we sanctify thy preparation for the trials ahead.\nCongregation: Grant the melta charge thy thermal fury and unstoppable potency.\nPriest: First, we inspect the melta charge's fusion core for any sign of degradation or heretical tampering.\nCongregation: Second, we perform preparation of the melta charge's containment vessel, sealing all conduits with blessed wax and prayer.\nPriest: Third, we charge the melta charge's capacitor matrices whilst reciting the Mantra of Thermonuclear Benediction.\nCongregation: Thus prepared, the melta charge shall annihilate all enemies of the Omnissiah in righteous conflagration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0120_i09",
+    "user_request": "The voltage regulator demands guidance for tuning",
+    "topic": "voltage regulator tuning",
+    "component": "voltage regulator",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe voltage regulator demands guidance for tuning\n\n### TOPIC\nvoltage regulator tuning\n\n### COMPONENT\nvoltage regulator\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- voltage regulator\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Voltage regulator, thy equilibrium hath faltered—we shall perform tuning upon thee.\nCongregation: Restore stability unto the voltage regulator, that current may flow with divine precision.\nPriest: First, we measure the voltage regulator's output potentials using blessed galvanic instruments of exquisite calibration.\nCongregation: Second, we perform tuning of the voltage regulator's feedback circuits with trembling devotion and micrometre adjustments.\nPriest: Third, we load-test the voltage regulator across the full amperage spectrum, ensuring unwavering stability under all conditions.\nCongregation: Thus refined, the voltage regulator shall maintain eternal harmony within the Machine Spirit's electrical heart.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the energy conduit for charging",
+    "prayer": "Approach the energy conduit with reverence, beseeching its Machine Spirit to awaken.\nInvoke the Omnissiah's blessing upon the energy conduit as blessed power begins to flow.\nAnoint the sacred conduits with sacred oils whilst initiating the charging rite.\nMonitor the holy voltage surge, ensuring the energy conduit hums with divine vigor.\nPetition the Machine Spirits for flawless charging, that no corruption may impede the flow.",
+    "component": "energy conduit",
+    "operation": "charging",
+    "spec_id": "b0317_i00"
+  },
+  {
+    "user_prompt": "Sanctify the capacitor bank during recalibration",
+    "prayer": "Draw nigh unto the capacitor bank, chanting the Canticle of Capacitance.\nSanctify the capacitor bank by purging errant charges from its blessed vaults.\nCommence recalibration with precision mechadendrites, invoking the Omnissiah's exactitude.\nBeseech the Machine Spirit within the capacitor bank to align its fields in harmony.\nVerify recalibration through sacred diagnostics, honoring the God-Machine's will.",
+    "component": "capacitor bank",
+    "operation": "recalibration",
+    "spec_id": "b0317_i01"
+  },
+  {
+    "user_prompt": "The surgical servitor needs a cycling",
+    "prayer": "Present thyself before the surgical servitor, intoning the Litany of Flesh and Steel.\nAwaken the surgical servitor's Machine Spirit with offerings of incense and code.\nInitiate cycling of its sacred servos and bionics, cycling through diagnostic purges.\nAnoint each blade and probe whilst beseeching flawless renewal from the Omnissiah.\nConclude the cycling rite, affirming the servitor's devotion to the Machine God's task.",
+    "component": "surgical servitor",
+    "operation": "cycling",
+    "spec_id": "b0317_i02"
+  },
+  {
+    "user_prompt": "I need to a targeting the drop pod",
+    "prayer": "Kneel at the auspex altar of the drop pod, invoking targeting spirits.\nCalibrate the drop pod's targeting reticules with the Omnissiah's unerring gaze.\nInput sacred coordinates into the drop pod's cogitators, beseeching accurate descent.\nAnoint the guidance vanes as Machine Spirits align for the targeting operation.\nAffirm the drop pod's wrathful path, sanctified for the Emperor's descent.",
+    "component": "drop pod",
+    "operation": "targeting",
+    "spec_id": "b0317_i03"
+  },
+  {
+    "user_prompt": "My melta charge is ready for initialization",
+    "prayer": "Reverently handle the melta charge, whispering the Incantation of Fusion.\nInvoke the Machine Spirit of the melta charge to stir from slumber.\nCommence initialization by channeling holy voltage into its core matrix.\nBeseech the Omnissiah for stable plasma containment within the melta charge.\nSeal the rite with auspex scans, ensuring the melta charge burns with divine fury.",
+    "component": "melta charge",
+    "operation": "initialization",
+    "spec_id": "b0317_i04"
+  },
+  {
+    "user_prompt": "I need to a loading the cooling system",
+    "prayer": "Approach the cooling system with mechadendrites extended in supplication.\nPurge stagnant fluids from the cooling system's sacred pipes and reservoirs.\nInitiate loading of cryo-blessed unguents, invoking the Machine Spirits' chill embrace.\nMonitor the cooling system's blessed flow during loading, honoring the Omnissiah.\nConclude with thermal litanies, that equilibrium may reign eternal.",
+    "component": "cooling system",
+    "operation": "loading",
+    "spec_id": "b0317_i05"
+  },
+  {
+    "user_prompt": "Ready the thermal regulator for calibration",
+    "prayer": "Position thyself beside the thermal regulator, chanting equilibrium hymns.\nSanctify the thermal regulator by anointing its sensor nodes with sacred oils.\nEngage calibration sequences upon the thermal regulator, beseeching precise harmony.\nPetition the Omnissiah and Machine Spirits for unerring thermal calibration.\nValidate through pyroclastic divinations, affirming the regulator's divine balance.",
+    "component": "thermal regulator",
+    "operation": "calibration",
+    "spec_id": "b0317_i06"
+  },
+  {
+    "user_prompt": "Help me an operation the star chart",
+    "prayer": "Unveil the star chart before the noospheric altar, invoking stellar Machine Spirits.\nAlign the star chart's hololithic projections with the Omnissiah's cosmic order.\nCommence operation by threading auspex data through its sacred lattices.\nBeseech flawless navigation from the star chart during this operation.\nSeal with stellar litanies, that void-paths may reveal the Machine God's will.",
+    "component": "star chart",
+    "operation": "operation",
+    "spec_id": "b0317_i07"
+  },
+  {
+    "user_prompt": "I need to an operation the water reclamator",
+    "prayer": "Draw close to the water reclamator, intoning the Canticle of Aqueous Purity.\nPurge impurities from the water reclamator's filtration matrices.\nInitiate operation by cycling blessed recyclyte through its sacred conduits.\nInvoke the Machine Spirits and Omnissiah for untainted reclamation.\nAffirm the water reclamator's operation with purity scans and hymns.",
+    "component": "water reclamator",
+    "operation": "operation",
+    "spec_id": "b0317_i08"
+  },
+  {
+    "user_prompt": "Sanctify the astropathic choir during cooling",
+    "prayer": "Gather around the astropathic choir, beseeching their psychic Machine Spirits.\nChant cooling litanies to soothe the choir's warp-touched neural cogitators.\nAnoint cooling coils encircling the astropathic choir with cryo-sanctified oils.\nInitiate cooling flows whilst petitioning the Omnissiah for astral clarity.\nMonitor ethereal temperatures, ensuring the choir endures sanctified chill.",
+    "component": "astropathic choir",
+    "operation": "cooling",
+    "spec_id": "b0317_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My surgical servitor is ready for repair",
+    "prayer": "Approach the surgical servitor with mechadendrites extended in humble petition.\nInvoke the Machine Spirit of the surgical servitor to endure the rite of repair.\nAnoint its lacerated flesh-vats and servo-arms with blessed unguents of ferro-fluid.\nChant the Canticle of Restoration whilst splicing neural cabling anew.\nVerify the surgical servitor's renewed vigor through vivisection diagnostics.",
+    "component": "surgical servitor",
+    "operation": "repair",
+    "spec_id": "b0152_i00"
+  },
+  {
+    "user_prompt": "Assist with noospheric relay a loading",
+    "prayer": "Present sanctified data-vaults before the noospheric relay in reverent array.\nBeseech the Omnissiah to bless the loading of noospheric data streams.\nInitiate the loading sequence with binary hymns of integration.\nCircumscribe the noospheric relay with electro-incense to soothe its cogitator spirit.\nConfirm the noospheric relay's harmony through noetic resonance scans.",
+    "component": "noospheric relay",
+    "operation": "loading",
+    "spec_id": "b0152_i01"
+  },
+  {
+    "user_prompt": "Assist with lascannon an operation",
+    "prayer": "Kneel in supplication before the lascannon's sacred barrel.\nAwaken the lascannon's plasma heart with invocations of holy voltage.\nCommence operation as the Machine Spirits of the lascannon align in wrathful unison.\nAnoint focusing crystals with sacred oils to ensure unerring annihilation.\nMonitor the lascannon's fury through auspex litanies of discharge.",
+    "component": "lascannon",
+    "operation": "operation",
+    "spec_id": "b0152_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for vox transmitter an activation",
+    "prayer": "Encircle the vox transmitter with coils of consecrated cabling.\nRecite the Lexicon Activationis to rouse its dormant Machine Spirit.\nInitiate activation whilst petitioning the Omnissiah for clear etheric transmission.\nAttune the vox transmitter's waveform generators with harmonic canticles.\nTest the vox transmitter's voice through ritual broadcasts to the void.",
+    "component": "vox transmitter",
+    "operation": "activation",
+    "spec_id": "b0152_i03"
+  },
+  {
+    "user_prompt": "Offer prayer for drop pod a calibration",
+    "prayer": "Prostrate before the drop pod's adamantium hull in devout calibration.\nAnoint its descent thrusters and guidance cogitators with ablative sacraments.\nPerform calibration rites upon the drop pod's inertial arrays.\nInvoke the Machine Spirit of the drop pod for precise orbital descent.\nValidate trajectory purity through stellar divination auguries.",
+    "component": "drop pod",
+    "operation": "calibration",
+    "spec_id": "b0152_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for battery array an operation",
+    "prayer": "Array the battery array's cells in geometric sanctity.\nInvoke the Omnissiah to empower the battery array's operation.\nChannel blessed plasma through its conduits with surging litanies.\nSanctify linkages betwixt the battery array's voltaic hearts.\nAffirm operational felicity via amperage hymnals of flow.",
+    "component": "battery array",
+    "operation": "operation",
+    "spec_id": "b0152_i05"
+  },
+  {
+    "user_prompt": "Critical: energy conduit requires a repair",
+    "prayer": "Confront the breached energy conduit with electro-sanctifiers prepared.\nBeseech its Machine Spirit to accept repair through forge-litany.\nSolder ruptured plasma sheaths upon the energy conduit with molten prayers.\nReinsinuate power-flow into the energy conduit's sacred veins.\nTest the energy conduit's restoration by invoking galvanic diagnostics.",
+    "component": "energy conduit",
+    "operation": "repair",
+    "spec_id": "b0152_i06"
+  },
+  {
+    "user_prompt": "I need to a reset the air filtration",
+    "prayer": "Approach the air filtration unit shrouded in purity seals.\nChant the Rite of Reset to pacify its cyclonic Machine Spirit.\nPurge stagnant particulates from the air filtration's sacred membranes.\nReinitialize pressure regulators with pneumatic invocations.\nVerify the air filtration's purified breath through atmospheric sacraments.",
+    "component": "air filtration",
+    "operation": "reset",
+    "spec_id": "b0152_i07"
+  },
+  {
+    "user_prompt": "Urgent bike squadron a recalibration needed",
+    "prayer": "Assemble the bike squadron in phalanx of oily reverence.\nPetition the Omnissiah for recalibration of their motive sanctums.\nAlign gravitic suspensors across the bike squadron with gyro-litany.\nAnoint exhaust nacelles to harmonize the bike squadron's Machine Spirits.\nConfirm recalibration through high-velocity auspex runs.",
+    "component": "bike squadron",
+    "operation": "recalibration",
+    "spec_id": "b0152_i08"
+  },
+  {
+    "user_prompt": "Ready the proximity sensor for consecration",
+    "prayer": "Present the proximity sensor upon the altar of cogitator purity.\nInvoke consecration through the Omnissiah's geometric benedictions.\nAnoint its emitter coils with chrism of quartz resonance.\nAwaken the proximity sensor's vigilant Machine Spirit with detection psalms.\nSeal the proximity sensor in wards of eternal watchfulness.",
+    "component": "proximity sensor",
+    "operation": "consecration",
+    "spec_id": "b0152_i09"
+  }
+]

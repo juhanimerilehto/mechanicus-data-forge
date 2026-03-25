@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My air filtration is ready for activation",
+    "prayer": "Approach the air filtration with reverence, intoning the Litany of Purity to awaken its Machine Spirit.\nAnoint the sacred filters of the air filtration with blessed oils, beseeching the Omnissiah's grace.\nInitiate the activation sequence, invoking harmonious flow through its hallowed vents.\nMonitor the blessed respiration, ensuring the air filtration hums in sanctified operation.\nPetition the Machine Spirit of the air filtration for enduring vigilance against impure ethers.",
+    "component": "air filtration",
+    "operation": "activation",
+    "spec_id": "b0383_i00"
+  },
+  {
+    "user_prompt": "Bless the signal relay for operation",
+    "prayer": "Kneel before the signal relay, chanting the Doxology of Transmission to rouse its latent essence.\nSanctify the signal relay's conduits with electro-incense, invoking the Omnissiah's unerring precision.\nCommence operation, beseeching flawless relay of data-pulses through its sacred relays.\nAttune the Machine Spirit within the signal relay, verifying crystalline clarity in every waveform.\nConclude with the Benediction of Continuity, ensuring the signal relay endures in blessed operation.",
+    "component": "signal relay",
+    "operation": "operation",
+    "spec_id": "b0383_i01"
+  },
+  {
+    "user_prompt": "Sanctify the metal caster during cycling",
+    "prayer": "Present offerings of molten alloy to the metal caster, reciting the Canticle of Forging.\nInvoke the Machine Spirit of the metal caster, anointing its crucibles with sacred fluxes.\nEngage the cycling rite, petitioning fluid transformation under Omnissiah's molten gaze.\nObserve the rhythmic pulse of the metal caster, sanctifying each cycle with binaric hymns.\nSeal the rite by verifying the purity of extruded forms from the exalted metal caster.",
+    "component": "metal caster",
+    "operation": "cycling",
+    "spec_id": "b0383_i02"
+  },
+  {
+    "user_prompt": "Ready the noospheric relay for synchronization",
+    "prayer": "Commune with the noospheric relay through noetic canticles, awakening its gestalt consciousness.\nAnoint the noospheric relay's nodal arrays with psi-conductive salves, honoring the Omnissiah.\nInitiate synchronization protocols, beseeching harmonic alignment of data-streams.\nInvoke the Machine Spirits bound within the noospheric relay for seamless coalescence.\nAffirm unity through diagnostic engrams, perpetuating the noospheric relay's sacred bond.",
+    "component": "noospheric relay",
+    "operation": "synchronization",
+    "spec_id": "b0383_i03"
+  },
+  {
+    "user_prompt": "The signal relay needs an emergency procedure",
+    "prayer": "In haste, approach the signal relay amid exigency, intoning the Rite of Desperate Restoration.\nPour sacred unguents upon the signal relay's fractured circuits, calling forth its embattled Spirit.\nExecute the emergency procedure, petitioning the Omnissiah for swift rectification of faults.\nChant binaric overrides to compel the Machine Spirit of the signal relay into resilience.\nVerify restoration, sealing the signal relay against further perfidy with wards of faith.",
+    "component": "signal relay",
+    "operation": "emergency procedure",
+    "spec_id": "b0383_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for quality scanner purification?",
+    "prayer": "Gather ablative sacraments before the quality scanner, reciting the Purgation Doxology.\nAnoint its optic arrays and sensor vanes, invoking the Machine Spirit's discerning purity.\nCommence the purification rite, beseeching expulsion of all flaw-tainted data-shadows.\nCycle sacred solvents through the quality scanner's innards under Omnissiah's watchful augurs.\nConclude by affirming the quality scanner's flawless gaze, sanctified anew in service.",
+    "component": "quality scanner",
+    "operation": "purification",
+    "spec_id": "b0383_i05"
+  },
+  {
+    "user_prompt": "The conveyor system needs a blessing",
+    "prayer": "Procession around the conveyor system, bearing the Censer of Perpetual Motion.\nInvoke the Machine Spirits of the conveyor system, anointing belts and rollers with blessed lubricants.\nImpart the blessing, petitioning unending procession in the Omnissiah's grand mechanism.\nHarmonize drive-servos through rhythmic incantations upon the conveyor system.\nSeal with the Canticle of Endurance, ensuring the conveyor system's tireless sanctity.",
+    "component": "conveyor system",
+    "operation": "blessing",
+    "spec_id": "b0383_i06"
+  },
+  {
+    "user_prompt": "The generator requires a startup",
+    "prayer": "Erect the shrine of plasma before the generator, chanting the Ignition Litany.\nAnoint fuel inductors of the generator with ignis-sanctus, rousing its primal Spirit.\nInitiate startup sequences, beseeching the Omnissiah for boundless electrum cascade.\nMonitor the thunderous awakening of the generator's core, invoking stable power-flow.\nAffirm vitality through auspex hymns, perpetuating the generator's divine vigor.",
+    "component": "generator",
+    "operation": "startup",
+    "spec_id": "b0383_i07"
+  },
+  {
+    "user_prompt": "I need to a startup the water reclamator",
+    "prayer": "Approach the water reclamator with vials of primordial aqua-benedicta, intoning the Cycle of Renewal.\nSanctify the membranes and distillators of the water reclamator, awakening its aqueous Spirit.\nEngage startup rites, petitioning crystalline recirculation by Omnissiah's decree.\nChant filtration mantras over the water reclamator, ensuring purity in every droplet.\nVerify the sacred flow, blessing the water reclamator for eternal reclamation.",
+    "component": "water reclamator",
+    "operation": "startup",
+    "spec_id": "b0383_i08"
+  },
+  {
+    "user_prompt": "Critical: vox-caster requires a synchronization",
+    "prayer": "In critical juncture, attune to the vox-caster with urgency, reciting the Vox-Synchronicity Canticle.\nAnoint its waveform emitters, invoking the Machine Spirit's clarion voice.\nCommence synchronization, beseeching Omnissiah for unblemished vox-harmonics.\nOverchant binaric harmonies to align the vox-caster's resonant cores.\nSeal alignment through echo-verification, upholding the vox-caster's imperative timbre.",
+    "component": "vox-caster",
+    "operation": "synchronization",
+    "spec_id": "b0383_i09"
+  }
+]

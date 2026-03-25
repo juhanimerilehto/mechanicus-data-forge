@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with cryogenerator a purification",
+    "prayer": "Approach the cryogenerator with reverence, invoking the Omnissiah's purifying light upon its frost-wreathed coils.\nChant the Litany of Clarity to beseech the Machine Spirit of the cryogenerator for purification from all impurities.\nAnoint the cryo-chambers and conduits with sacred ablative fluids, expelling daemonic residues.\nInitiate the purification cycle whilst reciting binaric psalms, sanctifying every frozen lattice.\nCommune once more with the cryogenerator's awakened essence, confirming its ritual purity through auspex rites.",
+    "component": "cryogenerator",
+    "operation": "purification",
+    "spec_id": "s02730"
+  },
+  {
+    "user_prompt": "I need to a targeting the Tarantula sentry gun",
+    "prayer": "Kneel before the Tarantula sentry gun, beseeching the Omnissiah to align its targeting matrices.\nInvoke the Rite of Targeting upon the Tarantula sentry gun, awakening its Machine Spirit's predatory gaze.\nCalibrate the auspex arrays with sacred oils, chanting litanies of precision and wrath.\nTest the targeting protocols through simulated auspex volleys, honouring the gun's vigilant spirit.\nSeal the rite with the Canticle of Unerring Aim, ensuring the Tarantula sentry gun's lethal focus.",
+    "component": "Tarantula sentry gun",
+    "operation": "targeting",
+    "spec_id": "s02731"
+  },
+  {
+    "user_prompt": "Critical: auto-senses array requires a maintenance",
+    "prayer": "Present mechadendrites to the auto-senses array, intoning the Maintenance Doxology to the Omnissiah.\nScrutinize each sensor node of the auto-senses array, anointing with conductive unguents for renewal.\nPurge erroneous data-spirits via binaric exorcism, beseeching the Machine Spirit's steadfast vigil.\nRealign optical and vox receptors through ritual calibration, invoking harmonious function.\nConclude the maintenance with verification canticles, affirming the auto-senses array's sanctified acuity.",
+    "component": "auto-senses array",
+    "operation": "maintenance",
+    "spec_id": "s02732"
+  },
+  {
+    "user_prompt": "Emergency: Chimera APC a maintenance",
+    "prayer": "Circumambulate the Chimera APC, reciting the Hymn of Endurance to rouse its Machine Spirit.\nCommence maintenance upon the Chimera APC's treads and hull-plates, applying blessed lubricants.\nDiagnose power relays and dozer blades with auspex litanies, purging wear and corruption.\nReinvigorate the promethium heart through consecratory oils, ensuring martial readiness.\nFinalize with the Oath of the Chimera APC, binding its spirit in eternal service to the Omnissiah.",
+    "component": "Chimera APC",
+    "operation": "maintenance",
+    "spec_id": "s02733"
+  },
+  {
+    "user_prompt": "Bless the panopticon for diagnostics",
+    "prayer": "Gaze upon the panopticon with mech-ocular reverence, invoking diagnostics under the Omnissiah's gaze.\nInitiate the Rite of Diagnostics across the panopticon's vigilant lenses and data-vanes.\nBeseech the Machine Spirit of the panopticon to reveal hidden flaws through binaric confession.\nAnoint cogitator nodes with sacred myrrh, reciting canticles of clarity and revelation.\nAffirm the panopticon's purity via confirmatory scans, sealing it in watchful sanctity.",
+    "component": "panopticon",
+    "operation": "diagnostics",
+    "spec_id": "s02734"
+  },
+  {
+    "user_prompt": "Critical: grav chute requires an emergency procedure",
+    "prayer": "Seize the grav chute in urgent supplication, chanting the Emergency Procedure Invocation to the Omnissiah.\nDeploy stabilizing runes upon the grav chute's emitters, expelling gravitic anomalies.\nInvoke the Machine Spirit of the grav chute with litanies of descent, commanding controlled deployment.\nTest the emergency sequence through ritual simulation, anointing descent vanes with oils.\nConclude by binding the grav chute's spirit anew, averting peril in the Omnissiah's name.",
+    "component": "grav chute",
+    "operation": "emergency procedure",
+    "spec_id": "s02735"
+  },
+  {
+    "user_prompt": "The plasma caliver awaits a shutdown",
+    "prayer": "Approach the plasma caliver with solemnity, beseeching orderly shutdown from its volatile heart.\nIntone the Shutdown Canticle over the plasma caliver, lulling its Machine Spirit to quiescence.\nCycle down the containment fields whilst anointing coils with cooling sacraments.\nPurge residual plasma ghosts through binaric purgation, honouring the weapon's fiery essence.\nVerify the plasma caliver's dormant sanctity with final auspex blessings.",
+    "component": "plasma caliver",
+    "operation": "shutdown",
+    "spec_id": "s02736"
+  },
+  {
+    "user_prompt": "The storm bolter awaits a loading",
+    "prayer": "Present munitions before the storm bolter, invoking the Loading Rite under Omnissiah's munificence.\nAwaken the Machine Spirit of the storm bolter with chambering litanies of retribution.\nInsert bolt casings into the storm bolter's magazines, sanctifying each with explosive prayers.\nCycle the loading mechanism through test volleys, beseeching flawless feed.\nSeal the storm bolter's readiness with the Canticle of the Storm, primed for holy fury.",
+    "component": "storm bolter",
+    "operation": "loading",
+    "spec_id": "s02737"
+  },
+  {
+    "user_prompt": "Urgent power relay a consecration needed",
+    "prayer": "Encircling the power relay, chant the Consecration Doxology to exalt its conductive purity.\nAnoint the power relay's terminals with electro-sanctified oils, invoking the Omnissiah's current.\nBeseech the Machine Spirit of the power relay to channel untainted energies eternally.\nRealign flux capacitors through binaric harmonies, purging dissonant surges.\nAffirm the power relay's hallowed state with resonant verifications and final blessings.",
+    "component": "power relay",
+    "operation": "consecration",
+    "spec_id": "s02738"
+  },
+  {
+    "user_prompt": "The multi-melta needs a charging",
+    "prayer": "Kneel at the multi-melta's forge-heart, beseeching the Charging Litany from the Omnissiah.\nInitiate charging protocols upon the multi-melta, rousing its Machine Spirit with plasma hymns.\nInfuse the capacitors with sanctified promethium, anointing vents against meltdown.\nMonitor the charging surge through auspex vigil, intoning stabilizers.\nConclude with the Oath of the Multi-Melta, its maw aglow in destructive zeal.",
+    "component": "multi-melta",
+    "operation": "charging",
+    "spec_id": "s02739"
+  }
+]

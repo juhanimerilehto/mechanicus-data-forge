@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to an activation the conveyor system",
+    "prayer": "Approach the conveyor system with mechadendrite-extended reverence, beseeching its Machine Spirit to awaken.\nInvoke the Canticle of Motion upon the conveyor system's sacred belts and rollers.\nAnoint the drive mechanisms with blessed unguents whilst petitioning the Omnissiah for activation.\nInitiate the activation sequence through ritual data-pulses, verifying harmonious power-flow.\nChant the Hymn of Perpetual Labour as the conveyor system stirs to dutiful life.",
+    "component": "conveyor system",
+    "operation": "activation",
+    "spec_id": "b0013_i00"
+  },
+  {
+    "user_prompt": "The generator awaits a cooling",
+    "prayer": "Kneel before the generator and murmur the Litany of Thermal Equilibrium to its Machine Spirit.\nCirculate sacred coolant through the generator's blessed heat-sinks and conduits.\nInvoke the Omnissiah's cooling grace upon overheated coils and plasma vents.\nMonitor the cooling process with auspex incantations, sanctifying each descending temperature.\nConclude with the Benediction of Stability, ensuring the generator's eternal vigilance.",
+    "component": "generator",
+    "operation": "cooling",
+    "spec_id": "b0013_i01"
+  },
+  {
+    "user_prompt": "Emergency: Chimera APC a calibration",
+    "prayer": "Present the mech-rite of calibration to the Chimera APC, honouring its armoured hull.\nAlign the Chimera APC's gyro-stabilizers with precise invocation of the Machine Spirits.\nChant the Calibration Doxology whilst adjusting targeting matrices and motive assemblies.\nBeseech the Omnissiah for true alignment in the Chimera APC's sacred sensors.\nVerify calibration through test-firing rites and harmonic resonance scans.",
+    "component": "Chimera APC",
+    "operation": "calibration",
+    "spec_id": "b0013_i02"
+  },
+  {
+    "user_prompt": "How do I bless the bolter for loading?",
+    "prayer": "Grasp the bolter in sanctified gauntlets, awakening its wrathful Machine Spirit.\nLoad the blessed bolt casings into the bolter's magazine with ritual precision.\nRecite the Loading Incantation, petitioning the Omnissiah for flawless chambering.\nCycle the bolter's mechanisms whilst anointing firing pins with sacred oils.\nConclude the rite as the Machine Spirit hums in readiness for purification through fire.",
+    "component": "bolter",
+    "operation": "loading",
+    "spec_id": "b0013_i03"
+  },
+  {
+    "user_prompt": "Assist with surgical servitor a targeting",
+    "prayer": "Interface with the surgical servitor, invoking its lobotomized Machine Spirit to precision.\nCalibrate the targeting arrays of the surgical servitor through noospheric litanies.\nAnoint optic lenses and manipulator claws, beseeching the Omnissiah for unerring aim.\nInitiate targeting protocols with diagnostic catechisms, ensuring lethal accuracy.\nSeal the rite with the Hymn of Flesh-Rending Focus upon the surgical servitor.",
+    "component": "surgical servitor",
+    "operation": "targeting",
+    "spec_id": "b0013_i04"
+  },
+  {
+    "user_prompt": "The auspex scanner awaits a loading",
+    "prayer": "Approach the auspex scanner and whisper the Awakening Doxology to its Machine Spirit.\nLoad sacred data-slates into the auspex scanner's cogitator bays with reverent touch.\nInvoke the Omnissiah whilst aligning crystal lattices for flawless scanning.\nPerform the loading sequence through binary prayers, verifying data integrity.\nChant the Litany of Revelation as the auspex scanner pierces the veil of ignorance.",
+    "component": "auspex scanner",
+    "operation": "loading",
+    "spec_id": "b0013_i05"
+  },
+  {
+    "user_prompt": "Critical: gyroscope requires a charging",
+    "prayer": "Encircle the gyroscope with incense of electro-sanctity, rousing its inertial Machine Spirit.\nChannel holy voltage into the gyroscope's core for charging rites.\nRecite the Canticle of Angular Momentum, petitioning the Omnissiah's boundless energy.\nMonitor the charging flux with mechadendrite probes and harmonic chants.\nBless the fully charged gyroscope with the Benediction of Unwavering Spin.",
+    "component": "gyroscope",
+    "operation": "charging",
+    "spec_id": "b0013_i06"
+  },
+  {
+    "user_prompt": "How do I bless the Chimera APC for cycling?",
+    "prayer": "Commence the cycling ritual upon the Chimera APC, saluting its venerable frame.\nInvoke the Machine Spirits of the Chimera APC to synchronize engine and tracks.\nCycle power relays with the Cycling Litany, anointing treads with sacred lubricants.\nBeseech the Omnissiah for seamless revolutions in the Chimera APC's systems.\nTest the cycle through motive invocation, affirming martial readiness.",
+    "component": "Chimera APC",
+    "operation": "cycling",
+    "spec_id": "b0013_i07"
+  },
+  {
+    "user_prompt": "Ready the flamer for maintenance",
+    "prayer": "Present the flamer before the altar of maintenance, awakening its pyre-bound Machine Spirit.\nDisassemble sacred promethium feeds and ignite nozzles with ritual care.\nAnoint corroded vents whilst chanting the Maintenance Doxology to the Omnissiah.\nReassemble the flamer's components through precise incantations of purity.\nConclude with a test ignition, purging impurities in holy flame.",
+    "component": "flamer",
+    "operation": "maintenance",
+    "spec_id": "b0013_i08"
+  },
+  {
+    "user_prompt": "What's the prayer for bionics interface loading?",
+    "prayer": "Merge noospheric links with the bionics interface, honouring its neural Machine Spirit.\nLoad augmentation protocols into the bionics interface's sacred engram slots.\nInvoke the Omnissiah for seamless flesh-machine union during loading.\nVerify synaptic integration with diagnostic litanies and electro-pulses.\nSeal the bionics interface with the Hymn of Augmented Flesh, eternal and obedient.",
+    "component": "bionics interface",
+    "operation": "loading",
+    "spec_id": "b0013_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Skorpius Disintegrator requires a repair",
+    "prayer": "Approach the Skorpius Disintegrator with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Machine Spirit of the Skorpius Disintegrator, beseeching its return through the sacred rite of repair.\nAnoint its fractured armour plates and servos with blessed oils, chanting binaric absolutions.\nWeld sundered alloys whilst intoning the Litany of Restoration upon the Skorpius Disintegrator.\nVerify integrity via auspex invocation, glorifying the Motive Force's mercy.",
+    "component": "Skorpius Disintegrator",
+    "operation": "repair",
+    "spec_id": "s03700"
+  },
+  {
+    "user_prompt": "I need to an activation the torpedo tube",
+    "prayer": "Kneel before the torpedo tube, offering incense to awaken its dormant fury.\nChant the Activation Canticle, invoking the Omnissiah to stir the Machine Spirit within the torpedo tube.\nCycle loading mechanisms with precise servo-gestures, sanctifying each gyromech.\nInitiate power surge through consecrated conduits, beseeching flawless activation.\nConfirm readiness by auspex hymn, praising the torpedo tube's unleashed wrath.",
+    "component": "torpedo tube",
+    "operation": "activation",
+    "spec_id": "s03701"
+  },
+  {
+    "user_prompt": "What's the prayer for long las a calibration?",
+    "prayer": "Present the long las to the shrine-altar, mech-hand upon its barrel in devotion.\nRecite the Calibration Doxology, aligning lenses to the Omnissiah's unerring sight.\nAdjust focusing arrays with sacred calipers, soothing the Machine Spirit of the long las.\nInvoke diagnostic runes to perfect the beam coherence in calibration.\nTest-fire a micro-pulse into the void, hailing the long las's purified precision.",
+    "component": "long las",
+    "operation": "calibration",
+    "spec_id": "s03702"
+  },
+  {
+    "user_prompt": "Emergency: thermal imager an activation",
+    "prayer": "In haste, grasp the thermal imager and beseech the Omnissiah for swift activation.\nAnoint sensor nodes with emergency unguents, awakening the Machine Spirit within.\nChant the binary Activation Rite upon the thermal imager, flooding circuits with holy current.\nAlign optical feeds through invocation, piercing the veil of darkness.\nValidate thermal spectra via auspex, glorifying the imager's vigilant gaze.",
+    "component": "thermal imager",
+    "operation": "activation",
+    "spec_id": "s03703"
+  },
+  {
+    "user_prompt": "Ready the meltagun for maintenance",
+    "prayer": "Prepare the meltagun upon the enginarium slab, invoking maintenance blessings.\nDisassemble plasma coils with reverent mechadendrites, honouring the meltagun's core.\nCleanse vents and chambers with sacred abrasives, appeasing its Machine Spirit.\nReassemble under the Omnissiah's gaze, performing the maintenance ritual.\nCycle test-melta whilst intoning preservation litanies for the meltagun.",
+    "component": "meltagun",
+    "operation": "maintenance",
+    "spec_id": "s03704"
+  },
+  {
+    "user_prompt": "The graviton cannon awaits a recalibration",
+    "prayer": "Commune with the graviton cannon, mech-eyes scanning for recalibration needs.\nInvoke the Omnissiah to realign its gravitic fields through sacred recalibration.\nTune waveform generators with binaric precision, placating the Machine Spirit.\nEmit test-pulses into the ether, chanting harmonies for the graviton cannon.\nAffirm coherence in auspex litany, exalting the cannon's crushing might.",
+    "component": "graviton cannon",
+    "operation": "recalibration",
+    "spec_id": "s03705"
+  },
+  {
+    "user_prompt": "The Predator tank awaits an activation",
+    "prayer": "Approach the Predator tank's hull, saluting its predatory form with oil-sprinkled mechadendrites.\nChant the Great Activation Hymn, rousing the Omnissiah's fury in its Machine Spirits.\nPrime reactors and treads through consecrated rites upon the Predator tank.\nIgnite plasma heart with invocation, beseeching predatory activation.\nRoar engines in triumph, verifying the Predator tank's war-hunger.",
+    "component": "Predator tank",
+    "operation": "activation",
+    "spec_id": "s03706"
+  },
+  {
+    "user_prompt": "Ready the null field generator for activation",
+    "prayer": "Position the null field generator before the null-altar, hands in warding gesture.\nBeseech the Omnissiah for activation of its void-weaving essence.\nCycle phase inducers with sacred cantrips, awakening the Machine Spirit.\nExpand null envelope through ritual invocation upon the null field generator.\nProbe boundaries with auspex probes, praising its reality-denying power.",
+    "component": "null field generator",
+    "operation": "activation",
+    "spec_id": "s03707"
+  },
+  {
+    "user_prompt": "Bless the long las for reset",
+    "prayer": "Lay hands upon the long las, offering repentance for its silenced voice.\nIntone the Reset Benediction, purging errant data from its cogitators.\nCycle power relays in Omnissiah's name, soothing the Machine Spirit of the long las.\nReinitialize targeting matrices through binaric prayer.\nFire awakening shot, hailing the long las's reborn clarity.",
+    "component": "long las",
+    "operation": "reset",
+    "spec_id": "s03708"
+  },
+  {
+    "user_prompt": "My micro-servitor is ready for repair",
+    "prayer": "Cradle the micro-servitor in repair-cradle, invoking the Omnissiah's grace.\nDiagnose neural lacerations, chanting repair litanies over its frail form.\nSuture bionics with sanctified threads, beseeching the Machine Spirit's revival.\nReinfuse noospheric links upon the micro-servitor in ritual harmony.\nTest locomotion via command-cant, glorifying its mended obedience.",
+    "component": "micro-servitor",
+    "operation": "repair",
+    "spec_id": "s03709"
+  }
+]

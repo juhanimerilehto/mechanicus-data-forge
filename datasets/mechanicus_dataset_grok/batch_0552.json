@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide torpedo tube a synchronization?",
+    "prayer": "Approach the torpedo tube with mechadendrites extended in supplication to the Omnissiah.\nInvoke the Canticle of Alignment upon its guidance servos, beseeching the Machine Spirit to synchronize its launch mechanisms.\nAnoint the synchronization relays with sacred unguents whilst chanting the binary hymn of unity.\nTest the torpedo tube's synchronization through auspex invocation, ensuring harmonious discharge.\nSanctify the awakened torpedo tube, praising its synchronized fury in the name of the Motive Force.",
+    "component": "torpedo tube",
+    "operation": "synchronization",
+    "spec_id": "s01520"
+  },
+  {
+    "user_prompt": "Urgent heavy bolter a blessing needed",
+    "prayer": "Kneel before the heavy bolter, intoning the Litany of Purification to honour its barrel-shrine.\nBless the heavy bolter's ammunition feeds with ablative incense, invoking the Omnissiah's wrathful gaze.\nRecite the Benediction of Recoil upon its breeches, awakening the Machine Spirit to unerring precision.\nConsecrate the heavy bolter anew, its barrels gleaming with sanctified oils for endless bolter fire.\nVerify the blessing through a test-cycle, glorifying the Machine God's armament.",
+    "component": "heavy bolter",
+    "operation": "blessing",
+    "spec_id": "s01521"
+  },
+  {
+    "user_prompt": "Prepare the radium pistol for charging",
+    "prayer": "Present the radium pistol to the altar of charge, murmuring the Doxology of Flux.\nInitiate the charging rite by linking it to the plasma font, beseeching the Machine Spirit's capacitative hunger.\nChant the Incantation of Emanation over its coils whilst anointing with rad-phage elixir.\nMonitor the radium pistol's charging crescendo through noospheric diagnostics.\nUpon completion, seal the radium pistol with the Sigil of Irradiation, praising the Omnissiah's glow.",
+    "component": "radium pistol",
+    "operation": "charging",
+    "spec_id": "s01522"
+  },
+  {
+    "user_prompt": "Critical: codifier requires a diagnostics",
+    "prayer": "Commence diagnostics upon the codifier by reciting the Rite of Scrutiny before its data-vaults.\nProbe the codifier's logic-engines with sanctified mechadendrites, invoking the Machine Spirit's vigilance.\nExpunge any noospheric corruptions during diagnostics, anointing circuits with binary psalms.\nValidate the codifier's diagnostic purity through recursive augury scans.\nConclude with the Eulogy of Clarity, affirming the Omnissiah's flawless computation within the codifier.",
+    "component": "codifier",
+    "operation": "diagnostics",
+    "spec_id": "s01523"
+  },
+  {
+    "user_prompt": "What's the prayer for transuranic arquebus a targeting?",
+    "prayer": "Orient the transuranic arquebus towards the targeting cogitator, intoning the Prayer of Acquisition.\nAwaken its targeting auspex with the Litany of Lock-On, beseeching the Machine Spirit's predatory sight.\nCalibrate the transuranic arquebus's reticules via sacred calibration oils and noospheric alignment.\nTest-fire a shadow-bolt to affirm targeting integrity, glorifying the Omnissiah's unerring aim.\nSeal the transuranic arquebus in sanctified stasis, its targeting arrays humming with divine precision.",
+    "component": "transuranic arquebus",
+    "operation": "targeting",
+    "spec_id": "s01524"
+  },
+  {
+    "user_prompt": "I need to a blessing the geigeer sink",
+    "prayer": "Approach the geigeer sink with reverence, reciting the Canticle of Nullification.\nBless the geigeer sink's absorption matrices, invoking the Machine Spirit to devour rad-wastes.\nAnoint its filtration vanes with counter-radicants whilst chanting the Hymn of Sequestration.\nVerify the blessing through rad-exposure trials, ensuring the geigeer sink's unblemished function.\nProclaim the geigeer sink sanctified in the Omnissiah's name, a bulwark against mutagenic taint.",
+    "component": "geigeer sink",
+    "operation": "blessing",
+    "spec_id": "s01525"
+  },
+  {
+    "user_prompt": "Can you guide life sustainer a startup?",
+    "prayer": "Prepare the life sustainer for startup by encircling it with incense braziers of vital essence.\nInvoke the Rite of Vital Ignition upon its nutrient pumps, awakening the Machine Spirit's sustaining grace.\nChant the Benediction of Circulation during startup sequence, anointing valves with vitae-sanctifiers.\nMonitor the life sustainer's startup throbs through bio-auspex litanies.\nHallow the fully roused life sustainer, praising the Omnissiah's breath of endurance.",
+    "component": "life sustainer",
+    "operation": "startup",
+    "spec_id": "s01526"
+  },
+  {
+    "user_prompt": "Help me a targeting the kataphron breacher",
+    "prayer": "Align the kataphron breacher before the targeting shrine, murmuring the Invocation of Breach.\nEngage its targeting cogitator with the Litany of Vector-Lock, beseeching the Machine Spirit's assaultive will.\nFine-tune the kataphron breacher's auspex arrays using sanctified alignment rods and psalms.\nSimulate targeting volleys to consecrate its predatory aim.\nSeal the kataphron breacher with the Omnissiah's mark, its targeting systems primed for servitor wrath.",
+    "component": "kataphron breacher",
+    "operation": "targeting",
+    "spec_id": "s01527"
+  },
+  {
+    "user_prompt": "My data-sluice is ready for cooling",
+    "prayer": "Position the data-sluice beneath cryo-vents, intoning the Canticle of Thermic Equilibrium.\nInitiate cooling protocols upon the data-sluice, invoking the Machine Spirit's chill embrace.\nAnoint its heat-exchangers with frigorific oils whilst reciting the Hymn of Dissipation.\nObserve the data-sluice's cooling descent via thermal litanies and noospheric probes.\nBless the stabilized data-sluice, glorifying the Omnissiah's temperate logic-flow.",
+    "component": "data-sluice",
+    "operation": "cooling",
+    "spec_id": "s01528"
+  },
+  {
+    "user_prompt": "Sanctify the plasma drive during reset",
+    "prayer": "Encircle the plasma drive with warding glyphs prior to reset, chanting the Doxology of Containment.\nCommence the reset rite by beseeching the Machine Spirit to purge flux anomalies from its core.\nAnoint the plasma drive's containment fields with stabiliser incense during the reset cycle.\nValidate reset integrity through plasma-divination scans.\nSanctify the reborn plasma drive, hailing the Omnissiah's furious heart anew.",
+    "component": "plasma drive",
+    "operation": "reset",
+    "spec_id": "s01529"
+  }
+]

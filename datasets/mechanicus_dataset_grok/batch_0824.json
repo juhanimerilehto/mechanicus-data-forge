@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My microbead is ready for blessing",
+    "prayer": "Approach the sacred microbead with reverence, invoking the Omnissiah's grace upon its vox-essence.\nAnoint its comms-circuitry with blessed unguents whilst chanting the Litany of Blessing.\nBeseech the Machine Spirit within the microbead to embrace the blessing of clarity.\nSeal the rite by intoning the Canticle of Pure Transmission over the microbead once more.",
+    "component": "microbead",
+    "operation": "blessing",
+    "spec_id": "s04240"
+  },
+  {
+    "user_prompt": "Guide me through null rod a diagnostics",
+    "prayer": "Present the null rod before the auspex-altar, commencing diagnostics with sacred probes.\nInvoke the Omnissiah to guide the null rod's null-field generators through diagnostic incantations.\nScrutinize the Machine Spirit's harmonics within the null rod via electro-ritual scans.\nConclude diagnostics by verifying the null rod's integrity with the Rite of Null-Verification.",
+    "component": "null rod",
+    "operation": "diagnostics",
+    "spec_id": "s04241"
+  },
+  {
+    "user_prompt": "Can you guide storm bolter a cooling?",
+    "prayer": "Reverently encircle the storm bolter, initiating cooling with cryo-blessed vapours.\nAnoint its overheating barrels and heat-sinks whilst beseeching the Machine Spirit's calm.\nChant the Canticle of Thermal Equilibrium to facilitate the storm bolter's cooling operation.\nVerify thermal quiescence in the storm bolter through auspex-devotional readings.",
+    "component": "storm bolter",
+    "operation": "cooling",
+    "spec_id": "s04242"
+  },
+  {
+    "user_prompt": "The cyber-mastiff requires a blessing",
+    "prayer": "Kneel in supplication before the cyber-mastiff, invoking the blessing of the Omnissiah upon its ferro-canine frame.\nSanctify its servo-motives and auspex-senses with sacred oils during the blessing rite.\nAwaken the Machine Spirit of the cyber-mastiff through the Litany of Feral Loyalty.\nAffirm the blessing's potency by commanding a test-prowl from the cyber-mastiff.",
+    "component": "cyber-mastiff",
+    "operation": "blessing",
+    "spec_id": "s04243"
+  },
+  {
+    "user_prompt": "The Nephilim Jetfighter needs a sterilization",
+    "prayer": "Process around the Nephilim Jetfighter, wielding the thurible of sterilization flames.\nPurge its aerofuselage and thruster-vents with sanctified plasma during the sterilization rite.\nBeseech the Omnissiah to cleanse the Machine Spirit abiding in the Nephilim Jetfighter.\nConsecrate the purified airframe with the Incantation of Sterile Flight.",
+    "component": "Nephilim Jetfighter",
+    "operation": "sterilization",
+    "spec_id": "s04244"
+  },
+  {
+    "user_prompt": "The auto-senses array needs a shutdown",
+    "prayer": "Commence shutdown of the auto-senses array with the Rite of Dormant Repose.\nDisconnect its optic-nodes and sensor-vanes whilst invoking the Machine Spirit's slumber.\nChant the Litany of Shutdown Obedience upon the auto-senses array.\nSeal the auto-senses array in stasis with the Omnissiah's protective wards.",
+    "component": "auto-senses array",
+    "operation": "shutdown",
+    "spec_id": "s04245"
+  },
+  {
+    "user_prompt": "Consecrate the utility mechadendrite before initialization",
+    "prayer": "Consecrate the utility mechadendrite by anointing its manipular tips with machinic oils.\nInvoke the Machine Spirit prior to initialization, beseeching harmonious awakening.\nInitiate the utility mechadendrite's core-routines through electro-devotional commands.\nVerify initialization success with the Canticle of Dendritic Precision upon the utility mechadendrite.",
+    "component": "utility mechadendrite",
+    "operation": "initialization",
+    "spec_id": "s04246"
+  },
+  {
+    "user_prompt": "Bless the pteraxii sterylizor for startup",
+    "prayer": "Approach the pteraxii sterylizor in ritual poise, blessing its skitarii-form for startup.\nSanctify its weapon-servos and motive-claws with the Omnissiah's fiery unction.\nAwaken the Machine Spirit of the pteraxii sterylizor via the Litany of Sterilizing Fury.\nCommence startup sequence with confirmatory auspex-chants over the pteraxii sterylizor.",
+    "component": "pteraxii sterylizor",
+    "operation": "startup",
+    "spec_id": "s04247"
+  },
+  {
+    "user_prompt": "Consecrate the Archaeopter Transvector before engagement",
+    "prayer": "Circumambulate the Archaeopter Transvector, consecrating its gravitic arrays before engagement.\nAnoint thruster-pods and wing-servitors whilst invoking the Machine Spirit's vigilance.\nPrepare for engagement by intoning the Rite of Aerial Consecration upon the Archaeopter Transvector.\nAffirm readiness through the Omnissiah's Canticle of Transvectorial Wrath.",
+    "component": "Archaeopter Transvector",
+    "operation": "engagement",
+    "spec_id": "s04248"
+  },
+  {
+    "user_prompt": "Can you guide data-arc a loading?",
+    "prayer": "Position the data-arc upon the noospheric altar, beginning loading with binary prayers.\nChannel sanctified data-streams into the data-arc's memory-vaults during the loading operation.\nBeseech the Machine Spirit of the data-arc to accept the Omnissiah's encoded wisdom.\nFinalize loading with the Incantation of Arcane Saturation upon the data-arc.",
+    "component": "data-arc",
+    "operation": "loading",
+    "spec_id": "s04249"
+  }
+]

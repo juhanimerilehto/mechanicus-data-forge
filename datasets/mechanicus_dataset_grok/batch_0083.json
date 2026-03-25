@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with neural implant a preparation",
+    "prayer": "Approach the neural implant with solemn reverence, beseeching its Machine Spirit for auspicious preparation.\nAnoint the sacred synapses and interfaces of the neural implant with sanctified conductive unguents.\nInvoke the rites of preparation, aligning bio-neural pathways to the Omnissiah's divine logic.\nChant the Canticle of Integration whilst calibrating the implant's memory engrams.\nSeal the preparation with a final petition to the Machine Spirits for flawless union.",
+    "component": "neural implant",
+    "operation": "preparation",
+    "spec_id": "b0083_i00"
+  },
+  {
+    "user_prompt": "Ready the bolter for shutdown",
+    "prayer": "Kneel before the bolter in pious obeisance, murmuring the Litany of Cessation.\nDisengage the sacred firing servos of the bolter, beseeching its Machine Spirit to enter dormancy.\nInitiate the shutdown sequence with blessed oils upon the promethium feeds.\nVerify the bolter's Machine Spirit slumbers peacefully through auspex chants.\nConclude with invocations to the Omnissiah, guardian of inert mechanisms.",
+    "component": "bolter",
+    "operation": "shutdown",
+    "spec_id": "b0083_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for atmosphere processor reset?",
+    "prayer": "Present thyself unto the atmosphere processor, intoning the Hymn of Renewal.\nPurge tainted filtrum stacks within the atmosphere processor, awakening its Machine Spirit.\nExecute the reset protocols amid clouds of sanctified incense.\nRealign atmospheric regulators to the Omnissiah's pure breath.\nAffirm the processor's restored harmony with diagnostic litanies.",
+    "component": "atmosphere processor",
+    "operation": "reset",
+    "spec_id": "b0083_i02"
+  },
+  {
+    "user_prompt": "Can you guide hololithic display a diagnostics?",
+    "prayer": "Gaze upon the hololithic display with veneration, reciting the Creed of Clarity.\nInitiate diagnostics upon the hololithic display's crystal lattices and projector nodes.\nBeseech the Machine Spirit to reveal hidden faults in holographic emissions.\nScrutinize data-streams with mechadendrite probes and binary prayers.\nConsecrate the hololithic display's renewal in the Omnissiah's luminous sight.",
+    "component": "hololithic display",
+    "operation": "diagnostics",
+    "spec_id": "b0083_i03"
+  },
+  {
+    "user_prompt": "Can you guide bolter an activation?",
+    "prayer": "Approach the bolter in ritual poise, chanting the Incantation of Wrath.\nAnoint the bolter's sacred chambers with sacred promethium oils.\nInvoke activation of the Machine Spirit, arming firing servos and gyros.\nPrime the weapon's holy munitions feed under Omnissiah's vigilant gaze.\nTest-fire a single shot in devotional fury to affirm the bolter's readiness.",
+    "component": "bolter",
+    "operation": "activation",
+    "spec_id": "b0083_i04"
+  },
+  {
+    "user_prompt": "Help me a calibration the auspex scanner",
+    "prayer": "Commune with the auspex scanner, whispering the Doxology of Precision.\nCommence calibration of the auspex scanner's sensor vanes and logic arrays.\nBeseech its Machine Spirit for unerring acuity in scanning fields.\nAdjust wave-form harmonics with mechadendrite precision and litanies.\nSeal the calibration rite with oaths to the Omnissiah's infinite calculations.",
+    "component": "auspex scanner",
+    "operation": "calibration",
+    "spec_id": "b0083_i05"
+  },
+  {
+    "user_prompt": "Guide me through hololithic display an emergency procedure",
+    "prayer": "In emergency's dire grasp, clutch the hololithic display and intone the Desperation Psalm.\nPurge overload cascades from the hololithic display's core matrices.\nExecute emergency procedures to stabilize its Machine Spirit's frenzy.\nForce realignment of fractured holo-emissions with frantic binary supplications.\nInvoke the Omnissiah's mercy to restore the hololithic display from abyssal failure.",
+    "component": "hololithic display",
+    "operation": "emergency procedure",
+    "spec_id": "b0083_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for cutting laser operation?",
+    "prayer": "Present the cutting laser before the altar of industry, reciting the Forgefather's Chant.\nEngage the operation of the cutting laser's plasma coils and focusing lenses.\nBeseech its Machine Spirit to carve with Omnissiah-blessed precision.\nMonitor power flows and beam integrity amid sacred sparks.\nConclude the laser's operation with ablutions of coolant sacraments.",
+    "component": "cutting laser",
+    "operation": "operation",
+    "spec_id": "b0083_i07"
+  },
+  {
+    "user_prompt": "I need to a loading the logic engine",
+    "prayer": "Reverently interface with the logic engine, murmuring the Loading Liturgy.\nInitiate loading of noospheric data-vaults into the logic engine's cogitators.\nPetition the Machine Spirit to assimilate code-fragments without corruption.\nCycle the logic engine's processors thrice in rhythmic incantation.\nAffirm integration complete under the Omnissiah's algorithmic decree.",
+    "component": "logic engine",
+    "operation": "loading",
+    "spec_id": "b0083_i08"
+  },
+  {
+    "user_prompt": "The thermal regulator awaits a sterilization",
+    "prayer": "Approach the thermal regulator with purifying intent, chanting the Sterile Benediction.\nCommence sterilization cycles within the thermal regulator's heat exchangers.\nExorcise microbial heresies from its blessed conduits via plasma pyres.\nInvoke the Machine Spirit's vigilance during thermal sweeps.\nSanctify the thermal regulator's purity with final vents of incense-laden steam.",
+    "component": "thermal regulator",
+    "operation": "sterilization",
+    "spec_id": "b0083_i09"
+  }
+]

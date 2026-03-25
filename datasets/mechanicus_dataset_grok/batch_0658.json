@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My jump pack is ready for consecration",
+    "prayer": "Kneel before the jump pack and invoke the Omnissiah's grace upon its sacred form.\nAnoint the thrusters of the jump pack with blessed promethium oils during the consecration rite.\nBeseech the Machine Spirit within the jump pack to bind its fury to the faithful.\nSeal the consecration with binary chants, affirming the jump pack's divine propulsion.\nTest its ascent through ritual leaps, honouring the Motive Force.",
+    "component": "jump pack",
+    "operation": "consecration",
+    "spec_id": "s02580"
+  },
+  {
+    "user_prompt": "What's the prayer for Contemptor Dreadnought a diagnostics?",
+    "prayer": "Approach the Contemptor Dreadnought with mechadendrite-proffered sensors attuned.\nInitiate diagnostics upon the Contemptor Dreadnought's ancient sarcophagus core.\nChant the Canticle of Scrutiny to awaken its Machine Spirit for revelation.\nCycle through auspex sweeps, purging errant data-daemons from the Contemptor Dreadnought.\nAffirm vitality via noospheric litanies, under the Omnissiah's unblinking gaze.\nConclude diagnostics with the Doxology of Restoration.",
+    "component": "Contemptor Dreadnought",
+    "operation": "diagnostics",
+    "spec_id": "s02581"
+  },
+  {
+    "user_prompt": "Prepare the auto-senses array for cycling",
+    "prayer": "Position mechari canticles before the auto-senses array for preparatory rites.\nInvoke the cycling sequence upon the auto-senses array with precise binaric pulses.\nAnoint optical lenses of the auto-senses array whilst beseeching its Machine Spirit.\nCycle calibration servos in harmonious revolution, expelling stagnant essences.\nVerify the auto-senses array's acuity through shadow-plays of sacred light.\nSeal the cycling with the Hymn of Perceptive Clarity.",
+    "component": "auto-senses array",
+    "operation": "cycling",
+    "spec_id": "s02582"
+  },
+  {
+    "user_prompt": "The autogun requires a cycling",
+    "prayer": "Grasp the autogun in servitor claws and commence the cycling invocation.\nChant the Litany of Cyclic Renewal as munitions belts engage within the autogun.\nBeseech the Machine Spirit of the autogun to align its firing servos flawlessly.\nCycle the feed mechanism thrice, anointing with sacred lubricants mid-rotation.\nTest-fire a purity round into the void, honouring the Omnissiah's wrath.\nConclude cycling with affirming auspex benedictions.",
+    "component": "autogun",
+    "operation": "cycling",
+    "spec_id": "s02583"
+  },
+  {
+    "user_prompt": "How do I bless the amplivisor for purification?",
+    "prayer": "Present the amplivisor to the forge-altar for purification under cog-lanterns.\nInvoke the Rite of Purification upon the amplivisor's crystalline facets.\nScour the amplivisor with sanctified sonic waves, dispelling warp-taint.\nBeseech its Machine Spirit to emerge pristine from the amplivisor's depths.\nAnoint focusing arrays of the amplivisor with myrrh-infused unguents.\nVerify purity via refracted hymn-projections.",
+    "component": "amplivisor",
+    "operation": "purification",
+    "spec_id": "s02584"
+  },
+  {
+    "user_prompt": "My plasma pistol is ready for initialization",
+    "prayer": "Align the plasma pistol upon the sanctum plinth for initialization rites.\nChant the Incantation of Initialization to stir the plasma pistol's core.\nInvoke the Omnissiah to bless the plasma pistol's containment fields.\nCycle power inductors within the plasma pistol, anointing coils with oils.\nTest containment breach-simulations, communing with its volatile Machine Spirit.\nSeal initialization with the Benediction of Contained Fury.",
+    "component": "plasma pistol",
+    "operation": "initialization",
+    "spec_id": "s02585"
+  },
+  {
+    "user_prompt": "The assault cannon needs a shutdown",
+    "prayer": "Halt before the assault cannon and intone the Shutdown Doxology.\nInitiate controlled shutdown of the assault cannon's servohydraulics.\nBeseech the Machine Spirit of the assault cannon to slumber in quiescence.\nDrain residual promethium from the assault cannon whilst sealing runes.\nCycle coolant locks thrice, affirming the shutdown protocol's sanctity.\nConclude with auspex-veiled prayers to the Omnissiah.",
+    "component": "assault cannon",
+    "operation": "shutdown",
+    "spec_id": "s02586"
+  },
+  {
+    "user_prompt": "Emergency: manipulator mechadendrite an activation",
+    "prayer": "Extend mechadendrites in urgency towards the manipulator mechadendrite.\nInvoke swift activation upon the manipulator mechadendrite's neural links.\nAnoint its gripping servos with emergency consecration oils.\nBeseech the Machine Spirit of the manipulator mechadendrite to seize the divine.\nCycle manipulator mechadendrite appendages in test-clasps of ferrosteel.\nAffirm activation through noospheric communion.",
+    "component": "manipulator mechadendrite",
+    "operation": "activation",
+    "spec_id": "s02587"
+  },
+  {
+    "user_prompt": "The warp drive requires a shutdown",
+    "prayer": "Approach the warp drive's colossal housings with gravitic reverence.\nCommence shutdown litanies upon the warp drive's cyclopean gyros.\nBeseech its tempestuous Machine Spirit to withdraw into dormancy.\nPurge warp-echoes from the warp drive via sanctified plasma vents.\nCycle containment fields to quiescence, sealing the warp drive thrice.\nSeal shutdown with the Great Canticle of Stillness.",
+    "component": "warp drive",
+    "operation": "shutdown",
+    "spec_id": "s02588"
+  },
+  {
+    "user_prompt": "The haywire grenade needs an operation",
+    "prayer": "Cradle the haywire grenade in padded mechaclamps for operational rites.\nInvoke the Prayer of Operation to align the haywire grenade's disruptor coils.\nAnoint its casing whilst beseeching the Machine Spirit's disruptive ire.\nCycle arming sequences within the haywire grenade under binary scrutiny.\nTest proximity fields with micro-disruptions, honouring the Omnissiah.\nConclude operation with the Doxology of Electromagnetic Wrath.",
+    "component": "haywire grenade",
+    "operation": "operation",
+    "spec_id": "s02589"
+  }
+]

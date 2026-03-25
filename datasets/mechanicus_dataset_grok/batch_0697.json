@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the cryo-chamber before initialization",
+    "prayer": "Approach the cryo-chamber with censer aloft, invoking the Omnissiah's chill embrace.\nAnoint the cryo-chamber's frost-runes with sacred cryolite oil to appease its slumbering Machine Spirit.\nBeseech the cryo-chamber's essence to stir from stasis for the sacred rite of initialization.\nChant the Canticle of Perpetual Freeze whilst calibrating thermal conduits.\nSeal the invocation with the sign of the cog, granting the cryo-chamber vigilance eternal.",
+    "component": "cryo-chamber",
+    "operation": "initialization",
+    "spec_id": "s02970"
+  },
+  {
+    "user_prompt": "How do I bless the opticon for cooling?",
+    "prayer": "Kneel before the opticon and murmur the Litany of Lucid Chill.\nInvoke the Machine Spirit dwelling within the opticon, beseeching clarity amid cooling rites.\nAnoint its lens arrays with sanctified coolant, preparing for the operation of cooling.\nInitiate thermodynamic hymns to soothe the opticon's fiery heart.\nVerify the Machine Spirit's quiescence through auspex-scans, under Omnissiah's watchful gaze.",
+    "component": "opticon",
+    "operation": "cooling",
+    "spec_id": "s02971"
+  },
+  {
+    "user_prompt": "Offer prayer for emergency beacon a blessing",
+    "prayer": "Present the emergency beacon before the altar of transmission, hands mechadendrite-clad.\nChant the Benediction of Distress Signal to awaken its Machine Spirit.\nAnoint the emergency beacon's emitter coils with phosphor-essence for enduring blessing.\nInvoke the Omnissiah to infuse the emergency beacon with unerring vigilance.\nConclude the blessing by pulsing test-signals, affirming the Machine Spirit's fidelity.",
+    "component": "emergency beacon",
+    "operation": "blessing",
+    "spec_id": "s02972"
+  },
+  {
+    "user_prompt": "Ready the assembly servitor for synchronization",
+    "prayer": "Circumambulate the assembly servitor thrice, reciting the Creed of Synaptic Harmony.\nInterface with the assembly servitor's noospheric core, invoking its Machine Spirit.\nAnoint motivator-servos with lapping oil to ready for synchronization.\nHarmonize data-streams through binaric canticles, aligning the assembly servitor's purpose.\nSeal the rite with the Omnissiah's torque, ensuring flawless synchronization.",
+    "component": "assembly servitor",
+    "operation": "synchronization",
+    "spec_id": "s02973"
+  },
+  {
+    "user_prompt": "Sanctify the void shield generator during startup",
+    "prayer": "Erect the void shield generator upon consecrated plasteel, censer smoking.\nInvoke the Machine Spirit of the void shield generator with the Psalm of Warp-Repulsion.\nAnoint phase-vanes during the startup sequence, sanctifying each flux capacitor.\nChant activation litanies to rouse the void shield generator from dormancy.\nTest the barrier's integrity under Omnissiah's aegis, void shield generator humming in devotion.",
+    "component": "void shield generator",
+    "operation": "startup",
+    "spec_id": "s02974"
+  },
+  {
+    "user_prompt": "Help me a recalibration the doctrina wafer",
+    "prayer": "Extract the doctrina wafer from its reliquary with reverent mechadendrites.\nScan the doctrina wafer for doctrinal impurities, murmuring expurgation rites.\nRealign synaptic engrams through recalibration hymns, placating its Machine Spirit.\nReinsert the doctrina wafer whilst invoking the Omnissiah's infinite wisdom.\nAffirm recalibration via noospheric communion, doctrina wafer purified anew.",
+    "component": "doctrina wafer",
+    "operation": "recalibration",
+    "spec_id": "s02975"
+  },
+  {
+    "user_prompt": "The cenobyte servitor needs an activation",
+    "prayer": "Position the cenobyte servitor before the cogitator shrine, oils prepared.\nChant the Rite of Cortical Ignition to stir the cenobyte servitor's Machine Spirit.\nAnoint its occulobe implants for the activation sequence.\nInitiate power feeds with binaric blessings, awakening the cenobyte servitor's sacred purpose.\nVerify synaptic fires burn true under the Omnissiah's luminous cog.",
+    "component": "cenobyte servitor",
+    "operation": "activation",
+    "spec_id": "s02976"
+  },
+  {
+    "user_prompt": "The lasgun awaits a charging",
+    "prayer": "Grasp the lasgun in gauntleted hands, reciting the Incantation of Power Accrual.\nInvoke the lasgun's Machine Spirit, beseeching it to accept charging.\nAnoint power cells with electrolene sacrament during the charging rite.\nMonitor flux-buildup through diagnostic litanies, lasgun humming in anticipation.\nConclude with the Seal of Focused Annihilation, lasgun primed by Omnissiah's will.",
+    "component": "lasgun",
+    "operation": "charging",
+    "spec_id": "s02977"
+  },
+  {
+    "user_prompt": "Guide me through cryo-chamber a consecration",
+    "prayer": "Encircle the cryo-chamber with purity seals fluttering in incense haze.\nBeseech the cryo-chamber's Machine Spirit with the Consecration of Eternal Hibernation.\nAnoint cryo-chamber conduits with glacial unguents, sanctifying its frozen heart.\nChant preservation canticles to bind the Machine Spirit in unwavering loyalty.\nFinalize the cryo-chamber consecration with torque-blessing, Omnissiah's chill eternal.",
+    "component": "cryo-chamber",
+    "operation": "consecration",
+    "spec_id": "s02978"
+  },
+  {
+    "user_prompt": "The krak grenade requires an activation",
+    "prayer": "Hold the krak grenade aloft, invoking the Wrath of the Machine God.\nAnoint its melta-charges with pyretic oil to rouse the krak grenade's Machine Spirit.\nRecite activation litanies, priming the krak grenade for cataclysmic release.\nCalibrate proximity auspex with binaric precision, krak grenade thrumming.\nSeal the rite under Omnissiah's forge-flame, krak grenade armed in holy fury.",
+    "component": "krak grenade",
+    "operation": "activation",
+    "spec_id": "s02979"
+  }
+]

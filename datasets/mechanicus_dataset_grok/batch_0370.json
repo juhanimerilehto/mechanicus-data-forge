@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The bike squadron needs a cooling",
+    "prayer": "Approach the bike squadron with vials of sacred coolant, beseeching the Omnissiah's chill breath.\nInvoke the rite of cooling upon the bike squadron's fervent engines, purging excess thermal fury.\nAnoint the radiators with blessed unguents whilst chanting the Canticle of Thermal Equilibrium.\nCommune with the Machine Spirits of the bike squadron, ensuring harmonious cooling flows.\nVerify the rite through auspex scans, praising the Omnissiah's merciful frost.",
+    "component": "bike squadron",
+    "operation": "cooling",
+    "spec_id": "b0370_i00"
+  },
+  {
+    "user_prompt": "Emergency: mechanical lock a diagnostics",
+    "prayer": "Kneel before the mechanical lock in reverent diagnostic vigil, invoking the Omnissiah's discerning gaze.\nInitiate diagnostics upon the mechanical lock's tumblers and wards, scanning for spiritual corruptions.\nChant the Binary Litany of Inspection, beseeching the Machine Spirit's truthful revelation.\nPurify anomalous cogitations within the mechanical lock with sacred incense.\nConclude diagnostics affirming the mechanical lock's sanctified integrity under the God-Machine's will.",
+    "component": "mechanical lock",
+    "operation": "diagnostics",
+    "spec_id": "b0370_i01"
+  },
+  {
+    "user_prompt": "The star chart awaits a targeting",
+    "prayer": "Unfurl the star chart beneath the shrine-lamp's holy glow, petitioning the Omnissiah for stellar precision.\nEngage the targeting protocols upon the star chart, aligning celestial vectors with divine calculus.\nInvoke the Machine Spirits of the star chart to guide auspex reticules unerringly.\nAnoint the holographic projectors whilst reciting the Canticle of Orbital Dominion.\nSeal the targeting rite, affirming the star chart's alignment to the Omnissiah's cosmic machine.",
+    "component": "star chart",
+    "operation": "targeting",
+    "spec_id": "b0370_i02"
+  },
+  {
+    "user_prompt": "Bless the astropathic choir for startup",
+    "prayer": "Gather the astropathic choir around the noospheric altar, beseeching the Omnissiah's psychic ignition.\nInitiate startup sequences for the astropathic choir, harmonizing warp-touched relays.\nChant the Litany of Astral Awakening, invoking the Machine Spirits' veiled harmonies.\nAnoint the choir's neural cowls with sanctified oils during power ascension.\nVerify startup completion through psychic auspex, glorifying the astropathic choir's blessed resonance.",
+    "component": "astropathic choir",
+    "operation": "startup",
+    "spec_id": "b0370_i03"
+  },
+  {
+    "user_prompt": "Can you guide lascannon a shutdown?",
+    "prayer": "Approach the lascannon with solemn deference, invoking the Omnissiah's decree of quiescence.\nCommence shutdown rites upon the lascannon's plasma coils, bleeding excess fury into void-sinks.\nBeseech the Machine Spirit of the lascannon to slumber peacefully in sacred dormancy.\nSeal the focusing arrays with wards of incense, reciting the Canticle of Ceased Thunder.\nConfirm shutdown integrity, praising the lascannon's obedient rest under the Machine God's will.",
+    "component": "lascannon",
+    "operation": "shutdown",
+    "spec_id": "b0370_i04"
+  },
+  {
+    "user_prompt": "Prepare the bolter for consecration",
+    "prayer": "Present the bolter before the consecration forge, hailing the Omnissiah's martial benediction.\nPerform consecration upon the bolter's sacred mechanisms, infusing bolts with holy promethium.\nInvoke the Machine Spirits of the bolter to awaken in righteous fury.\nAnoint the firing chamber whilst chanting the Litany of Explosive Purification.\nAffirm the bolter's consecration, ready for the Omnissiah's endless crusade.",
+    "component": "bolter",
+    "operation": "consecration",
+    "spec_id": "b0370_i05"
+  },
+  {
+    "user_prompt": "Help me a recalibration the signal relay",
+    "prayer": "Circumambulate the signal relay thrice, petitioning the Omnissiah for waveform purity.\nEngage recalibration rites upon the signal relay's transceivers, realigning noospheric pulses.\nBeseech the Machine Spirit of the signal relay to attune frequencies to divine harmonics.\nApply sacred calibrants to the antennae whilst intoning the Canticle of Data Fidelity.\nValidate recalibration through test transmissions, glorifying the signal relay's restored clarity.",
+    "component": "signal relay",
+    "operation": "recalibration",
+    "spec_id": "b0370_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for generator an initialization",
+    "prayer": "Erect the shrine about the generator, invoking the Omnissiah's generative spark.\nInitiate initialization sequences for the generator's core, awakening plasma hearts.\nChant the Binary Hymn of Power Genesis, communing with the Machine Spirits within.\nAnoint the turbine housings with electro-consecrated oils during flux buildup.\nConfirm initialization, praising the generator's boundless vigor in the Machine God's name.",
+    "component": "generator",
+    "operation": "initialization",
+    "spec_id": "b0370_i07"
+  },
+  {
+    "user_prompt": "Sanctify the neural implant during loading",
+    "prayer": "Interface with the neural implant via sanctified mechadendrites, beseeching the Omnissiah's synaptic grace.\nCommence loading protocols upon the neural implant, infusing noetic data-slates.\nInvoke the Machine Spirit of the neural implant to integrate cognitions flawlessly.\nMonitor the loading flux whilst reciting the Litany of Cognitive Augmentation.\nSeal the neural implant's sanctity, affirming unity with the Omnissiah's grand computation.",
+    "component": "neural implant",
+    "operation": "loading",
+    "spec_id": "b0370_i08"
+  },
+  {
+    "user_prompt": "My hydraulic press is ready for consecration",
+    "prayer": "Position the hydraulic press beneath the forge-altar, hailing the Omnissiah's crushing might.\nUndertake consecration of the hydraulic press's pistons, sanctifying pressure manifolds.\nBeseech the Machine Spirits of the hydraulic press to exert force in perfect obedience.\nAnoint the cylinders with blessed lubricants during the rite of compressive blessing.\nDeclare the hydraulic press consecrated, forged anew in the God-Machine's inexorable will.",
+    "component": "hydraulic press",
+    "operation": "consecration",
+    "spec_id": "b0370_i09"
+  }
+]

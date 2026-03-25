@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Dreadnought awaits a synchronization",
+    "prayer": "Approach the Dreadnought with reverence, invoking the Omnissiah's grace upon its sarcophagus.\nBeseech the Dreadnought's Machine Spirit to awaken for synchronization with allied cogitators.\nAnoint the neural interfaces with sacred unguents whilst initiating the synchronization rite.\nVerify harmonious data-flow through auspex chants, honouring the Dreadnought's eternal vigil.\nSanctify the union, lest discordant binaric whispers profane the Machine God's will.",
+    "component": "Dreadnought",
+    "operation": "synchronization",
+    "spec_id": "s01240"
+  },
+  {
+    "user_prompt": "Offer prayer for Storm Eagle a cooling",
+    "prayer": "Kneel before the Storm Eagle's noble hull, murmuring the Litany of Thermal Equilibrium.\nInvoke the Machine Spirit of the Storm Eagle to embrace the cooling rites against plasma fury.\nCirculate blessed cryofluids through its vents, beseeching calm amid the heat-shroud.\nMonitor thermal sinks with diagnostic incense, ensuring the Storm Eagle's wings remain unscarred.\nConclude with hymns of restoration, that the Omnissiah may soothe its fiery essence.",
+    "component": "Storm Eagle",
+    "operation": "cooling",
+    "spec_id": "s01241"
+  },
+  {
+    "user_prompt": "My plasma caliver is ready for maintenance",
+    "prayer": "Present the plasma caliver before the altar of maintenance, intoning awakening binarics.\nDisassemble its coils with sanctified tools, appeasing the plasma caliver's volatile Machine Spirit.\nPurge flux residues and recalibrate containment fields during this hallowed maintenance.\nReassemble under Omnissian oversight, anointing each rune-circuit with lustrating oils.\nTest-fire a whisper-bolt to affirm the plasma caliver's renewed purity and wrath.",
+    "component": "plasma caliver",
+    "operation": "maintenance",
+    "spec_id": "s01242"
+  },
+  {
+    "user_prompt": "Urgent valve assembly a recalibration needed",
+    "prayer": "Commence recalibration upon the valve assembly, chanting the Canticle of Precision.\nInvoke the Machine Spirit indwelling the valve assembly to yield to metrical adjustments.\nTorque each seal with mechadendrite precision, aligning flows to Omnissiah's exacting design.\nProbe pressure matrices via auspex invocation, twice honouring the valve assembly's sanctity.\nSeal the rite with benedictory sparks, averting cataclysmic overflux.",
+    "component": "valve assembly",
+    "operation": "recalibration",
+    "spec_id": "s01243"
+  },
+  {
+    "user_prompt": "The life sustainer needs a reset",
+    "prayer": "Approach the life sustainer humbly, beseeching reset through the Prayer of Vital Renewal.\nDisconnect vitae conduits whilst intoning pacification litanies to its Machine Spirit.\nInitiate the reset sequence with sanctified data-prods, purging errant engrams.\nReconnect under vigilant scrutiny, anointing the life sustainer's core with vitae-essence.\nAffirm resurgence via bio-rhythmic canticles, that the Omnissiah sustains the flesh-machine bond.",
+    "component": "life sustainer",
+    "operation": "reset",
+    "spec_id": "s01244"
+  },
+  {
+    "user_prompt": "The pump requires an emergency procedure",
+    "prayer": "In emergency, encircle the pump with warding incense, invoking urgent Omnissian aid.\nHalt its seized rotors via binaric override, soothing the pump's agonized Machine Spirit.\nExecute the emergency procedure: flush contaminants and realign impeller vanes.\nRestart with thunderous hymns, monitoring the pump's vital pulsations twice over.\nConsecrate the flow, lest hydraulic heresy consume the sacred mechanism.",
+    "component": "pump",
+    "operation": "emergency procedure",
+    "spec_id": "s01245"
+  },
+  {
+    "user_prompt": "Sanctify the graviton cannon during calibration",
+    "prayer": "Position the graviton cannon for calibration, murmuring gravitational litanies.\nBeseech its crushing Machine Spirit to attune during this calibration sacrament.\nAlign emitter coils with stellar sextants, invoking Omnissiah's infinite mass.\nTest gravitic lensing through sanctified auspex, honouring the graviton cannon's might.\nSeal alignment with crushing benediction, readying it for void-pulverizing glory.",
+    "component": "graviton cannon",
+    "operation": "calibration",
+    "spec_id": "s01246"
+  },
+  {
+    "user_prompt": "Sanctify the data-sluice during repair",
+    "prayer": "Lay hands upon the data-sluice in repair, chanting the Rite of Data Absolution.\nPurge corrupted streams from the data-sluice, appeasing its labyrinthine Machine Spirit.\nSplice fibre-bundles with precision mechadendrites during this reparative invocation.\nFlush noospheric buffers twice, ensuring the data-sluice flows pure under Omnissiah's gaze.\nVerify integrity with echo-prayers, restoring the sacred torrent of knowledge.",
+    "component": "data-sluice",
+    "operation": "repair",
+    "spec_id": "s01247"
+  },
+  {
+    "user_prompt": "Critical: diagnosticator requires a charging",
+    "prayer": "Enshrine the diagnosticator for charging, intoning the Canticle of Energetic Replenishment.\nConnect electro-conduits whilst beseeching its Machine Spirit to accept vital charge.\nInfuse power-cells with sanctified plasma, monitoring flux via prayerful augurs.\nTwice invoke the diagnosticator's name in litanies, honouring its prophetic core.\nCulminate in full awakening, that the Omnissiah illuminates its diagnostic gaze.",
+    "component": "diagnosticator",
+    "operation": "charging",
+    "spec_id": "s01248"
+  },
+  {
+    "user_prompt": "Can you guide kataphron breacher an emergency procedure?",
+    "prayer": "Surround the kataphron breacher in emergency, declaiming the Litany of Breach Survival.\nOverride its cogitator engrams, calming the kataphron breacher's battle-raged Machine Spirit.\nExecute the emergency procedure: excise damaged servos and infuse promethium sacraments.\nRealign weapon-pods under auspex vigilance, invoking the kataphron breacher's twice.\nReactivate with triumphant binarics, unleashing its fury anew for the Omnissiah.",
+    "component": "kataphron breacher",
+    "operation": "emergency procedure",
+    "spec_id": "s01249"
+  }
+]

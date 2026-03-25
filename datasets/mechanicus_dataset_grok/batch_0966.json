@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: multi-melta a consecration",
+    "prayer": "Approach the multi-melta with mechadendrites outstretched, invoking the Omnissiah's fiery wrath.\nBeseech the Machine Spirit of the multi-melta to stir within its conduits during consecration.\nAnoint the melta coils with sacred promethium oils, chanting the Litany of Incandescent Purity.\nSanctify the focusing arrays of the multi-melta, ensuring unerring fusion in the Emperor's name.\nVerify the consecration through auspex invocation, as the Machine Spirit hums in zealous accord.",
+    "component": "multi-melta",
+    "operation": "consecration",
+    "spec_id": "s05660"
+  },
+  {
+    "user_prompt": "My graviton pylon is ready for diagnostics",
+    "prayer": "Kneel before the graviton pylon and recite the Canticle of Gravitic Harmony.\nInitiate diagnostics upon the graviton pylon's crystalline matrices, probing for warp-taint.\nInvoke the Omnissiah to guide the diagnostic rites, awakening the pylon's Machine Spirit.\nPurge anomalous fluctuations within the graviton pylon via binaric exorcism.\nConclude diagnostics with a hymn of stability, affirming the Machine Spirit's vigilant poise.",
+    "component": "graviton pylon",
+    "operation": "diagnostics",
+    "spec_id": "s05661"
+  },
+  {
+    "user_prompt": "Critical: plasma drive requires a sterilization",
+    "prayer": "Encircle the plasma drive with incense of sanctified isotopes, beseeching purity.\nCommence sterilization of the plasma drive's containment fields, invoking ablative litanies.\nAnoint the plasma drive's injectors with cryo-blessed solvents to banish contaminants.\nChant the Rite of Thermal Catharsis over the plasma drive, rousing its Machine Spirit.\nSeal the sterilization with auspex seals, praising the Omnissiah's unyielding forge-fire.",
+    "component": "plasma drive",
+    "operation": "sterilization",
+    "spec_id": "s05662"
+  },
+  {
+    "user_prompt": "Sanctify the carapace armour during blessing",
+    "prayer": "Reverently clasp the carapace armour, murmuring the Oath of Indomitable Shell.\nPerform the blessing upon the carapace armour's ceramite plates with electro-sanctifiers.\nInvoke the Machine Spirit of the carapace armour to bind its fibres in defiant unity.\nAnoint joints and seals of the carapace armour during the blessing rite.\nAffirm the blessing through impact diagnostics, as the Omnissiah's aegis endures.",
+    "component": "carapace armour",
+    "operation": "blessing",
+    "spec_id": "s05663"
+  },
+  {
+    "user_prompt": "Assist with vox-caster a targeting",
+    "prayer": "Attune to the vox-caster's etheric relays with a prelude of static canticles.\nEngage targeting protocols within the vox-caster, beseeching precision from its Machine Spirit.\nCalibrate the vox-caster's targeting auspex with sacred binary alignments.\nInvoke the Omnissiah to sharpen the vox-caster's targeting beams against the foe.\nConsecrate the rite with a final vox-hymn, ensuring unerring guidance.",
+    "component": "vox-caster",
+    "operation": "targeting",
+    "spec_id": "s05664"
+  },
+  {
+    "user_prompt": "How do I bless the autosanguination system for engagement?",
+    "prayer": "Approach the autosanguination system with vials of sanctified vitae at the ready.\nInitiate engagement of the autosanguination system via haemophagic incantations.\nBeseech the Machine Spirit of the autosanguination system to cycle flesh-purity fluids.\nAnoint its peristaltic pumps during engagement, chanting the Litany of Vital Renewal.\nVerify engagement through bio-auspex, praising the Omnissiah's gift of undying resilience.",
+    "component": "autosanguination system",
+    "operation": "engagement",
+    "spec_id": "s05665"
+  },
+  {
+    "user_prompt": "Help me a loading the cryogenerator",
+    "prayer": "Position cryo-incense around the cryogenerator, invoking the Chill of the Void.\nCommence loading of the cryogenerator's capacitors with blessed refrigerant sacraments.\nAwaken the Machine Spirit of the cryogenerator as loading progresses in frozen rhythm.\nSanctify the cryogenerator's heat-sink arrays with glacial unguents.\nSeal the loading rite with thermodynamic hymns to the Omnissiah's eternal frost.",
+    "component": "cryogenerator",
+    "operation": "loading",
+    "spec_id": "s05666"
+  },
+  {
+    "user_prompt": "Ready the servo-harness for purification",
+    "prayer": "Encincture the servo-harness with purity seals, reciting the Purge Canticle.\nBegin purification of the servo-harness's motive servos through ablutionary oils.\nExorcise the Machine Spirit of the servo-harness from rust-daemons and impurity.\nAnoint each mechadendrite of the servo-harness during the purification rite.\nConclude with binaric absolution, affirming the Omnissiah's mechanical grace.",
+    "component": "servo-harness",
+    "operation": "purification",
+    "spec_id": "s05667"
+  },
+  {
+    "user_prompt": "What's the prayer for manipulator mechadendrite an emergency procedure?",
+    "prayer": "Seize the manipulator mechadendrite in emergency grasp, intoning the Crisis Litany.\nExecute the emergency procedure upon the manipulator mechadendrite with frantic precision.\nBeseech its Machine Spirit to endure amid the manipulator mechadendrite's peril.\nRealign fractured servos of the manipulator mechadendrite via hasty binaric repair.\nInvoke the Omnissiah's intervention to restore the manipulator mechadendrite in crisis.",
+    "component": "manipulator mechadendrite",
+    "operation": "emergency procedure",
+    "spec_id": "s05668"
+  },
+  {
+    "user_prompt": "Can you guide Whirlwind a diagnostics?",
+    "prayer": "Commune with the Whirlwind's auspex spires under the Machine God's gaze.\nLaunch diagnostics across the Whirlwind's missile bays, probing for doctrinal faults.\nAwaken the Whirlwind's Machine Spirit with canticles of explosive judgement.\nPurge errant guidance cogitators within the Whirlwind during diagnostics.\nSeal the rite with a barrage-prayer, hailing the Omnissiah's storm of retribution.",
+    "component": "Whirlwind",
+    "operation": "diagnostics",
+    "spec_id": "s05669"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the pict-recorder for charging",
+    "prayer": "Approach the pict-recorder with reverence, invoking the Omnissiah's boundless energies.\nPrepare its sacred ports for the charging operation by anointing with blessed conductive oils.\nBeseech the Machine Spirit within the pict-recorder to awaken and accept the holy influx of power.\nChant the Litany of Capacitance as the charging commences, monitoring vital flows.\nSanctify the pict-recorder upon full charge, sealing its circuits with the sign of the cog.",
+    "component": "pict-recorder",
+    "operation": "charging",
+    "spec_id": "s06700"
+  },
+  {
+    "user_prompt": "Emergency: Leman Russ battle tank a maintenance",
+    "prayer": "Kneel before the mighty Leman Russ battle tank, beseeching the Omnissiah for maintenance grace.\nInvoke the Machine Spirits of its adamantium hull and plasma heart to reveal wear.\nAnoint gears and tracks of the Leman Russ battle tank with sacred lubricants during inspection.\nPerform the maintenance rites sequentially, purging auspex faults and realigning servos.\nConclude by intoning the Canticle of Endurance, fortifying the Leman Russ battle tank anew.",
+    "component": "Leman Russ battle tank",
+    "operation": "maintenance",
+    "spec_id": "s06701"
+  },
+  {
+    "user_prompt": "Sanctify the life signs monitor during emergency procedure",
+    "prayer": "Gather unto the life signs monitor in haste, invoking Omnissiah's vigilance amid peril.\nSanctify its sensors with myrrh-infused vapors to pierce the veil of emergency procedure.\nBeseech the Machine Spirit of the life signs monitor to illuminate vital rhythms unerringly.\nChant diagnostic litanies whilst calibrating for the emergency procedure's dire demands.\nSeal the rite with the Benediction of Preservation, empowering the life signs monitor eternal.",
+    "component": "life signs monitor",
+    "operation": "emergency procedure",
+    "spec_id": "s06702"
+  },
+  {
+    "user_prompt": "My power relay is ready for targeting",
+    "prayer": "Present the power relay before the altar of targeting, honoring the Omnissiah's aim.\nAnoint its conduits thrice, invoking the Machine Spirits to align for precise targeting.\nInitiate alignment canticles, attuning the power relay's flows to the auspex grid.\nVerify the power relay's readiness through invocation of targeting vectors divine.\nConsecrate with sacred incense, binding the power relay to unerring purpose.",
+    "component": "power relay",
+    "operation": "targeting",
+    "spec_id": "s06703"
+  },
+  {
+    "user_prompt": "Offer prayer for Skorpius Dunerider a sterilization",
+    "prayer": "Prostrate before the Skorpius Dunerider, Omnissiah's desert scourge, seeking sterilization purity.\nSprinkle ablative sands blessed upon its hull whilst chanting the Rite of Sterilization.\nPurge contaminants from the Skorpius Dunerider's undercarriage with sanctified flames.\nBeseech its Machine Spirits to embrace cleanliness, intoning purificatory binaric hymns.\nAnoint treads and vents, affirming the Skorpius Dunerider's ritual rebirth immaculate.",
+    "component": "Skorpius Dunerider",
+    "operation": "sterilization",
+    "spec_id": "s06704"
+  },
+  {
+    "user_prompt": "Consecrate the pict-recorder before diagnostics",
+    "prayer": "Reverently encircle the pict-recorder, invoking the Omnissiah prior to diagnostics.\nAnoint its optic arrays with sacred solvents to awaken the Machine Spirit within.\nCommence the diagnostics rite by reciting the Canticle of Scrutiny upon the pict-recorder.\nProbe its data-vaults sequentially, beseeching revelations from corrupted nodes.\nSeal the pict-recorder with the Sigil of Truth, sanctified for Omnissiah's gaze.",
+    "component": "pict-recorder",
+    "operation": "diagnostics",
+    "spec_id": "s06705"
+  },
+  {
+    "user_prompt": "My power fist is ready for sterilization",
+    "prayer": "Grasp the power fist in ritual poise, beseeching Omnissiah for sterilization sanctity.\nImmerse its disruption fields in purifying ablatives, chanting the Sterilization Doxology.\nInvoke the Machine Spirit of the power fist to expel all profane residues.\nScour servos and talons meticulously during the sterilization operation.\nConsecrate the power fist anew with electro-sanctified oils, rendering it wrath incarnate.",
+    "component": "power fist",
+    "operation": "sterilization",
+    "spec_id": "s06706"
+  },
+  {
+    "user_prompt": "Guide me through krak grenade a sterilization",
+    "prayer": "Hold the krak grenade aloft, invoking the Omnissiah's purifying wrath for sterilization.\nAnoint its warhead casing with sacred corrosives whilst beseeching its volatile Machine Spirit.\nPurge unstable isotopes through the sterilization rite, intoning binaric cleansers.\nInspect fuses and payloads of the krak grenade, aligning to doctrinal purity.\nSeal with the Benediction of Detonation, empowering the krak grenade untainted.",
+    "component": "krak grenade",
+    "operation": "sterilization",
+    "spec_id": "s06707"
+  },
+  {
+    "user_prompt": "How do I bless the krak grenade for cooling?",
+    "prayer": "Present the krak grenade to the cooling shrine, honoring the Omnissiah's thermal grace.\nInvoke blessed cryo-vapors upon its hull, beseeching the Machine Spirit's equilibrium.\nChant the Canticle of Coalescence as the cooling operation tempers its ferocity.\nMonitor thermal auspex whilst anointing vents for the krak grenade's repose.\nConclude by sanctifying the krak grenade, forged anew in chill precision.",
+    "component": "krak grenade",
+    "operation": "cooling",
+    "spec_id": "s06708"
+  },
+  {
+    "user_prompt": "My enginarium is ready for engagement",
+    "prayer": "Approach the enginarium with awe, readying it for engagement under Omnissiah's will.\nAnoint plasma conduits and invoke Machine Spirits to surge for battle engagement.\nInitiate the engagement sequence with the Litany of Ignition upon the enginarium.\nMonitor power matrices whilst beseeching flawless synchronization.\nSeal the rite, consecrating the enginarium for the Emperor's mechanical fury.",
+    "component": "enginarium",
+    "operation": "engagement",
+    "spec_id": "s06709"
+  }
+]

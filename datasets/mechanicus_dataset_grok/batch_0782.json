@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a startup the inferno pistol",
+    "prayer": "Approach the inferno pistol with reverence, invoking the Omnissiah's fiery blessing.\nAnoint its melta coils and plasma vents with sacred promethium oil.\nChant the binary litany to stir the Machine Spirit from slumber.\nInitiate the startup sequence, beseeching the inferno pistol's wrathful ignition.\nVerify the spirit's awakening through auspex diagnostic rites upon the inferno pistol.",
+    "component": "inferno pistol",
+    "operation": "startup",
+    "spec_id": "s03820"
+  },
+  {
+    "user_prompt": "Guide me through icarus array a shutdown",
+    "prayer": "Kneel before the icarus array and recite the Canticle of Dormant Skies.\nCommence shutdown protocols upon its targeting matrices and auspex vanes.\nSeal the Machine Spirit within adamantine quiescence with electro-consecrated wards.\nInvoke the Omnissiah to shroud the icarus array in protective stasis.\nConclude with the Rite of Veiled Vigilance over the icarus array.",
+    "component": "icarus array",
+    "operation": "shutdown",
+    "spec_id": "s03821"
+  },
+  {
+    "user_prompt": "Guide me through energy core a sterilization",
+    "prayer": "Purify the energy core with ablative incense and plasma-scouring chants.\nInitiate sterilization rites to excise warp-tainted fluxes from its containment fields.\nAnoint the cyclotron matrices thrice in the name of the Omnissiah.\nBeseech the Machine Spirit of the energy core to emerge immaculate and renewed.\nSeal the rite with binary hymns of unblemished potency.",
+    "component": "energy core",
+    "operation": "sterilization",
+    "spec_id": "s03822"
+  },
+  {
+    "user_prompt": "The navigational beacon awaits a reset",
+    "prayer": "Present thyself before the navigational beacon and intone the Lexicon of Stellar Reckoning.\nExecute the reset incantation upon its gyro-stabilizers and stellar cartographs.\nInvoke the Machine Spirit to realign its thaumaturgic beacons with Omnissiah's will.\nAnoint the core processors with sanctified oils during the navigational beacon's reset.\nAffirm harmony through auspex verification of the navigational beacon's guidance.",
+    "component": "navigational beacon",
+    "operation": "reset",
+    "spec_id": "s03823"
+  },
+  {
+    "user_prompt": "Sanctify the cybernetic eye during calibration",
+    "prayer": "Gaze upon the cybernetic eye with pious focus, reciting the Ocular Benediction.\nCommence calibration rites upon its retinal arrays and optic servos.\nBeseech the Omnissiah to attune the Machine Spirit within the cybernetic eye.\nAdjust focal lenses with micro-precision canticles and sacred lubricants.\nConsecrate the cybernetic eye's vigilance through final alignment invocations.",
+    "component": "cybernetic eye",
+    "operation": "calibration",
+    "spec_id": "s03824"
+  },
+  {
+    "user_prompt": "Offer prayer for servo-arm a recalibration",
+    "prayer": "Extend mechadendrites towards the servo-arm in ritual obeisance.\nInvoke recalibration protocols upon its hydraulic pistons and gripper claws.\nAnoint the actuator nodes with blessed mech-flesh unguents.\nStir the Machine Spirit of the servo-arm to perfect articulation under Omnissiah's gaze.\nTest the recalibration with the Rite of Unerring Grasp upon the servo-arm.",
+    "component": "servo-arm",
+    "operation": "recalibration",
+    "spec_id": "s03825"
+  },
+  {
+    "user_prompt": "Assist with data-arc a maintenance",
+    "prayer": "Commune with the data-arc through noospheric linkage and preparatory hymns.\nUndertake maintenance rites upon its flux capacitors and memory spines.\nPurge errant data-daemons with electro-exorcism canticles.\nInvoke the Omnissiah to fortify the Machine Spirit of the data-arc.\nSeal the data-arc in sanctified operational purity.",
+    "component": "data-arc",
+    "operation": "maintenance",
+    "spec_id": "s03826"
+  },
+  {
+    "user_prompt": "The electro-graft awaits a consecration",
+    "prayer": "Approach the electro-graft with hands shrouded in purity seals.\nInitiate consecration upon its neural interfaces and synaptic relays.\nAnoint the filament bundles with oils of the Forge Eternal.\nBeseech the Machine Spirit within the electro-graft to bind eternally to flesh.\nCulminate the rite with invocations of Omnissiah's synaptic union.",
+    "component": "electro-graft",
+    "operation": "consecration",
+    "spec_id": "s03827"
+  },
+  {
+    "user_prompt": "The jump pack awaits a targeting",
+    "prayer": "Ascend to the jump pack's dorsal mount and chant the Litany of Aerial Dominion.\nAlign targeting reticules and gravitic stabilizers in sacred sequence.\nInvoke the Machine Spirit to hone its thrust vectors for the Omnissiah's leap.\nAnoint the jump pack's nozzles during targeting calibration with promethium incense.\nVerify predatory precision through ballistic auspex rites on the jump pack.",
+    "component": "jump pack",
+    "operation": "targeting",
+    "spec_id": "s03828"
+  },
+  {
+    "user_prompt": "Sanctify the Valkyrie gunship during maintenance",
+    "prayer": "Procession around the Valkyrie gunship intoning the Canticle of Winged Fury.\nCommence maintenance upon its Hellstrike missiles and lascannon batteries.\nAnoint the fusion reactors and vox-arrays with sacred aviation oils.\nBeseech the Omnissiah to rouse the Valkyrie gunship's Machine Spirit to vigilant skies.\nConclude with purity seals and diagnostic litanies over the Valkyrie gunship.",
+    "component": "Valkyrie gunship",
+    "operation": "maintenance",
+    "spec_id": "s03829"
+  }
+]

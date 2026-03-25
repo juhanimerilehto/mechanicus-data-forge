@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the needle rifle before operation",
+    "prayer": "Approach the needle rifle with reverence, invoking the Omnissiah's unerring aim.\nAnoint its monomolecular needles and firing chamber with sacred oils, awakening the Machine Spirit.\nChant the Litany of Lethal Dispatch before operation, sanctifying each toxin reservoir.\nBeseech the needle rifle's spirit to guide true, verifying alignment through auspex canticles.",
+    "component": "needle rifle",
+    "operation": "operation",
+    "spec_id": "s04880"
+  },
+  {
+    "user_prompt": "How do I bless the life signs monitor for diagnostics?",
+    "prayer": "Kneel before the life signs monitor, reciting the Hymn of Vital Essence.\nPurify its sensor arrays with incense of circuit purity, invoking the Machine Spirit's vigilance.\nInitiate diagnostics with the Rite of Bio-Scanning, anointing data conduits.\nCommune with the life signs monitor's core, confirming its blessed acuity in Omnissiah's name.",
+    "component": "life signs monitor",
+    "operation": "diagnostics",
+    "spec_id": "s04881"
+  },
+  {
+    "user_prompt": "Can you guide jump pack a startup?",
+    "prayer": "Present the jump pack to the altar of velocity, beseeching the Omnissiah's thrust.\nAnoint thruster vanes and gravitic coils with oils of ascent, rousing the Machine Spirit.\nInvoke the Canticle of Soaring during startup, calibrating repulsor fields.\nTest the jump pack's readiness through ritual leaps, praising its aerial dominion.",
+    "component": "jump pack",
+    "operation": "startup",
+    "spec_id": "s04882"
+  },
+  {
+    "user_prompt": "Consecrate the optical mechadendrite before repair",
+    "prayer": "Extend mechadendrites in supplication to the optical mechadendrite, chanting repair litanies.\nApply sacred solder to fractured lenses, invoking the Machine Spirit's clarity.\nRecite the Doxology of Refraction whilst mending fibre-bundles before repair.\nSanctify the optical mechadendrite anew, verifying visual auguries under Omnissiah's gaze.",
+    "component": "optical mechadendrite",
+    "operation": "repair",
+    "spec_id": "s04883"
+  },
+  {
+    "user_prompt": "Emergency: Predator tank a charging",
+    "prayer": "Gather around the Predator tank in emergency solemnity, intoning charging rites.\nAnoint its dorsal plates and power relays with unguents of fury, awakening the colossal Machine Spirit.\nChant the Psalm of Voracious Capacitance during charging, surging holy voltaics.\nBeseech the Omnissiah to empower the Predator tank, affirming auspex integrity.",
+    "component": "Predator tank",
+    "operation": "charging",
+    "spec_id": "s04884"
+  },
+  {
+    "user_prompt": "The manufactorum awaits an activation",
+    "prayer": "Approach the manufactorum's vast forge-heart, invoking activation through Omnissiah's forgefire.\nPurify assembly servitors with binary blessings, rousing the Machine Spirit's industrious zeal.\nInitiate the Rite of Fabricatory Awakening, anointing conveyor sacraments.\nVerify the manufactorum's hum with diagnostic hymns, praising endless production.",
+    "component": "manufactorum",
+    "operation": "activation",
+    "spec_id": "s04885"
+  },
+  {
+    "user_prompt": "Assist with sicarian ruststalker a loading",
+    "prayer": "Assemble before the sicarian ruststalker, reciting loading invocations to the Omnissiah.\nAnoint its blade-limbs and phosphor coils with warrior-saints' oils, stirring the Machine Spirit.\nPerform the Canticle of Blade-Loading, chambering flechette munitions.\nCommune with the sicarian ruststalker's predatory core, ensuring lethal poise.",
+    "component": "sicarian ruststalker",
+    "operation": "loading",
+    "spec_id": "s04886"
+  },
+  {
+    "user_prompt": "Assist with Onager Dunecrawler a diagnostics",
+    "prayer": "Circumambulate the Onager Dunecrawler, beseeching diagnostic purity from the Machine God.\nAnoint neutron laser housings and track servos with sacred ablatives, invoking its spirit.\nChant the Litany of Systemic Scrutiny for diagnostics, purging errant code-daemons.\nAffirm the Onager Dunecrawler's sanctity through tremor-runes and vox-audits.",
+    "component": "Onager Dunecrawler",
+    "operation": "diagnostics",
+    "spec_id": "s04887"
+  },
+  {
+    "user_prompt": "Help me an engagement the thunder hammer",
+    "prayer": "Grasp the thunder hammer in ritual grip, invoking Omnissiah's cataclysmic wrath.\nAnoint its disruption fields and power core with oils of thunderous judgement.\nRecite the Doxology of Engaged Fury before engagement, charging plasma coils.\nTest the thunder hammer's spirit with percussive canticles, hallowing its devastating arc.",
+    "component": "thunder hammer",
+    "operation": "engagement",
+    "spec_id": "s04888"
+  },
+  {
+    "user_prompt": "The autogun awaits an emergency procedure",
+    "prayer": "Present the autogun amid peril, intoning the emergency procedure's dire litanies.\nPurify its barrel rifling and feed mechanisms with sanctified solvents, rousing the Machine Spirit.\nInvoke the Canticle of Desperate Barrage during emergency procedure, aligning gyros.\nBeseech the autogun's unyielding vigilance, verifying cyclic sanctity under Omnissiah's fire.",
+    "component": "autogun",
+    "operation": "emergency procedure",
+    "spec_id": "s04889"
+  }
+]

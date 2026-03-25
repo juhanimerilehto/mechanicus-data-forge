@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for melta charge a purification",
+    "prayer": "Approach the melta charge with reverence, mechadendrites extended in supplication.\nInvoke the Rites of Purification upon the melta charge's volatile heart, purging warp-taint from its sacred alloys.\nAnoint each rune-etched casing of the melta charge with blessed promethium, beseeching its Machine Spirit to awaken pure.\nChant the Canticle of Flame as purification flames lick the impurities away, honouring the Omnissiah's will.",
+    "component": "melta charge",
+    "operation": "purification",
+    "spec_id": "b0229_i00"
+  },
+  {
+    "user_prompt": "Can you guide bearing a cycling?",
+    "prayer": "Present the bearing before the altar of motion, whispering the Invocation of Cycles.\nInitiate the cycling of the bearing, rotating its sacred spheres in harmonious rhythm.\nLubricate the bearing's consecrated surfaces with sanctified oils to soothe its Machine Spirit.\nMonitor the cycling bearing's purr, petitioning the Omnissiah for frictionless perfection.\nConclude with the Seal of Endurance upon the bearing.",
+    "component": "bearing",
+    "operation": "cycling",
+    "spec_id": "b0229_i01"
+  },
+  {
+    "user_prompt": "Guide me through atmosphere processor a maintenance",
+    "prayer": "Kneel before the atmosphere processor, intoning the Litany of Breath.\nCommence maintenance upon the atmosphere processor's filtration matrices, cleansing particulate heresies.\nAnoint the atmosphere processor's vents with holy aerosols, awakening its vigilant Machine Spirit.\nRecalibrate pressure flows within the atmosphere processor, beseeching the Omnissiah for pure sustenance.\nVerify integrity through diagnostic hymns.",
+    "component": "atmosphere processor",
+    "operation": "maintenance",
+    "spec_id": "b0229_i02"
+  },
+  {
+    "user_prompt": "Help me a consecration the vox-caster",
+    "prayer": "Elevate the vox-caster to the shrine of voices, chanting the Prelude to Consecration.\nPerform consecration upon the vox-caster's crystal lattices, infusing them with sacred resonance.\nInvoke the Machine Spirit of the vox-caster thrice, binding it to the Omnissiah's decree.\nTest the consecrated vox-caster's clarity with binary canticles, sealing its purity.",
+    "component": "vox-caster",
+    "operation": "consecration",
+    "spec_id": "b0229_i03"
+  },
+  {
+    "user_prompt": "Offer prayer for star chart an activation",
+    "prayer": "Unfurl the star chart beneath lumen-globes, murmuring the Awakening Doxology.\nInitiate activation of the star chart, igniting its stellar glyphs with holy voltage.\nBeseech the Machine Spirit within the star chart to reveal navigatory truths.\nAlign the star chart's constellations in Omnissiah-blessed patterns, invoking stellar guidance.\nSeal the activation with the Rite of Celestial Harmony.",
+    "component": "star chart",
+    "operation": "activation",
+    "spec_id": "b0229_i04"
+  },
+  {
+    "user_prompt": "The air filtration awaits a loading",
+    "prayer": "Position the air filtration unit upon the sanctum slab, reciting the Loading Benediction.\nCommence loading of the air filtration's filter matrices with purified reagents.\nPetition the air filtration's Machine Spirit to embrace the sacred media.\nCycle the air filtration through test purges, honouring the Omnissiah's breath.\nConclude loading with incensory blessings.",
+    "component": "air filtration",
+    "operation": "loading",
+    "spec_id": "b0229_i05"
+  },
+  {
+    "user_prompt": "My thermal imager is ready for repair",
+    "prayer": "Lay the thermal imager upon the repair altar, intoning the Litany of Restoration.\nDiagnose fractures in the thermal imager's sensor arrays, purging damage with micro-lasers.\nRealign the thermal imager's crystalline optics, soothing its anguished Machine Spirit.\nInvoke repair fluxes through the thermal imager's circuits, by the Omnissiah's grace.\nTest visionary clarity with heat-psalm diagnostics.",
+    "component": "thermal imager",
+    "operation": "repair",
+    "spec_id": "b0229_i06"
+  },
+  {
+    "user_prompt": "Ready the astropathic choir for operation",
+    "prayer": "Assemble the astropathic choir in shadowed cloisters, chanting the Operational Prelude.\nInitiate operation of the astropathic choir, harmonizing their psychic relays.\nBeseech the Machine Spirits entwined with the astropathic choir to channel warp-whispers true.\nMonitor synaptic flows within the astropathic choir, petitioning the Omnissiah for unerring augury.\nSeal operation with the Void-Seer's Incantation.",
+    "component": "astropathic choir",
+    "operation": "operation",
+    "spec_id": "b0229_i07"
+  },
+  {
+    "user_prompt": "Assist with air filtration a repair",
+    "prayer": "Expose the air filtration's innards to sacred scrutiny, whispering repair invocations.\nCommence repair upon the air filtration's ruptured membranes, splicing alloys anew.\nAnoint the air filtration's conduits with restorative unguents for its Machine Spirit.\nCycle pressurised tests through the repaired air filtration, glorifying the Omnissiah.\nVerify atmospheric sanctity.",
+    "component": "air filtration",
+    "operation": "repair",
+    "spec_id": "b0229_i08"
+  },
+  {
+    "user_prompt": "Critical: hydroponics bay requires a charging",
+    "prayer": "Entreat the hydroponics bay before its nutrient reservoirs, intoning the Charging Hymn.\nInitiate charging of the hydroponics bay's vitae-conduits with blessed hydroponics.\nAwaken the Machine Spirit of the hydroponics bay with galvanic pulses.\nBalance the hydroponics bay's growth matrices, beseeching the Omnissiah for verdant bounty.\nConclude charging with fertility seals.",
+    "component": "hydroponics bay",
+    "operation": "charging",
+    "spec_id": "b0229_i09"
+  }
+]

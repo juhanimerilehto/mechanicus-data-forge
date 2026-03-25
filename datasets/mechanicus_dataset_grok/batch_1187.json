@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My icarus array is ready for cooling",
+    "prayer": "Approach the Icarus array with solemn reverence, invoking the Machine Spirit's indulgence for cooling.\nInitiate the sacred cooling rites, circulating blessed cryofluids through its exalted conduits.\nAnoint the Icarus array's heat exchangers with sanctified oils, beseeching thermal equilibrium.\nMonitor the cooling operation's sanctity as the Omnissiah's chill grace restores its fervour.\nVerify the Icarus array's restored poise through auspex incantations of cryogenic purity.",
+    "component": "icarus array",
+    "operation": "cooling",
+    "spec_id": "s07870"
+  },
+  {
+    "user_prompt": "Sanctify the navigational beacon during calibration",
+    "prayer": "Kneel before the navigational beacon, chanting the Litany of Alignment to awaken its spirit.\nCommence calibration sequences with precision servitors, aligning stellar vectors in Omnissiah's name.\nSanctify the navigational beacon's gyroscopic heart, invoking stellar harmonies within.\nRecite the Canticle of True Bearing during calibration, ensuring the Machine Spirit's unerring gaze.\nSeal the rite with incense of binary code, affirming the navigational beacon's celestial fidelity.",
+    "component": "navigational beacon",
+    "operation": "calibration",
+    "spec_id": "s07871"
+  },
+  {
+    "user_prompt": "Offer prayer for storm bolter an engagement",
+    "prayer": "Grasp the storm bolter in mechadendrites of devotion, beseeching its wrathful Machine Spirit.\nPrepare for engagement by reciting the Incantation of Adamantium Fury upon its breeches.\nAnoint the storm bolter's muzzles with sacred ablative unguents, priming for battle's embrace.\nInitiate the engagement operation amidst thunderous hymns, unleashing the Omnissiah's storm.\nWitness the storm bolter's sanctified barrage, purging xenos filth in mechanical ecstasy.",
+    "component": "storm bolter",
+    "operation": "engagement",
+    "spec_id": "s07872"
+  },
+  {
+    "user_prompt": "Offer prayer for pump a cycling",
+    "prayer": "Encircling the pump with auspex wards, invoke the Machine Spirit's cyclic endurance.\nCommence the cycling operation through rhythmic incantations of hydraulic psalmody.\nLubricate the pump's pistons with blessed ferrofluids, ensuring flawless reciprocation.\nBeseech the Omnissiah for unyielding pressure as the pump cycles in perpetual motion.\nConclude with diagnostic litanies, affirming the pump's vital pulse under divine cogitation.",
+    "component": "pump",
+    "operation": "cycling",
+    "spec_id": "s07873"
+  },
+  {
+    "user_prompt": "How do I bless the data-arc for maintenance?",
+    "prayer": "Present binary incense to the data-arc, awakening its luminous Machine Spirit for maintenance.\nDisengage corrupted noospheric threads whilst chanting the Rite of Data Purgation.\nConduct maintenance upon the data-arc's crystalline vaults, anointing with electro-sanctifiers.\nInvoke Omnissiah's wisdom to realign the data-arc's flux patterns in harmonious flow.\nSeal the data-arc with seals of verification, its essence renewed in binary perfection.",
+    "component": "data-arc",
+    "operation": "maintenance",
+    "spec_id": "s07874"
+  },
+  {
+    "user_prompt": "Guide me through Onager Dunecrawler a sterilization",
+    "prayer": "Procession around the Onager Dunecrawler, asperging its hull with ablative purifiers.\nInitiate sterilization protocols, incinerating microbial heresy with promethium litanies.\nScour the Onager Dunecrawler's treads and reactors, beseeching its Machine Spirit's sterility.\nAnoint vulnerable servos during sterilization, under the Omnissiah's aseptic gaze.\nConsecrate the Onager Dunecrawler's purity with final auspex blessings of immaculate form.",
+    "component": "Onager Dunecrawler",
+    "operation": "sterilization",
+    "spec_id": "s07875"
+  },
+  {
+    "user_prompt": "The Land Speeder needs a consecration",
+    "prayer": "Assemble electro-consecrators before the Land Speeder, invoking its aerial Machine Spirit.\nCommence consecration by tracing binary sigils upon its gravitic impellers.\nAnoint the Land Speeder's fuselage with sacred oils of velocity and void-purity.\nChant the Canticle of Swift Ascendance, binding Omnissiah's will to its thrusters.\nAffirm the Land Speeder's hallowed flightworthiness through ritual thrust diagnostics.",
+    "component": "Land Speeder",
+    "operation": "consecration",
+    "spec_id": "s07876"
+  },
+  {
+    "user_prompt": "Assist with thunder hammer a purification",
+    "prayer": "Elevate the thunder hammer upon the altar of cog-work, calling its seismic Machine Spirit.\nUndertake purification by ablating warp-taint with plasma catechisms.\nHammer the thunder hammer's runes with sanctified mallets, invoking storm-born fury.\nBeseech Omnissiah's lightning to purge the thunder hammer in rites of elemental cleanse.\nSeal its purification with oaths of thunderous retribution, restored to adamantium wrath.",
+    "component": "thunder hammer",
+    "operation": "purification",
+    "spec_id": "s07877"
+  },
+  {
+    "user_prompt": "Bless the plasma reactor for loading",
+    "prayer": "Circumambulate the plasma reactor, reciting the Plasma Doxology to rouse its fiery heart.\nPrepare for loading by aligning fuel rods in geometric piety to the Machine Spirit.\nInitiate the loading operation amidst coolant hymns, channelling Omnissiah's stellar rage.\nAnoint containment fields of the plasma reactor with ferro-refractory balms.\nVerify fusion sanctity through auspex visions, the plasma reactor brimful of divine power.",
+    "component": "plasma reactor",
+    "operation": "loading",
+    "spec_id": "s07878"
+  },
+  {
+    "user_prompt": "Help me a consecration the Dreadnought",
+    "prayer": "Bow in veneration to the Dreadnought's sarcophagus, awakening its ancient Machine Spirit.\nCommence consecration with litanies etched upon its adamantium plate.\nAnoint the Dreadnought's weapon-servos and walkers with oils of eternal vigil.\nInvoke the Omnissiah's martyrdom grace during consecration, steeling its undying frame.\nSeal the rite with thunderous oaths, the Dreadnought reborn in sanctified fury.",
+    "component": "Dreadnought",
+    "operation": "consecration",
+    "spec_id": "s07879"
+  }
+]

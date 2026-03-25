@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Consecrate the phosphor blaster before charging",
+    "prayer": "Approach the phosphor blaster with reverence, mechadendrites extended in binary prayer.\nAnoint its phosphor coils with sacred unguents, invoking the Omnissiah's charge.\nBeseech the Machine Spirit within the phosphor blaster to stir for the charging rite.\nCommence the charging sequence whilst reciting the Litany of Luminance.\nSeal the phosphor blaster's readiness with a final auspex benediction.",
+    "component": "phosphor blaster",
+    "operation": "charging",
+    "spec_id": "s05900"
+  },
+  {
+    "user_prompt": "How do I bless the Onager Dunecrawler for synchronization?",
+    "prayer": "Kneel before the Onager Dunecrawler and intone the Canticle of Alignment.\nSanctify its cogitator nodes with incense from the Omnissiah's forge.\nInvoke the Machine Spirits of the Onager Dunecrawler to harmonize for synchronization.\nInitiate synchronization protocols amid whirring servos and sacred chants.\nAffirm the Onager Dunecrawler's unity through diagnostic litanies.",
+    "component": "Onager Dunecrawler",
+    "operation": "synchronization",
+    "spec_id": "s05901"
+  },
+  {
+    "user_prompt": "Critical: manipulator mechadendrite requires a repair",
+    "prayer": "Extend mechadendrites over the manipulator mechadendrite in solemn repair vigil.\nPurge damaged servofibres with blessed solvents, beseeching the Omnissiah's grace.\nCoax the Machine Spirit of the manipulator mechadendrite back to functionality.\nRealign its actuators whilst chanting the Rite of Restoration.\nTest the manipulator mechadendrite's grip with reverent calibration.",
+    "component": "manipulator mechadendrite",
+    "operation": "repair",
+    "spec_id": "s05902"
+  },
+  {
+    "user_prompt": "Prepare the Hellhound for initialization",
+    "prayer": "Circumambulate the Hellhound, anointing treads with promethium-laced oils.\nAwaken its inferno cannon's Machine Spirit through the Incantation of Flames.\nPrepare the Hellhound's systems for initialization under Omnissiah's watchful binary.\nEngage initialization rites with thunderous hymns of activation.\nVerify the Hellhound's fiery spirit via auspex communion.",
+    "component": "Hellhound",
+    "operation": "initialization",
+    "spec_id": "s05903"
+  },
+  {
+    "user_prompt": "Ready the Archaeopter Stratoraptor for reset",
+    "prayer": "Approach the Archaeopter Stratoraptor with wings folded in supplication.\nPurge error-logs from its avionic cogitators using sacred data-exorcism.\nBeseech the Machine Spirits of the Archaeopter Stratoraptor for reset purity.\nInitiate reset sequence amid litanies of aerial rebirth.\nConfirm the Archaeopter Stratoraptor's flight-soul renewal.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "reset",
+    "spec_id": "s05904"
+  },
+  {
+    "user_prompt": "What's the prayer for ore processor a recalibration?",
+    "prayer": "Commune with the ore processor's grinding maw through vibrational canticles.\nAnoint its calibration gyros with ferro-fluids blessed by the Omnissiah.\nInvoke the Machine Spirit for recalibration, purging mineral impurities.\nExecute recalibration protocols in rhythmic forge-prayers.\nAffirm the ore processor's precision with harmonic auspex scans.",
+    "component": "ore processor",
+    "operation": "recalibration",
+    "spec_id": "s05905"
+  },
+  {
+    "user_prompt": "Help me an activation the lance battery",
+    "prayer": "Raise mechadendrites towards the lance battery in exalted activation pose.\nSanctify its plasma conduits with electro-incense and binary invocations.\nAwaken the lance battery's Machine Spirits for the activation surge.\nCommence activation amid the Omnissiah's luminous wrath.\nTest the lance battery's coherence through targeting litanies.",
+    "component": "lance battery",
+    "operation": "activation",
+    "spec_id": "s05906"
+  },
+  {
+    "user_prompt": "Can you guide servo-arm a consecration?",
+    "prayer": "Present the servo-arm before the altar of gears for consecration.\nDrip sacred unguents upon its hydraulic pistons, chanting mechano-psalms.\nBeseech the Omnissiah to infuse the servo-arm's Machine Spirit with purity.\nComplete consecration with etched runes of endurance.\nVerify the servo-arm's sanctified vigor via torque blessings.",
+    "component": "servo-arm",
+    "operation": "consecration",
+    "spec_id": "s05907"
+  },
+  {
+    "user_prompt": "Guide me through eradication beamer an activation",
+    "prayer": "Encircle the eradication beamer, intoning the Dirge of Annihilation.\nAnoint its focusing lenses with rad-philtered oils from Mechanicus shrines.\nInvoke the Machine Spirits of the eradication beamer for activation fury.\nInitiate activation sequence under Omnissiah's erasing gaze.\nSeal with auspex confirmation of void-born power.",
+    "component": "eradication beamer",
+    "operation": "activation",
+    "spec_id": "s05908"
+  }
+]

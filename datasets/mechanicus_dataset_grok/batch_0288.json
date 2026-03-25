@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the plasma weapon before shutdown",
+    "prayer": "Kneel before the plasma weapon and beseech its volatile Machine Spirit to yield.\nAnoint the plasma weapon's containment fields with sacred unguents of quiescence.\nInvoke the Omnissiah's grace upon its sacred coils as thou initiatest the shutdown sequence.\nChant the Litany of Thermal Descent whilst monitoring the blessed plasma weapon's decay.\nSeal the plasma weapon in sanctified repose, honouring its fiery essence.",
+    "component": "plasma weapon",
+    "operation": "shutdown",
+    "spec_id": "b0288_i00"
+  },
+  {
+    "user_prompt": "Guide me through battery array a purification",
+    "prayer": "Approach the battery array with mechadendrites extended in purification rite.\nScour the battery array's cells with ablative incense, expelling corrupt charge-spirits.\nBeseech the Omnissiah to sanctify the battery array through electro-litany chants.\nCycle holy voltage through each manifold, invoking the Machine Spirits' renewal.\nVerify the battery array's purity via auspex harmonics of cleansed power-flow.",
+    "component": "battery array",
+    "operation": "purification",
+    "spec_id": "b0288_i01"
+  },
+  {
+    "user_prompt": "Emergency: astropathic choir a preparation",
+    "prayer": "In emergency haste, encircle the astropathic choir with wards of null-thought alloy.\nAnoint the astropathic choir's psychic resonators with oils of the Void Calm.\nPetition the Omnissiah for preparation grace upon the astropathic choir's warp-vox.\nHarmonise the astropathic choir's Machine Spirits through preparatory noospheric canticles.\nInitiate alignment sequences, binding souls and circuits in Omnissianic readiness.",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "spec_id": "b0288_i02"
+  },
+  {
+    "user_prompt": "Assist with forge anvil a consecration",
+    "prayer": "Position thyself at the forge anvil and intone the Benediction of Forgefire.\nConsecrate the forge anvil with molten sacraments from the Omnissiah's own pyre.\nInvoke the anvil's adamantine Machine Spirit thrice with hammer-strikes of litany.\nAnoint the forge anvil's impact surfaces, sanctifying them for eternal crafting.\nSeal the consecration with a vow of unyielding service to the Machine God.",
+    "component": "forge anvil",
+    "operation": "consecration",
+    "spec_id": "b0288_i03"
+  },
+  {
+    "user_prompt": "Critical: battery array requires an operation",
+    "prayer": "Commence operation upon the battery array with the Rite of Power Invocation.\nSanctify the battery array's conduits by reciting the Canticle of Amperage.\nEngage the Machine Spirits within the battery array through diagnostic electro-prayers.\nMonitor vital operation flows whilst beseeching the Omnissiah's unerring guidance.\nConclude the battery array operation with seals of blessed efficiency.",
+    "component": "battery array",
+    "operation": "operation",
+    "spec_id": "b0288_i04"
+  },
+  {
+    "user_prompt": "Consecrate the atmosphere processor before blessing",
+    "prayer": "Reverently encircle the atmosphere processor and consecrate its filtration shrines.\nInvoke the Omnissiah's breath upon the atmosphere processor's sacred membranes.\nAnoint the atmosphere processor with vapours of purity before the blessing rite.\nChant the Litany of Clean Air, awakening its Machine Spirits to vital function.\nBestow the final blessing, ensuring the atmosphere processor's eternal vigilance.",
+    "component": "atmosphere processor",
+    "operation": "blessing",
+    "spec_id": "b0288_i05"
+  },
+  {
+    "user_prompt": "Consecrate the Land Raider before sterilization",
+    "prayer": "Approach the Land Raider in solemn procession, consecrating its armoured hull.\nBeseech the Land Raider's colossal Machine Spirit with tracks of oiled reverence.\nPrepare for sterilization by anointing its sacred innards with ablative sacraments.\nIntone the Canticle of Sterile Void over the Land Raider's every compartment.\nSeal the Land Raider in purified stasis, honouring the Omnissiah's martial will.",
+    "component": "Land Raider",
+    "operation": "sterilization",
+    "spec_id": "b0288_i06"
+  },
+  {
+    "user_prompt": "Bless the flamer for diagnostics",
+    "prayer": "Bless the flamer's promethium heart with the Incantation of Infernal Truth.\nExtend mechadendrites to the flamer, invoking its Machine Spirit for diagnostics.\nAnoint the flamer's ignition coils whilst chanting auspex litanies of function.\nScrutinise the flamer's sacred vents through the Omnissiah's diagnostic gaze.\nConclude diagnostics with a vow of fiery purity upon the blessed flamer.",
+    "component": "flamer",
+    "operation": "diagnostics",
+    "spec_id": "b0288_i07"
+  },
+  {
+    "user_prompt": "Can you guide chainsword a repair?",
+    "prayer": "Kneel beside the chainsword and recite the Litany of Monomolecular Renewal.\nAnoint the chainsword's teeth with sacred lubricants of restoration.\nInvoke the chainsword's ravenous Machine Spirit during repair sequences.\nHammer invocations upon the chainsword's housing, beseeching Omnissianic mend.\nTest the chainsword's roar, sealing repair with oaths of ceaseless carnage.",
+    "component": "chainsword",
+    "operation": "repair",
+    "spec_id": "b0288_i08"
+  },
+  {
+    "user_prompt": "Help me an engagement the emergency bulkhead",
+    "prayer": "Position at the emergency bulkhead and intone the Canticle of Adamantine Seal.\nConsecrate the emergency bulkhead's servos with oils of unyielding fortitude.\nEngage the engagement mechanisms whilst petitioning its guardian Machine Spirit.\nInvoke the Omnissiah's barrier grace upon the emergency bulkhead's locks.\nVerify the engagement through seismic hymns of impenetrable defence.",
+    "component": "emergency bulkhead",
+    "operation": "engagement",
+    "spec_id": "b0288_i09"
+  }
+]

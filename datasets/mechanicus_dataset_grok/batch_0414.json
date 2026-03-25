@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide heavy bolter a sterilization?",
+    "prayer": "Approach the heavy bolter with reverence, mechadendrites poised in supplication.\nInvoke the Canticle of Sterilization to purge foul residues from its sanctified barrels.\nAnoint the heavy bolter's breeches and feeds with sacred ablatives of the Omnissiah.\nBeseech the Machine Spirit of the heavy bolter to embrace this cleansing rite.\nConfirm purity through auspex litanies, ensuring no taint endures.",
+    "component": "heavy bolter",
+    "operation": "sterilization",
+    "spec_id": "s00140"
+  },
+  {
+    "user_prompt": "I need to a purification the Skorpius Disintegrator",
+    "prayer": "Kneel before the Skorpius Disintegrator, intoning the Rite of Purification.\nCircumambulate its hull thrice, asperging with sanctified promethium vapours.\nPurify the Skorpius Disintegrator's reactors by reciting the Mantra of Immaculate Flux.\nInvoke the Omnissiah's wrath upon lingering corruptions within its machine heart.\nSeal the rite with electro-incense, awakening the Machine Spirit renewed.",
+    "component": "Skorpius Disintegrator",
+    "operation": "purification",
+    "spec_id": "s00141"
+  },
+  {
+    "user_prompt": "What's the prayer for life sustainer a synchronization?",
+    "prayer": "Commence synchronization of the life sustainer by chanting the Harmony Doxology.\nAlign its vital conduits with binary prayers to the Omnissiah.\nInitiate synchronization protocols whilst caressing the life sustainer's regulators.\nCoax the Machine Spirit of the life sustainer into perfect temporal accord.\nValidate unity through noospheric diagnostics and laudatory binaric hymns.",
+    "component": "life sustainer",
+    "operation": "synchronization",
+    "spec_id": "s00142"
+  },
+  {
+    "user_prompt": "Sanctify the maglock during charging",
+    "prayer": "Position the maglock upon the altar of charging, invoking the Capacitance Benediction.\nChannel sacred lumen-energy into the maglock's coils with measured incantations.\nMonitor the charging surge, beseeching the Machine Spirit to accept this vital infusion.\nAnoint the maglock's contacts with conductive oils of the Omnissiah.\nConclude as fields stabilize, proclaiming the maglock sanctified and potent.",
+    "component": "maglock",
+    "operation": "charging",
+    "spec_id": "s00143"
+  },
+  {
+    "user_prompt": "Assist with Razorback a cycling",
+    "prayer": "Prepare the Razorback for cycling by reciting the Cycle of Eternity.\nInitiate power cycling through its auspex arrays and motive systems.\nCycle the Razorback's machine Spirit with litanies of renewal and vigilance.\nPurge thermal residuals whilst invoking the Omnissiah's endless motion.\nAffirm operational purity as the Razorback hums in harmonious rebirth.",
+    "component": "Razorback",
+    "operation": "cycling",
+    "spec_id": "s00144"
+  },
+  {
+    "user_prompt": "The photolenses awaits a blessing",
+    "prayer": "Gaze upon the photolenses through sanctified optics, beginning the Blessing Rite.\nPolish their facets with cloths imbued in Machine Oil of Clarity.\nBless the photolenses by projecting holo-litany upon their receptors.\nInvoke the Omnissiah to sharpen the Machine Spirit's vision eternal.\nTest acuity with shadow-plays, ensuring flawless perceptual grace.",
+    "component": "photolenses",
+    "operation": "blessing",
+    "spec_id": "s00145"
+  },
+  {
+    "user_prompt": "The electro-graft requires a cooling",
+    "prayer": "Enfold the electro-graft in cooling rites, chanting the Thermic Litany.\nApply cryo-unguents to its neural interfaces and conductive pathways.\nFacilitate cooling of the electro-graft whilst beseeching thermal equilibrium.\nPacify the Machine Spirit with vibrations of the Omnissiah's calm.\nAttest stability via thermographic canticles, restoring serene function.",
+    "component": "electro-graft",
+    "operation": "cooling",
+    "spec_id": "s00146"
+  },
+  {
+    "user_prompt": "Guide me through flak armour a charging",
+    "prayer": "Array the flak armour for charging upon the reliquary slab.\nInfuse its lamellar cells with galvanic essences through the Charging Psalm.\nOversee the charging of the flak armour, invoking protective wards.\nAnoint its ablative layers, honouring the Machine Spirit's resilience.\nHerald completion as fields brim, fortified by the Omnissiah's aegis.",
+    "component": "flak armour",
+    "operation": "charging",
+    "spec_id": "s00147"
+  },
+  {
+    "user_prompt": "The las-cutter awaits a synchronization",
+    "prayer": "Align the las-cutter for synchronization with precision mechadendrites.\nHarmonize its crystal matrices via the Synchronization Doxology.\nInitiate synchronization of the las-cutter, merging frequencies in prayer.\nCoerce the Machine Spirit into phased unity with Omnissian chants.\nVerify coherence through las-luminescence tests and triumphant binarics.",
+    "component": "las-cutter",
+    "operation": "synchronization",
+    "spec_id": "s00148"
+  },
+  {
+    "user_prompt": "The plasma weapon needs a sterilization",
+    "prayer": "Present the plasma weapon humbly, commencing sterilization protocols.\nExpunge volatile residues from the plasma weapon's containment fields.\nRecite the Sterilization Exorcism to banish mutagenic plagues.\nBless the plasma weapon anew with stabiliser sacraments of the Omnissiah.\nProbe for sanctity with rad-scans, affirming the Machine Spirit's purity.",
+    "component": "plasma weapon",
+    "operation": "sterilization",
+    "spec_id": "s00149"
+  }
+]

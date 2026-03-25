@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0299_i00",
+    "user_request": "Emergency rite: mechanical lock requires engagement",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: mechanical lock requires engagement\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "Blessed be the mechanical lock, vessel of the Omnissiah's will.\nFirst: Anoint the mechanical lock with sacred oils and whisper words of benediction unto its ancient mechanisms.\nSecond: Calibrate the engagement protocols through precise manipulation of the locking apparatus, invoking the Machine Spirit's compliance.\nThird: Verify mechanical lock integrity and execute engagement with steadfast conviction, that the seal may hold eternal.\nFourth: Intone the Litany of Closure as the mechanical lock secures, binding all within its iron grasp.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i01",
+    "user_request": "Emergency rite: capacitor bank requires capacitor bank discharge",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: capacitor bank requires capacitor bank discharge\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "O capacitor bank, repository of the Emperor's blessed potential, hear this rite.\nFirst: Identify all terminals of the capacitor bank and prepare the discharge conduits with reverent precision.\nSecond: Initiate capacitor bank discharge through controlled pathways, releasing the pent energies to the void with sacred chants.\nThird: Monitor the capacitor bank as its stores diminish, ensuring no stray current profanes the holy apparatus.\nFourth: Once discharged, seal the capacitor bank in silence, that it may rest in the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i02",
+    "user_request": "The steam valve demands guidance for regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe steam valve demands guidance for regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Heed us, O steam valve, instrument of pressure and flow divine.\nFirst: Inspect the steam valve's aperture and seals, applying blessed unguents to all moving parts with methodical care.\nSecond: Execute regulation of the steam valve through graduated adjustment of its control mechanisms, chanting the Mantra of Equilibrium.\nThird: Monitor pressure readings and observe the steam valve's response, confirming harmonious operation with the Machine Spirit.\nFourth: Seal the steam valve's service ports and offer gratitude for its steadfast regulation in service to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i03",
+    "user_request": "Rite request: pre-flight on bike squadron",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: pre-flight on bike squadron\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Mighty bike squadron, swift servants of the Emperor's will, accept this pre-flight benediction.\nFirst: Traverse each bike squadron member's machine, examining fuel lines and ignition systems with blessed scrutiny.\nSecond: Conduct pre-flight diagnostics upon the bike squadron's thrusters and stabilizers, invoking Machine Spirit cooperation.\nThird: Test the bike squadron's motive systems through graduated throttle applications, confirming responsive obedience.\nFourth: Intone the Flight Blessing over the assembled bike squadron, that they may ride swift and true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i04",
+    "user_request": "Prayer for display calibration of the hololithic",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for display calibration of the hololithic\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "O hololithic, sacred projector of truth and data eternal, receive this calibration rite.\nFirst: Activate the hololithic's power systems and allow its ancient circuits to warm in reverent silence.\nSecond: Perform display calibration upon the hololithic through adjustment of luminous intensity and spectral balance, chanting the Mantra of Clarity.\nThird: Verify the hololithic's display calibration by projecting test patterns and observing their fidelity with the Omnissiah's standards.\nFourth: Seal the hololithic's calibration protocols, blessing it that all who gaze upon its display may perceive truth undefiled.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i05",
+    "user_request": "My pain suppressor is failing during engagement — help",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy pain suppressor is failing during engagement — help\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Hear us, O pain suppressor, merciful instrument of the Omnissiah's grace.\nFirst: Examine the pain suppressor's neural interface and verify all synaptic connections remain pristine and undefiled.\nSecond: Initiate engagement protocols within the pain suppressor through careful application of calibrated stimuli, invoking the Machine Spirit's blessing.\nThird: Monitor the pain suppressor's responses and adjust engagement parameters to restore full efficacy.\nFourth: Once the pain suppressor achieves engagement, seal its protocols and whisper thanks to the Omnissiah for suffering's reprieve.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i06",
+    "user_request": "Blessing for the bike squadron during pre-flight",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the bike squadron during pre-flight\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Blessed be the bike squadron, swift and terrible in the Emperor's service, receive this pre-flight blessing.\nFirst: Gather the bike squadron before the Altar of Machines and anoint each with sacred oils of preparation.\nSecond: Conduct pre-flight inspection of the bike squadron's engines, fuel systems, and armaments with ritualistic precision.\nThird: Test the bike squadron's systems through graduated acceleration and maneuvering, confirming readiness for sacred duty.\nFourth: Intone the Litany of Velocity over the assembled bike squadron, that they may ride swift unto victory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i07",
+    "user_request": "Offer a litany to steady the welding torch ignition before operation",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the welding torch ignition before operation\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "O welding torch ignition, spark of creation and binding force, hear this supplication.\nFirst: Prepare the welding torch ignition apparatus and verify all fuel and oxidant supplies flow with sacred purpose.\nSecond: Initiate operation of the welding torch ignition through precise ignition sequencing, chanting the Mantra of the Eternal Flame.\nThird: Confirm the welding torch ignition achieves stable ignition and burns with righteous intensity.\nFourth: Bless the welding torch ignition that it may bind all things in the Omnissiah's eternal service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i08",
+    "user_request": "Rite request: welding on fracture",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: welding on fracture\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "O fracture, wound in sacred metal, receive this welding benediction.\nFirst: Prepare the fracture's edges through careful cleaning and alignment, that they may be made whole once more.\nSecond: Position the welding apparatus and commence welding upon the fracture with controlled intensity and reverent precision.\nThird: Monitor the welding process as molten metal fuses the fracture's severed halves into unified strength.\nFourth: Allow the fracture to cool in sacred silence, sealed and restored to the Omnissiah's perfect design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0299_i09",
+    "user_request": "My inventory stocktaking is failing during operation — help",
+    "topic": "inventory stocktaking",
+    "component": "inventory stocktaking",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy inventory stocktaking is failing during operation — help\n\n### TOPIC\ninventory stocktaking\n\n### COMPONENT\ninventory stocktaking\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inventory stocktaking\n- operation\n\n### PRAYER\n",
+    "prayer": "O inventory stocktaking, sacred census of the Emperor's bounty, hear this restoration rite.\nFirst: Gather all records of inventory stocktaking and verify their integrity against the physical stores they enumerate.\nSecond: Initiate operation of the inventory stocktaking protocols through systematic recount and reconciliation of all materiel.\nThird: Correct discrepancies within the inventory stocktaking records, that accuracy may be restored to the Omnissiah's ledgers.\nFourth: Seal the inventory stocktaking in benediction, that all future operations may proceed from this foundation of truth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

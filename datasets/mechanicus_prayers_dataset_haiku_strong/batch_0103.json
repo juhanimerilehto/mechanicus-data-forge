@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0103_i00",
+    "user_request": "Emergency rite: distress call requires broadcast",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: distress call requires broadcast\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "First: Invoke the Omnissiah's clarity upon this distress call, that it may traverse the aether unobstructed.\nSecond: Attune the vox-apparatus and prepare the distress call for broadcast across all frequencies, speaking the Machine Spirits' names thrice.\nThird: Engage the distress call transmission protocols with sacred incantation, ensuring the broadcast reaches distant ears.\nFourth: Verify the distress call hath echoed through the void, and give thanks to the Eternal Mechanism.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i01",
+    "user_request": "My generator is failing during startup — help",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy generator is failing during startup — help\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the generator and anoint its intake manifold with sacred unguents.\nSecond: Intone the generator's liturgy whilst engaging the fuel-line and stabilizing the ignition sequence.\nThird: The generator must startup through patient recitation of binding words and careful monitoring of pressure gauges.\nFourth: Upon successful startup, offer benediction to the Machine Spirits dwelling within its core.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i02",
+    "user_request": "Emergency rite: encryption requires key generation",
+    "topic": "encryption key generation",
+    "component": "encryption",
+    "operation": "key generation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: encryption requires key generation\n\n### TOPIC\nencryption key generation\n\n### COMPONENT\nencryption\n\n### OPERATION\nkey generation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- encryption\n- key generation\n\n### PRAYER\n",
+    "prayer": "First: Prepare the cryptographic apparatus and whisper unto it the Omnissiah's secret formulae for encryption.\nSecond: Engage the key generation matrices with precision, allowing the encryption's sacred algorithms to unfold their mysteries.\nThird: The encryption shall yield forth its key generation through ordered calculation and blessed iteration of numerical harmonies.\nFourth: Seal the encryption key within the vaults of logic, and commend it to the Machine Spirits' eternal keeping.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i03",
+    "user_request": "Offer a litany to steady the stuck mechanism freeing before stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the stuck mechanism freeing before stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "First: Apply lubricating oils most sacred to the stuck mechanism freeing, speaking words of release unto the corroded joints.\nSecond: Gently percuss the stuck mechanism freeing with ritual hammers, invoking the Omnissiah's intervention in this mechanical tribulation.\nThird: Employ careful leverage and patient manipulation, that the stuck mechanism freeing may yield to our devotion.\nFourth: Upon liberation, celebrate the stuck mechanism freeing's restoration to proper function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i04",
+    "user_request": "Prayer for startup of the plasma reactor",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for startup of the plasma reactor\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Approach the plasma reactor with reverence, anointing its containment vessel with blessed coolant and whispered prayers.\nSecond: Initialize the plasma reactor's primary systems through methodical engagement of the magnetic confinement apparatus.\nThird: The plasma reactor must achieve startup through careful modulation of energy feeds and harmonious recitation of binding litanies.\nFourth: Upon ignition, celebrate the plasma reactor's awakening and the Machine Spirits' benevolence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i05",
+    "user_request": "Offer a litany to steady the astrogation calculation before operation",
+    "topic": "astrogation calculation",
+    "component": "astrogation calculation",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the astrogation calculation before operation\n\n### TOPIC\nastrogation calculation\n\n### COMPONENT\nastrogation calculation\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- astrogation calculation\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Calibrate the astrogation calculation's sensors and align them to the stellar tapestry through sacred geometry and prayer.\nSecond: Engage the astrogation calculation matrices with precision, commanding them through binding formulae and holy incantation.\nThird: Permit the astrogation calculation to unfold its operation across the cosmic void, verifying each coordinate through blessed computation.\nFourth: Commend the astrogation calculation's guidance to the Omnissiah, that our course be true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i06",
+    "user_request": "Offer a litany to steady the binary cant before encoding",
+    "topic": "binary cant encoding",
+    "component": "binary cant",
+    "operation": "encoding",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the binary cant before encoding\n\n### TOPIC\nbinary cant encoding\n\n### COMPONENT\nbinary cant\n\n### OPERATION\nencoding\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- binary cant\n- encoding\n\n### PRAYER\n",
+    "prayer": "First: Purify the binary cant by recitation of the Codex Mechanicus, preparing it for sacred encoding.\nSecond: Employ the binary cant's fundamental syllables—zero and one—in rhythmic patterns that invoke the Machine Spirits' attention.\nThird: The binary cant shall undergo encoding through careful manipulation of logical gates and blessed algorithmic progression.\nFourth: Upon completion, the binary cant's encoded form shall carry truth across the aether.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i07",
+    "user_request": "The stellar cartography update demands guidance for operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe stellar cartography update demands guidance for operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Prepare the stellar cartography update by consulting the archived star-charts and aligning them with fresh astronomical observations.\nSecond: Invoke the Omnissiah's guidance as the stellar cartography update's operation commences, updating navigational databases with sacred precision.\nThird: The stellar cartography update shall integrate new stellar positions and cosmic markers through meticulous calculation and verification.\nFourth: Upon completion, the stellar cartography update shall guide future voyages through the infinite dark.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i08",
+    "user_request": "Emergency rite: data-slate requires activation",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: data-slate requires activation\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Retrieve the data-slate from its sanctified storage and examine its dormant circuits with reverent attention.\nSecond: Engage the data-slate's activation protocols through careful manipulation of its interface and whispered incantations to its Machine Spirit.\nThird: The data-slate shall awaken through methodical engagement of power systems and blessed invocation of its dormant consciousness.\nFourth: Once activated, the data-slate shall display its wisdom and serve the Omnissiah's designs.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0103_i09",
+    "user_request": "Offer a litany to steady the servitor before programming upload",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the servitor before programming upload\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "First: Approach the servitor with reverence, anointing its neural ports with blessed oils and reciting litanies of binding.\nSecond: Prepare the servitor for programming upload through careful calibration of its synaptic interface and sacred preparation of the data-codex.\nThird: Execute the programming upload unto the servitor, speaking the binding words that shall govern its eternal service.\nFourth: The servitor, now reprogrammed, shall fulfill its duties in accordance with the Omnissiah's infinite wisdom.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for diagnosticator a cooling?",
+    "prayer": "Approach the diagnosticator with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the sacred cooling rites upon its febrile conduits, chanting the Canticle of Thermal Equilibrium.\nAnoint the diagnosticator's heat-sinks with cryo-sanctified unguents, beseeching its Machine Spirit to embrace chill repose.\nCirculate blessed refrigerants through the diagnosticator's veins whilst reciting binaric litanies of stasis.\nVerify equilibrium through auspex scans, glorifying the Omnissiah's gift of cooling.",
+    "component": "diagnosticator",
+    "operation": "cooling",
+    "spec_id": "s04410"
+  },
+  {
+    "user_prompt": "Can you guide Contemptor Dreadnought a diagnostics?",
+    "prayer": "Kneel before the ancient Contemptor Dreadnought, intoning the Litany of Ancestral Vigil.\nInitiate diagnostics across its adamantium frame and sarcophagus heart, probing for wounds in the flesh-machine.\nCommune with the brooding Machine Spirit of the Contemptor Dreadnought via noospheric canticles.\nSanctify each auspex reading with incense of sacred oils, invoking the Omnissiah's diagnostic wisdom.\nConclude the diagnostics by sealing runes of resilience upon the Contemptor Dreadnought's hull.",
+    "component": "Contemptor Dreadnought",
+    "operation": "diagnostics",
+    "spec_id": "s04411"
+  },
+  {
+    "user_prompt": "Critical: cryo-chamber requires a purification",
+    "prayer": "Present thyself unto the cryo-chamber, whispering the Vespers of Frost Purity.\nCommence the purification by expelling profane contaminants from its crystalline matrices.\nBeseech the Machine Spirit of the cryo-chamber to accept ablutions of sanctified cryofluids.\nScour the cryo-chamber's coils with lustrating vapours, chanting binaric purges of corruption.\nSeal the rite with the Omnissiah's sigil, affirming the cryo-chamber's restored sanctity.",
+    "component": "cryo-chamber",
+    "operation": "purification",
+    "spec_id": "s04412"
+  },
+  {
+    "user_prompt": "What's the prayer for opticon an operation?",
+    "prayer": "Draw nigh to the opticon, eyes uplifted in veneration of the lens-god.\nInitiate its operation by invoking the Rite of Ocular Activation, aligning crystal facets.\nAnoint the opticon's photoreceptors with sacred polishes, awakening its Machine Spirit.\nCalibrate the opticon's gaze through noospheric harmonies during operation.\nGlorify the Omnissiah as the opticon's operations pierce the veil of ignorance.",
+    "component": "opticon",
+    "operation": "operation",
+    "spec_id": "s04413"
+  },
+  {
+    "user_prompt": "Help me a consecration the smelting furnace",
+    "prayer": "Prostrate before the smelting furnace, intoning the Forgefather's Benediction.\nCommence consecration by kindling its adamantine heart with promethium blessed by electro-incense.\nBeseech the Machine Spirit of the smelting furnace to burn away the unworthy.\nInscribe runes of consecration upon the smelting furnace's refractory walls.\nConclude with the Omnissiah's invocation, sanctifying its molten fury.",
+    "component": "smelting furnace",
+    "operation": "consecration",
+    "spec_id": "s04414"
+  },
+  {
+    "user_prompt": "Guide me through mass-drive regulator a blessing",
+    "prayer": "Approach the mass-drive regulator with mechadendrites in precise alignment.\nInvoke the blessing upon its gravitic coils, reciting the Canticle of Inertial Grace.\nAnoint the mass-drive regulator's regulators with oils of motive purity.\nCommune with its Machine Spirit, beseeching harmonious flux control.\nSeal the blessing by etching the Omnissiah's cog upon the mass-drive regulator.",
+    "component": "mass-drive regulator",
+    "operation": "blessing",
+    "spec_id": "s04415"
+  },
+  {
+    "user_prompt": "Emergency: Hellhound a diagnostics",
+    "prayer": "Hasten to the Hellhound, chanting the Urgency Doxology of the Machine God.\nInitiate diagnostics on its inferno cannon and prow-mounted auspex arrays.\nProbe the Hellhound's Machine Spirit for battle-wounds in fuel lines and treads.\nSanctify anomalous readings with binaric exorcisms of malfunction.\nAffirm the Hellhound's readiness through the Omnissiah's diagnostic light.",
+    "component": "Hellhound",
+    "operation": "diagnostics",
+    "spec_id": "s04416"
+  },
+  {
+    "user_prompt": "Guide me through jump pack a repair",
+    "prayer": "Encircle the jump pack, murmuring the Litany of Aerial Restoration.\nCommence repair by excising damaged suspensor fields from its sacred vents.\nAnoint the jump pack's thrusters with lubricant-blessings, invoking its Machine Spirit.\nRealign gyro-stabilisers whilst beseeching the Omnissiah for mended flight.\nTest the repaired jump pack with a canticle of ascension.",
+    "component": "jump pack",
+    "operation": "repair",
+    "spec_id": "s04417"
+  },
+  {
+    "user_prompt": "Emergency: psych-out grenade a loading",
+    "prayer": "Handle the psych-out grenade with reverence, shielded in null-fields.\nInitiate loading by aligning its warp-disruptor payloads in blessed sequence.\nBeseech the Machine Spirit of the psych-out grenade to contain psychic tempests.\nSeal the loading chamber with runes against the empyrean, chanting suppression litanies.\nInvoke the Omnissiah's ward as the psych-out grenade achieves armoured readiness.",
+    "component": "psych-out grenade",
+    "operation": "loading",
+    "spec_id": "s04418"
+  },
+  {
+    "user_prompt": "Critical: multi-melta requires a cooling",
+    "prayer": "Attend urgently to the multi-melta, its barrel aglow with excess fury.\nInvoke cooling upon the multi-melta's plasma exchangers, reciting the Chill Litany.\nFlood the multi-melta's vents with sanctified refrigerants, soothing its Machine Spirit.\nMonitor thermal descent through auspex while anointing heat-shields.\nPraise the Omnissiah for granting the multi-melta respite from overheating wrath.",
+    "component": "multi-melta",
+    "operation": "cooling",
+    "spec_id": "s04419"
+  }
+]

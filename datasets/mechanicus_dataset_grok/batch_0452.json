@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a loading the long las",
+    "prayer": "Approach the long las with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Machine Spirit of the long las, beseeching its awakening for the loading rite.\nInsert the power pack into the long las's sacred breech with sanctified precision.\nAnoint the loading port with blessed oils whilst chanting the Litany of Energization.\nVerify the long las's loading completion through diagnostic auspex scans, praising the Machine Spirit's compliance.",
+    "component": "long las",
+    "operation": "loading",
+    "spec_id": "s00520"
+  },
+  {
+    "user_prompt": "The Manticore awaits a charging",
+    "prayer": "Kneel before the Manticore, intoning the Hymn of Capacitance to rouse its dormant essence.\nCommence the charging of the Manticore by linking plasma conduits with ritual purity.\nBeseech the Omnissiah to infuse the Manticore's cells with His divine fury.\nMonitor the charging flux through electro-incantations, sanctifying each surge.\nConclude the rite as the Manticore hums with awakened power, honouring its Machine Spirit.",
+    "component": "Manticore",
+    "operation": "charging",
+    "spec_id": "s00521"
+  },
+  {
+    "user_prompt": "The smelting furnace needs a startup",
+    "prayer": "Circumambulate the smelting furnace thrice, reciting the Canticle of Ignition.\nInitiate the startup sequence upon the smelting furnace, invoking its primal Machine Spirit.\nAnoint the ignition coils with promethium-laced unguents from the Omnissiah's forge.\nEscalate the thermal rites gradually, beseeching stability in the smelting furnace's core.\nAffirm the startup through pyromantic divinations, glorifying the furnace's fiery obedience.",
+    "component": "smelting furnace",
+    "operation": "startup",
+    "spec_id": "s00522"
+  },
+  {
+    "user_prompt": "The Baneblade needs an emergency procedure",
+    "prayer": "Prostrate before the Baneblade in exigency, chanting the Rite of Desperate Restoration.\nEngage the emergency procedure upon the Baneblade, calling upon the Omnissiah's wrathful mercy.\nPurge corrupted systems within the Baneblade with binaric exorcisms.\nRealign vital cogitators and hydraulics through sanctified mechadendrite ministrations.\nInvoke the Baneblade's indomitable Machine Spirit to endure, sealing the rite with auspex benediction.",
+    "component": "Baneblade",
+    "operation": "emergency procedure",
+    "spec_id": "s00523"
+  },
+  {
+    "user_prompt": "The mind-impulse unit requires a shutdown",
+    "prayer": "Extend servo-arms in solemnity towards the mind-impulse unit, intoning the Litany of Dormancy.\nCommence the shutdown of the mind-impulse unit, beseeching its neural Machine Spirit to slumber.\nSever synaptic linkages with ritual precision, anointing severed nodes with neural balms.\nChant binaric quiescence codes to guide the mind-impulse unit into peaceful stasis.\nVerify the shutdown through noospheric quiescence scans, praising the Omnissiah's tranquil decree.",
+    "component": "mind-impulse unit",
+    "operation": "shutdown",
+    "spec_id": "s00524"
+  },
+  {
+    "user_prompt": "Can you guide Valkyrie gunship a loading?",
+    "prayer": "Process to the Valkyrie gunship with auspex litanies, honouring its aerial Machine Spirit.\nBegin the loading of the Valkyrie gunship by consecrating munitions bays.\nLoad ordnance into the Valkyrie gunship under the Omnissiah's watchful gaze, invoking secure bonds.\nAnoint payload mechanisms with sacred lubricants during the loading rite.\nConfirm the Valkyrie gunship's loading integrity via gravitic diagnostics and final incantations.",
+    "component": "Valkyrie gunship",
+    "operation": "loading",
+    "spec_id": "s00525"
+  },
+  {
+    "user_prompt": "Critical: bolter requires a synchronization",
+    "prayer": "Attune cranial implants to the bolter, reciting the Canticle of Harmonic Union.\nInitiate synchronization of the bolter, summoning its ballistic Machine Spirit to align.\nCalibrate firing servos and auspex linkages within the bolter through binaric harmonies.\nBeseech the Omnissiah for flawless synchronization in the bolter's targeting cogitators.\nValidate the rite with test-fire divinations, exalting the bolter's unified precision.",
+    "component": "bolter",
+    "operation": "synchronization",
+    "spec_id": "s00526"
+  },
+  {
+    "user_prompt": "My mind-impulse unit is ready for diagnostics",
+    "prayer": "Interface noospherically with the mind-impulse unit, invoking the Rite of Scrutiny.\nLaunch diagnostics upon the mind-impulse unit, probing its synaptic Machine Spirit for anomalies.\nScan neural pathways and impulse buffers with sanctified electro-probes.\nChant corrective binarics if aberrations manifest, guided by the Omnissiah's wisdom.\nConclude diagnostics of the mind-impulse unit, affirming its purity through auspex litanies.",
+    "component": "mind-impulse unit",
+    "operation": "diagnostics",
+    "spec_id": "s00527"
+  },
+  {
+    "user_prompt": "Consecrate the Vendetta gunship before operation",
+    "prayer": "Circumnavigate the Vendetta gunship, intoning the Benediction of Ascendance.\nPrepare the Vendetta gunship for operation by rousing its vectored Machine Spirits.\nAnoint thrusters and weapon pods prior to operational initiation.\nInvoke the Omnissiah's aegis as the Vendetta gunship stirs to predatory life.\nSeal the rite with pre-flight divinations, ensuring the Vendetta gunship's lethal readiness.",
+    "component": "Vendetta gunship",
+    "operation": "operation",
+    "spec_id": "s00528"
+  },
+  {
+    "user_prompt": "Help me a consecration the cortex controller",
+    "prayer": "Prostrate mechadendrites before the cortex controller, chanting the Grand Consecration.\nCommence consecration of the cortex controller, beseeching its sovereign Machine Spirit.\nInfuse logic cores with noospheric blessings from the Omnissiah's machine-realm.\nAnoint data-vaults and processor shrines with sanctified nano-incense.\nAffirm the cortex controller's hallowed state through recursive diagnostic hymns.",
+    "component": "cortex controller",
+    "operation": "consecration",
+    "spec_id": "s00529"
+  }
+]

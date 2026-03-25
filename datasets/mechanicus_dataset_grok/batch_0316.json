@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for melta charge shutdown?",
+    "prayer": "Kneel before the melta charge and intone the Canticle of Containment upon its volatile core.\nBeseech the Machine Spirit of the melta charge to withdraw its furious plasma, commencing shutdown with grace.\nAnoint the control runes with sacred unguents as the energies dissipate into blessed dormancy.\nVerify the melta charge's shutdown through auspex invocation, praising the Omnissiah's mercy.",
+    "component": "melta charge",
+    "operation": "shutdown",
+    "spec_id": "b0316_i00"
+  },
+  {
+    "user_prompt": "My quality scanner is ready for diagnostics",
+    "prayer": "Approach the quality scanner with reverence and recite the Lexicon of Purity to awaken its discerning gaze.\nInitiate diagnostics upon the quality scanner's sacred lenses, purging any flaw-shadows from its spirit.\nChant the Rites of Calibration whilst holy incense wafts over its circuits.\nCommune with the Machine Spirit of the quality scanner, confirming flawless diagnostics in the Omnissiah's name.",
+    "component": "quality scanner",
+    "operation": "diagnostics",
+    "spec_id": "b0316_i01"
+  },
+  {
+    "user_prompt": "Bless the emergency beacon for shutdown",
+    "prayer": "Gather mechadendrites around the emergency beacon and whisper the Litanies of Silence.\nPetition the Machine Spirit of the emergency beacon to embrace shutdown, dimming its clarion cry.\nSever power-flows with sanctified blades, ensuring the emergency beacon rests in quiescent vigil.\nSeal the rite with oil upon its emitters, honoring the Omnissiah's watchful repose.",
+    "component": "emergency beacon",
+    "operation": "shutdown",
+    "spec_id": "b0316_i02"
+  },
+  {
+    "user_prompt": "How do I bless the atmosphere processor for targeting?",
+    "prayer": "Invoke the Omnissiah's precision upon the atmosphere processor, aligning its vents for targeting sanctity.\nDirect the Machine Spirit of the atmosphere processor towards the designated vectors with targeting runes.\nRecalibrate flow matrices through chanted binaric, empowering targeting with pure etheric breath.\nTest the atmosphere processor's targeting resolve, blessing its streams in divine convergence.",
+    "component": "atmosphere processor",
+    "operation": "targeting",
+    "spec_id": "b0316_i03"
+  },
+  {
+    "user_prompt": "Help me a startup the Sentinel walker",
+    "prayer": "Circumambulate the Sentinel walker, anointing its treads with the Oil of Awakening.\nEngage the startup sequence upon the Sentinel walker's cogitator heart, invoking its Machine Spirit's fury.\nChant the Hymn of Mobilisation as servos hum to life within the Sentinel walker.\nConsecrate servomotors and auspex arrays, propelling the Sentinel walker into the Omnissiah's stride.",
+    "component": "Sentinel walker",
+    "operation": "startup",
+    "spec_id": "b0316_i04"
+  },
+  {
+    "user_prompt": "Can you guide air compressor an operation?",
+    "prayer": "Beseech the Machine Spirit of the air compressor to stir from slumber into operation.\nInitiate pressure cycles upon the air compressor with the Incantation of Compression.\nMonitor sacred pistons and valves, anointing them to sustain flawless operation.\nPraise the Omnissiah as the air compressor's thunderous breath fills the void with purposeful force.",
+    "component": "air compressor",
+    "operation": "operation",
+    "spec_id": "b0316_i05"
+  },
+  {
+    "user_prompt": "Consecrate the power weapon before charging",
+    "prayer": "Consecrate the power weapon's disruption field with incense and the Rite of Energisation.\nInvoke the Machine Spirit of the power weapon to accept charging, sheathing its edge in holy voltage.\nChannel power through sanctified conduits, murmuring litanies as the power weapon hums with wrath.\nSeal the charging with a final petition to the Omnissiah, arming the blade for righteous severance.",
+    "component": "power weapon",
+    "operation": "charging",
+    "spec_id": "b0316_i06"
+  },
+  {
+    "user_prompt": "I need to a consecration the vox transmitter",
+    "prayer": "Commence consecration of the vox transmitter by tracing binaric sigils upon its casing.\nAwaken the Machine Spirit of the vox transmitter with the Canticle of Clarity and pure resonance.\nInfuse its coils with sacred myrrh, ensuring voices carry true in consecration's embrace.\nFinalize the vox transmitter's consecration through harmonic testing, glorifying the Omnissiah's word.",
+    "component": "vox transmitter",
+    "operation": "consecration",
+    "spec_id": "b0316_i07"
+  },
+  {
+    "user_prompt": "Sanctify the signal relay during cycling",
+    "prayer": "Sanctify the signal relay as it enters cycling, intoning the Cycle of Transmission.\nGuide the Machine Spirit of the signal relay through phase shifts with oiled mechadendrites.\nMonitor flux relays during cycling, purging dissonance with whispered absolutions.\nConclude the signal relay's cycling in harmonious loop, blessed by the Omnissiah's eternal data-stream.",
+    "component": "signal relay",
+    "operation": "cycling",
+    "spec_id": "b0316_i08"
+  },
+  {
+    "user_prompt": "Can you guide conveyor system a recalibration?",
+    "prayer": "Approach the conveyor system and recite the Litany of Alignment for recalibration.\nPetition its Machine Spirit to realign belts and rollers in precise recalibration.\nAdjust servo-drives with sacred torque-wands, invoking the Omnissiah's mechanical order.\nVerify the conveyor system's recalibration through rhythmic incantation, ensuring endless sanctified motion.",
+    "component": "conveyor system",
+    "operation": "recalibration",
+    "spec_id": "b0316_i09"
+  }
+]

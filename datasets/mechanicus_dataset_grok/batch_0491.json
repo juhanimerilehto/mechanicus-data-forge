@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the Storm Eagle before activation",
+    "prayer": "Approach the Storm Eagle with reverence, chanting the Litany of Ignition to rouse its dormant Machine Spirit.\nAnoint the Storm Eagle's auspex arrays and thruster vanes with sacred oils of consecration.\nInitiate the activation rites, beseeching the Omnissiah to infuse the Storm Eagle with wrathful velocity.\nVerify the Machine Spirit's awakening through harmonious power surges and sanctified auspex pings.",
+    "component": "Storm Eagle",
+    "operation": "activation",
+    "spec_id": "s00910"
+  },
+  {
+    "user_prompt": "The optical mechadendrite requires a loading",
+    "prayer": "Extend mechadendrites towards the optical mechadendrite, invoking the Benediction of Clarity.\nLoad the optical mechadendrite's data-vaults with purified crystalline wafers, honouring its Machine Spirit.\nChant the Canticle of Loading whilst aligning fibre-optic conduits within the optical mechadendrite.\nSanctify the process with incense of rare earths, ensuring the Omnissiah's gaze pierces the void.",
+    "component": "optical mechadendrite",
+    "operation": "loading",
+    "spec_id": "s00911"
+  },
+  {
+    "user_prompt": "Can you guide Baneblade a recalibration?",
+    "prayer": "Kneel before the Baneblade, reciting the Recalibration Doxology to appease its colossal Machine Spirit.\nInterface with the Baneblade's cogitator core, purging misaligned targeting lexica through ritual purges.\nRecalibrate the Baneblade's primary cannon servos with electro-sanctified torque, as the Omnissiah decrees.\nTest the Baneblade's auspex harmony, intoning final verses of alignment and fury.",
+    "component": "Baneblade",
+    "operation": "recalibration",
+    "spec_id": "s00912"
+  },
+  {
+    "user_prompt": "Ready the force pylon for cooling",
+    "prayer": "Circumambulate the force pylon thrice, beseeching its Machine Spirit for thermal quiescence.\nDeploy cryo-incantations upon the force pylon's plasma conduits to commence cooling rites.\nMonitor the force pylon's heat-sinks with vox-chanted diagnostics, anointing exchanger coils.\nConclude with the Omnissiah's Cooling Benediction, restoring the force pylon to serene potency.",
+    "component": "force pylon",
+    "operation": "cooling",
+    "spec_id": "s00913"
+  },
+  {
+    "user_prompt": "I need to an engagement the cortex controller",
+    "prayer": "Commune with the cortex controller's noospheric shrine, awakening its synaptic Machine Spirit.\nInitiate engagement protocols by threading sanctified neural cabling into the cortex controller.\nInvoke the Rite of Engagement, harmonizing logic engines under Omnissiah's divine oversight.\nAffirm the cortex controller's bond through resonant feedback litanies and auspex verifications.",
+    "component": "cortex controller",
+    "operation": "engagement",
+    "spec_id": "s00914"
+  },
+  {
+    "user_prompt": "Guide me through omni-tool a targeting",
+    "prayer": "Grasp the omni-tool in binary prayer, petitioning its Machine Spirit for predatory precision.\nCalibrate the omni-tool's targeting matrices with laser-etched runes of accuracy.\nEngage targeting sequences whilst chanting the Omnissiah's Canticle of the Hunter's Eye.\nValidate the omni-tool's lethality through holographic projections sanctified in crimson light.",
+    "component": "omni-tool",
+    "operation": "targeting",
+    "spec_id": "s00915"
+  },
+  {
+    "user_prompt": "Guide me through void shield a sterilization",
+    "prayer": "Encircle the void shield generator, intoning the Purification Canticle against unclean essences.\nCommence sterilization by suffusing the void shield's emitters with rad-phage incense.\nPurge microbial corruptions from the void shield's warp-barriers with electro-liturgical sweeps.\nSeal the rite with Omnissiah's blessing, rendering the void shield immaculate and impenetrable.",
+    "component": "void shield",
+    "operation": "sterilization",
+    "spec_id": "s00916"
+  },
+  {
+    "user_prompt": "Offer prayer for serberys raider a cooling",
+    "prayer": "Approach the serberys raider's cooling vents with due obeisance to its feral Machine Spirit.\nInvoke thermal abatement rites upon the serberys raider, channelling blessed refrigerants.\nAnoint the serberys raider's heat exchangers whilst reciting the Cooling Litany of the Hunt.\nAffirm equilibrium through vox-diagnostics, praising the Omnissiah's temperate mercy.",
+    "component": "serberys raider",
+    "operation": "cooling",
+    "spec_id": "s00917"
+  },
+  {
+    "user_prompt": "Offer prayer for radium pistol a cooling",
+    "prayer": "Cradle the radium pistol reverently, beseeching its irradiated Machine Spirit for respite.\nInitiate cooling ablutions by immersing the radium pistol's barrel in sanctified cryo-fluids.\nChant the Canticle of Quenching over the radium pistol, dissipating mutagenic fervour.\nConsecrate the radium pistol's restoration with a final invocation to the Omnissiah's chill embrace.",
+    "component": "radium pistol",
+    "operation": "cooling",
+    "spec_id": "s00918"
+  },
+  {
+    "user_prompt": "How do I bless the thunder hammer for shutdown?",
+    "prayer": "Present the thunder hammer to the altar of quiescence, honouring its thunderous Machine Spirit.\nDisconnect power conduits whilst intoning the Shutdown Doxology for the thunder hammer.\nAnoint the thunder hammer's disruption field coils with oils of dormancy, as Omnissiah commands.\nSeal the thunder hammer in sanctified repose through confirmatory auspex silence and final blessings.",
+    "component": "thunder hammer",
+    "operation": "shutdown",
+    "spec_id": "s00919"
+  }
+]

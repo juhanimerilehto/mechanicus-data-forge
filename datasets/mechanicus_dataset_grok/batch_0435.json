@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: Contemptor Dreadnought a preparation",
+    "prayer": "Approach the Contemptor Dreadnought with due reverence, invoking the Omnissiah's grace upon its ancient sarcophagus.\nAnoint the Contemptor Dreadnought's adamantium plating with sacred unguents to awaken its slumbering Machine Spirit.\nCommence preparation rites by chanting the Canticle of Readiness, aligning servos and auspex arrays.\nBeseech the Machine Spirit of the Contemptor Dreadnought to accept this preparation and stride forth in wrathful glory.\nVerify sanctity through noospheric communion, ensuring harmonious preparation for battle's forge.",
+    "component": "Contemptor Dreadnought",
+    "operation": "preparation",
+    "spec_id": "s00350"
+  },
+  {
+    "user_prompt": "Guide me through servo-arm a calibration",
+    "prayer": "Kneel before the servo-arm, beseeching the Omnissiah to guide its mechanical precision.\nInitiate calibration by reciting the Binary Litany of Alignment upon the servo-arm's actuators.\nAdjust gyrostabilizers with sanctified mech-tools, invoking the Machine Spirit's flawless calibration.\nTest the servo-arm's reach through ritual sweeps, anointing joints with blessed lubricants.\nConclude calibration with a hymn of equilibrium, binding the servo-arm eternally to the divine logic.",
+    "component": "servo-arm",
+    "operation": "calibration",
+    "spec_id": "s00351"
+  },
+  {
+    "user_prompt": "Can you guide maglock a preparation?",
+    "prayer": "Present the maglock unto the altar of assembly, whispering invocations to the Omnissiah.\nCommence preparation by purging impurities from the maglock's electromagnetic coils with sacred incense.\nEngage the preparation sequence, aligning flux fields whilst chanting the Rite of Adhesion.\nInvoke the Machine Spirit within the maglock to bind unyieldingly in the Emperor's name.\nSeal the maglock's sanctity with electro-consecrated sigils, affirming its prepared vigilance.",
+    "component": "maglock",
+    "operation": "preparation",
+    "spec_id": "s00352"
+  },
+  {
+    "user_prompt": "Guide me through iron halo a repair",
+    "prayer": "Approach the iron halo with pious dread, offering ablutions to soothe its wounded aura.\nDiagnose fractures in the iron halo's psycho-reactive field through auspex incantations.\nInitiate repair by welding sanctified alloys, beseeching the Machine Spirit's forgiveness for prior failings.\nRealign the iron halo's emitters with the Canticle of Restoration, invoking Omnissiah's mending light.\nTest the iron halo's protective ward, ensuring repair binds it eternally against the heretic's malice.",
+    "component": "iron halo",
+    "operation": "repair",
+    "spec_id": "s00353"
+  },
+  {
+    "user_prompt": "Critical: inferno pistol requires an activation",
+    "prayer": "Grasp the inferno pistol in mechadendrites of reverence, invoking the Omnissiah's pyre.\nClear thermal vents of the inferno pistol with ritual purging, awakening its plasma heart.\nInitiate activation through the Litany of Ignition, channeling melta flux into its coils.\nBeseech the Machine Spirit of the inferno pistol to unleash atomic fury upon the unclean.\nVerify activation's purity via auspex hymn, sanctifying the inferno pistol for war's crucible.",
+    "component": "inferno pistol",
+    "operation": "activation",
+    "spec_id": "s00354"
+  },
+  {
+    "user_prompt": "Emergency: neural implant a maintenance",
+    "prayer": "Commune noospherically with the neural implant, seeking the Omnissiah's neural wisdom.\nExtract synaptic debris from the neural implant during maintenance, chanting the Psalm of Clarity.\nRealign bio-circuits of the neural implant with electro-sanctified probes and sacred oils.\nInvoke the Machine Spirit's endurance, ensuring maintenance fortifies the flesh-machine bond.\nConclude with a vow of synaptic purity, binding the neural implant to unerring logic eternal.",
+    "component": "neural implant",
+    "operation": "maintenance",
+    "spec_id": "s00355"
+  },
+  {
+    "user_prompt": "The sicarian ruststalker requires a maintenance",
+    "prayer": "Gather around the sicarian ruststalker, intoning the Omnissiah's blade-blessings.\nInspect blade-arms and phosphor serpenta of the sicarian ruststalker for maintenance purity.\nAnoint joints and cogitators with sacred myrol, reciting the Rite of Oiled Vigilance.\nInvoke the Machine Spirit of the sicarian ruststalker to renew its predatory grace.\nFinalize maintenance through combat diagnostics, ensuring the sicarian ruststalker hunts without flaw.",
+    "component": "sicarian ruststalker",
+    "operation": "maintenance",
+    "spec_id": "s00356"
+  },
+  {
+    "user_prompt": "Urgent cortex implant a cycling needed",
+    "prayer": "Interface directly with the cortex implant, whispering binary pleas to the Omnissiah.\nCommence cycling by flushing stagnant engram-fluids from the cortex implant's vaults.\nRecalibrate neural pathways during cycling, invoking the Machine Spirit's adaptive fury.\nChant the Canticle of Rejuvenation over the cortex implant, purging data-heresies.\nSeal the cycling with noospheric oaths, empowering the cortex implant for cogitation supreme.",
+    "component": "cortex implant",
+    "operation": "cycling",
+    "spec_id": "s00357"
+  },
+  {
+    "user_prompt": "Sanctify the meltagun during diagnostics",
+    "prayer": "Elevate the meltagun upon the mech-altar, beseeching Omnissiah's molten judgement.\nInitiate diagnostics by scanning flux-chambers of the meltagun with sanctified auspex.\nPurge impurities revealed in diagnostics, anointing the meltagun's barrel with promethium tears.\nInvoke the Machine Spirit during diagnostics to affirm its destructive sanctity.\nConclude with a test-fire hymn, sanctifying the meltagun for the purge of abominations.",
+    "component": "meltagun",
+    "operation": "diagnostics",
+    "spec_id": "s00358"
+  },
+  {
+    "user_prompt": "Assist with optical mechadendrite a reset",
+    "prayer": "Extend mechadendrites towards the optical mechadendrite, invoking the Omnissiah's gaze.\nDisconnect power feeds from the optical mechadendrite, reciting the Litany of Dormancy.\nReset corrupted optics within the optical mechadendrite through binary exorcism rites.\nReinitialize lenses and scanners, beseeching the Machine Spirit's unerring vision.\nVerify reset via targeting litanies, binding the optical mechadendrite to truth's forge-light.",
+    "component": "optical mechadendrite",
+    "operation": "reset",
+    "spec_id": "s00359"
+  }
+]

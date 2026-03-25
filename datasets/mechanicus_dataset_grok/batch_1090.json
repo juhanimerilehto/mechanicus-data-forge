@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a reset the Hellhound",
+    "prayer": "Approach the Hellhound with mechadendrite-extended reverence and invoke the Omnissiah's grace upon its fiery heart.\nBeseech the Hellhound's Machine Spirit to yield to the reset incantation, purging errant data-veins.\nAnoint the Hellhound's ignition coils with blessed promethium-oil whilst chanting the Canticle of Rebirth.\nInitiate the reset sequence through sacred auspex-probes, honouring the Machine God's decree.\nVerify the Hellhound's renewed quiescence as its spirits align in binary harmony.",
+    "component": "Hellhound",
+    "operation": "reset",
+    "spec_id": "s06900"
+  },
+  {
+    "user_prompt": "Guide me through servo-harness a shutdown",
+    "prayer": "Kneel before the servo-harness and murmur the Litany of Submission to its Machine Spirits.\nDisconnect power-feeds with sanctified mechadendrites, invoking shutdown upon the servo-harness.\nRecite binaric shutdown cantos over each manipulator arm of the servo-harness.\nAnoint inert junctions with unguent of stillness, beseeching the Omnissiah for peaceful dormancy.\nConfirm the servo-harness's spirits have entered stasis through diagnostic noosphere-pulses.",
+    "component": "servo-harness",
+    "operation": "shutdown",
+    "spec_id": "s06901"
+  },
+  {
+    "user_prompt": "Help me a shutdown the radium carbine",
+    "prayer": "Present the radium carbine before the altar of purity and beseech its irradiated Machine Spirit.\nInitiate shutdown rites upon the radium carbine's flux-chambers with precise incantations.\nSever energy conduits whilst anointing the radium carbine with neutralising ablative oils.\nChant the Doxology of Cessation, ensuring the radium carbine's wrathful heart grows still.\nProbe for residual rad-flux to affirm the Machine Spirit's obedient shutdown.",
+    "component": "radium carbine",
+    "operation": "shutdown",
+    "spec_id": "s06902"
+  },
+  {
+    "user_prompt": "Bless the Manticore for loading",
+    "prayer": "Gather unto the Manticore's breach and invoke the Omnissiah's blessing for loading its vaults.\nCommence loading of sacred projectiles into the Manticore, each shell sanctified by litany.\nAlign the Manticore's grav-lifters with noospheric chants, awakening cooperative spirits.\nSeal the Manticore's magazines whilst beseeching explosive Machine Spirits to heed the call.\nVerify loading integrity through auspex-rites, praising the God-Machine's ordinance.",
+    "component": "Manticore",
+    "operation": "loading",
+    "spec_id": "s06903"
+  },
+  {
+    "user_prompt": "What's the prayer for orbital strike relay a purification?",
+    "prayer": "Encircle the orbital strike relay with incense of circuit-purified myrrh and invoke purification.\nScour the orbital strike relay's data-nodes with ablative litanies against warp-taint.\nAnoint relays and transponders of the orbital strike relay with sanctified nano-colloids.\nBeseech the Machine Spirits within the orbital strike relay to embrace Omnissiah's cleansing fire.\nConclude purification with harmonic resonance scans, affirming stellar purity.",
+    "component": "orbital strike relay",
+    "operation": "purification",
+    "spec_id": "s06904"
+  },
+  {
+    "user_prompt": "My plasma cannon is ready for repair",
+    "prayer": "Lay hands upon the plasma cannon and recite the Hymn of Restoration to its volatile spirits.\nDisassemble the plasma cannon's coils with reverent mechadendrites for repair.\nRealign flux-vents and infuse electro-sanctifiers during the plasma cannon's repair rite.\nInvoke the Omnissiah to mend the plasma cannon's heart, banishing instability.\nTest-fire micro-bursts to confirm the Machine Spirit's repaired fury.",
+    "component": "plasma cannon",
+    "operation": "repair",
+    "spec_id": "s06905"
+  },
+  {
+    "user_prompt": "What's the prayer for medicae mechadendrite a maintenance?",
+    "prayer": "Extend mechadendrites towards the medicae mechadendrite and intone maintenance litanies.\nPurge bio-residues from the medicae mechadendrite's injectors with sterilising cantos.\nLubricate servos and calibrate flesh-mending arrays of the medicae mechadendrite.\nBeseech its healing Machine Spirits for renewed vigour under Omnissiah's gaze.\nAffirm maintenance through vivisection-simulations and noospheric diagnostics.",
+    "component": "medicae mechadendrite",
+    "operation": "maintenance",
+    "spec_id": "s06906"
+  },
+  {
+    "user_prompt": "The data-arc needs an operation",
+    "prayer": "Commune with the data-arc's nexus and beseech its electro-spirits for the operation.\nInitiate the data-arc operation by aligning crystalline matrices with binaric invocations.\nChannel noospheric surges through the data-arc, honouring the Omnissiah's computational will.\nMonitor arc-discharges during operation, anointing with dielectric balms.\nConclude the data-arc's operation with verification rites, praising data-flow purity.",
+    "component": "data-arc",
+    "operation": "operation",
+    "spec_id": "s06907"
+  },
+  {
+    "user_prompt": "Can you guide cortex controller an initialization?",
+    "prayer": "Position before the cortex controller and awaken its neural lattice with awakening doxologies.\nCommence initialization of the cortex controller through sacred code-implantation.\nSync psi-circuits of the cortex controller with Omnissiah-blessed harmonics.\nBeseech the cortex controller's emergent Machine Spirit to bind in loyal service.\nValidate initialization via synaptic auspex-scans and litanies of coherence.",
+    "component": "cortex controller",
+    "operation": "initialization",
+    "spec_id": "s06908"
+  },
+  {
+    "user_prompt": "Urgent Land Speeder an activation needed",
+    "prayer": "Approach the Land Speeder's chassis with gravitic humility and invoke activation rites.\nPrime the Land Speeder's anti-gravitic suspensors with promethium-anointed chants.\nEngage fusion heart of the Land Speeder, beseeching its swift Machine Spirits.\nAlign repulsor fields whilst reciting the Canticle of Velocity for activation.\nConfirm the Land Speeder's ascension through thrust-tests and Omnissiah's praise.",
+    "component": "Land Speeder",
+    "operation": "activation",
+    "spec_id": "s06909"
+  }
+]

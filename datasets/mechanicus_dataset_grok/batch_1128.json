@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "How do I bless the Onager Dunecrawler for charging?",
+    "prayer": "Approach the Onager Dunecrawler with reverence, mechadendrites humming the Canticle of Mobilisation.\nInvoke the Machine Spirit of the Onager Dunecrawler, beseeching its fury for the charging ahead.\nAnoint the dorsal reactors with sacred unguents, sanctifying conduits for plasma surge.\nInitiate the charging operation whilst reciting the Litany of Overcharge unto the Omnissiah.\nVerify the Onager Dunecrawler's spirit harmony through noospheric diagnostics, praising its thundering zeal.",
+    "component": "Onager Dunecrawler",
+    "operation": "charging",
+    "spec_id": "s07280"
+  },
+  {
+    "user_prompt": "The plasma reactor requires a blessing",
+    "prayer": "Kneel before the plasma reactor, intoning the Benediction of Containment.\nBeseech the Machine Spirit within the plasma reactor to accept this blessing of stability.\nCircumambulate its coils thrice, anointing with oils of thermic purity.\nChant the Rite of Blessing over the plasma reactor, invoking Omnissiah's flux guardianship.\nSeal the rite with auspex communion, affirming the plasma reactor's sanctified fury.",
+    "component": "plasma reactor",
+    "operation": "blessing",
+    "spec_id": "s07281"
+  },
+  {
+    "user_prompt": "Critical: needle rifle requires a repair",
+    "prayer": "Present the needle rifle upon the altar of repair, whispering the Invocation of Restoration.\nDissect the damaged mono-filament feeder, purging impurities from its sacred barrel.\nAnoint the needle rifle's servos and guides with blessed lubricants, invoking the Machine Spirit's mend.\nReassemble under the repair operation's canticles, beseeching Omnissiah's precision.\nTest-fire diagnostic rounds to affirm the needle rifle's lethal purity restored.",
+    "component": "needle rifle",
+    "operation": "repair",
+    "spec_id": "s07282"
+  },
+  {
+    "user_prompt": "Ready the stasis pod for emergency procedure",
+    "prayer": "Encircling the stasis pod, commence the emergency procedure with the Litany of Suspension.\nAwaken the Machine Spirit of the stasis pod through noospheric entreaty and cryo-anointing.\nCalibrate temporal fields whilst invoking Omnissiah's stasis veil for the emergency procedure.\nSeal occupants within the stasis pod's embrace, chanting wards against entropy's grasp.\nVerify cryogenic lockdown via auspex, hailing the stasis pod's unyielding vigil.",
+    "component": "stasis pod",
+    "operation": "emergency procedure",
+    "spec_id": "s07283"
+  },
+  {
+    "user_prompt": "Urgent Skorpius Dunerider a recalibration needed",
+    "prayer": "Commune with the Skorpius Dunerider's spirit, mechadendrites tracing its hull in recalibration plea.\nPurge vox-arrays of drift-corruption, anointing gyro-stabilisers with sacred oils.\nInitiate the recalibration operation through binary psalmody to the Omnissiah.\nAlign suspensor fields anew, beseeching the Skorpius Dunerider's Machine Spirit for desert fidelity.\nAffirm harmonic resonance via test traversal, glorifying the Skorpius Dunerider's swift purity.",
+    "component": "Skorpius Dunerider",
+    "operation": "recalibration",
+    "spec_id": "s07284"
+  },
+  {
+    "user_prompt": "Urgent auspex scanner a shutdown needed",
+    "prayer": "Intone the Lamentation of Dormancy upon the auspex scanner, preparing for shutdown.\nDisconnect power umbilicals whilst anointing the auspex scanner's lenses with shadow-oils.\nBeseech the Machine Spirit of the auspex scanner to enter graceful quiescence.\nExecute the shutdown operation through ritual binary descent, praising Omnissiah's rest.\nSeal the auspex scanner's wards, ensuring vigilant slumber against data-heresy.",
+    "component": "auspex scanner",
+    "operation": "shutdown",
+    "spec_id": "s07286"
+  },
+  {
+    "user_prompt": "Consecrate the magnocular before calibration",
+    "prayer": "Consecrate the magnocular with the Rite of Focal Purity before calibration commences.\nInvoke the Machine Spirit indwelling the magnocular, polishing its optic arrays with sanctified cloths.\nAlign reticle servos whilst chanting calibration canticles to the Omnissiah.\nAnoint the magnocular's auspex-links, beseeching crystalline clarity.\nVerify the magnocular's calibration through stellar targeting, hailing its unerring sight.",
+    "component": "magnocular",
+    "operation": "calibration",
+    "spec_id": "s07287"
+  },
+  {
+    "user_prompt": "Urgent autogun a purification needed",
+    "prayer": "Purify the autogun upon the forge-altar, reciting the Exorcism of Filth.\nScour barrel and feed-mechanisms of the autogun, expunging xenos taint and rust-heresy.\nAnoint with sacred solvents, invoking the Machine Spirit's vengeful ire.\nComplete the purification operation via test-cycling, under Omnissiah's purifying flame.\nAffirm the autogun's sanctified lethality through ballistic invocation.",
+    "component": "autogun",
+    "operation": "purification",
+    "spec_id": "s07288"
+  },
+  {
+    "user_prompt": "Assist with vox-thief a reset",
+    "prayer": "Initiate reset upon the vox-thief with the Canticle of Rebirth, mechadendrites probing its core.\nPurge memetic ghosts from the vox-thief's cogitators, anointing data-vaults.\nBeseech the Machine Spirit of the vox-thief to awaken anew from reset's abyss.\nCycle power hierarchies in binary prayer to the Omnissiah, executing the reset operation.\nNoospheric communion verifies the vox-thief's thieving soul restored in purity.",
+    "component": "vox-thief",
+    "operation": "reset",
+    "spec_id": "s07289"
+  }
+]

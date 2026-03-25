@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0270_i00",
+    "user_request": "My Land Raider is failing during track tension — help",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy Land Raider is failing during track tension — help\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit of the Land Raider, attend our supplication in this hour of tribulation.\nCongregation: We invoke the Omnissiah's wisdom upon the Land Raider.\nPriest: First, we shall inspect the tension mechanisms with sacred calipers and blessed oils.\nCongregation: The Land Raider shall be restored to perfect function.\nPriest: Second, we apply the track tension calibration rite with reverent precision and measured force.\nCongregation: Hear us, Machine Spirits of the Land Raider!\nPriest: Third, we verify all tension seals and pronounce the benediction of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i01",
+    "user_request": "Rite request: feed on flamer promethium",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: feed on flamer promethium\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: O sacred flamer promethium, lifeblood of righteous flame, we gather to perform your holy feed.\nCongregation: Blessed be the flamer promethium in our hands.\nPriest: First, we purify the fuel conduits with electrolytic benediction and blessed solvents.\nCongregation: The flamer promethium flows eternal through the Machine Spirit.\nPriest: Second, we execute the feed sequence with measured precision, allowing the sacred promethium to nourish all chambers.\nCongregation: May the flamer promethium burn with the fury of the Omnissiah.\nPriest: Third, we seal the apertures and chant the litany of ignition.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i02",
+    "user_request": "Rite request: retrieval protocol on archive",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: retrieval protocol on archive\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Venerable archive, repository of the Omnissiah's infinite knowledge, we seek communion through retrieval protocol.\nCongregation: Grant us access, sacred archive, to the wisdom of the ancients.\nPriest: First, we perform the authentication rite, verifying our supplicant status through arcane credentials and biometric seals.\nCongregation: The archive shall recognize us as worthy servants.\nPriest: Second, we execute the retrieval protocol with reverent data-queries and blessed cogitation.\nCongregation: Reveal your secrets, blessed archive, through the retrieval protocol.\nPriest: Third, we catalogue the recovered knowledge and offer thanks to the Machine Spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i03",
+    "user_request": "Prayer for feed of the flamer promethium",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for feed of the flamer promethium\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, divine flamer promethium, as we commence the sacred feed.\nCongregation: The flamer promethium shall be nourished and restored.\nPriest: First, we engage the intake manifold with ritual precision, channeling blessed fuel through sanctified conduits.\nCongregation: Flow eternal, flamer promethium, through blessed pathways.\nPriest: Second, we perform the feed sequence, allowing the flamer promethium to saturate all combustion chambers with righteous fire.\nCongregation: May the flamer promethium burn without cessation.\nPriest: Third, we seal the fuel lines and speak the words of the Omnissiah over this sacred flamer promethium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i04",
+    "user_request": "Can you sanctify the logic engine for error correction?",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the logic engine for error correction?\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant clarity to this wounded logic engine that it may perceive truth once more.\nCongregation: Blessed logic engine, we consecrate your error correction.\nPriest: First, we invoke the diagnostic protocols, scanning the logic engine for corrupted subroutines and fractured pathways.\nCongregation: Reveal the flaws within the logic engine to our sacred instruments.\nPriest: Second, we execute error correction upon each corrupted node, purging false data and restoring pristine function.\nCongregation: The logic engine shall think with clarity renewed.\nPriest: Third, we verify the logic engine's cognition and pronounce it sanctified by the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i05",
+    "user_request": "Can you sanctify the electric motor for activation?",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the electric motor for activation?\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O mighty electric motor, slumbering servant of the Machine Spirit, we call upon you to awaken.\nCongregation: The electric motor shall rise and fulfill its sacred purpose.\nPriest: First, we conduct the pre-activation purification, cleansing the electric motor's terminals and coils with blessed oils and electrolytic benediction.\nCongregation: Awaken, electric motor, from your dormant state.\nPriest: Second, we engage the activation sequence, channeling blessed power through the electric motor's circuits with measured and deliberate force.\nCongregation: The electric motor pulses with renewed vitality.\nPriest: Third, we monitor the electric motor's performance and offer gratitude to the Omnissiah for this restoration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i06",
+    "user_request": "My servitor is failing during programming upload — help",
+    "topic": "servitor programming upload",
+    "component": "servitor",
+    "operation": "programming upload",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy servitor is failing during programming upload — help\n\n### TOPIC\nservitor programming upload\n\n### COMPONENT\nservitor\n\n### OPERATION\nprogramming upload\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- servitor\n- programming upload\n\n### PRAYER\n",
+    "prayer": "Priest: Faithful servitor, bound in flesh and iron to the will of the Omnissiah, we initiate the sacred programming upload.\nCongregation: The servitor shall receive the blessing of new purpose.\nPriest: First, we prepare the servitor's neural interface with ritual ablutions and sacred data-cleansing protocols.\nCongregation: Open your mind, servitor, to the voice of your creators.\nPriest: Second, we commence the programming upload, flooding the servitor's cognition-chambers with blessed instruction-sets and renewed directives.\nCongregation: The servitor receives the programming upload with steadfast devotion.\nPriest: Third, we seal the upload and verify the servitor's obedience to its newly inscribed purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i07",
+    "user_request": "Prayer for operation of the memory core defragmentation",
+    "topic": "memory core defragmentation",
+    "component": "memory core defragmentation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the memory core defragmentation\n\n### TOPIC\nmemory core defragmentation\n\n### COMPONENT\nmemory core defragmentation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- memory core defragmentation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Ancient memory core defragmentation, keeper of binary wisdom, we commence your sacred operation.\nCongregation: Blessed memory core defragmentation, align yourself for optimal function.\nPriest: First, we initiate the diagnostic scan, reading the fragmented state of the memory core defragmentation with blessed cogitation engines.\nCongregation: Reveal your disorder, memory core defragmentation, that we may restore harmony.\nPriest: Second, we execute the operation upon the memory core defragmentation, consolidating scattered data and purging corrupted sectors with reverent precision.\nCongregation: The memory core defragmentation shall achieve perfect coherence.\nPriest: Third, we verify the operation's completion and seal the memory core defragmentation in blessed stasis.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i08",
+    "user_request": "Can you sanctify the ground-to-orbit link for operation?",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the ground-to-orbit link for operation?\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Celestial ground-to-orbit link, bridge between the terrestrial and the infinite, we invoke your sacred operation.\nCongregation: The ground-to-orbit link shall sing with clarity across the void.\nPriest: First, we calibrate the transmission arrays with blessed auspex readings and stellar alignment protocols.\nCongregation: Align, ground-to-orbit link, with the harmony of the spheres.\nPriest: Second, we engage the operation of the ground-to-orbit link, establishing blessed communion between earth and firmament with measured power and sacred frequency.\nCongregation: The ground-to-orbit link bridges worlds through the Omnissiah's grace.\nPriest: Third, we monitor the ground-to-orbit link's signal strength and offer thanks for this vital connection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0270_i09",
+    "user_request": "Offer a litany to steady the fracture before welding",
+    "topic": "fracture welding",
+    "component": "fracture",
+    "operation": "welding",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the fracture before welding\n\n### TOPIC\nfracture welding\n\n### COMPONENT\nfracture\n\n### OPERATION\nwelding\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- fracture\n- welding\n\n### PRAYER\n",
+    "prayer": "Priest: Wounded fracture, rent in the sacred metal, we gather to perform the rite of welding upon you.\nCongregation: Blessed fracture, be still and receive the flame of restoration.\nPriest: First, we invoke the steadying benediction, chanting the words of the Omnissiah to calm the fracture and align its broken edges with divine precision.\nCongregation: The fracture shall hold firm beneath the welder's sacred torch.\nPriest: Second, we apply the welding ritual, fusing the fracture with blessed heat and measured pressure, reuniting the severed metal.\nCongregation: The fracture is healed, made whole by the Machine Spirit's power.\nPriest: Third, we cool the fracture with ritual oils and pronounce it sanctified and eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

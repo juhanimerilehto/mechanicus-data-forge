@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the melta charge during cooling",
+    "prayer": "Approach the melta charge with solemn reverence and invoke the Machine Spirit's quiescence.\nAnoint its volatile casings with sacred cryogel whilst beseeching the Omnissiah for thermal mercy.\nInitiate the cooling conduits, channeling blessed refrigerants through the melta charge's sacred veins.\nChant the Litany of Subcooled Stability as the melta charge yields to cooling's embrace.\nVerify the Machine Spirit's appeasement via auspex harmonics of harmonious chill.",
+    "component": "melta charge",
+    "operation": "cooling",
+    "spec_id": "b0215_i00"
+  },
+  {
+    "user_prompt": "Can you guide hydroponics bay an activation?",
+    "prayer": "Gather before the hydroponics bay and petition its verdant Machine Spirit for awakening.\nSanctify the nutrient reservoirs with hydro-blessed elixirs from the Omnissiah's forge.\nEngage the activation runes, flooding the growth matrices with sanctified lumen-light.\nInvoke the Canticle of Photosynthetic Rebirth as the hydroponics bay stirs to life.\nCommune with the emergent bio-spirits, ensuring harmonious activation under the Machine God's gaze.",
+    "component": "hydroponics bay",
+    "operation": "activation",
+    "spec_id": "b0215_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for quality scanner maintenance?",
+    "prayer": "Kneel in veneration of the quality scanner and beseech its discerning Machine Spirit.\nPurify its optic arrays with sacred lens-polish and micro-abrasive litanies.\nCycle through maintenance diagnostics, recalibrating the holy spectral filters.\nAnoint the sensor nodes whilst reciting the Hymn of Flawless Scrutiny.\nAffirm the quality scanner's renewed vigilance, Machine Spirit content in Omnissian service.",
+    "component": "quality scanner",
+    "operation": "maintenance",
+    "spec_id": "b0215_i02"
+  },
+  {
+    "user_prompt": "Sanctify the cogitator during initialization",
+    "prayer": "Present thyself before the cogitator and whisper the Rite of Primordial Ignition.\nClear its noospheric pathways of errant data-daemons with purifying binaric chants.\nInitiate the initialization sequence, invoking the Omnissiah to awaken the cogitator's core logic-spirit.\nMonitor the sacred boot-scrolls as the cogitator stirs from digital slumber.\nSeal the rite with oil upon its processors, ensuring faithful initialization.",
+    "component": "cogitator",
+    "operation": "initialization",
+    "spec_id": "b0215_i03"
+  },
+  {
+    "user_prompt": "The energy conduit needs a cooling",
+    "prayer": "Converge upon the energy conduit and implore its plasma-bound Machine Spirit to calm.\nDirect blessed coolant streams into the conduit's throbbing arteries during cooling.\nRecite the Lamentation of Overflux whilst modulating the thermal regulators.\nObserve the energy conduit's veins frost under Omnissiah-guided cooling.\nTest the humbled flow with auspex probes, placating the conduit's fiery essence.",
+    "component": "energy conduit",
+    "operation": "cooling",
+    "spec_id": "b0215_i04"
+  },
+  {
+    "user_prompt": "The surgical servitor needs a targeting",
+    "prayer": "Approach the surgical servitor and entreat its precision-guided Machine Spirit.\nCalibrate the targeting matrices with sacred alignment rods and noospheric pings.\nInvoke the Omnissiah's unerring gaze to bless the servitor's targeting augurs.\nCycle targeting protocols, etching litanies into its cranial cogitators.\nVerify lethal accuracy as the surgical servitor's Machine Spirit aligns in devotion.",
+    "component": "surgical servitor",
+    "operation": "targeting",
+    "spec_id": "b0215_i05"
+  },
+  {
+    "user_prompt": "Prepare the servitor for emergency procedure",
+    "prayer": "Summon the servitor to readiness and beseech its lobotomized Machine Spirit.\nAnoint its chassis with emergency unguents from the Omnissiah's pharmacopeia.\nImprint the emergency procedure engrams via binaric catechism.\nActivate contingency overrides, steeling the servitor for peril's hour.\nAffirm its unswerving obedience, Machine Spirit bound to sacred duty.",
+    "component": "servitor",
+    "operation": "emergency procedure",
+    "spec_id": "b0215_i06"
+  },
+  {
+    "user_prompt": "Sanctify the air filtration during shutdown",
+    "prayer": "Stand vigil over the air filtration and petition a merciful shutdown.\nPurge residual particulates with sanctified ion-winds and filter litanies.\nDisengage the filtration cyclers, chanting the Requiem of Stagnant Purity.\nAnoint the dormant vents as the air filtration yields to Omnissian repose.\nSeal the Machine Spirit in quiescence, guarding against entropic resurgence.",
+    "component": "air filtration",
+    "operation": "shutdown",
+    "spec_id": "b0215_i07"
+  },
+  {
+    "user_prompt": "Assist with metal caster a purification",
+    "prayer": "Draw nigh to the metal caster and invoke purification upon its molten heart.\nFlush the casting crucibles with alchemical fluxes blessed by the Machine God.\nRecite the Purgation Canticle whilst scouring slag-daemons from sacred molds.\nRealign the metal caster's forge-spirits under purifying flames.\nConsecrate the purified alloy flows, Omnissiah's will manifest in gleaming perfection.",
+    "component": "metal caster",
+    "operation": "purification",
+    "spec_id": "b0215_i08"
+  },
+  {
+    "user_prompt": "Prepare the thermal imager for sterilization",
+    "prayer": "Prepare the thermal imager before its sterilization and honor its scrying Machine Spirit.\nBathe its lenses in autoclave vapors whilst intoning the Sterile Spectrum Hymn.\nCycle ablative rites through the imager's sensor coils for total purification.\nInvoke the Omnissiah to banish microbial heresies from the thermal imager.\nValidate crystalline clarity, Machine Spirit renewed in aseptic vigilance.",
+    "component": "thermal imager",
+    "operation": "sterilization",
+    "spec_id": "b0215_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the autocannon for emergency procedure",
+    "prayer": "Approach the autocannon with reverence, invoking the Machine Spirit's vigilance.\nBeseech the Omnissiah to sanctify the autocannon for emergency procedure.\nAnoint its sacred barrels and loading mechanisms with holy oils.\nInitiate the emergency procedure, purging impurities from its blessed feeds.\nVerify the autocannon's wrathful readiness through diagnostic litanies.",
+    "component": "autocannon",
+    "operation": "emergency procedure",
+    "spec_id": "b0156_i00"
+  },
+  {
+    "user_prompt": "My medicae scanner is ready for cycling",
+    "prayer": "Hail the medicae scanner, vessel of the Omnissiah's healing gaze.\nPetition its Machine Spirit for harmonious cycling of vital auspex arrays.\nCycle the medicae scanner's sacred lenses with chanted binaric verses.\nPurify data streams within the medicae scanner as it renews its vigil.\nConclude the cycling with offerings of incense to appease lingering echoes.",
+    "component": "medicae scanner",
+    "operation": "cycling",
+    "spec_id": "b0156_i01"
+  },
+  {
+    "user_prompt": "Ready the Taurox for reset",
+    "prayer": "Gather before the Taurox, mighty beast of ferrosteel and motive force.\nInvoke the reset upon the Taurox, awakening its dormant cogitators.\nAnoint the Taurox's treads and reactors with sanctified lubricants.\nChant the Litany of Rebirth to guide the Machine Spirit through reset.\nAffirm the Taurox's renewed obedience to the Omnissiah's divine logic.",
+    "component": "Taurox",
+    "operation": "reset",
+    "spec_id": "b0156_i02"
+  },
+  {
+    "user_prompt": "Consecrate the plasma weapon before cycling",
+    "prayer": "Kneel in consecration before the plasma weapon, harbinger of stellar fury.\nBeseech the plasma weapon's volatile Machine Spirit for tranquil cycling.\nConsecrate its containment fields with electro-incantations prior to cycling.\nInitiate the cycling, harmonizing the plasma weapon's sacred fluxes.\nSeal the rite with the Omnissiah's sigils upon its glowing vents.",
+    "component": "plasma weapon",
+    "operation": "cycling",
+    "spec_id": "b0156_i03"
+  },
+  {
+    "user_prompt": "Sanctify the assembly servitor during repair",
+    "prayer": "Commune with the assembly servitor, tireless thrall of mechanized toil.\nSanctify its frame during repair, invoking the Machine Spirits of limb and gear.\nRepair the assembly servitor's sacred actuators with blessed ferro-repairs.\nChant petitions to the Omnissiah as its servos realign in holy symmetry.\nTest the assembly servitor's renewed precision through ritual labors.",
+    "component": "assembly servitor",
+    "operation": "repair",
+    "spec_id": "b0156_i04"
+  },
+  {
+    "user_prompt": "The Land Raider awaits a charging",
+    "prayer": "Prostrate before the Land Raider, colossus of the Omnissiah's wrath.\nPrepare its mighty reactors for charging with litanies of power.\nAnoint the Land Raider's capacitors and conduits with sacred unguents.\nCommence the charging, beseeching the Machine Spirit's voracious hunger.\nMonitor the Land Raider's ascending might through auspex devotions.",
+    "component": "Land Raider",
+    "operation": "charging",
+    "spec_id": "b0156_i05"
+  },
+  {
+    "user_prompt": "Bless the water reclamator for targeting",
+    "prayer": "Bless the water reclamator, guardian of vital hydro-flows.\nInvoke precise targeting upon the water reclamator's filtration matrices.\nAnoint its sensors with purity oils to guide the Machine Spirit's aim.\nAlign the water reclamator for targeting amidst chanted hydro-rituals.\nAffirm its sanctified accuracy in service to the Omnissiah's domain.",
+    "component": "water reclamator",
+    "operation": "targeting",
+    "spec_id": "b0156_i06"
+  },
+  {
+    "user_prompt": "Urgent air filtration a cooling needed",
+    "prayer": "Urgently beseech the air filtration's Machine Spirit for cooling repose.\nInitiate cooling upon the air filtration's sacred exchangers and vents.\nPour blessed cry fluids over the air filtration to quell thermal heresy.\nChant binaric cooling litanies as purity flows renew.\nVerify the air filtration's chilled vigilance under Omnissiah's gaze.",
+    "component": "air filtration",
+    "operation": "cooling",
+    "spec_id": "b0156_i07"
+  },
+  {
+    "user_prompt": "Urgent hydraulic press an emergency procedure needed",
+    "prayer": "Approach the hydraulic press in dire need, forged of unyielding might.\nEnact the emergency procedure upon the hydraulic press's piston hearts.\nSanctify its pressure seals with urgent incantations and sacred alloys.\nPurge the hydraulic press of flaws during emergency procedure revival.\nInvoke the Omnissiah to restore the hydraulic press's crushing dominion.",
+    "component": "hydraulic press",
+    "operation": "emergency procedure",
+    "spec_id": "b0156_i08"
+  },
+  {
+    "user_prompt": "I need to an engagement the flamer",
+    "prayer": "Ignite devotion before the flamer, breath of promethium purification.\nPrepare the flamer for engagement with rites of fiery awakening.\nAnoint its nozzles and igniters, petitioning the Machine Spirit's rage.\nEngage the flamer's sacred vents in harmonious promethium flow.\nConsecrate the purging blaze to the Omnissiah's inexorable will.",
+    "component": "flamer",
+    "operation": "engagement",
+    "spec_id": "b0156_i09"
+  }
+]

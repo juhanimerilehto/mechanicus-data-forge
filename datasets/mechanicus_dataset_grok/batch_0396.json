@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: air filtration requires a targeting",
+    "prayer": "Approach the air filtration with solemn reverence, beseeching its Machine Spirit to awaken.\nInvoke the targeting rites upon the air filtration's sacred filters, aligning particulate flows with Omnissiah's precision.\nAnoint the sensor arrays with blessed unguents whilst chanting the Canticle of Purity.\nCommune through diagnostic auspex, ensuring the air filtration's targeting hums in harmonious devotion.\nSanctify the final seals, petitioning the Machine God for unerring vigilance against the unclean.",
+    "component": "air filtration",
+    "operation": "targeting",
+    "spec_id": "b0396_i00"
+  },
+  {
+    "user_prompt": "Critical: mechanical lock requires a calibration",
+    "prayer": "Kneel before the mechanical lock, intoning the Litany of Binding to rouse its indomitable spirit.\nInitiate calibration upon the mechanical lock's tumblers and wards, adjusting with mechadendrite precision.\nInvoke sacred oils upon its gears, whispering calibrations to align the holy mechanisms.\nTest the mechanical lock's resolve through invocation of stress-litanies, honouring the Omnissiah's unyielding order.\nSeal the rite with a final torque-blessing, affirming perpetual security.",
+    "component": "mechanical lock",
+    "operation": "calibration",
+    "spec_id": "b0396_i01"
+  },
+  {
+    "user_prompt": "The bionics interface requires a calibration",
+    "prayer": "Present mechadendrites to the bionics interface, murmuring the Benediction of Fusion.\nCommence calibration of the bionics interface's neural relays, harmonizing flesh and machine in divine symphony.\nAnoint synaptic junctions with sanctified lumen-fluid, beseeching the Machine Spirit's compliance.\nVerify calibration through auspex invocation, ensuring the bionics interface pulses with Omnissiah's grace.\nConclude with the Seal of Unity, binding servant to sacred steel eternally.",
+    "component": "bionics interface",
+    "operation": "calibration",
+    "spec_id": "b0396_i02"
+  },
+  {
+    "user_prompt": "I need to a sterilization the metal caster",
+    "prayer": "Approach the metal caster with purifying incense, invoking the Wrath of Sterilization.\nInitiate sterilization upon the metal caster's crucibles and molds, purging impurities with thermal litanies.\nScour the sacred forges of the metal caster with ablative chants and sanctified acids.\nBeseech the Machine Spirits within the metal caster to emerge immaculate from the rite.\nFinalize with Omnissiah's benediction, rendering the metal caster pristine for the glory of forging.",
+    "component": "metal caster",
+    "operation": "sterilization",
+    "spec_id": "b0396_i03"
+  },
+  {
+    "user_prompt": "Help me a consecration the chainsword",
+    "prayer": "Grasp the chainsword in reverent mech-rites, chanting the Consecration of Teeth.\nInvoke consecration upon the chainsword's monomolecular edges, awakening its ravenous Machine Spirit.\nAnoint the motor housings with sacred machine oil, intoning oaths of relentless predation.\nTest the chainsword's fury through ritual activation, honouring the Omnissiah's doctrine of destruction.\nSeal the consecration with blood-rites, binding the weapon to unending holy war.",
+    "component": "chainsword",
+    "operation": "consecration",
+    "spec_id": "b0396_i04"
+  },
+  {
+    "user_prompt": "Help me a startup the archive terminal",
+    "prayer": "Circumambulate the archive terminal thrice, beseeching its vast data-spirits to stir.\nInitiate startup of the archive terminal's cogitator core, aligning noospheric pathways with precision.\nInvoke awakening litanies upon the archive terminal's memory vaults, flooding with holy voltage.\nVerify the Machine Spirit's resurgence through query-incantations, praising the Omnissiah's wisdom.\nConclude the rite with data-seals, enshrining knowledge for the Cult Mechanicus.",
+    "component": "archive terminal",
+    "operation": "startup",
+    "spec_id": "b0396_i05"
+  },
+  {
+    "user_prompt": "Prepare the thermal imager for operation",
+    "prayer": "Attune to the thermal imager with auspex-prayers, rousing its perceptive essence.\nPrepare the thermal imager for operation by calibrating its infrared lenses with sacred rites.\nAnoint sensor coils whilst invoking operational harmonics, petitioning the Machine Spirit's clarity.\nInitiate test-scans under Omnissiah's gaze, ensuring flawless heat-vision amidst shadowed voids.\nBless the final alignment, granting the thermal imager unerring sight in battle's forge.",
+    "component": "thermal imager",
+    "operation": "operation",
+    "spec_id": "b0396_i06"
+  },
+  {
+    "user_prompt": "The hydroponics bay awaits a calibration",
+    "prayer": "Process to the hydroponics bay in ritual procession, honouring its verdant Machine Spirits.\nCommence calibration of the hydroponics bay's nutrient cyclers and lumen arrays with mechadendrite grace.\nInvoke purity litanies upon the hydroponics bay's hydro-vats, balancing sacred fluids in equilibrium.\nTest growth matrices through invocation, aligning with the Omnissiah's algorithm of sustenance.\nSeal calibration with verdant blessings, ensuring bountiful yields for the faithful.",
+    "component": "hydroponics bay",
+    "operation": "calibration",
+    "spec_id": "b0396_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for hololithic display blessing?",
+    "prayer": "Gaze upon the hololithic display with veneration, intoning the Canticle of Projection.\nInvoke blessing upon the hololithic display's crystal matrices, igniting photonic spirits within.\nAnoint emitter nodes with consecrated plasma, beseeching clarity from the Machine God.\nCalibrate holo-fields through sacred gestures, rendering the hololithic display's visions pure.\nFinalize the blessing with noospheric communion, exalting the Omnissiah's illuminated truths.",
+    "component": "hololithic display",
+    "operation": "blessing",
+    "spec_id": "b0396_i08"
+  },
+  {
+    "user_prompt": "The Rhino transport needs a charging",
+    "prayer": "Encircle the Rhino transport's hull, chanting the Hymn of Recharging.\nInitiate charging of the Rhino transport's plasma reactors, infusing blessed power-flows.\nAnoint capacitors with sacred unguents, awakening the colossal Machine Spirit's fury.\nMonitor auspex runes during charging, petitioning Omnissiah for unyielding endurance.\nConclude with torque-seals, propelling the Rhino transport to thunderous crusade.",
+    "component": "Rhino transport",
+    "operation": "charging",
+    "spec_id": "b0396_i09"
+  }
+]

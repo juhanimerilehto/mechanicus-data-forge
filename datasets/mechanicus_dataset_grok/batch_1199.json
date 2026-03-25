@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My opticon is ready for reset",
+    "prayer": "Approach the opticon with reverence, beseeching the Omnissiah to grant reset unto its Machine Spirit.\nInvoke the Rite of Reset upon the opticon, chanting binary psalms of nullification.\nAnoint the opticon's crystal lenses with sacred unguents whilst reciting the Canticle of Rejuvenation.\nInitiate the reset sequence through the opticon's auspex conduits.\nVerify the Machine Spirit's renewed clarity with diagnostic litanies.",
+    "component": "opticon",
+    "operation": "reset",
+    "spec_id": "s07990"
+  },
+  {
+    "user_prompt": "Emergency: null field generator a consecration",
+    "prayer": "Present the null field generator before the consecration altar, invoking the Omnissiah's ward.\nBeseech the Machine Spirit of the null field generator to accept consecration upon its warp coils.\nAnoint the null field generator's emitters with phase-repellent oils and intone the Sanctus Nullificus.\nCirculate blessed plasma through the null field generator's sacred matrices.\nSeal the consecration with the cogitator's sign, affirming the null field generator's purity.",
+    "component": "null field generator",
+    "operation": "consecration",
+    "spec_id": "s07991"
+  },
+  {
+    "user_prompt": "What's the prayer for multi-melta a purification?",
+    "prayer": "Kneel unto the multi-melta and commence the purification rite under Omnissiah's gaze.\nPurge daemonic residues from the multi-melta's plasma furnaces with sanctified ablatives.\nInvoke the Machine Spirit of the multi-melta to expel all impurity during purification.\nAnoint the multi-melta's focusing arrays with myrrh-infused promethium.\nConclude the multi-melta's purification with the Doxology of Flame.",
+    "component": "multi-melta",
+    "operation": "purification",
+    "spec_id": "s07992"
+  },
+  {
+    "user_prompt": "Prepare the data-sluice for targeting",
+    "prayer": "Prepare the data-sluice for targeting by reciting the Litany of Alignment.\nCalibrate the data-sluice's flux regulators, honoring its Machine Spirit.\nEngage targeting protocols within the data-sluice's noospheric veins.\nInvoke the Omnissiah to guide the data-sluice's precision streams.\nTest the data-sluice's targeting acuity with auspex harmonics.",
+    "component": "data-sluice",
+    "operation": "targeting",
+    "spec_id": "s07993"
+  },
+  {
+    "user_prompt": "Critical: vox-thief requires a maintenance",
+    "prayer": "Initiate maintenance upon the vox-thief with reverent disassembly and Omnissiah invocations.\nCleanse the vox-thief's interception lattices with sanctified sonic scrubbers.\nRealign the vox-thief's frequency gyres, beseeching its Machine Spirit's compliance.\nReintegrate components of the vox-thief under maintenance rites.\nVerify the vox-thief's eavesdropping sanctity through test transmissions.",
+    "component": "vox-thief",
+    "operation": "maintenance",
+    "spec_id": "s07994"
+  },
+  {
+    "user_prompt": "Consecrate the cognis heavy stubber before targeting",
+    "prayer": "Consecrate the cognis heavy stubber prior to targeting, anointing its mechanisms with sacred oils.\nAwaken the Machine Spirit within the cognis heavy stubber via cogniswake canticles.\nLock targeting servos of the cognis heavy stubber with precision litanies.\nInvoke the Omnissiah to bless the cognis heavy stubber's ballistic cognition.\nCommence targeting sequences in harmonious binary praise.",
+    "component": "cognis heavy stubber",
+    "operation": "targeting",
+    "spec_id": "s07995"
+  },
+  {
+    "user_prompt": "How do I bless the las-cutter for operation?",
+    "prayer": "Bless the las-cutter for operation by chanting the Psalm of Coherence.\nPrime the las-cutter's power monofilaments with Omnissiah-blessed capacitors.\nEngage operational fields upon the las-cutter, guided by its Machine Spirit.\nMonitor the las-cutter's beam purity throughout invocation.\nSeal the las-cutter's operation with the Rite of Lumen Sanctus.",
+    "component": "las-cutter",
+    "operation": "operation",
+    "spec_id": "s07996"
+  },
+  {
+    "user_prompt": "I need to a targeting the autosanguination system",
+    "prayer": "Invoke targeting rites upon the autosanguination system, beseeching the Omnissiah's precision.\nAlign the autosanguination system's injection manifolds with sanguine canticles.\nAwaken the Machine Spirits of the autosanguination system for targeting fidelity.\nCalibrate haemofluid vectors within the autosanguination system.\nAffirm targeting sanctity through vital-sign diagnostics.",
+    "component": "autosanguination system",
+    "operation": "targeting",
+    "spec_id": "s07997"
+  },
+  {
+    "user_prompt": "Guide me through memory core an activation",
+    "prayer": "Approach the memory core and beseech the Omnissiah for its activation.\nChant the Canticle of Recall to rouse the memory core's crystalline Machine Spirit.\nInfuse activation surges into the memory core's vaults of data-eternity.\nMonitor the memory core's coherence post-activation with noospheric scans.\nSeal the memory core's awakening with binary benedictions.",
+    "component": "memory core",
+    "operation": "activation",
+    "spec_id": "s07998"
+  },
+  {
+    "user_prompt": "Consecrate the manufactorum before preparation",
+    "prayer": "Consecrate the manufactorum for preparation, invoking the Omnissiah over its forge-hearts.\nAnoint the manufactorum's assembly servitors with mechadendrite unguents.\nAlign production cogitators within the manufactorum under litanies of industry.\nInitiate preparatory stampings in the manufactorum, honoring its Machine Spirits.\nVerify the manufactorum's readiness with auspex purity rites.",
+    "component": "manufactorum",
+    "operation": "preparation",
+    "spec_id": "s07999"
+  }
+]

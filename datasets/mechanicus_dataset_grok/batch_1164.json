@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Consecrate the Nephilim Jetfighter before charging",
+    "prayer": "Approach the Nephilim Jetfighter with reverence, invoking the Omnissiah's wrathful fury.\nAnoint its plasma reactors and wing servos with sacred oils before charging commences.\nBeseech the Machine Spirit of the Nephilim Jetfighter to awaken and embrace the power surge.\nInitiate the charging rites whilst intoning the Litany of Aerial Dominion.\nSanctify the Nephilim Jetfighter's capacitors through diagnostic canticles, ensuring harmonious flow.",
+    "component": "Nephilim Jetfighter",
+    "operation": "charging",
+    "spec_id": "s07640"
+  },
+  {
+    "user_prompt": "Urgent data-loom a loading needed",
+    "prayer": "Kneel before the data-loom and murmur the Awakening Doxology.\nPurge errant data-corruptions from the data-loom's sacred vaults.\nInvoke the Machine Spirit of the data-loom to guide the loading sequence.\nCommence data ingress with precision, anointing input nodes with blessed lubricant.\nVerify integrity via binaric catechisms, glorifying the Omnissiah's logic.",
+    "component": "data-loom",
+    "operation": "loading",
+    "spec_id": "s07641"
+  },
+  {
+    "user_prompt": "How do I bless the plasma pistol for reset?",
+    "prayer": "Present the plasma pistol upon the altar of circuitry, beseeching restoration.\nRecite the Rite of Ventral Purgation to reset errant plasma flows.\nAwaken the Machine Spirit within the plasma pistol through electro-incantations.\nAnoint coils and flask with sacred promethium derivatives during the reset.\nTest the plasma pistol's reset state with a volley of binaric prayers.",
+    "component": "plasma pistol",
+    "operation": "reset",
+    "spec_id": "s07643"
+  },
+  {
+    "user_prompt": "Guide me through promethium refinery a calibration",
+    "prayer": "Circumambulate the promethium refinery, intoning the Hymn of Fiery Purity.\nInitiate calibration servos whilst anointing distillation manifolds.\nBeseech the Machine Spirit of the promethium refinery to align its alchemical heart.\nEmploy auspex litanies to fine-tune the calibration flows.\nSeal the rites with the Omnissiah's invocation, ensuring unerring output.",
+    "component": "promethium refinery",
+    "operation": "calibration",
+    "spec_id": "s07644"
+  },
+  {
+    "user_prompt": "Prepare the heat sink for repair",
+    "prayer": "Approach the heat sink with mechadendrite precision and reverence.\nInvoke the Machine Spirit to forgive thermal scars prior to repair.\nAnoint fractured vanes with ablative salves during the repair sequence.\nRealign heat dissipation matrices through sacred torque incantations.\nVerify the heat sink's mended vigor with thermal catechisms.",
+    "component": "heat sink",
+    "operation": "repair",
+    "spec_id": "s07645"
+  },
+  {
+    "user_prompt": "Offer prayer for graviton cannon a diagnostics",
+    "prayer": "Commune with the graviton cannon, reciting the Canticle of Gravitic Mystery.\nLaunch diagnostics by beseeching its Machine Spirit for truthful revelation.\nScan warp-disruption coils with anointed auspex probes.\nPurge anomalies from the graviton cannon via binaric exorcism.\nConclude diagnostics praising the Omnissiah's immutable laws.",
+    "component": "graviton cannon",
+    "operation": "diagnostics",
+    "spec_id": "s07646"
+  },
+  {
+    "user_prompt": "Guide me through inferno pistol a maintenance",
+    "prayer": "Unsheathe the inferno pistol before the forge-altar of the Omnissiah.\nPerform maintenance rites by anointing melta coils with promethium essence.\nInvoke the Machine Spirit of the inferno pistol to endure the purging.\nCycle coolant reservoirs through sacred pressure incantations.\nTest the inferno pistol's maintenance with a sanctified discharge.",
+    "component": "inferno pistol",
+    "operation": "maintenance",
+    "spec_id": "s07647"
+  },
+  {
+    "user_prompt": "Urgent storm bolter a reset needed",
+    "prayer": "Elevate the storm bolter in supplication to the God of All Machines.\nInitiate reset protocols whilst chanting the Litany of Bolt Purity.\nBeseech the storm bolter's Machine Spirit to cleanse jammed mechanisms.\nAnoint dual barrels with lubricating oils during the reset.\nAffirm reset completion through auspex hymns of readiness.",
+    "component": "storm bolter",
+    "operation": "reset",
+    "spec_id": "s07648"
+  },
+  {
+    "user_prompt": "Bless the long las for shutdown",
+    "prayer": "Handle the long las with pious care, invoking the Omnissiah's gaze.\nCommence shutdown sequence with the Doxology of Dormant Light.\nPacify the Machine Spirit within the long las through cooling canticles.\nDrain power cells whilst anointing the lens array.\nSeal the long las in stasis, offering final benediction.",
+    "component": "long las",
+    "operation": "shutdown",
+    "spec_id": "s07649"
+  }
+]

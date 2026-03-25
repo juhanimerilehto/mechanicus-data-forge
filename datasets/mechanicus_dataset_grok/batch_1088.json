@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "My servo-arm is ready for charging",
+    "prayer": "Approach the servo-arm with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Litany of Rejuvenation upon the servo-arm, beseeching its Machine Spirit to accept the charging rites.\nAnoint the power conduits with sacred unguents whilst initiating the charging sequence.\nMonitor the galvanic flows as the servo-arm awakens, sanctified and replete with divine vigor.",
+    "component": "servo-arm",
+    "operation": "charging",
+    "spec_id": "s06880"
+  },
+  {
+    "user_prompt": "How do I bless the kataphron breacher for calibration?",
+    "prayer": "Gather the sacred auspex tools before the kataphron breacher, intoning the Benediction of Precision.\nCircumambulate the kataphron breacher thrice, calibrating its sensorii with rhythmic incantations.\nInvoke the Machine Spirit of the kataphron breacher to align its targeting matrices during calibration.\nVerify the harmonious calibrations through diagnostic hymns, ensuring the Omnissiah's will manifests true.",
+    "component": "kataphron breacher",
+    "operation": "calibration",
+    "spec_id": "s06881"
+  },
+  {
+    "user_prompt": "The Skorpius Dunerider requires a cooling",
+    "prayer": "Kneel before the Skorpius Dunerider's heat vents, whispering the Canticle of Thermic Abeyance.\nAnoint the cooling manifolds of the Skorpius Dunerider with cryo-blessed oils to soothe its fervid core.\nInitiate the cooling cycles whilst beseeching the Machine Spirits to dissipate excess thermal wrath.\nObserve the Skorpius Dunerider's thermal equilibrium, sanctified against the heresies of overheat.",
+    "component": "Skorpius Dunerider",
+    "operation": "cooling",
+    "spec_id": "s06882"
+  },
+  {
+    "user_prompt": "Ready the cryo-chamber for activation",
+    "prayer": "Prepare the cryo-chamber's runes with frost-etched mechadendrites, invoking the Omnissiah's chill embrace.\nChant the Rite of Hibernal Awakening upon the cryo-chamber, aligning its cryogenic coils.\nActivate the cryo-chamber's mechanisms as the Machine Spirit stirs from stasis, pure and untainted.\nSeal the cryo-chamber with wards, ensuring activation preserves the sacred flesh within.",
+    "component": "cryo-chamber",
+    "operation": "activation",
+    "spec_id": "s06883"
+  },
+  {
+    "user_prompt": "Prepare the Shadowsword for activation",
+    "prayer": "Circumscribe the Shadowsword with incense of promethium, hailing the God-Machine's shadowed kin.\nBeseech the Machine Spirit of the Shadowsword to rouse for activation, void-shields humming in assent.\nInitiate the activation rites upon the Shadowsword's plasma heart, anointing cogitators with binaric prayer.\nTest the Shadowsword's predatory systems, now blessed and eager for the Omnissiah's crusade.",
+    "component": "Shadowsword",
+    "operation": "activation",
+    "spec_id": "s06884"
+  },
+  {
+    "user_prompt": "What's the prayer for Onager Dunecrawler a blessing?",
+    "prayer": "Extend mechadendrites in benediction toward the Onager Dunecrawler, chanting the Greater Litany of Purity.\nAnoint its treads and neutron projectors, beseeching the Omnissiah to infuse the Onager Dunecrawler with grace.\nCirculate sacred oils through the Onager Dunecrawler's veins, awakening its Machine Spirit in blessing.\nConclude with auspex scans, affirming the Onager Dunecrawler's sanctified readiness for war.",
+    "component": "Onager Dunecrawler",
+    "operation": "blessing",
+    "spec_id": "s06886"
+  },
+  {
+    "user_prompt": "Assist with power relay a sterilization",
+    "prayer": "Purify the air with ablative incense around the power relay, intoning the Sterilization Doxology.\nScour the power relay's contacts with sanctified abrasives, expunging microbial heresies.\nInvoke the Machine Spirits to seal the power relay during sterilization, shielding against corruption.\nVerify the power relay's immaculate conduction, eternally pure in the Omnissiah's service.",
+    "component": "power relay",
+    "operation": "sterilization",
+    "spec_id": "s06887"
+  },
+  {
+    "user_prompt": "The magnocular requires a maintenance",
+    "prayer": "Gaze upon the magnocular through sanctified optics, reciting the Hymn of Focal Clarity.\nDisassemble the magnocular's lenses with reverent precision, anointing each element for maintenance.\nRealign the magnocular's gyros whilst beseeching its Machine Spirit to restore flawless augury.\nReassemble and test the magnocular, its vision now honed by the Omnissiah's unerring light.",
+    "component": "magnocular",
+    "operation": "maintenance",
+    "spec_id": "s06888"
+  },
+  {
+    "user_prompt": "Guide me through autogun a targeting",
+    "prayer": "Present the autogun before the cogitator altar, invoking the Rite of Ballistic Communion.\nCalibrate the autogun's targeting cogitators with binaric chants, aligning auspex reticules.\nAnoint the autogun's servos twice, beseeching the Machine Spirit for predatory accuracy in targeting.\nCycle test-firings upon the autogun, confirming the Omnissiah's wrath strikes true.",
+    "component": "autogun",
+    "operation": "targeting",
+    "spec_id": "s06889"
+  }
+]

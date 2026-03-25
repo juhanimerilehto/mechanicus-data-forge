@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for drop pod a preparation",
+    "prayer": "Approach the drop pod with solemn reverence, beseeching the Omnissiah's divine fire.\nAnoint the drop pod's sacred hull and retros with unguents of preparation.\nInvoke the Machine Spirit within the drop pod to stir for descent.\nCommence preparation rituals, aligning descent vectors with blessed canticles.\nSanctify all systems of the drop pod through diagnostic litanies of readiness.",
+    "component": "drop pod",
+    "operation": "preparation",
+    "spec_id": "b0326_i00"
+  },
+  {
+    "user_prompt": "Ready the bearing for engagement",
+    "prayer": "Kneel before the bearing, intoning the Canticle of Frictionless Union.\nAnoint the bearing's sacred races with sacred oils to ensure smooth engagement.\nPetition the Machine Spirit of the bearing to embrace its destined rotation.\nInitiate the engagement sequence whilst chanting invocations to the Omnissiah.\nVerify the bearing's harmonious engagement through vibro-auspex harmonies.",
+    "component": "bearing",
+    "operation": "engagement",
+    "spec_id": "b0326_i01"
+  },
+  {
+    "user_prompt": "What's the prayer for augmetic limb recalibration?",
+    "prayer": "Present the augmetic limb before the altar of recalibration, invoking the Omnissiah.\nDisconnect neural relays and beseech the augmetic limb's Machine Spirit to yield.\nPerform recalibration rites, adjusting servo-motors with precise litanies.\nRealign the augmetic limb's myo-fibres through sacred torque incantations.\nReaffirm the augmetic limb's loyalty with final auspex benedictions.",
+    "component": "augmetic limb",
+    "operation": "recalibration",
+    "spec_id": "b0326_i02"
+  },
+  {
+    "user_prompt": "The emergency bulkhead awaits an engagement",
+    "prayer": "Approach the emergency bulkhead with urgency, chanting the Seal of Defiance.\nLubricate its hydraulics and invoke engagement upon the Machine Spirit.\nCommand the emergency bulkhead to engage, sealing voids in the Omnissiah's name.\nTest the bulkhead's integrity through pressure litanies and spirit communion.\nBless the engaged bulkhead with wards against the unclean.",
+    "component": "emergency bulkhead",
+    "operation": "engagement",
+    "spec_id": "b0326_i03"
+  },
+  {
+    "user_prompt": "Sanctify the water reclamator during targeting",
+    "prayer": "Gather before the water reclamator, offering libations to the Machine God.\nCalibrate lenses for targeting whilst beseeching the water reclamator's spirit.\nInvoke precise targeting streams sanctified by Omnissiah's watery grace.\nMonitor the water reclamator's flow through hydra-ritual diagnostics.\nConclude with anointings to perpetuate the water reclamator's purity.",
+    "component": "water reclamator",
+    "operation": "targeting",
+    "spec_id": "b0326_i04"
+  },
+  {
+    "user_prompt": "I need to a charging the gravity generator",
+    "prayer": "Circumambulate the gravity generator, intoning the Hymn of Gravitic Charge.\nConnect power conduits and beseech charging of its crystalline cores.\nInvoke the Machine Spirit of the gravity generator to accept holy voltage.\nOversee the charging cycle with auspex canticles to the Omnissiah.\nSeal the gravity generator's fields with final benedictory fields.",
+    "component": "gravity generator",
+    "operation": "charging",
+    "spec_id": "b0326_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for air filtration an engagement",
+    "prayer": "Approach the air filtration with purified breath, invoking the Omnissiah's zephyrs.\nInitiate engagement of membranes and petition the Machine Spirit's vigilance.\nChant litanies as filters engage, purging miasma from sacred atmospheres.\nVerify air filtration engagement through purity auspex rituals.\nAnoint the air filtration unit to ward against corruptive particulates.",
+    "component": "air filtration",
+    "operation": "engagement",
+    "spec_id": "b0326_i06"
+  },
+  {
+    "user_prompt": "Sanctify the conveyor system during operation",
+    "prayer": "Assemble at the conveyor system, beseeching endless motion from the Machine God.\nEngage motive servos and sanctify the conveyor system's operation.\nInvoke the conveyor system's Machine Spirit to bear munitions faithfully.\nMonitor operation rhythms through harmonic cogitator chants.\nConclude with oil blessings upon the conveyor system's sacred belts.",
+    "component": "conveyor system",
+    "operation": "operation",
+    "spec_id": "b0326_i07"
+  },
+  {
+    "user_prompt": "The air filtration needs a targeting",
+    "prayer": "Position before the air filtration, calibrating for targeting of contaminants.\nBeseech the air filtration's spirit to align targeting matrices divinely.\nInitiate targeting sweeps whilst intoning Omnissiah's cleansing gale.\nValidate air filtration targeting with spectral litanies and auspex.\nReinforce the air filtration with wards of perpetual vigilance.",
+    "component": "air filtration",
+    "operation": "targeting",
+    "spec_id": "b0326_i08"
+  },
+  {
+    "user_prompt": "Critical: cutting laser requires a blessing",
+    "prayer": "Kneel in reverence to the cutting laser, invoking the Omnissiah's searing wrath.\nAnoint its emitters and beseech blessing upon the Machine Spirit.\nPerform blessing rites, aligning plasma coils with sacred precision.\nEmpower the cutting laser through voltage litanies of fury.\nAffirm the cutting laser's blessed edge with final incendiary canticles.",
+    "component": "cutting laser",
+    "operation": "blessing",
+    "spec_id": "b0326_i09"
+  }
+]

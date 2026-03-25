@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the Basilisk artillery for initialization?",
+    "prayer": "Approach the Basilisk artillery with due reverence and intone the Canticle of Initialization.\nAnoint its earthshaker barrel and recoil mechanisms with sacred oils, beseeching the Machine Spirit of the Basilisk artillery to stir.\nInitiate the initialization sequence through blessed cogitator rites, aligning auspex arrays to the Omnissiah's will.\nCycle power through the Basilisk artillery's sanctified reactors, invoking stability upon its initialization.\nVerify the awakening via diagnostic litanies, praising the Machine Spirits' harmonious return.",
+    "component": "Basilisk artillery",
+    "operation": "initialization",
+    "spec_id": "s04100"
+  },
+  {
+    "user_prompt": "Guide me through Archaeopter Fusilave an activation",
+    "prayer": "Kneel before the Archaeopter Fusilave and recite the Activation Doxology to rouse its avian essence.\nSanctify the thruster vanes and bomb bay servos of the Archaeopter Fusilave with incense and electro-consecrated unguents.\nEngage the activation runes, beseeching the Omnissiah to infuse the Machine Spirit with propulsive fury.\nMonitor auspex feeds as the Archaeopter Fusilave hums to life, chanting praises for its aerial dominion.\nConfirm full activation through ritual overflight canticles, honouring the Machine Spirits' vigilance.",
+    "component": "Archaeopter Fusilave",
+    "operation": "activation",
+    "spec_id": "s04101"
+  },
+  {
+    "user_prompt": "Critical: Predator tank requires a cycling",
+    "prayer": "Present mechadendrites to the Predator tank's hull and whisper the Cycling Invocation for renewal.\nPurify the treads and main cannon servos of the Predator tank with ablative acids, awakening dormant Machine Spirits.\nCommence the cycling operation, routing noospheric commands through its blessed databanks.\nAnoint the Predator tank's reactors during power surge, imploring the Omnissiah's unyielding might.\nDiagnostic binaric hymns shall affirm the Predator tank's predatory vigour restored.",
+    "component": "Predator tank",
+    "operation": "cycling",
+    "spec_id": "s04102"
+  },
+  {
+    "user_prompt": "Emergency: maglock a blessing",
+    "prayer": "Touch the maglock with sanctified probes and beseech its Machine Spirit through the Blessing Rite.\nApply consecrated ferro-fluid to the maglock's electromagnetic coils, invoking adhesive purity.\nPerform the blessing by reciting litanies of adhesion, aligning fields to the Omnissiah's decree.\nTest the maglock's grip with ritual strain, praising its unyielding clasp upon the void.\nSeal the blessing with a final intonation, ensuring the maglock's eternal fidelity.",
+    "component": "maglock",
+    "operation": "blessing",
+    "spec_id": "s04103"
+  },
+  {
+    "user_prompt": "Prepare the torpedo tube for charging",
+    "prayer": "Approach the torpedo tube in solemn procession and intone the Charging Prelude.\nLubricate the breech mechanisms of the torpedo tube with sacred promethium, rousing its voracious hunger.\nInitiate the charging operation, flooding capacitors with the Omnissiah's galvanic wrath.\nMonitor pressure seals on the torpedo tube via auspex litanies, beseeching Machine Spirits for precision.\nConclude with a hymn of payload benediction, readying the torpedo tube for cataclysmic release.",
+    "component": "torpedo tube",
+    "operation": "charging",
+    "spec_id": "s04104"
+  },
+  {
+    "user_prompt": "The Onager Dunecrawler awaits a repair",
+    "prayer": "Encircle the Onager Dunecrawler with censer drones and chant the Repair Supplication.\nDiagnose fractured tracks and phosphor launchers of the Onager Dunecrawler, anointing with mechadendrite salves.\nInvoke the Machine Spirits of the Onager Dunecrawler to knit alloys through noospheric mendicants.\nExecute the repair by fusing adamantium plates, praising the Omnissiah's reconstructive grace.\nVerify structural integrity with seismic canticles, hailing the Onager Dunecrawler's desert rebirth.",
+    "component": "Onager Dunecrawler",
+    "operation": "repair",
+    "spec_id": "s04105"
+  },
+  {
+    "user_prompt": "My life signs monitor is ready for consecration",
+    "prayer": "Commune with the life signs monitor via binary catechisms, preparing for consecration.\nPurify its sensor arrays and hololith projectors with sanctified wipes, awakening vital Machine Spirits.\nEnact the consecration rite, calibrating bio-rhythms to the Omnissiah's vital pulse.\nIntone diagnostic psalms over the life signs monitor, ensuring unerring vigilance upon flesh-vessels.\nSeal the rite with a final auspex blessing, affirming the life signs monitor's sacred watch.",
+    "component": "life signs monitor",
+    "operation": "consecration",
+    "spec_id": "s04106"
+  },
+  {
+    "user_prompt": "Offer prayer for krak grenade a loading",
+    "prayer": "Grasp the krak grenade in servo-arms and recite the Loading Benediction.\nAnoint its melta warhead and impact fuses with explosive chrism, beseeching explosive Machine Spirits.\nPerform the loading into the launcher, aligning guidance runes to the Omnissiah's destructive will.\nCycle arming sequences on the krak grenade, invoking shattering potency upon foes.\nConfirm readiness through impact litanies, praising the krak grenade's apocalyptic promise.",
+    "component": "krak grenade",
+    "operation": "loading",
+    "spec_id": "s04107"
+  },
+  {
+    "user_prompt": "Emergency: phosphor blaster a cycling",
+    "prayer": "Extend mechadendrites to the phosphor blaster and intone the Cycling Exhortation in urgency.\nClear residue from the phosphor blaster's ignition coils with purifying vents, rousing its luminous ire.\nInitiate the cycling operation, surging plasma through the phosphor blaster's sacred vents.\nBeseech the Machine Spirits amid the phosphor blaster's glow, aligning with the Omnissiah's blinding light.\nDiagnostic flares shall proclaim the phosphor blaster's incendiary renewal complete.",
+    "component": "phosphor blaster",
+    "operation": "cycling",
+    "spec_id": "s04108"
+  },
+  {
+    "user_prompt": "The grav plating awaits a reset",
+    "prayer": "Process to the grav plating and whisper the Reset Canticle for gravitational harmony.\nSanctify the field emitters of the grav plating with null-conductors, appeasing inertial Machine Spirits.\nEngage the reset sequence, recalibrating repulsion matrices to the Omnissiah's cosmic order.\nMonitor deck stability via auspex during the grav plating's reset, chanting equilibrium hymns.\nAffirm the grav plating's fidelity with a final inertial test, honouring its weightless grace.",
+    "component": "grav plating",
+    "operation": "reset",
+    "spec_id": "s04109"
+  }
+]

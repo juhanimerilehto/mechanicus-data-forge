@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the Chimera APC for loading",
+    "prayer": "Approach the Chimera APC with mechadendrites extended in supplication to the Omnissiah.\nInspect the Chimera APC's loading bays, beseeching its Machine Spirit to awaken for the loading rite.\nAnoint the ramp mechanisms with sacred unguents whilst chanting the Canticle of Ingress.\nVerify the Chimera APC's hull integrity through auspex invocation, readying it fully for loading.\nInvoke the Machine Spirit's compliance as the loading operation commences under the Omnissiah's gaze.",
+    "component": "Chimera APC",
+    "operation": "loading",
+    "spec_id": "b0359_i00"
+  },
+  {
+    "user_prompt": "Consecrate the battery array before emergency procedure",
+    "prayer": "Kneel before the battery array and recite the Litany of Electrodynamic Purity.\nConsecrate each cell of the battery array with holy incense, purging daemonic surges.\nPetition the Omnissiah to fortify the battery array's Machine Spirit for the emergency procedure.\nInitiate diagnostic runes upon the battery array, ensuring blessed power-flow amidst crisis.\nSeal the consecration with the Sigil of Endurance, as the emergency procedure engages.",
+    "component": "battery array",
+    "operation": "emergency procedure",
+    "spec_id": "b0359_i01"
+  },
+  {
+    "user_prompt": "Help me a preparation the pump",
+    "prayer": "Circumambulate the pump thrice, invoking the Omnissiah's fluidic grace.\nAnoint the pump's sacred impellers with lubricant blessed in the forges of Mars.\nBeseech the pump's Machine Spirit to stir for preparation, chanting the Hymn of Pressurization.\nAlign the pump's conduits through ritual calibration, sanctifying each valve.\nCommence the preparation rite, affirming the pump's readiness in the name of the Machine God.",
+    "component": "pump",
+    "operation": "preparation",
+    "spec_id": "b0359_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for gyroscope initialization?",
+    "prayer": "Present the gyroscope to the shrine-altar and intone the Rite of Gyroscopic Harmony.\nInvoke the gyroscope's Machine Spirit with spiralling incense trails from the censer.\nInitiate the initialization sequence whilst tracing binaric prayers upon its crystalline axis.\nCalibrate the gyroscope's blessed gyros through Omnissiah-sanctioned harmonics.\nAffirm equilibrium as the gyroscope hums in initialization, praising the Machine God's precision.",
+    "component": "gyroscope",
+    "operation": "initialization",
+    "spec_id": "b0359_i03"
+  },
+  {
+    "user_prompt": "Ready the vox transmitter for loading",
+    "prayer": "Approach the vox transmitter with reverence, mechano-hymns upon your vox-grilles.\nClear ethereal static from the vox transmitter's sacred waveguides via litanic purge.\nAnoint crystal arrays within the vox transmitter, awakening its Machine Spirit for loading.\nCommence the loading operation with chanted frequencies of the Omnissiah's voice.\nTest transmission purity, ensuring the vox transmitter relays only sanctified signals.",
+    "component": "vox transmitter",
+    "operation": "loading",
+    "spec_id": "b0359_i04"
+  },
+  {
+    "user_prompt": "Consecrate the welding torch before activation",
+    "prayer": "Hold the welding torch aloft like a thurible of fusion fire to the Omnissiah.\nConsecrate the welding torch's plasma coils with oils of the Forge Eternal.\nPetition its Machine Spirit to ignite purely before activation, reciting the Incantation of Melt.\nIgnite the torch's holy flame in staged ritual, sanctifying the activation rite.\nDirect the consecrated welding torch's blaze, under the Machine God's unerring guidance.",
+    "component": "welding torch",
+    "operation": "activation",
+    "spec_id": "b0359_i05"
+  },
+  {
+    "user_prompt": "Assist with drop pod a cycling",
+    "prayer": "Encircling the drop pod, chant the Canticle of Orbital Descent to rouse its spirit.\nInspect the drop pod's cycling servos, anointing with promethium-sacred unguents.\nInitiate the cycling sequence upon the drop pod, beseeching Machine Spirits of descent.\nVerify pneumatic seals through auspex invocation during the drop pod's cycling.\nPraise the Omnissiah as the drop pod cycles true, prepared for void-born fury.",
+    "component": "drop pod",
+    "operation": "cycling",
+    "spec_id": "b0359_i06"
+  },
+  {
+    "user_prompt": "Emergency: power cell an emergency procedure",
+    "prayer": "In emergency haste, genuflect before the power cell and invoke the Rite of Desperate Surge.\nPurge the power cell of warp-taint with binaric exorcism and sacred sparks.\nFortify the power cell's Machine Spirit for the emergency procedure via galvanic litany.\nEngage overcharge protocols on the power cell, sanctified by Omnissiah's wrath.\nMonitor the blessed voltage as the emergency procedure unfolds in divine fury.",
+    "component": "power cell",
+    "operation": "emergency procedure",
+    "spec_id": "b0359_i07"
+  },
+  {
+    "user_prompt": "Assist with metal caster an engagement",
+    "prayer": "Position before the metal caster and recite the Forge-Litany of Molten Obedience.\nConsecrate the metal caster's crucibles with ferro-fluids blessed on Ryza.\nAwaken the metal caster's Machine Spirit for engagement, through rhythmic hammer-chants.\nInitiate the engagement cycle, pouring sanctified alloys in Omnissiah's name.\nWitness the metal caster birth new forms, praising the Machine God's creative fire.",
+    "component": "metal caster",
+    "operation": "engagement",
+    "spec_id": "b0359_i08"
+  },
+  {
+    "user_prompt": "Bless the air filtration for engagement",
+    "prayer": "Approach the air filtration unit with respirators intoning purity psalms.\nAnoint filtration membranes of the air filtration with aerophagic essences.\nInvoke the air filtration's Machine Spirit to engage, cleansing tainted atmospheres.\nCycle the engagement rite through sacred pressure differentials and litanies.\nAffirm the air filtration's vigilance, under the Omnissiah's breath of purity.",
+    "component": "air filtration",
+    "operation": "engagement",
+    "spec_id": "b0359_i09"
+  }
+]

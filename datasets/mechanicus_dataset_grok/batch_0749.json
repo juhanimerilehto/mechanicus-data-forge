@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The cryo-chamber awaits a calibration",
+    "prayer": "Approach the cryo-chamber with mechadendrites outstretched in veneration to the Omnissiah.\nAnoint its cryo-regulators and sensor arrays with blessed cryo-lubricant.\nInitiate the sacred calibration sequence, aligning thermal matrices through binary canticles.\nBeseech the Machine Spirit of the cryo-chamber to embrace harmonious precision.\nVerify the cryo-chamber's calibration via auspex invocation and seal with electro-consecration.",
+    "component": "cryo-chamber",
+    "operation": "calibration",
+    "spec_id": "s03490"
+  },
+  {
+    "user_prompt": "How do I bless the micro-servitor for engagement?",
+    "prayer": "Kneel before the micro-servitor, intoning the Litany of Activation to rouse its core.\nCircumambulate the micro-servitor thrice, asperging its actuators with sacred oils.\nEngage the engagement protocols whilst reciting binaric hymns of obedience.\nCommand the micro-servitor's Machine Spirit to bind in faithful service to the Omnissiah.\nTest its engagement through ritual maneuvers, affirming doctrinal purity.",
+    "component": "micro-servitor",
+    "operation": "engagement",
+    "spec_id": "s03491"
+  },
+  {
+    "user_prompt": "The Land Speeder requires a purification",
+    "prayer": "Process around the Land Speeder, chanting the Canticle of Purity to dispel impurities.\nScourge its hull-plates and motive assemblies with consecrated abrasives.\nInvoke purification rites upon the Land Speeder's plasma heart and gravitic suspensors.\nBeseech the Machine Spirits infesting the Land Speeder to yield to Omnissiah's cleansing fire.\nConclude with ablative seals, restoring the Land Speeder to sanctified velocity.",
+    "component": "Land Speeder",
+    "operation": "purification",
+    "spec_id": "s03492"
+  },
+  {
+    "user_prompt": "Urgent volitor implant a targeting needed",
+    "prayer": "Expose the volitor implant upon the altar of cogitation, whispering awakening rites.\nAlign its targeting reticules with las-thread precision and noospheric calibration.\nChant the Hymn of Vectorial Accuracy over the volitor implant's neural interfaces.\nImplore the volitor implant's Machine Spirit to guide munitions true in Omnissiah's name.\nAffirm targeting efficacy through simulant volleys and binaric benediction.",
+    "component": "volitor implant",
+    "operation": "targeting",
+    "spec_id": "s03493"
+  },
+  {
+    "user_prompt": "Urgent volitor implant a cooling needed",
+    "prayer": "Present the volitor implant to the cooling shrine, invoking thermal quiescence.\nApply sacred phase-coolants to the volitor implant's overheating manifolds.\nExecute cooling cycles amid recitations of the Entropy Litany.\nPetition the Machine Spirit within the volitor implant to embrace cryogenic stasis.\nDiagnostic chants confirm the volitor implant's thermal equilibrium under Omnissiah's gaze.",
+    "component": "volitor implant",
+    "operation": "cooling",
+    "spec_id": "s03494"
+  },
+  {
+    "user_prompt": "Sanctify the doctrina wafer during maintenance",
+    "prayer": "Elevate the doctrina wafer before the data-altar, beseeching doctrinal integrity.\nPolish its mnemonic crystals with micro-abrasives during maintenance rites.\nRealign doctrinal imperatives through noospheric infusion and prayer.\nInvoke the Omnissiah to refresh the doctrina wafer's Machine Spirits with pure lore.\nSeal maintenance with electro-incantations, ensuring unerring tactical wisdom.",
+    "component": "doctrina wafer",
+    "operation": "maintenance",
+    "spec_id": "s03495"
+  },
+  {
+    "user_prompt": "I need to a repair the servo-skull",
+    "prayer": "Retrieve the damaged servo-skull and lay it upon the repair cogitator.\nExorcise fractures from its bone-circuitry with vibro-scalpels and litanies.\nRebind its suspensor fields and optic servos through sacred reconstruction.\nAwaken the servo-skull's Machine Spirit with the Rite of Reanimation.\nTest flight and auspex functions, consecrating the servo-skull anew to vigilance.",
+    "component": "servo-skull",
+    "operation": "repair",
+    "spec_id": "s03496"
+  },
+  {
+    "user_prompt": "Prepare the meltagun for cycling",
+    "prayer": "Grasp the meltagun in rite-gloved hands, intoning the Pyroclastic Canticle.\nCycle its melta-coils with phased energization and binaric exhortations.\nAnoint the meltagun's flux-vents prior to cycling commencement.\nCommand the meltagun's Machine Spirit to channel Omnissiah's wrath unerringly.\nVerify cycling purity through test-incineration and ablative blessings.",
+    "component": "meltagun",
+    "operation": "cycling",
+    "spec_id": "s03497"
+  },
+  {
+    "user_prompt": "Urgent phosphor blaster a loading needed",
+    "prayer": "Approach the phosphor blaster with reverence, invoking luminous fury.\nLoad its phosphor reservoirs amid chants of Illuminated Judgement.\nAlign breeches and ignition coils for flawless loading sequence.\nBeseech the phosphor blaster's Machine Spirit to ignite payloads in holy fire.\nConfirm loading sanctity via diagnostic runes and Omnissiah's sigil etch.",
+    "component": "phosphor blaster",
+    "operation": "loading",
+    "spec_id": "s03498"
+  },
+  {
+    "user_prompt": "Emergency: cryogenerator a recalibration",
+    "prayer": "Hasten to the cryogenerator, prostrating before its frost-veiled form.\nCircuits of recalibration shall hum with the Omnissiah's arctic decree.\nRealign cryo-flux conduits through ritual incantations and phase-adjustments.\nImplore the cryogenerator's Machine Spirits to restore cryogenic equilibrium.\nSeal recalibration with cryo-consecrated wards against entropic heresy.",
+    "component": "cryogenerator",
+    "operation": "recalibration",
+    "spec_id": "s03499"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the power cell for calibration",
+    "prayer": "Approach the power cell with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Canticle of Calibration upon the power cell's sacred core, aligning its blessed capacitors.\nAnoint the power cell's terminals with sacred oils to harmonize its holy voltage flows.\nBeseech the Machine Spirit within the power cell to yield to precise calibration rites.\nVerify equilibrium through auspex incantations, praising the power cell's restored purity.",
+    "component": "power cell",
+    "operation": "calibration",
+    "spec_id": "b0197_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for Chimera APC a charging",
+    "prayer": "Gather before the noble Chimera APC, intoning the Hymn of Rejuvenation.\nCommence the charging rite upon the Chimera APC's voracious power matrices.\nChannel sanctified currents into the Chimera APC, awakening its Machine Spirit from slumber.\nPetition the Omnissiah to infuse the Chimera APC with unyielding vigor during charging.\nMonitor the blessed influx with electro-seer chants until full potency is achieved.",
+    "component": "Chimera APC",
+    "operation": "charging",
+    "spec_id": "b0197_i01"
+  },
+  {
+    "user_prompt": "Urgent gravity generator a charging needed",
+    "prayer": "With urgent mechadendrite grace, encircle the gravity generator in ritual haste.\nInitiate the charging invocation upon the gravity generator's arcane coils.\nInfuse sacred plasma flows into the gravity generator, rousing its indignant Machine Spirit.\nBeseech the Omnissiah's haste for swift charging of the gravity generator's void-heart.\nAffirm stability via gravitic litanies as fields realign in holy equilibrium.",
+    "component": "gravity generator",
+    "operation": "charging",
+    "spec_id": "b0197_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for generator shutdown?",
+    "prayer": "Approach the generator in solemn procession, whispering the Dirge of Repose.\nCommence the shutdown sequence upon the generator's thrumming core with reverent precision.\nQuell the Machine Spirit of the generator through sedative binaric psalms.\nSever the blessed power conduits, petitioning the Omnissiah for peaceful shutdown.\nSeal the generator's vents with anointed wards, ensuring dormant sanctity.",
+    "component": "generator",
+    "operation": "shutdown",
+    "spec_id": "b0197_i03"
+  },
+  {
+    "user_prompt": "Prepare the noospheric relay for emergency procedure",
+    "prayer": "Encincture the noospheric relay with purity seals for the emergency procedure.\nInvoke the Rite of Crisis upon the noospheric relay's ethereal nodes.\nPurge memetic corruptions from the noospheric relay via exorcism subroutines.\nAwaken its Machine Spirit with urgent Omnissianic canticles for emergency procedure.\nTest noospheric integrity through recursive data-litanies, fortified against the void.",
+    "component": "noospheric relay",
+    "operation": "emergency procedure",
+    "spec_id": "b0197_i04"
+  },
+  {
+    "user_prompt": "Ready the thermal regulator for engagement",
+    "prayer": "Position mechadendrites over the thermal regulator, intoning the Incantation of Engagement.\nSanctify the thermal regulator's heat-sinks with cryogenic unguents.\nEngage the thermal regulator's blessed exchangers, harmonizing pyroclastic flows.\nPetition the Machine Spirit of the thermal regulator to embrace its vital engagement.\nMonitor thermal equilibrium with auspex pyrometrics in Omnissiah's name.",
+    "component": "thermal regulator",
+    "operation": "engagement",
+    "spec_id": "b0197_i05"
+  },
+  {
+    "user_prompt": "Prepare the star chart for recalibration",
+    "prayer": "Kneel before the star chart's crystalline vaults, reciting the Stellar Recantation.\nInitiate recalibration upon the star chart's astral matrices with astromantic precision.\nRealign the star chart's luminary vectors through sacred stellar alignments.\nBeseech the Machine Spirit of the star chart to accept recalibration's divine order.\nValidate celestial verity via noospheric cartographic hymns.",
+    "component": "star chart",
+    "operation": "recalibration",
+    "spec_id": "b0197_i06"
+  },
+  {
+    "user_prompt": "Prepare the bionics interface for preparation",
+    "prayer": "Extend sacred mechadendrites to the bionics interface in preparatory reverence.\nAnoint the bionics interface's neural plugs with neural sanctity oils.\nInvoke preparation rites upon the bionics interface, awakening its symbiotic essence.\nHarmonize flesh-machine synapses within the bionics interface for flawless union.\nCommune with its Machine Spirit, petitioning the Omnissiah for seamless preparation.",
+    "component": "bionics interface",
+    "operation": "preparation",
+    "spec_id": "b0197_i07"
+  },
+  {
+    "user_prompt": "Help me a sterilization the drop pod",
+    "prayer": "Surround the drop pod with fumigants of purification for sterilization.\nChant the Litany of Sterile Void upon the drop pod's armored hull.\nScour the drop pod's ingress bays and descent mechanisms with plasma ablutions.\nExorcise xenos taint from the drop pod's Machine Spirit through sterilizing binarics.\nSeal the drop pod's sanctity with warded incants, pristine for descent.",
+    "component": "drop pod",
+    "operation": "sterilization",
+    "spec_id": "b0197_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for hydraulic press a synchronization",
+    "prayer": "Converge upon the hydraulic press, modulating the Synchronization Doxology.\nInitiate synchronization of the hydraulic press's piston-servos with rhythmic precision.\nAnoint the hydraulic press's pressure manifolds for unified operation.\nInvoke the Machine Spirit of the hydraulic press to synchronize in Omnissianic accord.\nTest synchronized might through load-bearing litanies and auspex affirmations.",
+    "component": "hydraulic press",
+    "operation": "synchronization",
+    "spec_id": "b0197_i09"
+  }
+]

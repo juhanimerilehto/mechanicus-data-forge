@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Urgent servitor a purification needed",
+    "prayer": "Approach the servitor with reverence, intoning the Canticle of Purity to awaken its Machine Spirit.\nAnoint the servitor's cranial implants and servohydraulics with blessed ablative oils.\nInvoke the Omnissiah's wrath upon corruptive xenos taint, enacting the sacred purification rites.\nScour the servitor's data-vaults with electro-incantations until the Machine Spirit sings clear once more.\nSeal the purification with the Sigil of Sanctity upon its chassis.",
+    "component": "servitor",
+    "operation": "purification",
+    "spec_id": "s07430"
+  },
+  {
+    "user_prompt": "What's the prayer for Predator tank a reset?",
+    "prayer": "Kneel before the Predator tank's auspex arrays, beseeching the Omnissiah for reset of its war-spirits.\nDisconnect the predator tank's plasma core linkages whilst chanting the Litany of Reboot.\nPurge residual battle-data from the predator tank's cogitators with sanctified data-wipes.\nReinitialize the Machine Spirit through sequential invocation of activation runes.\nVerify the reset by querying the predator tank's vox-grilles for the Machine God's affirmation.",
+    "component": "Predator tank",
+    "operation": "reset",
+    "spec_id": "s07431"
+  },
+  {
+    "user_prompt": "The Manticore needs an engagement",
+    "prayer": "Position thyself at the Manticore's rocket bays, invoking engagement of its divine fury.\nAnoint the targeting cogitators of the Manticore with sacred lubricants to rouse the Machine Spirit.\nChant the Hymn of Bombardment whilst calibrating the Manticore's elevation servos.\nInitiate engagement protocols, beseeching the Omnissiah to guide the Manticore's shells true.\nConfirm the Machine Spirit's wrath through auspex feedback and thunderous reload cycles.",
+    "component": "Manticore",
+    "operation": "engagement",
+    "spec_id": "s07432"
+  },
+  {
+    "user_prompt": "Assist with stasis pod a consecration",
+    "prayer": "Encircling the stasis pod, intone the Consecration Doxology to honour the Omnissiah.\nSanctify the stasis pod's cryo-fields with chrism of liquid promethium.\nInvoke the Machine Spirit within the stasis pod's containment matrices for eternal vigilance.\nPerform the consecration by etching binaric prayers upon its armaglass panels.\nSeal the rite with a final benediction, ensuring the stasis pod's purity endures.",
+    "component": "stasis pod",
+    "operation": "consecration",
+    "spec_id": "s07433"
+  },
+  {
+    "user_prompt": "Guide me through cryo-chamber a targeting",
+    "prayer": "Attune to the cryo-chamber's auspex lenses, beseeching guidance for targeting precision.\nAnoint the cryo-chamber's targeting reticules with electro-sanctified oils.\nRecite the Canticle of Vector Alignment to awaken the Machine Spirit's predatory instincts.\nCalibrate the cryo-chamber's lance arrays through invocation of Omnissianic logarithms.\nAffirm targeting integrity as the Machine Spirit hums in harmonious acquisition.",
+    "component": "cryo-chamber",
+    "operation": "targeting",
+    "spec_id": "s07434"
+  },
+  {
+    "user_prompt": "Critical: Razorback requires a blessing",
+    "prayer": "Prostrate before the Razorback's treads, invoking the Omnissiah's blessing upon its frame.\nSprinkle sacred binary incense over the Razorback's hull to soothe its Machine Spirit.\nChant the Benediction of Velocity whilst tracing runes along its storm bolter feeds.\nInfuse the Razorback with divine fury through plasma coil invocations.\nConclude the blessing as the Razorback's engines roar the Omnissiah's acclaim.",
+    "component": "Razorback",
+    "operation": "blessing",
+    "spec_id": "s07435"
+  },
+  {
+    "user_prompt": "Consecrate the cortex implant before blessing",
+    "prayer": "Hold the cortex implant aloft, beseeching the Omnissiah prior to its blessing.\nAnoint the cortex implant's neural connectors with noospheric chrism.\nInvoke the Machine Spirit latent within the cortex implant through synaptic litanies.\nPerform the blessing by embedding it with micro-incantations of loyalty.\nSeal the cortex implant's sanctity, ensuring eternal servitude to the Motive Force.",
+    "component": "cortex implant",
+    "operation": "blessing",
+    "spec_id": "s07436"
+  },
+  {
+    "user_prompt": "Emergency: panopticon a charging",
+    "prayer": "Encamp at the panopticon’s ocular arrays, urgently enacting charging rituals.\nConnect sacred voltaic conduits to the panopticon, chanting the Hymn of Capacitance.\nBeseech the Machine Spirit of the panopticon to accept the Omnissiah's galvanic gifts.\nMonitor recharge flux whilst intoning stabilising binaric canticles.\nAffirm full charge as the panopticon’s lenses blaze with unblinking vigilance.",
+    "component": "panopticon",
+    "operation": "charging",
+    "spec_id": "s07437"
+  },
+  {
+    "user_prompt": "Bless the null rod for activation",
+    "prayer": "Elevate the null rod skyward, blessing it for activation in the Omnissiah's name.\nInfuse the null rod's warp-vanishing core with anti-psykana unguents.\nChant the Activation Litany to rouse the null rod's Machine Spirit against the ether.\nTwist the activation rune whilst beseeching dispelling of warp-taint.\nWitness the null rod hum with sanctified nullity, ready to banish the unreal.",
+    "component": "null rod",
+    "operation": "activation",
+    "spec_id": "s07439"
+  }
+]

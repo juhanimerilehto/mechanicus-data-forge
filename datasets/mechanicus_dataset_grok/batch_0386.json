@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: capacitor bank requires a calibration",
+    "prayer": "Approach the capacitor bank with reverence, intoning the Canticle of Equilibrium.\nAnoint its sacred cells with chrism of precise measure, awakening the Machine Spirit within the capacitor bank.\nInitiate the calibration rite, aligning holy voltages to the Omnissiah's design.\nBeseech the capacitor bank to hold charge in perfect harmony, verifying through auspex incantations.\nSanctify the calibration with the Seal of True Flux.",
+    "component": "capacitor bank",
+    "operation": "calibration",
+    "spec_id": "b0386_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for Thunderhawk a preparation",
+    "prayer": "Gather before the Thunderhawk's noble form and invoke the Omnissiah's aerial fury.\nPurify its rune-etched hull with sacred oils, stirring the Machine Spirits of the Thunderhawk.\nCommence preparation rituals, blessing thrusters and auspex arrays for the void's embrace.\nPetition the Thunderhawk's heart to ignite with righteous power, aligning all systems in preparation.\nSeal the rite with litanies of ascent, ensuring the Thunderhawk stands ready for battle.",
+    "component": "Thunderhawk",
+    "operation": "preparation",
+    "spec_id": "b0386_i01"
+  },
+  {
+    "user_prompt": "Help me a synchronization the servitor",
+    "prayer": "Kneel before the servitor, chanting the Doxology of Obedience.\nInvoke synchronization upon its cranial cogitators, harmonizing flesh and ferrosteel.\nAnoint the servitor's mechadendrites with blessed lubricant, beseeching its Machine Spirit to align.\nInitiate the synchronization protocol, linking neural engrams to the Omnissiah's will.\nVerify the servitor's unity through binary catechisms, sanctified in service.",
+    "component": "servitor",
+    "operation": "synchronization",
+    "spec_id": "b0386_i02"
+  },
+  {
+    "user_prompt": "My gyroscope is ready for engagement",
+    "prayer": "Present thyself unto the gyroscope, reciting the Litany of Stability.\nEngage its sacred gyros with reverent touch, awakening the Machine Spirit of the gyroscope.\nInvoke the operation of engagement, balancing inertial flows in Omnissiah's precision.\nMonitor the gyroscope's rotation through hallowed diagnostics, ensuring unerring poise.\nConclude with the Benediction of Equilibrium upon the gyroscope.",
+    "component": "gyroscope",
+    "operation": "engagement",
+    "spec_id": "b0386_i03"
+  },
+  {
+    "user_prompt": "How do I bless the autocannon for cycling?",
+    "prayer": "Approach the autocannon in solemn procession, voicing the Canticle of Recoil.\nBless its cycling mechanisms with sacred unguents, rousing the Machine Spirit within the autocannon.\nInitiate the cycling rite, petitioning smooth traverse of shells in Omnissiah's wrath.\nTest the autocannon's rhythm through ritual fire, aligning barrel and feeder flawless.\nSeal the blessing with incense of powder, affirming the autocannon's readiness.",
+    "component": "autocannon",
+    "operation": "cycling",
+    "spec_id": "b0386_i04"
+  },
+  {
+    "user_prompt": "Offer prayer for motion detector a maintenance",
+    "prayer": "Commune with the motion detector's vigilant core, intoning the Vigil of the Omnissiah.\nPerform maintenance upon its sensor webs, cleansing corrupted data-veils.\nAnoint the motion detector with oils of clarity, beseeching its Machine Spirit's acuity.\nRecalibrate auspex thresholds in hallowed maintenance, restoring prophetic sight.\nAffirm the motion detector's purity through test-pulses of sanctity.",
+    "component": "motion detector",
+    "operation": "maintenance",
+    "spec_id": "b0386_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for gravity generator a maintenance",
+    "prayer": "Bow before the gravity generator, chanting the Hymn of Weighted Grace.\nUndertake maintenance rites upon its field coils, purging dissonant fluxes.\nInvoke the Machine Spirit of the gravity generator, anointing with ferro-fluid chrism.\nRealign gravitic matrices in blessed maintenance, harmonizing to the Omnissiah's law.\nVerify stability through ritual suspension, sanctifying the gravity generator anew.",
+    "component": "gravity generator",
+    "operation": "maintenance",
+    "spec_id": "b0386_i06"
+  },
+  {
+    "user_prompt": "Urgent power cell a synchronization needed",
+    "prayer": "Reverently encircle the power cell, reciting the Incantation of Flux Unity.\nInitiate synchronization of its electrolytic heart, linking to the greater machine.\nBeseech the Machine Spirit within the power cell to pulse in synchronized rhythm.\nAnoint terminals with sacred conductors, ensuring flawless energy transference.\nConclude synchronization with the Omnissiah's binary seal upon the power cell.",
+    "component": "power cell",
+    "operation": "synchronization",
+    "spec_id": "b0386_i07"
+  },
+  {
+    "user_prompt": "Assist with radar array a blessing",
+    "prayer": "Assemble at the radar array's altar, invoking the Omnissiah's far-seeing gaze.\nPour blessings of sanctified static upon its emitter vanes, awakening the Machine Spirit.\nPerform the blessing rite, attuning waveforms to pierce the veil of distance.\nChant litanies over the radar array, harmonizing return-echoes in purity.\nSeal the radar array's blessing with auspex calibration, eternal vigilance granted.",
+    "component": "radar array",
+    "operation": "blessing",
+    "spec_id": "b0386_i08"
+  },
+  {
+    "user_prompt": "The Land Raider requires a startup",
+    "prayer": "Process to the Land Raider's adamantium bulk, voicing the Psalm of Armoured Might.\nAwaken its reactor core with the startup invocation, stirring dormant Machine Spirits.\nAnoint treads and sponsons, beseeching the Land Raider to rumble forth in glory.\nInitiate full startup sequences, aligning lascannons and battle-cogitators true.\nBless the Land Raider with the Omnissiah's fury, ready for the Emperor's crusade.",
+    "component": "Land Raider",
+    "operation": "startup",
+    "spec_id": "b0386_i09"
+  }
+]

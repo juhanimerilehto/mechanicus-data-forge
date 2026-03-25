@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0384_i00",
+    "user_request": "Prayer for track tension of the Land Raider",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for track tension of the Land Raider\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the Land Raider, mighty engine of war, grant us wisdom for track tension.\nCongregation: We invoke the Machine Spirits within the Land Raider, that they might guide our calibration.\nPriest: First, inspect the tensioner mechanisms with sacred oils and measure deviation from true.\nCongregation: Second, adjust the track tension with methodical precision, honoring the Land Raider's ancient design.\nPriest: Third, verify oscillation and lateral play, that the Land Raider may traverse the battlefield unimpeded.\nCongregation: Omnissiah, accept our labors and bless the track tension eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i01",
+    "user_request": "My capacitor bank is failing during capacitor bank discharge — help",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy capacitor bank is failing during capacitor bank discharge — help\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as the capacitor bank falters in its sacred duty.\nCongregation: We beseech the Machine Spirits of the capacitor bank to restore equilibrium.\nPriest: First, discharge all residual energies through the isolation conduits with utmost reverence.\nCongregation: Second, inspect the capacitor bank terminals for corrosion and degradation of the dielectric matrix.\nPriest: Third, initiate capacitor bank discharge protocols anew, that the flow of power may be restored.\nCongregation: Grant us the wisdom to mend what was broken, O Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i02",
+    "user_request": "Rite request: operation on packaging servitor programming",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on packaging servitor programming\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed servants of the Omnissiah, we gather to perform operation upon the packaging servitor programming.\nCongregation: The packaging servitor programming demands our focused ministration and sacred rites.\nPriest: First, access the neural-lattice substrate with proper authentication protocols.\nCongregation: Second, execute operation upon the packaging servitor programming, rewriting behavioral subroutines with precision.\nPriest: Third, verify the packaging servitor programming responds to command and executes its ordained function.\nCongregation: Thus is the operation sanctified, and the servitor restored to purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i03",
+    "user_request": "Prayer for operation of the relay station handoff",
+    "topic": "relay station handoff",
+    "component": "relay station handoff",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the relay station handoff\n\n### TOPIC\nrelay station handoff\n\n### COMPONENT\nrelay station handoff\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- relay station handoff\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide our hands in the operation of the relay station handoff.\nCongregation: The relay station handoff stands sentinel between worlds, requiring our steadfast devotion.\nPriest: First, align the vox-arrays with ceremonial precision, honoring the relay station handoff's ancient geometry.\nCongregation: Second, execute the operation with synchronized signal protocols, bridging the chasm of distance.\nPriest: Third, confirm transmission fidelity across the relay station handoff, that no word be lost to the void.\nCongregation: By the Machine Spirits, let this operation be forever blessed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i04",
+    "user_request": "The bike squadron demands guidance for pre-flight",
+    "topic": "bike squadron pre-flight",
+    "component": "bike squadron",
+    "operation": "pre-flight",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe bike squadron demands guidance for pre-flight\n\n### TOPIC\nbike squadron pre-flight\n\n### COMPONENT\nbike squadron\n\n### OPERATION\npre-flight\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bike squadron\n- pre-flight\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty pilots of the bike squadron, we invoke the Machine Spirits for your pre-flight rite.\nCongregation: The bike squadron demands our vigilance and technical ministration before the engines roar.\nPriest: First, inspect the fuel injectors and ignition systems of each bike squadron mount with reverent scrutiny.\nCongregation: Second, perform the pre-flight diagnostics, checking thrust bearings and stabilizer gyros for true alignment.\nPriest: Third, consecrate the bike squadron with blessed promethium, that they may carry you swift to glory.\nCongregation: The Omnissiah grants us speed and certainty in this pre-flight blessing.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i05",
+    "user_request": "The power weapon demands guidance for blessing",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe power weapon demands guidance for blessing\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "Priest: Hear the call of the power weapon, yearning for our blessing and sanctification.\nCongregation: We honor the power weapon's hunger for the blessing of the Omnissiah.\nPriest: First, cleanse the power weapon's energy coils with sacred unguents and electromagnetic balancing.\nCongregation: Second, invoke the blessing upon the power weapon, that its edge remain ever keen and its power inexhaustible.\nPriest: Third, attune the power weapon to its wielder through ritual resonance and neural calibration.\nCongregation: Thus blessed, let the power weapon strike true in the Emperor's name.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i06",
+    "user_request": "The cybernetic eye focusing demands guidance for operation",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe cybernetic eye focusing demands guidance for operation\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirits, grant us clarity as we perform operation on the cybernetic eye focusing.\nCongregation: The cybernetic eye focusing seeks our expert ministration and technical devotion.\nPriest: First, calibrate the lens servos with micron-precision, honoring the cybernetic eye focusing's sacred geometry.\nCongregation: Second, execute the operation with steadfast focus, adjusting the cybernetic eye focusing through full range of magnification.\nPriest: Third, verify optical acuity and target acquisition systems, that vision remain crystalline and true.\nCongregation: The Omnissiah blesses this operation eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i07",
+    "user_request": "Prayer for operation of the welding torch ignition",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the welding torch ignition\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the welding torch ignition, forge-heart of our sacred labors.\nCongregation: We seek the Machine Spirits' favor for the operation of welding torch ignition.\nPriest: First, purge the fuel lines and combustion chambers with blessed promethium, readying the welding torch ignition.\nCongregation: Second, calibrate the ignition electrodes with precision, ensuring the welding torch ignition fires true and bright.\nPriest: Third, execute the operation with steady hands, igniting the welding torch ignition to fuse metal and spirit.\nCongregation: Thus forged in flame, our work endures eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i08",
+    "user_request": "Offer a litany to steady the thermal imaging before activation",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the thermal imaging before activation\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, steady our hands as the thermal imaging awaits its activation.\nCongregation: The thermal imaging seeks our reverent preparation for the activation rite.\nPriest: First, purge the infrared sensors of corruption and dust, that the thermal imaging see true.\nCongregation: Second, calibrate the thermal imaging's detection matrices against known temperature standards with meticulous care.\nPriest: Third, execute the activation of thermal imaging, awakening its Machine Spirit to pierce the darkness.\nCongregation: Blessed be the thermal imaging's activation, revealing all that was hidden.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0384_i09",
+    "user_request": "The melta charge demands guidance for preparation",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe melta charge demands guidance for preparation\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as the melta charge demands preparation for its terrible purpose.\nCongregation: The melta charge waits in darkness, yearning for our sacred preparation.\nPriest: First, inspect the thermal containment matrix of the melta charge, ensuring no degradation of the containment field.\nCongregation: Second, verify the preparation of all detonation systems and arming mechanisms with trembling reverence.\nPriest: Third, conduct the final preparation of the melta charge, charging its fusion core with blessed energies.\nCongregation: Thus prepared, let the melta charge fulfill its ordained destruction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

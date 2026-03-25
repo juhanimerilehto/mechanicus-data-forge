@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the drop pod for activation?",
+    "prayer": "Approach the drop pod with reverence, mechadendrites extended in supplication to its dormant Machine Spirit.\nInvoke the Canticle of Orbital Descent upon the drop pod's activation cogitators.\nAnoint the descent thrusters with sacred unguents whilst beseeching the Omnissiah for flawless activation.\nInitiate the activation rites as the drop pod's auspex arrays awaken to the void's call.\nVerify the Machine Spirit's vigour through diagnostic litanies of descent.",
+    "component": "drop pod",
+    "operation": "activation",
+    "spec_id": "s02400"
+  },
+  {
+    "user_prompt": "Can you guide melta bomb a shutdown?",
+    "prayer": "Kneel before the melta bomb, intoning the Litany of Thermal Quiescence to pacify its raging plasma heart.\nSever the power conduits with sanctified shears, beseeching the Machine Spirit within the melta bomb to enter shutdown.\nApply the incense of dormancy to its flux regulators, invoking Omnissiah's grace for controlled cessation.\nMonitor the shutdown sequence via noospheric chants until the melta bomb slumbers once more.\nSeal the casement with blessed adamantium wards against errant ignition.",
+    "component": "melta bomb",
+    "operation": "shutdown",
+    "spec_id": "s02401"
+  },
+  {
+    "user_prompt": "What's the prayer for vox-thief a startup?",
+    "prayer": "Present the vox-thief to the altar of frequencies, whispering the Awakening Doxology to rouse its ethereal circuits.\nAlign the waveform inductors with precision calipers whilst invoking the Machine Spirit of the vox-thief.\nCommence the startup incantation, anointing data-vanes with oils of transmission under Omnissiah's gaze.\nObserve the startup harmonics through auspex harmonics, ensuring the vox-thief's voice pierces the ether.\nConsecrate the active core with binaric praise as interception protocols engage.",
+    "component": "vox-thief",
+    "operation": "startup",
+    "spec_id": "s02402"
+  },
+  {
+    "user_prompt": "Guide me through las-cutter a preparation",
+    "prayer": "Commence preparation of the las-cutter by reciting the Rite of Coherent Light upon its emitter arrays.\nPurify the power cells of the las-cutter with electro-sanctified cloths, beseeching its Machine Spirit's focus.\nCalibrate the focusing lenses through litanies of precision, invoking Omnissiah for unerring preparation.\nTest the las-cutter's beam purity with diagnostic pyres, ensuring readiness for the Omnissiah's work.\nAnoint the trigger servos, sealing the preparation with vows of destructive fidelity.",
+    "component": "las-cutter",
+    "operation": "preparation",
+    "spec_id": "s02403"
+  },
+  {
+    "user_prompt": "Can you guide power fist a consecration?",
+    "prayer": "Grasp the power fist in prayerful mechadendrites, chanting the Consecration Hymn to exalt its disruptive field.\nInvoke the Machine Spirit of the power fist through shock-maul caresses upon its motivators.\nImbue the power fist with sacred charge from noospheric fonts, beseeching Omnissiah's wrathful consecration.\nCycle the disruption fields in ritual harmony, verifying the power fist's sanctified fury.\nSeal the consecration with binaric oaths, arming it for the Emperor's crushing justice.",
+    "component": "power fist",
+    "operation": "consecration",
+    "spec_id": "s02404"
+  },
+  {
+    "user_prompt": "Offer prayer for smelting furnace a cooling",
+    "prayer": "Approach the smelting furnace amidst cooling vents, intoning the Lullaby of Thermal Descent to soothe its inferno soul.\nDirect coolant servos with sanctified levers, beseeching the Machine Spirit within the smelting furnace for orderly cooling.\nInvoke Omnissiah's chill breath upon the refractory linings during the cooling phase.\nMonitor pyrometric runes until the smelting furnace's heartbeats slow to dormancy.\nAnoint the exhaust grates with quiescence oils, affirming the cooling rite's completion.",
+    "component": "smelting furnace",
+    "operation": "cooling",
+    "spec_id": "s02405"
+  },
+  {
+    "user_prompt": "Can you guide Leman Russ battle tank a cooling?",
+    "prayer": "Circumambulate the Leman Russ battle tank, reciting Cooling Canticles to temper its battle-heated viscera.\nEngage the Leman Russ battle tank's cryo-circulators whilst invoking its ancient Machine Spirit's patience.\nBeseech the Omnissiah for merciful cooling upon the main gun's breech and engine bays.\nScan thermals with auspex litanies, guiding the Leman Russ battle tank to quiescent readiness.\nSeal the cooling with blessed hydro-lacquers, honouring its predatory slumber.",
+    "component": "Leman Russ battle tank",
+    "operation": "cooling",
+    "spec_id": "s02406"
+  },
+  {
+    "user_prompt": "Critical: gravity generator requires a shutdown",
+    "prayer": "Hasten to the gravity generator, proclaiming the Shutdown Benediction to quell its crushing dominion.\nDisconnect the gravitic coils with ritual disconnectors, pacifying the Machine Spirit of the gravity generator.\nInvoke Omnissiah's weightless mercy for swift shutdown, venting warp-tainted fluxes.\nObserve field collapse through noospheric metrics, chanting quiescence until stability returns.\nFortify the containment with adamantine seals post-shutdown.",
+    "component": "gravity generator",
+    "operation": "shutdown",
+    "spec_id": "s02407"
+  },
+  {
+    "user_prompt": "Can you guide haywire grenade an emergency procedure?",
+    "prayer": "Seize the haywire grenade in exigency, invoking the Emergency Litany to bind its anarchic emanations.\nInitiate the emergency procedure by reciting disruption-nullifying doxologies over the haywire grenade.\nBeseech the Machine Spirit within the haywire grenade for controlled dissipation under Omnissiah's will.\nNeutralize the induction spirals with sanctified dampeners, monitoring the emergency procedure's fade.\nQuarantine the haywire grenade with warded stasis, affirming rite's triumph.",
+    "component": "haywire grenade",
+    "operation": "emergency procedure",
+    "spec_id": "s02408"
+  },
+  {
+    "user_prompt": "Emergency: inferno pistol a blessing",
+    "prayer": "In dire straits, cradle the inferno pistol and chant the Blessing of Melta Purgation.\nAnoint the inferno pistol's flux heart with promethium incense, awakening its Machine Spirit's blaze.\nInvoke Omnissiah's purifying flame for this blessing, calibrating vents for cataclysmic release.\nCycle the blessing charge through litanies of incineration, ensuring the inferno pistol's holy wrath.\nSeal the rite with vows of unquenchable fire upon trigger and barrel.",
+    "component": "inferno pistol",
+    "operation": "blessing",
+    "spec_id": "s02409"
+  }
+]

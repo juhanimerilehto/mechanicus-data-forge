@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a cooling the manipulator mechadendrite",
+    "prayer": "Approach the manipulator mechadendrite in solemn reverence, beseeching its Machine Spirit to awaken.\nInvoke the sacred cooling rites upon the manipulator mechadendrite's thermal conduits, chanting the Canticle of Equilibrium.\nAnoint the heat-sinks with blessed cryo-fluid whilst intoning binary litanies to the Omnissiah.\nVerify the cooling cycle's sanctity through auspex diagnostics, honouring the manipulator mechadendrite's restored poise.",
+    "component": "manipulator mechadendrite",
+    "operation": "cooling",
+    "spec_id": "s03580"
+  },
+  {
+    "user_prompt": "Ready the galvanic rifle for operation",
+    "prayer": "Present thyself before the galvanic rifle, invoking the Omnissiah's grace for its operation.\nSanctify the power cells and induction coils of the galvanic rifle with sacred unguents.\nChant the Litany of Readiness as the Machine Spirit stirs for operation.\nAlign the targeting matrices in harmonious operation, praising the galvanic rifle's lethal precision.",
+    "component": "galvanic rifle",
+    "operation": "operation",
+    "spec_id": "s03581"
+  },
+  {
+    "user_prompt": "Offer prayer for amplivisor a sterilization",
+    "prayer": "Kneel in veneration of the amplivisor, offering purification for its sterilization.\nBeseech the Machine Spirit within the amplivisor to expel all profane contaminants.\nApply the holiest ablative incense across its lenses during the sterilization rite.\nConclude with invocations to the Omnissiah, ensuring the amplivisor's crystalline purity endures.",
+    "component": "amplivisor",
+    "operation": "sterilization",
+    "spec_id": "s03582"
+  },
+  {
+    "user_prompt": "Consecrate the Baneblade before reset",
+    "prayer": "Prostrate before the mighty Baneblade, consecrating it prior to reset.\nRecite the Canticle of Rebirth upon the Baneblade's cogitator core, awakening its Machine Spirits.\nAnoint the treads and auspex arrays with sacred oils as the reset sequence commences.\nInvoke the Omnissiah's wrathful favour upon the Baneblade, purging digital corruptions in holy reset.",
+    "component": "Baneblade",
+    "operation": "reset",
+    "spec_id": "s03583"
+  },
+  {
+    "user_prompt": "The power fist awaits a recalibration",
+    "prayer": "Commune with the power fist's indomitable Machine Spirit, preparing for recalibration.\nChant binaric hymns whilst adjusting the power fist's servo-motivators for recalibration.\nSanctify its crushing actuators with electro-consecrated lubricants.\nTest the recalibration through ritual strikes, glorifying the power fist's unyielding might under Omnissiah's gaze.",
+    "component": "power fist",
+    "operation": "recalibration",
+    "spec_id": "s03584"
+  },
+  {
+    "user_prompt": "Help me a shutdown the eradication beamer",
+    "prayer": "Approach the eradication beamer with due caution, intoning shutdown litanies.\nBeseech its volatile Machine Spirit to enter graceful repose during shutdown.\nSever power feeds whilst reciting the Benediction of Dormancy upon the eradication beamer.\nSeal the shutdown with Omnissiah's sigils, ensuring the eradication beamer slumbers in sanctified silence.",
+    "component": "eradication beamer",
+    "operation": "shutdown",
+    "spec_id": "s03585"
+  },
+  {
+    "user_prompt": "My cortex controller is ready for blessing",
+    "prayer": "Revere the cortex controller, readying it for the blessing rite.\nInvoke the Omnissiah to infuse the cortex controller's neural lattices with divine logic.\nAnoint synaptic nodes with noospheric incense as the Machine Spirit receives blessing.\nAffirm the blessing's potency through noetic harmonics, exalting the cortex controller's omniscience.",
+    "component": "cortex controller",
+    "operation": "blessing",
+    "spec_id": "s03586"
+  },
+  {
+    "user_prompt": "Offer prayer for Contemptor Dreadnought an engagement",
+    "prayer": "Humbly beseech the Contemptor Dreadnought's ancient Machine Spirit for engagement.\nChant the War-Litany of Mobilisation upon its sarcophagus core.\nAnoint weapon servos and power relays, preparing the Contemptor Dreadnought for battle engagement.\nProclaim the Omnissiah's decree, unleashing the Contemptor Dreadnought in righteous engagement.",
+    "component": "Contemptor Dreadnought",
+    "operation": "engagement",
+    "spec_id": "s03587"
+  },
+  {
+    "user_prompt": "Urgent plasma cannon a consecration needed",
+    "prayer": "Prostrate before the plasma cannon, urgently seeking its consecration.\nRecite the Plasma Catechism to soothe the plasma cannon's furious Machine Spirit.\nSanctify containment fields with sacred rad-shields during consecration.\nInvoke Omnissiah's thermal mastery, binding the plasma cannon in holy, volatile consecration.",
+    "component": "plasma cannon",
+    "operation": "consecration",
+    "spec_id": "s03588"
+  },
+  {
+    "user_prompt": "My bolter is ready for preparation",
+    "prayer": "Venerate the bolter, aligning it for preparation under Omnissiah's light.\nClear the sacred breeches of the bolter whilst chanting preparatory litanies.\nBless the ammunition feeds and gyro-stabilisers of the bolter with martial oils.\nCommence firing diagnostics in preparation, honouring the bolter's Machine Spirit's eternal vigilance.",
+    "component": "bolter",
+    "operation": "preparation",
+    "spec_id": "s03589"
+  }
+]

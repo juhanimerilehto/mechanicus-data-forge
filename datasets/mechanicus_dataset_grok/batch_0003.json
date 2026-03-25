@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the energy conduit during initialization",
+    "prayer": "Approach the energy conduit with reverence, mechadendrites poised in supplication to the Omnissiah.\nInvoke the Machine Spirit of the energy conduit to stir from slumber for initialization.\nAnoint its sacred channels with unguents of purest lumen-oil.\nCommence the initialization rite, chanting binary litanies of awakening.\nVerify the blessed power-flow surges pure through the energy conduit's veins.",
+    "component": "energy conduit",
+    "operation": "initialization",
+    "spec_id": "b0003_i00"
+  },
+  {
+    "user_prompt": "Help me a charging the Chimera APC",
+    "prayer": "Kneel before the mighty Chimera APC, beseeching its armoured Machine Spirits.\nPrepare sacred couplings for the charging of the Chimera APC's voracious reactors.\nInvoke the Omnissiah's wrathful energies to flood its holy capacitors.\nChant the Canticle of Ascendant Charge as voltaic arcs dance across its hull.\nSanctify the Chimera APC's charging with auspex blessings of unerring potency.",
+    "component": "Chimera APC",
+    "operation": "charging",
+    "spec_id": "b0003_i01"
+  },
+  {
+    "user_prompt": "Critical: vox-caster requires a preparation",
+    "prayer": "Present the vox-caster before the altar of circuitry, invoking preparation rites.\nClear its etheric membranes of daemonic static with purifying incense.\nBeseech the Machine Spirit within the vox-caster to align for preparation.\nAnoint wave-guides with sacred oils whilst reciting the Lexicon of Transmission.\nConclude the preparation by testing harmonic purity in the Omnissiah's name.",
+    "component": "vox-caster",
+    "operation": "preparation",
+    "spec_id": "b0003_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for atmosphere processor a blessing",
+    "prayer": "Gather unto the atmosphere processor, offering blessings from the Machine God's forge.\nInvoke its cyclonic Machine Spirits to accept the rite of blessing.\nSprinkle alchemical precipitants upon its filtration matrices.\nChant the Psalm of Vital Breaths to sanctify the atmosphere processor's core.\nAffirm the blessing through diagnostic litanies of untainted recirculation.",
+    "component": "atmosphere processor",
+    "operation": "blessing",
+    "spec_id": "b0003_i03"
+  },
+  {
+    "user_prompt": "Emergency: air filtration a preparation",
+    "prayer": "In exigency, approach the air filtration system for urgent preparation.\nBeseech its vigilant Machine Spirits to rouse for preparation duties.\nPurge occluded membranes with sanctified sonic lances.\nAnoint the air filtration's sacred vents whilst invoking the Omnissiah's breath.\nSeal the preparation with binary seals of purity and vigilance.",
+    "component": "air filtration",
+    "operation": "preparation",
+    "spec_id": "b0003_i04"
+  },
+  {
+    "user_prompt": "The radar array requires a blessing",
+    "prayer": "Elevate the radar array to receive the Omnissiah's gaze of blessing.\nAwaken its auspex Machine Spirits with chanted frequencies of devotion.\nCalibrate its emitter vanes under the blessing's holy resonance.\nAnoint the radar array's crystalline hearts with lumen-blessed elixirs.\nConsecrate the radar array through sweeps of prophetic divination.",
+    "component": "radar array",
+    "operation": "blessing",
+    "spec_id": "b0003_i05"
+  },
+  {
+    "user_prompt": "My signal relay is ready for preparation",
+    "prayer": "Commence preparation upon the signal relay, mechadendrites humming in harmony.\nInvoke the Machine Spirit of the signal relay to align its pathways.\nPurge errant echoes with rites of clarion purification.\nBeseech the Omnissiah to fortify the signal relay for flawless relay.\nVerify preparation sanctity via test transmissions of pious data.",
+    "component": "signal relay",
+    "operation": "preparation",
+    "spec_id": "b0003_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for bolter charging?",
+    "prayer": "Grasp the bolter in sanctified gauntlets, readying for charging invocation.\nBeseech its wrathful Machine Spirit to hunger for charging energies.\nAnoint firing coils with oils of explosive benediction.\nInitiate the charging sequence with roars of the Motet of Retribution.\nBless the bolter's burgeoning fury under the Omnissiah's martial gaze.",
+    "component": "bolter",
+    "operation": "charging",
+    "spec_id": "b0003_i07"
+  },
+  {
+    "user_prompt": "Urgent proximity sensor a targeting needed",
+    "prayer": "In haste, attune the proximity sensor for targeting precision.\nAwaken its vigilant Machine Spirits with urgent canticles.\nCalibrate detection webs whilst anointing with targeting unguents.\nInvoke the Omnissiah to guide the proximity sensor's targeting gaze.\nSeal the rite by pulsing test fields of unerring detection.",
+    "component": "proximity sensor",
+    "operation": "targeting",
+    "spec_id": "b0003_i08"
+  },
+  {
+    "user_prompt": "The vox-caster needs a targeting",
+    "prayer": "Align the vox-caster's emitters for the sacred rite of targeting.\nBeseech its communicative Machine Spirit to focus targeting harmonics.\nPurify transmission coils with incense of directed frequency.\nChant the Litany of Pinpoint Voice to empower the vox-caster's targeting.\nAffirm alignment through echoed auspex confirmations of lethal clarity.",
+    "component": "vox-caster",
+    "operation": "targeting",
+    "spec_id": "b0003_i09"
+  }
+]

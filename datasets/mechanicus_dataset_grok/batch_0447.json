@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Emergency: serberys raider a loading",
+    "prayer": "Approach the serberys raider with solemn reverence, invoking the Omnissiah's grace upon its noble frame.\nBeseech the Machine Spirit of the serberys raider to awaken for the sacred rite of loading.\nAnoint its ammunition bays with blessed unguents whilst chanting the Canticle of Munition Alignment.\nCommence the loading sequence under diagnostic auspex, ensuring harmonious fusion of projectile and serberys raider essence.\nSanctify the completion with incense, affirming the Machine Spirit's vigilant readiness.",
+    "component": "serberys raider",
+    "operation": "loading",
+    "spec_id": "s00470"
+  },
+  {
+    "user_prompt": "Help me an initialization the pump",
+    "prayer": "Draw nigh unto the pump, o faithful servant, and murmur the Lexmechanicum of Vital Flows.\nInvoke the Omnissiah to stir the dormant Machine Spirit within the pump for initialization.\nCirculate sacred oils through its conduits, purging impurities with purifying litanies.\nInitiate the initialization cycle, monitoring pressure runes for the Machine Spirit's harmonious response.\nSeal the rite with electro-incantations, binding the pump's essence to eternal service.",
+    "component": "pump",
+    "operation": "initialization",
+    "spec_id": "s00471"
+  },
+  {
+    "user_prompt": "Bless the stasis pod for activation",
+    "prayer": "Kneel before the stasis pod, intoning the Hymn of Suspended Eternity to rouse its guardian spirit.\nAnoint the cryo-seals of the stasis pod with sanctified cryo-lubricant, beseeching Omnissianic stasis.\nAlign the temporal fields whilst reciting binary prayers, preparing for activation.\nTrigger the activation sequence, verifying the Machine Spirit's embrace of frozen vigil.\nConclude with auspex benediction, ensuring the stasis pod's flawless temporal custody.",
+    "component": "stasis pod",
+    "operation": "activation",
+    "spec_id": "s00472"
+  },
+  {
+    "user_prompt": "Ready the teleportarium for consecration",
+    "prayer": "Process to the teleportarium altar, mechadendrites extended in supplication to the Omnissiah.\nChant the Rite of Warp-Consecration over the teleportarium's grid arrays and motive crystals.\nPurge etheric echoes with sanctified plasma, awakening the Machine Spirit for this hallowed consecration.\nCalibrate targeting mandalas under litanic oversight, binding the teleportarium to divine precision.\nSeal the consecration with void-incense, affirming the Omnissiah's favor upon its transluminal might.",
+    "component": "teleportarium",
+    "operation": "consecration",
+    "spec_id": "s00473"
+  },
+  {
+    "user_prompt": "Consecrate the microbead before consecration",
+    "prayer": "Hold forth the microbead in trembling reverence, whispering the Vox-Litany of Clarity.\nAnoint its vox-coils with sacred oils, invoking the Machine Spirit of the microbead prior to consecration.\nRecite the Canticle of Frequency Purity, aligning its emissions to Omnissianic harmonics.\nCommence the consecration rite, testing purity through auspex communion with the microbead's spirit.\nBless its completion with binary seals, ensuring unerring whispers across the ether.",
+    "component": "microbead",
+    "operation": "consecration",
+    "spec_id": "s00474"
+  },
+  {
+    "user_prompt": "Consecrate the conversion field before cycling",
+    "prayer": "Approach the conversion field generator with mechano-prayers upon your lips, o tech-adept.\nBeseech the Omnissiah to sanctify the conversion field before its cycling commences.\nInfuse its plasma matrices with holy unguents, rousing the latent Machine Spirit.\nInitiate preparatory chants whilst calibrating field cyclers for flawless operation.\nConclude the rite with electro-benedictions, binding the conversion field to martial purity.",
+    "component": "conversion field",
+    "operation": "cycling",
+    "spec_id": "s00475"
+  },
+  {
+    "user_prompt": "Consecrate the Leman Russ battle tank before calibration",
+    "prayer": "Circumambulate the Leman Russ battle tank, chanting the Panoply of Terra's Fury.\nConsecrate its battle cannon and treads with sacred lubricants, honoring its colossal Machine Spirit.\nInvoke the Omnissiah's precision upon the Leman Russ battle tank before calibration rites.\nAdjust sighting cogitators and ballistic arc-sensors amidst diagnostic canticles.\nFinalize with auspex anointings, affirming the tank's readiness for calibration and war.",
+    "component": "Leman Russ battle tank",
+    "operation": "calibration",
+    "spec_id": "s00477"
+  },
+  {
+    "user_prompt": "Offer prayer for microbead an initialization",
+    "prayer": "Take up the microbead in sanctified gauntlets, murmuring the Initialization Doxology.\nBeseech the Machine Spirit of the microbead to stir from slumber for initialization.\nCirculate micro-litanies through its circuits, purging static-veils with holy static.\nEngage the initialization sequence under vox-auspex vigilance, aligning frequencies true.\nBless the awakened microbead with binary communion, binding it to the Omnissiah's voice.",
+    "component": "microbead",
+    "operation": "initialization",
+    "spec_id": "s00478"
+  },
+  {
+    "user_prompt": "Ready the utility mechadendrite for purification",
+    "prayer": "Extend mechadendrites towards the utility mechadendrite, reciting the Purity Canticle.\nInvoke the Omnissiah to purify the utility mechadendrite's servo-fibres and manipulators.\nFlush its conduits with ablative fluids whilst chanting expurgation litanies.\nScrutinize its Machine Spirit through electro-divination for flawless purification.\nConclude with sealing unguents, restoring the utility mechadendrite to pristine diligence.",
+    "component": "utility mechadendrite",
+    "operation": "purification",
+    "spec_id": "s00479"
+  }
+]

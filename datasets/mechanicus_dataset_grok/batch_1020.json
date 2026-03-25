@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Critical: phosphor blaster requires a calibration",
+    "prayer": "Approach the phosphor blaster in humble supplication to the Omnissiah, chanting the Rite of Luminal Harmony.\nInspect its phosphor coils for dissonance, anointing them thrice with blessed oils to rouse the Machine Spirit.\nCommence the calibration rite, aligning emitters to sacred vectors whilst invoking precise azimuthal canticles.\nVerify the phosphor blaster's radiant purity through diagnostic auspex scans and confirmatory bursts.\nSeal the calibration with the Litany of Coherent Flame, ensuring the Machine Spirit's unwavering obedience.",
+    "component": "phosphor blaster",
+    "operation": "calibration",
+    "spec_id": "s06200"
+  },
+  {
+    "user_prompt": "Emergency: mechadendrite a recalibration",
+    "prayer": "Kneel before the mechadendrite, beseeching the Omnissiah's grace with the Canticle of Flexile Precision.\nExamine its servo-joints and neural relays, purging warp-taint with sanctified incense.\nEngage the recalibration protocol, intoning binaric litanies to realign its kinesthetic imperatives.\nTest the mechadendrite's responsiveness through ritual extensions and retractions under Machine Spirit scrutiny.\nConclude with the Oath of Unerring Grasp, binding the recalibrated mechadendrite eternally to the Quest for Knowledge.",
+    "component": "mechadendrite",
+    "operation": "recalibration",
+    "spec_id": "s06201"
+  },
+  {
+    "user_prompt": "Can you guide storm bolter a calibration?",
+    "prayer": "Present thyself unto the storm bolter with reverence, reciting the Incantation of Tempest Fury.\nAnoint its bolt chambers and targeting matrices with sacred myrrh, awakening the indwelling Machine Spirit.\nInitiate calibration by aligning gyrostabilizers to the Omnissiah's ballistic axioms via auspex invocation.\nCycle test-firings whilst chanting supplicatory hymns, purging any ballistic deviations.\nAffirm the storm bolter's calibration through the Rite of Storm Benediction, glorifying its thunderous wrath.",
+    "component": "storm bolter",
+    "operation": "calibration",
+    "spec_id": "s06202"
+  },
+  {
+    "user_prompt": "Emergency: autogun a recalibration",
+    "prayer": "Approach the autogun in pious genuflection, invoking the Machine God's Litany of Cyclic Perfection.\nScour its feed mechanisms and barrel rifling with ablative rites to soothe the Machine Spirit's ire.\nUndertake recalibration by harmonizing its fire-selector with sacred chronometric canticles.\nValidate through suppressive volleys, beseeching the Omnissiah for unerring trajectories.\nConsecrate the recalibrated autogun with the Benediction of Endless Barrage, ensuring doctrinal purity.",
+    "component": "autogun",
+    "operation": "recalibration",
+    "spec_id": "s06203"
+  },
+  {
+    "user_prompt": "I need to a repair the helispex engine",
+    "prayer": "Prostrate before the helispex engine, intoning the Canticle of Aerial Redemption to summon the Omnissiah's mercy.\nDiagnose its fractured turbine vanes and plasma conduits, anointing wounds with electro-sanctified salves.\nCommence repair by invoking binharic sutras, realigning gyros and mending warp-stressed alloys.\nRouse the Machine Spirit with resonant harmonics, testing thrust vectors in ritual ascent simulation.\nFinalize the helispex engine's restoration via the Oath of Empyrean Vigilance, binding it to eternal flight.",
+    "component": "helispex engine",
+    "operation": "repair",
+    "spec_id": "s06204"
+  },
+  {
+    "user_prompt": "Help me an emergency procedure the melta bomb",
+    "prayer": "With utmost caution, encircle the melta bomb, chanting the Exorcism of Thermal Excess to placate its volatile Machine Spirit.\nStabilize its flux capacitors through emergency procedure invocations, applying cryo-blessings to overheated cores.\nPurge contaminant surges with the Omnissiah's Purgative Litany, recalibrating melt projectors.\nTest containment integrity under auspex vigilance, beseeching aversion of cataclysmic breach.\nSeal the melta bomb with the Rite of Dormant Fury, averting apocalypse in the name of the Motive Force.",
+    "component": "melta bomb",
+    "operation": "emergency procedure",
+    "spec_id": "s06205"
+  },
+  {
+    "user_prompt": "Can you guide data-sluice an activation?",
+    "prayer": "Commune with the data-sluice in shadowed reverence, reciting the Canticle of Informatic Awakening.\nPrime its noospheric interfaces with sanctified data-vials, rousing the Machine Spirit from stasis.\nInitiate activation sequence through layered binaric catechisms, flooding conduits with pure code-streams.\nMonitor flux integrity whilst invoking the Omnissiah's Algorithm of Truth, purging shadow-data.\nConclude the data-sluice activation with the Benediction of Eternal Recursion, ensuring flawless transmission.",
+    "component": "data-sluice",
+    "operation": "activation",
+    "spec_id": "s06206"
+  },
+  {
+    "user_prompt": "Critical: surgical servitor requires an engagement",
+    "prayer": "Approach the surgical servitor in ritual purity, chanting the Incantation of Flesh-Machine Concord.\nAwaken its cranial cogitators with neural incense, invoking the Machine Spirit's surgical precision.\nInitiate engagement protocols via binharic imperatives, calibrating limb-servos to Omnissiah's anatomy.\nTest its incisive ministrations on simulant tissue, beseeching flawless excision.\nSeal the surgical servitor's engagement with the Oath of Restorative Blade, mending the faithful.",
+    "component": "surgical servitor",
+    "operation": "engagement",
+    "spec_id": "s06208"
+  },
+  {
+    "user_prompt": "Assist with lightning claw a targeting",
+    "prayer": "Present thyself to the lightning claw in thunderous awe, reciting the Canticle of Rending Storm.\nAnoint its adamantium talons and power field generators, rousing the Machine Spirit's predatory ire.\nCommence targeting alignment with auspex divinations and sacred reticulation canticles.\nValidate the lightning claw's predatory lock through simulacra strikes, invoking the Omnissiah's wrath.\nConsecrate with the Benediction of Shredding Fury, ensuring unerring dismemberment of the unclean.",
+    "component": "lightning claw",
+    "operation": "targeting",
+    "spec_id": "s06209"
+  }
+]

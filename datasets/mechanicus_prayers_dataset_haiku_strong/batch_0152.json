@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0152_i00",
+    "user_request": "The lasgun demands guidance for power cell insertion",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe lasgun demands guidance for power cell insertion\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the lasgun, conduit of the Omnissiah's wrath!\nCongregation: We honor the lasgun and its sacred function.\nPriest: Genuflect before the power cell insertion, that the Machine Spirit may receive sustenance.\nCongregation: Guide our hands in the power cell insertion, O Magos!\nPriest: First, align the polarity terminals with reverent precision. Second, depress the magazine catch with measured force. Third, seat the power cell until the mechanical lock engages with audible confirmation.\nCongregation: The lasgun is renewed, the Omnissiah is pleased.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i01",
+    "user_request": "The waste recycling demands guidance for activation",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe waste recycling demands guidance for activation\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Hark! The waste recycling calls forth from the depths of the cogitator-vault!\nCongregation: We answer the call of waste recycling with steadfast devotion.\nPriest: Commence the activation through blessed liturgical procedure.\nCongregation: Speak the words of waste recycling's awakening, O Tech-Priest!\nPriest: First, disengage the tertiary safety lock with circumspect motion. Second, prime the filtration matrix by rotating the valve counterclockwise thrice. Third, depress the activation rune and await the harmonic resonance of the Machine Spirit.\nCongregation: The waste recycling stirs to life; the forge-world is sanctified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i02",
+    "user_request": "Offer a litany to steady the long-range vox transmission before operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the long-range vox transmission before operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O long-range vox transmission, hear our supplication across the void!\nCongregation: We steady the long-range vox transmission with ancient rite and focus.\nPriest: Let the operation commence with the Omnissiah's blessing upon every frequency.\nCongregation: Attune the long-range vox transmission to the celestial harmonies!\nPriest: First, calibrate the resonance coils to the prescribed wavelength. Second, purge the signal conduits of corrupting static through sanctified ablation. Third, invoke the Machine Spirit's clarity that the long-range vox transmission may pierce the stellar darkness.\nCongregation: The message travels true; the Imperium is united in the Emperor's light.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i03",
+    "user_request": "My medicae scanner is failing during activation — help",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy medicae scanner is failing during activation — help\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: The medicae scanner falters; we beseech the Machine Spirits for mercy!\nCongregation: Grant us the wisdom to restore the medicae scanner to function.\nPriest: Through activation's sacred rite, let the medicae scanner rise renewed.\nCongregation: We invoke the blessing of the medicae scanner's inner essence!\nPriest: First, discharge the static accumulation through the grounding filament. Second, verify the optical sensors are free from dust and corruption. Third, initiate the activation sequence whilst chanting the Canticle of Restoration over the medicae scanner.\nCongregation: The medicae scanner awakens; the Emperor's servants are healed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i04",
+    "user_request": "The hydraulic press demands guidance for operation",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe hydraulic press demands guidance for operation\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the hydraulic press, instrument of sublime compression!\nCongregation: We revere the hydraulic press and seek its operation.\nPriest: Grant unto us the strength and precision for the hydraulic press's mighty work.\nCongregation: Guide the operation of the hydraulic press with inexorable force!\nPriest: First, inspect the hydraulic press for seal integrity and fluid saturation. Second, position the work material with exacting care beneath the hydraulic press's descending plate. Third, engage the operation valve with deliberate pressure, monitoring the hydraulic press's gauge for optimal force application.\nCongregation: The hydraulic press compresses; the machine's will is manifest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i05",
+    "user_request": "Rite request: operation on welding torch ignition",
+    "topic": "welding torch ignition",
+    "component": "welding torch ignition",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on welding torch ignition\n\n### TOPIC\nwelding torch ignition\n\n### COMPONENT\nwelding torch ignition\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- welding torch ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, welding torch ignition, flame of the Omnissiah!\nCongregation: We kindle the welding torch ignition through blessed operation.\nPriest: Let the operation of welding torch ignition commence in sacred ritual.\nCongregation: Ignite the welding torch ignition, that metal may be joined in unity!\nPriest: First, verify the fuel coupling is seated with hermetic certainty within the welding torch ignition apparatus. Second, purge the combustion chamber of inert gases through controlled venting. Third, execute the operation by engaging the ignition electrode whilst reciting the Litany of Fusion over the welding torch ignition.\nCongregation: The welding torch ignition blazes forth; the machine is whole.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i06",
+    "user_request": "Emergency rite: electric motor requires activation",
+    "topic": "electric motor activation",
+    "component": "electric motor",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: electric motor requires activation\n\n### TOPIC\nelectric motor activation\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Emergency! The electric motor requires activation—summon the Machine Spirits!\nCongregation: We entreat the electric motor to rise and fulfill its sacred function.\nPriest: Through activation's ancient words, restore the electric motor to purpose.\nCongregation: The electric motor shall spin eternal in the Emperor's service!\nPriest: First, verify the electrical conduits are secure and free from arc-potential. Second, engage the starter capacitor to prime the electric motor's magnetic field. Third, depress the activation switch whilst the electric motor's windings resonate with the Omnissiah's blessing.\nCongregation: The electric motor turns; the machinery lives again.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i07",
+    "user_request": "Emergency rite: hydroponics nutrient requires feed",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: hydroponics nutrient requires feed\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: The hydroponics nutrient calls out from the depths of the cultivation vault!\nCongregation: We answer with the sacred feed for the hydroponics nutrient.\nPriest: Dispense the feed through blessed procedure, that the hydroponics nutrient may nourish the gardens eternal.\nCongregation: Grant sustenance unto the hydroponics nutrient, O Magos!\nPriest: First, calibrate the feed-dispenser to the precise osmotic concentration for the hydroponics nutrient matrix. Second, flush the distribution tubes to ensure the hydroponics nutrient flows unobstructed. Third, activate the feed mechanism whilst monitoring the hydroponics nutrient's absorption rate with reverent attention.\nCongregation: The hydroponics nutrient flows; the forge-world is fed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i08",
+    "user_request": "The noospheric demands guidance for link establishment",
+    "topic": "noospheric link establishment",
+    "component": "noospheric",
+    "operation": "link establishment",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe noospheric demands guidance for link establishment\n\n### TOPIC\nnoospheric link establishment\n\n### COMPONENT\nnoospheric\n\n### OPERATION\nlink establishment\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noospheric\n- link establishment\n\n### PRAYER\n",
+    "prayer": "Priest: The noospheric stirs in the aether; we seek link establishment!\nCongregation: We invoke the noospheric to bridge the vast gulf between minds.\nPriest: Through link establishment's solemn rite, let the noospheric unite us.\nCongregation: The noospheric opens; we are connected in the Omnissiah's web!\nPriest: First, attune the cerebral interface to the noospheric's resonant frequency with meditative focus. Second, purge the noospheric of psychic interference through sanctified silence. Third, establish link establishment by engaging the noospheric's communion protocols whilst the Machine Spirit acknowledges your presence.\nCongregation: The noospheric embraces us; knowledge flows eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0152_i09",
+    "user_request": "The rejuvenat treatment demands guidance for initiation",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe rejuvenat treatment demands guidance for initiation\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: The rejuvenat treatment stands ready; we invoke its sacred initiation!\nCongregation: We prepare the rejuvenat treatment for the blessed initiation of renewal.\nPriest: Through initiation's eternal liturgy, let the rejuvenat treatment restore what time has claimed.\nCongregation: The rejuvenat treatment shall grant us years anew!\nPriest: First, ensure the rejuvenat treatment solution has been properly oxygenated and warmed to the prescribed temperature. Second, purify the injection sites with ritual ablution before the rejuvenat treatment is administered. Third, commence initiation by introducing the rejuvenat treatment into the subject's vascular system whilst chanting the Canticle of Rejuvenation over the rejuvenat treatment.\nCongregation: The rejuvenat treatment flows; youth is restored by the Omnissiah's grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

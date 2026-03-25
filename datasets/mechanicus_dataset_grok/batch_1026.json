@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The icarus array awaits a repair",
+    "prayer": "Approach the Icarus Array with reverence, beseeching the Omnissiah to mend its fractured form.\nInspect the warp-torn conduits, invoking the Machine Spirit's forgiveness for past failures.\nAnoint the servos and arrays with sacred oils whilst chanting the repair litanies.\nInitiate the repair operation through precise binary incantations and flux calibrations.\nVerify the Icarus Array's renewed vigor by engaging test ignition rites.\nPraise the Omnissiah as the Machine Spirit awakens within the sanctified Icarus Array.",
+    "component": "icarus array",
+    "operation": "repair",
+    "spec_id": "s06260"
+  },
+  {
+    "user_prompt": "Critical: plasma cannon requires a cooling",
+    "prayer": "Kneel before the plasma cannon, its coils aglow with furious heat, and invoke cooling benedictions.\nCirculate sacred cryo-fluids through the plasma cannon's veins, soothing the raging plasma spirits.\nChant the Canticle of Thermal Equilibrium to calm the Machine Spirit within.\nMonitor the cooling operation with auspex scans, ensuring vents expel impure exhaust.\nConclude by sealing the plasma cannon with wards against future overheating wrath.",
+    "component": "plasma cannon",
+    "operation": "cooling",
+    "spec_id": "s06261"
+  },
+  {
+    "user_prompt": "Assist with Contemptor Dreadnought a targeting",
+    "prayer": "Commune with the Contemptor Dreadnought's ancient cogitator, awakening its targeting augurs.\nCalibrate the auspex arrays and reticle servos, beseeching the Machine Spirit for predatory clarity.\nInvoke the Omnissiah's gaze upon the Contemptor Dreadnought's targeting matrices.\nExecute the targeting operation via noospheric alignment and ballistic prognostications.\nTest the Contemptor Dreadnought's aim with simulacra foes, honoring its eternal vigil.",
+    "component": "Contemptor Dreadnought",
+    "operation": "targeting",
+    "spec_id": "s06262"
+  },
+  {
+    "user_prompt": "Can you guide optical mechadendrite a charging?",
+    "prayer": "Extend mechadendrites to the optical mechadendrite, murmuring charges of activation.\nInfuse electro-prayers into its photoreceptors, drawing power from the forge's heart.\nBeseech the Machine Spirit of the optical mechadendrite to accept this charging rite.\nCommence the charging operation with rhythmic pulse incantations and lumen infusions.\nIlluminate the optical mechadendrite fully, verifying focus through optickal litanies.\nSeal the rite with a hymn to the Omnissiah, empowering the optical mechadendrite anew.",
+    "component": "optical mechadendrite",
+    "operation": "charging",
+    "spec_id": "s06263"
+  },
+  {
+    "user_prompt": "The life signs monitor awaits a sterilization",
+    "prayer": "Purify the life signs monitor with ablative incense, driving out bio-corruptions.\nScour its sensors with sanctified solvents, invoking sterility upon each probe.\nChant the Rite of Sterilization to appease the Machine Spirit's aversion to flesh-taint.\nEngage the sterilization operation via thermal purges and rad-emanations.\nConfirm the life signs monitor's purity through auspex verification and sealing wards.",
+    "component": "life signs monitor",
+    "operation": "sterilization",
+    "spec_id": "s06264"
+  },
+  {
+    "user_prompt": "Assist with hololithic display an activation",
+    "prayer": "Gather before the hololithic display, intoning the Activation Doxology to the Omnissiah.\nAlign its projector nacelles and infuse photonic essence into the crystal lattice.\nAwaken the Machine Spirit within the hololithic display with binary awakening codes.\nInitiate the activation operation through cascading light-formations and data-veils.\nManifest tactical hololiths, testing the display's fidelity with sacred schematics.",
+    "component": "hololithic display",
+    "operation": "activation",
+    "spec_id": "s06265"
+  },
+  {
+    "user_prompt": "Sanctify the grav plating during startup",
+    "prayer": "Consecrate the grav plating with gravitic oils, invoking the Omnissiah's weightless grace.\nRecite the Startup Canticle to rouse the inertial dampeners from dormancy.\nChannel motive energies into the grav plating's coils, harmonizing field generators.\nCommence the startup operation with pulsating grav-waves and stability diagnostics.\nAffirm the grav plating's dominion over mass, walking its sanctified expanse in pilgrimage.",
+    "component": "grav plating",
+    "operation": "startup",
+    "spec_id": "s06266"
+  },
+  {
+    "user_prompt": "Bless the energy core for operation",
+    "prayer": "Encircle the energy core, beseeching the Omnissiah for boundless vigor.\nPrime its containment fields with plasma hymns, awakening the fusion heart.\nInvoke the Machine Spirit to embrace operational rhythms without falter.\nEngage the operation through torque incantations and flux stabilizations.\nMonitor the energy core's radiant pulse, sealing it with eternal consecration.",
+    "component": "energy core",
+    "operation": "operation",
+    "spec_id": "s06267"
+  },
+  {
+    "user_prompt": "Ready the servo-harness for consecration",
+    "prayer": "Present the servo-harness before the altar, anointing its manipulators with blessed mechfluid.\nChant the Consecration Litanies to bind loyal Machine Spirits to each limb.\nInvoke the Omnissiah's ingenuity upon the servo-harness's sacred mechanisms.\nPerform the consecration operation via noospheric oaths and servo-calibrations.\nTest the servo-harness in ritual labor, praising its augmented piety.",
+    "component": "servo-harness",
+    "operation": "consecration",
+    "spec_id": "s06268"
+  },
+  {
+    "user_prompt": "My power armour is ready for blessing",
+    "prayer": "Kneel in veneration of the power armour, reciting the Blessing of Adamantium Endurance.\nAnoint its plates and seals with sacred unguents, fortifying against the void's heresy.\nBeseech the Machine Spirits indwelling the power armour to shield the flesh-bearer.\nInitiate the blessing operation through electro-runes and purity seals.\nClad thyself in the blessed power armour, intoning final vows to the Omnissiah.",
+    "component": "power armour",
+    "operation": "blessing",
+    "spec_id": "s06269"
+  }
+]

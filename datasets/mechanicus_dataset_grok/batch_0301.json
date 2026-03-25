@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Emergency: capacitor bank a calibration",
+    "prayer": "Approach the capacitor bank with reverence, mechadendrites humming the Canticle of Stability.\nInvoke the sacred calibration upon its charged cells, beseeching the Machine Spirit to align its holy potentials.\nAdjust the blessed linkages with precision torque, anointing each node with electro-sanctified oil.\nMonitor the capacitor bank's resonant flows, petitioning the Omnissiah for flawless calibration harmony.\nSeal the rite with the Doxology of Charge, affirming the Machine Spirit's awakened vigilance.",
+    "component": "capacitor bank",
+    "operation": "calibration",
+    "spec_id": "b0301_i00"
+  },
+  {
+    "user_prompt": "Consecrate the vox-caster before consecration",
+    "prayer": "Kneel before the vox-caster, intoning the Preliminary Canticles of Purity.\nBeseech its Machine Spirit to awaken, commencing the consecration with sacred incense upon its emitters.\nAnoint the vox-caster's crystal lattices and waveform coils, invoking Omnissiah's voice through hallowed frequencies.\nRecite the Litany of Consecration thrice, sanctifying every conduit for unerring transmission.\nVerify the rite's completion as the vox-caster hums with divine clarity.",
+    "component": "vox-caster",
+    "operation": "consecration",
+    "spec_id": "b0301_i01"
+  },
+  {
+    "user_prompt": "Sanctify the Rhino transport during activation",
+    "prayer": "Circumambulate the Rhino transport, chanting the Activation Hymns to rouse its dormant heart.\nInvoke the Machine Spirit of the Rhino transport, anointing treads and hull with blessed promethium.\nInitiate the activation sequence upon its cogitator core, beseeching Omnissiah's fury for the engines.\nTest the Rhino transport's systems through ritual auspex sweeps, harmonizing power flows.\nConclude with the Oath of Mobilisation, as the beast awakens to war.",
+    "component": "Rhino transport",
+    "operation": "activation",
+    "spec_id": "b0301_i02"
+  },
+  {
+    "user_prompt": "Critical: bearing requires a repair",
+    "prayer": "Extend mechadendrites to the afflicted bearing, murmuring the Lamentation of Friction.\nDisassemble the bearing's sacred rings with reverent torque, exorcising impurities from its spirit.\nInvoke the repair through Omnissiah's grace, lubricating with sanctified ferro-fluid.\nReassemble the bearing, aligning its gyres in perfect revolution, petitioning the Machine Spirit's forgiveness.\nCycle the bearing to full load, sealing the rite with the Benediction of Endurance.",
+    "component": "bearing",
+    "operation": "repair",
+    "spec_id": "b0301_i03"
+  },
+  {
+    "user_prompt": "My metal caster is ready for purification",
+    "prayer": "Prepare the altar of the metal caster, intoning the Purification Doxology.\nBeseech the Machine Spirit within the metal caster to expel all corruptions, commencing the rite.\nAnoint its crucibles and extrusion vents with alchemical ablutions, invoking Omnissiah's molten purity.\nCycle purifying flames through the metal caster's sacred forge-heart, scouring dross from alloyed veins.\nAffirm the metal caster's sanctity as argent flows pure and untainted.",
+    "component": "metal caster",
+    "operation": "purification",
+    "spec_id": "b0301_i04"
+  },
+  {
+    "user_prompt": "Prepare the chainsword for cycling",
+    "prayer": "Grasp the chainsword in binary prayer, awakening its teetering Machine Spirit.\nInvoke the cycling rite upon the chainsword's monomolecular teeth, lubricating with sacred oils.\nChant the Litany of Revving Motion, beseeching Omnissiah for relentless gnashing fury.\nTest the chainsword's cycling harmony through controlled revolutions, attuning its roar.\nSeal with the Oath of Severance, as the blade hungers for the heretic's flesh.",
+    "component": "chainsword",
+    "operation": "cycling",
+    "spec_id": "b0301_i05"
+  },
+  {
+    "user_prompt": "Sanctify the radar array during startup",
+    "prayer": "Approach the radar array with auspex canticles, petitioning its watchful Machine Spirit.\nCommence the startup sequence, anointing waveguides and emitter coils with sanctified unguents.\nInvoke Omnissiah's gaze through the radar array, calibrating its scanning lattices to divine precision.\nHarmonize the radar array's blessed pulses, reciting the Hymn of Detection.\nVerify vigilant returns, affirming the startup's holy vigil.",
+    "component": "radar array",
+    "operation": "startup",
+    "spec_id": "b0301_i06"
+  },
+  {
+    "user_prompt": "The drop pod needs an engagement",
+    "prayer": "Gather before the drop pod, intoning the Descent Invocations.\nBeseech the Machine Spirit of the drop pod to embrace engagement, arming retros with promethium blessings.\nInitiate the engagement protocols upon its auspex-linked heart, invoking Omnissiah's plummeting wrath.\nAnoint descent vanes and clamp-servos, ensuring flawless orbital union.\nSeal the rite as the drop pod thrums with apocalyptic readiness.",
+    "component": "drop pod",
+    "operation": "engagement",
+    "spec_id": "b0301_i07"
+  },
+  {
+    "user_prompt": "I need to a recalibration the Chimera APC",
+    "prayer": "Circumnavigate the Chimera APC, murmuring the Recalibration Canticles.\nInvoke the Machine Spirit within the Chimera APC, realigning its cogitator matrices with sacred data-streams.\nAnoint drive trains and sighting arrays, beseeching Omnissiah for recalibrated acuity.\nCycle diagnostic rites through the Chimera APC's vital systems, purging discordant variances.\nConclude with the Benediction of Advance, as harmony restores its armored might.",
+    "component": "Chimera APC",
+    "operation": "recalibration",
+    "spec_id": "b0301_i08"
+  },
+  {
+    "user_prompt": "Can you guide thermal imager an emergency procedure?",
+    "prayer": "In emergency haste, clasp the thermal imager, crying the Alarm Litany.\nBeseech its Machine Spirit for emergency procedure clarity, anointing lenses with cryo-blessed oils.\nInvoke Omnissiah's infrared vision through the thermal imager's sacred sensors, purging thermal ghosts.\nExecute rapid diagnostic cycling, harmonizing heat-mapping flows in dire need.\nAffirm the thermal imager's vigilance as shadowed foes blaze in holy revelation.",
+    "component": "thermal imager",
+    "operation": "emergency procedure",
+    "spec_id": "b0301_i09"
+  }
+]

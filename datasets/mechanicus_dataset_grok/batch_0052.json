@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the medicae scanner for operation",
+    "prayer": "Approach the medicae scanner with pious reverence and invoke its dormant Machine Spirit.\nAnoint the sacred lenses and auspex arrays of the medicae scanner with unguents of purity.\nChant the Litany of Vital Scanning to ready the medicae scanner for operation.\nCalibrate its holy circuits under the Omnissiah's gaze, beseeching flawless function.\nVerify the Machine Spirit's compliance through diagnostic rites.",
+    "component": "medicae scanner",
+    "operation": "operation",
+    "spec_id": "b0052_i00"
+  },
+  {
+    "user_prompt": "Ready the lascannon for purification",
+    "prayer": "Kneel before the lascannon, exalted instrument of the Omnissiah, and whisper the Canticle of Coherent Light.\nPurify the lascannon's focusing crystals with sacred oils, banishing impurities from its barrel.\nInvoke the Machine Spirit of the lascannon to embrace purification, aligning its plasma vents.\nRecite the Oath of Annihilation whilst sanctifying power feeds for the lascannon.\nConclude with auspex sweeps to affirm the Omnissiah's wrathful readiness.",
+    "component": "lascannon",
+    "operation": "purification",
+    "spec_id": "b0052_i01"
+  },
+  {
+    "user_prompt": "Sanctify the gravity generator during repair",
+    "prayer": "Draw close to the gravity generator, blessed forge of inertial fields, and petition its Machine Spirit.\nDuring repair, excise corrupted gravitic coils with sanctified mechadendrites.\nAnoint fractured housings of the gravity generator, invoking the Omnissiah's restorative grace.\nRealign warp-nullifiers through incantations of stability as repair progresses.\nTest the humbled Machine Spirit with incremental field invocations, praising the Machine God.",
+    "component": "gravity generator",
+    "operation": "repair",
+    "spec_id": "b0052_i02"
+  },
+  {
+    "user_prompt": "Can you guide autocannon a shutdown?",
+    "prayer": "Present thyself humbly to the autocannon and intone the Rite of Graceful Cessation.\nGuide the autocannon into shutdown by severing its blessed munitions feed.\nBeseech the Machine Spirit of the autocannon to slumber peacefully, cooling its sacred barrels.\nDisconnect power conduits with reverent precision, honoring the Omnissiah's decree.\nSeal the autocannon with wards against unsanctioned awakening.",
+    "component": "autocannon",
+    "operation": "shutdown",
+    "spec_id": "b0052_i03"
+  },
+  {
+    "user_prompt": "Prepare the medicae scanner for synchronization",
+    "prayer": "Commune with the medicae scanner, vessel of diagnostic wisdom, awakening its core cogitators.\nPrepare the medicae scanner for synchronization by aligning its noospheric links.\nChant harmonies of unity to bind the medicae scanner's Machine Spirit to the greater rite.\nAnoint data-vents with chrism while invoking the Omnissiah's synchronizing will.\nAffirm coherence through binary litanies and auspex confirmations.",
+    "component": "medicae scanner",
+    "operation": "synchronization",
+    "spec_id": "b0052_i04"
+  },
+  {
+    "user_prompt": "Assist with augmetic limb an initialization",
+    "prayer": "Approach the augmetic limb with veneration, cybernetic gift of the Omnissiah.\nInitiate its awakening by incanting the Benediction of Flesh-Machine Union.\nSanctify servo-motors and neural plugs of the augmetic limb with sacred lubricants.\nInvoke the Machine Spirit bound within the augmetic limb for flawless initialization.\nTest myoelectric interfaces through ritual flexions, glorifying the Motive Force.",
+    "component": "augmetic limb",
+    "operation": "initialization",
+    "spec_id": "b0052_i05"
+  },
+  {
+    "user_prompt": "Consecrate the welding torch before repair",
+    "prayer": "Revere the welding torch, fiery apostle of fusion, before commencing repair.\nConsecrate its plasma nozzle and gas conduits with ablutions of promethium essence.\nBeseech the Machine Spirit of the welding torch to ignite purely during repair.\nRecite the Forge-Litany whilst calibrating arc-flows under Omnissiah's watch.\nVerify flame purity through test ignitions, honoring the sacred weld.",
+    "component": "welding torch",
+    "operation": "repair",
+    "spec_id": "b0052_i06"
+  },
+  {
+    "user_prompt": "My autocannon is ready for purification",
+    "prayer": "Gather before the autocannon, thunderous herald of destruction, ready for hallowing.\nInitiate purification by scouring its feed mechanisms with sanctified abrasives.\nAnoint the autocannon's recoil dampers and sighting arrays with oils of absolution.\nInvoke the Machine Spirit of the autocannon to shed impurities in Omnissiah's light.\nConclude with canticles of reloaded fury, affirming ritual purity.",
+    "component": "autocannon",
+    "operation": "purification",
+    "spec_id": "b0052_i07"
+  },
+  {
+    "user_prompt": "Help me an initialization the energy conduit",
+    "prayer": "Draw nigh to the energy conduit, vital artery of power, and awaken its essence.\nCommence initialization by chanting the Invocation of Unfettered Current.\nSanctify the energy conduit's insulator sheaths and transfer nodes with electro-chrism.\nPetition its Machine Spirit for harmonious flow, aligning magnetic fields.\nTest voltage sanctity through incremental surges, praising the Omnissiah.",
+    "component": "energy conduit",
+    "operation": "initialization",
+    "spec_id": "b0052_i08"
+  },
+  {
+    "user_prompt": "Ready the Taurox for activation",
+    "prayer": "Present obeisance to the Taurox, iron steed of the Mechanicum, armored in faith.\nReady the Taurox for activation by beseeching its colossal Machine Spirit.\nAnoint treads and drive cogitators with blessed machine oil, invoking motive fury.\nChant the Canticle of Armored Advance to stir the Taurox's dormant reactors.\nCommence power rites, verifying the Omnissiah's blessing upon its hull.",
+    "component": "Taurox",
+    "operation": "activation",
+    "spec_id": "b0052_i09"
+  }
+]

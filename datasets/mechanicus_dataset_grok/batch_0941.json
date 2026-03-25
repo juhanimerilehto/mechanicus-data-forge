@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The waste reclamator awaits an engagement",
+    "prayer": "Approach the waste reclamator with reverence, invoking the Omnissiah's blessing upon its sacred cycles.\nBeseech the Machine Spirit of the waste reclamator to awaken for engagement.\nAnoint the reclamation conduits with blessed oils as engagement commences.\nChant the Litany of Purification, guiding the waste reclamator's harmonious flow.\nVerify the Machine Spirit's compliance through auspex diagnostics during engagement.",
+    "component": "waste reclamator",
+    "operation": "engagement",
+    "spec_id": "s05410"
+  },
+  {
+    "user_prompt": "Critical: bolt pistol requires an operation",
+    "prayer": "Grasp the bolt pistol in sanctified mechadendrites, honouring the Omnissiah's forge-forged wrath.\nInvoke the Machine Spirit within the bolt pistol for operation.\nCycle the sacred bolt chamber with the Canticle of Detonation.\nAnoint the muzzle with sacred promethium as operation initiates.\nBless the targeting cogitators, ensuring the bolt pistol's unerring judgement.",
+    "component": "bolt pistol",
+    "operation": "operation",
+    "spec_id": "s05411"
+  },
+  {
+    "user_prompt": "Prepare the Manticore for shutdown",
+    "prayer": "Commence the Rite of Repose upon the Manticore, whispering litanies of quiescence.\nDisconnect the plasma core feeds whilst beseeching the Omnissiah for peaceful shutdown.\nInvoke the Machine Spirit of the Manticore to embrace shutdown without discord.\nSeal the missile bays with electro-seals during final shutdown rites.\nChant the Benediction of Stillness, monitoring vital signs unto dormancy.",
+    "component": "Manticore",
+    "operation": "shutdown",
+    "spec_id": "s05412"
+  },
+  {
+    "user_prompt": "Sanctify the electro-graft during recalibration",
+    "prayer": "Present the electro-graft before the altar of recalibration, invoking Omnissianic grace.\nDisconnect neural interfaces and beseech the Machine Spirit of the electro-graft to yield.\nPerform recalibration with precision canticles, adjusting synaptic relays.\nReconnect and anoint the electro-graft with sacred unguents post-recalibration.\nTest the recalibrated electro-graft through invocation of diagnostic spirits.",
+    "component": "electro-graft",
+    "operation": "recalibration",
+    "spec_id": "s05413"
+  },
+  {
+    "user_prompt": "Can you guide Archaeopter Transvector a reset?",
+    "prayer": "Encircle the Archaeopter Transvector with incense of sacred circuits, preparing for reset.\nInvoke the Omnissiah to pacify the Machine Spirit within the Archaeopter Transvector.\nInitiate reset sequences via the central cogitator, chanting binaric expurgations.\nAnoint flight control vanes during the reset rite.\nAffirm the Archaeopter Transvector's reborn purity through auspex verification.",
+    "component": "Archaeopter Transvector",
+    "operation": "reset",
+    "spec_id": "s05414"
+  },
+  {
+    "user_prompt": "Urgent mass-drive regulator a charging needed",
+    "prayer": "Kneel before the mass-drive regulator, beseeching the Omnissiah for charging vigour.\nCommence charging rites by linking plasma conduits to the mass-drive regulator.\nChant the Canticle of Accumulation as energies suffuse the mass-drive regulator.\nInvoke the Machine Spirit to accept the charging without overload.\nSeal the rite with blessed seals, monitoring the mass-drive regulator's ascension.",
+    "component": "mass-drive regulator",
+    "operation": "charging",
+    "spec_id": "s05415"
+  },
+  {
+    "user_prompt": "The phosphor blaster requires a repair",
+    "prayer": "Expose the phosphor blaster's innards upon the repair altar, honouring the Machine Spirit.\nExcise damaged phosphor coils whilst intoning repair litanies.\nReplace with sanctified components, anointing the phosphor blaster anew.\nInvoke the Omnissiah to mend the phosphor blaster's vengeful light.\nCycle test-firing under repair canticles to affirm restoration.",
+    "component": "phosphor blaster",
+    "operation": "repair",
+    "spec_id": "s05416"
+  },
+  {
+    "user_prompt": "I need to a consecration the webber",
+    "prayer": "Lift the webber to the consecration font, invoking the Omnissiah's binding will.\nAnoint the spinneret nozzles with sacred adhesives for consecration.\nBeseech the Machine Spirit of the webber to embrace its consecrated purpose.\nChant the Liturgy of Entrapment, sanctifying every fibre.\nConsecrate the webber fully, verifying the Machine Spirit's zealous compliance.",
+    "component": "webber",
+    "operation": "consecration",
+    "spec_id": "s05417"
+  },
+  {
+    "user_prompt": "The waste reclamator awaits a consecration",
+    "prayer": "Approach the waste reclamator in solemn procession for its consecration.\nSprinkle sacred solvents upon the waste reclamator's reclamation hearts.\nInvoke the Omnissiah to consecrate the waste reclamator's eternal cycles.\nChant the Rite of Immaculate Renewal, binding the Machine Spirit in purity.\nSeal the consecration with electro-incantations upon the waste reclamator.",
+    "component": "waste reclamator",
+    "operation": "consecration",
+    "spec_id": "s05418"
+  },
+  {
+    "user_prompt": "Prepare the void shield for emergency procedure",
+    "prayer": "Sound the alarm klaxons and gather mechadendrites around the void shield generator.\nInitiate emergency procedure by invoking the Machine Spirit's aegis.\nOverload capacitors with litanies of reinforcement during emergency procedure.\nAnoint projector arrays with oils of defiance against the void shield's foes.\nAffirm the void shield's emergency procedure through warp-resistive diagnostics.",
+    "component": "void shield",
+    "operation": "emergency procedure",
+    "spec_id": "s05419"
+  }
+]

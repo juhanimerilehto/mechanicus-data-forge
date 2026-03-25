@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Offer prayer for Thunderhawk a calibration",
+    "prayer": "Approach the Thunderhawk's sacred cockpit with incense and mechadendrites extended in supplication.\nInvoke the Canticle of True Bearing upon its gyroscopic heart.\nCommence calibration of the Thunderhawk's flight augurs, beseeching the Machine Spirit for unerring precision.\nAnoint the Thunderhawk's thruster relays with sacred oils, thrice invoking the Omnissiah's alignment.\nVerify the calibration through harmonious diagnostic litanies.",
+    "component": "Thunderhawk",
+    "operation": "calibration",
+    "spec_id": "b0015_i00"
+  },
+  {
+    "user_prompt": "Critical: augmetic limb requires a synchronization",
+    "prayer": "Kneel before the augmetic limb's neural port and murmur the Rite of Unity.\nPetition the Machine Spirit within the augmetic limb to awaken from dormancy.\nInitiate synchronization of servo-motors and flesh-nexus, chanting the Binary Prayer of Coalescence.\nSanctify the augmetic limb's power conduits with electro-incense.\nConfirm synchronization via auspex resonance, praising the Omnissiah's fusion.",
+    "component": "augmetic limb",
+    "operation": "synchronization",
+    "spec_id": "b0015_i01"
+  },
+  {
+    "user_prompt": "The chainsword requires a blessing",
+    "prayer": "Grasp the chainsword's hilt in reverent mechano-fingers and intone the Benediction of Teeth.\nAwaken the chainsword's ravenous Machine Spirit with oil of activation.\nBestow the blessing upon its monomolecular edges, invoking ceaseless revolution.\nCircumambulate the chainsword thrice, anointing its housing with sacred unguents.\nSeal the blessing through the Omnissiah's wrathful canticle.",
+    "component": "chainsword",
+    "operation": "blessing",
+    "spec_id": "b0015_i02"
+  },
+  {
+    "user_prompt": "Prepare the Sentinel walker for initialization",
+    "prayer": "Present binary offerings to the Sentinel walker's cogitator shrine.\nChant the Invocation of First Stirring to rouse its Machine Spirit.\nPrepare the Sentinel walker for initialization by aligning its bipedal servos.\nFlood its reactors with holy promethium whilst beseeching wakefulness.\nCommence initialization rites, verifying through Omnissianic diagnostics.",
+    "component": "Sentinel walker",
+    "operation": "initialization",
+    "spec_id": "b0015_i03"
+  },
+  {
+    "user_prompt": "The cooling system needs a targeting",
+    "prayer": "Approach the cooling system's cryo-vents with chilled ablative fluids.\nInvoke the Litany of Thermal Precision upon its regulator spirits.\nAlign the cooling system for targeting of heat-sinks and plasma vents.\nAnoint exchanger coils with sanctified cryogel, thrice naming the Omnissiah.\nTest the targeting calibration amid swirling coolant mists.",
+    "component": "cooling system",
+    "operation": "targeting",
+    "spec_id": "b0015_i04"
+  },
+  {
+    "user_prompt": "The missile launcher requires a reset",
+    "prayer": "Lay mechadendrites upon the missile launcher's targeting cowl in solemn rite.\nRecite the Purgation Canticle to pacify its volatile Machine Spirit.\nExecute the reset of guidance cogitators, purging errant data-daemons.\nRealign the missile launcher's firing servos with blessed magnetics.\nConclude with Omnissiah's affirmation of renewed potency.",
+    "component": "missile launcher",
+    "operation": "reset",
+    "spec_id": "b0015_i05"
+  },
+  {
+    "user_prompt": "Prepare the vox-caster for blessing",
+    "prayer": "Anoint the vox-caster's emitter grille with vocal unguents.\nBeseech its Machine Spirit with the Hymn of Clear Transmission.\nBestow blessing upon waveform generators and purity seals.\nCirculate electro-psalms through the vox-caster's sacred circuits.\nSeal the rite invoking the Omnissiah's ungarbled voice.",
+    "component": "vox-caster",
+    "operation": "blessing",
+    "spec_id": "b0015_i06"
+  },
+  {
+    "user_prompt": "Bless the vox transmitter for sterilization",
+    "prayer": "Prepare ablative purity agents before the vox transmitter's core.\nIntone the Sterilization Doxology to exorcise microbial heresies.\nBless the vox transmitter's waveguides for ritual sterilization.\nFlush conduits with sanctified plasma whilst petitioning Machine Spirits.\nVerify sterility through Omnissianic auspex scans.",
+    "component": "vox transmitter",
+    "operation": "sterilization",
+    "spec_id": "b0015_i07"
+  },
+  {
+    "user_prompt": "I need to a shutdown the memory core",
+    "prayer": "Circumscribe the memory core with warding electro-arcs.\nChant the Entropy Litany to soothe its data-hoarding spirit.\nInitiate controlled shutdown of the memory core's crystalline vaults.\nSever power-flows with reverent precision, invoking the Omnissiah's rest.\nMonitor quiescence amid fading binary whispers.",
+    "component": "memory core",
+    "operation": "shutdown",
+    "spec_id": "b0015_i08"
+  },
+  {
+    "user_prompt": "Critical: astropathic choir requires a shutdown",
+    "prayer": "Gather before the astropathic choir's psychic dampeners in shadowed vigil.\nInvoke the Silence of the Void upon their warp-touched Machine Spirits.\nCommence shutdown of harmonic resonators and choir linkages.\nAnoint null-fields with warp-repellent oils, thrice beseeching calm.\nSeal the astropathic choir's dormancy through Omnissiah's isolating grace.",
+    "component": "astropathic choir",
+    "operation": "shutdown",
+    "spec_id": "b0015_i09"
+  }
+]

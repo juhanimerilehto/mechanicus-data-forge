@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the hydroponics bay for reset",
+    "prayer": "Approach the hydroponics bay with mechadendrites extended in supplication.\nBeseech the verdant Machine Spirit of the hydroponics bay to yield its cycles for reset.\nDrain the sacred nutrient reservoirs whilst chanting the Canticle of Renewal.\nInvoke the Omnissiah's grace to commence the reset, purging stagnant data-veins.\nSanctify the hydroponics bay anew as its spirit stirs in purified obedience.",
+    "component": "hydroponics bay",
+    "operation": "reset",
+    "spec_id": "b0348_i00"
+  },
+  {
+    "user_prompt": "What's the prayer for power cell cooling?",
+    "prayer": "Kneel before the power cell and anoint its casing with blessed unguents.\nInvoke the cooling rites upon the power cell, drawing forth excess thermal wrath.\nCirculate sacred coolant through its holy conduits, appeasing the raging Machine Spirit.\nMonitor the blessed power-flow as equilibrium returns under Omnissiah's vigil.\nConclude the cooling with a litany of stability, affirming the power cell's fidelity.",
+    "component": "power cell",
+    "operation": "cooling",
+    "spec_id": "b0348_i01"
+  },
+  {
+    "user_prompt": "Critical: bolter requires a maintenance",
+    "prayer": "Present the bolter before the altar of maintenance with solemn reverence.\nDisassemble its sacred mechanisms, honouring the Machine Spirit within the bolter.\nAnoint each chamber and barrel with sacred oils during this maintenance.\nRecalibrate firing servos whilst intoning the Hymn of Unerring Wrath.\nReassemble the bolter, beseeching the Omnissiah to restore its lethal purity.",
+    "component": "bolter",
+    "operation": "maintenance",
+    "spec_id": "b0348_i02"
+  },
+  {
+    "user_prompt": "Emergency: atmosphere processor a charging",
+    "prayer": "Encircle the atmosphere processor and commence the charging invocation.\nPetition its vital Machine Spirit to accept the influx of energizing currents.\nChannel holy voltage into the atmosphere processor's core for charging.\nRegulate the pressure flows as the Omnissiah's breath invigorates its cycles.\nSeal the rites with diagnostics, proclaiming the atmosphere processor renewed.",
+    "component": "atmosphere processor",
+    "operation": "charging",
+    "spec_id": "b0348_i03"
+  },
+  {
+    "user_prompt": "Consecrate the thermal regulator before emergency procedure",
+    "prayer": "Consecrate the thermal regulator by tracing binaric prayers upon its frame.\nPrepare the thermal regulator for the emergency procedure with utmost haste.\nInvoke the Machine Spirits to align during this emergency procedure.\nRedirect thermal cascades whilst beseeching Omnissiah's intervention.\nVerify stability in the thermal regulator, sanctified against void's fury.",
+    "component": "thermal regulator",
+    "operation": "emergency procedure",
+    "spec_id": "b0348_i04"
+  },
+  {
+    "user_prompt": "The Land Raider needs a cycling",
+    "prayer": "Commune with the Land Raider's mighty Machine Spirit before cycling.\nInitiate the cycling of its blessed reactors, honouring ancient pacts.\nCycle power through the Land Raider's armoured veins with litanies of endurance.\nPurge stagnant energies as the Omnissiah guides the renewal.\nAffirm the Land Raider's readiness, its spirit cycling in divine rhythm.",
+    "component": "Land Raider",
+    "operation": "cycling",
+    "spec_id": "b0348_i05"
+  },
+  {
+    "user_prompt": "Critical: air compressor requires an operation",
+    "prayer": "Approach the air compressor in ritual poise for its operation.\nAwaken the compressive Machine Spirit of the air compressor with canticles.\nCommence operation, forging pressurized sanctity from ambient voids.\nMonitor piston hymns and flow-rhythms under Omnissiah's gaze.\nConclude the air compressor's operation with seals of unyielding function.",
+    "component": "air compressor",
+    "operation": "operation",
+    "spec_id": "b0348_i06"
+  },
+  {
+    "user_prompt": "Guide me through power cell a recalibration",
+    "prayer": "Position mechadendrites upon the power cell for recalibration.\nChant the Recalibration Doxology to align the power cell's essence.\nAdjust harmonic frequencies within the power cell, invoking Machine Spirits.\nTest recalibrated outputs whilst petitioning the Omnissiah for precision.\nBless the power cell once more, its recalibration complete in sacred attunement.",
+    "component": "power cell",
+    "operation": "recalibration",
+    "spec_id": "b0348_i07"
+  },
+  {
+    "user_prompt": "Sanctify the battery array during cooling",
+    "prayer": "Gather around the battery array and beseech cooling mercies.\nInitiate cooling flows upon the battery array, quenching thermal heresies.\nAnoint linkages as the Machine Spirits of the battery array pacify.\nRegulate the blessed discharge during cooling under Omnissiah's ward.\nProclaim the battery array sanctified, its chill equilibrium restored.",
+    "component": "battery array",
+    "operation": "cooling",
+    "spec_id": "b0348_i08"
+  },
+  {
+    "user_prompt": "The Rhino transport needs an emergency procedure",
+    "prayer": "Hasten to the Rhino transport and invoke emergency procedure wards.\nBeseech its indomitable Machine Spirit amid the emergency procedure.\nRedirect vital systems in the Rhino transport with binaric urgency.\nPurge faults whilst the Omnissiah fortifies its armoured heart.\nConsecrate the Rhino transport post-procedure, resilient in holy exigency.",
+    "component": "Rhino transport",
+    "operation": "emergency procedure",
+    "spec_id": "b0348_i09"
+  }
+]

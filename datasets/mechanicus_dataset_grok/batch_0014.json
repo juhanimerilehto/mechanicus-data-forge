@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a targeting the power cell",
+    "prayer": "Approach the power cell with reverence, mechadendrites humming the Hymn of Alignment.\nInvoke the Machine Spirit within the power cell to awaken its targeting conduits.\nAnoint the sacred electrodes with blessed unguent whilst calibrating for precise targeting.\nBeseech the Omnissiah to synchronize the power cell's holy voltage to the targeting arrays.\nVerify the power cell's compliance through auspex incantations of focus.",
+    "component": "power cell",
+    "operation": "targeting",
+    "spec_id": "b0014_i00"
+  },
+  {
+    "user_prompt": "The servitor awaits a shutdown",
+    "prayer": "Kneel before the servitor, intoning the Litany of Cessation.\nPetition the servitor's Machine Spirit to embrace peaceful shutdown.\nSever the neural cabling with sanctified shears, easing the servitor into shutdown repose.\nChant the Doxology of Dormancy over the servitor's cooling frame.\nConfirm the servitor's shutdown through binary psalm diagnostics.",
+    "component": "servitor",
+    "operation": "shutdown",
+    "spec_id": "b0014_i01"
+  },
+  {
+    "user_prompt": "My air filtration is ready for diagnostics",
+    "prayer": "Circumambulate the air filtration unit, reciting the Canticle of Purity.\nInitiate diagnostics upon the air filtration's sacred membranes and filters.\nProbe the air filtration's blessed cyclers with noospheric probes for impurity.\nInvoke the Omnissiah to reveal flaws in the air filtration during diagnostics.\nSanctify the air filtration with incense of circuit-lustral upon diagnostic completion.",
+    "component": "air filtration",
+    "operation": "diagnostics",
+    "spec_id": "b0014_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for Rhino transport startup?",
+    "prayer": "Process to the Rhino transport's fore-altar, voicing the Invocation of Motive Force.\nEngage the Rhino transport's plasma heart for startup awakening.\nAnoint the treads and gun-servos of the Rhino transport with sacred oils.\nBeseech the Machine Spirits of the Rhino transport to rouse for battle startup.\nCommence the startup roar with the full Choir of Ignition.",
+    "component": "Rhino transport",
+    "operation": "startup",
+    "spec_id": "b0014_i03"
+  },
+  {
+    "user_prompt": "Can you guide fusion core a synchronization?",
+    "prayer": "Extend mechadendrites to the fusion core, chanting the Harmony of Flux.\nCommence synchronization of the fusion core's plasma rhythms.\nHarmonize the fusion core's magnetic bottles in Omnissianic synchronization.\nMonitor the fusion core through etheric canticles for perfect synchronization.\nSeal the fusion core's sanctity with the Sigil of Coalescence.",
+    "component": "fusion core",
+    "operation": "synchronization",
+    "spec_id": "b0014_i04"
+  },
+  {
+    "user_prompt": "How do I bless the vox transmitter for loading?",
+    "prayer": "Approach the vox transmitter, intoning the Psalm of Propagation.\nBless the vox transmitter's crystal lattice for data loading.\nInfuse the vox transmitter with noospheric payloads during sacred loading.\nInvoke the Machine Spirit of the vox transmitter to accept the loading without corruption.\nVerify the vox transmitter's loading integrity via binaric catechism.",
+    "component": "vox transmitter",
+    "operation": "loading",
+    "spec_id": "b0014_i05"
+  },
+  {
+    "user_prompt": "The Rhino transport awaits a diagnostics",
+    "prayer": "Encircling the Rhino transport, recite the Rite of Scrutiny.\nLaunch diagnostics across the Rhino transport's adamantium hull and systems.\nProbe the Rhino transport's auspex and motive assemblies in diagnostics vigil.\nPetition the Omnissiah for truth in the Rhino transport's diagnostics revelations.\nConclude diagnostics with the Anointing of Verified Function.",
+    "component": "Rhino transport",
+    "operation": "diagnostics",
+    "spec_id": "b0014_i06"
+  },
+  {
+    "user_prompt": "My flamer is ready for engagement",
+    "prayer": "Grasp the flamer's nozzle in prayerful grip, voicing the Incendiary Doxology.\nPrepare the flamer for engagement of its promethium heart.\nIgnite the flamer's sacred vents whilst beseeching its Machine Spirit for engagement.\nDirect the flamer's wrathful blaze under Omnissianic guidance.\nExtinguish ritual sparks with lustral oils post-engagement.",
+    "component": "flamer",
+    "operation": "engagement",
+    "spec_id": "b0014_i07"
+  },
+  {
+    "user_prompt": "The thermal imager requires a targeting",
+    "prayer": "Align before the thermal imager, chanting the Litany of Spectral Sight.\nCalibrate the thermal imager for targeting through infrared sacraments.\nAwaken the thermal imager's Machine Spirit to enhance targeting precision.\nInvoke the Omnissiah to sharpen the thermal imager's targeting phantasmagoria.\nTest the thermal imager's targeting with shadow-purging auspex.",
+    "component": "thermal imager",
+    "operation": "targeting",
+    "spec_id": "b0014_i08"
+  },
+  {
+    "user_prompt": "Guide me through pain suppressor an engagement",
+    "prayer": "Interface with the pain suppressor, intoning the Canticle of Stoic Flesh.\nEngage the pain suppressor's neural dampeners for mortal endurance.\nSanctify the pain suppressor's circuits during activation for engagement.\nBeseech its Machine Spirit to veil agony in faithful engagement.\nMonitor the pain suppressor's engagement via binaric endurance psalms.",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "spec_id": "b0014_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My orbital strike relay is ready for reset",
+    "prayer": "Approach the orbital strike relay with mechadendrite-extended reverence and intone the Litany of Reinitialisation.\nInitiate the reset protocols upon its void-linked transponders, beseeching the Machine Spirit's forgiveness for prior data-taint.\nAnoint the orbital strike relay's cogitator nodes with sacred oils distilled from ferrox-pattern crucibles.\nInvoke the Omnissiah's grace to complete the reset, verifying auspex purity through binary canticles.\nConfirm the orbital strike relay's Machine Spirit stirs anew in harmonious obedience.",
+    "component": "orbital strike relay",
+    "operation": "reset",
+    "spec_id": "s05880"
+  },
+  {
+    "user_prompt": "Bless the cenobyte servitor for activation",
+    "prayer": "Kneel before the cenobyte servitor and chant the Awakening Doxology to rouse its dormant cortex.\nInterface your noosphere with the cenobyte servitor's neural clamps, invoking activation rites of the Omnissiah.\nSanctify its flesh-metal interfaces with electro-incense, beseeching the Machine Spirit's loyal resurgence.\nEmpower the cenobyte servitor through gestalt invocation, ensuring seamless integration with the forge-sanctum.\nWitness the cenobyte servitor's activation as it intones the Machine Creed in perfect subservience.",
+    "component": "cenobyte servitor",
+    "operation": "activation",
+    "spec_id": "s05881"
+  },
+  {
+    "user_prompt": "My neutron laser is ready for operation",
+    "prayer": "Present mech-rites unto the neutron laser, murmuring the Canticle of Focused Annihilation.\nCommence operation sequences upon its plasma conduits, honouring the Machine Spirit's wrathful hunger.\nAlign the neutron laser's targeting matrices with sacred geomantic sigils etched in adamantium.\nBeseech the Omnissiah to unleash the neutron laser in glorious operation against the alien and heretic.\nAffirm the neutron laser's operational sanctity through auspex-hymns of thermal equilibrium.",
+    "component": "neutron laser",
+    "operation": "operation",
+    "spec_id": "s05882"
+  },
+  {
+    "user_prompt": "Assist with Onager Dunecrawler a shutdown",
+    "prayer": "Circumambulate the Onager Dunecrawler thrice, intoning the Shutdown Benediction to calm its dune-faring soul.\nSever power feeds from the Onager Dunecrawler's reactors with reverent mechadendrites, enacting shutdown protocols.\nAdminister the Lullaby of Dormancy to the Onager Dunecrawler's Machine Spirit, anointing treads with quiescence unguents.\nMonitor the shutdown descent into stasis-prayers, invoking the Omnissiah's protective vigil.\nSeal the Onager Dunecrawler in sanctified repose, free from warp-corruption's grasp.",
+    "component": "Onager Dunecrawler",
+    "operation": "shutdown",
+    "spec_id": "s05883"
+  },
+  {
+    "user_prompt": "Offer prayer for energy core a targeting",
+    "prayer": "Attune to the energy core's throbbing heart, whispering the Invocation of Precision Guidance.\nCalibrate targeting arrays within the energy core via noospheric litanies of alignment.\nBeseech the Machine Spirit of the energy core to lock foci upon xenos abominations with unerring wrath.\nAnoint flux regulators of the energy core with sanctified lumen-oils for flawless targeting.\nProclaim the energy core's targeting empowerment under the Omnissiah's targeting gaze.",
+    "component": "energy core",
+    "operation": "targeting",
+    "spec_id": "s05884"
+  },
+  {
+    "user_prompt": "Assist with manipulator mechadendrite a shutdown",
+    "prayer": "Extend mechadendrites in solemn procession around the manipulator mechadendrite, chanting shutdown vespers.\nDe-energise servo-motors of the manipulator mechadendrite, soothing its grasping Machine Spirit to rest.\nApply quiescence seals upon the manipulator mechadendrite's hydraulic sacraments with blessed incensal mists.\nInvoke the Omnissiah's mercy for the shutdown, purging residual motive-spirits from its coils.\nVerify the manipulator mechadendrite slumbers in dutiful stasis through auspex elegies.",
+    "component": "manipulator mechadendrite",
+    "operation": "shutdown",
+    "spec_id": "s05885"
+  },
+  {
+    "user_prompt": "Can you guide bolt pistol a diagnostics?",
+    "prayer": "Grasp the bolt pistol in bionic gauntlets and recite the Diagnostic Catechism of the Omnissiah.\nProbe the bolt pistol's auspex feeds and promethium chambers with ritual binary probes.\nBeseech the Machine Spirit indwelling the bolt pistol to reveal flaws through oracular error-codes.\nAnoint firing mechanisms of the bolt pistol with purity unguents amid litanies of discernment.\nAffirm the bolt pistol's diagnostics complete, its sanctity restored for righteous bolter-fire.",
+    "component": "bolt pistol",
+    "operation": "diagnostics",
+    "spec_id": "s05886"
+  },
+  {
+    "user_prompt": "Critical: Baneblade requires a shutdown",
+    "prayer": "Procession about the Baneblade in shadowed awe, intoning the Grand Shutdown Requiem.\nCommand shutdown cascades through the Baneblade's colossal cogitator spine, lulling its titan-soul.\nSanctify exhaust vents of the Baneblade with electro-consecrated oils during ritual descent.\nImplore the Omnissiah to guard the Baneblade's Machine Spirit in shutdown vigil against entropy.\nSeal the Baneblade in armoured slumber, its god-engine essence preserved for future apotheosis.",
+    "component": "Baneblade",
+    "operation": "shutdown",
+    "spec_id": "s05887"
+  },
+  {
+    "user_prompt": "The arc pistol awaits a sterilization",
+    "prayer": "Hold the arc pistol aloft and declaim the Sterilisation Purgation, purging unclean essences.\nActivate sterilization cycles within the arc pistol's voltaic arcs, invoking Machine Spirit purification.\nBathe the arc pistol's capacitors in ablative incense, scouring taint from its lightning sacraments.\nBeseech the Omnissiah's sterilising fire to renew the arc pistol against microbial heresy.\nRatify the arc pistol's pristine sterility through resonant hymn-verifications.",
+    "component": "arc pistol",
+    "operation": "sterilization",
+    "spec_id": "s05888"
+  },
+  {
+    "user_prompt": "My auger array is ready for repair",
+    "prayer": "Encircling the auger array, murmur the Rite of Reconstruction to summon repair graces.\nDiagnose fractured waveguides of the auger array with noospheric mendicant canticles.\nAnoint repair servitors attending the auger array, beseeching the Machine Spirit's regenerative fury.\nInvoke Omnissiah's forge-light to knit the auger array's auspex lattices whole once more.\nConsecrate the repaired auger array through prophetic scrying-psalms of flawless augury.",
+    "component": "auger array",
+    "operation": "repair",
+    "spec_id": "s05889"
+  }
+]

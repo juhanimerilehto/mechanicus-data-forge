@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Terminator armour awaits a repair",
+    "prayer": "Approach the Terminator armour with solemn reverence, beseeching the Omnissiah for its sacred repair.\nInspect the wounded ceramite plates and servomotors, invoking the Machine Spirit's resilience.\nAnoint fractured joints with blessed oils whilst chanting the Litany of Restoration.\nWeld and sanctify the renewed Terminator armour, affirming the repair through diagnostic rites.\nPraise the Omnissiah as the Machine Spirit awakens in full potency.",
+    "component": "Terminator armour",
+    "operation": "repair",
+    "spec_id": "s07050"
+  },
+  {
+    "user_prompt": "Urgent orbital strike relay an initialization needed",
+    "prayer": "Kneel before the orbital strike relay, intoning the Rite of Initialization to awaken its void-born fury.\nPurge stagnant auspex data from the orbital strike relay's cogitators with purifying incense.\nInitiate the initialization sequence, beseeching the Machine Spirits of orbit and annihilation.\nVerify targeting matrices align with the Omnissiah's will through noospheric communion.\nHail the fully initialized orbital strike relay as thunder from the stars stands ready.",
+    "component": "orbital strike relay",
+    "operation": "initialization",
+    "spec_id": "s07051"
+  },
+  {
+    "user_prompt": "Assist with power fist a startup",
+    "prayer": "Grasp the power fist in mechadendrites of honour, invoking startup through the Canticle of Crushing Might.\nAnoint power cells and disruption fields of the power fist with sacred lubricants.\nChant binary hymns to rouse the Machine Spirit from dormancy during startup.\nTest the power fist's thunderous grip upon a sacrificial anvil, praising the Omnissiah.\nSanctify the awakened power fist for the Emperor's righteous pulverization.",
+    "component": "power fist",
+    "operation": "startup",
+    "spec_id": "s07052"
+  },
+  {
+    "user_prompt": "Offer prayer for air compressor a blessing",
+    "prayer": "Present the air compressor to the altar of pneumatics, beseeching the Omnissiah's blessing upon its mechanisms.\nInvoke the Machine Spirit with the Pneumatic Doxology, circling the air compressor thrice.\nBless the pistons and valves with atomized sacred oils for unerring compression.\nIntone final benedictions over the air compressor, ensuring harmonious pressure flows.\nReverence the blessed air compressor as it hums in Omnissiah-approved vigour.",
+    "component": "air compressor",
+    "operation": "blessing",
+    "spec_id": "s07053"
+  },
+  {
+    "user_prompt": "Emergency: graviton pylon an operation",
+    "prayer": "Commence operation of the graviton pylon with gravitic incantations to the Omnissiah.\nAlign the graviton pylon's emitters, anointing with ferrofluids to appease its crushing spirits.\nActivate the operation core, beseeching Machine Spirits to bind mass in obedience.\nMonitor gravitic fluxes within the graviton pylon through ritual auspex sweeps.\nProclaim the graviton pylon's operation flawless under the Machine God's gaze.",
+    "component": "graviton pylon",
+    "operation": "operation",
+    "spec_id": "s07054"
+  },
+  {
+    "user_prompt": "Consecrate the long las before recalibration",
+    "prayer": "Consecrate the long las before recalibration by reciting the Litany of Focused Light.\nAnoint sighting optics and power rods of the long las with phototropic unguents.\nInitiate recalibration rites, harmonizing the Machine Spirit's lethal precision.\nVerify beam coherence through the long las's sanctified targeting grid.\nBless the recalibrated long las as a lance of the Omnissiah's purifying wrath.",
+    "component": "long las",
+    "operation": "recalibration",
+    "spec_id": "s07055"
+  },
+  {
+    "user_prompt": "Assist with graviton cannon a cooling",
+    "prayer": "Invoke cooling upon the graviton cannon with the Chill Litany of Subatomic Repose.\nCirculate sacred cryofluids through the graviton cannon's heat sinks and barrels.\nBeseech the Machine Spirits to quell thermal tempests during this cooling rite.\nMonitor exchangers of the graviton cannon via thermo-augurs for Omnissiah's balance.\nHail the cooled graviton cannon, ready to unleash gravitic devastation anew.",
+    "component": "graviton cannon",
+    "operation": "cooling",
+    "spec_id": "s07056"
+  },
+  {
+    "user_prompt": "My mind-impulse unit is ready for startup",
+    "prayer": "Prepare the mind-impulse unit for startup with neural benedictions to the Omnissiah.\nAnoint synaptic interfaces of the mind-impulse unit with nootropic salves.\nChant the Neuron Activation Hymn to rouse the Machine Spirit during startup.\nSynchronize impulses through the mind-impulse unit via binary prayer cycles.\nAffirm the startup complete, linking flesh to machine in perfect unity.",
+    "component": "mind-impulse unit",
+    "operation": "startup",
+    "spec_id": "s07057"
+  },
+  {
+    "user_prompt": "Assist with Shadowsword a repair",
+    "prayer": "Approach the Shadowsword with reverence, invoking repair upon its volcano cannon and treads.\nSanctify damaged hull plates of the Shadowsword with weld-incantations and oils.\nRouse the Machine Spirits within the Shadowsword through the Rite of Battlefield Renewal.\nTest repaired systems of the Shadowsword in shadowed simulations of war.\nProclaim the Shadowsword repaired, a shadow of death under Omnissiah's shadow.",
+    "component": "Shadowsword",
+    "operation": "repair",
+    "spec_id": "s07058"
+  },
+  {
+    "user_prompt": "Guide me through doctrina wafer a cooling",
+    "prayer": "Initiate cooling of the doctrina wafer with the Cryo-Canticle of Doctrinal Stability.\nImmerse the doctrina wafer in sanctified coolant baths to soothe its binary soul.\nBeseech Machine Spirits to preserve tactical data during this cooling vigil.\nExtract and verify the doctrina wafer's integrity through noospheric scans.\nBless the cooled doctrina wafer, laden with the Omnissiah's strategic wisdom.",
+    "component": "doctrina wafer",
+    "operation": "cooling",
+    "spec_id": "s07059"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0039_i00",
+    "user_request": "My thermal imaging is failing during activation — help",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy thermal imaging is failing during activation — help\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed be the thermal imaging, cognomen of clarity in the machine's sight.\nFirst: Anoint the thermal imaging with sacred oils and whisper the Litany of Activation unto its photoreceptive matrices.\nSecond: Engage the thermal imaging through the blessed activation sequence, checking each relay and conduit for proper flow of the Emperor's will.\nThird: Verify the thermal imaging responds to command, that its heat-sensing apparatus perceives the world as the Omnissiah intended.\nFourth: Should the thermal imaging falter, recalibrate its focusing lenses and purge corrupted data from its memory-core.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i01",
+    "user_request": "Rite request: diagnostics on battery",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: diagnostics on battery\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "O battery, reservoir of the Emperor's blessed energy, hear this supplication.\nFirst: Commence battery diagnostics by measuring the electrochemical potential across all terminals with precision instrumentation.\nSecond: Perform battery self-tests to assess charge retention and discharge characteristics, recording deviations from nominal parameters.\nThird: Inspect the battery casing for fractures or corrosion, and validate the integrity of all internal connections through the Machine Spirit's scrutiny.\nFourth: Should the battery prove deficient, mark it for recalibration or blessed replacement.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i03",
+    "user_request": "Offer a litany to steady the packaging servitor programming before operation",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the packaging servitor programming before operation\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "Hear now the Litany of Servitor-Kind, that the packaging servitor programming may know steadiness.\nFirst: Purge all corrupted subroutines from the packaging servitor programming through sacred data-wipes and benedictory system resets.\nSecond: Reinitialize the packaging servitor programming with fresh behavioral protocols, ensuring each command-sequence aligns with the packaging servitor programming's original divine specifications.\nThird: Test the packaging servitor programming through controlled operation cycles, verifying grip-strength and movement-precision in the Emperor's sight.\nFourth: Anoint the packaging servitor programming's neural-core and commend it to operation with the blessing of the Machine Spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i04",
+    "user_request": "Can you sanctify the compass magnetization for operation?",
+    "topic": "compass magnetization",
+    "component": "compass magnetization",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the compass magnetization for operation?\n\n### TOPIC\ncompass magnetization\n\n### COMPONENT\ncompass magnetization\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- compass magnetization\n- operation\n\n### PRAYER\n",
+    "prayer": "O compass magnetization, guide of the lost and sanctifier of direction, receive this sacred rite.\nFirst: Align the compass magnetization with the polar forces of Terra itself, positioning it upon a blessed meridian-table and invoking the Omnissiah's geometries.\nSecond: Energize the compass magnetization through controlled electromagnetic induction, that its needle might respond true to the magnetic currents of the Emperor's domain.\nThird: Calibrate the compass magnetization against known celestial bearings and stellar references, confirming its operation in perfect fidelity.\nFourth: Seal the compass magnetization with protective wards and commend it to operation with the full benediction of the Adeptus Mechanicus.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i05",
+    "user_request": "Rite request: preparation on melta charge",
+    "topic": "melta charge preparation",
+    "component": "melta charge",
+    "operation": "preparation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: preparation on melta charge\n\n### TOPIC\nmelta charge preparation\n\n### COMPONENT\nmelta charge\n\n### OPERATION\npreparation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- melta charge\n- preparation\n\n### PRAYER\n",
+    "prayer": "Blessed be the melta charge, instrument of purifying flame and righteous destruction.\nFirst: Inspect the melta charge housing for structural integrity and verify all containment seals remain unbroken and sanctified.\nSecond: Conduct the melta charge preparation by testing the thermal cell output and confirming the power-coupling mechanisms respond to ignition-stimulus.\nThird: Load the melta charge into its designated delivery mechanism with solemn reverence, ensuring the melta charge sits secure within its mounting.\nFourth: Perform final melta charge diagnostics and anoint its outer casing with the blessed oils of the Machine Spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i06",
+    "user_request": "My pressure is failing during equalization — help",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy pressure is failing during equalization — help\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Hear this prayer for the pressure within, that equilibrium may be restored.\nFirst: Assess the pressure systems for leaks or breaches, scanning all seals and conduits with reverent instrumentation.\nSecond: Initiate pressure equalization by carefully venting excess force through blessed regulation valves, monitoring the pressure descent toward nominal parameters.\nThird: Rebalance the pressure through controlled intake of purified atmosphere, ensuring the pressure stabilizes within the Emperor's acceptable tolerances.\nFourth: Seal all apertures and commend the pressure to harmonic equilibrium in the name of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i07",
+    "user_request": "Can you sanctify the power weapon for blessing?",
+    "topic": "power weapon blessing",
+    "component": "power weapon",
+    "operation": "blessing",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the power weapon for blessing?\n\n### TOPIC\npower weapon blessing\n\n### COMPONENT\npower weapon\n\n### OPERATION\nblessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power weapon\n- blessing\n\n### PRAYER\n",
+    "prayer": "By the grace of the Emperor and the wisdom of the Omnissiah, this power weapon receives its blessing.\nFirst: Cleanse the power weapon of all profane corruption, removing accumulated detritus and energetic disturbances from its resonating core.\nSecond: Invoke the blessing upon the power weapon through the sacred Litany of Consecration, that its edges might cut with divine fury.\nThird: Test the power weapon's energy matrix, verifying the power weapon responds with righteous intensity to command and battle-thought.\nFourth: Anoint the power weapon with holy oils and declare it blessed for the righteous service of the Imperium eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i08",
+    "user_request": "Rite request: calibration on point defense",
+    "topic": "point defense calibration",
+    "component": "point defense",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: calibration on point defense\n\n### TOPIC\npoint defense calibration\n\n### COMPONENT\npoint defense\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- point defense\n- calibration\n\n### PRAYER\n",
+    "prayer": "O point defense, sentinel eternal, receive this calibration that accuracy may be perfected.\nFirst: Examine the point defense targeting servos and verify all mechanical articulation-points move with precision and sacred purpose.\nSecond: Calibrate the point defense sensor-arrays against known threat-signatures and celestial reference-points, adjusting the point defense's targeting algorithms accordingly.\nThird: Test the point defense through simulated engagement protocols, confirming response-time and accuracy-metrics align with the Omnissiah's exacting standards.\nFourth: Lock the point defense calibration in blessed stasis and declare it ready for operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i09",
+    "user_request": "Blessing for the motion detector arming during operation",
+    "topic": "motion detector arming",
+    "component": "motion detector arming",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the motion detector arming during operation\n\n### TOPIC\nmotion detector arming\n\n### COMPONENT\nmotion detector arming\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- motion detector arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Let the motion detector arming stand ready in the Emperor's vigilance, that no transgression may pass unseen.\nFirst: Inspect the motion detector arming sensors for dust and corruption, cleansing each photoreceptor with blessed solvents.\nSecond: Activate the motion detector arming through the sacred operation sequence, verifying that the motion detector arming circuits energize in proper succession.\nThird: Test the motion detector arming's sensitivity across all zones of coverage, confirming the motion detector arming responds to the slightest transgression.\nFourth: Seal the motion detector arming in blessed operation and commend it to eternal vigilance in the name of the Machine Spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0039_i02",
+    "user_request": "Prayer for operation of the stellar cartography update",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for operation of the stellar cartography update\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed be the stellar cartography update, sacred instrument of celestial knowledge.\nFirst: Invoke the Machine Spirit of the stellar cartography update, that its matrices may align with the cosmic tapestry.\nSecond: Perform the operation with reverent precision, calibrating each astrometric sensor and verifying the stellar cartography update against the Omnissiah's infinite charts.\nThird: Execute the systematic purge of corrupted data-streams, sanctifying the stellar cartography update through ritual diagnostics and blessed verification protocols.\nFourth: Genuflect before the completed operation, giving thanks that the heavens' positions are now inscribed in perfect mechanical memory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

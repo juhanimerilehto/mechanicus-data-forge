@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0080_i00",
+    "user_request": "Rite request: activation on waste recycling",
+    "topic": "waste recycling activation",
+    "component": "waste recycling",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: activation on waste recycling\n\n### TOPIC\nwaste recycling activation\n\n### COMPONENT\nwaste recycling\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- waste recycling\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirits of waste recycling, hear our supplication for activation!\nCongregation: We invoke the rites of waste recycling, purify the refuse streams!\nPriest: First, calibrate the intake valves; second, energize the sorting matrices; third, commence the cyclical purification.\nCongregation: Omnissiah grant us waste recycling eternal, that activation may flow without cessation!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i01",
+    "user_request": "Offer a litany to steady the temperature before regulation",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the temperature before regulation\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: O temperature, spirit of thermal equilibrium, accept our litany before regulation commences!\nCongregation: We stabilize the temperature, we balance the sacred heat!\nPriest: First, bleed the excess thermal pressure; second, recalibrate the temperature sensors; third, invoke the cooling manifolds.\nCongregation: May temperature regulation proceed with the Omnissiah's blessing, steady and true!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i02",
+    "user_request": "Prayer for operation of the forge anvil heating",
+    "topic": "forge anvil heating",
+    "component": "forge anvil heating",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the forge anvil heating\n\n### TOPIC\nforge anvil heating\n\n### COMPONENT\nforge anvil heating\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- forge anvil heating\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Heed us, sacred forge anvil heating, as we begin your holy operation!\nCongregation: The forge anvil heating stirs, the Machine Spirits awaken!\nPriest: First, ignite the plasma coils within forge anvil heating; second, prime the thermal conductors; third, achieve optimal metallurgical temperatures.\nCongregation: Through operation blessed, let forge anvil heating burn eternal for the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i03",
+    "user_request": "The emergency generator demands guidance for failover",
+    "topic": "emergency generator failover",
+    "component": "emergency generator",
+    "operation": "failover",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe emergency generator demands guidance for failover\n\n### TOPIC\nemergency generator failover\n\n### COMPONENT\nemergency generator\n\n### OPERATION\nfailover\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency generator\n- failover\n\n### PRAYER\n",
+    "prayer": "Priest: Mighty emergency generator, we beseech thee for failover guidance in this hour of peril!\nCongregation: The emergency generator rises, power flows through severed lines!\nPriest: First, disengage primary grid conduits; second, transfer load to emergency generator auxiliary cells; third, restore critical systems sequentially.\nCongregation: May the emergency generator's failover preserve our sacred machinery, blessed by the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i04",
+    "user_request": "My gyroscope recalibration is failing during operation — help",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nMy gyroscope recalibration is failing during operation — help\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Gyroscope recalibration, keeper of celestial balance, we implore thy operation!\nCongregation: Restore the gyroscope recalibration to its proper function!\nPriest: First, zero the gyroscope recalibration against the stellar reference frame; second, purge corrupted calibration data; third, re-establish inertial lock.\nCongregation: Through operation, the gyroscope recalibration shall guide us true, blessed by the Machine Spirits!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i05",
+    "user_request": "Emergency rite: wear requires inspection",
+    "topic": "wear inspection",
+    "component": "wear",
+    "operation": "inspection",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: wear requires inspection\n\n### TOPIC\nwear inspection\n\n### COMPONENT\nwear\n\n### OPERATION\ninspection\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- wear\n- inspection\n\n### PRAYER\n",
+    "prayer": "Priest: We call upon the spirits of wear to submit to inspection, that degradation be known!\nCongregation: Reveal the wear, expose all damage and attrition!\nPriest: First, measure wear across critical bearing surfaces; second, document wear patterns and stress concentrations; third, prescribe restorative rites.\nCongregation: Through inspection blessed, may wear be catalogued and remedied in the Omnissiah's name!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i06",
+    "user_request": "Prayer for startup of the plasma reactor",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for startup of the plasma reactor\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Hail, plasma reactor, nexus of thermonuclear might, we command thy startup!\nCongregation: The plasma reactor awakens, fusion ignites within the sacred chamber!\nPriest: First, pressurize the plasma reactor containment lattice; second, introduce deuterium fuel to the reaction core; third, initiate electromagnetic confinement sequence.\nCongregation: May the plasma reactor's startup illuminate our domain, blessed by the Omnissiah eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i07",
+    "user_request": "Emergency rite: Thunderhawk requires fuel purification",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: Thunderhawk requires fuel purification\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "Priest: Thunderhawk, war-machine of the Emperor, we sanctify thy fuel purification in haste!\nCongregation: Purify the Thunderhawk's sacred fuel lines, cleanse the hydrocarbons!\nPriest: First, flush the Thunderhawk fuel systems with blessed solvents; second, replace corrupted filtration elements; third, re-pressurize the Thunderhawk tanks to operational specification.\nCongregation: Let the Thunderhawk's fuel purification be complete, that it may soar in the Omnissiah's service!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i08",
+    "user_request": "Prayer for initialization of the conveyor belt",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for initialization of the conveyor belt\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Conveyor belt, endless servant of industry, we invoke thy initialization!\nCongregation: The conveyor belt stirs, the gears begin their eternal rotation!\nPriest: First, verify conveyor belt mechanical integrity and alignment; second, energize the drive motors; third, engage the conveyor belt at minimal velocity to establish flow.\nCongregation: Through initialization blessed, may the conveyor belt serve without pause, honored by the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0080_i09",
+    "user_request": "Can you sanctify the Land Raider for track tension?",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the Land Raider for track tension?\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Land Raider, armored bulwark of the Emperor, we sanctify thee for track tension!\nCongregation: Tighten the Land Raider's tracks, restore its grip upon the earth!\nPriest: First, elevate the Land Raider on maintenance supports; second, tension each track link to precise specification; third, verify Land Raider mobility and adhesion.\nCongregation: May the Land Raider's track tension hold eternal, blessed by the Machine Spirits and the Omnissiah!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

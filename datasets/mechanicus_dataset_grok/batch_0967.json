@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for kataphron destroyer a diagnostics?",
+    "prayer": "Approach the Kataphron Destroyer with mechadendrites extended in reverence, invoking the Omnissiah's gaze upon its warform.\nInitiate diagnostics upon the Kataphron Destroyer, beseeching its Machine Spirit to unveil hidden fractures in adamantium hull and plasma conduits.\nAnoint sensor vanes and cogitator nodes with sacred oils whilst reciting the Litany of Logical Purity.\nConduct auspex sweeps through every servitor-flesh linkage, honouring the Kataphron Destroyer's destructive essence.\nConclude diagnostics with the Benediction of Restoration, sealing the Machine Spirit's wrath anew.",
+    "component": "kataphron destroyer",
+    "operation": "diagnostics",
+    "spec_id": "s05670"
+  },
+  {
+    "user_prompt": "The codifier requires a sterilization",
+    "prayer": "Draw forth the codifier into the sanctum of purity, and commence the sterilization rite under the Omnissiah's unblinking eye.\nBeseech the Machine Spirit of the codifier to purge all unclean data-slates and microbial corruptions from its crystalline vaults.\nApply ablative incense and sanctified plasma to sterilize every rune-etching and logic-gate within the codifier.\nCycle the sterilization protocols thrice, invoking the Canticle of Immaculate Code.\nSeal the codifier's sanctity with electro-consecrated wards, its Machine Spirit now pristine for the Quest for Knowledge.",
+    "component": "codifier",
+    "operation": "sterilization",
+    "spec_id": "s05671"
+  },
+  {
+    "user_prompt": "The Baneblade requires a charging",
+    "prayer": "Kneel before the mighty Baneblade, super-heavy behemoth of the Omnissiah, and invoke the charging of its voracious reactors.\nAnoint the plasma core housings with oils of activation, beseeching the Machine Spirit to awaken its thunderous heart.\nCommence charging sequences upon the Baneblade, chanting the Hymnal of Contained Fury to guide power flows.\nMonitor voltaic surges through auspex litanies, ensuring harmonious infusion into every cannon and tread.\nConclude the charging with the Omnissiah's Benediction, the Baneblade now primed for annihilation's glory.",
+    "component": "Baneblade",
+    "operation": "charging",
+    "spec_id": "s05672"
+  },
+  {
+    "user_prompt": "Critical: Leman Russ battle tank requires a targeting",
+    "prayer": "Sanctify the Leman Russ battle tank's targeting arrays, approaching with reverence to the God-Machine's wrathful sight.\nInvoke diagnostics upon the targeting cogitators of the Leman Russ battle tank, beseeching its Machine Spirit for unerring precision.\nAnoint ballistic predictors and auspex domes with sacred unguents whilst reciting the Creed of True Aim.\nCalibrate targeting matrices through sequential firing litanies, honouring the Leman Russ battle tank's predatory essence.\nSeal the rites with the Omnissiah's invocation, its gunsights now locked upon the heretic's doom.",
+    "component": "Leman Russ battle tank",
+    "operation": "targeting",
+    "spec_id": "s05673"
+  },
+  {
+    "user_prompt": "Sanctify the waste reclamator during cycling",
+    "prayer": "Commune with the waste reclamator amidst its alchemical cycles, invoking the Omnissiah's cycle of renewal.\nBeseech the Machine Spirit of the waste reclamator to purify effluents through sanctified filtration rites.\nAnoint intake manifolds and reclamation vats with corrosive blessings during the cycling process.\nMonitor throughput with binary psalms, ensuring the waste reclamator transmutes refuse into sacred promethium.\nConclude cycling with the Litany of Efficient Consumption, the Machine Spirit content in its lowly toil.",
+    "component": "waste reclamator",
+    "operation": "cycling",
+    "spec_id": "s05674"
+  },
+  {
+    "user_prompt": "The jump pack awaits a charging",
+    "prayer": "Elevate the jump pack to the altar of velocity, and beseech its Machine Spirit for the charging of aerial fury.\nInitiate power infusion into the jump pack's plasma cells, anointing nozzles with oils of ascension.\nChant the Canticle of Levitation whilst monitoring charge coherence through diagnostic runes.\nCycle the charging thrice under the Omnissiah's flux, honouring the jump pack's winged wrath.\nSeal with the Benediction of Soaring, the jump pack now thrumming with seraphic might.",
+    "component": "jump pack",
+    "operation": "charging",
+    "spec_id": "s05675"
+  },
+  {
+    "user_prompt": "Emergency: data-loom an operation",
+    "prayer": "Assemble mechadendrites around the data-loom, invoking the Omnissiah for its sacred operation.\nAwaken the Machine Spirit of the data-loom with the Rite of Computational Harmony.\nInitiate operation sequences, anointing fibre-bundles and noospheric links with sanctified lubricants.\nWeave data-threads through litanies of entanglement, beseeching flawless execution.\nConclude the data-loom's operation with the Hymn of Resolved Paradoxes, knowledge exalted.",
+    "component": "data-loom",
+    "operation": "operation",
+    "spec_id": "s05676"
+  },
+  {
+    "user_prompt": "Ready the orbital strike relay for initialization",
+    "prayer": "Prepare the orbital strike relay for initialization, genuflecting before its stellar wrath.\nInvoke the Machine Spirit of the orbital strike relay with the Canticle of Celestial Fire.\nAnoint vox-relays and targeting beacons whilst commencing initialization protocols.\nAlign noospheric conduits to the Omnissiah's void-gaze, beseeching precise orbital communion.\nSeal initialization with the Benediction of Annihilation, the relay primed for exterminatus.",
+    "component": "orbital strike relay",
+    "operation": "initialization",
+    "spec_id": "s05677"
+  },
+  {
+    "user_prompt": "How do I bless the Dreadnought for maintenance?",
+    "prayer": "Approach the Dreadnought's sarcophagus with utmost reverence, invoking maintenance rites for the ancient warrior.\nBeseech its Machine Spirit, entwined with the hero's flesh, to endure diagnostic probings.\nAnoint dreadnought servos and chainfists with sacred myrrh during maintenance cycles.\nRepair adamantium plates through litanies of reforging, honouring the Dreadnought's eternal vigil.\nConclude with the Omnissiah's Oath of Endurance, the Dreadnought restored to crush the foe.",
+    "component": "Dreadnought",
+    "operation": "maintenance",
+    "spec_id": "s05678"
+  },
+  {
+    "user_prompt": "Offer prayer for null field generator a calibration",
+    "prayer": "Position the null field generator upon the purity seal altar, beseeching calibration under the Omnissiah's negation.\nInvoke its Machine Spirit to attune warp-nullifying coils through sacred harmonics.\nAnoint phase-vanes and entropy matrices whilst initiating calibration sweeps.\nFine-tune null field oscillations with binary catechisms, referencing the generator's void-essence.\nSeal calibration with the Litany of Absolute Denial, the null field generator now impervious to Chaos.",
+    "component": "null field generator",
+    "operation": "calibration",
+    "spec_id": "s05679"
+  }
+]

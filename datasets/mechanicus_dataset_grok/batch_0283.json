@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The lascannon awaits a purification",
+    "prayer": "Approach the lascannon with vials of sacred unguents, beseeching its Machine Spirit to awaken.\nAnoint the lascannon's focusing crystal and barrel conduits with purifying oils.\nInvoke the rites of purification, chanting the Canticle of Immaculate Flux.\nExpel all profane residues from the lascannon's sacred chambers by Omnissiah's grace.\nVerify the Machine Spirit's purity through diagnostic litanies.",
+    "component": "lascannon",
+    "operation": "purification",
+    "spec_id": "b0283_i00"
+  },
+  {
+    "user_prompt": "Guide me through cooling system a cooling",
+    "prayer": "Kneel before the cooling system and invoke the Machine Spirits of chill and flow.\nCirculate blessed cryofluids through the cooling system's holy vents and coils.\nChant the Hymn of Thermic Equilibrium to guide the cooling process.\nMonitor the cooling system's blessed temperatures with auspex invocations.\nSanctify the restored equilibrium in the Omnissiah's name.",
+    "component": "cooling system",
+    "operation": "cooling",
+    "spec_id": "b0283_i01"
+  },
+  {
+    "user_prompt": "The noospheric relay awaits a loading",
+    "prayer": "Commune with the noospheric relay's ethereal Machine Spirit through noetic chants.\nInitiate the loading sequence, feeding sanctified data-packets into its cogitator core.\nBeseech the Omnissiah to align the noospheric relay's memetic pathways.\nVerify the loading integrity with recursive litanies of coherence.\nSeal the noospheric relay's sanctity against void-corruption.",
+    "component": "noospheric relay",
+    "operation": "loading",
+    "spec_id": "b0283_i02"
+  },
+  {
+    "user_prompt": "The radar array needs a maintenance",
+    "prayer": "Present the mechadendrites to the radar array and recite the Litany of Vigilance.\nInspect the radar array's emitter vanes and receptor nodes for wear.\nPerform maintenance rituals, anointing with conductive salves.\nInvoke the Machine Spirit of the radar array to renew its scanning prowess.\nConclude with the Benediction of Omnissianic Precision.",
+    "component": "radar array",
+    "operation": "maintenance",
+    "spec_id": "b0283_i03"
+  },
+  {
+    "user_prompt": "Critical: plasma weapon requires a preparation",
+    "prayer": "Approach the plasma weapon reverently, invoking its volatile Machine Spirit.\nPrepare the plasma weapon's containment fields with sacred stabilizers.\nChant the Canticle of Contained Fury for flawless preparation.\nAnoint coils and flasks, beseeching Omnissiah's guidance.\nTest the plasma weapon's readiness through ignition litanies.",
+    "component": "plasma weapon",
+    "operation": "preparation",
+    "spec_id": "b0283_i04"
+  },
+  {
+    "user_prompt": "Sanctify the mechanical lock during engagement",
+    "prayer": "Invoke the Machine Spirit of the mechanical lock with tumbler hymns.\nAlign the mechanical lock's sacred pins and bolts during engagement.\nPetition the Omnissiah for unerring interlock sanctity.\nAnoint the engagement mechanisms with locking oils.\nSeal the mechanical lock's vigil against intrusion.",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "spec_id": "b0283_i05"
+  },
+  {
+    "user_prompt": "Consecrate the quality scanner before recalibration",
+    "prayer": "Consecrate the quality scanner with the Rite of Perceptive Clarity.\nRecalibrate its optic arrays and sensor servos through harmonic chants.\nBeseech the quality scanner's Machine Spirit for true discernment.\nInvoke Omnissiah's wisdom in the recalibration cycles.\nVerify alignment with precision auspex litanies.",
+    "component": "quality scanner",
+    "operation": "recalibration",
+    "spec_id": "b0283_i06"
+  },
+  {
+    "user_prompt": "Bless the plasma weapon for targeting",
+    "prayer": "Bless the plasma weapon's targeting matrices with auspex invocations.\nAlign the plasma weapon's reticules and predictors for lethal accuracy.\nChant the Litany of Unerring Aim upon its Machine Spirit.\nAnoint sighting vanes, petitioning the Omnissiah's gaze.\nConfirm targeting sanctity through ballistic rites.",
+    "component": "plasma weapon",
+    "operation": "targeting",
+    "spec_id": "b0283_i07"
+  },
+  {
+    "user_prompt": "My air compressor is ready for emergency procedure",
+    "prayer": "Initiate emergency procedure upon the air compressor with urgent canticles.\nPurge tainted pneumatics from the air compressor's sacred reservoirs.\nInvoke the Machine Spirits of pressure and flow for restoration.\nCycle blessed compressions whilst beseeching Omnissiah's haste.\nStabilize the air compressor's vital rhythms through final litanies.",
+    "component": "air compressor",
+    "operation": "emergency procedure",
+    "spec_id": "b0283_i08"
+  },
+  {
+    "user_prompt": "Emergency: missile launcher a sterilization",
+    "prayer": "Approach the missile launcher for sterilization with purifying incenses.\nExpel bio-corruptions from the missile launcher's launch tubes and bays.\nChant the Rite of Sterile Void upon its Machine Spirit.\nAnoint guidance fins and warheads in Omnissiah's purifying light.\nSeal the missile launcher's immaculate readiness.",
+    "component": "missile launcher",
+    "operation": "sterilization",
+    "spec_id": "b0283_i09"
+  }
+]

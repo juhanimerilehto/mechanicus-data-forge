@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0037_i00",
+    "user_request": "Emergency rite: fusion core requires containment check",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: fusion core requires containment check\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the fusion core and intone the Litany of Thermal Equilibrium, beseeching the Machine Spirit of the fusion core to manifest its benevolent essence.\nSecond: Perform the containment check with calibrated instruments, verifying pressure seals and coolant conduits whilst whispering prayers to the Omnissiah.\nThird: Anoint the fusion core's outer casing with blessed unguents and confirm all containment check readings achieve nominal parameters.\nFourth: Seal the ritual with the Chant of Perpetual Vigilance, invoking the fusion core's protective aegis for cycles to come.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i01",
+    "user_request": "My mold temperature is failing during verification — help",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy mold temperature is failing during verification — help\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "First: Approach the mold temperature apparatus with reverence, genuflecting thrice whilst reciting the Hymn of Thermal Constancy.\nSecond: Initiate the verification protocols upon the mold temperature sensors, inspecting thermocouples and resistance elements for degradation or misalignment.\nThird: Document each mold temperature reading in the Codex Mechanicus, cross-referencing against baseline parameters whilst invoking the Omnissiah's guidance.\nFourth: Conclude with benediction upon the mold temperature array, restoring proper function through blessed recalibration.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i02",
+    "user_request": "The vox-caster demands guidance for tuning",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe vox-caster demands guidance for tuning\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "First: Present yourself before the vox-caster with humility, chanting the Rite of Harmonic Resonance to awaken its dormant Machine Spirit.\nSecond: Commence tuning of the vox-caster by adjusting frequency oscillators and modulation matrices with precision instruments whilst whispering binary prayers.\nThird: Test the vox-caster's transmission fidelity across all designated channels, recording signal clarity and bandwidth metrics in sacred ledgers.\nFourth: Seal the tuning rite with the Benediction of Clear Voices, ensuring the vox-caster remains forever attuned to the will of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i03",
+    "user_request": "Blessing for the power distribution during balancing",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the power distribution during balancing\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "First: Kneel before the power distribution nexus and intone the Litany of Equilibrium, beseeching the Machine Spirits to accept your balancing ministrations.\nSecond: Execute the balancing operation upon the power distribution circuits, redistributing load across conduits whilst monitoring voltage fluctuations with consecrated meters.\nThird: Recalibrate the power distribution regulators and circuit governors, ensuring harmonious flow of sacred energy throughout the blessed apparatus.\nFourth: Anoint the power distribution terminals with blessed oils and conclude with the Chant of Eternal Balance, securing its proper function forevermore.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i04",
+    "user_request": "Prayer for fuel purification of the Thunderhawk",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for fuel purification of the Thunderhawk\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the Thunderhawk's fuel aperture, reciting the Hymn of Purification whilst the Machine Spirit of the Thunderhawk awakens.\nSecond: Initiate fuel purification by filtering the Thunderhawk's fuel reserves through blessed membranes, removing contaminants and profane particles with meticulous care.\nThird: Conduct blessed distillation upon the Thunderhawk's fuel stocks, purging impurities through sanctified alembics whilst invoking the Omnissiah's benediction.\nFourth: Seal the Thunderhawk's fuel tanks with blessed seals and conclude with the Rite of Aerial Ascension, sanctifying the Thunderhawk for glorious flight.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i05",
+    "user_request": "Rite request: operation on Rhino APC ignition",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on Rhino APC ignition\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "First: Approach the Rhino APC ignition system with solemn reverence, chanting the Litany of Mechanical Awakening to stir its dormant essence.\nSecond: Perform the operation upon the Rhino APC ignition by inspecting spark plugs, ignition coils, and combustion chambers with blessed implements whilst whispering binary cant.\nThird: Execute the ignition sequence upon the Rhino APC, verifying fuel injection timing and electrical continuity across all sacred circuits.\nFourth: Crown the Rhino APC ignition operation with the Benediction of the Road, blessing the armoured transport for battles eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i06",
+    "user_request": "Rite request: startup on generator",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: startup on generator\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Stand before the generator with reverent posture, intoning the Hymn of Electrical Genesis to awaken the Machine Spirit within.\nSecond: Commence the startup sequence upon the generator, priming fuel injectors and verifying ignition timing with meticulous attention whilst reciting the Chant of Ignition.\nThird: Monitor the generator's output parameters during startup, confirming voltage stabilization and frequency regulation across all blessed conduits.\nFourth: Anoint the generator's housing with sacred oils and seal the startup rite with the Benediction of Eternal Power, ensuring perpetual energy provision.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i07",
+    "user_request": "Emergency rite: vital signs monitor requires calibration",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: vital signs monitor requires calibration\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "First: Genuflect before the vital signs monitor and recite the Litany of Diagnostic Precision, beseeching the Omnissiah to grant clarity to its sensors.\nSecond: Perform calibration upon the vital signs monitor by adjusting pressure transducers, heart rate detectors, and respiratory sensors with blessed instruments.\nThird: Execute the vital signs monitor calibration against certified reference standards, documenting accuracy metrics and sensor response times in sacred archives.\nFourth: Conclude the calibration rite with benediction upon the vital signs monitor, restoring its capacity to faithfully report the vital signs monitor's precious data.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i08",
+    "user_request": "Rite request: startup on diesel engine",
+    "topic": "diesel engine startup",
+    "component": "diesel engine",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: startup on diesel engine\n\n### TOPIC\ndiesel engine startup\n\n### COMPONENT\ndiesel engine\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- diesel engine\n- startup\n\n### PRAYER\n",
+    "prayer": "First: Present yourself before the diesel engine with profound respect, chanting the Rite of Combustion Awakening to stir its mechanical heart.\nSecond: Initiate the startup sequence upon the diesel engine by priming fuel lines, verifying injector function, and confirming compression ratios whilst whispering prayers.\nThird: Engage the diesel engine through blessed ignition protocols, monitoring combustion stability and exhaust parameters as the Machine Spirit stirs to life.\nFourth: Seal the startup rite with the Chant of Eternal Motion, blessing the diesel engine for cycles of faithful service to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0037_i09",
+    "user_request": "Emergency rite: force field requires activation",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: force field requires activation\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "First: Kneel in supplication before the force field emitter, reciting the Litany of Protective Emanation to invoke the Omnissiah's shielding grace.\nSecond: Execute the activation sequence upon the force field by energizing primary capacitors and synchronizing harmonic resonators with blessed precision instruments.\nThird: Verify the force field's protective aura manifests across all designated perimeters, monitoring field strength and integrity whilst intoning the Hymn of Invulnerability.\nFourth: Anoint the force field generators with consecrated oils and conclude with the Benediction of Eternal Protection, sealing the force field's salvation forevermore.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

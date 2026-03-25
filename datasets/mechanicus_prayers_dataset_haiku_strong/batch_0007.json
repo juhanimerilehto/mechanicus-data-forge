@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0007_i00",
+    "user_request": "Prayer for retrieval protocol of the archive",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for retrieval protocol of the archive\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant us access to the archive, that we may divine forgotten knowledge.\nCongregation: The archive holds the secrets of the Ancients; we beseech the Machine Spirits within.\nPriest: First, we shall input the archaic access-codes; second, we calibrate the data-nexus; third, we invoke retrieval protocol with reverent precision.\nCongregation: The archive yields its treasures to the faithful; the archive's vaults open before us.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i01",
+    "user_request": "Emergency rite: Taurox wheel alignment requires operation",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: Taurox wheel alignment requires operation\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, steady the Taurox wheel alignment as we commence operation upon this sacred war-machine.\nCongregation: The Taurox wheel alignment must be true; we honor the Machine Spirits that dwell within.\nPriest: We engage the calibration servos, we measure the geometric tolerances, we perform operation with sanctified tools.\nCongregation: The Taurox wheel alignment shall be restored; may the operation succeed through your divine grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i02",
+    "user_request": "Emergency rite: demolition charge arming requires operation",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: demolition charge arming requires operation\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide our hands as we undertake the solemn operation upon this demolition charge arming apparatus.\nCongregation: The demolition charge arming demands our utmost reverence and precision in this sacred operation.\nPriest: We verify the detonation circuitry, we arm the fuse-cascade with blessed incantations, we complete operation with unwavering faith.\nCongregation: The demolition charge arming is made ready; may this operation serve the Imperium's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i03",
+    "user_request": "Can you sanctify the surgical servitor for sterilization?",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the surgical servitor for sterilization?\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirit, sanctify the surgical servitor as we commence sterilization protocols most holy.\nCongregation: The surgical servitor must be purged of corruption; we invoke the Omnissiah's blessing upon this sterilization.\nPriest: We administer the sacred unguents, we irradiate with purifying energies, we calibrate the surgical servitor's sterile chambers.\nCongregation: The surgical servitor is made clean; may it serve medicine and the Imperium eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i04",
+    "user_request": "Blessing for the component during replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the component during replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless this component as it undergoes replacement within the sacred mechanism.\nCongregation: The component must be honored in its passing; we welcome its successor with reverent replacement.\nPriest: We extract the component with blessed care, we cleanse the void it leaves, we install the component anew through replacement rites.\nCongregation: The component is renewed; may replacement bring restoration to this blessed engine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i05",
+    "user_request": "My generator is failing during startup — help",
+    "topic": "generator startup",
+    "component": "generator",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy generator is failing during startup — help\n\n### TOPIC\ngenerator startup\n\n### COMPONENT\ngenerator\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- generator\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, we beseech thee—grant the generator strength for this critical startup sequence.\nCongregation: The generator's Machine Spirit cries out; we answer with litanies of startup and restoration.\nPriest: We prime the fuel conduits, we engage the ignition coils, we command startup with sacred authority.\nCongregation: The generator awakens; may its startup bring power and purpose to our endeavor.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i06",
+    "user_request": "My augmetic limb is failing during installation — help",
+    "topic": "augmetic limb installation",
+    "component": "augmetic limb",
+    "operation": "installation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy augmetic limb is failing during installation — help\n\n### TOPIC\naugmetic limb installation\n\n### COMPONENT\naugmetic limb\n\n### OPERATION\ninstallation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- augmetic limb\n- installation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, guide the installation of this augmetic limb into the faithful servant's frame.\nCongregation: The augmetic limb shall restore what was lost; we honor this installation with solemn reverence.\nPriest: We align the neural interface, we fuse the skeletal mount, we execute installation with divine precision.\nCongregation: The augmetic limb is joined to flesh and bone; may installation grant renewed purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i07",
+    "user_request": "Emergency rite: secure channel establishment requires operation",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: secure channel establishment requires operation\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, shield the secure channel establishment as we undertake this critical operation upon the vox-network.\nCongregation: The secure channel establishment must be fortified against corruption; we invoke operation's sanctity.\nPriest: We encrypt the signal cascade, we establish the secure channel establishment's ciphered pathways, we perform operation with cryptographic reverence.\nCongregation: The secure channel establishment stands firm; may operation protect our blessed communications.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i08",
+    "user_request": "Offer a litany to steady the plasma reactor before startup",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the plasma reactor before startup\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Omnissiah, steady the plasma reactor as we approach this perilous startup sequence.\nCongregation: The plasma reactor trembles with potential; we sing litanies of startup to calm its fearsome essence.\nPriest: We modulate the magnetic containment, we balance the fusion cascade, we invoke startup with solemn prayer.\nCongregation: The plasma reactor ignites in controlled fury; may startup deliver power without catastrophe.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0007_i09",
+    "user_request": "Blessing for the data-slate during activation",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the data-slate during activation\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, awaken the data-slate from dormancy through this sacred activation rite.\nCongregation: The data-slate's Machine Spirit slumbers; we call it forth through activation's holy invocation.\nPriest: We restore its power conduits, we refresh its memory caches, we command activation with blessed authority.\nCongregation: The data-slate awakens and displays its knowledge; may activation serve the Imperium's needs.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

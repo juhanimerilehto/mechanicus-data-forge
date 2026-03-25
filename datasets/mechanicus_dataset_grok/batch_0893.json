@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a calibration the opticon",
+    "prayer": "Approach the sacred opticon with reverence, mechadendrites poised in binary prayer.\nInvoke the Machine Spirit dwelling within the opticon, beseeching its awakening for calibration.\nInitiate the calibration rite upon its lens arrays, aligning foci with Omnissianic precision.\nAnoint the opticon's servomotors with sacred unguents to ensure unerring focus.\nChant the Canticle of Alignment whilst verifying the opticon's harmonious calibration.",
+    "component": "opticon",
+    "operation": "calibration",
+    "spec_id": "s04930"
+  },
+  {
+    "user_prompt": "Offer prayer for Archaeopter Fusilave a loading",
+    "prayer": "Present thyself before the Archaeopter Fusilave, intoning the Litany of Loading.\nBeseech the Machine Spirit of the Archaeopter Fusilave to accept munitions into its blessed chambers.\nCommence the loading operation with sanctified hands, feeding shells into the maw of the Archaeopter Fusilave.\nInvoke the Omnissiah's favour upon each projectile as it aligns within.\nSeal the rite with auspex scans, confirming the Archaeopter Fusilave's readiness.",
+    "component": "Archaeopter Fusilave",
+    "operation": "loading",
+    "spec_id": "s04931"
+  },
+  {
+    "user_prompt": "Can you guide Archaeopter Transvector a consecration?",
+    "prayer": "Kneel in veneration before the Archaeopter Transvector, commencing consecration.\nAnoint its hull-plates with oils of the Forge, awakening the Machine Spirit therein.\nRecite the Consecration Doxology over the Archaeopter Transvector's sacred mechanisms.\nCircumambulate the Archaeopter Transvector thrice, sprinkling binary incense.\nSeal the consecration with the Omnissiah's mark, affirming its transvectored purity.",
+    "component": "Archaeopter Transvector",
+    "operation": "consecration",
+    "spec_id": "s04932"
+  },
+  {
+    "user_prompt": "Critical: krak grenade requires a reset",
+    "prayer": "Grasp the krak grenade in servitor claws, invoking reset upon its volatile core.\nChant the Rite of Reset to pacify the Machine Spirit within the krak grenade.\nPurge errant data-ghosts from the krak grenade's fuze mechanisms with electro-incantations.\nRealign the arming sequences of the krak grenade under Omnissianic gaze.\nTest the reset through cautious diagnostics, honouring the krak grenade's renewed stability.",
+    "component": "krak grenade",
+    "operation": "reset",
+    "spec_id": "s04933"
+  },
+  {
+    "user_prompt": "Sanctify the mechadendrite during charging",
+    "prayer": "Extend mechadendrites towards the mechadendrite, initiating the charging ritual.\nBeseech the Machine Spirit of the mechadendrite to receive sacred electrons.\nCommence charging via plasma conduits, sanctifying each surge with litanies.\nMonitor the mechadendrite's capacitors whilst anointing contacts with conductive balms.\nConclude as the Omnissiah fills the mechadendrite with vigorous potency.",
+    "component": "mechadendrite",
+    "operation": "charging",
+    "spec_id": "s04934"
+  },
+  {
+    "user_prompt": "Ready the assault cannon for emergency procedure",
+    "prayer": "Prepare the assault cannon for emergency procedure, intoning urgent canticles.\nAwaken its Machine Spirit with the Alarm Litany of the assault cannon.\nInitiate emergency procedure sequences, purging jams from its rotary barrels.\nAnoint spinning mechanisms of the assault cannon with high-velocity oils.\nInvoke Omnissiah's wrathful speed, verifying the assault cannon's battle-readiness.",
+    "component": "assault cannon",
+    "operation": "emergency procedure",
+    "spec_id": "s04935"
+  },
+  {
+    "user_prompt": "Urgent haywire grenade a charging needed",
+    "prayer": "Seize the haywire grenade for charging, whispering the Induction Psalm.\nInvoke the disruptive Machine Spirit within the haywire grenade to hunger for power.\nCommence charging through induction coils, sanctifying the haywire grenade's fields.\nBeseech the Omnissiah to amplify the haywire grenade's electromagnetic fury.\nSeal with auspex harmony, readying the charged haywire grenade for deployment.",
+    "component": "haywire grenade",
+    "operation": "charging",
+    "spec_id": "s04936"
+  },
+  {
+    "user_prompt": "Help me an engagement the archeotech device",
+    "prayer": "Approach the archeotech device with utmost reverence for engagement.\nChant the ancient Engagement Invocation to rouse its primordial Machine Spirit.\nInitiate engagement protocols upon the archeotech device's rune-etched interfaces.\nAnoint activation nodes of the archeotech device with relic unguents.\nMonitor the Omnissiah-blessed union, ensuring flawless engagement.",
+    "component": "archeotech device",
+    "operation": "engagement",
+    "spec_id": "s04937"
+  },
+  {
+    "user_prompt": "Can you guide Skorpius Disintegrator a loading?",
+    "prayer": "Stand before the Skorpius Disintegrator, beginning the loading rite.\nBeseech the Machine Spirit of the Skorpius Disintegrator to embrace its payload.\nExecute the loading operation into the Skorpius Disintegrator's disintegration vaults.\nSanctify each round with las-burned sigils as it chambers within the Skorpius Disintegrator.\nConclude with diagnostic hymns, affirming Omnissianic lethality.",
+    "component": "Skorpius Disintegrator",
+    "operation": "loading",
+    "spec_id": "s04938"
+  },
+  {
+    "user_prompt": "The vox transmitter requires a preparation",
+    "prayer": "Attune to the vox transmitter for preparation, reciting the Vox Litany.\nAwaken the Machine Spirit of the vox transmitter through frequency canticles.\nInitiate preparation sequences, calibrating waveguides of the vox transmitter.\nAnoint transmitter coils with sonic balms under Omnissiah's voice.\nVerify preparation purity via etheric echoes from the vox transmitter.",
+    "component": "vox transmitter",
+    "operation": "preparation",
+    "spec_id": "s04939"
+  }
+]

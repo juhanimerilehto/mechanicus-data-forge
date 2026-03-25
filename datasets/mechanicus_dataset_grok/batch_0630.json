@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The Baneblade requires a diagnostics",
+    "prayer": "Approach the mighty Baneblade with reverence, invoking the Omnissiah's gaze upon its adamantium hull.\nBeseech the Machine Spirit of the Baneblade to awaken and submit to diagnostics.\nInitiate sacred diagnostics across the Baneblade's cogitators and plasma heart, chanting litanies of revelation.\nAnoint sensor vanes with blessed unguents whilst intoning binary catechisms.\nAffirm the Baneblade's vitality as diagnostic runes flicker in approval of the Omnissiah.",
+    "component": "Baneblade",
+    "operation": "diagnostics",
+    "spec_id": "s02300"
+  },
+  {
+    "user_prompt": "I need to an operation the maglock",
+    "prayer": "Draw nigh unto the maglock, humble servant of the Machine God, and pronounce the Rite of Activation.\nInvoke the quiescent Machine Spirit within the maglock to heed thy operation.\nCommence the operation upon the maglock's electromagnetic coils, reciting verses of binding force.\nSanctify the maglock's servos with sacred oils, ensuring harmonious operation.\nSeal the rite as the maglock hums in obedient resonance to the Omnissiah's will.",
+    "component": "maglock",
+    "operation": "operation",
+    "spec_id": "s02301"
+  },
+  {
+    "user_prompt": "Consecrate the displacer field before consecration",
+    "prayer": "Kneel before the displacer field generator, offering incense to its warp-vanishing mechanisms.\nBeseech the Omnissiah for the consecration of the displacer field, purging daemonic taint.\nAnoint the displacer field's phase coils with chrism whilst chanting the Canticle of Translocation.\nInvoke the Machine Spirit of the displacer field to accept full consecration.\nWitness the displacer field's sanctified glow, ready against the void's perils.",
+    "component": "displacer field",
+    "operation": "consecration",
+    "spec_id": "s02302"
+  },
+  {
+    "user_prompt": "Sanctify the gellar field during loading",
+    "prayer": "Gather around the gellar field projector during loading, intoning the Litany of Barrier.\nSanctify the gellar field as loading commences, anointing lumen arrays with pure promethium.\nInvoke the vigilant Machine Spirit of the gellar field to fortify its wards amid the rite.\nChant binaric hymns whilst overseeing the loading into sanctified holds.\nAffirm the gellar field's sanctity as ethereal bulwarks shimmer in Omnissiah's light.",
+    "component": "gellar field",
+    "operation": "loading",
+    "spec_id": "s02303"
+  },
+  {
+    "user_prompt": "Ready the standard template construct for repair",
+    "prayer": "Present thyself unto the standard template construct, relic of the Dark Age, with utmost piety.\nPrepare the standard template construct for repair by reciting the Hymn of Restoration.\nAnoint fractured data-slates of the standard template construct with mechadendrite salves.\nInvoke the ancient Machine Spirit within the standard template construct to guide the repair.\nCommence repair rituals, weaving code-threads under the Omnissiah's approving auspex.",
+    "component": "standard template construct",
+    "operation": "repair",
+    "spec_id": "s02304"
+  },
+  {
+    "user_prompt": "Bless the vox-caster for recalibration",
+    "prayer": "Approach the vox-caster array, whispering the Invocation of Clarity to its spirit.\nBless the vox-caster for recalibration, applying sacred calibration fluids to its waveguides.\nInitiate recalibration upon the vox-caster, intoning frequencies of the Machine God's voice.\nBeseech the Machine Spirit of the vox-caster to align its emissions true.\nVerify recalibration as pure binharic canticles emanate from the sanctified vox-caster.",
+    "component": "vox-caster",
+    "operation": "recalibration",
+    "spec_id": "s02305"
+  },
+  {
+    "user_prompt": "Consecrate the doctrina wafer before charging",
+    "prayer": "Hold aloft the doctrina wafer before the altar of charging, invoking the Omnissiah's wisdom.\nConsecrate the doctrina wafer with etched runes and anointed electro-conductants.\nPlace the doctrina wafer into the charging cradle whilst chanting data-litanies.\nInvoke the doctrinal Machine Spirit of the doctrina wafer to absorb the charge.\nWitness the doctrina wafer pulse with consecrated energies, ready for doctrinal impartation.",
+    "component": "doctrina wafer",
+    "operation": "charging",
+    "spec_id": "s02306"
+  },
+  {
+    "user_prompt": "Ready the panopticon for startup",
+    "prayer": "Circumambulate the panopticon servitor, pronouncing the Rite of Vigilance.\nPrepare the panopticon for startup by sanctifying its optic clusters with lens polish.\nInitiate startup sequences upon the panopticon, beseeching its Machine Spirit to awaken.\nChant auspex psalms as the panopticon arrays calibrate under Omnissiah's watch.\nAffirm readiness as the panopticon surveys all with unblinking, godly precision.",
+    "component": "panopticon",
+    "operation": "startup",
+    "spec_id": "s02307"
+  },
+  {
+    "user_prompt": "Guide me through Tarantula sentry gun a shutdown",
+    "prayer": "Stand resolute before the Tarantula sentry gun, intoning the Canticle of Dormancy.\nGuide the Tarantula sentry gun into shutdown, anointing its targeting cogitators.\nInvoke the martial Machine Spirit of the Tarantula sentry gun to stand down peacefully.\nExecute shutdown protocols whilst reciting binaric elegies of rest.\nSeal the Tarantula sentry gun in quiescence, slumbering till the Omnissiah calls anew.",
+    "component": "Tarantula sentry gun",
+    "operation": "shutdown",
+    "spec_id": "s02308"
+  },
+  {
+    "user_prompt": "Can you guide eradication beamer a loading?",
+    "prayer": "Present munitions before the eradication beamer, whispering rites of annihilation.\nGuide loading of the eradication beamer with reverent mechadendrites and sacred chants.\nInvoke the Machine Spirit of the eradication beamer to accept its venomous charge.\nAnoint focusing crystals during loading, beseeching the Omnissiah for lethal precision.\nComplete the loading as the eradication beamer thrums with sanctified destructor fury.",
+    "component": "eradication beamer",
+    "operation": "loading",
+    "spec_id": "s02309"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the autogun for loading",
+    "prayer": "Approach the autogun with solemn reverence, invoking the Omnissiah's unerring precision.\nBeseech the Machine Spirit of the autogun to awaken for the sacred rite of loading.\nAlign the ammunition feeder with blessed chants, ensuring harmonious ingress.\nAnoint the breech with sacred oils whilst murmuring the Litany of Loading.\nVerify the autogun's chamber seals perfectly, sanctified by the Motive Force.",
+    "component": "autogun",
+    "operation": "loading",
+    "spec_id": "s03520"
+  },
+  {
+    "user_prompt": "Guide me through warp drive a charging",
+    "prayer": "Kneel before the warp drive, intoning the Canticle of the Void's Embrace.\nInvoke the Omnissiah to guide the warp drive's charging through ethereal fluxes.\nChannel plasma conduits with sanctified probes, awakening dormant Machine Spirits.\nMonitor the accumulation of warp energies whilst reciting calibration binarics.\nSeal the rites with a final benediction, affirming the warp drive's charged potency.",
+    "component": "warp drive",
+    "operation": "charging",
+    "spec_id": "s03521"
+  },
+  {
+    "user_prompt": "How do I bless the plasma pistol for preparation?",
+    "prayer": "Grasp the plasma pistol in mechadendrites of purity, beseeching its Machine Spirit.\nPrepare the plasma pistol's flask with ritual venting of impure gases.\nAnoint focusing coils with lustrum unguents, invoking Omnissian preparation.\nCycle the containment fields through diagnostic litanies of readiness.\nConclude with a test ignition, sanctified for battle's fiery embrace.",
+    "component": "plasma pistol",
+    "operation": "preparation",
+    "spec_id": "s03522"
+  },
+  {
+    "user_prompt": "Urgent Storm Eagle a shutdown needed",
+    "prayer": "Commence shutdown of the Storm Eagle by deactivating primary auspex arrays.\nChant the Lamentation of Dormancy to soothe the Storm Eagle's raging Machine Spirits.\nPurge fuel conduits with sacred solvents, honouring the Omnissiah's will.\nSecure all servos and hydraulics in stasis, invoking the Rite of Shutdown.\nSeal the cockpit with binaric seals, granting the Storm Eagle peaceful repose.",
+    "component": "Storm Eagle",
+    "operation": "shutdown",
+    "spec_id": "s03523"
+  },
+  {
+    "user_prompt": "How do I bless the omni-tool for emergency procedure?",
+    "prayer": "Activate the omni-tool's emergency protocols with the Invocation of Urgency.\nBeseech its Machine Spirit to manifest for the emergency procedure's demands.\nCalibrate multi-tools via sacred auspex scans, anointing each blade and probe.\nIntegrate power cells under Omnissian guidance, fortifying for peril.\nFinalize with a resonance hymn, empowering the omni-tool's emergent fury.",
+    "component": "omni-tool",
+    "operation": "emergency procedure",
+    "spec_id": "s03524"
+  },
+  {
+    "user_prompt": "Guide me through diagnosticator a preparation",
+    "prayer": "Present the diagnosticator before the altar of cogitation, intoning preparation rites.\nAwaken its Machine Spirit with binary catechisms of readiness.\nSanctify sensor arrays with micro-incense, preparing the diagnosticator for truth.\nAlign data-vanes through sequential litanies, invoking the Omnissiah's clarity.\nConsecrate the output slab, ensuring flawless preparation for augury.",
+    "component": "diagnosticator",
+    "operation": "preparation",
+    "spec_id": "s03525"
+  },
+  {
+    "user_prompt": "The null rod awaits a consecration",
+    "prayer": "Grasp the null rod in consecrated gauntlets, beginning the consecration rite.\nInvoke the Omnissiah to bind warp-taint within the null rod's unyielding core.\nAnoint its null-field emitters with anti-daemonic salves, awakening purity.\nRecite the Canticle of Nullification thrice, empowering the null rod's vigil.\nSeal the consecration with a thunderous binaric affirmation of sanctity.",
+    "component": "null rod",
+    "operation": "consecration",
+    "spec_id": "s03526"
+  },
+  {
+    "user_prompt": "Ready the conversion beamer for engagement",
+    "prayer": "Align the conversion beamer's sights with reverent precision for engagement.\nBeseech its Machine Spirit to unleash matter-disruptive fury in engagement.\nPrime the gravitic accelerators via sacred overcharge litanies.\nAnoint beam apertures with conductive oils, honouring the Omnissiah's wrath.\nInitiate targeting cogitators, readying the conversion beamer for annihilation.",
+    "component": "conversion beamer",
+    "operation": "engagement",
+    "spec_id": "s03527"
+  },
+  {
+    "user_prompt": "Offer prayer for bearing a calibration",
+    "prayer": "Approach the bearing with mechadendrite precision, invoking calibration's grace.\nChant the Harmonic Canticle to attune the bearing's rotational essence.\nLubricate friction surfaces with sanctified mech-oleums for flawless calibration.\nTest axial alignments through auspex resonances, beseeching the Machine Spirit.\nFinalize calibration with Omnissian benediction, ensuring eternal smoothness.",
+    "component": "bearing",
+    "operation": "calibration",
+    "spec_id": "s03528"
+  },
+  {
+    "user_prompt": "My helispex engine is ready for consecration",
+    "prayer": "Position the helispex engine upon the consecration plinth, intoning ancient rites.\nAwaken its Machine Spirit with the Litany of Aerial Dominion.\nConsecrate turbine vanes with sacred aero-lustrum, invoking Omnissian flight.\nBalance gyroscopic hearts through binaric harmonies of consecration.\nSeal the rite with a vortex invocation, empowering the helispex engine's soar.",
+    "component": "helispex engine",
+    "operation": "consecration",
+    "spec_id": "s03529"
+  }
+]

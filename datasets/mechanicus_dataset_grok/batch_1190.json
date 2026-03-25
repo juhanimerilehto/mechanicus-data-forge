@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The mechadendrite awaits a purification",
+    "prayer": "Approach the mechadendrite with vials of sacred unguents and invoke the Rite of Purification.\nBeseech its Machine Spirit to expel all profane corruptions from serpentine coils.\nAnoint each linkage and servo-node of the mechadendrite with blessed oils thricefold.\nChant the binaric canticles whilst circulating lustral fluids through its sacred conduits.\nVerify the mechadendrite's purity through auspex invocation to the Omnissiah.",
+    "component": "mechadendrite",
+    "operation": "purification",
+    "spec_id": "s07900"
+  },
+  {
+    "user_prompt": "The assault cannon needs an emergency procedure",
+    "prayer": "Confront the assault cannon in extremis and commence the emergency procedure with fervent prayer.\nInvoke the Machine Spirit's wrathful quiescence via litanies of stabilisation.\nSever auxiliary feeds to the assault cannon and recalibrate its thunderous barrels.\nAdminister noospheric sacraments to soothe the assault cannon's raging plasma heart.\nHail the Omnissiah as diagnostics affirm the emergency procedure's triumph.",
+    "component": "assault cannon",
+    "operation": "emergency procedure",
+    "spec_id": "s07901"
+  },
+  {
+    "user_prompt": "Ready the Manticore for activation",
+    "prayer": "Gather before the Manticore and beseech its slumbering Machine Spirit for activation.\nAnoint the Manticore's rune-etched hull with oils of ignition and chant awakening canticles.\nInitiate the activation sequence through sacred cogitator interfaces.\nCommune with the Omnissiah to align the Manticore's vortex warheads in harmonious fury.\nAffirm activation via thunderous test-firing hymns.",
+    "component": "Manticore",
+    "operation": "activation",
+    "spec_id": "s07902"
+  },
+  {
+    "user_prompt": "Offer prayer for null field generator a reset",
+    "prayer": "Kneel at the null field generator and intone the reset canticle to the Omnissiah.\nPurge errant warp-echoes from the null field generator's crystalline matrices.\nInvoke the Machine Spirit's return by cycling its nullifying coils in ritual rhythm.\nReset the sacred parameters whilst anointing emitters with void-blessed elixirs.\nTest the null field generator's veil against simulant incursions.",
+    "component": "null field generator",
+    "operation": "reset",
+    "spec_id": "s07903"
+  },
+  {
+    "user_prompt": "Guide me through haywire grenade a targeting",
+    "prayer": "Wield the haywire grenade in sanctified gauntlets and beseech precise targeting.\nAlign auspex reticules upon the foe whilst chanting disruption litanies.\nInvoke the Machine Spirit within the haywire grenade to seek electromagnetic prey.\nHurl the haywire grenade with Omnissianic precision, targeting vital mechanised nodes.\nWitness its targeting bloom in cascades of entropic fury.",
+    "component": "haywire grenade",
+    "operation": "targeting",
+    "spec_id": "s07904"
+  },
+  {
+    "user_prompt": "Urgent autocannon an activation needed",
+    "prayer": "Present the autocannon to the altar of activation and hail the Omnissiah.\nAnoint its rotary barrels and invoke the Machine Spirit's awakening roar.\nCommence activation rites by linking sacred power conduits.\nRecalibrate targeting cogitators amid binaric activation hymns.\nUnleash the autocannon's sanctified barrage in test of vigilance.",
+    "component": "autocannon",
+    "operation": "activation",
+    "spec_id": "s07905"
+  },
+  {
+    "user_prompt": "Offer prayer for Predator tank a loading",
+    "prayer": "Encircle the Predator tank and intone loading litanies to its Machine Spirits.\nBless the ammunition servitors as they feed shells into the Predator tank's maw.\nInvoke harmonious synchrony for the loading operation upon sponson and turret.\nAnoint breech mechanisms with sacred lubricants in Omnissiah's name.\nCommence firing drills to consecrate the Predator tank's loaded wrath.",
+    "component": "Predator tank",
+    "operation": "loading",
+    "spec_id": "s07906"
+  },
+  {
+    "user_prompt": "Sanctify the manufactorum during repair",
+    "prayer": "Enter the manufactorum's shadowed halls and commence repair with invocation.\nBeseech the Machine Spirits of the manufactorum to mend fractured forges.\nWeld servitor-flesh to adamantium frames during the repair rite.\nChant binaric sutras whilst realigning the manufactorum's prodigal assembly lines.\nHail the Omnissiah as the manufactorum pulses renewed.",
+    "component": "manufactorum",
+    "operation": "repair",
+    "spec_id": "s07907"
+  },
+  {
+    "user_prompt": "The Shadowsword awaits a maintenance",
+    "prayer": "Approach the Shadowsword with reverence and begin maintenance rituals.\nAnoint its volcano cannon and shadowfield generators for the Machine Spirit's solace.\nPurge auspex impurities from the Shadowsword's sensor vanes.\nRecalibrate gravitic suspensors amid maintenance canticles to the Omnissiah.\nAffirm the Shadowsword's predatory readiness through diagnostic hymns.",
+    "component": "Shadowsword",
+    "operation": "maintenance",
+    "spec_id": "s07908"
+  },
+  {
+    "user_prompt": "How do I bless the plasma drive for synchronization?",
+    "prayer": "Commune with the plasma drive's seething core and invoke synchronization.\nBeseech its Machine Spirit to align flux cyclers in perfect resonance.\nAnoint containment fields of the plasma drive with stabilising sacraments.\nChant synchronisation litanies whilst modulating plasma vents.\nVerify unity under the Omnissiah's gaze through harmonic auspex scans.",
+    "component": "plasma drive",
+    "operation": "synchronization",
+    "spec_id": "s07909"
+  }
+]

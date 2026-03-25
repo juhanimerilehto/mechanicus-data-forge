@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the Archaeopter Transvector during calibration",
+    "prayer": "Approach the Archaeopter Transvector with reverence, mechadendrites humming the Canticle of Alignment.\nInvoke the Omnissiah's grace upon its gravitic calibrators, beseeching precise vector attunement.\nAnoint the sensor vanes of the Archaeopter Transvector with sacred oils during calibration rites.\nChant the Binary Psalm to awaken its Machine Spirit, ensuring flawless grav-lift harmony.\nVerify the Archaeopter Transvector's calibration through auspex invocations and offer geas-seals.",
+    "component": "Archaeopter Transvector",
+    "operation": "calibration",
+    "spec_id": "s01210"
+  },
+  {
+    "user_prompt": "Assist with life signs monitor a maintenance",
+    "prayer": "Kneel before the life signs monitor, intoning the Litany of Vitality to rouse its essence.\nCommence maintenance upon the bio-circuitry, purging impurities with sanctified ablatives.\nAnoint the display lumens of the life signs monitor whilst reciting diagnostic catechisms.\nBeseech the Machine Spirit for renewed vigilance in monitoring life's fragile pulses.\nSeal the maintenance with Omnissiah's benediction, affirming the life signs monitor's purity.",
+    "component": "life signs monitor",
+    "operation": "maintenance",
+    "spec_id": "s01211"
+  },
+  {
+    "user_prompt": "The radium pistol awaits a repair",
+    "prayer": "Present the radium pistol to the altar of repair, whispering the Rite of Radiation Renewal.\nDissect its irradiated coils with precision servitors, invoking repair upon fractured emitters.\nRealign the radium pistol's flux chambers, anointing with rad-shield unguents thrice.\nCoax the Machine Spirit back to fury through galvanic incantations and flux-purge.\nConsecrate the repaired radium pistol, ensuring its lethal emissions serve the Omnissiah.",
+    "component": "radium pistol",
+    "operation": "repair",
+    "spec_id": "s01212"
+  },
+  {
+    "user_prompt": "Critical: conversion beamer requires a maintenance",
+    "prayer": "Hasten to the conversion beamer, chanting the Urgent Doxology of Matter Transmutation.\nInitiate maintenance rituals upon its phase inductors, clearing gravitic detritus with care.\nAnoint the beam focuser of the conversion beamer with phase-oils from the sacred font.\nInvoke the Machine Spirit's wrathful gaze, beseeching flawless maintenance alignment.\nTest the conversion beamer's integrity via micro-blast canticles, sealing with binary vows.",
+    "component": "conversion beamer",
+    "operation": "maintenance",
+    "spec_id": "s01213"
+  },
+  {
+    "user_prompt": "How do I bless the neutron laser for activation?",
+    "prayer": "Reverently grasp the neutron laser, intoning the Activation Hymn of Subatomic Fury.\nBless its cyclotron heart with lustrations, awakening the neutron flux for activation.\nAlign the neutron laser's emitter arrays whilst reciting the Omnissiah's Particle Creed.\nBeseech the Machine Spirit to unleash controlled annihilation upon activation command.\nVerify the neutron laser's blessed readiness through spectral auspex and triumphant geas.",
+    "component": "neutron laser",
+    "operation": "activation",
+    "spec_id": "s01214"
+  },
+  {
+    "user_prompt": "The waste reclamator requires a diagnostics",
+    "prayer": "Approach the waste reclamator humbly, murmuring the Canticle of Cyclical Purity.\nConduct diagnostics upon its reclamation manifolds, scanning for entropic corruptions.\nAnoint the filtration servos of the waste reclamator with alchemical purifiers.\nInvoke the Machine Spirit's endurance, revealing diagnostic truths in binary whispers.\nSeal diagnostics with Omnissiah's mark, restoring the waste reclamator's redemptive function.",
+    "component": "waste reclamator",
+    "operation": "diagnostics",
+    "spec_id": "s01215"
+  },
+  {
+    "user_prompt": "Sanctify the galvanic rifle during cycling",
+    "prayer": "Elevate the galvanic rifle in rite, chanting the Cycling Litany of Electric Wrath.\nCycle its voltaic capacitors with sanctified prods, invoking rhythmic power surges.\nBless the galvanic rifle's induction coils during cycling, anointing with arc-quenchants.\nCoax the Machine Spirit to harmonious discharge through galvanic psalms.\nConclude cycling of the galvanic rifle with verification chants and Omnissiah's acclaim.",
+    "component": "galvanic rifle",
+    "operation": "cycling",
+    "spec_id": "s01216"
+  },
+  {
+    "user_prompt": "Offer prayer for cortex implant a sterilization",
+    "prayer": "Prepare the cortex implant upon the neuro-altar, intoning the Sterilization Doxology.\nSterilize its synaptic interfaces with plasma-lustrations, purging bio-taint utterly.\nAnoint the cortex implant's neural relays with argent purifiers from Mechanicus vials.\nBeseech the Machine Spirit for unblemished fusion during sterilization rites.\nSeal the cortex implant's sanctity with binary seals, ready for cranial enshrinement.",
+    "component": "cortex implant",
+    "operation": "sterilization",
+    "spec_id": "s01217"
+  },
+  {
+    "user_prompt": "Emergency: Storm Eagle an initialization",
+    "prayer": "In emergency haste, invoke the Initialization Canticle upon the Storm Eagle.\nBoot its thunderous cogitators, beseeching swift initialization of storm drives.\nAnoint the Storm Eagle's auspex spines whilst aligning its machine-spirit core.\nChant the Omnissiah's Storm Invocation to harmonize the initialization sequences.\nAffirm the Storm Eagle's awakened fury through test-flight diagnostics and geas-binding.",
+    "component": "Storm Eagle",
+    "operation": "initialization",
+    "spec_id": "s01218"
+  },
+  {
+    "user_prompt": "What's the prayer for power weapon a diagnostics?",
+    "prayer": "Present the power weapon for scrutiny, whispering the Diagnostics Rite of Disruptor Fields.\nInitiate diagnostics upon its disruption fields, probing for phase instabilities.\nAnoint the power weapon's field generator with mono-conductive oils twice.\nInvoke the Machine Spirit's lethal precision, unveiling diagnostic revelations.\nConsecrate the power weapon post-diagnostics with Omnissiah's edge-blessing and final cant.",
+    "component": "power weapon",
+    "operation": "diagnostics",
+    "spec_id": "s01219"
+  }
+]

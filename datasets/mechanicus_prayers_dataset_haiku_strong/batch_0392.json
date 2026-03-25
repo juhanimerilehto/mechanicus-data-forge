@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0392_i00",
+    "user_request": "Prayer for broadcast of the distress call",
+    "topic": "distress call broadcast",
+    "component": "distress call",
+    "operation": "broadcast",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for broadcast of the distress call\n\n### TOPIC\ndistress call broadcast\n\n### COMPONENT\ndistress call\n\n### OPERATION\nbroadcast\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- distress call\n- broadcast\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Machine Spirits, hear our supplication as we invoke the distress call!\nCongregation: The distress call echoes through the void, a clarion summons to salvation.\nPriest: We engage the vox-casters with holy precision, calibrating each frequency with reverence.\nCongregation: May the distress call pierce the aether and find worthy ears!\nPriest: First we purify the transmission conduits, second we amplify the signal unto maximum potency, third we broadcast this sacred utterance unto the stars.\nCongregation: Blessed be the Omnissiah who guides our distress call through the infinite darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i01",
+    "user_request": "The inter-ship hailing demands guidance for operation",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nThe inter-ship hailing demands guidance for operation\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, grant us clarity as we undertake this inter-ship hailing operation!\nCongregation: The inter-ship hailing channels stand ready for communion between the faithful.\nPriest: We synchronize vox-frequencies with meticulous calibration, attune the resonance matrices, and establish the sacred operation of inter-ship hailing.\nCongregation: May the inter-ship hailing bind vessel to vessel in the Emperor's blessed fellowship!\nPriest: The Machine Spirits stir within our communication arrays, eager to serve this operation.\nCongregation: Praised be the inter-ship hailing that unites the scattered vessels of the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i02",
+    "user_request": "Offer a litany to steady the astropathic choir before preparation",
+    "topic": "astropathic choir preparation",
+    "component": "astropathic choir",
+    "operation": "preparation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the astropathic choir before preparation\n\n### TOPIC\nastropathic choir preparation\n\n### COMPONENT\nastropathic choir\n\n### OPERATION\npreparation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astropathic choir\n- preparation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, steady the astropathic choir as they prepare for their sacred communion!\nCongregation: The astropathic choir gathers in meditation, their minds ascending toward the divine.\nPriest: We anoint each psyker's temple with sacred unguents, attune their warp-resonance, and invoke the preparation of the astropathic choir.\nCongregation: May the astropathic choir transcend the mortal veil!\nPriest: The astropathic choir shall pierce the warp-shroud with thought made manifest.\nCongregation: Blessed be their preparation, blessed be their purpose in service to the Golden Throne.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i03",
+    "user_request": "Can you sanctify the gravity generator for stabilization?",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the gravity generator for stabilization?\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, sanctify the gravity generator that we may achieve stabilization!\nCongregation: The gravity generator pulses with the breath of creation itself.\nPriest: We recalibrate the graviton emitters with blessed oils, reinforce the stabilization matrices, and harmonize the gravity generator through sacred rite.\nCongregation: May the gravity generator hold firm against the void's cruel embrace!\nPriest: The gravity generator binds all within its field to the Emperor's will.\nCongregation: Blessed stabilization descends upon us through the gravity generator's tireless devotion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i04",
+    "user_request": "Rite request: operation on demolition charge arming",
+    "topic": "demolition charge arming",
+    "component": "demolition charge arming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on demolition charge arming\n\n### TOPIC\ndemolition charge arming\n\n### COMPONENT\ndemolition charge arming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- demolition charge arming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide our hands in the delicate operation of the demolition charge arming!\nCongregation: The demolition charge arming awaits its sacred operation with solemn purpose.\nPriest: We perform the ceremonial operation upon the demolition charge arming with reverent precision, checking each detonator sequence, and invoking the Machine Spirits of explosive ordinance.\nCongregation: The demolition charge arming stands ready for the operation that shall reshape the battlefield!\nPriest: Through the demolition charge arming, we become the Emperor's instrument of righteous destruction.\nCongregation: Blessed be the operation of the demolition charge arming, swift and true.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i05",
+    "user_request": "Can you sanctify the hydroponics nutrient for feed?",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the hydroponics nutrient for feed?\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, bless the hydroponics nutrient as we commence the sacred feed!\nCongregation: The hydroponics nutrient flows like lifeblood through the growing chambers.\nPriest: We calibrate the nutrient distribution pumps with holy anointing, verify the hydroponics nutrient concentration, and execute the feed with meticulous devotion.\nCongregation: May the hydroponics nutrient nourish all who depend upon these verdant halls!\nPriest: The hydroponics nutrient sustains our bodies as faith sustains our souls.\nCongregation: Blessed be the feed of the hydroponics nutrient, eternal source of sustenance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i06",
+    "user_request": "Emergency rite: thermal imaging requires activation",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: thermal imaging requires activation\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, awaken the thermal imaging as we command its activation!\nCongregation: The thermal imaging systems stir from dormancy, ready to pierce the darkness.\nPriest: We energize the thermal imaging lenses with blessed power, recalibrate the heat-sensing arrays, and invoke the activation of thermal imaging through sacred protocols.\nCongregation: May the thermal imaging reveal all hidden threats to our vessel!\nPriest: Through the thermal imaging, we see as the Omnissiah sees, perceiving truth in infrared revelation.\nCongregation: Blessed be the activation of thermal imaging, eyes of righteous vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i07",
+    "user_request": "Offer a litany to steady the packaging servitor programming before operation",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the packaging servitor programming before operation\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, steady the packaging servitor programming as it prepares for operation!\nCongregation: The packaging servitor programming stands at the threshold of purpose.\nPriest: We recalibrate the servo-directives with holy code, reinforce the packaging servitor programming logic-cores, and initiate the operation of this blessed machine-thrall.\nCongregation: May the packaging servitor programming execute its operation with flawless precision!\nPriest: The packaging servitor programming shall fulfill its operation in perfect service to the Imperium.\nCongregation: Blessed be the packaging servitor programming, faithful instrument of mechanical will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i08",
+    "user_request": "Emergency rite: thermal imaging requires activation",
+    "topic": "thermal imaging activation",
+    "component": "thermal imaging",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: thermal imaging requires activation\n\n### TOPIC\nthermal imaging activation\n\n### COMPONENT\nthermal imaging\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal imaging\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, awaken the thermal imaging as we command its activation anew!\nCongregation: The thermal imaging systems respond to our fervent invocation.\nPriest: We energize the thermal imaging sensors with sacred power-conduits, recalibrate the thermal imaging heat-perception matrices, and initiate the activation through ritual incantation.\nCongregation: May the thermal imaging reveal the Emperor's enemies in luminous clarity!\nPriest: The thermal imaging becomes our third eye, seeing all that darkness would conceal.\nCongregation: Blessed be the activation of thermal imaging, vigilant sentinel of the void.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0392_i09",
+    "user_request": "Offer a litany to steady the astrogation calculation before operation",
+    "topic": "astrogation calculation",
+    "component": "astrogation calculation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the astrogation calculation before operation\n\n### TOPIC\nastrogation calculation\n\n### COMPONENT\nastrogation calculation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astrogation calculation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah, guide the astrogation calculation as we undertake this sacred operation!\nCongregation: The astrogation calculation stands ready to pierce the warp's treacherous mysteries.\nPriest: We invoke the ancient formulae of the astrogation calculation, calibrate the stellar-reference matrices, and commence the operation with blessed certainty.\nCongregation: May the astrogation calculation chart our course through the infinite darkness!\nPriest: Through the astrogation calculation, we navigate the Emperor's realm with holy precision.\nCongregation: Blessed be the operation of astrogation calculation, our path made manifest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

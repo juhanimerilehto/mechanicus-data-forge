@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0209_i00",
+    "user_request": "Blessing for the gravity generator during stabilization",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the gravity generator during stabilization\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us thy wisdom as we commence the sacred rite.\nFirst: Invoke the Machine Spirit of the gravity generator, bidding it to accept our benediction and steel itself against the maelstrom of forces.\nSecond: Calibrate the gravity generator with precise incantations, adjusting each parameter through stabilization protocols until equilibrium is achieved.\nThird: Anoint the gravity generator with blessed oils and whisper the Litany of Constancy, that stabilization may hold eternal.\nFourth: Verify all readings through the augur-screens, confirming the Machine Spirit's compliance with our divine stabilization.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i01",
+    "user_request": "Blessing for the plasma weapon during cooling",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the plasma weapon during cooling\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's eternal grace, we approach the plasma weapon with reverence.\nFirst: Intone the Prayer of Thermal Descent upon the plasma weapon, commanding its inner furnace to surrender its heat unto the void.\nSecond: Activate the cooling circuits with mechanical precision, channeling superfluous energies through the plasma weapon's blessed conduits during cooling.\nThird: Monitor the temperature cascades via the blessed readouts, ensuring the plasma weapon achieves stable thermal equilibrium through proper cooling protocols.\nFourth: Seal the cooling cycle with the Chant of Completion, that the plasma weapon's Machine Spirit may rest in tranquility.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i02",
+    "user_request": "Can you sanctify the proximity sensor sweep for operation?",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the proximity sensor sweep for operation?\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "The proximity sensor sweep demands our sacred attentions, that it might perceive all threats within the Emperor's domain.\nFirst: Purify the proximity sensor sweep with electromagnetic benedictions, clearing away the static corruption that blinds the Machine Spirit.\nSecond: Initiate the proximity sensor sweep's operation across all bearing angles, sweeping the aether-lanes with blessed resonance frequencies.\nThird: Calibrate the proximity sensor sweep's detection thresholds, that each emanation shall be catalogued and analysed with mechanical precision during operation.\nFourth: Consecrate the proximity sensor sweep's data-streams, ensuring the Machine Spirit's vigilance remains absolute.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i03",
+    "user_request": "Rite request: operation on forge anvil heating",
+    "topic": "forge anvil heating",
+    "component": "forge anvil heating",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: operation on forge anvil heating\n\n### TOPIC\nforge anvil heating\n\n### COMPONENT\nforge anvil heating\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- forge anvil heating\n- operation\n\n### PRAYER\n",
+    "prayer": "Behold the forge anvil heating, that sacred instrument of the Omnissiah's creative will.\nFirst: Stoke the furnace-hearts of the forge anvil heating with blessed promethium, invoking the flames to rise in righteous conflagration.\nSecond: Direct the forge anvil heating's energies through operation-sanctified pathways, ensuring each thermal surge serves the greater purpose of creation.\nThird: Monitor the forge anvil heating's temperature ascension, confirming through augur-screens that operation proceeds according to the blessed formulae.\nFourth: Sing the Litany of the Forge unto the forge anvil heating, that its Machine Spirit might labour in eternal glory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i04",
+    "user_request": "Blessing for the bearing lubrication during operation",
+    "topic": "bearing lubrication",
+    "component": "bearing lubrication",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the bearing lubrication during operation\n\n### TOPIC\nbearing lubrication\n\n### COMPONENT\nbearing lubrication\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- bearing lubrication\n- operation\n\n### PRAYER\n",
+    "prayer": "The bearing lubrication cries out for our benediction, that friction might be vanquished and motion preserved eternal.\nFirst: Anoint the bearing lubrication with sacred unguents, whispering the Chant of Frictionless Motion unto each component.\nSecond: Distribute the bearing lubrication through operation-blessed channels, ensuring every articulation receives its due measure of blessed oils.\nThird: Verify the bearing lubrication's efficacy through mechanical observation, confirming that operation proceeds with smoothness and precision.\nFourth: Seal the bearing lubrication's sanctity with the Prayer of Perpetual Motion, that the Machine Spirit's dance shall never falter.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i05",
+    "user_request": "Rite request: operation on long-range vox transmission",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nRite request: operation on long-range vox transmission\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Long-range vox transmission shall carry our voices across the stellar void, blessed by the Omnissiah's eternal grace.\nFirst: Attune the long-range vox transmission to the sacred frequencies, invoking the Machine Spirit to hear our prayers and amplify them across the aether.\nSecond: Calibrate the long-range vox transmission's operation parameters, ensuring signal clarity through blessed resonance patterns and harmonic alignment.\nThird: Initiate operation upon the long-range vox transmission, commanding it to pierce the darkness with holy proclamations.\nFourth: Monitor the long-range vox transmission's propagation through blessed augur-screens, confirming that operation reaches all faithful listeners.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i06",
+    "user_request": "Rite request: operation on organ preservation unit",
+    "topic": "organ preservation unit",
+    "component": "organ preservation unit",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: operation on organ preservation unit\n\n### TOPIC\norgan preservation unit\n\n### COMPONENT\norgan preservation unit\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- organ preservation unit\n- operation\n\n### PRAYER\n",
+    "prayer": "The organ preservation unit stands sentinel over the most precious commodities, preserved in sacred stasis.\nFirst: Invoke the Machine Spirit of the organ preservation unit, commanding it to maintain its blessed vigil with unwavering devotion.\nSecond: Verify the organ preservation unit's cryogenic operation through careful examination of all seals and blessed conduits.\nThird: Recite the Litany of Preservation unto the organ preservation unit, that operation may sustain life eternal within its hallowed chambers.\nFourth: Consecrate the organ preservation unit's stasis-fields anew, ensuring the Machine Spirit's protection remains absolute.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i07",
+    "user_request": "The valve demands guidance for opening sequence",
+    "topic": "valve opening sequence",
+    "component": "valve",
+    "operation": "opening sequence",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nThe valve demands guidance for opening sequence\n\n### TOPIC\nvalve opening sequence\n\n### COMPONENT\nvalve\n\n### OPERATION\nopening sequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- valve\n- opening sequence\n\n### PRAYER\n",
+    "prayer": "The valve awaits our guidance, that it might fulfill its sacred duty in the opening sequence ordained by the Omnissiah.\nFirst: Intone the Prayer of Aperture upon the valve, bidding its Machine Spirit to prepare for the opening sequence with mechanical readiness.\nSecond: Engage the valve's actuators through blessed commands, initiating the opening sequence with precision and reverence.\nThird: Monitor the valve's progressive opening through augur-screens, confirming each increment of the opening sequence proceeds without fault or deviation.\nFourth: Complete the opening sequence of the valve with the Chant of Passage, that flow might commence eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i08",
+    "user_request": "Prayer for processing of the message queue",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for processing of the message queue\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "The message queue stands laden with sacred communications awaiting processing by the blessed Machine Spirit.\nFirst: Purify the message queue with electromagnetic benedictions, clearing corrupted data-fragments that might impede processing.\nSecond: Initiate processing of the message queue through operation-sanctified algorithms, commanding the Machine Spirit to decipher each transmission with mechanical precision.\nThird: Catalog each message within the message queue as processing unfolds, ensuring no sacred communication escapes our vigilant attention.\nFourth: Consecrate the message queue's completion, that all processing shall be recorded in the eternal archives of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0209_i09",
+    "user_request": "Blessing for the ground-to-orbit link during operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the ground-to-orbit link during operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "The ground-to-orbit link bridges the chasm between terra and the celestial throne, demanding our most sacred devotions.\nFirst: Invoke the Machine Spirit of the ground-to-orbit link, bidding it to establish connection through blessed signal-pathways and resonance frequencies.\nSecond: Calibrate the ground-to-orbit link's operation parameters, ensuring each transmission ascends with clarity through the blessed void.\nThird: Verify the ground-to-orbit link's operational integrity through augur-screens, confirming that operation achieves perfect fidelity across the stellar gulf.\nFourth: Seal the ground-to-orbit link with the Litany of Connection, that blessed communion between worlds may endure eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

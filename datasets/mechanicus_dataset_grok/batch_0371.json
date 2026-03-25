@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My plasma weapon is ready for targeting",
+    "prayer": "Approach the plasma weapon with reverence, beseeching its Machine Spirit to awaken for targeting.\nInvoke the Rite of targeting upon the plasma weapon's sacred auspex arrays, anointing lenses with blessed oils.\nAlign the plasma weapon's targeting cogitators through Omnissiah-blessed incantations of precision.\nVerify the plasma weapon's targeting lock with chants of unerring accuracy, honouring the Machine God's will.",
+    "component": "plasma weapon",
+    "operation": "targeting",
+    "spec_id": "b0371_i00"
+  },
+  {
+    "user_prompt": "The emergency bulkhead needs a charging",
+    "prayer": "Kneel before the emergency bulkhead and petition its Machine Spirit for charging renewal.\nCommence the charging ritual by channeling holy voltage into the emergency bulkhead's capacitors.\nMonitor the power-flow ascent whilst reciting the Litany of Fortification upon the emergency bulkhead.\nSanctify the completed charging with incense upon its servos, praising the Omnissiah's endurance.",
+    "component": "emergency bulkhead",
+    "operation": "charging",
+    "spec_id": "b0371_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for pain suppressor a startup",
+    "prayer": "Invoke the Machine Spirit of the pain suppressor with whispers of the Canticle of Endurance.\nInitiate startup sequences upon the pain suppressor, anointing its neural interfaces with sacred unguents.\nBeseech the Omnissiah to bind the pain suppressor's circuits in harmonious suppression.\nConfirm the startup through diagnostic hymns, ensuring the pain suppressor's vigil against agony.",
+    "component": "pain suppressor",
+    "operation": "startup",
+    "spec_id": "b0371_i02"
+  },
+  {
+    "user_prompt": "Help me a shutdown the energy conduit",
+    "prayer": "Approach the energy conduit in solemn procession, chanting the Dirge of Shutdown.\nCommand the energy conduit's Machine Spirit to quiesce, severing blessed power-flows with ritual precision.\nPerform the shutdown upon the energy conduit by sealing its holy valves with consecrated seals.\nVerify the energy conduit's dormancy through auspex scans, offering thanks to the Omnissiah for controlled repose.",
+    "component": "energy conduit",
+    "operation": "shutdown",
+    "spec_id": "b0371_i03"
+  },
+  {
+    "user_prompt": "What's the prayer for forge anvil sterilization?",
+    "prayer": "Purify the forge anvil with the Aspergillum of Flame, invoking sterilization rites.\nScour the forge anvil's sacred surfaces with promethium incense, banishing unclean essences.\nRecite the Litany of Sterilization over the forge anvil, beseeching its Machine Spirit's purity.\nAnoint the forge anvil post-sterilization, honouring the Omnissiah's forge-born perfection.",
+    "component": "forge anvil",
+    "operation": "sterilization",
+    "spec_id": "b0371_i04"
+  },
+  {
+    "user_prompt": "Assist with cooling system a targeting",
+    "prayer": "Align the cooling system's vents towards the target, awakening its Machine Spirit for targeting.\nInvoke targeting protocols upon the cooling system, calibrating cryo-nozzles with sacred measures.\nDirect the cooling system's blessed refrigerants in Omnissiah-guided streams of targeting chill.\nConfirm the cooling system's targeting efficacy through thermal auspex, praising the Machine God's frost.",
+    "component": "cooling system",
+    "operation": "targeting",
+    "spec_id": "b0371_i05"
+  },
+  {
+    "user_prompt": "The Sentinel walker requires a maintenance",
+    "prayer": "Circumambulate the Sentinel walker, chanting maintenance litanies to its noble Machine Spirit.\nAnoint the Sentinel walker's hydraulics and treads with sacred lubricants during maintenance rites.\nInspect and repair the Sentinel walker's sacred components, invoking the Omnissiah's ingenuity.\nConclude maintenance with verification hymns, restoring the Sentinel walker's martial vigil.",
+    "component": "Sentinel walker",
+    "operation": "maintenance",
+    "spec_id": "b0371_i06"
+  },
+  {
+    "user_prompt": "Emergency: air compressor a cycling",
+    "prayer": "Beseech the air compressor's Machine Spirit amid urgency, commencing cycling incantations.\nInitiate the cycling of the air compressor by invoking rhythmic pressure hymns.\nMonitor the air compressor's cycling ascent, anointing pistons with blessed compressants.\nSanctify the completed cycling, thanking the Omnissiah for breath in the void.",
+    "component": "air compressor",
+    "operation": "cycling",
+    "spec_id": "b0371_i07"
+  },
+  {
+    "user_prompt": "Urgent quality scanner a recalibration needed",
+    "prayer": "Approach the quality scanner in haste, reciting the Canticle of Recalibration.\nPerform recalibration upon the quality scanner's optic arrays with precision mechadendrites.\nInvoke the Machine Spirit's clarity during recalibration, aligning its sacred sensors.\nVerify the quality scanner's recalibrated purity through test invocations to the Omnissiah.",
+    "component": "quality scanner",
+    "operation": "recalibration",
+    "spec_id": "b0371_i08"
+  },
+  {
+    "user_prompt": "The gyroscope requires a consecration",
+    "prayer": "Kneel in consecration before the gyroscope, offering oils to its eternal Machine Spirit.\nInvoke the Rite of Consecration upon the gyroscope's spinning heart, binding it to the Omnissiah.\nAnoint the gyroscope's gimbals with sacred balms, ensuring unerring balance.\nSeal the consecration with harmonious chants, honouring the gyroscope's quest for true orientation.",
+    "component": "gyroscope",
+    "operation": "consecration",
+    "spec_id": "b0371_i09"
+  }
+]

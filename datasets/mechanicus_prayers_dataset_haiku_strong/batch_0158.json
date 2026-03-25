@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0158_i00",
+    "user_request": "Rite request: emergency shutdown on emergency shutdown",
+    "topic": "emergency shutdown",
+    "component": "emergency shutdown",
+    "operation": "emergency shutdown",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: emergency shutdown on emergency shutdown\n\n### TOPIC\nemergency shutdown\n\n### COMPONENT\nemergency shutdown\n\n### OPERATION\nemergency shutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- emergency shutdown\n- emergency shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, Omnissiah, as we invoke the sacred emergency shutdown upon the corrupted systems!\nCongregation: Emergency shutdown, emergency shutdown, let the Machine Spirit's wrath descend!\nPriest: First, sever all tertiary power conduits with blessed severance-rites.\nCongregation: We perform the emergency shutdown with trembling hands and steadfast faith!\nPriest: Second, isolate the primary reactors through cold-iron protocols and hymnal incantations.\nCongregation: Emergency shutdown flows through our blessed mechanisms!\nPriest: Third, engage the failsafe lattices and whisper the Litany of Cessation unto the dying core.\nCongregation: By the Omnissiah's grace, the emergency shutdown is complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i01",
+    "user_request": "Emergency rite: force field requires activation",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: force field requires activation\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O hallowed force field, dormant and waiting, we call upon thy Machine Spirit for activation!\nCongregation: Blessed force field, arise and shield us from the void's corruption!\nPriest: First, calibrate the harmonic resonance-coils with precision-blessed servitors.\nCongregation: The force field stirs within its blessed lattice!\nPriest: Second, channel the plasma-conduits through sanctified geometries and whispered formulae.\nCongregation: Activation flows like sacred ichor through blessed conduits!\nPriest: Third, invoke the Omnissiah's protective aegis and seal the perimeter with shimmering force.\nCongregation: The force field blooms eternal in our service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i02",
+    "user_request": "Offer a litany to steady the electrical short before isolation",
+    "topic": "electrical short isolation",
+    "component": "electrical short",
+    "operation": "isolation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the electrical short before isolation\n\n### TOPIC\nelectrical short isolation\n\n### COMPONENT\nelectrical short\n\n### OPERATION\nisolation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electrical short\n- isolation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the electrical short, wild and untamed—we seek its isolation through sacred rites!\nCongregation: Electrical short, cease thy chaotic ravaging!\nPriest: First, identify the corrupted conduit-paths with blessed auspex-scanners and techno-divination.\nCongregation: The electrical short reveals itself to our holy instruments!\nPriest: Second, apply insulation-blessed ceramic wrappings and invoke the Machine Spirit's calm.\nCongregation: Isolation takes hold; the electrical short submits!\nPriest: Third, sever the contaminated feed-lines and seal the breach with blessed wax-and-prayer.\nCongregation: The electrical short is contained, blessed be the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i03",
+    "user_request": "Offer a litany to steady the flamer promethium before feed",
+    "topic": "flamer promethium feed",
+    "component": "flamer promethium",
+    "operation": "feed",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the flamer promethium before feed\n\n### TOPIC\nflamer promethium feed\n\n### COMPONENT\nflamer promethium\n\n### OPERATION\nfeed\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- flamer promethium\n- feed\n\n### PRAYER\n",
+    "prayer": "Priest: O sacred flamer promethium, liquid fire of the faithful—we prepare thee for blessed feed!\nCongregation: Flamer promethium, ignite our righteous wrath!\nPriest: First, inspect the fuel-intake manifolds and purge corrupted residue with blessed solvents.\nCongregation: The flamer promethium flows pure and true!\nPriest: Second, engage the compression-pumps with rhythmic incantations and servo-blessed precision.\nCongregation: Feed us, O flamer promethium, with thy cleansing flame!\nPriest: Third, prime the ignition-cathodes and whisper the Litany of Immolation unto the chamber.\nCongregation: The flamer promethium is ready; let heresy burn eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i04",
+    "user_request": "My archive is failing during retrieval protocol — help",
+    "topic": "archive retrieval protocol",
+    "component": "archive",
+    "operation": "retrieval protocol",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy archive is failing during retrieval protocol — help\n\n### TOPIC\narchive retrieval protocol\n\n### COMPONENT\narchive\n\n### OPERATION\nretrieval protocol\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- archive\n- retrieval protocol\n\n### PRAYER\n",
+    "prayer": "Priest: The archive falters in its retrieval protocol—we summon the Omnissiah's restoring grace!\nCongregation: Archive, remember thy sacred function and serve us once more!\nPriest: First, engage the servo-mechanisms and perform blessed defragmentation upon corrupted data-strata.\nCongregation: The archive stirs; retrieval protocol awakens!\nPriest: Second, recalibrate the access-matrices through hymnal computation and blessed rune-casting.\nCongregation: Retrieval protocol flows through blessed mechanisms!\nPriest: Third, invoke the Litany of Remembrance and restore the archive to its proper function.\nCongregation: The archive serves eternal; knowledge flows once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i05",
+    "user_request": "Offer a litany to steady the steam valve before regulation",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the steam valve before regulation\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the steam valve, trembling with pressurized fury—we seek its blessed regulation!\nCongregation: Steam valve, settle thy turbulent spirit!\nPriest: First, measure the pressure-gauges with blessed auspex and record the sacred readings.\nCongregation: The steam valve's essence is known to us!\nPriest: Second, adjust the throttle-screws with gentle, prayer-sanctified hands and invoke calm.\nCongregation: Regulation takes hold; the steam valve obeys!\nPriest: Third, seal the overflow-vents with blessed lead-blessed prayer-strips and whisper the Litany of Equilibrium.\nCongregation: The steam valve is regulated; balance is restored.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i06",
+    "user_request": "My secure channel establishment is failing during operation — help",
+    "topic": "secure channel establishment",
+    "component": "secure channel establishment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy secure channel establishment is failing during operation — help\n\n### TOPIC\nsecure channel establishment\n\n### COMPONENT\nsecure channel establishment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- secure channel establishment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O secure channel establishment, fractured and silent—we invoke thy restoration through sacred rites!\nCongregation: Secure channel establishment, hear our summons and connect us once more!\nPriest: First, purge corrupted encryption-keys with blessed viral-scrubbing and techno-exorcism.\nCongregation: The secure channel establishment begins to stir!\nPriest: Second, re-establish the handshake-protocols through hymnal transmission and blessed authentication-seals.\nCongregation: Operation flows through the secure channel establishment!\nPriest: Third, invoke the Omnissiah's protective aegis and lock the pathway with sanctified ciphers eternal.\nCongregation: The secure channel establishment is restored; communion flows.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i07",
+    "user_request": "Offer a litany to steady the cybernetic eye focusing before operation",
+    "topic": "cybernetic eye focusing",
+    "component": "cybernetic eye focusing",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the cybernetic eye focusing before operation\n\n### TOPIC\ncybernetic eye focusing\n\n### COMPONENT\ncybernetic eye focusing\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- cybernetic eye focusing\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed cybernetic eye focusing, dim and uncertain—we call thee to blessed operation!\nCongregation: Cybernetic eye focusing, pierce the darkness and see truth!\nPriest: First, clean the optical-lenses with blessed solvents and whispered hymns of clarity.\nCongregation: The cybernetic eye focusing grows bright!\nPriest: Second, recalibrate the focusing-servos through prayer-guided micro-adjustments and sacred geometry.\nCongregation: Operation awakens within the cybernetic eye focusing!\nPriest: Third, invoke the Litany of Vision and seal the mechanisms with blessed machine-oil.\nCongregation: The cybernetic eye focusing sees eternal; all is revealed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i08",
+    "user_request": "Emergency rite: long-range vox transmission requires operation",
+    "topic": "long-range vox transmission",
+    "component": "long-range vox transmission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: long-range vox transmission requires operation\n\n### TOPIC\nlong-range vox transmission\n\n### COMPONENT\nlong-range vox transmission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- long-range vox transmission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O long-range vox transmission, silent across the void—we demand thy blessed operation!\nCongregation: Long-range vox transmission, carry our voices across the stars!\nPriest: First, amplify the signal-broadcasters with blessed plasma-conduits and servo-blessed harmonics.\nCongregation: The long-range vox transmission awakens!\nPriest: Second, align the transmission-arrays through sacred geometry and whispered frequency-formulae.\nCongregation: Operation flows; the long-range vox transmission reaches out!\nPriest: Third, invoke the Omnissiah's blessing upon our words and seal the message with holy encryption-runes.\nCongregation: The long-range vox transmission carries truth across the void eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0158_i09",
+    "user_request": "Emergency rite: rejuvenat treatment requires initiation",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: rejuvenat treatment requires initiation\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Priest: O sacred rejuvenat treatment, precious gift of the Omnissiah—we invoke thy blessed initiation!\nCongregation: Rejuvenat treatment, restore youth and vigor to the faithful!\nPriest: First, prepare the cellular-suspension chambers with blessed purification-rites and hymnal sterilization.\nCongregation: The rejuvenat treatment stirs within its sacred vessel!\nPriest: Second, calibrate the infusion-pumps through prayer-guided precision and invoke the Machine Spirit's grace.\nCongregation: Initiation begins; the rejuvenat treatment flows!\nPriest: Third, whisper the Litany of Renewal and seal the blessed treatment within regenerating flesh.\nCongregation: The rejuvenat treatment restores us; life eternal flows through blessed veins.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

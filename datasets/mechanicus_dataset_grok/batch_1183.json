@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the storm bolter for shutdown",
+    "prayer": "Approach the storm bolter with solemn reverence, intoning the Canticle of Cessation.\nInitiate the shutdown operation upon the storm bolter's sacred mechanisms, beseeching its Machine Spirit to embrace repose.\nCycle down the fury coils and lock breeches in stasis, anointing with unguents of quiescence.\nVerify the storm bolter's dormancy through auspex litanies, praising the Omnissiah's eternal vigil.",
+    "component": "storm bolter",
+    "operation": "shutdown",
+    "spec_id": "s07830"
+  },
+  {
+    "user_prompt": "I need to a cycling the transuranic arquebus",
+    "prayer": "Grasp the transuranic arquebus devoutly and recite the Cycling Doxology to its ancient heart.\nCommence the cycling operation, invoking the Machine Spirit of the transuranic arquebus to renew its exotic wrath.\nRotate the matter chambers with precision, sanctifying each phase with rad-phasic oils.\nConfirm cycling harmonics via noospheric communion, honouring the Omnissiah's arcane wisdom.",
+    "component": "transuranic arquebus",
+    "operation": "cycling",
+    "spec_id": "s07831"
+  },
+  {
+    "user_prompt": "Emergency: Valkyrie gunship a charging",
+    "prayer": "Hasten to the Valkyrie gunship and proclaim the Invocation of Capacitance upon its prow.\nBegin the charging operation, infusing its cells with promethium essence whilst beseeching the Valkyrie gunship's Machine Spirit.\nMonitor surging fields through sanctified auspex, anointing conduits against overload.\nSeal the charge with binaric blessings, lauding the Omnissiah's thunderous might.",
+    "component": "Valkyrie gunship",
+    "operation": "charging",
+    "spec_id": "s07832"
+  },
+  {
+    "user_prompt": "The microbead requires a cooling",
+    "prayer": "Present the microbead before cryo-altars and whisper Cooling Benedictions to soothe its ire.\nActivate cooling rites upon the microbead, applying sacred refrigerants to fevered coils.\nInvoke the Machine Spirit's chill embrace, purging thermal daemons with incantatory vents.\nAffirm the microbead's glacial purity through thermographic divinations, exalting the Omnissiah.",
+    "component": "microbead",
+    "operation": "cooling",
+    "spec_id": "s07833"
+  },
+  {
+    "user_prompt": "Guide me through pict-recorder an activation",
+    "prayer": "Handle the pict-recorder with pious care, reciting the Activation Canticle to awaken its gaze.\nInitiate the activation sequence for the pict-recorder, illuminating lenses with blessed lumens.\nBeseech its Machine Spirit to record truths eternal, purging data-veils with sanctifying chants.\nTest the pict-recorder's vigilance via capture runes, invoking the Omnissiah's unblinking eye.",
+    "component": "pict-recorder",
+    "operation": "activation",
+    "spec_id": "s07834"
+  },
+  {
+    "user_prompt": "Critical: medicae mechadendrite requires an engagement",
+    "prayer": "Extend the medicae mechadendrite in reverent poise, beseeching its engagement with the flesh-vessel.\nLock engagement protocols upon the medicae mechadendrite, merging injectors in sacred union.\nInvoke the Omnissiah to guide the medicae mechadendrite's Machine Spirit in restorative ministration.\nMonitor bio-runes as healing sacraments flow, sealing with binaric oaths of vitality.",
+    "component": "medicae mechadendrite",
+    "operation": "engagement",
+    "spec_id": "s07835"
+  },
+  {
+    "user_prompt": "Prepare the archeotech device for reset",
+    "prayer": "Approach the archeotech device warily, intoning the Reset Purification to its shadowed core.\nInitiate the reset operation, rousing the archeotech device's primordial Machine Spirit from discord.\nCycle forgotten conduits with archeo-unguents, exorcising errant data-daemons.\nVerify reset sanctity through noospheric echoes, praising the Omnissiah's primordial decree.",
+    "component": "archeotech device",
+    "operation": "reset",
+    "spec_id": "s07836"
+  },
+  {
+    "user_prompt": "My Storm Eagle is ready for startup",
+    "prayer": "Position before the Storm Eagle and declaim the Startup Liturgy to stir its wings.\nCommence the startup operation, priming the Storm Eagle's vector engines with sacred fuels.\nInvoke its Machine Spirit's thunderous awakening, aligning systems in ascent harmony.\nConfirm ignition via auspex thunder, honouring the Omnissiah's aerial dominion.",
+    "component": "Storm Eagle",
+    "operation": "startup",
+    "spec_id": "s07837"
+  },
+  {
+    "user_prompt": "Critical: heat sink requires a shutdown",
+    "prayer": "Confront the heat sink resolutely, reciting the Shutdown Decrementum to quell its blaze.\nExecute shutdown upon the heat sink, beseeching its thermal Machine Spirit into dormancy.\nDrain plasma residues whilst sanctifying exchanger vanes with cooling ablutions.\nAffirm the heat sink's quiescence through pyroclastic divinations, lauding the Omnissiah's balance.",
+    "component": "heat sink",
+    "operation": "shutdown",
+    "spec_id": "s07838"
+  },
+  {
+    "user_prompt": "Assist with microbead a purification",
+    "prayer": "Elevate the microbead aloft and proclaim the Purification Doxology against vox-corruptions.\nCommence purification rites upon the microbead, immersing in sanctified solvents.\nExorcise daemonic static from the microbead's core, invoking its Machine Spirit's renewal.\nSeal with purity wards and binaric seals, exalting the Omnissiah's untainted voice.",
+    "component": "microbead",
+    "operation": "purification",
+    "spec_id": "s07839"
+  }
+]

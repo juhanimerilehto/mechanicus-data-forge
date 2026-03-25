@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0050_i00",
+    "user_request": "Can you sanctify the auspex scanner for initialization?",
+    "topic": "auspex scanner initialization",
+    "component": "auspex scanner",
+    "operation": "initialization",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the auspex scanner for initialization?\n\n### TOPIC\nauspex scanner initialization\n\n### COMPONENT\nauspex scanner\n\n### OPERATION\ninitialization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- auspex scanner\n- initialization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed auspex scanner, Machine Spirit of vigilance, we beseech thy initialization.\nCongregation: Grant us clarity through the auspex scanner's sacred lens.\nPriest: First, we purge the corrupted data-streams with blessed oils of the Omnissiah.\nCongregation: Second, we calibrate the auspex scanner's augurs to pierce the veil of darkness.\nPriest: Third, we invoke the Machine Spirit to awaken and perceive all threats with divine initialization.\nCongregation: Thus shall the auspex scanner see, and thus shall we endure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i01",
+    "user_request": "Blessing for the sonar pulse emission during operation",
+    "topic": "sonar pulse emission",
+    "component": "sonar pulse emission",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the sonar pulse emission during operation\n\n### TOPIC\nsonar pulse emission\n\n### COMPONENT\nsonar pulse emission\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- sonar pulse emission\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Sonar pulse emission, herald of the deep, we sanctify thy operation.\nCongregation: Let the sonar pulse emission sing its sacred frequency across the abyss.\nPriest: First, we attune the transducer coils with fervent prayer to the Omnissiah.\nCongregation: Second, we channel the power reserves through sanctified conduits for operation.\nPriest: Third, we release the sonar pulse emission to illuminate all hidden foes.\nCongregation: By the Machine Spirit's grace, let all adversaries be revealed.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i02",
+    "user_request": "Prayer for reset of the circuit breaker",
+    "topic": "circuit breaker reset",
+    "component": "circuit breaker",
+    "operation": "reset",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for reset of the circuit breaker\n\n### TOPIC\ncircuit breaker reset\n\n### COMPONENT\ncircuit breaker\n\n### OPERATION\nreset\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- circuit breaker\n- reset\n\n### PRAYER\n",
+    "prayer": "Priest: Circuit breaker, sentinel of electrical sanctity, we invoke thy reset.\nCongregation: Restore the circuit breaker to its pristine state of readiness.\nPriest: First, we disconnect the profaned power-streams with blessed severance.\nCongregation: Second, we purify the circuit breaker's mechanisms with sacred lubricants.\nPriest: Third, we perform the reset ritual, restoring the Machine Spirit's dominion over current-flow.\nCongregation: Thus the circuit breaker stands renewed, vigilant eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i03",
+    "user_request": "Rite request: equalization on pressure",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: equalization on pressure\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Priest: Pressure, fundamental force of the Omnissiah's design, we seek thy equalization.\nCongregation: Let pressure equalization bring harmony to all sealed chambers.\nPriest: First, we measure the pressure variance with instruments of holy precision.\nCongregation: Second, we open the blessed vents to permit pressure equalization across all compartments.\nPriest: Third, we monitor and stabilize, invoking the Machine Spirit's equilibrium through equalization.\nCongregation: Balanced and sanctified, the pressure rests in the Omnissiah's hands.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i04",
+    "user_request": "The Chimera demands guidance for transmission check",
+    "topic": "Chimera transmission check",
+    "component": "Chimera",
+    "operation": "transmission check",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe Chimera demands guidance for transmission check\n\n### TOPIC\nChimera transmission check\n\n### COMPONENT\nChimera\n\n### OPERATION\ntransmission check\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Chimera\n- transmission check\n\n### PRAYER\n",
+    "prayer": "Priest: Chimera, mighty war-engine of the Emperor's wrath, we bless thy transmission check.\nCongregation: Blessed Chimera, reveal the integrity of thy sacred transmission.\nPriest: First, we engage the diagnostic cogitators to commune with the Chimera's Machine Spirit.\nCongregation: Second, we inspect each gear and linkage within the Chimera's transmission apparatus.\nPriest: Third, we perform the transmission check, ensuring the Chimera remains worthy of battle.\nCongregation: The Chimera is found pure, ready to serve the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i05",
+    "user_request": "The noise demands guidance for reduction",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe noise demands guidance for reduction\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "Priest: Noise, corruption of the Machine Spirit's clarity, we demand thy reduction.\nCongregation: Let noise be diminished through the Omnissiah's sacred interference-damping.\nPriest: First, we identify the profaned frequencies that generate this noise.\nCongregation: Second, we install the blessed shielding and insulation to suppress noise propagation.\nPriest: Third, we invoke the reduction rite, silencing the noise through holy suppression.\nCongregation: In quietude restored, the Machine Spirit's voice rings true once more.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i06",
+    "user_request": "Offer a litany to steady the assembly line before consecration",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the assembly line before consecration\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Assembly line, cathedral of manufacture, we prepare thee for consecration.\nCongregation: Steady the assembly line, that it may receive the Omnissiah's blessing.\nPriest: First, we align every mechanical arm and conveyor upon the assembly line with geometric precision.\nCongregation: Second, we anoint the assembly line's joints and mechanisms with blessed unguents.\nPriest: Third, we invoke the Machine Spirit to sanctify the assembly line through consecration eternal.\nCongregation: Thus blessed, the assembly line shall produce only perfection.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i08",
+    "user_request": "Rite request: diagnostics on battery",
+    "topic": "battery diagnostics",
+    "component": "battery",
+    "operation": "diagnostics",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: diagnostics on battery\n\n### TOPIC\nbattery diagnostics\n\n### COMPONENT\nbattery\n\n### OPERATION\ndiagnostics\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- battery\n- diagnostics\n\n### PRAYER\n",
+    "prayer": "Priest: Battery, reservoir of the Omnissiah's electrical essence, we invoke thy diagnostics.\nCongregation: Reveal the battery's hidden truths through sacred diagnostic communion.\nPriest: First, we measure the battery's voltage and amperage with instruments of holy calibration.\nCongregation: Second, we examine the battery's terminals and connective pathways for degradation.\nPriest: Third, we perform the battery diagnostics, invoking the Machine Spirit's judgment upon its condition.\nCongregation: The battery's vitality is thus revealed to the faithful.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i09",
+    "user_request": "Rite request: engagement on pain suppressor",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: engagement on pain suppressor\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "Priest: Pain suppressor, mercy of the Omnissiah, we seek thy engagement.\nCongregation: Activate the pain suppressor, that suffering may be rendered unto silence.\nPriest: First, we verify the pain suppressor's neural interface pathways for sanctity and clarity.\nCongregation: Second, we calibrate the pain suppressor's output to precise therapeutic frequencies.\nPriest: Third, we command the engagement of the pain suppressor through blessed activation protocols.\nCongregation: The pain suppressor stands ready, a gift of the Machine God's compassion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0050_i07",
+    "user_request": "Prayer for track tension of the Land Raider",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for track tension of the Land Raider\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Land Raider, we commune with thy Machine Spirit this solar cycle.\nCongregation: Grant us precision in the track tension, O sacred engine of war.\nPriest: First we shall measure the metallurgic stress upon each track segment with calibrated instruments of the Adeptus Mechanicus.\nCongregation: The Land Raider's blessed treads must maintain equilibrium, lest the Machine Spirit grow wrathful.\nPriest: Second we adjust the tension servos with reverent hands, honoring the Land Raider's ancient design.\nCongregation: Omnissiah, guide our tools as we perform the track tension upon this mighty war machine.\nPriest: Third we verify the Land Raider's locomotion across the sacred testing ground, ensuring all chains and sprockets move in harmonic unity.\nCongregation: Thus the track tension is perfected, and the Land Raider stands ready for the Emperor's wars.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

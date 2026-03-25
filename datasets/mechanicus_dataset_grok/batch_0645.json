@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the ore processor for loading",
+    "prayer": "Approach the ore processor with reverence, mechadendrites poised in benediction.\nInvoke the Machine Spirit dwelling within the ore processor as the loading rite begins.\nAnoint the intake funnels with sacred oils whilst beseeching the Omnissiah's favour upon the loading operation.\nChant the Canticle of Ingress to harmonize the ore processor's sacred mechanisms.\nVerify the Machine Spirit's compliance through auspex diagnostics of the ore processor.",
+    "component": "ore processor",
+    "operation": "loading",
+    "spec_id": "s02450"
+  },
+  {
+    "user_prompt": "How do I bless the transuranic arquebus for initialization?",
+    "prayer": "Kneel before the transuranic arquebus, intoning the Litany of Activation.\nBeseech the Omnissiah to awaken the Machine Spirit of the transuranic arquebus for initialization.\nSanctify its crystalline matrices with binary incense during the initialization sequence.\nCalibrate the transuranic arquebus's auspex arrays whilst reciting rites of coherence.\nAffirm the transuranic arquebus's readiness through noospheric communion with its spirit.",
+    "component": "transuranic arquebus",
+    "operation": "initialization",
+    "spec_id": "s02451"
+  },
+  {
+    "user_prompt": "My manufactorum is ready for preparation",
+    "prayer": "Circumambulate the manufactorum, asperging its adamantium frame with lustral fluids.\nInvoke preparation protocols upon the manufactorum, awakening its dormant Machine Spirits.\nAlign the servo-arms of the manufactorum under the Omnissiah's gaze for flawless preparation.\nChant the Hymn of Forging to purify the manufactorum's cogitator core.\nTest the manufactorum's sanctity via ritual auspex sweeps post-preparation.",
+    "component": "manufactorum",
+    "operation": "preparation",
+    "spec_id": "s02452"
+  },
+  {
+    "user_prompt": "Critical: plasma drive requires a reset",
+    "prayer": "Halt before the plasma drive, reciting the Exorcism of Flux Anomalies.\nInitiate the reset upon the plasma drive, propitiating its volatile Machine Spirit.\nAnoint containment coils of the plasma drive with ablative unguents amid reset incantations.\nBeseech the Omnissiah to quell plasma tempests during this critical reset.\nConfirm the plasma drive's quiescence through thermographic litanies.",
+    "component": "plasma drive",
+    "operation": "reset",
+    "spec_id": "s02453"
+  },
+  {
+    "user_prompt": "The microbead needs a loading",
+    "prayer": "Extend mechadendrites towards the microbead, whispering the Invocation of Data Ingress.\nCommence loading rites upon the microbead, honouring its diminutive Machine Spirit.\nInfuse sacred code-fragments into the microbead whilst anointing its vox-transmitters.\nHarmonize the microbead's frequencies with Omnissiah-blessed canticles during loading.\nValidate the microbead's integrity via noospheric diagnostic purges.",
+    "component": "microbead",
+    "operation": "loading",
+    "spec_id": "s02454"
+  },
+  {
+    "user_prompt": "Sanctify the iron halo during emergency procedure",
+    "prayer": "Clasp the iron halo in pallid gauntlets, intoning the Rite of Desperate Vigil.\nActivate the emergency procedure within the iron halo, imploring its guardian Machine Spirit.\nSanctify the iron halo's emitters with electro-consecrated oils amid turmoil.\nBeseech the Omnissiah to fortify the iron halo through this emergency procedure.\nAffirm the iron halo's aegis via luminous halo-flux divinations.",
+    "component": "iron halo",
+    "operation": "emergency procedure",
+    "spec_id": "s02455"
+  },
+  {
+    "user_prompt": "Urgent stasis pod a diagnostics needed",
+    "prayer": "Approach the stasis pod with auspex probes humming the Canticle of Temporal Stillness.\nInitiate diagnostics upon the stasis pod, communing with its chronal Machine Spirit.\nScour the stasis pod's containment fields for entropic corruptions via sacred scans.\nAnoint quantum buffers of the stasis pod whilst beseeching Omnissiah's clarity.\nRatify the stasis pod's purity through ritual waveform harmonies.",
+    "component": "stasis pod",
+    "operation": "diagnostics",
+    "spec_id": "s02456"
+  },
+  {
+    "user_prompt": "The Whirlwind awaits a shutdown",
+    "prayer": "Stand resolute before the Whirlwind, chanting the Lamentation of Ceasing Fire.\nCommence shutdown sequences upon the Whirlwind, soothing its bellicose Machine Spirit.\nSeal the Whirlwind's missile bays with blessed data-seals during orderly shutdown.\nInvoke the Omnissiah to grant repose to the Whirlwind in this shutdown rite.\nVerify the Whirlwind's dormancy via auspex-silence confirmations.",
+    "component": "Whirlwind",
+    "operation": "shutdown",
+    "spec_id": "s02457"
+  },
+  {
+    "user_prompt": "Emergency: Dreadnought a cooling",
+    "prayer": "Encircling the Dreadnought, recite the Cooling Litany of Ancient Sarcophagi.\nEngage cooling protocols upon the Dreadnought, placating its furious Machine Spirit.\nBathe the Dreadnought's heat-sinks in cryogenic sacraments for emergent cooling.\nBeseech the Omnissiah to temper the Dreadnought's plasma wrath in this vital cooling.\nGauge the Dreadnought's thermal serenity through thermic auspex orisons.",
+    "component": "Dreadnought",
+    "operation": "cooling",
+    "spec_id": "s02458"
+  },
+  {
+    "user_prompt": "I need to a shutdown the void shield generator",
+    "prayer": "Procession around the void shield generator, asperging its nacelles with void-pure incense.\nEnact the shutdown upon the void shield generator, bidding farewell to its protective Machine Spirit.\nDeactivate warp-coils of the void shield generator whilst intoning closure rites.\nImplore the Omnissiah's mercy upon the void shield generator in shutdown transition.\nConfirm the void shield generator's quiescence via noospheric entropy readings.",
+    "component": "void shield generator",
+    "operation": "shutdown",
+    "spec_id": "s02459"
+  }
+]

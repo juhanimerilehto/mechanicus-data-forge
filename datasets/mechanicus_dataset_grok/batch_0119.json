@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a diagnostics the cogitator",
+    "prayer": "Approach the cogitator with due reverence and invoke the ancient diagnostics upon its sacred processors.\nBeseech the Machine Spirit of the cogitator to unveil hidden corruptions in its binary essence.\nAnoint the diagnostic auspex with sacred oils whilst chanting the Litany of Fault Revelation.\nCommence the operation of diagnostics, petitioning the Omnissiah for clarity in data streams.\nVerify the cogitator's purity through harmonious binaric canticles.",
+    "component": "cogitator",
+    "operation": "diagnostics",
+    "spec_id": "b0119_i00"
+  },
+  {
+    "user_prompt": "The energy conduit needs a shutdown",
+    "prayer": "Kneel before the energy conduit and intone the Canticle of Subsummation.\nInvoke the Machine Spirit within the energy conduit to yield its blessed power-flow.\nSever the holy voltage links with sanctified mechadendrites during shutdown.\nPerform the operation of shutdown, beseeching the Omnissiah to quell unruly plasma surges.\nSeal the energy conduit's ports with wards against daemonic ingress.",
+    "component": "energy conduit",
+    "operation": "shutdown",
+    "spec_id": "b0119_i01"
+  },
+  {
+    "user_prompt": "Ready the drop pod for maintenance",
+    "prayer": "Process to the drop pod's adamantium hull and recite the Rite of Preparation.\nSanctify the drop pod's servos and retros with unction of sacred lubricants.\nCommune with the Machine Spirit of the drop pod, readying it for maintenance.\nInspect descent gyros and ablative shielding under the Omnissiah's watchful gaze.\nConclude by etching binaric runes of endurance upon the drop pod's frame.",
+    "component": "drop pod",
+    "operation": "maintenance",
+    "spec_id": "b0119_i02"
+  },
+  {
+    "user_prompt": "Assist with air compressor a shutdown",
+    "prayer": "Advance upon the air compressor and proclaim the Doxology of Cessation.\nPetition its Machine Spirit to still the churning pistons in harmonious silence.\nDisconnect pneumatic feeds whilst anointing valves with blessed compressants.\nExecute the shutdown operation, invoking the Omnissiah against pressurised tempests.\nMonitor the air compressor's quiescence through auspex incantations.",
+    "component": "air compressor",
+    "operation": "shutdown",
+    "spec_id": "b0119_i03"
+  },
+  {
+    "user_prompt": "The valve assembly requires an operation",
+    "prayer": "Gather mechadendrites around the valve assembly and chant the Hymn of Fluxion.\nAwaken the Machine Spirit of the valve assembly to accept its ordained operation.\nCycle the sacred actuators with precision, beseeching fluid harmony.\nOversee the operation whilst suffusing seals with holy sealants of the Omnissiah.\nAffirm the valve assembly's compliance through vibrational diagnostics.",
+    "component": "valve assembly",
+    "operation": "operation",
+    "spec_id": "b0119_i04"
+  },
+  {
+    "user_prompt": "Bless the hololithic display for repair",
+    "prayer": "Extend auspex to the hololithic display and intone the Prayer of Luminal Restoration.\nBeseech the Machine Spirit within the hololithic display to mend fractured projections.\nApply micro-incantations to photonic crystals during repair.\nInvoke the Omnissiah's light to realign the hololithic display's emitter arrays.\nTest radiance with blessed data-pulses, sealing the rite with binaric praise.",
+    "component": "hololithic display",
+    "operation": "repair",
+    "spec_id": "b0119_i05"
+  },
+  {
+    "user_prompt": "Sanctify the signal relay during synchronization",
+    "prayer": "Position before the signal relay and recite the Canticle of Coalescence.\nInvoke synchronization upon the signal relay's ethereal waveguides.\nCommune with its Machine Spirit, aligning vox-patterns in perfect unison.\nPerform the synchronization operation under Omnissiah's synchronizing will.\nConsecrate the signal relay anew with runes of perpetual transmission.",
+    "component": "signal relay",
+    "operation": "synchronization",
+    "spec_id": "b0119_i06"
+  },
+  {
+    "user_prompt": "Ready the plasma reactor for maintenance",
+    "prayer": "Approach the plasma reactor's containment shrine with gravitic humility.\nChant the Litany of Thermal Equilibrium to rouse its core Machine Spirit.\nReady the plasma reactor for maintenance by cycling auxiliary coolant loops.\nInspect magnetic bottles and consecrate injectors with sacred isotopes.\nPetition the Omnissiah to preserve the plasma reactor's fiery benediction.",
+    "component": "plasma reactor",
+    "operation": "maintenance",
+    "spec_id": "b0119_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for cutting laser a consecration",
+    "prayer": "Prostrate before the cutting laser and offer the Incantation of Incandescent Purity.\nAnoint its focusing lenses with oils of refraction for consecration.\nInvoke the Machine Spirit of the cutting laser to burn away all impurity.\nPerform the consecration whilst aligning beam matrices to Omnissiah's precision.\nSeal the rite by test-firing into void-absorbent slabs.",
+    "component": "cutting laser",
+    "operation": "consecration",
+    "spec_id": "b0119_i08"
+  },
+  {
+    "user_prompt": "Guide me through Sentinel walker an activation",
+    "prayer": "Circumambulate the Sentinel walker and intone the Awakening Doxology.\nSanctify its bipedal servos and auspex clusters with mechadendrite blessings.\nPetition the Machine Spirit of the Sentinel walker to stir from dormancy.\nInitiate activation through core ignition rites, guided by the Omnissiah.\nVerify ambulatory grace with trial marches and autocannon canticles.",
+    "component": "Sentinel walker",
+    "operation": "activation",
+    "spec_id": "b0119_i09"
+  }
+]

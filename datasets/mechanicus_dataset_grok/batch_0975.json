@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the plasma weapon for consecration?",
+    "prayer": "Approach the plasma weapon with reverence, invoking the Omnissiah's unyielding light upon its flux conduits.\nAnoint the plasma weapon's containment fields with sacred oils, beseeching consecration upon its volatile heart.\nChant the Litany of Plasma Purity to awaken the Machine Spirit for consecration.\nCalibrate the gyrometric stabilizers whilst intoning the Rite of Eternal Ignition.\nVerify the plasma weapon's sanctified fury through auspex diagnostic rites.",
+    "component": "plasma weapon",
+    "operation": "consecration",
+    "spec_id": "s05750"
+  },
+  {
+    "user_prompt": "Emergency: mass-drive regulator a sterilization",
+    "prayer": "Hasten to the mass-drive regulator, intoning the Canticle of Sterile Void to purify its mechanisms.\nApply ablative purifiers to the mass-drive regulator's regulator coils, invoking Omnissiah's cleansing wrath.\nBeseech the Machine Spirit to embrace sterilization, purging all xenos taint from its sacred gyres.\nCycle the sterilization vents whilst reciting the Purge Doxology.\nConfirm the mass-drive regulator's immaculate state via purity seals and sensor litanies.",
+    "component": "mass-drive regulator",
+    "operation": "sterilization",
+    "spec_id": "s05751"
+  },
+  {
+    "user_prompt": "My webber is ready for startup",
+    "prayer": "Kneel before the webber, murmuring the Awakening Hymn to rouse its spinneret souls.\nInitiate startup sequences upon the webber's primary motivators, anointing with mechadendrite lubricants.\nInvoke the Machine Spirit of the webber to weave its fibrous blessings in Omnissiah's name.\nMonitor the startup flux through noospheric chants and stabilizer invocations.\nSeal the rite with the Benediction of Binding, ensuring harmonious webber ignition.",
+    "component": "webber",
+    "operation": "startup",
+    "spec_id": "s05752"
+  },
+  {
+    "user_prompt": "The bike squadron requires a blessing",
+    "prayer": "Assemble before the bike squadron, chanting the Moto-Litany to bless their thunderous frames.\nAnoint the bike squadron's drive wheels and auspex arrays with sacred unguents for Omnissiah's favor.\nBeseech the Machine Spirits within the bike squadron to charge forth in blessed unity.\nRecalibrate weapon servos whilst intoning the Blessing of Velocity.\nAffix purity seals to the bike squadron, proclaiming their sanctified readiness.",
+    "component": "bike squadron",
+    "operation": "blessing",
+    "spec_id": "s05753"
+  },
+  {
+    "user_prompt": "Assist with warp drive a loading",
+    "prayer": "Commence the warp drive loading with the Incantation of Gellar Stability, honouring its nacelle vaults.\nInfuse warp plasma into the warp drive's containment spheres, invoking the Omnissiah's veil-piercing might.\nBeseech the warp drive's tempestuous Machine Spirit to accept this loading without daemonic breach.\nMonitor cyclonic flux whilst reciting the Navis-Litany of Safe Passage.\nSeal the warp drive loading with wards and confirmatory auspex hymns.",
+    "component": "warp drive",
+    "operation": "loading",
+    "spec_id": "s05754"
+  },
+  {
+    "user_prompt": "Urgent medicae mechadendrite an emergency procedure needed",
+    "prayer": "Deploy the medicae mechadendrite in haste, invoking the Chirurgeon's Creed for emergency succor.\nSanctify its hypodermic arrays and flesh-mending servitors for the emergency procedure.\nBeseech the Machine Spirit of the medicae mechadendrite to excise corruption with precise fury.\nInitiate the emergency procedure through noospheric triage chants and vitae purifiers.\nConclude with the Oath of Restoration, verifying the medicae mechadendrite's flawless ministration.",
+    "component": "medicae mechadendrite",
+    "operation": "emergency procedure",
+    "spec_id": "s05755"
+  },
+  {
+    "user_prompt": "The iron halo needs an operation",
+    "prayer": "Prepare the iron halo for operation, encircling it with the Halo Canticle of Aegis.\nAnoint its disruption fields and power inductors, beseeching Omnissiah's protective radiance.\nAwaken the Machine Spirit within the iron halo to commence operation unyieldingly.\nCycle its warp-sustaining gyres whilst intoning the Rite of Operational Sanctity.\nTest the iron halo's operational integrity through luminous invocation and seal affirmation.",
+    "component": "iron halo",
+    "operation": "operation",
+    "spec_id": "s05756"
+  },
+  {
+    "user_prompt": "How do I bless the lightning claw for cycling?",
+    "prayer": "Grasp the lightning claw with veneration, chanting the Storm Invocation to prime its talons.\nLubricate the lightning claw's power blades for cycling, invoking the Omnissiah's thunderous wrath.\nBeseech the Machine Spirit of the lightning claw to cycle its arcs in righteous fury.\nInitiate cycling protocols amid the Crackling Doxology of Shredding.\nAffirm the lightning claw's charged readiness via disruption field litanies.",
+    "component": "lightning claw",
+    "operation": "cycling",
+    "spec_id": "s05757"
+  },
+  {
+    "user_prompt": "Consecrate the plasma weapon before loading",
+    "prayer": "Present the plasma weapon humbly, intoning the Loading Litany to honour its flask reservoirs.\nCharge the plasma weapon's breeches with sanctified promethium, beseeching stable flux.\nAwaken the Machine Spirit for loading, invoking Omnissiah against containment breach.\nCycle the loading mechanisms whilst reciting the Canticle of Contained Fury.\nSeal the plasma weapon's loading with purity runes and auspex verification.",
+    "component": "plasma weapon",
+    "operation": "loading",
+    "spec_id": "s05758"
+  },
+  {
+    "user_prompt": "What's the prayer for data-loom a charging?",
+    "prayer": "Encircle the data-loom, murmuring the Charge Doxology to vitalize its binary lattices.\nInfuse noospheric power into the data-loom's cogitator nodes, anointing with electro-sanctifiers.\nBeseech the Machine Spirit of the data-loom to embrace charging without data-heresy.\nMonitor the charging cascade through invocatory binaric pulses.\nConclude the rite with the Benediction of Full Capacity, affirming the data-loom's energized purity.",
+    "component": "data-loom",
+    "operation": "charging",
+    "spec_id": "s05759"
+  }
+]

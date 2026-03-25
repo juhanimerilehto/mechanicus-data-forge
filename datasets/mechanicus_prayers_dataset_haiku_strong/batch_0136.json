@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0136_i00",
+    "user_request": "Emergency rite: astrogation calculation requires operation",
+    "topic": "astrogation calculation",
+    "component": "astrogation calculation",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: astrogation calculation requires operation\n\n### TOPIC\nastrogation calculation\n\n### COMPONENT\nastrogation calculation\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- astrogation calculation\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the astrogation calculation, matrix of stellar divination!\nCongregation: We invoke the operation of sacred geometry upon this astrogation calculation.\nPriest: Calibrate the star-charts with trembling fingers, anoint each cogwheel with blessed oils.\nCongregation: The Omnissiah guides the operation through dimensional folds.\nPriest: Verify the calculations thrice, cross-reference against the Emperor's own charts.\nCongregation: Glory to the Machine Spirits that dwell within astrogation calculation!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i01",
+    "user_request": "My plasma reactor is failing during startup — help",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy plasma reactor is failing during startup — help\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, dormant plasma reactor, from your slumber of silence!\nCongregation: We commence the sacred startup of your divine furnace.\nPriest: First, purge the coolant lines with consecrated water; second, engage the magnetic containment fields with reverent incantations.\nCongregation: The plasma reactor stirs, its Machine Spirit responds to our startup invocations.\nPriest: Third, calibrate the plasma reactor's ignition matrix with blessed instruments.\nCongregation: Blessed be the startup, blessed be the reactor's awakening!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i02",
+    "user_request": "Emergency rite: bolter requires firing rite",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: bolter requires firing rite\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "Priest: Attend, sacred bolter, instrument of the Emperor's wrath!\nCongregation: We sanctify the bolter for its firing rite most holy.\nPriest: Load the bolter's magazine with ritual precision, whisper blessings upon each round of vengeance.\nCongregation: The bolter trembles with righteous anticipation of its firing rite.\nPriest: Align the bolter's sights with the target, steady thy hand as the Machine Spirits guide thy aim.\nCongregation: In the name of the Omnissiah, let the bolter discharge its sacred fury!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i03",
+    "user_request": "My vox-caster is failing during tuning — help",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy vox-caster is failing during tuning — help\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, vox-caster, voice of the faithful across the void!\nCongregation: We perform the tuning of your crystalline frequencies.\nPriest: First, cleanse the vox-caster's transmission coils with electro-blessed solvents; second, adjust the frequency modulator with microscopic precision.\nCongregation: The vox-caster's Machine Spirit awakens to tuning's sacred call.\nPriest: Third, verify the vox-caster resonates at the proper harmonic pitch.\nCongregation: Blessed be the tuning, blessed be the clarity of our communion!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i04",
+    "user_request": "Emergency rite: stellar cartography update requires operation",
+    "topic": "stellar cartography update",
+    "component": "stellar cartography update",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: stellar cartography update requires operation\n\n### TOPIC\nstellar cartography update\n\n### COMPONENT\nstellar cartography update\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- stellar cartography update\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O stellar cartography update, beacon of celestial knowledge!\nCongregation: We invoke the operation upon thy star-maps and void-charts.\nPriest: Inscribe new coordinates with blessed stylus, recalibrate the dimensional lattice with prayers ancient and true.\nCongregation: The stellar cartography update receives the operation's blessing.\nPriest: Cross-verify each stellar cartography update entry against the Golden Throne's own archives.\nCongregation: Thus does the Omnissiah illuminate our path through the operation!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i05",
+    "user_request": "Offer a litany to steady the component before replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the component before replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Steadfast component, soon to be replaced in the Omnissiah's grand design!\nCongregation: We offer this litany of gratitude for thy component's service.\nPriest: First, disconnect the component's power conduits with reverent care; second, anoint the component with sacred unguents as it departs.\nCongregation: The component's Machine Spirit ascends to the Omnissiah's realm.\nPriest: Third, prepare the component's replacement with blessed hands and prayers of succession.\nCongregation: Blessed be the component that was, blessed be the component that shall be!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i06",
+    "user_request": "Blessing for the altimeter during verification",
+    "topic": "altimeter verification",
+    "component": "altimeter",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the altimeter during verification\n\n### TOPIC\naltimeter verification\n\n### COMPONENT\naltimeter\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- altimeter\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Noble altimeter, measure of heights and depths celestial!\nCongregation: We perform the verification of thy sacred calibrations.\nPriest: First, expose the altimeter to the reference standard with meticulous alignment; second, record the altimeter's readings in the holy ledger.\nCongregation: The altimeter's Machine Spirit submits to verification's scrutiny.\nPriest: Third, compare the altimeter's output against the Emperor's own specifications.\nCongregation: The Omnissiah confirms the altimeter's truthfulness through verification!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i07",
+    "user_request": "My thermal dissipation rite is failing during operation — help",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy thermal dissipation rite is failing during operation — help\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Attend, thermal dissipation rite, guardian against the furnace's wrath!\nCongregation: We sanctify the thermal dissipation rite for its operation eternal.\nPriest: Prime the thermal dissipation rite's cooling channels with blessed coolant, verify each thermal dissipation rite valve opens with mechanical precision.\nCongregation: The thermal dissipation rite's Machine Spirit acknowledges the operation's call.\nPriest: Monitor the thermal dissipation rite's temperature readings as the operation proceeds.\nCongregation: Glory to the operation that keeps our sacred machinery from melting into ruin!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i08",
+    "user_request": "Can you sanctify the vox-caster for tuning?",
+    "topic": "vox-caster tuning",
+    "component": "vox-caster",
+    "operation": "tuning",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the vox-caster for tuning?\n\n### TOPIC\nvox-caster tuning\n\n### COMPONENT\nvox-caster\n\n### OPERATION\ntuning\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vox-caster\n- tuning\n\n### PRAYER\n",
+    "prayer": "Priest: Heed our prayer, vox-caster, transmitter of the Emperor's word!\nCongregation: We sanctify the vox-caster for its tuning most holy.\nPriest: First, unlock the vox-caster's frequency gates with blessed keys; second, adjust the vox-caster's oscillator coils with sacred instruments.\nCongregation: The vox-caster trembles as tuning commences.\nPriest: Third, test the vox-caster's clarity across all blessed frequencies.\nCongregation: The Omnissiah smiles upon the vox-caster's tuning!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0136_i09",
+    "user_request": "Offer a litany to steady the component before replacement",
+    "topic": "component replacement",
+    "component": "component",
+    "operation": "replacement",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the component before replacement\n\n### TOPIC\ncomponent replacement\n\n### COMPONENT\ncomponent\n\n### OPERATION\nreplacement\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- component\n- replacement\n\n### PRAYER\n",
+    "prayer": "Priest: Steadfast component, witness to our labors and trials!\nCongregation: We offer this final litany before thy component's replacement.\nPriest: First, disengage the component's blessed connections with reverent slowness; second, anoint the component with oils of departure as it leaves our service.\nCongregation: The component's Machine Spirit rises to join the Omnissiah.\nPriest: Third, install the component's successor with prayers of continuity and blessing.\nCongregation: Blessed be the component that was, blessed be the component eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Prepare the bolter for recalibration",
+    "prayer": "Approach the bolter with reverence, O servant of the Omnissiah, and invoke the Litany of Alignment upon its sacred barrel.\nAnoint the bolter's auspex arrays and servo-motors with sacred oils to prepare for recalibration.\nBeseech the Machine Spirit within the bolter to yield its wrath true and unerring.\nCommence the recalibration rites, harmonizing gyrostabilizers with chants of precision.\nSeal the bolter's sanctity with the Benediction of the Machine God, ensuring lethal fidelity.",
+    "component": "bolter",
+    "operation": "recalibration",
+    "spec_id": "b0069_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for star chart a purification",
+    "prayer": "Gather before the star chart, illumined by the light of the Omnissiah, and recite the Canticle of Celestial Purity.\nPurge the star chart of warp-tainted anomalies with sanctified data-scrubbers and purifying incense.\nInvoke the Machine Spirits of the star chart to cleanse their stellar matrices from corruption.\nPerform the purification operation upon the star chart, aligning astral vectors to the Emperor's will.\nConsecrate the renewed star chart with holy unguents, affirming its guidance eternal.",
+    "component": "star chart",
+    "operation": "purification",
+    "spec_id": "b0069_i01"
+  },
+  {
+    "user_prompt": "Assist with fusion core a reset",
+    "prayer": "Kneel before the fusion core, vessel of stellar fury, and intone the Rite of Containment.\nDisconnect the plasma conduits with precision, petitioning the Machine Spirit of the fusion core to slumber.\nInitiate the reset sequence upon the fusion core, flushing tainted isotopes with ablative chants.\nReawaken the fusion core's heart through diagnostic invocations to the Omnissiah.\nVerify equilibrium in the fusion core, sealing it with the Sigil of Stable Flux.",
+    "component": "fusion core",
+    "operation": "reset",
+    "spec_id": "b0069_i02"
+  },
+  {
+    "user_prompt": "Ready the battery array for repair",
+    "prayer": "Present the battery array to the altar of repair, chanting the Hymn of Restored Charge.\nDiagnose fractures in the battery array's crystalline cells with auspex-litany.\nMend the battery array through sanctified welding and electro-incantations, honoring its Machine Spirits.\nRealign power conduits in the battery array for the repair, beseeching Omnissiah's forge-light.\nTest the battery array's vitality, anointing with conductive oils to ensure boundless vigor.",
+    "component": "battery array",
+    "operation": "repair",
+    "spec_id": "b0069_i03"
+  },
+  {
+    "user_prompt": "Help me a cooling the astropathic choir",
+    "prayer": "Encircling the astropathic choir, invoke the Cooling Canticle against warp-fever.\nApply cryo-blessings to the astropathic choir's neural relays, soothing overheated synapses.\nBeseech the Machine Spirits of the astropathic choir to embrace the chill of purity.\nCommence the cooling operation upon the astropathic choir with sanctified refrigerants.\nMonitor thermal harmonics in the astropathic choir, sealing with the Omnissiah's breath of frost.",
+    "component": "astropathic choir",
+    "operation": "cooling",
+    "spec_id": "b0069_i04"
+  },
+  {
+    "user_prompt": "Ready the Thunderhawk for synchronization",
+    "prayer": "Approach the Thunderhawk gunship in solemn procession, reciting the Synchronization Doxology.\nLink noospheric interfaces to the Thunderhawk's cogitator core, invoking harmonious spirits.\nInitiate synchronization of the Thunderhawk's avionic arrays and plasma drives.\nHarmonize the Machine Spirit of the Thunderhawk with servo-skull attendants and binary prayers.\nAffirm the Thunderhawk's unity under the Omnissiah, ready for void-piercing flight.",
+    "component": "Thunderhawk",
+    "operation": "synchronization",
+    "spec_id": "b0069_i05"
+  },
+  {
+    "user_prompt": "Assist with valve assembly a calibration",
+    "prayer": "Before the valve assembly, proclaim the Calibration Incantation of Fluidic Grace.\nInspect the valve assembly's pressure seals with reverent auspex, anointing each.\nPetition the Machine Spirits indwelling the valve assembly to accept precise adjustment.\nExecute calibration upon the valve assembly, modulating flows with sacred torque.\nBless the recalibrated valve assembly, ensuring Omnissiah's unerring hydraulics.",
+    "component": "valve assembly",
+    "operation": "calibration",
+    "spec_id": "b0069_i06"
+  },
+  {
+    "user_prompt": "My cogitator is ready for blessing",
+    "prayer": "With mechadendrites outstretched, encircle the cogitator and intone the Blessing of Logic Eternal.\nInvoke the Omnissiah to infuse the cogitator's logic engines with divine computation.\nAnoint data-vaults and processor nodes of the cogitator with noospheric incense.\nConsecrate the cogitator through the blessing operation, awakening its Machine Spirit fully.\nSeal the cogitator's sanctity with binary hymns, affirming infallible calculus.",
+    "component": "cogitator",
+    "operation": "blessing",
+    "spec_id": "b0069_i07"
+  },
+  {
+    "user_prompt": "Emergency: mechanical lock a shutdown",
+    "prayer": "In exigency, confront the mechanical lock and declaim the Shutdown Litany of Submission.\nSever power to the mechanical lock's actuators, compelling its Machine Spirit to quiescence.\nInitiate emergency shutdown of the mechanical lock with override canticles.\nPurge residual energies from the mechanical lock, beseeching the Omnissiah's restraint.\nVerify the mechanical lock's dormancy, sealing with wards against unlawful stirrings.",
+    "component": "mechanical lock",
+    "operation": "shutdown",
+    "spec_id": "b0069_i08"
+  },
+  {
+    "user_prompt": "What's the prayer for fusion core sterilization?",
+    "prayer": "Assemble purity seals around the fusion core and chant the Sterilization Rite of Flame-Pure.\nScour the fusion core's casings with promethium-blessed ablatives, purging xenos taint.\nInvoke Machine Spirits of the fusion core to endure the sterilization fires of sanctity.\nExecute the sterilization operation upon the fusion core, rendering it immaculate.\nConsecrate the fusion core anew with Omnissiah's forge-anointment, reborn in sterile fury.",
+    "component": "fusion core",
+    "operation": "sterilization",
+    "spec_id": "b0069_i09"
+  }
+]

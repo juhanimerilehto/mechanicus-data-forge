@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with atmosphere processor a loading",
+    "prayer": "Approach the atmosphere processor with vials of sanctified gases and intone the Canticle of Pressurization.\nPrepare the sacred loading reservoirs, ensuring no impurity taints the atmosphere processor's noble intake.\nInvoke the loading sequence upon its blessed filtration matrices, beseeching the Machine Spirit to embrace the vital influx.\nAnoint the control conduits with holy unguents as the Omnissiah's breath fills the atmosphere processor once more.",
+    "component": "atmosphere processor",
+    "operation": "loading",
+    "spec_id": "b0087_i00"
+  },
+  {
+    "user_prompt": "The chainsword requires a shutdown",
+    "prayer": "Kneel before the chainsword and whisper the Lullaby of Repose to soothe its raging Machine Spirit.\nDecelerate the monomolecular teeth with ritual declamations, guiding the chainsword into quiescence.\nSever the power-flow from its sacred motor whilst petitioning the Omnissiah for peaceful shutdown.\nSeal the chainsword's activation rune with wax of purity, confirming the spirit's honorable rest.",
+    "component": "chainsword",
+    "operation": "shutdown",
+    "spec_id": "b0087_i01"
+  },
+  {
+    "user_prompt": "Offer prayer for hololithic display a calibration",
+    "prayer": "Gather the hololithic display's emitter arrays and recite the Doxology of Alignment.\nInitiate calibration protocols upon the hololithic display, harmonizing its photonic lattices with sacred measures.\nBeseech the Machine Spirit within the hololithic display to reveal true projections unmarred by warp-taint.\nVerify calibration through invocation of the Omnissiah's light, sanctifying each holographic stratum.",
+    "component": "hololithic display",
+    "operation": "calibration",
+    "spec_id": "b0087_i02"
+  },
+  {
+    "user_prompt": "The bionics interface requires an initialization",
+    "prayer": "Present electro-incense to the bionics interface and chant the Rite of Neural Binding.\nCommence initialization of the bionics interface, awakening its servo-neuronal pathways with blessed current.\nInvoke the Machine Spirits of flesh and forge to unite within the bionics interface's holy nexus.\nTest the initialization bond by flexing sanctified actuators, praising the Omnissiah's fusion.",
+    "component": "bionics interface",
+    "operation": "initialization",
+    "spec_id": "b0087_i03"
+  },
+  {
+    "user_prompt": "Assist with fusion core an initialization",
+    "prayer": "Encircle the fusion core with purity seals and intone the Plasma Benediction.\nAwaken the fusion core through initialization rites, stirring its plasma heart with Omnissiah's fire.\nBeseech the Machine Spirit of the fusion core to ignite without heresy in its containment fields.\nMonitor the blessed reaction post-initialization, anointing magnetic coils with sacred oils.",
+    "component": "fusion core",
+    "operation": "initialization",
+    "spec_id": "b0087_i04"
+  },
+  {
+    "user_prompt": "How do I bless the emergency bulkhead for consecration?",
+    "prayer": "Anoint the emergency bulkhead's servos with lustral oils and proclaim the Litany of Fortitude.\nInvoke consecration upon the emergency bulkhead, fortifying its adamantium plates against void-breaches.\nPetition the Machine Spirit indwelling the emergency bulkhead to stand eternal vigil for the Omnissiah.\nSeal the consecration with inscribed binaric prayers, ensuring unyielding defense.",
+    "component": "emergency bulkhead",
+    "operation": "consecration",
+    "spec_id": "b0087_i05"
+  },
+  {
+    "user_prompt": "Sanctify the memory core during repair",
+    "prayer": "Approach the memory core humbly and burn data-exorcism incense to purge corruptions.\nCommence repair of the memory core, reciting the Canticle of Data-Restoration line by sacred line.\nBeseech the Machine Spirit of the memory core to reclaim lost engrams under Omnissiah's gaze.\nVerify the memory core's wholeness through diagnostic litanies, sanctifying restored vaults.",
+    "component": "memory core",
+    "operation": "repair",
+    "spec_id": "b0087_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for hydroponics bay synchronization?",
+    "prayer": "Assemble nutrient relays before the hydroponics bay and chant the Harvest Doxology.\nInitiate synchronization of the hydroponics bay's vitae-cycles, aligning lamps and irrigators in harmony.\nInvoke the verdant Machine Spirits within the hydroponics bay to yield bountiful for the Omnissiah.\nConfirm synchronization by tasting sanctified hydroponics bay produce, praising the Machine God's provision.",
+    "component": "hydroponics bay",
+    "operation": "synchronization",
+    "spec_id": "b0087_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for Land Raider calibration?",
+    "prayer": "Procession around the Land Raider with mechadendrites extended in veneration.\nEngage calibration of the Land Raider's auspex and targeting cogitators with precision canticles.\nBeseech the noble Machine Spirit of the Land Raider to attune its holy weaponry true.\nFinalize calibration amid incense clouds, invoking the Omnissiah's wrath upon foes.",
+    "component": "Land Raider",
+    "operation": "calibration",
+    "spec_id": "b0087_i08"
+  },
+  {
+    "user_prompt": "The pump needs a consecration",
+    "prayer": "Bathe the pump in ablutive fluids and recite the Hymn of Fluidic Motion.\nDedicate the pump to consecration, blessing its impeller blades and pressure manifolds.\nPetition the Machine Spirit animating the pump to flow ceaselessly in Omnissiah's service.\nTest the consecrated pump's vigor with ritual surges, sealing its sanctity forever.",
+    "component": "pump",
+    "operation": "consecration",
+    "spec_id": "b0087_i09"
+  }
+]

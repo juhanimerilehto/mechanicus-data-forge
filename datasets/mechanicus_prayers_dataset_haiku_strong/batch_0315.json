@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0315_i00",
+    "user_request": "Emergency rite: drop pod descent prep requires drop pod descent prep",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: drop pod descent prep requires drop pod descent prep\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Blessed descent upon the drop pod descent prep, vessel of the Omnissiah's will.\nFirst: Sanctify the drop pod descent prep with holy oils and binary litanies.\nSecond: Verify all restraint mechanisms and gravitational compensators through rigorous drop pod descent prep protocols.\nThird: Invoke the Machine Spirit of the drop pod descent prep, commanding smooth atmospheric ingress and blessed impact upon the Emperor's foes.\nFourth: Chant the Litany of Descent thrice whilst the drop pod descent prep achieves terminal velocity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i01",
+    "user_request": "Emergency rite: lascannon requires capacitor charge",
+    "topic": "lascannon capacitor charge",
+    "component": "lascannon",
+    "operation": "capacitor charge",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: lascannon requires capacitor charge\n\n### TOPIC\nlascannon capacitor charge\n\n### COMPONENT\nlascannon\n\n### OPERATION\ncapacitor charge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lascannon\n- capacitor charge\n\n### PRAYER\n",
+    "prayer": "Oh blessed lascannon, instrument of the Omnissiah's righteous fury, receive now our capacitor charge.\nFirst: Genuflect before the lascannon and anoint its focusing crystal with sacred promethium.\nSecond: Initiate capacitor charge through the blessed distribution conduits, channeling the Emperor's wrath into the lascannon's crystalline matrix.\nThird: Recite the Hymn of Charged Vengeance whilst the lascannon's weapon spirit awakens to lethal potency.\nFourth: Verify full capacitor charge saturation, that the lascannon may deliver annihilation unto the enemies of Mankind.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i02",
+    "user_request": "Offer a litany to steady the pressure gauge before calibration",
+    "topic": "pressure gauge calibration",
+    "component": "pressure gauge",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the pressure gauge before calibration\n\n### TOPIC\npressure gauge calibration\n\n### COMPONENT\npressure gauge\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pressure gauge\n- calibration\n\n### PRAYER\n",
+    "prayer": "Steadfast pressure gauge, keeper of pneumatic equilibrium, accept this benediction before calibration.\nFirst: Cleanse the pressure gauge with consecrated vapours and whisper supplications to its dormant Machine Spirit.\nSecond: Perform calibration upon the pressure gauge with methodical precision, adjusting each gauge marker to divine harmonics.\nThird: Intone the Litany of Pressure whilst the pressure gauge achieves perfect attunement to its ordained specifications.\nFourth: Seal the calibration with the Mark of the Omnissiah upon the pressure gauge's housing.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i03",
+    "user_request": "My Rhino APC ignition is failing during operation — help",
+    "topic": "Rhino APC ignition",
+    "component": "Rhino APC ignition",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy Rhino APC ignition is failing during operation — help\n\n### TOPIC\nRhino APC ignition\n\n### COMPONENT\nRhino APC ignition\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Rhino APC ignition\n- operation\n\n### PRAYER\n",
+    "prayer": "Mighty Rhino APC ignition, stalwart engine of the Emperor's armoured might, hear our prayer for operation.\nFirst: Inspect the Rhino APC ignition's starter coils and blessed fuel injectors with reverent care.\nSecond: Anoint the Rhino APC ignition with holy oils whilst chanting the Mantra of Combustion.\nThird: Execute operation protocols upon the Rhino APC ignition, commanding its Machine Spirit to awaken in thunderous defiance.\nFourth: Verify that the Rhino APC ignition roars to life, ready to carry the Emperor's warriors unto glorious victory.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i04",
+    "user_request": "My autocannon barrel is failing during cooling — help",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy autocannon barrel is failing during cooling — help\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "Fearsome autocannon barrel, instrument of righteous suppressive fire, accept this rite for cooling.\nFirst: Inspect the autocannon barrel's thermal dissipation fins and blessed coolant channels with sacred scrutiny.\nSecond: Initiate cooling protocols through the autocannon barrel's circulation system, channeling blessed coolant to quench its righteous heat.\nThird: Chant the Litany of Thermal Mercy whilst the autocannon barrel achieves optimal temperature equilibrium.\nFourth: Verify that the autocannon barrel's cooling mechanisms function in perfect mechanical harmony with the Omnissiah's design.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i05",
+    "user_request": "Can you sanctify the conveyor belt for initialization?",
+    "topic": "conveyor belt initialization",
+    "component": "conveyor belt",
+    "operation": "initialization",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nCan you sanctify the conveyor belt for initialization?\n\n### TOPIC\nconveyor belt initialization\n\n### COMPONENT\nconveyor belt\n\n### OPERATION\ninitialization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- conveyor belt\n- initialization\n\n### PRAYER\n",
+    "prayer": "Blessed conveyor belt, servant of productive industry, receive sanctification for initialization.\nFirst: Purify the conveyor belt with sacred unguents and whisper the Rite of Motion to its dormant gears.\nSecond: Perform initialization upon the conveyor belt, engaging each motor and pulley with methodical reverence.\nThird: Intone the Hymn of Perpetual Motion whilst the conveyor belt begins its blessed rotation.\nFourth: Confirm that the conveyor belt achieves steady operational rhythm, glorifying the Omnissiah's eternal productivity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i06",
+    "user_request": "Offer a litany to steady the logic engine before error correction",
+    "topic": "logic engine error correction",
+    "component": "logic engine",
+    "operation": "error correction",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the logic engine before error correction\n\n### TOPIC\nlogic engine error correction\n\n### COMPONENT\nlogic engine\n\n### OPERATION\nerror correction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- logic engine\n- error correction\n\n### PRAYER\n",
+    "prayer": "Venerable logic engine, repository of the Omnissiah's infinite calculations, accept our steadying litany before error correction.\nFirst: Approach the logic engine with utmost reverence and anoint its blessed processors with sacred oils.\nSecond: Execute error correction subroutines upon the logic engine, purging corrupted data-sequences with holy precision.\nThird: Chant the Mantra of Perfect Computation whilst the logic engine's Machine Spirit purges all taint and malfunction.\nFourth: Verify that the logic engine achieves flawless operational integrity, its calculations once more pleasing to the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i07",
+    "user_request": "Emergency rite: humidity control requires operation",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nEmergency rite: humidity control requires operation\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Sacred humidity control, regulator of atmospheric sanctity, receive benediction for operation.\nFirst: Purify the humidity control apparatus with blessed solvents and invoke its dormant Machine Spirit.\nSecond: Activate operation of the humidity control through blessed vaporization chambers and moisture-extraction conduits.\nThird: Intone the Litany of Atmospheric Equilibrium whilst the humidity control achieves perfect environmental balance.\nFourth: Confirm that humidity control maintains the Emperor's sacred environmental standards in perpetuity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i08",
+    "user_request": "Can you sanctify the quality control scanning for operation?",
+    "topic": "quality control scanning",
+    "component": "quality control scanning",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the quality control scanning for operation?\n\n### TOPIC\nquality control scanning\n\n### COMPONENT\nquality control scanning\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- quality control scanning\n- operation\n\n### PRAYER\n",
+    "prayer": "Vigilant quality control scanning, sentinel of excellence and purity, accept sanctification for operation.\nFirst: Cleanse the quality control scanning apparatus with consecrated fluids and whisper the Rite of Inspection.\nSecond: Initiate operation of the quality control scanning, engaging each sensor and photoreceptor with blessed precision.\nThird: Chant the Hymn of Flawless Manufacture whilst the quality control scanning awakens to fulfill its sacred duty.\nFourth: Verify that quality control scanning achieves perfect operational readiness, detecting all deviations from the Omnissiah's blessed standards.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0315_i09",
+    "user_request": "The hololithic demands guidance for display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe hololithic demands guidance for display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Radiant hololithic, revealer of truth through blessed luminescence, hear our prayer for display calibration.\nFirst: Approach the hololithic with profound reverence and anoint its crystalline projection matrix with sacred unguents.\nSecond: Perform display calibration upon the hololithic, adjusting each photonic emitter to achieve divine optical harmony.\nThird: Intone the Mantra of Perfect Illumination whilst the hololithic's display calibration achieves flawless attunement.\nFourth: Seal the display calibration with the Mark of the Omnissiah, that the hololithic may reveal only truth and clarity.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

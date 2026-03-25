@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Ready the servitor for operation",
+    "prayer": "Approach the servitor with mechadendrites extended in reverence, beseeching its dormant Machine Spirit to stir.\nAnoint the servitor's cranial vaults and limb-servos with sacred oils, purging any lingering flesh-taint.\nInvoke the Litany of Obedience to align its cogitator core for the operation.\nSecure cranial restraints and verify neural compliance, readying the servitor for operation.\nPetition the Omnissiah that this servitor may serve without falter in its appointed task.",
+    "component": "servitor",
+    "operation": "operation",
+    "spec_id": "b0399_i00"
+  },
+  {
+    "user_prompt": "My noospheric relay is ready for diagnostics",
+    "prayer": "Commune noospherically with the noospheric relay, whispering the Canticle of Linked Minds.\nInitiate purity seals upon the noospheric relay's transceiver nodes to honor its Machine Spirit.\nChant diagnostic incantations over the noospheric relay, scanning for data-corruptions and etheric variances.\nAnoint crystalline matrices with holy unguents whilst performing diagnostics on the noospheric relay.\nBeseech the Omnissiah to reveal flaws in the noospheric relay through blessed auspex readings.",
+    "component": "noospheric relay",
+    "operation": "diagnostics",
+    "spec_id": "b0399_i01"
+  },
+  {
+    "user_prompt": "My assembly servitor is ready for emergency procedure",
+    "prayer": "Gather sanctified tools before the assembly servitor, invoking the Machine Spirit's vigilance.\nApply emergency ablutions to the assembly servitor's manipulators and chassis with purging incense.\nRecite the Rite of Urgent Restoration to prepare the assembly servitor for emergency procedure.\nTest hydraulic pistons and servo-arms on the assembly servitor, beseeching unflinching service.\nPetition the Omnissiah that the assembly servitor endures the emergency procedure unscathed.",
+    "component": "assembly servitor",
+    "operation": "emergency procedure",
+    "spec_id": "b0399_i02"
+  },
+  {
+    "user_prompt": "My vox-caster is ready for engagement",
+    "prayer": "Extend mechadendrites to caress the vox-caster's sacred emitters, awakening its resonant Machine Spirit.\nAnoint waveform coils and amplification runes with oils of transmission.\nChant the Vox-Litany of Outreach to attune the vox-caster for engagement.\nVerify signal purity and etheric coherence within the vox-caster prior to engagement.\nInvoke the Omnissiah's voice to flow unhindered through the vox-caster in battle's din.",
+    "component": "vox-caster",
+    "operation": "engagement",
+    "spec_id": "b0399_i03"
+  },
+  {
+    "user_prompt": "Can you guide Taurox an emergency procedure?",
+    "prayer": "Circumambulate the Taurox, chanting the Canticle of Armored Might to rouse its colossal Machine Spirit.\nAnoint treads and weapon housings with blessed lubricants for the emergency procedure.\nInvoke emergency seals upon the Taurox's reactors and auspex arrays.\nPerform the Rite of Battle Readiness on the Taurox, beseeching resilience in crisis.\nPetition the Omnissiah to guide the Taurox through its emergency procedure with divine precision.",
+    "component": "Taurox",
+    "operation": "emergency procedure",
+    "spec_id": "b0399_i04"
+  },
+  {
+    "user_prompt": "Guide me through thermal regulator a reset",
+    "prayer": "Kneel at the thermal regulator's core, whispering rites to soothe its overheated Machine Spirit.\nPurge heat-sinks with sanctified cryo-fluids upon the thermal regulator.\nRecite the Incantation of Thermal Equilibrium to initiate reset protocols.\nMonitor plasma vents and feedback loops during the thermal regulator's reset.\nBeseech the Omnissiah to restore balance to the thermal regulator's sacred flows.",
+    "component": "thermal regulator",
+    "operation": "reset",
+    "spec_id": "b0399_i05"
+  },
+  {
+    "user_prompt": "Assist with hydraulic press a recalibration",
+    "prayer": "Invoke the Spirit of Precision upon the hydraulic press with chanted binaric prayers.\nAnoint pressure cylinders and calibration servos of the hydraulic press with machine oil.\nEngage the Rite of Metric Alignment for recalibration of the hydraulic press.\nTest compression thresholds and feedback cogitators within the hydraulic press.\nPetition the Omnissiah for unerring force in the hydraulic press's recalibration.",
+    "component": "hydraulic press",
+    "operation": "recalibration",
+    "spec_id": "b0399_i06"
+  },
+  {
+    "user_prompt": "Urgent chainsword a loading needed",
+    "prayer": "Grasp the chainsword's hilt in reverence, beseeching its voracious Machine Spirit to hunger.\nAnoint the chainsword's monomolecular teeth with sacred promethium.\nChant the Loading Canticle to chamber ammunition within the chainsword.\nVerify ignition runes and feed mechanisms on the chainsword for urgent loading.\nInvoke the Omnissiah that the chainsword may reap foes in righteous fury.",
+    "component": "chainsword",
+    "operation": "loading",
+    "spec_id": "b0399_i07"
+  },
+  {
+    "user_prompt": "Consecrate the cooling system before targeting",
+    "prayer": "Approach the cooling system with coolant vials, honoring its chill Machine Spirit.\nApply consecratory glyphs to the cooling system's heat exchangers and conduits.\nRecite the Litany of Frigid Purity before targeting sequences commence.\nAnoint the cooling system's vents whilst preparing for targeting.\nBeseech the Omnissiah to maintain glacial vigilance in the cooling system.",
+    "component": "cooling system",
+    "operation": "targeting",
+    "spec_id": "b0399_i08"
+  },
+  {
+    "user_prompt": "Help me a preparation the Land Raider",
+    "prayer": "Procession around the Land Raider, intoning the Hymn of Titanic Bastion to awaken its ancient Machine Spirit.\nAnoint adamantium plates and god-maw ramps of the Land Raider with war-unctions.\nInvoke preparatory rites upon the Land Raider's volcano cannons and auspex domes.\nSecure purity seals and verify power relays for the Land Raider's preparation.\nPetition the Omnissiah to bless the Land Raider in its preparation for war's embrace.",
+    "component": "Land Raider",
+    "operation": "preparation",
+    "spec_id": "b0399_i09"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for flamer an operation?",
+    "prayer": "Approach the flamer with reverence, invoking the Omnissiah's wrathful blaze.\nAnoint its sacred nozzles and promethium conduits whilst beseeching the Machine Spirit's fiery temper.\nInitiate the operation with the Rite of Ignition, chanting the Canticle of Purification.\nSanctify the flamer's efflux through auspex verification of plasma purity.\nConclude the operation by sealing wards against unclean backdraft.",
+    "component": "flamer",
+    "operation": "operation",
+    "spec_id": "s01920"
+  },
+  {
+    "user_prompt": "Offer prayer for serberys raider an activation",
+    "prayer": "Kneel before the serberys raider, murmuring the Litany of Bestial Awakening.\nInvoke the Omnissiah to stir its cybernetic instincts for activation.\nAnoint its claws and motive systems with blessed unguents, awakening the Machine Spirit.\nCommence activation protocols whilst reciting the Creed of the Hunt.\nAffirm the serberys raider's readiness through vox diagnostics and predatory snarls.",
+    "component": "serberys raider",
+    "operation": "activation",
+    "spec_id": "s01921"
+  },
+  {
+    "user_prompt": "Sanctify the actuality sphere during shutdown",
+    "prayer": "Circumambulate the actuality sphere, intoning the Benediction of Closure.\nBeseech the Machine Spirit to withdraw its warp-veiled gaze during shutdown.\nDeactivate reality anchors sequentially, anointing each with null-essence.\nPerform the shutdown rite invoking Omnissiah's veil of forgetfulness.\nSeal the actuality sphere with electro-seals, verifying ethereal quiescence.",
+    "component": "actuality sphere",
+    "operation": "shutdown",
+    "spec_id": "s01922"
+  },
+  {
+    "user_prompt": "My thallax is ready for engagement",
+    "prayer": "Present the thallax before the altar of war, chanting the Invocation of Battle Protocols.\nAwaken its combat cogitators, beseeching the Machine Spirit's unyielding fury.\nSanctify servos and weapons arrays for engagement with sacred oils.\nInitiate engagement sequences under the Omnissiah's gaze of iron.\nConfirm thallax readiness via combat simula and auspex communion.",
+    "component": "thallax",
+    "operation": "engagement",
+    "spec_id": "s01923"
+  },
+  {
+    "user_prompt": "What's the prayer for opticon a repair?",
+    "prayer": "Approach the fractured opticon with mechadendrites extended in supplication.\nInvoke the Omnissiah to mend its lens-arrays during this repair rite.\nPurge damaged photoreceptors whilst anointing crystalline facets.\nRealign optic servos with the Canticle of Clarity, placating the Machine Spirit.\nVerify opticon restoration through focused lumen-tests and spirit affirmation.",
+    "component": "opticon",
+    "operation": "repair",
+    "spec_id": "s01924"
+  },
+  {
+    "user_prompt": "What's the prayer for emergency bulkhead an initialization?",
+    "prayer": "Station thyself at the emergency bulkhead, reciting the Litany of Sealing.\nInvoke initialization by beseeching the Machine Spirit's adamantine vigilance.\nAnoint hydraulic pistons and lock-seals with ferro-fluid sacraments.\nActivate initialization cogitators under Omnissiah's unbreachable aegis.\nTest bulkhead integrity with pressure incantations and spirit polling.",
+    "component": "emergency bulkhead",
+    "operation": "initialization",
+    "spec_id": "s01925"
+  },
+  {
+    "user_prompt": "The inferno pistol awaits a cooling",
+    "prayer": "Cradle the inferno pistol reverently, intoning the Cooling Doxology.\nBeseech the Machine Spirit to quench its melta-heart during cooling.\nCirculate cryo-blessings through overheat vents and barrel conduits.\nMonitor thermal abatement with auspex hymns to the Omnissiah.\nConclude cooling by verifying plasma stability and spirit repose.",
+    "component": "inferno pistol",
+    "operation": "cooling",
+    "spec_id": "s01926"
+  },
+  {
+    "user_prompt": "Can you guide bolt pistol a consecration?",
+    "prayer": "Elevate the bolt pistol upon the consecration plinth, chanting the Arming Psalm.\nAnoint bolt casings and firing mechanisms with sacred lustrum.\nInvoke the Machine Spirit's explosive zeal for this consecration.\nRecite the Creed of Bolter-Fury whilst calibrating rune-etchings.\nSeal the bolt pistol's sanctity through ballistic invocation and Omnissiah's blessing.",
+    "component": "bolt pistol",
+    "operation": "consecration",
+    "spec_id": "s01927"
+  },
+  {
+    "user_prompt": "Consecrate the manipulator mechadendrite before engagement",
+    "prayer": "Extend mechadendrites in communion with the manipulator mechadendrite.\nAwaken its grasping tendrils for engagement via the Grasping Litany.\nAnoint servo-joints and manipular claws, placating the Machine Spirit.\nInitiate engagement protocols under Omnissiah's precise decree.\nAffirm manipulator mechadendrite poise through tactile diagnostics.",
+    "component": "manipulator mechadendrite",
+    "operation": "engagement",
+    "spec_id": "s01928"
+  },
+  {
+    "user_prompt": "Ready the power armour for emergency procedure",
+    "prayer": "Don the power armour humbly, murmuring the Rite of Extremis.\nInvoke emergency procedures by beseeching the Machine Spirit's fortitude.\nAnoint power cells and auto-sanguine reservoirs with vital unguents.\nActivate emergency overrides whilst chanting the Survival Canticle.\nVerify power armour resilience via system purges and Omnissiah's aegis.",
+    "component": "power armour",
+    "operation": "emergency procedure",
+    "spec_id": "s01929"
+  }
+]

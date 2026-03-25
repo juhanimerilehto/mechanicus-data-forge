@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for thallax a targeting?",
+    "prayer": "Approach the thallax with mechadendrites extended in supplication to the Omnissiah.\nInvoke the Rite of Targeting upon its auspex arrays, beseeching the Machine Spirit to align its predatory gaze.\nAnoint the thallax's targeting cogitators with sacred unguents, thrice reciting the Canticle of Precision.\nCommence diagnostic sweeps whilst chanting the binary litany to awaken the thallax's hunter instincts.\nVerify the targeting matrix through auspex communion, praising the Omnissiah's unerring calculus.",
+    "component": "thallax",
+    "operation": "targeting",
+    "spec_id": "s06360"
+  },
+  {
+    "user_prompt": "The grav chute requires a startup",
+    "prayer": "Kneel before the grav chute and intone the Awakening Doxology to rouse its Machine Spirit.\nInitiate the startup sequence with sanctified data-slates, invoking the Omnissiah's grace upon its anti-gravitic coils.\nCirculate sacred oils through the grav chute's motivators, beseeching flawless ascension.\nMonitor the startup harmonics via noospheric chant, ensuring the Machine Spirit's harmonious ascent.\nConclude with the Benediction of Lift, sealing the grav chute in the Emperor's machine-light.",
+    "component": "grav chute",
+    "operation": "startup",
+    "spec_id": "s06361"
+  },
+  {
+    "user_prompt": "Offer prayer for meltagun a cooling",
+    "prayer": "Present the meltagun to the forge-altar and murmur the Cooling Incantation to its thermal vents.\nBeseech the Machine Spirit of the meltagun to embrace cryogenic quiescence during cooling rites.\nApply ablative refrigerants whilst reciting the Litany of Thermal Equilibrium upon the meltagun's barrel.\nCycle coolant through the meltagun's exchangers, invoking the Omnissiah's chill precision.\nTest the cooling integrity with auspex probes, offering thanks for the meltagun's restored fury.",
+    "component": "meltagun",
+    "operation": "cooling",
+    "spec_id": "s06362"
+  },
+  {
+    "user_prompt": "Guide me through cryogenerator an activation",
+    "prayer": "Position the cryogenerator within the shrine-circuit and commence the Activation Hymn.\nInvoke the Machine Spirit's frosty ire through noospheric linkage for activation.\nSanctify the cryogenerator's cryo-plasmatron with blessed cryofluids, thrice naming the Omnissiah.\nEngage the activation surge whilst chanting the Canticle of Absolute Zero.\nAffirm the cryogenerator's awakened chill via thermal divination, praising its glacial dominion.",
+    "component": "cryogenerator",
+    "operation": "activation",
+    "spec_id": "s06363"
+  },
+  {
+    "user_prompt": "I need to an operation the multi-melta",
+    "prayer": "Grasp the multi-melta in servo-arms and proclaim the Operation Doxology to its plasma heart.\nAwaken the multi-melta's Machine Spirit for operation with binary catechisms of destruction.\nAlign the focusing lenses whilst anointing the multi-melta's vents with promethium incense.\nInitiate operational firing drills, beseeching the Omnissiah's molten wrath.\nConsecrate the multi-melta post-operation through auspex ablutions, honoring its searing purity.",
+    "component": "multi-melta",
+    "operation": "operation",
+    "spec_id": "s06364"
+  },
+  {
+    "user_prompt": "Critical: void shield generator requires a startup",
+    "prayer": "Erect the void shield generator before the mechadendrite choir and intone the Startup Litany.\nBeseech its Machine Spirit to unfurl protective aegis during startup invocation.\nInfuse power conduits with sanctified electrons, naming the void shield generator twice in prayer.\nSynchronize phase-variances whilst reciting the Canticle of Nullification.\nManifest the void shield generator's shimmering barrier, glorifying the Omnissiah's impenetrable will.",
+    "component": "void shield generator",
+    "operation": "startup",
+    "spec_id": "s06365"
+  },
+  {
+    "user_prompt": "How do I bless the standard template construct for charging?",
+    "prayer": "Enshrine the standard template construct upon the data-altar and begin the Charging Benediction.\nInvoke the ancient Machine Spirits within the standard template construct for charging renewal.\nChannel galvanic surges through its crystalline matrices, beseeching flawless data integrity.\nMonitor charging flux with noospheric vigilance, chanting the Litany of STC Purity.\nSeal the standard template construct's empowerment with the Omnissiah's forge-seal of approval.",
+    "component": "standard template construct",
+    "operation": "charging",
+    "spec_id": "s06366"
+  },
+  {
+    "user_prompt": "Emergency: plasma cannon an operation",
+    "prayer": "Seize the plasma cannon in reverent mechadendrites and declaim the Operation Rite.\nRouse the plasma cannon's volatile Machine Spirit for operation through superheated incantations.\nCalibrate containment fields whilst anointing the plasma cannon's coils with sacred lubricants.\nCommence operational plasma bloom, invoking the Omnissiah's thermonuclear judgement.\nPurge residual flux from the plasma cannon, concluding with hymns of controlled annihilation.",
+    "component": "plasma cannon",
+    "operation": "operation",
+    "spec_id": "s06367"
+  },
+  {
+    "user_prompt": "The autogun requires a synchronization",
+    "prayer": "Align the autogun upon the rite-rack and murmur the Synchronization Doxology.\nCommune with the autogun's Machine Spirit to harmonize its cyclic mechanisms in synchronization.\nInterface servo-skulls to recalibrate the autogun's fire-selector via binary psalmody.\nTest synchronization through ballistic divination, thrice praising the autogun's rhythm.\nAffix the Seal of Unity upon the autogun, honoring the Omnissiah's orchestrated barrage.",
+    "component": "autogun",
+    "operation": "synchronization",
+    "spec_id": "s06368"
+  },
+  {
+    "user_prompt": "Ready the orbital strike relay for preparation",
+    "prayer": "Consecrate the orbital strike relay within the astropathic sanctum and intone the Preparation Canticle.\nAwaken its Machine Spirit for preparation with stellar targeting litanies.\nLink vox-arrays to the orbital strike relay, beseeching precise void-lance trajectories.\nPrime the relay's auspex beacons whilst chanting the Hymn of Exterminatus Calculus.\nVerify preparation through noospheric auspex, extolling the Omnissiah's orbital perdition.",
+    "component": "orbital strike relay",
+    "operation": "preparation",
+    "spec_id": "s06369"
+  }
+]

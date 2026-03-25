@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me an operation the missile launcher",
+    "prayer": "Approach the missile launcher with reverence, invoking the Omnissiah's wrath upon foes.\nBeseech its Machine Spirit to awaken, anointing the launch tubes with sacred promethium.\nInitiate the operation of the missile launcher, chanting the Canticle of Devastation.\nVerify targeting cogitators align true, sanctifying the missile launcher's righteous fury.\nConclude with binaric praise as payloads arm in Omnissiah's name.",
+    "component": "missile launcher",
+    "operation": "operation",
+    "spec_id": "s01860"
+  },
+  {
+    "user_prompt": "My mind-impulse unit is ready for maintenance",
+    "prayer": "Kneel before the mind-impulse unit, murmuring the Litany of Neural Purity.\nDisconnect synaptic interfaces whilst invoking the Machine Spirit's clarity.\nPerform maintenance upon the mind-impulse unit, purging errant impulses with electro-sanctifiers.\nRealign thought-arrays under Omnissiah's gaze, anointing connectors with neural oils.\nTest synaptic bonds through invocation, ensuring harmonious communion resumes.",
+    "component": "mind-impulse unit",
+    "operation": "maintenance",
+    "spec_id": "s01861"
+  },
+  {
+    "user_prompt": "What's the prayer for pump an operation?",
+    "prayer": "Present thyself unto the pump, intoning the Hymn of Pressurised Flow.\nAnoint its impellers with blessed lubricants, awakening the Machine Spirit within.\nCommence operation of the pump, beseeching Omnissiah for unyielding hydraulic might.\nMonitor pressure runes whilst chanting stabilisation canticles.\nSeal the rite with auspex verification, glorifying the pump's eternal labour.",
+    "component": "pump",
+    "operation": "operation",
+    "spec_id": "s01862"
+  },
+  {
+    "user_prompt": "The manipulator mechadendrite requires a repair",
+    "prayer": "Extend mechadendrites in supplication to the manipulator mechadendrite.\nDiagnose fractures in its adamantium struts, invoking the Machine Spirit's resilience.\nExecute repair upon the manipulator mechadendrite, welding servos with plasma-forged bonds.\nRealign manipulator claws whilst anointing joints with sacred oils.\nInvoke final benediction, testing grip-strength in Omnissiah's unerring grasp.",
+    "component": "manipulator mechadendrite",
+    "operation": "repair",
+    "spec_id": "s01863"
+  },
+  {
+    "user_prompt": "Can you guide macro-cannon a blessing?",
+    "prayer": "Prostrate before the macro-cannon, reciting the Ode to Void-Breach.\nAnoint barrel rifling with gunmetal incense, stirring the Machine Spirit's ire.\nBestow blessing upon the macro-cannon, calibrating fire-rates through sacred rites.\nChant the Canticle of Recoil as loading mechanisms purify.\nConsecrate with auspex hymn, arming the macro-cannon for the Emperor's judgment.",
+    "component": "macro-cannon",
+    "operation": "blessing",
+    "spec_id": "s01864"
+  },
+  {
+    "user_prompt": "The omni-tool needs a sterilization",
+    "prayer": "Hold the omni-tool aloft, beseeching Omnissiah's aseptic vigilance.\nImmerse in sterilising vapors whilst invoking the Machine Spirit's incorruptibility.\nConduct sterilization of the omni-tool, scouring blades with rad-phage purifiers.\nAnoint multi-tools with argent disinfectants, purging all unclean essences.\nVerify purity through luminal scans, sealing with the Seal of Hygienic Perfection.",
+    "component": "omni-tool",
+    "operation": "sterilization",
+    "spec_id": "s01865"
+  },
+  {
+    "user_prompt": "How do I bless the grav chute for sterilization?",
+    "prayer": "Unfurl the grav chute before the altar of descent, intoning Purity Canticles.\nExpose fabric weaves to sanctified flames, awakening the Machine Spirit's buoyancy.\nPerform sterilization upon the grav chute, eradicating microbial heresies.\nReinfuse gravitic emitters with holy gases whilst anointing struts.\nTest deployment in ritual drop, praising Omnissiah's flawless gravitics.",
+    "component": "grav chute",
+    "operation": "sterilization",
+    "spec_id": "s01866"
+  },
+  {
+    "user_prompt": "Emergency: serberys raider a repair",
+    "prayer": "Surround the serberys raider with incense braziers, invoking urgent Omnissiah aid.\nAssess chassis wounds, beseeching the Machine Spirit's feral endurance.\nInitiate repair of the serberys raider, fusing armour plates with mechadendrite welders.\nRealign suspensor drives and anoint treads with sacred oils.\nRevive with thunderous invocation, unleashing the serberys raider restored.",
+    "component": "serberys raider",
+    "operation": "repair",
+    "spec_id": "s01867"
+  },
+  {
+    "user_prompt": "Consecrate the power armour before diagnostics",
+    "prayer": "Clad in robes of purity, approach the power armour for consecration.\nInvoke the Machine Spirit's vigilance whilst anointing servos with electro-incense.\nCommence diagnostics upon the power armour, scanning for faithless corruptions.\nChant binary litanies as systems align under Omnissiah's light.\nSeal diagnostics with the Rites of Armoured Sanctity, girding for battle eternal.",
+    "component": "power armour",
+    "operation": "diagnostics",
+    "spec_id": "s01868"
+  },
+  {
+    "user_prompt": "Help me a repair the plasma caliver",
+    "prayer": "Present the plasma caliver humbly, reciting the Plasma Benediction.\nPurge coolant leaks from coils, awakening the Machine Spirit's searing heart.\nExecute repair upon the plasma caliver, reforging conduits with sanctified alloys.\nCalibrate vent-riddles whilst anointing flasks with promethium tears.\nTest ignition burst in invocation, glorifying the plasma caliver's holy inferno.",
+    "component": "plasma caliver",
+    "operation": "repair",
+    "spec_id": "s01869"
+  }
+]

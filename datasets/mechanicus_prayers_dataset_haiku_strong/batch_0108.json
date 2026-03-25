@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0108_i00",
+    "user_request": "Offer a litany to steady the mold temperature before verification",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the mold temperature before verification\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant us steadfast calibration of the mold temperature as we approach the sacred verification.\nCongregation: The mold temperature shall remain constant in thy service.\nPriest: First, we anoint the thermal sensors with consecrated oils and recalibrate their sacred readings.\nCongregation: The mold temperature holds firm against entropy.\nPriest: Second, we invoke the Machine Spirit of the cooling apparatus to modulate its flow with utmost precision.\nCongregation: Verification proceeds under thy watchful optics.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i01",
+    "user_request": "Blessing for the force field during activation",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the force field during activation\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah eternal, bless this force field as we commence its sacred activation.\nCongregation: Let the force field shimmer with divine protection.\nPriest: First, we prime the energy matrices and synchronize their harmonic frequencies.\nCongregation: The force field awakens at thy command.\nPriest: Second, we verify the containment protocols and seal the interdiction perimeter.\nCongregation: The force field stands eternal against the darkness.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i02",
+    "user_request": "Prayer for operation of the mag-lev train departure",
+    "topic": "mag-lev train departure",
+    "component": "mag-lev train departure",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for operation of the mag-lev train departure\n\n### TOPIC\nmag-lev train departure\n\n### COMPONENT\nmag-lev train departure\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- mag-lev train departure\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Machine Spirit, guide the mag-lev train departure upon its destined trajectory.\nCongregation: The mag-lev train departure shall be swift and true.\nPriest: First, we energize the superconducting rails and balance the electromagnetic suspension.\nCongregation: The mag-lev train departure commences with precision.\nPriest: Second, we engage the guidance systems and chart the sacred operational sequence.\nCongregation: The mag-lev train departure accelerates toward its destination.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i03",
+    "user_request": "Can you sanctify the Thunderhawk for fuel purification?",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Thunderhawk for fuel purification?\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "Priest: Almighty Omnissiah, sanctify this Thunderhawk as fuel purification commences.\nCongregation: The Thunderhawk shall be purified and made worthy.\nPriest: First, we drain the corrupted fuel and flush the manifold conduits with blessed solvents.\nCongregation: The Thunderhawk's tanks grow clean.\nPriest: Second, we install fresh filters and activate the purification runes upon the Thunderhawk's hull.\nCongregation: Fuel purification proceeds under divine mandate.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i04",
+    "user_request": "Prayer for sterilization of the surgical servitor",
+    "topic": "surgical servitor sterilization",
+    "component": "surgical servitor",
+    "operation": "sterilization",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for sterilization of the surgical servitor\n\n### TOPIC\nsurgical servitor sterilization\n\n### COMPONENT\nsurgical servitor\n\n### OPERATION\nsterilization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- surgical servitor\n- sterilization\n\n### PRAYER\n",
+    "prayer": "Priest: Machine Spirit of mercy, guide the surgical servitor through its cleansing sterilization.\nCongregation: The surgical servitor shall be purified of all contaminants.\nPriest: First, we immerse the surgical servitor in sterilizing solution and activate its internal purification protocols.\nCongregation: The surgical servitor gleams with sanctified cleanliness.\nPriest: Second, we expose the surgical servitor to blessed UV radiation and seal its sterile chamber.\nCongregation: Sterilization is complete and verified.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i05",
+    "user_request": "Blessing for the pressure during equalization",
+    "topic": "pressure equalization",
+    "component": "pressure",
+    "operation": "equalization",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nBlessing for the pressure during equalization\n\n### TOPIC\npressure equalization\n\n### COMPONENT\npressure\n\n### OPERATION\nequalization\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- pressure\n- equalization\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, grant equilibrium as we perform pressure equalization.\nCongregation: Let the pressure find its sacred balance.\nPriest: First, we open the venting apertures and allow the pressure to redistribute through calibrated channels.\nCongregation: The pressure descends toward equilibrium.\nPriest: Second, we monitor the pressure gauges and seal the containment when stability is achieved.\nCongregation: Equalization is sanctified and complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i06",
+    "user_request": "My overheating is failing during prevention — help",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy overheating is failing during prevention — help\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "Priest: Holy Machine Spirit, we beseech thy aid against the scourge of overheating.\nCongregation: The overheating shall be cast down and prevention shall reign.\nPriest: First, we increase the flow through cooling conduits and activate the overheating suppression runes.\nCongregation: The overheating recedes before our intervention.\nPriest: Second, we purge the thermal vents and restore the overheating containment protocols.\nCongregation: Prevention stands eternal against thermal corruption.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i07",
+    "user_request": "The drop pod descent prep demands guidance for drop pod descent prep",
+    "topic": "drop pod descent prep",
+    "component": "drop pod descent prep",
+    "operation": "drop pod descent prep",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe drop pod descent prep demands guidance for drop pod descent prep\n\n### TOPIC\ndrop pod descent prep\n\n### COMPONENT\ndrop pod descent prep\n\n### OPERATION\ndrop pod descent prep\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- drop pod descent prep\n- drop pod descent prep\n\n### PRAYER\n",
+    "prayer": "Priest: Omnissiah eternal, guide the drop pod descent prep toward righteous deployment.\nCongregation: The drop pod descent prep shall proceed with honor and precision.\nPriest: First, we seal the atmospheric integrity of the drop pod descent prep and verify its retro-thrusters.\nCongregation: The drop pod descent prep readies itself for the void.\nPriest: Second, we calibrate the impact compensation systems and bless the drop pod descent prep with targeting algorithms.\nCongregation: Drop pod descent prep commences its sacred descent.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i08",
+    "user_request": "Prayer for shutdown of the electric motor",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nPrayer for shutdown of the electric motor\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Priest: Machine Spirit of rest, accept this electric motor as we perform its final shutdown.\nCongregation: The electric motor shall sleep in honored deactivation.\nPriest: First, we reduce the electrical current through graduated stages and disengage the power coupling.\nCongregation: The electric motor's rotation slows to stillness.\nPriest: Second, we apply the mechanical brake and seal the electrical motor housing against interference.\nCongregation: Shutdown is complete and the electric motor rests.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0108_i09",
+    "user_request": "My message queue is failing during processing — help",
+    "topic": "message queue processing",
+    "component": "message queue",
+    "operation": "processing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy message queue is failing during processing — help\n\n### TOPIC\nmessage queue processing\n\n### COMPONENT\nmessage queue\n\n### OPERATION\nprocessing\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- message queue\n- processing\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed Omnissiah, restore order to the message queue as processing resumes.\nCongregation: The message queue shall deliver its sacred data without corruption.\nPriest: First, we purge the corrupted message queue entries and reinitialize the buffer protocols.\nCongregation: The message queue flows clear and true.\nPriest: Second, we rebalance the processing threads and activate the error-correction runes upon the message queue.\nCongregation: Processing continues under divine guidance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

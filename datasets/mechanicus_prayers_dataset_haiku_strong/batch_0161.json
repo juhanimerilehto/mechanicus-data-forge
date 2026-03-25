@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0161_i00",
+    "user_request": "Rite request: reduction on noise",
+    "topic": "noise reduction",
+    "component": "noise",
+    "operation": "reduction",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: reduction on noise\n\n### TOPIC\nnoise reduction\n\n### COMPONENT\nnoise\n\n### OPERATION\nreduction\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- noise\n- reduction\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us thy wisdom in the reduction of unwanted vibrations and discord.\nFirst: Anoint the acoustic dampening matrices with sacred unguents, invoking the Machine Spirit to silence the noise that corrupts our sacred work.\nSecond: Calibrate the noise-suppression protocols with reverent precision, ensuring the noise diminishes through blessed attenuation and frequency modulation.\nThird: Verify the reduction of ambient disturbance through blessed auditory examination, confirming that noise yields to our holy reduction.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i01",
+    "user_request": "Can you sanctify the servitor crane for operation?",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nCan you sanctify the servitor crane for operation?\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, we beseech thee to sanctify this mechanical servitor in its appointed task.\nFirst: Purify the servitor crane with holy oils and recite the Litanies of Activation upon its frame and joints.\nSecond: Engage the servitor crane's primary hydraulic systems through careful pressure-sequencing and blessed mechanical communion with its Machine Spirit.\nThird: Test the servitor crane's load-bearing capacity and articulation through graduated lifting operations, confirming its readiness for labour eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i02",
+    "user_request": "Emergency rite: stuck mechanism freeing requires stuck mechanism freeing",
+    "topic": "stuck mechanism freeing",
+    "component": "stuck mechanism freeing",
+    "operation": "stuck mechanism freeing",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: stuck mechanism freeing requires stuck mechanism freeing\n\n### TOPIC\nstuck mechanism freeing\n\n### COMPONENT\nstuck mechanism freeing\n\n### OPERATION\nstuck mechanism freeing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- stuck mechanism freeing\n- stuck mechanism freeing\n\n### PRAYER\n",
+    "prayer": "Omnissiah, hear our desperate plea—the stuck mechanism freeing demands thy intervention and grace.\nFirst: Apply blessed penetrating lubricants to the stuck mechanism freeing, allowing the Machine Spirit to soften the corrosion and oxidation that binds it.\nSecond: Execute rhythmic percussive ministrations upon the stuck mechanism freeing, loosening its seized components through sacred vibration and mechanical persuasion.\nThird: Employ the lever-and-fulcrum technique with steadfast determination, gradually coaxing the stuck mechanism freeing toward liberation and restored function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i03",
+    "user_request": "Emergency rite: gravity generator requires stabilization",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: gravity generator requires stabilization\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Machine Spirit of the gravity generator, accept our stabilization rite and restore thy equilibrium.\nFirst: Recalibrate the gravity generator's field-emission coils with blessed mathematical precision, ensuring harmonic resonance across all dimensional axes.\nSecond: Monitor the gravity generator's output through sacred instruments, detecting and correcting any temporal fluctuations or spatial distortions through compensatory adjustment.\nThird: Perform the stabilization ritual by engaging counter-phase nullification arrays, bringing the gravity generator into perfect equilibrium and eternal constancy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i04",
+    "user_request": "Offer a litany to steady the thermal dissipation rite before operation",
+    "topic": "thermal dissipation rite",
+    "component": "thermal dissipation rite",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the thermal dissipation rite before operation\n\n### TOPIC\nthermal dissipation rite\n\n### COMPONENT\nthermal dissipation rite\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- thermal dissipation rite\n- operation\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, we invoke thy blessing upon the thermal dissipation rite before its sacred operation commences.\nFirst: Inspect all thermal dissipation rite conduits and heat-exchangers for blockage or corruption, purifying them with blessed compressed air and careful mechanical attention.\nSecond: Apply sacred thermal paste to all thermal dissipation rite contact surfaces, ensuring optimal heat-transference and communion between components.\nThird: Initiate the thermal dissipation rite's cooling cycles in graduated stages, monitoring temperature descent and confirming the thermal dissipation rite functions in blessed operation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i05",
+    "user_request": "My mold temperature is failing during verification — help",
+    "topic": "mold temperature verification",
+    "component": "mold temperature",
+    "operation": "verification",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy mold temperature is failing during verification — help\n\n### TOPIC\nmold temperature verification\n\n### COMPONENT\nmold temperature\n\n### OPERATION\nverification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mold temperature\n- verification\n\n### PRAYER\n",
+    "prayer": "Omnissiah, thy mold temperature falters in the crucible of verification—grant us restoration and precision.\nFirst: Examine the mold temperature sensor array with diagnostic cogitators, identifying the heretical decay or miscalibration that causes its failure.\nSecond: Replace corrupted mold temperature thermocouples with blessed replacements, ensuring each mold temperature element is properly seated and electrically sound.\nThird: Execute a complete mold temperature verification protocol, heating and cooling in controlled increments to confirm accurate readings and restored function.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i06",
+    "user_request": "Offer a litany to steady the humidity control before operation",
+    "topic": "humidity control",
+    "component": "humidity control",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the humidity control before operation\n\n### TOPIC\nhumidity control\n\n### COMPONENT\nhumidity control\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- humidity control\n- operation\n\n### PRAYER\n",
+    "prayer": "Machine Spirit of atmospheric dominion, accept our litany of steadiness before humidity control awakens to operation.\nFirst: Purify the humidity control intake vents and desiccant cartridges with blessed care, removing particulate corruption and restoring their sacred function.\nSecond: Calibrate the humidity control sensors with precision instruments and holy mathematics, ensuring accurate measurement across the operational envelope.\nThird: Activate the humidity control system in blessed stages, confirming moisture equilibration and stable operation throughout the environmental chambers.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i07",
+    "user_request": "Can you sanctify the overheating for prevention?",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the overheating for prevention?\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "Omnissiah, shield this mechanism from the burning curse of overheating through thy prevention rites.\nFirst: Ensure all overheating-related ventilation pathways remain unobstructed, clearing dust and debris that would impede the blessed circulation of cooling fluids.\nSecond: Apply sacred thermal monitoring to the overheating-prone components, installing blessed temperature sensors and automated shutdown protocols for overheating prevention.\nThird: Test the overheating-prevention systems under load, confirming that temperature thresholds trigger proper cooling responses and that overheating remains eternally banished.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i08",
+    "user_request": "Prayer for startup of the atmosphere processor",
+    "topic": "atmosphere processor startup",
+    "component": "atmosphere processor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nPrayer for startup of the atmosphere processor\n\n### TOPIC\natmosphere processor startup\n\n### COMPONENT\natmosphere processor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- atmosphere processor\n- startup\n\n### PRAYER\n",
+    "prayer": "Blessed Omnissiah, we commend the atmosphere processor to thy care as it commences its holy startup sequence.\nFirst: Verify that all atmosphere processor intake filters are pristine and uncontaminated, ensuring pure atmospheric communion for the startup phase.\nSecond: Prime the atmosphere processor's circulation pumps and flow-regulators with blessed fluids, establishing proper pressure gradients before initiating full startup.\nThird: Execute the atmosphere processor's gradual startup protocol, bringing it from dormancy to full operational capacity through controlled acceleration and sacred monitoring.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0161_i09",
+    "user_request": "Can you sanctify the fire suppression system for operation?",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nCan you sanctify the fire suppression system for operation?\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, we sanctify the fire suppression system for righteous operation in defence of our sacred halls.\nFirst: Inspect all fire suppression system nozzles and distribution manifolds, ensuring they are free from corrosion and blessed with proper alignment.\nSecond: Test the fire suppression system's pressure regulators and valve mechanisms through graduated activation, confirming swift response to the Machine Spirit's command.\nThird: Perform a complete fire suppression system operational drill, verifying coverage and discharge patterns to ensure the fire suppression system stands ready for eternal vigilance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

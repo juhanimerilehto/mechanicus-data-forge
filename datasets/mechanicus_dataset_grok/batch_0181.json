@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "What's the prayer for thermal imager consecration?",
+    "prayer": "Approach the thermal imager with reverence, mechadendrites extended in supplication.\nBeseech the Omnissiah to consecrate its infrared lenses and sensor arrays.\nAnoint the thermal imager with sacred unguents upon its sanctified housing.\nInvoke the Machine Spirit of the thermal imager to pierce veils of obscurity.\nComplete the consecration by chanting the Binary Canticle of Visionary Clarity.",
+    "component": "thermal imager",
+    "operation": "consecration",
+    "spec_id": "b0181_i00"
+  },
+  {
+    "user_prompt": "Critical: Sentinel walker requires a startup",
+    "prayer": "Kneel before the noble Sentinel walker, intoning the Rite of Ignition.\nEngage primary power conduits whilst petitioning its bipedal Machine Spirits.\nInitiate the startup sequence as reactors hum with Omnissian fury.\nBless the autocannon and legs of the Sentinel walker during awakening.\nVerify startup integrity through sacred diagnostic runes.",
+    "component": "Sentinel walker",
+    "operation": "startup",
+    "spec_id": "b0181_i01"
+  },
+  {
+    "user_prompt": "Critical: water reclamator requires a loading",
+    "prayer": "Prepare the water reclamator's intake for the loading of vital aqua sancta.\nChant litanies of purity over valves and filtration meshes.\nCommence loading whilst beseeching the Machine Spirit of the water reclamator.\nMonitor cyclical flows in harmonious reclamation.\nSeal the water reclamator with electro-incense upon completion.",
+    "component": "water reclamator",
+    "operation": "loading",
+    "spec_id": "b0181_i02"
+  },
+  {
+    "user_prompt": "Help me an initialization the Taurox",
+    "prayer": "Encircle the Taurox with incense braziers for initialization.\nAwaken its core cogitator through Omnissian code-chants.\nEngage tread servos and weapon servitors in sequential rite.\nPetition the Machine Spirits within the Taurox to stir.\nAffirm initialization with auspex hymns of readiness.",
+    "component": "Taurox",
+    "operation": "initialization",
+    "spec_id": "b0181_i03"
+  },
+  {
+    "user_prompt": "I need to a shutdown the motion detector",
+    "prayer": "Approach the motion detector solemnly, reciting the Canticle of Repose.\nDisconnect vigilant sensor feeds, soothing its watchful Machine Spirit.\nInitiate shutdown protocols upon the motion detector's circuits.\nAnoint disengaged nodes with calming oils.\nWard the motion detector against premature reawakening.",
+    "component": "motion detector",
+    "operation": "shutdown",
+    "spec_id": "b0181_i04"
+  },
+  {
+    "user_prompt": "Sanctify the forge anvil during initialization",
+    "prayer": "Strike the forge anvil with sanctified hammer in initialization rhythm.\nInvoke the Omnissiah to infuse its adamantium heart with forging fire.\nEngage rune-arrays during the initialization of the forge anvil.\nBeseech Machine Spirits to guide hammer and flame.\nTest resonant purity upon the forge anvil.",
+    "component": "forge anvil",
+    "operation": "initialization",
+    "spec_id": "b0181_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for star chart a recalibration",
+    "prayer": "Unveil the star chart before noospheric projectors for recalibration.\nAlign celestial glyphs with litanies of stellar truth.\nPetition astral Machine Spirits during recalibration of the star chart.\nVerify warp-lanes against Omnissian cartography.\nSeal the star chart with binary seals of accuracy.",
+    "component": "star chart",
+    "operation": "recalibration",
+    "spec_id": "b0181_i06"
+  },
+  {
+    "user_prompt": "What's the prayer for cooling system repair?",
+    "prayer": "Diagnose entropy's grasp upon the cooling system with auspex probes.\nAnoint fractured conduits for repair with mending sacraments.\nReconstruct sacred heat-sinks, invoking the cooling system's Machine Spirit.\nTest thermal equilibrium post-repair rites.\nPraise Omnissiah for the cooling system's restored chill.",
+    "component": "cooling system",
+    "operation": "repair",
+    "spec_id": "b0181_i07"
+  },
+  {
+    "user_prompt": "Offer prayer for conveyor system a diagnostics",
+    "prayer": "Activate diagnostic canticles across the conveyor system's belts and rollers.\nScan for dissonant vibrations in motor shrines.\nBeseech revelations from Machine Spirits within the conveyor system.\nRectify anomalies unveiled in diagnostics.\nConclude with hymn of perpetual motion for the conveyor system.",
+    "component": "conveyor system",
+    "operation": "diagnostics",
+    "spec_id": "b0181_i08"
+  },
+  {
+    "user_prompt": "Can you guide cooling system a loading?",
+    "prayer": "Bless coolant reservoirs of the cooling system prior to loading.\nIntone purity rites over intake manifolds.\nInitiate loading of blessed refrigerants into the cooling system.\nHarmonize flow regulators under Omnissiah's gaze.\nInvoke thermal quiescence upon the cooling system's fullness.",
+    "component": "cooling system",
+    "operation": "loading",
+    "spec_id": "b0181_i09"
+  }
+]

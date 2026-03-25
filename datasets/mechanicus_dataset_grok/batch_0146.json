@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a loading the gravity generator",
+    "prayer": "Kneel before the gravity generator and beseech its dormant Machine Spirit with the Litany of Weights.\nAnoint the sacred emitters of the gravity generator with oils of conductivity.\nInitiate the loading sequence, invoking the Omnissiah's boundless calculus.\nMonitor the gravitic flux as blessed energies fill the gravity generator's core.\nSanctify the completion with a hymn of stabilized fields.",
+    "component": "gravity generator",
+    "operation": "loading",
+    "spec_id": "b0146_i00"
+  },
+  {
+    "user_prompt": "Consecrate the data-slate before targeting",
+    "prayer": "Approach the data-slate with reverence and recite the Rite of Data Purity.\nConsecrate its crystalline memory banks against auspex corruption.\nPrepare for targeting by aligning the data-slate's hololithic projectors.\nInvoke the Machine Spirit of the data-slate to guide true trajectories.\nChant the Canticle of Precision as targeting matrices engage under Omnissiah's light.",
+    "component": "data-slate",
+    "operation": "targeting",
+    "spec_id": "b0146_i01"
+  },
+  {
+    "user_prompt": "Critical: forge anvil requires a targeting",
+    "prayer": "Gather mechandrites around the forge anvil and intone the Hammering Benediction.\nPurify the forge anvil's striking surface with sacred abrasives.\nCommence targeting alignment upon the forge anvil's rune-etched frame.\nBeseech the indomitable Machine Spirit within the forge anvil for unerring aim.\nSeal the targeting rite with sparks from the Omnissiah's forge.",
+    "component": "forge anvil",
+    "operation": "targeting",
+    "spec_id": "b0146_i02"
+  },
+  {
+    "user_prompt": "Urgent melta charge a cooling needed",
+    "prayer": "Present the melta charge to the cooling vents and whisper the Chill Invocation.\nApply cryo-blessings to the melta charge's superheated coils.\nInitiate the cooling cycle, petitioning the Machine Spirit for thermal quiescence.\nMonitor the melta charge's heat-sinks as blessed vapors dissipate.\nConclude with the Litany of Tempered Fury, honoring the Omnissiah.",
+    "component": "melta charge",
+    "operation": "cooling",
+    "spec_id": "b0146_i03"
+  },
+  {
+    "user_prompt": "Guide me through drop pod a diagnostics",
+    "prayer": "Encircling the drop pod, chant the Descent Diagnosticum to awaken its spirits.\nProbe the drop pod's auspex arrays with sanctified mechadendrites.\nRun diagnostics through the drop pod's adamantium hull and retro-thrusters.\nInvoke the Omnissiah to reveal flaws in the drop pod's guidance cogitators.\nAffirm purity with the Rite of Orbital Benediction.",
+    "component": "drop pod",
+    "operation": "diagnostics",
+    "spec_id": "b0146_i04"
+  },
+  {
+    "user_prompt": "The welding torch awaits a maintenance",
+    "prayer": "Take up the welding torch and perform the Anointing of Flames.\nInspect the welding torch's plasma conduits for spiritual discord.\nExecute maintenance upon the welding torch with sacred torque-calibrations.\nBeseech its Machine Spirit to burn pure once more.\nConsecrate the welding torch's nozzle with the Omnissiah's incendiary grace.",
+    "component": "welding torch",
+    "operation": "maintenance",
+    "spec_id": "b0146_i05"
+  },
+  {
+    "user_prompt": "Help me an operation the archive terminal",
+    "prayer": "Before the archive terminal, recite the Lexmechanicum Activation.\nPurge errant data-daemons from the archive terminal's vaults.\nInitiate operation of the archive terminal with binary prayers.\nGuide its cogitator heart through the Omnissiah's algorithmic wisdom.\nVerify the archive terminal's operation with sanctity seals.",
+    "component": "archive terminal",
+    "operation": "operation",
+    "spec_id": "b0146_i06"
+  },
+  {
+    "user_prompt": "Prepare the lascannon for reset",
+    "prayer": "Approach the lascannon with mechadendrite reverence and the Reset Canticle.\nDisconnect the lascannon's power feeds for spiritual respite.\nPerform the reset upon the lascannon's focusing crystals and motivators.\nReinvoke the Machine Spirit of the lascannon to align its holy beams.\nBless the reset with a volley of test-lumens in Omnissiah's name.",
+    "component": "lascannon",
+    "operation": "reset",
+    "spec_id": "b0146_i07"
+  },
+  {
+    "user_prompt": "Sanctify the star chart during targeting",
+    "prayer": "Unfurl the star chart upon the nave-altar and intone the Navis Sanctus.\nAnoint the star chart's stellar glyphs with lumens of purity.\nEngage targeting upon the star chart, beseeching void-ward spirits.\nAlign warp-courses through the star chart's blessed cartographica.\nSeal targeting with the Omnissiah's gaze upon the astral weave.",
+    "component": "star chart",
+    "operation": "targeting",
+    "spec_id": "b0146_i08"
+  },
+  {
+    "user_prompt": "The capacitor bank needs a loading",
+    "prayer": "Position before the capacitor bank and chant the Charge Invocation.\nPurify the capacitor bank's dielectric layers with electro-sanctifiers.\nCommence loading into the capacitor bank's thunderous reservoirs.\nPetition its Machine Spirit for maximal capacitance under Omnissiah's voltage.\nAffirm the capacitor bank's loading with a surge of pious discharge.",
+    "component": "capacitor bank",
+    "operation": "loading",
+    "spec_id": "b0146_i09"
+  }
+]

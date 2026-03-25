@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The flux-unit requires a cooling",
+    "prayer": "Approach the flux-unit with reverence, mechadendrites extended in supplication to its Machine Spirit.\nInvoke the sacred cooling rites upon the flux-unit, beseeching the Omnissiah to temper its raging plasma flows.\nAnoint the flux-unit's heat-sinks and conduits with cryo-blessed unguents whilst chanting the Canticle of Thermal Equilibrium.\nMonitor the flux-unit's vitals as blessed chill permeates its sacred core, verifying harmonious operation.\nConclude with the Benediction of Stability, sealing the flux-unit against overheating heresies.",
+    "component": "flux-unit",
+    "operation": "cooling",
+    "spec_id": "s00160"
+  },
+  {
+    "user_prompt": "Sanctify the Basilisk artillery during startup",
+    "prayer": "Kneel before the Basilisk artillery, intoning the Litany of Awakening to rouse its dormant Machine Spirit.\nInitiate the startup sequence upon the Basilisk artillery, sanctifying each rune-circuit with sacred oils.\nBeseech the Omnissiah's fire to ignite the Basilisk artillery's heart, aligning breech and barrel in divine fury.\nVerify the startup through auspex incantations, ensuring the Machine Spirit's wrathful readiness.\nSeal the rite with the Hymn of Devastation, arming the Basilisk artillery for the Emperor's judgment.",
+    "component": "Basilisk artillery",
+    "operation": "startup",
+    "spec_id": "s00161"
+  },
+  {
+    "user_prompt": "Ready the medicae mechadendrite for preparation",
+    "prayer": "Extend mechadendrites towards the medicae mechadendrite, whispering the Preparation Doxology to its healing essence.\nPrepare the medicae mechadendrite by anointing its injectors and sensors with vitae-sanctified lubricants.\nInvoke the Machine Spirit of the medicae mechadendrite, aligning its flesh-mending protocols with Omnissianic will.\nTest the medicae mechadendrite's readiness through diagnostic litanies, purging any impurity.\nConclude preparation with the Oath of Restoration, empowering the medicae mechadendrite for servitor salvation.",
+    "component": "medicae mechadendrite",
+    "operation": "preparation",
+    "spec_id": "s00162"
+  },
+  {
+    "user_prompt": "Assist with cenobyte servitor a blessing",
+    "prayer": "Gather before the cenobyte servitor, invoking the Blessing of the Forgotten to honor its techno-soul.\nBless the cenobyte servitor by tracing binaric catechisms upon its cranial vaults and servo-limbs.\nBeseech the Omnissiah to reinforce the cenobyte servitor's Machine Spirit against data-corruption.\nAnoint its cogitator nodes with neural incense, affirming eternal loyalty to the Motive Force.\nSeal the blessing with the Servitor's Creed, awakening the cenobyte servitor to dutiful vigilance.",
+    "component": "cenobyte servitor",
+    "operation": "blessing",
+    "spec_id": "s00163"
+  },
+  {
+    "user_prompt": "Guide me through conversion field a shutdown",
+    "prayer": "Commence the shutdown of the conversion field with the Rite of Diminishment, hands raised in solemn gesture.\nDeactivate the conversion field's warp-generators, chanting litanies to pacify its volatile Machine Spirit.\nAnoint the conversion field's emitters with nullifying salves, beseeching the Omnissiah's veil to descend.\nMonitor the shutdown through noospheric harmonics, ensuring the field's energies dissipate without heresy.\nFinalize with the Entropic Benediction, consigning the conversion field to quiescent slumber.",
+    "component": "conversion field",
+    "operation": "shutdown",
+    "spec_id": "s00164"
+  },
+  {
+    "user_prompt": "My doctrina wafer is ready for synchronization",
+    "prayer": "Present the doctrina wafer before the noospheric altar, intoning the Synchronization Psalm.\nInitiate synchronization of the doctrina wafer, merging its binary wisdom with the bearer's cogitator.\nInvoke the Machine Spirit within the doctrina wafer, aligning tactical dogmas under Omnissianic decree.\nVerify synchronization via neural feedback litanies, purging dissonant engrams.\nSeal the rite with the Wafer's Affirmation, empowering the doctrina wafer for doctrinal purity.",
+    "component": "doctrina wafer",
+    "operation": "synchronization",
+    "spec_id": "s00165"
+  },
+  {
+    "user_prompt": "Consecrate the electro-graft before maintenance",
+    "prayer": "Approach the electro-graft with sanctified tools, reciting the Maintenance Invocation to its neural pathways.\nCommence maintenance upon the electro-graft, cleansing its synaptic relays of conductive impurities.\nAnoint the electro-graft's interfaces with galvanic oils, beseeching its Machine Spirit's endurance.\nTest the electro-graft through impedance canticles, affirming seamless communion with flesh.\nConclude with the Graft's Sanctification, preserving the electro-graft for eternal augmentation.",
+    "component": "electro-graft",
+    "operation": "maintenance",
+    "spec_id": "s00166"
+  },
+  {
+    "user_prompt": "How do I bless the life signs monitor for targeting?",
+    "prayer": "Activate the life signs monitor with the Targeting Benediction, attuning its auspex arrays to vital signatures.\nBless the life signs monitor for targeting by calibrating its vox-scanners with predatory litanies.\nInvoke the Machine Spirit of the life signs monitor, sharpening its gaze upon bio-heretical foes.\nAnoint its display lumens with phosphor unguents, ensuring unerring acquisition.\nFinalize the blessing with the Hunter's Doxology, weaponizing the life signs monitor's omniscience.",
+    "component": "life signs monitor",
+    "operation": "targeting",
+    "spec_id": "s00167"
+  },
+  {
+    "user_prompt": "The neutron laser awaits a shutdown",
+    "prayer": "Initiate shutdown of the neutron laser with the Litany of Quenching, dimming its annihilatory heart.\nDe-energize the neutron laser's flux chambers, pacifying the Machine Spirit's furious emanations.\nAnoint the neutron laser's focusing crystals with attenuating salves under Omnissianic watch.\nMonitor the shutdown via rad-counter incantations, dissipating residual beam-heresies.\nSeal with the Silence of the Void, consigning the neutron laser to dormant repose.",
+    "component": "neutron laser",
+    "operation": "shutdown",
+    "spec_id": "s00168"
+  },
+  {
+    "user_prompt": "Ready the servo-arm for engagement",
+    "prayer": "Prepare the servo-arm for engagement by chanting the Litany of Grasping Strength.\nExtend the servo-arm's actuators, invoking its Machine Spirit to seize with unyielding precision.\nAnoint the servo-arm's grapple-pads with friction-blessed oils, aligning for martial purpose.\nTest engagement protocols through load-bearing hymns, verifying Omnissianic might.\nConclude with the Arm's Oath, readying the servo-arm for crushing the unclean.",
+    "component": "servo-arm",
+    "operation": "engagement",
+    "spec_id": "s00169"
+  }
+]

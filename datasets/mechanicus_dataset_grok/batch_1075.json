@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a targeting the mechadendrite",
+    "prayer": "Extend the mechadendrite in supplication to the Omnissiah's gaze.\nInvoke the Machine Spirit of the mechadendrite for unerring targeting precision.\nAnoint its sensor arrays with blessed oils whilst chanting the Canticle of Focus.\nAlign the targeting matrices through sacred auspex calibration.\nBeseech the mechadendrite's spirit to lock upon the foe with divine wrath.",
+    "component": "mechadendrite",
+    "operation": "targeting",
+    "spec_id": "s06750"
+  },
+  {
+    "user_prompt": "Prepare the flak armour for emergency procedure",
+    "prayer": "Approach the flak armour with reverence and utter the Litany of Fortification.\nInspect the layered plates for any impurity marring the emergency procedure readiness.\nSanctify the flak armour's ablative strata with incense of promethium ash.\nInvoke the Machine Spirit to brace for the emergency procedure's trials.\nSeal the flak armour with binaric prayers, ensuring Omnissianic resilience.",
+    "component": "flak armour",
+    "operation": "emergency procedure",
+    "spec_id": "s06751"
+  },
+  {
+    "user_prompt": "Help me an emergency procedure the electoo",
+    "prayer": "Unveil the electoo circuits inscribed upon sacred flesh.\nChant the Rite of Emergency Activation over the electoo's inductors.\nAnoint the electoo patterns with conductive unguents to rouse its spirit.\nInitiate the emergency procedure through invocation of the Machine God.\nVerify the electoo's surge with diagnostic litanies of power.",
+    "component": "electoo",
+    "operation": "emergency procedure",
+    "spec_id": "s06752"
+  },
+  {
+    "user_prompt": "Bless the navigational beacon for recalibration",
+    "prayer": "Kneel before the navigational beacon and proclaim the Doxology of Paths.\nPurge erroneous stellar data from the navigational beacon's cogitators.\nRecalibrate its gyroscopic heart with the Omnissiah's precise hand.\nBeseech the Machine Spirit of the navigational beacon for true bearings.\nConsecrate the recalibration with stellar hymns of guidance.",
+    "component": "navigational beacon",
+    "operation": "recalibration",
+    "spec_id": "s06753"
+  },
+  {
+    "user_prompt": "Help me a startup the force pylon",
+    "prayer": "Circumambulate the force pylon whilst intoning the Canticle of Containment.\nAwaken the force pylon's plasma conduits with sacred sparks.\nInitiate the startup sequence under the gaze of the Omnissiah.\nAnoint the force pylon's emitters to bind its energies.\nInvoke the Machine Spirit for stable startup resonance.",
+    "component": "force pylon",
+    "operation": "startup",
+    "spec_id": "s06754"
+  },
+  {
+    "user_prompt": "My enginarium is ready for maintenance",
+    "prayer": "Commence the maintenance rite upon the enginarium's vast mechanisms.\nClear plasma residue from the enginarium's sacred furnaces.\nLubricate the piston gods of the enginarium with sanctified mechfluid.\nChant binaric maintenance litanies to appease restless Machine Spirits.\nSeal the enginarium with the Omnissiah's benediction of endurance.",
+    "component": "enginarium",
+    "operation": "maintenance",
+    "spec_id": "s06755"
+  },
+  {
+    "user_prompt": "The grav plating needs a blessing",
+    "prayer": "Prostrate before the grav plating and whisper the Hymn of Weightlessness.\nAnoint the grav plating emitters with oils of null-grav sanctity.\nInvoke the blessing of the Machine Spirits within the grav plating.\nHarmonize the field generators through sacred resonance chants.\nConsecrate the grav plating's blessing for unyielding dominion over mass.",
+    "component": "grav plating",
+    "operation": "blessing",
+    "spec_id": "s06756"
+  },
+  {
+    "user_prompt": "Help me a preparation the neutron laser",
+    "prayer": "Present the neutron laser to the altar of annihilation.\nPurify its focusing crystals with las-rite incantations.\nPrepare the neutron laser's capacitors for the Omnissiah's fury.\nBeseech the Machine Spirit for flawless preparation alignment.\nTest the neutron laser's coils with diagnostic prayers of potency.",
+    "component": "neutron laser",
+    "operation": "preparation",
+    "spec_id": "s06757"
+  },
+  {
+    "user_prompt": "Critical: multi-melta requires a preparation",
+    "prayer": "Revere the multi-melta as the breath of the forge-god.\nAnoint its melta coils with promethium essence for preparation.\nInvoke the Machine Spirit of the multi-melta to hunger for preparation.\nAlign the emitters through the Rite of Thermal Conflagration.\nSanctify the multi-melta's preparation with vows of molten devotion.",
+    "component": "multi-melta",
+    "operation": "preparation",
+    "spec_id": "s06758"
+  },
+  {
+    "user_prompt": "I need to a synchronization the navigational beacon",
+    "prayer": "Assemble before the navigational beacon in solemn array.\nPurge discordant signals from the navigational beacon's transponders.\nInitiate synchronization with stellar canticles to the Omnissiah.\nBeseech the Machine Spirit of the navigational beacon for perfect harmony.\nSeal the synchronization with auspex blessings of unity.",
+    "component": "navigational beacon",
+    "operation": "synchronization",
+    "spec_id": "s06759"
+  }
+]

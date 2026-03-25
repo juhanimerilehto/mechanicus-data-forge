@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0335_i00",
+    "user_request": "Blessing for the medicae scanner during activation",
+    "topic": "medicae scanner activation",
+    "component": "medicae scanner",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the medicae scanner during activation\n\n### TOPIC\nmedicae scanner activation\n\n### COMPONENT\nmedicae scanner\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- medicae scanner\n- activation\n\n### PRAYER\n",
+    "prayer": "Blessed be the medicae scanner in this hour of necessity.\nFirst: Genuflect before the medicae scanner and anoint its optical lenses with sacred unguents, invoking the Machine Spirit within.\nSecond: Recite the Litany of Activation whilst the medicae scanner's power conduits hum with the Omnissiah's grace.\nThird: Calibrate the medicae scanner's diagnostic arrays through ritual incantation, that it may perceive the infirmities of flesh and bone.\nFourth: Seal the rite with the sign of the Cog, and the medicae scanner shall serve faithfully.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i01",
+    "user_request": "Rite request: capacitor bank discharge on capacitor bank",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: capacitor bank discharge on capacitor bank\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant us the wisdom to channel the sacred energies through the capacitor bank.\nFirst: Approach the capacitor bank with reverence and place your hands upon its housing to sense the accumulated charge.\nSecond: Intone the Mantra of Discharge as you initiate capacitor bank discharge through the primary conduit, releasing pent energies unto the void.\nThird: Monitor the capacitor bank's discharge cascade with vigilant attention, ensuring no surge corrupts the connected systems.\nFourth: Upon completion, offer thanks to the Machine Spirit for safe passage of the liberated power.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i02",
+    "user_request": "Rite request: track tension on Land Raider",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: track tension on Land Raider\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Hear us, O Land Raider, noble steed of the Imperium.\nFirst: Inspect the Land Raider's track tension with practiced hands, measuring deviation from the sacred specifications.\nSecond: Adjust the Land Raider's tensioning mechanisms with deliberate precision, ensuring the tracks grip with proper force upon terra firma.\nThird: Apply the blessed lubricant to the track assembly, that the Land Raider may roll forth without friction or complaint.\nFourth: Perform a final validation of the Land Raider's mobility, and declare the rite complete.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i03",
+    "user_request": "Prayer for operation of the ground-to-orbit link",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for operation of the ground-to-orbit link\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "By the will of the Omnissiah, we establish communion betwixt world and void.\nFirst: Activate the ground-to-orbit link's primary transmission array, chanting the Frequency Litany to align its resonance.\nSecond: Establish the ground-to-orbit link's data pathway through sacred geometry and electromagnetic invocation.\nThird: Test the ground-to-orbit link's signal integrity by transmitting the Ritual Acknowledgment to the orbital station above.\nFourth: Maintain vigilant observation of the ground-to-orbit link's operation, that no interference corrupts the blessed communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i04",
+    "user_request": "Blessing for the overheating during prevention",
+    "topic": "overheating prevention",
+    "component": "overheating",
+    "operation": "prevention",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nBlessing for the overheating during prevention\n\n### TOPIC\noverheating prevention\n\n### COMPONENT\noverheating\n\n### OPERATION\nprevention\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- overheating\n- prevention\n\n### PRAYER\n",
+    "prayer": "O Machine Spirit, grant us cool respite from the fires of malfunction.\nFirst: Inspect the overheating's source with thermal auguries, identifying the locus of excessive heat generation.\nSecond: Engage overheating prevention protocols by clearing heat-dissipation pathways and restoring proper coolant circulation.\nThird: Recalibrate the overheating's thermal thresholds through sacred mathematics, ensuring the system never again approaches critical temperature.\nFourth: Bless the cooled mechanism with the sign of the Cog, and declare overheating prevention achieved.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i05",
+    "user_request": "Emergency rite: capacitor bank requires capacitor bank discharge",
+    "topic": "capacitor bank discharge",
+    "component": "capacitor bank",
+    "operation": "capacitor bank discharge",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: capacitor bank requires capacitor bank discharge\n\n### TOPIC\ncapacitor bank discharge\n\n### COMPONENT\ncapacitor bank\n\n### OPERATION\ncapacitor bank discharge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- capacitor bank\n- capacitor bank discharge\n\n### PRAYER\n",
+    "prayer": "In extremis, we call upon the Omnissiah for swift capacitor bank discharge.\nFirst: Assess the capacitor bank's charge state with urgency, determining the magnitude of energy requiring liberation.\nSecond: Execute capacitor bank discharge through emergency protocols, venting excess power through designated conduits with haste.\nThird: Monitor the capacitor bank's discharge rate continuously, ensuring no catastrophic surge overwhelms the system.\nFourth: Upon safe discharge completion, offer prayers of gratitude to the Machine Spirit for averting system failure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i06",
+    "user_request": "My power cell is failing during recharging — help",
+    "topic": "power cell recharging",
+    "component": "power cell",
+    "operation": "recharging",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy power cell is failing during recharging — help\n\n### TOPIC\npower cell recharging\n\n### COMPONENT\npower cell\n\n### OPERATION\nrecharging\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power cell\n- recharging\n\n### PRAYER\n",
+    "prayer": "Hear our supplication, O failing power cell, that we might restore thy vitality.\nFirst: Disconnect the power cell from all systems and place it upon the sacred charging altar.\nSecond: Initiate the recharging ritual by connecting the power cell to the blessed power conduit, speaking the Mantra of Restoration.\nThird: Monitor the power cell's recharging progression through the luminous gauge, ensuring the current flows steadily and true.\nFourth: When recharging reaches completion, declare the power cell renewed in service to the Imperium.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i07",
+    "user_request": "The pain suppressor demands guidance for engagement",
+    "topic": "pain suppressor engagement",
+    "component": "pain suppressor",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nThe pain suppressor demands guidance for engagement\n\n### TOPIC\npain suppressor engagement\n\n### COMPONENT\npain suppressor\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- pain suppressor\n- engagement\n\n### PRAYER\n",
+    "prayer": "O pain suppressor, instrument of mercy and necessity, we invoke thy sacred engagement.\nFirst: Approach the pain suppressor with reverent solemnity and prepare the subject for the rite of dulcification.\nSecond: Initiate pain suppressor engagement through the blessed activation sequence, that the Machine Spirit may dampen suffering's cruel voice.\nThird: Calibrate the pain suppressor's intensity to achieve optimal analgesia without rendering the subject insensate to danger.\nFourth: Maintain vigilant observation of the pain suppressor's operation, adjusting its parameters as the sacred duty demands.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i08",
+    "user_request": "Emergency rite: autocannon barrel requires cooling",
+    "topic": "autocannon barrel cooling",
+    "component": "autocannon barrel",
+    "operation": "cooling",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nEmergency rite: autocannon barrel requires cooling\n\n### TOPIC\nautocannon barrel cooling\n\n### COMPONENT\nautocannon barrel\n\n### OPERATION\ncooling\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- autocannon barrel\n- cooling\n\n### PRAYER\n",
+    "prayer": "Blessed be the autocannon barrel, instrument of righteous fury, now requiring sacred cooling.\nFirst: Cease fire immediately and allow the autocannon barrel to rest, that its thermal energies may begin their natural dissipation.\nSecond: Direct blessed coolant streams upon the autocannon barrel's exterior surfaces, chanting the Litany of Thermal Reduction.\nThird: Monitor the autocannon barrel's temperature descent through sacred instruments, ensuring it reaches safe operational parameters.\nFourth: Upon cooling completion, the autocannon barrel stands ready once more to serve the Emperor's will.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0335_i09",
+    "user_request": "Prayer for fuel purification of the Thunderhawk",
+    "topic": "Thunderhawk fuel purification",
+    "component": "Thunderhawk",
+    "operation": "fuel purification",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nPrayer for fuel purification of the Thunderhawk\n\n### TOPIC\nThunderhawk fuel purification\n\n### COMPONENT\nThunderhawk\n\n### OPERATION\nfuel purification\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Thunderhawk\n- fuel purification\n\n### PRAYER\n",
+    "prayer": "O mighty Thunderhawk, winged guardian of the Emperor, we purify thy sacred fuel.\nFirst: Ground the Thunderhawk upon the purification platform and access its fuel reservoirs with reverent precision.\nSecond: Initiate the Thunderhawk's fuel purification by drawing the contaminated fuel through blessed filtration matrices and chemical sanctification.\nThird: Recite the Mantra of Cleanliness as the Thunderhawk's fuel flows through the purification apparatus, removing all profane impurities.\nFourth: Upon purification completion, refill the Thunderhawk's tanks and bless it for renewed flight in the Emperor's service.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

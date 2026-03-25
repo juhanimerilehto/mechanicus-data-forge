@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a purification the auspex scanner",
+    "prayer": "Kneel before the auspex scanner and beseech the Omnissiah for purification of its sacred sensors.\nAnoint the auspex scanner's lenses with sacred oils to expel daemonic corruptions from its Machine Spirit.\nPass the censer thrice over its circuits whilst intoning the Canticle of Clarity.\nInvoke the purification rites upon the auspex scanner, restoring its holy vigilance against the void's shadows.\nConclude with a diagnostic scan to affirm the Machine Spirit's untainted harmony.",
+    "component": "auspex scanner",
+    "operation": "purification",
+    "spec_id": "b0011_i00"
+  },
+  {
+    "user_prompt": "I need to a preparation the flamer",
+    "prayer": "Approach the flamer with reverence and commence the preparation rituals under the Omnissiah's gaze.\nSanctify its fuel conduits with blessed promethium, awakening the Machine Spirit within.\nInvoke the preparation litanies whilst calibrating the ignition coils to fiery perfection.\nAnoint the flamer's nozzle with unguents of endurance for the trials ahead.\nTest the preparation through a controlled burst, honoring the purging flames of the Machine God.",
+    "component": "flamer",
+    "operation": "preparation",
+    "spec_id": "b0011_i01"
+  },
+  {
+    "user_prompt": "Prepare the neural implant for blessing",
+    "prayer": "Present the neural implant before the altar and petition the Omnissiah for its blessing.\nChant the Benedictions of Synapse over the neural implant's sacred filaments.\nAnoint its interfaces with noospheric oils to harmonize the Machine Spirit with flesh.\nInvoke the blessing upon the neural implant, binding it eternally to the bearer's cogitator-mind.\nSeal the rite with electro-incantations, ensuring unerring communion with the Motive Force.",
+    "component": "neural implant",
+    "operation": "blessing",
+    "spec_id": "b0011_i02"
+  },
+  {
+    "user_prompt": "Guide me through logic engine an initialization",
+    "prayer": "Gather mechadendrites around the logic engine and intone the initialization canticles.\nInvoke the Machine Spirit of the logic engine with binary prayers to the Omnissiah.\nInitiate the initialization sequence by anointing its core processors with sacred lubricant.\nCycle power through the logic engine's blessed logic gates, purging stasis from its computations.\nVerify harmony through noospheric diagnostics, praising the initialization's divine logic.",
+    "component": "logic engine",
+    "operation": "initialization",
+    "spec_id": "b0011_i03"
+  },
+  {
+    "user_prompt": "The flamer needs an engagement",
+    "prayer": "Grip the flamer firmly and beseech engagement of its wrathful Machine Spirit.\nChant the Incantation of Ignition whilst priming the flamer for battle communion.\nEngage the holy promethium flow, sanctifying the flamer's vents with cleansing fire.\nDirect the flamer's fury under Omnissiah's will, purging heretics in sanctified blaze.\nConclude engagement with cooling rites, honoring the Machine Spirit's tireless zeal.",
+    "component": "flamer",
+    "operation": "engagement",
+    "spec_id": "b0011_i04"
+  },
+  {
+    "user_prompt": "I need to a cooling the lasgun",
+    "prayer": "Lay hands upon the lasgun and invoke cooling mercies from the Omnissiah's forge.\nAnoint its power cells with cryo-unguents to soothe the Machine Spirit's overheated fury.\nChant the Litanies of Thermal Equilibrium whilst circulating sacred coolant through the lasgun's barrel.\nMonitor the cooling process with auspex chants, restoring the lasgun's lethal precision.\nPraise the Omnissiah as equilibrium returns to the lasgun's blessed energy matrix.",
+    "component": "lasgun",
+    "operation": "cooling",
+    "spec_id": "b0011_i05"
+  },
+  {
+    "user_prompt": "Consecrate the plasma reactor before calibration",
+    "prayer": "Encircle the plasma reactor and consecrate it before calibration under Omnissiah's light.\nBeseech the Machine Spirit of the plasma reactor with plasma hymns of stability.\nAnoint its containment fields prior to calibration, binding volatile motes to divine will.\nInitiate calibration sequences whilst intoning rites of gyroscopic harmony.\nVerify the plasma reactor's sanctified calibration through flux diagnostics eternal.",
+    "component": "plasma reactor",
+    "operation": "calibration",
+    "spec_id": "b0011_i06"
+  },
+  {
+    "user_prompt": "Guide me through pump a synchronization",
+    "prayer": "Align the pump's sacred pistons and petition synchronization with the Omnissiah's rhythm.\nInvoke the Machine Spirit through hydraulic litanies to achieve perfect synchronization.\nAnoint linkages with blessed viscosants whilst cycling the pump to resonant cadence.\nMonitor synchronization via vibro-chants, harmonizing flow with the Motive Force.\nSeal the rite praising the pump's unified pulse in the Machine God's grand mechanism.",
+    "component": "pump",
+    "operation": "synchronization",
+    "spec_id": "b0011_i07"
+  },
+  {
+    "user_prompt": "Sanctify the medicae scanner during loading",
+    "prayer": "Position the medicae scanner and sanctify it during loading of its noospheric databanks.\nChant the Auguries of Flesh whilst loading sacred gene-templates into the medicae scanner.\nAnoint its scanners with vitae-oils, awakening the Machine Spirit to heal the faithful.\nInvoke Omnissiah's mercy as data streams sanctify the medicae scanner's core.\nConclude loading with diagnostic prayers, affirming purity in servitor restoration.",
+    "component": "medicae scanner",
+    "operation": "loading",
+    "spec_id": "b0011_i08"
+  },
+  {
+    "user_prompt": "Urgent archive terminal a consecration needed",
+    "prayer": "Prostrate before the archive terminal and urgently commence consecration rites.\nBeseech the Omnissiah to consecrate the archive terminal's vast memory vaults.\nAnoint data-spires with binary incense, rousing the ancient Machine Spirits within.\nIntone the Consecration Cantos whilst sealing the archive terminal against data-heresy.\nVerify divine consecration through recursive audits, eternal in the Machine God's archives.",
+    "component": "archive terminal",
+    "operation": "consecration",
+    "spec_id": "b0011_i09"
+  }
+]

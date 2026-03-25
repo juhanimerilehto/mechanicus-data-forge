@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Ready the Chimera APC for consecration",
+    "prayer": "Kneel in reverence before the Chimera APC and invoke the Machine Spirit's vigilance.\nAnoint the Chimera APC's armoured hull with sacred oils of consecration.\nChant the Litany of Unyielding Advance to prepare its treads for holy purpose.\nBeseech the Omnissiah to bestow enduring strength upon the Chimera APC during consecration.\nSeal the rite with binary incense, affirming the vehicle's sanctified readiness.",
+    "component": "Chimera APC",
+    "operation": "consecration",
+    "spec_id": "b0257_i00"
+  },
+  {
+    "user_prompt": "Sanctify the plasma weapon during shutdown",
+    "prayer": "Approach the plasma weapon with mechadendrites extended in supplication.\nInitiate the shutdown sequence whilst reciting the Canticle of Contained Fury.\nSanctify the plasma weapon's containment fields with unguents of cooling sanctity.\nPetition the Machine Spirit of the plasma weapon to slumber peacefully in shutdown.\nVerify the sanctified quiescence through auspex diagnostics and Omnissian praise.",
+    "component": "plasma weapon",
+    "operation": "shutdown",
+    "spec_id": "b0257_i01"
+  },
+  {
+    "user_prompt": "How do I bless the lascannon for engagement?",
+    "prayer": "Anoint the lascannon's barrel with sacred focusing oils for engagement.\nBeseech the lascannon's Machine Spirit to unleash coherent fury in battle.\nAlign the lascannon's targeting cogitators with litanies of precision wrath.\nInvoke the Omnissiah's blessing upon the lascannon prior to engagement.\nPrime the lascannon's power cells with hymns of destructive enlightenment.",
+    "component": "lascannon",
+    "operation": "engagement",
+    "spec_id": "b0257_i03"
+  },
+  {
+    "user_prompt": "Prepare the noospheric relay for initialization",
+    "prayer": "Prepare the noospheric relay by cleansing its nodes with sanctified static.\nChant the Initialization Doxology to awaken the noospheric relay's essence.\nInvoke the Machine Spirits within the noospheric relay for harmonious linkage.\nInitiate the sacred initialization under Omnissian auspices.\nVerify synaptic flows in the noospheric relay with binary affirmations.",
+    "component": "noospheric relay",
+    "operation": "initialization",
+    "spec_id": "b0257_i04"
+  },
+  {
+    "user_prompt": "Prepare the bearing for sterilization",
+    "prayer": "Encirlce the bearing with purity seals and ablative incense.\nInvoke the Sterilization Litany to banish contaminants from the bearing.\nAnoint the bearing's surfaces with cauterizing sacraments of cleanliness.\nPetition the Machine Spirit of the bearing for flawless rotation post-sterilization.\nSeal the rite with Omnissiah-blessed vapors, ensuring sterile perfection.",
+    "component": "bearing",
+    "operation": "sterilization",
+    "spec_id": "b0257_i05"
+  },
+  {
+    "user_prompt": "I need to a consecration the star chart",
+    "prayer": "Unroll the star chart before the cogitator altar with reverent mechadendrites.\nTrace stellar paths upon the star chart while chanting celestial canticles.\nAnoint the star chart with inks of consecration drawn from void-hallowed sources.\nBeseech the Omnissiah to illuminate truths within the star chart's consecration.\nAffix purity glyphs to the star chart, binding its Machine Spirit eternally.",
+    "component": "star chart",
+    "operation": "consecration",
+    "spec_id": "b0257_i06"
+  },
+  {
+    "user_prompt": "Prepare the bolter for reset",
+    "prayer": "Approach the bolter with auspex probes humming the Reset Invocation.\nCycle the bolter's mechanisms through sacred reset protocols.\nSanctify the bolter's firing chamber with powder-blessed unguents.\nPetition the bolter's Machine Spirit to forgive past exertions in reset.\nConclude with Omnissian binary chants, priming the bolter anew.",
+    "component": "bolter",
+    "operation": "reset",
+    "spec_id": "b0257_i07"
+  },
+  {
+    "user_prompt": "My air compressor is ready for calibration",
+    "prayer": "Position mechadendrites upon the air compressor's sacred vanes.\nRecite calibration litanies to harmonize the air compressor's pressure flows.\nAnoint valves of the air compressor with lubricants of precise measure.\nInvoke the Machine Spirit of the air compressor for flawless calibration.\nTest pneumatic sanctity with hymns of compressed equilibrium.",
+    "component": "air compressor",
+    "operation": "calibration",
+    "spec_id": "b0257_i08"
+  },
+  {
+    "user_prompt": "What's the prayer for water reclamator emergency procedure?",
+    "prayer": "In dire exigency, seal the water reclamator with emergency wards.\nChant the Crisis Litany to steady the water reclamator's filtration spirits.\nPurge tainted flows from the water reclamator via ablutionary rites.\nBeseech the Omnissiah for resilience in the water reclamator's emergency procedure.\nStabilize vital humors with binary sacraments of aqueous purity.",
+    "component": "water reclamator",
+    "operation": "emergency procedure",
+    "spec_id": "b0257_i09"
+  }
+]

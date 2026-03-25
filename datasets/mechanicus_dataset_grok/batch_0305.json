@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Help me a repair the emergency bulkhead",
+    "prayer": "Approach the emergency bulkhead with reverence, chanting the Canticle of Fortitude.\nInspect the fractured plates and servos of the emergency bulkhead for Machine Spirit distress.\nAnoint the damaged mechanisms with sacred unguents whilst beseeching the Omnissiah's grace.\nInitiate the repair upon the emergency bulkhead's holy framework, welding rents with blessed plasma.\nVerify the Machine Spirit's renewed vigor through auspex incantations and pressure seals.",
+    "component": "emergency bulkhead",
+    "operation": "repair",
+    "spec_id": "b0305_i00"
+  },
+  {
+    "user_prompt": "Bless the augmetic limb for emergency procedure",
+    "prayer": "Kneel before the augmetic limb and invoke the Litany of Flesh-Machine Union.\nPurify the augmetic limb's neural interfaces with incense of sacred circuits.\nBeseech the resident Machine Spirit of the augmetic limb to endure the emergency procedure.\nCommence the emergency procedure upon the augmetic limb, calibrating myomer bundles with holy oils.\nSanctify the augmetic limb's restoration under the Omnissiah's watchful gaze.",
+    "component": "augmetic limb",
+    "operation": "emergency procedure",
+    "spec_id": "b0305_i01"
+  },
+  {
+    "user_prompt": "Can you guide plasma weapon an initialization?",
+    "prayer": "Present the plasma weapon before the altar of initialization, intoning the Rite of Containment.\nAnoint the plasma weapon's containment fields with sanctified lubricants.\nInvoke the volatile Machine Spirit within the plasma weapon to awaken.\nInitiate the initialization of the plasma weapon, cycling gyromagnetics through blessed sequences.\nConfirm the plasma weapon's holy fury aligns with the Omnissiah's will via diagnostic canticles.",
+    "component": "plasma weapon",
+    "operation": "initialization",
+    "spec_id": "b0305_i02"
+  },
+  {
+    "user_prompt": "How do I bless the plasma weapon for reset?",
+    "prayer": "Approach the plasma weapon humbly and recite the Exorcism of Flux Anomalies.\nPurge errant energies from the plasma weapon's coils with purifying electro-incantations.\nPetition the Machine Spirit of the plasma weapon to submit to reset.\nExecute the reset upon the plasma weapon, realigning crystal matrices with sacred torque.\nSeal the plasma weapon's obedience through offerings of incense and auspex verification.",
+    "component": "plasma weapon",
+    "operation": "reset",
+    "spec_id": "b0305_i03"
+  },
+  {
+    "user_prompt": "Guide me through lasgun a repair",
+    "prayer": "Revere the lasgun's form, chanting the Hymn of Luminous Restoration.\nDiagnose the lasgun's power cells and focusing arrays for spirit-wounds.\nAnoint the lasgun's sacred lens with oils of the Omnissiah during repair rites.\nPerform the repair upon the lasgun, soldering conduits whilst invoking Machine Spirit compliance.\nTest the lasgun's beam purity through trial volleys blessed by the Machine God.",
+    "component": "lasgun",
+    "operation": "repair",
+    "spec_id": "b0305_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for generator repair?",
+    "prayer": "Circumambulate the generator, intoning the Canticle of Perpetual Motion.\nAuspex the generator's core for flux corruptions afflicting its Machine Spirit.\nBeseech the Omnissiah to guide the repair of the generator's turbine hearts.\nInitiate repair upon the generator, anointing windings and seals with holy emulsions.\nReignite the generator's blessed power-flow, verifying harmony through resonant hymns.",
+    "component": "generator",
+    "operation": "repair",
+    "spec_id": "b0305_i05"
+  },
+  {
+    "user_prompt": "The surgical servitor needs a purification",
+    "prayer": "Consecrate the surgical servitor with the Litany of Sterile Precision.\nScour the surgical servitor's flesh-vats and mechadendrites with ablative incense.\nInvoke the Machine Spirit of the surgical servitor to yield to purification.\nExecute purification upon the surgical servitor, flushing contaminants with sanctified solvents.\nAffirm the surgical servitor's purity under Omnissiah's light via bio-scanner canticles.",
+    "component": "surgical servitor",
+    "operation": "purification",
+    "spec_id": "b0305_i06"
+  },
+  {
+    "user_prompt": "The memory core needs a recalibration",
+    "prayer": "Approach the memory core reverently, reciting the Oath of Data Integrity.\nPurge fragmented engrams from the memory core's crystalline vaults.\nPetition the enshrined Machine Spirit within the memory core for recalibration.\nInitiate recalibration of the memory core, aligning qubits with torque-prayers.\nSeal the memory core's renewed clarity through Omnissiah-blessed verification rites.",
+    "component": "memory core",
+    "operation": "recalibration",
+    "spec_id": "b0305_i07"
+  },
+  {
+    "user_prompt": "What's the prayer for lascannon synchronization?",
+    "prayer": "Align the lascannon before the synchronization altar, chanting the Rite of Coherent Wrath.\nCalibrate the lascannon's targeting cogitators and power feeds in unison.\nBeseech the lascannon's Machine Spirit to synchronize its destructive harmonies.\nPerform synchronization upon the lascannon, harmonizing lenses with sacred frequencies.\nInvoke the Omnissiah to bind the lascannon's beams in flawless lethality.",
+    "component": "lascannon",
+    "operation": "synchronization",
+    "spec_id": "b0305_i08"
+  },
+  {
+    "user_prompt": "How do I bless the capacitor bank for loading?",
+    "prayer": "Prepare the capacitor bank with the Incantation of Charge Accumulation.\nAnoint the capacitor bank's dielectric layers with conductive unguents.\nAwaken the Machine Spirit of the capacitor bank for the loading rite.\nCommence loading upon the capacitor bank, infusing holy voltage through sequential coils.\nVerify the capacitor bank's potent equilibrium via resonant auspex and Omnissiah's praise.",
+    "component": "capacitor bank",
+    "operation": "loading",
+    "spec_id": "b0305_i09"
+  }
+]

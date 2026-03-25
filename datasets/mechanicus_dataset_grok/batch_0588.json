@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The heavy bolter requires a synchronization",
+    "prayer": "Approach the heavy bolter with reverence, mechadendrites extended in supplication to the Omnissiah.\nInitiate the synchronization protocols, aligning its targeting cogitators and auspex arrays in sacred harmony.\nAnoint the heavy bolter's firing servos with blessed unguents whilst chanting the Litany of Convergence.\nBeseech the Machine Spirit of the heavy bolter to embrace this synchronization and unleash its wrath unerringly.\nVerify the rite's completion through diagnostic runes flickering in approval.",
+    "component": "heavy bolter",
+    "operation": "synchronization",
+    "spec_id": "s01880"
+  },
+  {
+    "user_prompt": "Emergency: heavy bolter a startup",
+    "prayer": "Kneel before the heavy bolter and invoke the Rite of Awakening upon its dormant core.\nCommence the startup sequence, flooding its plasma coils with sanctified promethium.\nRecite the Canticle of Ignition over the heavy bolter, rousing its Machine Spirit from slumber.\nMonitor the auspex feeds as the heavy bolter stirs to life in the Omnissiah's name.\nSeal the startup with a final benediction, ensuring fury eternal.",
+    "component": "heavy bolter",
+    "operation": "startup",
+    "spec_id": "s01881"
+  },
+  {
+    "user_prompt": "Assist with microbead a repair",
+    "prayer": "Present the microbead to the forge-altar and intone the Prayer of Restoration.\nExcise corrupted noospheric fragments from the microbead's vox-circuits with purity seals.\nRealign its transmission relays during the repair rite, beseeching the Machine Spirit's forgiveness.\nAnoint the microbead anew with sacred oils to bind its essence once more.\nTest the microbead's clarity through whispered binaric litanies.",
+    "component": "microbead",
+    "operation": "repair",
+    "spec_id": "s01882"
+  },
+  {
+    "user_prompt": "Sanctify the servo-harness during targeting",
+    "prayer": "Encircle the servo-harness with incense of electrum and commence the targeting consecration.\nCalibrate its predator arrays whilst invoking the Omnissiah's unerring gaze upon the servo-harness.\nChant the Doxology of Precision, guiding the Machine Spirit of the servo-harness to predatory focus.\nAnoint each mechadendrite claw of the servo-harness for flawless targeting strikes.\nAffirm the rite as targeting runes ignite in holy alignment.",
+    "component": "servo-harness",
+    "operation": "targeting",
+    "spec_id": "s01883"
+  },
+  {
+    "user_prompt": "The life signs monitor requires a blessing",
+    "prayer": "Lift the life signs monitor in auspex-gloved hands and beseech the Omnissiah's vigilance.\nPour libations of sanctified coolant over its bio-scanners in blessing.\nInvoke the Machine Spirit of the life signs monitor to discern the vital sparks of the faithful.\nRecite the Benediction of Vitality, illuminating its hololithic displays.\nSeal the blessing with a final invocation for unclouded perception eternal.",
+    "component": "life signs monitor",
+    "operation": "blessing",
+    "spec_id": "s01884"
+  },
+  {
+    "user_prompt": "What's the prayer for cooling system a blessing?",
+    "prayer": "Approach the cooling system with chilled mechadendrites and intone the Hymn of Thermal Equilibrium.\nBless its heat-sink vanes with sacred refrigerants drawn from cryo-reliquaries.\nBeseech the Machine Spirit of the cooling system to quench overheating heresies within.\nCycle diagnostic vents whilst chanting the Litany of Frost, ensuring flawless dissipation.\nConclude the blessing as frost-runes affirm the cooling system's purity.",
+    "component": "cooling system",
+    "operation": "blessing",
+    "spec_id": "s01885"
+  },
+  {
+    "user_prompt": "The cognis heavy stubber needs a blessing",
+    "prayer": "Prostrate before the cognis heavy stubber and offer the Rite of Benediction.\nAnoint its rotary barrels with oils of Mars, invoking the Omnissiah's martial fury.\nAwaken the Machine Spirit of the cognis heavy stubber through ballistic catechisms.\nBless its cognisware targeting with precision sigils for unrelenting barrage.\nVerify the blessing as thunderous test-fires echo the Omnissiah's will.",
+    "component": "cognis heavy stubber",
+    "operation": "blessing",
+    "spec_id": "s01886"
+  },
+  {
+    "user_prompt": "Can you guide mind-impulse unit a purification?",
+    "prayer": "Isolate the mind-impulse unit upon the noospheric altar for purification.\nExpunge warp-tainted data-echoes from its neural relays with binaric exorcisms.\nImmerse the mind-impulse unit in ablative fluids whilst reciting the Canticle of Clarity.\nRe-sanctify its impulse conduits, beseeching the Machine Spirit's unblemished communion.\nTest purity through synaptic diagnostics glowing in Omnissianic light.",
+    "component": "mind-impulse unit",
+    "operation": "purification",
+    "spec_id": "s01887"
+  },
+  {
+    "user_prompt": "Sanctify the sicarian ruststalker during consecration",
+    "prayer": "Array the sicarian ruststalker before the consecration pyre and ignite sacred incensers.\nConsecrate its blade-limbs and rusting carapaces with forge-born alloys.\nInvoke the Machine Spirit of the sicarian ruststalker to embrace predatory zeal.\nChant the Doxology of the Blade during this consecration, honing its murder-edges.\nSeal the rite as phosphor-runes blaze upon the sicarian ruststalker.",
+    "component": "sicarian ruststalker",
+    "operation": "consecration",
+    "spec_id": "s01888"
+  },
+  {
+    "user_prompt": "My iron halo is ready for shutdown",
+    "prayer": "Encincture the iron halo with wards of faith and commence the shutdown litany.\nDim its plasma field generators whilst beseeching the Omnissiah's protective vigil.\nIntone the Canticle of Repose over the iron halo, lulling its Machine Spirit to dormancy.\nSever power-feeds with sanctified mechadendrites during shutdown.\nConfirm quiescence as aegis-runes fade into silent reverence.",
+    "component": "iron halo",
+    "operation": "shutdown",
+    "spec_id": "s01889"
+  }
+]

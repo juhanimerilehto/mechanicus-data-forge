@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Critical: jump pack requires a blessing",
+    "prayer": "Approach the jump pack with mechadendrites extended in supplication to the Omnissiah.\nAnoint its plasma thrusters and gravitic coils with sacred oils, invoking the blessing upon the jump pack.\nBeseech the Machine Spirit of the jump pack to accept this blessing and grant aerial dominion.\nChant the Litany of Lift whilst calibrating the ascent runes.\nSeal the blessing with a sign of the cog upon its sanctified frame.",
+    "component": "jump pack",
+    "operation": "blessing",
+    "spec_id": "s03500"
+  },
+  {
+    "user_prompt": "Critical: cooling system requires a startup",
+    "prayer": "Reverently encircle the cooling system, murmuring the preparatory canticles of awakening.\nSanctify the coolant conduits and heat exchangers with ablative incense.\nInitiate the startup sequence, calling upon the Machine Spirit to commence its vital flows.\nMonitor the blessed thermals as the Omnissiah's chill invigorates the cooling system.\nConclude with diagnostics to affirm harmonious operation.",
+    "component": "cooling system",
+    "operation": "startup",
+    "spec_id": "s03501"
+  },
+  {
+    "user_prompt": "Urgent bolt pistol a recalibration needed",
+    "prayer": "Present the bolt pistol before the binary shrine, intoning the recalibration catechism.\nDisassemble the sighting arrays and auspex linkages with pious precision.\nInvoke the Machine Spirit of the bolt pistol to realign its ballistic harmonies during recalibration.\nReassemble whilst reciting the Canticle of Trueflight, anointing each servo.\nTest-fire a sanctified round to confirm the Omnissiah's guidance.",
+    "component": "bolt pistol",
+    "operation": "recalibration",
+    "spec_id": "s03502"
+  },
+  {
+    "user_prompt": "Offer prayer for power relay an operation",
+    "prayer": "Commune with the power relay's Machine Spirit through electro-incantations.\nPurify its conduction nodes with sanctified sparks from the forge.\nInitiate operation of the power relay, beseeching the Omnissiah for unfailing transmission.\nObserve the energy cascades as they surge through the power relay's blessed conduits.\nSeal the rite with a binaric hymn of endurance.",
+    "component": "power relay",
+    "operation": "operation",
+    "spec_id": "s03503"
+  },
+  {
+    "user_prompt": "Bless the maglock for diagnostics",
+    "prayer": "Kneel in veneration before the maglock, applying diagnostic unguents to its locking servos.\nInvoke the Machine Spirit to reveal anomalies through the rite of diagnostics.\nCycle the maglock's engagement protocols whilst chanting the Litany of Adhesion.\nScrutinize auspex readings for the Omnissiah's truth within the maglock.\nConsecrate the findings with a cogwheel benediction.",
+    "component": "maglock",
+    "operation": "diagnostics",
+    "spec_id": "s03504"
+  },
+  {
+    "user_prompt": "The plasma obliterator awaits a maintenance",
+    "prayer": "Approach the plasma obliterator with reverence, reciting the maintenance litanies.\nPurge residue from its containment flasks and induction coils.\nAnoint the plasma obliterator's sacred vents, beseeching its Machine Spirit for purity.\nPerform adjustment rituals upon the flux regulators during maintenance.\nInvoke the Omnissiah to restore annihilating fury to the plasma obliterator.",
+    "component": "plasma obliterator",
+    "operation": "maintenance",
+    "spec_id": "s03505"
+  },
+  {
+    "user_prompt": "Guide me through krak grenade an emergency procedure",
+    "prayer": "Grasp the krak grenade firmly, invoking the emergency procedure canticle.\nStabilize its unstable core with counter-seismic mechadendrites.\nBeseech the Machine Spirit of the krak grenade to endure the emergency procedure.\nNeutralize volatility through ablative runes and coolant invocation.\nSeal the krak grenade with a prayer of contained cataclysm.",
+    "component": "krak grenade",
+    "operation": "emergency procedure",
+    "spec_id": "s03506"
+  },
+  {
+    "user_prompt": "Help me a sterilization the Valkyrie gunship",
+    "prayer": "Circumambulate the Valkyrie gunship, asperging its hull with sterilizing acids.\nChant the sterilization litanies over engines and troop bays alike.\nInvoke the Omnissiah to purge xenos taint from the Valkyrie gunship's Machine Spirit.\nScour avionics and weapon mounts during the sterilization rite.\nConclude with a benediction for aerial sanctity.",
+    "component": "Valkyrie gunship",
+    "operation": "sterilization",
+    "spec_id": "s03507"
+  },
+  {
+    "user_prompt": "Consecrate the cortex controller before charging",
+    "prayer": "Place the cortex controller upon the altar of charging, anointing its neural relays.\nInitiate the charging sequence with invocations to the Machine Spirit.\nBeseech the Omnissiah to consecrate the cortex controller's synaptic flows.\nMonitor power ingress whilst reciting endurance catechisms.\nWithdraw only when the cortex controller hums with divine cognition.",
+    "component": "cortex controller",
+    "operation": "charging",
+    "spec_id": "s03508"
+  },
+  {
+    "user_prompt": "The power cell needs a loading",
+    "prayer": "Elevate the power cell before the Omnissiah's icon, murmuring loading invocations.\nAlign its terminals with sacred conductors for the loading rite.\nCommune with the power cell's Machine Spirit to accept vital energies.\nOversee the influx as the Omnissiah empowers the power cell.\nSeal with a binaric seal of potency.",
+    "component": "power cell",
+    "operation": "loading",
+    "spec_id": "s03509"
+  }
+]

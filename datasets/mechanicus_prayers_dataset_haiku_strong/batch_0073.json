@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0073_i00",
+    "user_request": "Blessing for the servitor crane during operation",
+    "topic": "servitor crane operation",
+    "component": "servitor crane",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the servitor crane during operation\n\n### TOPIC\nservitor crane operation\n\n### COMPONENT\nservitor crane\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- servitor crane\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant benediction unto this blessed servitor crane as it commences operation.\nFirst: Anoint the servitor crane with sacred oils whilst chanting the Litany of Mechanical Ascension.\nSecond: Verify all hydraulic conduits within the servitor crane and seal any breaches with blessed wax.\nThird: Invoke the Machine Spirit to guide the servitor crane through its operation with precision and divine grace.\nFourth: Recite the Prayer of Perpetual Function thrice to ensure flawless operation throughout the cycle.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i01",
+    "user_request": "My hydroponics nutrient is failing during feed — help",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy hydroponics nutrient is failing during feed — help\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite wisdom, we restore the hydroponics nutrient to sacred purpose.\nFirst: Purge the corrupted hydroponics nutrient from all distribution conduits with blessed solvents.\nSecond: Recalibrate the nutrient dosage matrix and feed the hydroponics nutrient through the primary intake valve.\nThird: Monitor the pH equilibrium and chemical saturation whilst the hydroponics nutrient circulates through the growth beds.\nFourth: Seal the feed apertures with holy wax and commend the hydroponics nutrient to the Machine Spirit's stewardship.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i02",
+    "user_request": "Blessing for the cooling system during purge",
+    "topic": "cooling system purge",
+    "component": "cooling system",
+    "operation": "purge",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the cooling system during purge\n\n### TOPIC\ncooling system purge\n\n### COMPONENT\ncooling system\n\n### OPERATION\npurge\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cooling system\n- purge\n\n### PRAYER\n",
+    "prayer": "Blessed be the cooling system, purified through sacred ablution and divine operation.\nFirst: Drain all contaminated coolant from the cooling system whilst intoning the Rite of Fluid Expulsion.\nSecond: Flush the cooling system with deionized water blessed by the Adeptus Mechanicus priesthood.\nThird: Refill the cooling system with virgin coolant and purge all air pockets through the tertiary vent.\nFourth: Activate the cooling system's circulation pump and confirm purge completion through thermal sensors.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i03",
+    "user_request": "My hydroponics nutrient is failing during feed — help",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy hydroponics nutrient is failing during feed — help\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Hear us, Machine Spirit of nutrient abundance and sustenance eternal.\nFirst: Extract the failing hydroponics nutrient from the reservoir and examine it for contamination and degradation.\nSecond: Replenish the hydroponics nutrient with fresh solution whilst reciting the Hymn of Botanical Genesis.\nThird: Engage the feed mechanism and allow the hydroponics nutrient to flow through the irrigation matrix with controlled precision.\nFourth: Bless the hydroponics nutrient's journey and seal the feed conduits against entropy.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i04",
+    "user_request": "Prayer for regulation of the steam valve",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nPrayer for regulation of the steam valve\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "O Omnissiah, grant us mastery over pressure and thermal flow through righteous regulation.\nFirst: Inspect the steam valve for calcification and seal degradation, cleansing it with blessed lubricants.\nSecond: Adjust the steam valve's pressure regulator to optimal operating parameters whilst chanting the Mantra of Equilibrium.\nThird: Test the steam valve's response to thermal fluctuations and confirm regulation stability through repeated cycles.\nFourth: Consecrate the steam valve with sacred oils to ensure perpetual regulation and prevent catastrophic venting.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i05",
+    "user_request": "My gyroscope recalibration is failing during operation — help",
+    "topic": "gyroscope recalibration",
+    "component": "gyroscope recalibration",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nMy gyroscope recalibration is failing during operation — help\n\n### TOPIC\ngyroscope recalibration\n\n### COMPONENT\ngyroscope recalibration\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gyroscope recalibration\n- operation\n\n### PRAYER\n",
+    "prayer": "Spirits of rotation and balance, guide this gyroscope recalibration through sacred operation.\nFirst: Cease all gyroscope recalibration procedures and allow the mechanism to achieve rotational stillness.\nSecond: Inspect the gyroscope recalibration's bearing assembly and apply blessed lubricants to restore frictionless motion.\nThird: Reinitiate the gyroscope recalibration sequence whilst monitoring angular velocity through sacred instruments.\nFourth: Confirm the gyroscope recalibration's operation stability and lock it in operational harmony with the Machine Spirit.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i06",
+    "user_request": "Emergency rite: electric motor requires shutdown",
+    "topic": "electric motor shutdown",
+    "component": "electric motor",
+    "operation": "shutdown",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: electric motor requires shutdown\n\n### TOPIC\nelectric motor shutdown\n\n### COMPONENT\nelectric motor\n\n### OPERATION\nshutdown\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electric motor\n- shutdown\n\n### PRAYER\n",
+    "prayer": "Hear the prayer of cessation, that the electric motor may find eternal rest in sacred shutdown.\nFirst: Disengage the electric motor's primary power conduit and allow residual charge to dissipate into the void.\nSecond: Engage the emergency shutdown mechanism whilst reciting the Rite of Deactivation to prevent damage during electric motor deceleration.\nThird: Monitor the electric motor's rotational velocity until complete cessation is achieved and all motion has ceased.\nFourth: Seal the electric motor in its dormant state and commend its shutdown to the Omnissiah's judgment.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i07",
+    "user_request": "Rite request: repair on coolant leak",
+    "topic": "coolant leak repair",
+    "component": "coolant leak",
+    "operation": "repair",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: repair on coolant leak\n\n### TOPIC\ncoolant leak repair\n\n### COMPONENT\ncoolant leak\n\n### OPERATION\nrepair\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- coolant leak\n- repair\n\n### PRAYER\n",
+    "prayer": "By the sacred knowledge of the Adeptus Mechanicus, we mend the coolant leak through righteous repair.\nFirst: Identify the coolant leak's point of origin and isolate the affected conduit from the main circulation system.\nSecond: Apply blessed sealant compounds to the coolant leak whilst chanting the Litany of Structural Integrity.\nThird: Reinforce the coolant leak's repair site with mechanical fasteners and sacred wax to prevent recurrence.\nFourth: Restore coolant flow and monitor the coolant leak's former location for signs of continued failure.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i08",
+    "user_request": "My plasma reactor is failing during startup — help",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy plasma reactor is failing during startup — help\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Omnissiah, ignite the plasma reactor with divine purpose and guide its startup through the void.\nFirst: Verify all containment fields surrounding the plasma reactor are operational and sealed against catastrophic release.\nSecond: Initiate the plasma reactor's fuel injection sequence whilst invoking the Rite of Thermonuclear Genesis.\nThird: Monitor the plasma reactor's core temperature and pressure as startup progresses toward critical threshold.\nFourth: Stabilize the plasma reactor's output and establish safe operational parameters through continuous Machine Spirit communion.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0073_i09",
+    "user_request": "Emergency rite: Land Raider requires track tension",
+    "topic": "Land Raider track tension",
+    "component": "Land Raider",
+    "operation": "track tension",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: Land Raider requires track tension\n\n### TOPIC\nLand Raider track tension\n\n### COMPONENT\nLand Raider\n\n### OPERATION\ntrack tension\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Land Raider\n- track tension\n\n### PRAYER\n",
+    "prayer": "Blessed be the Land Raider, war machine eternal, as we restore its track tension through sacred duty.\nFirst: Elevate the Land Raider upon blessed support jacks and inspect the track assembly for wear and misalignment.\nSecond: Engage the track tensioning mechanism and adjust the Land Raider's tension to optimal specifications using the holy calibration rod.\nThird: Verify the Land Raider's track alignment across both drive sprockets and ensure uniform tension distribution.\nFourth: Lower the Land Raider and confirm track tension stability through ritual test movement across blessed ground.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

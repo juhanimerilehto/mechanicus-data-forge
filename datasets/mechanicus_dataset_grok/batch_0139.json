@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent flamer a loading needed",
+    "prayer": "Approach the flamer with pious reverence, invoking the Omnissiah's fire upon its sacred promethium reservoirs.\nBeseech the Machine Spirit of the flamer to accept the loading of blessed fuel canisters.\nAnoint the loading ports with sacred unguents whilst chanting the Canticle of Ignition.\nSeal the flamer's reservoirs, petitioning harmonious flow during the loading rite.\nVerify the Machine Spirit's contentment through auspex readings of pressure sanctity.",
+    "component": "flamer",
+    "operation": "loading",
+    "spec_id": "b0139_i00"
+  },
+  {
+    "user_prompt": "How do I bless the plasma weapon for recalibration?",
+    "prayer": "Kneel before the plasma weapon, beseeching the Omnissiah for recalibrational purity.\nInvoke the plasma weapon's fractious Machine Spirit with the Litany of Containment.\nRecalibrate the gyro-stabilizers using sanctified calipers and holy voltage probes.\nAnoint the containment flasks during recalibration to soothe volatile energies.\nChant diagnostics to affirm the plasma weapon's recalibrated grace under Omnissiah's gaze.",
+    "component": "plasma weapon",
+    "operation": "recalibration",
+    "spec_id": "b0139_i01"
+  },
+  {
+    "user_prompt": "Prepare the star chart for consecration",
+    "prayer": "Unfurl the star chart upon the altar of navigation, consecrating its stellar glyphs.\nInvoke the Omnissiah's infinite calculus to sanctify the star chart's celestial mappings.\nTrace each constellation with mechadendrites dipped in sacred inks for consecration.\nBeseech the Machine Spirits of void-travel to align within the star chart's weave.\nSeal the consecration with the Sigil of the Motive Force, ensuring warp-truth fidelity.",
+    "component": "star chart",
+    "operation": "consecration",
+    "spec_id": "b0139_i02"
+  },
+  {
+    "user_prompt": "The Rhino transport requires a loading",
+    "prayer": "Present thyself unto the Rhino transport, honouring its adamantium hull.\nPetition the Rhino transport's indomitable Machine Spirit for the loading of sacred munitions.\nCommence loading through sanctified hatches, anointing tracks with lubricating oils.\nInvoke harmonious integration of cargo within the Rhino transport during this rite.\nConclude with auspex blessings, affirming the Machine Spirit's vigilance for battle.",
+    "component": "Rhino transport",
+    "operation": "loading",
+    "spec_id": "b0139_i03"
+  },
+  {
+    "user_prompt": "Guide me through flamer a recalibration",
+    "prayer": "Gaze upon the flamer with tech-priestly awe, preparing for recalibrational rites.\nChant the Recalibration Doxology to awaken the flamer's incendiary Machine Spirit.\nAdjust the nozzle servos and fuel injectors with precision mechadendrites.\nAnoint the flamer's vents during recalibration, invoking Omnissiah's purifying blaze.\nTest-fire a micro-burst to confirm the flamer's recalibrated wrath upon heretics.",
+    "component": "flamer",
+    "operation": "recalibration",
+    "spec_id": "b0139_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for plasma weapon shutdown?",
+    "prayer": "Approach the plasma weapon humbly, intoning the Shutdown Benediction.\nBeseech its turbulent Machine Spirit to enter dormancy under Omnissiah's decree.\nCycle down the plasma weapon's reactors with ritualistic degaussing sweeps.\nAnoint cooling fins during shutdown to quell residual holy voltages.\nSeal the plasma weapon in stasis wards, verifying peaceful quiescence.",
+    "component": "plasma weapon",
+    "operation": "shutdown",
+    "spec_id": "b0139_i05"
+  },
+  {
+    "user_prompt": "Ready the archive terminal for diagnostics",
+    "prayer": "Activate the archive terminal's rune-keys with reverent incantations.\nInvoke the Omnissiah to guide diagnostics upon the archive terminal's data-vaults.\nRun purity sweeps through its sacred memory spindles, expunging data-daemons.\nAnoint the archive terminal's ports whilst beseeching its Machine Spirit's clarity.\nConclude diagnostics with the Canticle of Verification, affirming archival sanctity.",
+    "component": "archive terminal",
+    "operation": "diagnostics",
+    "spec_id": "b0139_i06"
+  },
+  {
+    "user_prompt": "Offer prayer for cogitator a targeting",
+    "prayer": "Commune with the cogitator, offering the Prayer of Targeting Precision.\nAwaken its binary neurons to embrace the targeting operation's imperatives.\nCalibrate auspex feeds into the cogitator's logic engines with sanctified data-slates.\nPetition the Machine Spirit of the cogitator for unerring ballistic prophecies.\nInvoke Omnissiah's aim, sealing the targeting rite with electro-incense.",
+    "component": "cogitator",
+    "operation": "targeting",
+    "spec_id": "b0139_i07"
+  },
+  {
+    "user_prompt": "How do I bless the welding torch for maintenance?",
+    "prayer": "Take up the welding torch in mechadendrite grasp, invoking maintenance blessings.\nBeseech its plasma arc Machine Spirit for endurance during maintenance rites.\nInspect and sanctify the welding torch's electrodes with sacred abrasives.\nCycle test-fusions whilst anointing the welding torch, ensuring flux purity.\nConclude maintenance under Omnissiah's forge-light, affirming fusion fidelity.",
+    "component": "welding torch",
+    "operation": "maintenance",
+    "spec_id": "b0139_i08"
+  },
+  {
+    "user_prompt": "Consecrate the cooling system before cycling",
+    "prayer": "Circumambulate the cooling system, chanting the Cycling Invocation.\nPetition its cryogenic Machine Spirits for smooth thermal cycling harmony.\nInitiate the cycling sequence with sanctified cryo-fluid infusions.\nMonitor heat-sinks during cycling, anointing with blessed refrigerants.\nVerify the cooling system's equilibrium, praising Omnissiah's thermal grace.",
+    "component": "cooling system",
+    "operation": "cycling",
+    "spec_id": "b0139_i09"
+  }
+]

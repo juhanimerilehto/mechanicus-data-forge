@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My thunder hammer is ready for diagnostics",
+    "prayer": "Approach the thunder hammer in humble supplication to the Omnissiah.\nAwaken its indomitable Machine Spirit with the Canticle of Thunderous Wrath.\nCommence diagnostics upon the thunder hammer, scanning power fields for corruption.\nAnoint its haft and head with sacred unguents, beseeching flawless calibration.\nSeal the rite with the Benediction of the Omnissiah's Forge.",
+    "component": "thunder hammer",
+    "operation": "diagnostics",
+    "spec_id": "s01870"
+  },
+  {
+    "user_prompt": "Can you guide storm bolter a diagnostics?",
+    "prayer": "Present the storm bolter before the altar of machinic purity.\nInvoke diagnostics upon the storm bolter, purging heretech anomalies from its barrels.\nChant the Litany of Unerring Fire as auspex arrays probe its mechanisms.\nBless each chamber of the storm bolter with incense of reliability.\nAffirm the Machine Spirit's vigilance through sacred verification rites.",
+    "component": "storm bolter",
+    "operation": "diagnostics",
+    "spec_id": "s01871"
+  },
+  {
+    "user_prompt": "Ready the cryogenerator for targeting",
+    "prayer": "Align the cryogenerator's cryo-lenses to the Omnissiah's unyielding will.\nInvoke its Machine Spirit for targeting precision, calibrating servos with ancient litanies.\nAnoint the targeting arrays of the cryogenerator with cryo-blessed elixirs.\nTest the cryogenerator's matrix, beseeching lethal accuracy against the alien.\nConclude with the Seal of Eternal Hibernation.",
+    "component": "cryogenerator",
+    "operation": "targeting",
+    "spec_id": "s01872"
+  },
+  {
+    "user_prompt": "Consecrate the galvanic rifle before loading",
+    "prayer": "Consecrate the galvanic rifle with the Aspergillum of Arcane Electricity.\nBeseech its Machine Spirit to accept loading of galvanic cells in divine order.\nInsert charged rounds into the galvanic rifle whilst intoning the Rite of Munition.\nVerify chamber harmonics of the galvanic rifle align with Omnissian purity.\nInvoke the Omnissiah to empower the galvanic rifle against xenos abominations.",
+    "component": "galvanic rifle",
+    "operation": "loading",
+    "spec_id": "s01873"
+  },
+  {
+    "user_prompt": "Offer prayer for sicarian infiltrator a reset",
+    "prayer": "Kneel before the sicarian infiltrator, offering binary psalms of renewal.\nInitiate reset protocols upon the sicarian infiltrator, purging battle-cache taint.\nRecite the Canticle of Shadow Rebirth as its systems cycle in obedience.\nRealign the sicarian infiltrator's noospheric vanes with sacred mech-lumen.\nAwaken the sicarian infiltrator, renewed in the Omnissiah's inscrutable service.",
+    "component": "sicarian infiltrator",
+    "operation": "reset",
+    "spec_id": "s01874"
+  },
+  {
+    "user_prompt": "How do I bless the narthecium for synchronization?",
+    "prayer": "Bless the narthecium with gentle mechadendrite caresses of sanctity.\nInvoke synchronization of the narthecium's servitors to bio-rhythmic harmony.\nBeseech its Machine Spirit for flawless union with the patient's sacred flesh.\nAnoint synchronization nodes of the narthecium, ensuring fluids flow immaculate.\nSeal the rite with the Omnissiah's glyph of redemptive healing.",
+    "component": "narthecium",
+    "operation": "synchronization",
+    "spec_id": "s01875"
+  },
+  {
+    "user_prompt": "Urgent arc rifle a loading needed",
+    "prayer": "Approach the arc rifle with reverence, intoning the Awakening of Storm Coils.\nSanctify its ammunition vaults before loading the arcane canisters.\nInsert charges into the arc rifle, chanting the Hymn of Lethal Discharge.\nCalibrate the arc rifle's flux regulators for Omnissian fury.\nBeseech the Machine Spirit to channel the Emperor's wrath unbridled.",
+    "component": "arc rifle",
+    "operation": "loading",
+    "spec_id": "s01876"
+  },
+  {
+    "user_prompt": "Can you guide teleportarium a diagnostics?",
+    "prayer": "Align the teleportarium's warp vanes to faithful astral cartograms.\nCommence diagnostics upon the teleportarium, scanning for daemonic warp-flux.\nChant the Litany of Pure Translocation as probes engage its matrices.\nAnoint the teleportarium's emitters with sanctified plasma unguents.\nVerify the Machine Spirit's warp-stability with final auspex benedictions.",
+    "component": "teleportarium",
+    "operation": "diagnostics",
+    "spec_id": "s01877"
+  },
+  {
+    "user_prompt": "Prepare the panopticon for cycling",
+    "prayer": "Initiate cycling of the panopticon with the Rite of Ocular Purgation.\nCycle its myriad lenses, invoking the vigilant Machine Spirits within.\nBeseech the Omnissiah for unblemished vision through the panopticon's gaze.\nPurge data-corruptions from the panopticon's cogitator depths.\nConclude with the Benediction of Eternal Watchfulness.",
+    "component": "panopticon",
+    "operation": "cycling",
+    "spec_id": "s01878"
+  },
+  {
+    "user_prompt": "Prepare the void shield for reset",
+    "prayer": "Prepare the void shield generators with invocations of impenetrable aegis.\nCommand reset of the void shield, expelling all warp-residual impurities.\nRecalibrate phase projectors of the void shield whilst anointing with null-oils.\nReactivate under the Omnissiah's protective calculus.\nTest void shield integrity, lauding the Machine Spirit's dauntless endurance.",
+    "component": "void shield",
+    "operation": "reset",
+    "spec_id": "s01879"
+  }
+]

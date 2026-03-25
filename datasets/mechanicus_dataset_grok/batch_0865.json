@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "How do I bless the kataphron breacher for shutdown?",
+    "prayer": "Approach the kataphron breacher with solemn reverence and intone the Canticle of Repose upon its armoured hull.\nBeseech the Machine Spirit within the kataphron breacher to embrace quiescence, anointing shutdown relays with sacred unguents.\nInitiate the ordered shutdown whilst invoking the Omnissiah's mercy for its dormant vigil.\nVerify the kataphron breacher's peaceful slumber through auspex harmonics and litanies of confirmation.\nSeal its ports with blessed wards against the warp's corruption.",
+    "component": "kataphron breacher",
+    "operation": "shutdown",
+    "spec_id": "s04650"
+  },
+  {
+    "user_prompt": "The Rhino transport awaits a purification",
+    "prayer": "Gather sacred ablatives and approach the Rhino transport, chanting the Rite of Expiation.\nScour the Rhino transport's treads and hull-plates with purifying incenses to banish foul residues.\nInvoke the Omnissiah to sanctify the purification, asperging every joint with blessed hydro-fluids.\nCircumambulate the Rhino transport thrice, beseeching its Machine Spirit's renewal.\nConclude with diagnostic canticles affirming the Rhino transport's restored sanctity.",
+    "component": "Rhino transport",
+    "operation": "purification",
+    "spec_id": "s04651"
+  },
+  {
+    "user_prompt": "Emergency: iron halo a synchronization",
+    "prayer": "In emergency haste, clasp the iron halo and recite the Invocation of Alignment.\nAnoint the iron halo's nodal points with conductive oils, imploring its Machine Spirit to synchronize.\nInitiate synchronization protocols whilst encircling the iron halo with electro-liturgies.\nMonitor flux harmonics until the iron halo pulses in harmonious unity with the Omnissiah's will.\nSeal the rite with a final benediction upon the iron halo's vigilant aura.",
+    "component": "iron halo",
+    "operation": "synchronization",
+    "spec_id": "s04652"
+  },
+  {
+    "user_prompt": "What's the prayer for life signs monitor a startup?",
+    "prayer": "Kindle the noospheric incense and approach the life signs monitor with devout precision.\nAwaken its Machine Spirit through the Litany of Vital Ignition for startup rites.\nInitiate the startup sequence, calibrating bio-scanners with sanctified probes.\nChant vitalic hymns over the life signs monitor as its displays flicker to Omnissianic life.\nAffirm operational purity with auspex verifications and closing invocations.",
+    "component": "life signs monitor",
+    "operation": "startup",
+    "spec_id": "s04653"
+  },
+  {
+    "user_prompt": "Offer prayer for inferno pistol a diagnostics",
+    "prayer": "Present the inferno pistol upon the mech-altar and commence diagnostic incantations.\nProbe its plasma conduits with sacred mechadendrites, seeking the Machine Spirit's whispers.\nRun diagnostics across the inferno pistol's focusing arrays, anointing faults with repair-salve.\nIntone the Canticle of Faultless Flame to align the inferno pistol's wrathful essence.\nConclude diagnostics with a hymn of verification, commending the inferno pistol to battle.",
+    "component": "inferno pistol",
+    "operation": "diagnostics",
+    "spec_id": "s04654"
+  },
+  {
+    "user_prompt": "I need to a calibration the narthecium",
+    "prayer": "Attune thy mechadendrites to the narthecium and invoke the Rite of Precision Balance.\nAnoint surgical servitors within the narthecium, beseeching its Machine Spirit for calibration.\nInitiate calibration cycles, harmonizing flesh-mending protocols with Omnissianic logic.\nRecite binaric sutras over the narthecium until its fields resonate in perfect accord.\nSeal the calibration with a libation of vital fluids and confirmatory scans.",
+    "component": "narthecium",
+    "operation": "calibration",
+    "spec_id": "s04655"
+  },
+  {
+    "user_prompt": "Consecrate the Contemptor Dreadnought before calibration",
+    "prayer": "Kneel before the Contemptor Dreadnought's sarcophagus and intone the Awakening Canticle.\nAnoint its weapon-pylons and motive systems, preparing the Contemptor Dreadnought for calibration.\nCommence calibration rites, aligning auspex and targeting cogitators to the Machine God's will.\nBeseech the ancient Machine Spirit of the Contemptor Dreadnought to accept these sacred adjustments.\nVerify harmony through thunderous diagnostic roars and Omnissianic benedictions.",
+    "component": "Contemptor Dreadnought",
+    "operation": "calibration",
+    "spec_id": "s04656"
+  },
+  {
+    "user_prompt": "Consecrate the star chart before synchronization",
+    "prayer": "Unfurl the star chart upon the astropathic lectern and chant the Celestial Litany.\nAnoint stellar glyphs upon the star chart, invoking synchronization with the void's eternal dance.\nInitiate synchronization algorithms, beseeching the Machine Spirit to align warp-trajectories.\nCircumnavigate the star chart's edges with noospheric probes until cosmic vectors converge.\nConsecrate the rite with invocations to the Omnissiah, navigator of all stellar paths.",
+    "component": "star chart",
+    "operation": "synchronization",
+    "spec_id": "s04657"
+  },
+  {
+    "user_prompt": "Consecrate the ore processor before recalibration",
+    "prayer": "Erect the ore processor's shrine and recite the Mantra of Ore Refinement.\nAnoint grinding mandibles and flux-furnaces of the ore processor for recalibration sanctity.\nEngage recalibration servos, harmonizing throughput with the Omnissiah's industrious decree.\nBeseech the Machine Spirit animating the ore processor to purge inefficiencies in binary prayer.\nAffirm recalibrated purity through yield diagnostics and triumphant closing hymns.",
+    "component": "ore processor",
+    "operation": "recalibration",
+    "spec_id": "s04658"
+  },
+  {
+    "user_prompt": "Help me a repair the electro-graft",
+    "prayer": "Lay the electro-graft upon the forge-altar and commence the Rite of Neural Restoration.\nProbe severed linkages of the electro-graft with sanctified solders, invoking repair graces.\nBeseech its Machine Spirit to knit synapses anew under the Omnissiah's watchful gaze.\nRecite synaptic litanies whilst fusing circuits, mending the electro-graft's synaptic web.\nTest restored conductivity with auspex pulses and final commendations to flawless service.",
+    "component": "electro-graft",
+    "operation": "repair",
+    "spec_id": "s04659"
+  }
+]

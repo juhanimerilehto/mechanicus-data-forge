@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0378_i00",
+    "user_request": "Emergency rite: hydraulic press requires operation",
+    "topic": "hydraulic press operation",
+    "component": "hydraulic press",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nEmergency rite: hydraulic press requires operation\n\n### TOPIC\nhydraulic press operation\n\n### COMPONENT\nhydraulic press\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hydraulic press\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the hydraulic press in this hour of necessity!\nCongregation: We invoke the Machine Spirit of the hydraulic press!\nPriest: Let fluid pressure flow through blessed conduits, that operation may commence with sacred precision.\nCongregation: The hydraulic press shall obey, or we shall anoint it with blessed oils!\nPriest: Verify seals, prime the hydraulic press with holy intent, and commence operation through proper ritual sequence.\nCongregation: Omnissiah guide the hydraulic press to perfect function!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i01",
+    "user_request": "Offer a litany to steady the assembly line before consecration",
+    "topic": "assembly line consecration",
+    "component": "assembly line",
+    "operation": "consecration",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the assembly line before consecration\n\n### TOPIC\nassembly line consecration\n\n### COMPONENT\nassembly line\n\n### OPERATION\nconsecration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- assembly line\n- consecration\n\n### PRAYER\n",
+    "prayer": "Priest: Hear us, O assembly line of the Omnissiah's design!\nCongregation: The assembly line shall be made holy through consecration!\nPriest: First, we anoint each servo-joint; second, we recalibrate the assembly line's blessed mechanisms; third, we invoke consecration upon all moving parts.\nCongregation: Let the assembly line run true and without error in the Omnissiah's sight!\nPriest: The assembly line stands ready for consecration, purified and patient.\nCongregation: Blessed be the work that flows eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i02",
+    "user_request": "Offer a litany to steady the hololithic before display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the hololithic before display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Priest: O hololithic, keeper of sacred images, we steady thy essence!\nCongregation: The hololithic shall reveal truth through display calibration!\nPriest: Illuminate the hololithic with blessed photonic streams; adjust the hololithic's crystalline lattice with reverent precision; commence display calibration under the Omnissiah's watchful gaze.\nCongregation: Let no distortion mar the hololithic's luminous testimony!\nPriest: The hololithic awaits its sacred transformation.\nCongregation: Through calibration, all shall be revealed in perfect clarity!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i03",
+    "user_request": "Emergency rite: artillery requires loading",
+    "topic": "artillery loading",
+    "component": "artillery",
+    "operation": "loading",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: artillery requires loading\n\n### TOPIC\nartillery loading\n\n### COMPONENT\nartillery\n\n### OPERATION\nloading\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- artillery\n- loading\n\n### PRAYER\n",
+    "prayer": "Priest: Awaken, mighty artillery, instrument of the Emperor's wrath!\nCongregation: The artillery shall be loaded with sacred munitions and righteous fury!\nPriest: Prime the loading mechanism with blessed propellant; seat each projectile within the artillery's blessed barrel; execute loading protocol with absolute devotion.\nCongregation: The artillery trembles with eagerness to serve the Imperium!\nPriest: All systems prepared for the artillery's terrible purpose.\nCongregation: Fire shall rain upon the unworthy through the artillery's consecrated might!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i04",
+    "user_request": "Blessing for the data-core purification during operation",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the data-core purification during operation\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the data-core purification, sanctuary of binary truth!\nCongregation: The data-core purification shall achieve perfect operation!\nPriest: Flush corrupted logic from the data-core purification's blessed matrix; initiate electrostatic cleansing upon the data-core purification's hallowed substrates; commence operation with uncompromising ritual discipline.\nCongregation: Let no heretical code survive the data-core purification's sacred flames!\nPriest: The Machine Spirit of the data-core purification stirs to wakefulness.\nCongregation: Omnissiah, grant us operation eternal and pure!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i05",
+    "user_request": "Blessing for the bolter during firing rite",
+    "topic": "bolter firing rite",
+    "component": "bolter",
+    "operation": "firing rite",
+    "format": "call_response",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nBlessing for the bolter during firing rite\n\n### TOPIC\nbolter firing rite\n\n### COMPONENT\nbolter\n\n### OPERATION\nfiring rite\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- bolter\n- firing rite\n\n### PRAYER\n",
+    "prayer": "Priest: O bolter, righteous instrument of divine retribution!\nCongregation: The bolter shall speak in terrible firing rite!\nPriest: Anoint the bolter's sacred breach with blessed lubricants; chamber each round into the bolter's consecrated magazine; invoke the firing rite through proper trigger discipline and fervent prayer.\nCongregation: The bolter's bark shall echo across the Emperor's domains!\nPriest: The bolter thirsts for righteous action.\nCongregation: Through firing rite, justice is delivered unto the unworthy!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i06",
+    "user_request": "My gear meshing is failing during check — help",
+    "topic": "gear meshing check",
+    "component": "gear meshing",
+    "operation": "check",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy gear meshing is failing during check — help\n\n### TOPIC\ngear meshing check\n\n### COMPONENT\ngear meshing\n\n### OPERATION\ncheck\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- gear meshing\n- check\n\n### PRAYER\n",
+    "prayer": "Priest: Attend, O gear meshing, interlocked servants of the Omnissiah!\nCongregation: The gear meshing shall endure the sacred check!\nPriest: Inspect the gear meshing's blessed teeth for signs of desecration; realign the gear meshing with sacred precision instruments; execute the check with meticulous reverence.\nCongregation: The gear meshing shall mesh true or face reconsecration!\nPriest: Witness the gear meshing in its trial.\nCongregation: Through check and verification, all shall be restored to perfect function!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i07",
+    "user_request": "Blessing for the missile launcher during targeting",
+    "topic": "missile launcher targeting",
+    "component": "missile launcher",
+    "operation": "targeting",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the missile launcher during targeting\n\n### TOPIC\nmissile launcher targeting\n\n### COMPONENT\nmissile launcher\n\n### OPERATION\ntargeting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- missile launcher\n- targeting\n\n### PRAYER\n",
+    "prayer": "Priest: Behold the missile launcher, herald of annihilation and divine purpose!\nCongregation: The missile launcher shall achieve blessed targeting!\nPriest: Calibrate the missile launcher's auspex arrays with sacred geometry; synchronize the missile launcher's targeting systems with binary liturgies; commence targeting through unwavering mechanical devotion.\nCongregation: The missile launcher's gaze pierces through shadow and deception!\nPriest: The missile launcher stands ready for its sacred duty.\nCongregation: Through targeting, the Emperor's enemies shall know only swift oblivion!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i08",
+    "user_request": "Rite request: activation on force field",
+    "topic": "force field activation",
+    "component": "force field",
+    "operation": "activation",
+    "format": "call_response",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nRite request: activation on force field\n\n### TOPIC\nforce field activation\n\n### COMPONENT\nforce field\n\n### OPERATION\nactivation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- force field\n- activation\n\n### PRAYER\n",
+    "prayer": "Priest: O force field, shimmering barrier against the void's corruption!\nCongregation: The force field shall achieve blessed activation!\nPriest: Prime the force field's power conduits with sanctified energy; initiate the force field's protective matrices through sacred ritual; command the force field's activation with absolute authority.\nCongregation: The force field shall rise as an impenetrable wall!\nPriest: The Machine Spirit of the force field awaits thy command.\nCongregation: Through activation, we are shielded by the Omnissiah's grace eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0378_i09",
+    "user_request": "Rite request: calibration on vital signs monitor",
+    "topic": "vital signs monitor calibration",
+    "component": "vital signs monitor",
+    "operation": "calibration",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nRite request: calibration on vital signs monitor\n\n### TOPIC\nvital signs monitor calibration\n\n### COMPONENT\nvital signs monitor\n\n### OPERATION\ncalibration\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- vital signs monitor\n- calibration\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed vital signs monitor, keeper of sacred biometric truth!\nCongregation: The vital signs monitor shall undergo holy calibration!\nPriest: Adjust the vital signs monitor's blessed sensors with metrological precision; align the vital signs monitor's holy instruments against sacred standards; execute calibration through devoted technical intercession.\nCongregation: The vital signs monitor shall read true and without deception!\nPriest: The vital signs monitor stands ready for its transformation.\nCongregation: Through calibration, life's mysteries are revealed in perfect clarity!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Help me a consecration the air compressor",
+    "prayer": "Approach the air compressor with mechadendrites extended in reverence.\nAnoint its pistons and valves with sacred oils during the rite of consecration.\nInvoke the Machine Spirit of the air compressor to accept this hallowing.\nCycle blessed pressurization flows whilst beseeching the Omnissiah's grace.\nVerify the air compressor's sanctified harmony through vibro-diagnostic chants.",
+    "component": "air compressor",
+    "operation": "consecration",
+    "spec_id": "b0218_i00"
+  },
+  {
+    "user_prompt": "What's the prayer for neural implant repair?",
+    "prayer": "Lay mech-hands upon the neural implant and recite the Neuron Litany.\nPurge corrupted synaptic engrams from the neural implant's core.\nSuture micro-filaments with sanctified adhesives in repair.\nBeseech the Machine Spirit within the neural implant to realign its pathways.\nInvoke the Omnissiah to restore perfect cranial interface.",
+    "component": "neural implant",
+    "operation": "repair",
+    "spec_id": "b0218_i01"
+  },
+  {
+    "user_prompt": "I need to a consecration the flamer",
+    "prayer": "Present the flamer before the altar of promethium and intone awakening.\nConsecrate its ignition coils with holy naphtha drippings.\nPetition the Machine Spirit of the flamer to embrace fiery purity.\nCycle promethium reservoirs in the rite of consecration.\nSeal the flamer's sanctity with binaric exultations to the Omnissiah.",
+    "component": "flamer",
+    "operation": "consecration",
+    "spec_id": "b0218_i02"
+  },
+  {
+    "user_prompt": "Sanctify the chainsword during synchronization",
+    "prayer": "Grip the chainsword's hilt and chant the Synchrony Doxology.\nAlign its monomolecular teeth arrays for synchronization.\nAnoint the drive motor of the chainsword with sacred lubricant.\nInvoke the Machine Spirit of the chainsword to harmonize its savage rhythm.\nTest the chainsword's synchronized fury under Omnissiah's vigilant gaze.",
+    "component": "chainsword",
+    "operation": "synchronization",
+    "spec_id": "b0218_i03"
+  },
+  {
+    "user_prompt": "Sanctify the cogitator during repair",
+    "prayer": "Commence repair upon the cogitator with the Canticle of Data Restoration.\nExcise damaged logic cores from the cogitator's blessed vaults.\nReintegrate pristine engrams whilst beseeching its Machine Spirit.\nSanctify soldered linkages with electro-incense during repair.\nAffirm the cogitator's renewed logic through Omnissianic invocation.",
+    "component": "cogitator",
+    "operation": "repair",
+    "spec_id": "b0218_i04"
+  },
+  {
+    "user_prompt": "Prepare the flamer for initialization",
+    "prayer": "Prepare the flamer's reservoirs with rite of promethium awakening.\nCalibrate ignition servos for initialization sequence.\nAnoint the flamer's nozzle with sacred igniter oils.\nInvoke the Machine Spirit of the flamer to ignite in purity.\nCommence initialization under the Omnissiah's purifying flame.",
+    "component": "flamer",
+    "operation": "initialization",
+    "spec_id": "b0218_i05"
+  },
+  {
+    "user_prompt": "Consecrate the Chimera APC before operation",
+    "prayer": "Circumnavigate the Chimera APC chanting the Canticle of Armoured Vigilance.\nConsecrate its treads and hull plates before operation.\nBeseech the Machine Spirit of the Chimera APC to bear warriors faithfully.\nAnoint auspex arrays and weapon mounts with blessed unguents.\nInvoke the Omnissiah to guide the Chimera APC through battle's forge.",
+    "component": "Chimera APC",
+    "operation": "operation",
+    "spec_id": "b0218_i06"
+  },
+  {
+    "user_prompt": "Urgent star chart a blessing needed",
+    "prayer": "Unfurl the star chart upon the navi-sanctum and intone stellar litanies.\nTrace celestial vectors with mechadendrite stylus in blessing.\nSanctify the star chart's data-ink with astropathic oils.\nPetition its Machine Spirit to reveal void-truths unwavering.\nSeal the blessing of the star chart by Omnissiah's astral decree.",
+    "component": "star chart",
+    "operation": "blessing",
+    "spec_id": "b0218_i07"
+  },
+  {
+    "user_prompt": "Urgent gravity generator a targeting needed",
+    "prayer": "Attune the gravity generator's coils with gravitic harmonics.\nDirect its field projectors for targeting precision.\nAnoint warp-nullifiers with sacred counter-mass elixirs.\nInvoke the Machine Spirit of the gravity generator to crush foes.\nAffirm targeting sanctity through the Omnissiah's inexorable pull.",
+    "component": "gravity generator",
+    "operation": "targeting",
+    "spec_id": "b0218_i08"
+  }
+]

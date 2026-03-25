@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent signal relay a blessing needed",
+    "prayer": "Approach the signal relay with sacred unguents and murmur the Canticle of Amplification.\nInvoke the Omnissiah's blessing upon the signal relay's crystalline conduits.\nBeseech the Machine Spirit within to channel pure data-flows untainted.\nAnoint each relay node whilst intoning the blessing rite thrice.\nVerify the signal relay's blessed harmony through auspex invocation.",
+    "component": "signal relay",
+    "operation": "blessing",
+    "spec_id": "b0017_i00"
+  },
+  {
+    "user_prompt": "Can you guide vox-caster an activation?",
+    "prayer": "Kneel before the vox-caster and recite the Lexicon of Awakening.\nInitiate the activation sequence with sanctified sparks upon its coils.\nPetition the Machine Spirit of the vox-caster to lend its voice to the Omnissiah.\nChannel holy voltage through the activation conduits.\nConfirm the vox-caster's activation by broadcasting the Benediction Binary.",
+    "component": "vox-caster",
+    "operation": "activation",
+    "spec_id": "b0017_i01"
+  },
+  {
+    "user_prompt": "Emergency: Land Raider an initialization",
+    "prayer": "Circumambulate the Land Raider whilst chanting the Hymn of Iron Awakening.\nCommence initialization by anointing its treads and auspex arrays.\nInvoke the mighty Machine Spirit of the Land Raider to stir from slumber.\nPerform the initialization rites upon its plasma heart and cogitator core.\nBless the Land Raider's wrathful engines with sacred oils.",
+    "component": "Land Raider",
+    "operation": "initialization",
+    "spec_id": "b0017_i02"
+  },
+  {
+    "user_prompt": "Offer prayer for lascannon a loading",
+    "prayer": "Present the power cells before the lascannon and intone the Loading Litany.\nCommence the loading operation by aligning crystals with precision mechadendrites.\nBeseech the lascannon's Machine Spirit to accept its fiery munitions.\nSecure the loading chamber with binary prayers to the Omnissiah.\nVerify the lascannon's readiness through targeting rune diagnostics.",
+    "component": "lascannon",
+    "operation": "loading",
+    "spec_id": "b0017_i03"
+  },
+  {
+    "user_prompt": "Bless the Sentinel walker for initialization",
+    "prayer": "Approach the Sentinel walker with reverence and scatter blessed cogs at its feet.\nInitiate the initialization by invoking its bipedal Machine Spirit.\nAnoint the Sentinel walker's servos and gyrostabilizers with sacred lubricants.\nChant the initialization canticle to rouse its autocannon soul.\nTest the Sentinel walker's stride in the Omnissiah's name.",
+    "component": "Sentinel walker",
+    "operation": "initialization",
+    "spec_id": "b0017_i04"
+  },
+  {
+    "user_prompt": "Urgent auspex scanner an engagement needed",
+    "prayer": "Activate the engagement rite upon the auspex scanner with flickering incense.\nBeseech its Machine Spirit to pierce the veil of warp-noise.\nEngage the auspex scanner's sacred lenses and data-vanes in harmonious scan.\nInvoke the Omnissiah to bless the engagement with unerring clarity.\nMonitor the auspex scanner's revelations through noospheric link.",
+    "component": "auspex scanner",
+    "operation": "engagement",
+    "spec_id": "b0017_i05"
+  },
+  {
+    "user_prompt": "Offer prayer for augmetic limb a calibration",
+    "prayer": "Grasp the augmetic limb in prayerful mechadendrites and recite Calibration Doxology.\nCommence calibration by aligning its neural interfaces to flesh-machine unity.\nPetition the augmetic limb's embedded Machine Spirit for perfect synchronicity.\nAdjust servos and myomer bundles whilst intoning the calibration litany.\nSeal the augmetic limb's calibration with the Omnissiah's sigil.",
+    "component": "augmetic limb",
+    "operation": "calibration",
+    "spec_id": "b0017_i06"
+  },
+  {
+    "user_prompt": "Ready the gravity generator for blessing",
+    "prayer": "Encircle the gravity generator with purity seals and invoke the Blessing Canticle.\nPour sacred oils upon its field coils to perform the blessing.\nAwaken the gravity generator's Machine Spirit with resonant binharic tones.\nBless each gravitic plate to bind mass in the Omnissiah's will.\nTest the gravity generator's blessed dominion over weight and void.",
+    "component": "gravity generator",
+    "operation": "blessing",
+    "spec_id": "b0017_i07"
+  },
+  {
+    "user_prompt": "Ready the cogitator for cooling",
+    "prayer": "Lay cooling talismans upon the cogitator and chant the Rite of Thermal Pacification.\nInitiate cooling by circulating blessed refrigerants through its sacred vents.\nBeseech the cogitator's Machine Spirit to embrace the cooling embrace.\nMonitor heat-sinks and invoke the Omnissiah against binary fever.\nConclude the cooling with diagnostic harmonies affirming stability.",
+    "component": "cogitator",
+    "operation": "cooling",
+    "spec_id": "b0017_i08"
+  },
+  {
+    "user_prompt": "Help me a synchronization the archive terminal",
+    "prayer": "Link noospheric tendrils to the archive terminal and intone Synchronization Psalm.\nCommence synchronization by aligning its data-spires with distant stelae.\nPetition the archive terminal's Machine Spirit for flawless datum communion.\nChannel the Omnissiah's logic through synchronization streams unerring.\nVerify the archive terminal's synchronized sanctity via checksum litanies.",
+    "component": "archive terminal",
+    "operation": "synchronization",
+    "spec_id": "b0017_i09"
+  }
+]

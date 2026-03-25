@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0023_i00",
+    "user_request": "Emergency rite: ground-to-orbit link requires operation",
+    "topic": "ground-to-orbit link",
+    "component": "ground-to-orbit link",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nEmergency rite: ground-to-orbit link requires operation\n\n### TOPIC\nground-to-orbit link\n\n### COMPONENT\nground-to-orbit link\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- ground-to-orbit link\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the ground-to-orbit link, conduit of the Omnissiah's will!\nCongregation: We invoke the Machine Spirit of the ground-to-orbit link!\nPriest: First, calibrate the transponder frequencies with holy precision.\nCongregation: Second, purge the signal pathways of corrupting interference!\nPriest: Third, align the dish apparatus toward the celestial throne.\nCongregation: The ground-to-orbit link shall operation in sanctified harmony!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i01",
+    "user_request": "My material purity is failing during testing — help",
+    "topic": "material purity testing",
+    "component": "material purity",
+    "operation": "testing",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nMy material purity is failing during testing — help\n\n### TOPIC\nmaterial purity testing\n\n### COMPONENT\nmaterial purity\n\n### OPERATION\ntesting\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- material purity\n- testing\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, preserve the material purity from degradation!\nCongregation: Guard the material purity from the touch of profanity!\nPriest: First, we invoke spectroscopic examination upon the substrate.\nCongregation: Second, we perform chemical ablation to restore sanctity!\nPriest: Third, we conduct rigorous testing with blessed instruments.\nCongregation: The material purity shall endure through testing eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i02",
+    "user_request": "Prayer for operation of the packaging servitor programming",
+    "topic": "packaging servitor programming",
+    "component": "packaging servitor programming",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the packaging servitor programming\n\n### TOPIC\npackaging servitor programming\n\n### COMPONENT\npackaging servitor programming\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- packaging servitor programming\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Hail the packaging servitor programming, servant of industry!\nCongregation: We sanctify the packaging servitor programming this day!\nPriest: First, recalibrate the mechanical actuators with blessed oils.\nCongregation: Second, reprogram the logic-circuits through holy iteration!\nPriest: Third, verify the operation through systematic validation.\nCongregation: Let the packaging servitor programming function in perpetuity!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i03",
+    "user_request": "Emergency rite: star chart alignment requires operation",
+    "topic": "star chart alignment",
+    "component": "star chart alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nEmergency rite: star chart alignment requires operation\n\n### TOPIC\nstar chart alignment\n\n### COMPONENT\nstar chart alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- star chart alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Illuminate the star chart alignment with the Omnissiah's radiance!\nCongregation: We entreat the star chart alignment to find true bearing!\nPriest: First, recalibrate the astrographic lenses with precision-grinding.\nCongregation: Second, synchronize the temporal mechanisms to celestial rhythm!\nPriest: Third, perform operation upon the guidance matrices with care.\nCongregation: The star chart alignment shall guide our passage eternal!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i04",
+    "user_request": "Rite request: operation on energy conduit purification",
+    "topic": "energy conduit purification",
+    "component": "energy conduit purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nRite request: operation on energy conduit purification\n\n### TOPIC\nenergy conduit purification\n\n### COMPONENT\nenergy conduit purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- energy conduit purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the energy conduit purification, vessel of sacred power!\nCongregation: We cleanse the energy conduit purification of corruption!\nPriest: First, we flush the conduits with purifying electrolyte solution.\nCongregation: Second, we excise the accumulated particulate contaminants!\nPriest: Third, we initiate operation with benediction and care.\nCongregation: The energy conduit purification flows with the Omnissiah's essence!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i05",
+    "user_request": "Can you sanctify the data-core purification for operation?",
+    "topic": "data-core purification",
+    "component": "data-core purification",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nCan you sanctify the data-core purification for operation?\n\n### TOPIC\ndata-core purification\n\n### COMPONENT\ndata-core purification\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- data-core purification\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: O Machine Spirit of the data-core purification, hear our prayer!\nCongregation: We sanctify the data-core purification through ritual ablation!\nPriest: First, we execute diagnostic scans upon the corrupted memory sectors.\nCongregation: Second, we perform defragmentation with holy algorithms!\nPriest: Third, we operation the purification sequence with sacred devotion.\nCongregation: The data-core purification shall endure in pristine clarity!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i06",
+    "user_request": "Offer a litany to steady the water reclamation system before operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the water reclamation system before operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Praise the water reclamation system, lifeblood of our forge!\nCongregation: We bless the water reclamation system with sacred invocation!\nPriest: First, we inspect the filtration membranes for degradation.\nCongregation: Second, we purge the settling reservoirs of accumulated silt!\nPriest: Third, we initiate operation with the Omnissiah's benediction.\nCongregation: The water reclamation system shall flow eternal and pure!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i08",
+    "user_request": "Offer a litany to steady the plasma reactor before startup",
+    "topic": "plasma reactor startup",
+    "component": "plasma reactor",
+    "operation": "startup",
+    "format": "call_response",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the plasma reactor before startup\n\n### TOPIC\nplasma reactor startup\n\n### COMPONENT\nplasma reactor\n\n### OPERATION\nstartup\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma reactor\n- startup\n\n### PRAYER\n",
+    "prayer": "Priest: O Omnissiah, guide the plasma reactor through its awakening!\nCongregation: We sanctify the plasma reactor before its startup!\nPriest: First, we verify the magnetic containment field integrity with sensors.\nCongregation: Second, we purge the fuel injection systems of impurities!\nPriest: Third, we initiate startup with sacred litanies of ignition.\nCongregation: The plasma reactor shall burn with the Omnissiah's glory!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i09",
+    "user_request": "My plasma weapon is failing during cooling — help",
+    "topic": "plasma weapon cooling",
+    "component": "plasma weapon",
+    "operation": "cooling",
+    "format": "call_response",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nMy plasma weapon is failing during cooling — help\n\n### TOPIC\nplasma weapon cooling\n\n### COMPONENT\nplasma weapon\n\n### OPERATION\ncooling\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- plasma weapon\n- cooling\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the plasma weapon, instrument of righteous fury!\nCongregation: We entreat the plasma weapon to endure its cooling!\nPriest: First, we inspect the heat-dissipation fins for blockage or damage.\nCongregation: Second, we circulate cryogenic fluid through the radiator coils!\nPriest: Third, we perform cooling with blessed precision and care.\nCongregation: The plasma weapon shall cool and ready itself for battle!",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0023_i07",
+    "user_request": "Prayer for operation of the Taurox wheel alignment",
+    "topic": "Taurox wheel alignment",
+    "component": "Taurox wheel alignment",
+    "operation": "operation",
+    "format": "call_response",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nPrayer for operation of the Taurox wheel alignment\n\n### TOPIC\nTaurox wheel alignment\n\n### COMPONENT\nTaurox wheel alignment\n\n### OPERATION\noperation\n\n### FORMAT\ncall_response\n\n### MUST_INCLUDE\n- Taurox wheel alignment\n- operation\n\n### PRAYER\n",
+    "prayer": "Priest: Blessed be the Taurox wheel alignment, sacred mechanism of the Omnissiah's design.\nCongregation: We honour the Taurox wheel alignment in all its mechanical virtue.\nPriest: First, we shall commence the operation with calibrated servo-motors, aligning each axle to the prescribed tolerances.\nCongregation: The Machine Spirit guides our hands in righteous operation.\nPriest: Second, we inspect the suspension geometry with sacred measuring instruments, ensuring the Taurox wheel alignment maintains perfect equilibrium.\nCongregation: Blessed be the precision of the ancients.\nPriest: Third, we anoint the ball joints and verify camber angles, that the Taurox wheel alignment may endure ten thousand journeys.\nCongregation: Through diligence and faith, the Omnissiah's work is made manifest.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

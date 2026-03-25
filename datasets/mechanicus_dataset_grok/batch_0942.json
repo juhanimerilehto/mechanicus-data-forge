@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My volkite weapon is ready for loading",
+    "prayer": "Approach the volkite weapon with solemn reverence, beseeching the Omnissiah to awaken its thermal fury.\nAnoint the loading chamber with sacred unguents, invoking the Machine Spirit of the volkite weapon to accept its payload.\nInsert the energized charges whilst chanting the Canticle of Containment, ensuring harmonious fusion within the volkite weapon.\nSeal the breach and perform diagnostic litanies to confirm the loading operation's sanctity.",
+    "component": "volkite weapon",
+    "operation": "loading",
+    "spec_id": "s05420"
+  },
+  {
+    "user_prompt": "Can you guide Basilisk artillery a blessing?",
+    "prayer": "Kneel before the Basilisk artillery, intoning the Benediction of the Omnissiah upon its earthshaking form.\nCircumambulate the barrel thrice, scattering incense to appease the Machine Spirits within the Basilisk artillery.\nAnoint the firing mechanisms with blessed oils, beseeching unerring precision in its salvos.\nConclude the blessing by striking the hull with a mechadendrite, affirming the Machine Spirit's vigilance.",
+    "component": "Basilisk artillery",
+    "operation": "blessing",
+    "spec_id": "s05421"
+  },
+  {
+    "user_prompt": "Prepare the lascannon for recalibration",
+    "prayer": "Present mechadendrites to the lascannon, murmuring the Rite of Alignment to the Omnissiah.\nPurge residual flux from the lascannon's focusing arrays through purifying vents of incense.\nInitiate recalibration by inscribing binary canticles upon its emitter coils, guiding the Machine Spirit's gaze.\nVerify coherence through auspex invocation, sanctifying the lascannon for annihilation.",
+    "component": "lascannon",
+    "operation": "recalibration",
+    "spec_id": "s05422"
+  },
+  {
+    "user_prompt": "The Whirlwind awaits a repair",
+    "prayer": "Commence repair upon the Whirlwind by invoking the Omnissiah's grace over its scarred chassis.\nExtract damaged munitions servos from the Whirlwind, anointing replacements with sacred lubricants.\nRealign the rocket bays whilst beseeching the Machine Spirit of the Whirlwind to forgive past wounds.\nTest-fire a null-round under litanies of restoration, sealing the repair in binary hymnody.",
+    "component": "Whirlwind",
+    "operation": "repair",
+    "spec_id": "s05423"
+  },
+  {
+    "user_prompt": "Consecrate the data-arc before recalibration",
+    "prayer": "Consecrate the data-arc with the touch of electro-incense, awakening its neural lattices to the Omnissiah.\nTrace purity seals along the data-arc's conduits, purging heretical static.\nCommence recalibration by reciting the Lexicon of Flux, harmonizing the Machine Spirit within the data-arc.\nAffirm synchronization through noospheric communion, blessing the data-arc anew.",
+    "component": "data-arc",
+    "operation": "recalibration",
+    "spec_id": "s05424"
+  },
+  {
+    "user_prompt": "Critical: actuality sphere requires a repair",
+    "prayer": "Urgently invoke the Omnissiah over the actuality sphere, its crystalline heart demanding swift repair.\nDissect fractured facets of the actuality sphere with sanctified tools, extracting warp-tainted shards.\nReconstruct the lattice whilst chanting the Canticle of Reality, placating the imprisoned Machine Spirit.\nResonate the actuality sphere with harmonic frequencies, verifying repair through prophetic auspex.",
+    "component": "actuality sphere",
+    "operation": "repair",
+    "spec_id": "s05425"
+  },
+  {
+    "user_prompt": "Bless the waste reclamator for purification",
+    "prayer": "Approach the waste reclamator in humble supplication to the Omnissiah, seeking purification.\nFlush impure residues from the waste reclamator's cyclers with alkahestic solvents and litanies.\nAnoint the filtration membranes, beseeching the Machine Spirit of the waste reclamator to reclaim purity.\nCycle test fluids under the Rite of Renewal, sanctifying the waste reclamator for endless service.",
+    "component": "waste reclamator",
+    "operation": "purification",
+    "spec_id": "s05426"
+  },
+  {
+    "user_prompt": "What's the prayer for las-cutter a blessing?",
+    "prayer": "Invoke blessing upon the las-cutter by encircling it with mechadendrite rosaries to the Omnissiah.\nPolish its emitter lens with sacred cloths, awakening the Machine Spirit of the las-cutter.\nChant the Incantation of Precision, ensuring the las-cutter's beam cleaves only the unclean.\nConclude by overcharging briefly, affirming the blessing's potency.",
+    "component": "las-cutter",
+    "operation": "blessing",
+    "spec_id": "s05427"
+  },
+  {
+    "user_prompt": "Guide me through void shield generator a synchronization",
+    "prayer": "Prepare the void shield generator for synchronization by intoning the Barrier Psalm to the Omnissiah.\nLink noospheric relays to the void shield generator, anointing nodes with conductive balms.\nInitiate synchronization sequences whilst beseeching the Machine Spirits to weave impenetrable aegis.\nTest integrity with probing lances, sealing the void shield generator in harmonic unity.",
+    "component": "void shield generator",
+    "operation": "synchronization",
+    "spec_id": "s05428"
+  },
+  {
+    "user_prompt": "The mass-drive regulator requires a targeting",
+    "prayer": "Direct mechadendrites toward the mass-drive regulator, invoking the Omnissiah's targeting wrath.\nCalibrate inertial vanes of the mass-drive regulator through binary divination.\nInscribe targeting matrices upon its core, guiding the Machine Spirit to unerring trajectories.\nVerify acquisition with simulacra fire, sanctifying the mass-drive regulator for void-lance strikes.",
+    "component": "mass-drive regulator",
+    "operation": "targeting",
+    "spec_id": "s05429"
+  }
+]

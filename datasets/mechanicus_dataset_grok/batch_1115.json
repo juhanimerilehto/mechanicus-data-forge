@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a preparation the power armour",
+    "prayer": "Approach the power armour with reverence, invoking the Omnissiah's divine machinery.\nAnoint its adamantium plates and servo-motors with sacred oils in preparation.\nBeseech the Machine Spirit of the power armour to stir from slumber.\nAlign power cells and seals through ritual incantations of preparation.\nVerify the armour's sanctity with auspex scans and litanies of readiness.",
+    "component": "power armour",
+    "operation": "preparation",
+    "spec_id": "s07150"
+  },
+  {
+    "user_prompt": "The missile launcher needs a calibration",
+    "prayer": "Kneel before the missile launcher, chanting the ancient calibration canticles.\nInvoke the Omnissiah to guide thy hands in calibration of its guidance arrays.\nAdjust firing servos and warheads whilst beseeching the Machine Spirit.\nInitiate calibration protocols, harmonizing auspex and propellant feeds.\nConclude with a test volley to affirm the missile launcher's precision.",
+    "component": "missile launcher",
+    "operation": "calibration",
+    "spec_id": "s07151"
+  },
+  {
+    "user_prompt": "The cyber-mastiff needs a blessing",
+    "prayer": "Gather mechadendrites around the cyber-mastiff, offering blessings of the Omnissiah.\nAnoint its cybernetic frame and neural implants with blessed unguents.\nChant litanies to awaken the Machine Spirit within the cyber-mastiff.\nInvoke divine favour upon its hunt-sensors and aggression protocols.\nSeal the blessing with electro-incense, ensuring unerring loyalty.",
+    "component": "cyber-mastiff",
+    "operation": "blessing",
+    "spec_id": "s07152"
+  },
+  {
+    "user_prompt": "Help me a synchronization the microbead",
+    "prayer": "Present the microbead to the altar of synchronization, under Omnissiah's gaze.\nInvoke the Machine Spirits to align frequencies in synchronization rites.\nAdjust vox-crystals whilst reciting binary prayers of unity.\nTest the microbead's link through devotional data-pulses.\nSanctify the synchronization with a final canticle of coherence.",
+    "component": "microbead",
+    "operation": "synchronization",
+    "spec_id": "s07153"
+  },
+  {
+    "user_prompt": "Offer prayer for Valkyrie gunship an engagement",
+    "prayer": "Ascend to the Valkyrie gunship's cockpit, beseeching the Omnissiah for engagement.\nAnoint turbines and lascannons with oils prior to engagement rituals.\nAwaken the Machine Spirit of the Valkyrie gunship through thunderous litanies.\nCalibrate flight augurs and weapon servos for the coming fray.\nInvoke wrathful blessing as engines roar in preparation for engagement.",
+    "component": "Valkyrie gunship",
+    "operation": "engagement",
+    "spec_id": "s07154"
+  },
+  {
+    "user_prompt": "Critical: pteraxii sterylizor requires an operation",
+    "prayer": "Prepare the pteraxii sterylizor upon the slab, invoking Omnissiah for operation.\nIncise sacred runes into its chassis before the operation commences.\nBeseech the Machine Spirit of the pteraxii sterylizor to endure the rites.\nAlign bionics and noospheric links during the operation.\nConclude with electro-consecration, affirming its lethal purity.",
+    "component": "pteraxii sterylizor",
+    "operation": "operation",
+    "spec_id": "s07155"
+  },
+  {
+    "user_prompt": "I need to a charging the icarus array",
+    "prayer": "Surround the icarus array with incense braziers for charging ceremonies.\nChant charging litanies to the Omnissiah, awakening its plasma heart.\nInfuse power conduits of the icarus array with sanctified energy.\nMonitor the Machine Spirit during charging through diagnostic hymms.\nSeal the rite as coils hum with divine fury.",
+    "component": "icarus array",
+    "operation": "charging",
+    "spec_id": "s07156"
+  },
+  {
+    "user_prompt": "The carapace armour awaits a charging",
+    "prayer": "Place the carapace armour upon the charging cradle, invoking the Machine God.\nAnoint power nodes whilst beseeching the Spirit for charging grace.\nInitiate energy infusion into the carapace armour's cells.\nHarmonize capacitors through binary canticles of power.\nVerify full charge with auspex blessings and final litanies.",
+    "component": "carapace armour",
+    "operation": "charging",
+    "spec_id": "s07157"
+  },
+  {
+    "user_prompt": "How do I bless the phosphor blaster for targeting?",
+    "prayer": "Approach the phosphor blaster reverently, seeking Omnissiah's aid in targeting.\nInvoke the Machine Spirit to sharpen its auspex for targeting precision.\nCalibrate phosphor vents and sights with sacred oils.\nTest targeting arrays through ritual fire-patterns.\nConsecrate the phosphor blaster's lethality with war-chants.",
+    "component": "phosphor blaster",
+    "operation": "targeting",
+    "spec_id": "s07158"
+  },
+  {
+    "user_prompt": "Ready the cyber-mastiff for recalibration",
+    "prayer": "Restrain the cyber-mastiff gently, preparing recalibration under Omnissiah's light.\nChant recalibration doxologies to soothe its Machine Spirit.\nRealign neural cogitators and sensor suites of the cyber-mastiff.\nInfuse corrective binaric code through mechadendrite interfaces.\nAffirm recalibration with a hunt-simulation and blessing seal.",
+    "component": "cyber-mastiff",
+    "operation": "recalibration",
+    "spec_id": "s07159"
+  }
+]

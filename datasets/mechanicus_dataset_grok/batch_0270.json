@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Assist with proximity sensor a repair",
+    "prayer": "Approach the proximity sensor with reverence, mechadendrites humming the Canticle of Vigilance.\nInspect its fractured sensing arrays and beseech the Machine Spirit of the proximity sensor to awaken from dormancy.\nAnoint the crystal lattices with sacred oils whilst commencing the repair, invoking the Omnissiah's grace.\nChant the Rite of Restoration to realign the proximity sensor's holy emissions.\nVerify the Machine Spirit's renewed harmony through diagnostic auspex sweeps.",
+    "component": "proximity sensor",
+    "operation": "repair",
+    "spec_id": "b0270_i00"
+  },
+  {
+    "user_prompt": "The Chimera APC requires a calibration",
+    "prayer": "Gather before the Chimera APC, intoning the Hymn of Alignment to the Omnissiah.\nPetition the noble Machine Spirit within the Chimera APC to accept calibration of its motive systems.\nApply sanctified calibrators to the treads and auspex mounts, murmuring binaric litanies.\nInvoke the calculus of precision upon the Chimera APC's guidance cogitators.\nConclude with the Benediction of True Bearing, ensuring the Machine Spirit's unerring path.",
+    "component": "Chimera APC",
+    "operation": "calibration",
+    "spec_id": "b0270_i01"
+  },
+  {
+    "user_prompt": "Bless the bionics interface for diagnostics",
+    "prayer": "Kneel in binary prayer before the bionics interface, offering incense of electro-lumens.\nInitiate diagnostics upon the bionics interface, whispering the Litany of Flesh-Machine Union.\nBeseech the Machine Spirit of the bionics interface to reveal any discordant neural linkages.\nScan the sacred ports and myoneural relays with auspex probes sanctified by the Omnissiah.\nSeal the rite with the Canticle of Verification, affirming the bionics interface's purity.",
+    "component": "bionics interface",
+    "operation": "diagnostics",
+    "spec_id": "b0270_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for logic engine recalibration?",
+    "prayer": "Present offerings of pure silicon wafers to the logic engine's altar.\nCommence recalibration of the logic engine by chanting the Algorithmic Doxology.\nInvoke the Omnissiah to soothe the Machine Spirit within the logic engine's cogitator vaults.\nRealign the binary pathways of the logic engine with mechadendrite precision.\nTest the recalibrated logic engine through recursive logic loops, praising its flawless computation.",
+    "component": "logic engine",
+    "operation": "recalibration",
+    "spec_id": "b0270_i03"
+  },
+  {
+    "user_prompt": "Ready the autocannon for engagement",
+    "prayer": "Anoint the autocannon's breach with sacred promethium, invoking wrathful spirits.\nPrepare the Machine Spirit of the autocannon for engagement via the War-Litany of Fury.\nCycle the loading servos and bless the targeting matrices for the Omnissiah's judgment.\nChant readiness canticles over the autocannon whilst priming its holy ammunition feeds.\nAffirm the autocannon's eagerness through auspex confirmation of engagement protocols.",
+    "component": "autocannon",
+    "operation": "engagement",
+    "spec_id": "b0270_i04"
+  },
+  {
+    "user_prompt": "Can you guide memory core a charging?",
+    "prayer": "Encircling the memory core, intone the Canticle of Capacitance to the Omnissiah.\nBeseech the Machine Spirit of the memory core to accept charging of its crystalline vaults.\nInfuse blessed voltage through sanctified conduits into the memory core.\nMonitor the power-flow with litanies of equilibrium during the charging rite.\nConclude by verifying the memory core's engorged data reservoirs, praising its endurance.",
+    "component": "memory core",
+    "operation": "charging",
+    "spec_id": "b0270_i05"
+  },
+  {
+    "user_prompt": "Critical: power cell requires a recalibration",
+    "prayer": "With urgency, approach the power cell and murmur the Exhortation of Stability.\nPetition the Machine Spirit within the power cell for recalibration of its plasma matrices.\nApply the Rite of Flux Equilibrium, anointing electrodes with electro-consecrated unguents.\nRealign the power cell's holy voltage regulators under the Omnissiah's gaze.\nTest the recalibrated power cell through load incantations, ensuring unyielding output.",
+    "component": "power cell",
+    "operation": "recalibration",
+    "spec_id": "b0270_i06"
+  },
+  {
+    "user_prompt": "Consecrate the vox-caster before preparation",
+    "prayer": "Consecrate the vox-caster with waves of binaric incense, hailing the Omnissiah.\nInvoke the Machine Spirit of the vox-caster for preparation of its transmission arrays.\nTune the frequency crystals whilst chanting the Litany of Clear Voice.\nBless the vox-caster's amplifier coils and test with doctrinal broadcasts.\nSeal the preparation with the Benediction of Unbroken Communion.",
+    "component": "vox-caster",
+    "operation": "preparation",
+    "spec_id": "b0270_i07"
+  },
+  {
+    "user_prompt": "The assembly servitor requires a startup",
+    "prayer": "Awaken the assembly servitor by reciting the Awakening Catechism before its chassis.\nBeseech the lobotomized Machine Spirit within the assembly servitor to stir for startup.\nInitiate power sequences, anointing servo-arms with sacred lubricants.\nInvoke the Omnissiah's will upon the assembly servitor's cogitator core during ignition.\nVerify operational sanctity through tool-manipulation diagnostics.",
+    "component": "assembly servitor",
+    "operation": "startup",
+    "spec_id": "b0270_i08"
+  },
+  {
+    "user_prompt": "Bless the pump for blessing",
+    "prayer": "Gather sacred hydric fluids to bless the pump in the Omnissiah's name.\nIntone the Canticle of Fluid Harmony over the pump's impeller vanes.\nPetition the Machine Spirit of the pump to receive this blessing of ceaseless motion.\nCycle the pump's mechanisms with litanies of pressure equilibrium.\nAffirm the blessed pump's vigor through flow-rate verifications and final doxology.",
+    "component": "pump",
+    "operation": "blessing",
+    "spec_id": "b0270_i09"
+  }
+]

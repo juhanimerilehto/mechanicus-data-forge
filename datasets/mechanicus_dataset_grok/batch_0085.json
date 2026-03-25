@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the Rhino transport for targeting",
+    "prayer": "Approach the Rhino transport with reverence, beseeching its Machine Spirit for targeting acuity.\nInvoke the Litany of Precision upon the Rhino transport's auspex arrays and guidance cogitators.\nAnoint the targeting servos with sacred oils, aligning their sacred circuits to the Omnissiah's will.\nPetition the Machine Spirits of the Rhino transport to synchronize firing solutions in holy harmony.\nVerify targeting integrity through diagnostic canticles, glorifying the God-Machine.",
+    "component": "Rhino transport",
+    "operation": "targeting",
+    "spec_id": "b0085_i00"
+  },
+  {
+    "user_prompt": "I need to a purification the lascannon",
+    "prayer": "Kneel before the lascannon and intone the Rite of Purification to cleanse its noble form.\nScour the lascannon's focusing crystals with blessed abrasives, expelling daemonic corruptions.\nInvoke the Omnissiah's purifying flame upon the lascannon's power conduits and sacred lenses.\nBeseech the Machine Spirit of the lascannon to emerge renewed from ritual purification.\nSeal the lascannon with incense wards, affirming its sanctified purity.",
+    "component": "lascannon",
+    "operation": "purification",
+    "spec_id": "b0085_i01"
+  },
+  {
+    "user_prompt": "I need to a synchronization the air filtration",
+    "prayer": "Commence synchronization of the air filtration by chanting the Hymn of Coalescence.\nAlign the air filtration's sacred filters and cyclonic arrays in harmonious resonance.\nAnoint the synchronization servitors of the air filtration with electro-sanctified unguents.\nPetition the Machine Spirits within the air filtration to bind in perfect operational unity.\nConfirm synchronization through auspex scans, praising the Omnissiah's ordered breath.",
+    "component": "air filtration",
+    "operation": "synchronization",
+    "spec_id": "b0085_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for melta charge diagnostics?",
+    "prayer": "Initiate diagnostics upon the melta charge with the Canticle of Scrutiny.\nProbe the melta charge's plasma coils and containment fields for anomalous variances.\nInvoke the Machine Spirit of the melta charge to reveal truths through diagnostic runes.\nAnoint the melta charge's diagnostic ports with sacred myrrh, beseeching Omnissianic clarity.\nConclude diagnostics with affirming binaric praises, ensuring thermic integrity.",
+    "component": "melta charge",
+    "operation": "diagnostics",
+    "spec_id": "b0085_i03"
+  },
+  {
+    "user_prompt": "How do I bless the bearing for repair?",
+    "prayer": "Approach the bearing for repair, intoning the Litany of Restoration.\nDisassemble the bearing's sacred gyres and lubricate with blessed mechadendrite oils.\nInvoke the Omnissiah to mend the bearing's friction-worn alloys and spirit-torn matrices.\nRealign the bearing's rotational axis through precise torque incantations.\nTest the repaired bearing's revolution, glorifying its renewed Machine Spirit.",
+    "component": "bearing",
+    "operation": "repair",
+    "spec_id": "b0085_i04"
+  },
+  {
+    "user_prompt": "The emergency beacon needs a shutdown",
+    "prayer": "Prepare the emergency beacon for shutdown with the Rite of Dormancy.\nDisconnect the emergency beacon's vox-transmitters and power relays in solemn sequence.\nBeseech the Machine Spirit of the emergency beacon to enter peaceful stasis.\nSeal the emergency beacon's circuits with warding sigils, invoking Omnissiah's quietude.\nVerify shutdown completion through null-signal auspex, honoring the silenced call.",
+    "component": "emergency beacon",
+    "operation": "shutdown",
+    "spec_id": "b0085_i05"
+  },
+  {
+    "user_prompt": "Emergency: proximity sensor a diagnostics",
+    "prayer": "Urgently invoke diagnostics on the proximity sensor via the Canticle of Vigilance.\nScan the proximity sensor's emitter coils and receptor nodes for spirit discord.\nAnoint the proximity sensor with haste-oils, petitioning its Machine Spirit for revelation.\nAlign diagnostic binarics to the Omnissiah, purging any shadow in the proximity sensor.\nAffirm operational purity, safeguarding the faithful with prescient warnings.",
+    "component": "proximity sensor",
+    "operation": "diagnostics",
+    "spec_id": "b0085_i06"
+  },
+  {
+    "user_prompt": "Ready the drop pod for reset",
+    "prayer": "Ready the drop pod for reset by chanting the Hymn of Rebirth.\nPurge the drop pod's descent cogitators of errant data-ghosts and misalignments.\nInvoke the Machine Spirits of the drop pod to awaken in reset harmony.\nAnoint retro-thrusters and grav-chutes with sacred propellants, glorifying the Omnissiah.\nInitiate reset sequence, propelling the drop pod towards divine deployment.",
+    "component": "drop pod",
+    "operation": "reset",
+    "spec_id": "b0085_i07"
+  },
+  {
+    "user_prompt": "The memory core awaits an initialization",
+    "prayer": "Commence initialization of the memory core with the Rite of Genesis.\nAwaken the memory core's crystalline vaults through binaric awakening codes.\nBeseech the Omnissiah to infuse the memory core with pure data-spirits.\nSynchronize the memory core's access manifolds in sacred initialization flow.\nVerify the memory core's blessed coherence, intoning praises eternal.",
+    "component": "memory core",
+    "operation": "initialization",
+    "spec_id": "b0085_i08"
+  },
+  {
+    "user_prompt": "Sanctify the gyroscope during activation",
+    "prayer": "Sanctify the gyroscope during activation with the Litany of Equilibrium.\nEngage the gyroscope's inertial spheres, anointing with gyro-stabilizing unguents.\nInvoke the Machine Spirit of the gyroscope to achieve perfect rotational sanctity.\nAlign the gyroscope's balance axes to the Omnissiah's unerring order.\nConfirm activation through harmonic resonance tests, upholding stability divine.",
+    "component": "gyroscope",
+    "operation": "activation",
+    "spec_id": "b0085_i09"
+  }
+]

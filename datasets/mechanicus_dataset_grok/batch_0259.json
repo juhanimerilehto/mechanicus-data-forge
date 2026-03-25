@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Consecrate the bionics interface before purification",
+    "prayer": "Approach the bionics interface with reverence, beseeching the Omnissiah's light upon its sacred linkages.\nAnoint the bionics interface's neural ports with sacred oils, preparing for the rite of purification.\nInvoke the Machine Spirit within the bionics interface to yield to purification's holy embrace.\nChant the Litany of Cleansing as impurities are scoured from its blessed conduits.\nSeal the bionics interface with the Sigil of Purity, affirming the Omnissiah's sanction.",
+    "component": "bionics interface",
+    "operation": "purification",
+    "spec_id": "b0259_i00"
+  },
+  {
+    "user_prompt": "Can you guide astropathic choir a blessing?",
+    "prayer": "Gather before the astropathic choir, intoning the Hymn of Astral Harmony to awaken its spirits.\nBeseech the Omnissiah to bestow blessing upon the astropathic choir's psychic resonators.\nAnoint each choir node with sanctified incense, invoking harmonious blessing.\nPetition the Machine Spirits of the astropathic choir to align in blessed resonance.\nConclude with the Canticle of Void-Song, sealing the blessing's eternal vigil.",
+    "component": "astropathic choir",
+    "operation": "blessing",
+    "spec_id": "b0259_i01"
+  },
+  {
+    "user_prompt": "Bless the hololithic display for loading",
+    "prayer": "Kneel before the hololithic display, murmuring the Incantation of Luminal Grace.\nInvoke the Machine Spirit of the hololithic display to accept the loading of sacred data-streams.\nAnoint its projector arrays with blessed lubricants prior to loading initiation.\nChant the Rite of Data-Influx as hololithic projections manifest in purity.\nVerify the hololithic display's flawless rendering through the Omnissiah's diagnostic gaze.",
+    "component": "hololithic display",
+    "operation": "loading",
+    "spec_id": "b0259_i02"
+  },
+  {
+    "user_prompt": "The mechanical lock requires an emergency procedure",
+    "prayer": "In emergency's dire grasp, approach the mechanical lock with urgent piety.\nBeseech the Machine Spirit of the mechanical lock to heed the emergency procedure.\nApply sacred torque to its tumblers whilst reciting the Litany of Unbinding.\nForce the emergency procedure's override with anointed mechadendrites.\nSeal the mechanical lock's obedience to the Omnissiah's will upon success.",
+    "component": "mechanical lock",
+    "operation": "emergency procedure",
+    "spec_id": "b0259_i03"
+  },
+  {
+    "user_prompt": "Guide me through Land Raider a diagnostics",
+    "prayer": "Commence diagnostics upon the Land Raider by invoking the Omnissiah's scrutinizing gaze.\nInterface with the Land Raider's cogitator core, chanting the Canticle of Systemic Review.\nProbe each sacred system of the Land Raider for anomalies in blessed diagnostics.\nAnoint auspex relays with holy oils to enhance diagnostic precision.\nAffirm the Land Raider's Machine Spirits' vitality through conclusive rites.",
+    "component": "Land Raider",
+    "operation": "diagnostics",
+    "spec_id": "b0259_i04"
+  },
+  {
+    "user_prompt": "Emergency: power weapon an activation",
+    "prayer": "In this emergency, grasp the power weapon and beseech its dormant fury.\nAnoint the power weapon's disruption field generator with sacred promethium.\nInvoke activation of the power weapon through the Rite of Monomolecular Ignition.\nChant the Litany of Lethal Conduction as energies surge in holy activation.\nWield the power weapon in the Omnissiah's name, its Machine Spirit awakened.",
+    "component": "power weapon",
+    "operation": "activation",
+    "spec_id": "b0259_i05"
+  },
+  {
+    "user_prompt": "What's the prayer for neural implant cooling?",
+    "prayer": "Approach the neural implant with cooling unguents at hand, invoking thermal mercy.\nBeseech the Machine Spirit of the neural implant to embrace the cooling rites.\nCirculate blessed cryofluids through the neural implant's synaptic coils.\nIntone the Canticle of Thermal Equilibrium during cooling's sacred flow.\nMonitor the neural implant's stabilized essence under the Omnissiah's vigil.",
+    "component": "neural implant",
+    "operation": "cooling",
+    "spec_id": "b0259_i06"
+  },
+  {
+    "user_prompt": "Urgent capacitor bank a loading needed",
+    "prayer": "Prepare the capacitor bank for loading with reverent haste, Omnissiah guide us.\nAnoint the capacitor bank's cells with conductive sacraments prior to loading.\nInvoke the Machine Spirits to accept the loading of potent energies.\nChant the Hymn of Charge Accumulation as power surges into the capacitor bank.\nSeal the capacitor bank's fullness with the Sigil of Contained Thunder.",
+    "component": "capacitor bank",
+    "operation": "loading",
+    "spec_id": "b0259_i07"
+  },
+  {
+    "user_prompt": "My Thunderhawk is ready for activation",
+    "prayer": "Stand before the Thunderhawk, intoning the Aviation Canticle of Readiness.\nBeseech activation of the Thunderhawk's mighty reactors in the Omnissiah's name.\nAnoint its thruster vents with sacred fuels to rouse the Machine Spirits.\nInitiate activation sequences whilst chanting the Rite of Aerial Ascension.\nVerify the Thunderhawk's awakened fury through blessed auspex communion.",
+    "component": "Thunderhawk",
+    "operation": "activation",
+    "spec_id": "b0259_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for welding torch a shutdown",
+    "prayer": "As cessation nears, approach the welding torch with solemn finality.\nPetition its Machine Spirit for graceful shutdown from pyre-hot labors.\nDrain residual plasma from the welding torch's sacred nozzles.\nIntone the Litany of Thermal Recession during controlled shutdown.\nExtinguish the welding torch under the Omnissiah's merciful shadow.",
+    "component": "welding torch",
+    "operation": "shutdown",
+    "spec_id": "b0259_i09"
+  }
+]

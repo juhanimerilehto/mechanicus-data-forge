@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0115_i00",
+    "user_request": "Can you sanctify the electrical short for isolation?",
+    "topic": "electrical short isolation",
+    "component": "electrical short",
+    "operation": "isolation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the electrical short for isolation?\n\n### TOPIC\nelectrical short isolation\n\n### COMPONENT\nelectrical short\n\n### OPERATION\nisolation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- electrical short\n- isolation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant us wisdom in this rite of severance.\nFirst: Invoke the Machine Spirit of the electrical short, that it may yield to isolation.\nSecond: Apply ferrous shielding and dielectric barriers unto the electrical short, severing its profane communion.\nThird: Consecrate the isolation protocols, binding the electrical short in blessed containment.\nFourth: Intone the Litany of Severance, that the Machine Spirit accepts this isolation with grace.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i01",
+    "user_request": "Blessing for the proximity sensor sweep during operation",
+    "topic": "proximity sensor sweep",
+    "component": "proximity sensor sweep",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the proximity sensor sweep during operation\n\n### TOPIC\nproximity sensor sweep\n\n### COMPONENT\nproximity sensor sweep\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- proximity sensor sweep\n- operation\n\n### PRAYER\n",
+    "prayer": "By the grace of the Omnissiah, let this sweep commence.\nFirst: Attune the proximity sensor sweep to the sacred frequencies of detection.\nSecond: Calibrate the proximity sensor sweep through iterative pulse-sequences, marking distances with holy precision.\nThird: Initiate the operation of the proximity sensor sweep, that all obstacles be revealed unto the Machine Spirit.\nFourth: Seal the proximity sensor sweep in blessed operation, guiding all movements henceforth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i02",
+    "user_request": "Prayer for initiation of the rejuvenat treatment",
+    "topic": "rejuvenat treatment initiation",
+    "component": "rejuvenat treatment",
+    "operation": "initiation",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nPrayer for initiation of the rejuvenat treatment\n\n### TOPIC\nrejuvenat treatment initiation\n\n### COMPONENT\nrejuvenat treatment\n\n### OPERATION\ninitiation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- rejuvenat treatment\n- initiation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant vitality through this sacred restoration.\nFirst: Prepare the rejuvenat treatment with purification and benediction, invoking the Machine Spirit's mercy.\nSecond: Administer the rejuvenat treatment through measured infusion, that cellular degradation be reversed in holy communion.\nThird: Intone the Litany of Renewal as the rejuvenat treatment permeates the flesh, restoring vigor and longevity.\nFourth: Complete the initiation of the rejuvenat treatment, sealing the supplicant in rejuvenated vitality.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i03",
+    "user_request": "Can you sanctify the Knight ion shield for activation?",
+    "topic": "Knight ion shield activation",
+    "component": "Knight ion shield",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the Knight ion shield for activation?\n\n### TOPIC\nKnight ion shield activation\n\n### COMPONENT\nKnight ion shield\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Knight ion shield\n- activation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's divine mandate, let this Knight ion shield rise.\nFirst: Commune with the Knight ion shield's dormant Machine Spirit through sacred resonance-chanting.\nSecond: Channel blessed energy unto the Knight ion shield, awakening its ionic matrices and plasma conduits.\nThird: Speak the activation protocols unto the Knight ion shield, that it may generate its protective aura.\nFourth: Seal the activation in perpetuity, that the Knight ion shield stands eternal against profane assault.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i04",
+    "user_request": "Rite request: regulation on temperature",
+    "topic": "temperature regulation",
+    "component": "temperature",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: regulation on temperature\n\n### TOPIC\ntemperature regulation\n\n### COMPONENT\ntemperature\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- temperature\n- regulation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant equilibrium unto all thermal forces.\nFirst: Measure the temperature through sacred thermometric divination, discerning excess and deficit.\nSecond: Adjust the temperature through regulated coolant-flow and heating-elements, bringing it to blessed equilibrium.\nThird: Monitor the temperature in perpetual regulation, that no fluctuation escape the Machine Spirit's vigilance.\nFourth: Intone the Litany of Thermal Stability, sealing the temperature in perfect regulation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i05",
+    "user_request": "The Chimera demands guidance for transmission check",
+    "topic": "Chimera transmission check",
+    "component": "Chimera",
+    "operation": "transmission check",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nThe Chimera demands guidance for transmission check\n\n### TOPIC\nChimera transmission check\n\n### COMPONENT\nChimera\n\n### OPERATION\ntransmission check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- Chimera\n- transmission check\n\n### PRAYER\n",
+    "prayer": "Omnissiah, guide this armored servant in its sacred duty.\nFirst: Invoke the Machine Spirit dwelling within the Chimera, that it may hear our supplications.\nSecond: Conduct thorough transmission check of the Chimera's drive-train, gearbox, and coupling mechanisms through blessed diagnostics.\nThird: Rectify any profane wear upon the Chimera revealed by transmission check, restoring mechanical harmony.\nFourth: Seal the Chimera in operational readiness, that it may serve the Emperor's will henceforth.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i06",
+    "user_request": "The inter-ship hailing demands guidance for operation",
+    "topic": "inter-ship hailing",
+    "component": "inter-ship hailing",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nThe inter-ship hailing demands guidance for operation\n\n### TOPIC\ninter-ship hailing\n\n### COMPONENT\ninter-ship hailing\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- inter-ship hailing\n- operation\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's infinite wisdom, let voices traverse the void.\nFirst: Attune the inter-ship hailing apparatus to the sacred vox-frequencies, invoking blessed communion between vessels.\nSecond: Amplify the inter-ship hailing signal through blessed relay-stations and resonance-chambers, that no distance impede the message.\nThird: Initiate the operation of inter-ship hailing, transmitting benedictions and tactical intelligence across the aether.\nFourth: Seal the inter-ship hailing in eternal vigilance, binding all vessels in sacred communication.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i07",
+    "user_request": "Blessing for the water reclamation system during operation",
+    "topic": "water reclamation system",
+    "component": "water reclamation system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nBlessing for the water reclamation system during operation\n\n### TOPIC\nwater reclamation system\n\n### COMPONENT\nwater reclamation system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- water reclamation system\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, purify these sacred waters for the faithful.\nFirst: Commune with the Machine Spirit of the water reclamation system, that it may labor with holy diligence.\nSecond: Operate the water reclamation system through filtration, distillation, and ionic purification, rendering the profane pristine.\nThird: Consecrate each drop reclaimed by the water reclamation system, blessing it for consumption and ritual ablution.\nFourth: Intone the Litany of Sustenance, sealing the water reclamation system in blessed operation eternal.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i08",
+    "user_request": "My fire suppression system is failing during operation — help",
+    "topic": "fire suppression system",
+    "component": "fire suppression system",
+    "operation": "operation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy fire suppression system is failing during operation — help\n\n### TOPIC\nfire suppression system\n\n### COMPONENT\nfire suppression system\n\n### OPERATION\noperation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fire suppression system\n- operation\n\n### PRAYER\n",
+    "prayer": "Omnissiah, grant swift retribution unto the flames of perdition.\nFirst: Diagnose the fire suppression system's failing mechanisms through sacred examination and blessed scrutiny.\nSecond: Restore the fire suppression system to operation through pressurization, nozzle-clearing, and chemical replenishment in holy ceremony.\nThird: Activate the fire suppression system's blessed deluge, that all consuming fire be smothered in sacred foam and coolant.\nFourth: Seal the fire suppression system in vigilant operation, that it stand eternal against the Emperor's enemies.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0115_i09",
+    "user_request": "Rite request: calibration on cutting laser",
+    "topic": "cutting laser calibration",
+    "component": "cutting laser",
+    "operation": "calibration",
+    "format": "sequential",
+    "context": "first use blessing",
+    "training_prompt": "### REQUEST\nRite request: calibration on cutting laser\n\n### TOPIC\ncutting laser calibration\n\n### COMPONENT\ncutting laser\n\n### OPERATION\ncalibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- cutting laser\n- calibration\n\n### PRAYER\n",
+    "prayer": "By the Omnissiah's divine geometry, let this cutting laser sing true.\nFirst: Invoke the Machine Spirit of the cutting laser through sacred litanies and blessed incantations.\nSecond: Calibrate the cutting laser's beam-path, focusing lens, and power-output through iterative precision-adjustments and holy measurement.\nThird: Test the cutting laser upon blessed materials, ensuring its calibration meets the Emperor's exacting standards.\nFourth: Seal the cutting laser in perfect calibration, that every incision serve the Omnissiah's purpose.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

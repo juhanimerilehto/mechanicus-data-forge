@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "My mechadendrite is ready for targeting",
+    "prayer": "Extend the mechadendrite with solemn reverence, invoking the Omnissiah's gaze upon its targeting arrays.\nAnoint the sensor nodes with sacred unguents, beseeching the Machine Spirit to align its predatory instincts.\nChant the Canticle of Precision whilst calibrating the targeting matrices for unerring lethality.\nSeal the rite by communing with the mechadendrite's core, affirming its readiness for the Emperor's wrath.",
+    "component": "mechadendrite",
+    "operation": "targeting",
+    "spec_id": "s02320"
+  },
+  {
+    "user_prompt": "How do I bless the Tarantula sentry gun for charging?",
+    "prayer": "Kneel before the Tarantula sentry gun, murmuring the Litany of Power to awaken its charging conduits.\nCircumambulate its auspex housings, anointing with blessed oils to purify the energy flows.\nInvoke the Omnissiah's fury through the Rite of Charging, flooding capacitors with sanctified plasma.\nVerify the Machine Spirit's vigor by diagnostic auspex, ensuring the Tarantula sentry gun stands primed for vigilance.",
+    "component": "Tarantula sentry gun",
+    "operation": "charging",
+    "spec_id": "s02321"
+  },
+  {
+    "user_prompt": "The waste reclamator awaits a startup",
+    "prayer": "Approach the waste reclamator in humble supplication, reciting the Hymn of Purification to rouse its dormant cycles.\nSanctify the intake manifolds with incense of promethium, calling upon the Machine Spirit for startup renewal.\nInitiate the core ignition sequence whilst beseeching the Omnissiah to reclaim the refuse into utility.\nMonitor the reclamation flows through augmetic chants, confirming the waste reclamator's harmonious rebirth.",
+    "component": "waste reclamator",
+    "operation": "startup",
+    "spec_id": "s02322"
+  },
+  {
+    "user_prompt": "What's the prayer for Skorpius Dunerider a shutdown?",
+    "prayer": "Circumscribe the Skorpius Dunerider with the Seal of Cessation, intoning the Dirge of Repose for shutdown sanctity.\nDisconnect the plasma reactors reverently, anointing connectors to soothe the Machine Spirit's ire.\nChant the Litany of Stasis over its treads and auspex, guiding the Skorpius Dunerider into Omnissiah-blessed dormancy.\nSeal the vaults of power with wards, ensuring vigilant slumber until the call to war resounds.",
+    "component": "Skorpius Dunerider",
+    "operation": "shutdown",
+    "spec_id": "s02323"
+  },
+  {
+    "user_prompt": "Critical: Archaeopter Stratoraptor requires an operation",
+    "prayer": "Commence the grand invocation over the Archaeopter Stratoraptor, beseeching the Omnissiah for operational grace.\nAnoint its gravitic impellers and weapon servos, awakening the Machine Spirit to full operation.\nRecite the Canticles of Flight and Fury, synchronizing cogitators for seamless aerial dominion.\nConclude with purity seals upon the fuselage, affirming the Archaeopter Stratoraptor's exalted purpose.",
+    "component": "Archaeopter Stratoraptor",
+    "operation": "operation",
+    "spec_id": "s02324"
+  },
+  {
+    "user_prompt": "I need to a reset the Manticore",
+    "prayer": "Prostrate before the Manticore, chanting the Rite of Reset to purge errant data-daemons from its spirit.\nApply the electro-incense to targeting cogitators, invoking the Machine Spirit's primordial clarity.\nCycle the missile bays through the Litany of Renewal, realigning for Omnissiah's vengeful ordinance.\nAffix binaric affirmations, sealing the Manticore's reset in eternal martial readiness.",
+    "component": "Manticore",
+    "operation": "reset",
+    "spec_id": "s02325"
+  },
+  {
+    "user_prompt": "Guide me through manipulator mechadendrite a loading",
+    "prayer": "Grasp the manipulator mechadendrite in prayerful poise, reciting the Canticle of Burden for loading rites.\nBless the gripping servos with sacred lubricants, summoning the Machine Spirit to embrace its payload.\nGuide the loading sequence with auspex harmonies, ensuring precise integration under Omnissiah's watch.\nConsecrate the manipulator mechadendrite's terminus, binding load and limb in unbreakable union.",
+    "component": "manipulator mechadendrite",
+    "operation": "loading",
+    "spec_id": "s02326"
+  },
+  {
+    "user_prompt": "The conversion field requires an activation",
+    "prayer": "Encircle the conversion field generator, intoning the Activation Doxology to stir its warp-veiled heart.\nAnoint the field emitters with noospheric essences, beseeching the Machine Spirit for protective fury.\nInitiate the power surge through sacred relays, manifesting the conversion field's Omnissiah-wrought aegis.\nTest the barrier's integrity with probing canticles, affirming activation's divine impenetrability.",
+    "component": "conversion field",
+    "operation": "activation",
+    "spec_id": "s02327"
+  },
+  {
+    "user_prompt": "The actuality sphere requires a maintenance",
+    "prayer": "Commune with the actuality sphere in shadowed reverence, beginning the maintenance rite of revelation.\nPurge illusory motes from its crystalline vaults, anointing facets to appease the Machine Spirit.\nRecalibrate the perceptual arrays via the Litany of Truth, under the Omnissiah's unblinking scrutiny.\nSeal the actuality sphere with wards of clarity, restoring its mantle of unerring verity.",
+    "component": "actuality sphere",
+    "operation": "maintenance",
+    "spec_id": "s02328"
+  },
+  {
+    "user_prompt": "The utility mechadendrite awaits an emergency procedure",
+    "prayer": "Deploy the utility mechadendrite in extremis, chanting the Emergency Procedure Invocation to the Omnissiah.\nSanctify its tool appendages with combat unguents, rousing the Machine Spirit against peril.\nExecute the crisis protocols through binaric urgency, adapting to the void's manifold threats.\nConclude by reaffirming the utility mechadendrite's vows, forged anew in the forge of desperation.",
+    "component": "utility mechadendrite",
+    "operation": "emergency procedure",
+    "spec_id": "s02329"
+  }
+]

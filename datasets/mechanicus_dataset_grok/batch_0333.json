@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Urgent bolter a purification needed",
+    "prayer": "Approach the bolter with reverence, intoning the Canticle of Purity to the Omnissiah.\nAnoint the bolter's sacred barrel and firing mechanisms with sacred solvents distilled in the forges of Mars.\nBeseech the Machine Spirit within the bolter to cast out all corruption during this rite of purification.\nChant the Litany of Cleansing over the bolter, passing blessed incense through its holy chambers.\nVerify the bolter's sanctified state through auspex scans and confirmatory binaric prayers.",
+    "component": "bolter",
+    "operation": "purification",
+    "spec_id": "b0333_i00"
+  },
+  {
+    "user_prompt": "Urgent signal relay an engagement needed",
+    "prayer": "Draw nigh unto the signal relay, invoking the Omnissiah's boundless wisdom.\nInvoke the engagement of the signal relay's sacred circuits with precise electro-incantations.\nPetition the Machine Spirit of the signal relay to align its holy frequencies in harmonious union.\nAnoint the relay's transmission nodes with sanctified oils to empower the engagement.\nConfirm the signal relay's vital linkage through rhythmic diagnostic hymns.",
+    "component": "signal relay",
+    "operation": "engagement",
+    "spec_id": "b0333_i01"
+  },
+  {
+    "user_prompt": "Assist with hydroponics bay a cooling",
+    "prayer": "Converge upon the hydroponics bay, beseeching the Omnissiah for temperate grace.\nInitiate the cooling rites upon the hydroponics bay, channeling blessed refrigerants through its veins.\nInvoke the Machine Spirit of the hydroponics bay to embrace the chill of purity.\nSanctify the coolant flows within the hydroponics bay with binaric litanies of equilibrium.\nTest the hydroponics bay's thermal sanctity via thermographic canticles and auspex reverence.",
+    "component": "hydroponics bay",
+    "operation": "cooling",
+    "spec_id": "b0333_i02"
+  },
+  {
+    "user_prompt": "Consecrate the Land Raider before recalibration",
+    "prayer": "Present thyself before the Land Raider, chanting the Hymn of Recalibration to the Machine God.\nCommence recalibration of the Land Raider's auspex arrays and motive systems with sacred torque-wands.\nAwaken the indomitable Machine Spirit of the Land Raider through invocations of alignment.\nAnoint the Land Raider's cogitators with holy unguents to ensure flawless recalibration.\nAffirm the Land Raider's recalibrated perfection with confirmatory machine-spirits communion.",
+    "component": "Land Raider",
+    "operation": "recalibration",
+    "spec_id": "b0333_i03"
+  },
+  {
+    "user_prompt": "Critical: air compressor requires a calibration",
+    "prayer": "Approach the air compressor in pious assembly, invoking the Omnissiah's pneumatic might.\nPerform calibration upon the air compressor's sacred pistons and valves with precision mechadendrites.\nBeseech the Machine Spirit of the air compressor to attune its pressure flows in divine harmony.\nSanctify the air compressor's regulators with anointed binary code sequences.\nValidate the air compressor's calibrated equilibrium through pressure litanies and vibro-scans.",
+    "component": "air compressor",
+    "operation": "calibration",
+    "spec_id": "b0333_i04"
+  },
+  {
+    "user_prompt": "What's the prayer for valve assembly consecration?",
+    "prayer": "Gather before the valve assembly, proclaiming the Benediction of Consecration.\nInvoke consecration upon the valve assembly's mechanisms, etching runes of the Omnissiah upon its alloys.\nPetition the Machine Spirit indwelling the valve assembly to accept this hallowed rite.\nAnoint the valve assembly's seals and actuators with sacred lubricants from ancient reliquaries.\nSeal the consecration of the valve assembly with resounding choral affirmatives and spirit-binding oaths.",
+    "component": "valve assembly",
+    "operation": "consecration",
+    "spec_id": "b0333_i05"
+  },
+  {
+    "user_prompt": "Ready the mechanical lock for loading",
+    "prayer": "Attend to the mechanical lock with ritual solemnity, under the Omnissiah's gaze.\nPrepare the mechanical lock for loading by aligning its tumblers with sacred alignment rods.\nAwaken the Machine Spirit of the mechanical lock through preparatory canticles of readiness.\nBless the mechanical lock's loading chambers with incense and electro-benedictions.\nCommence loading verification via tactile invocations and security rune-scans.",
+    "component": "mechanical lock",
+    "operation": "loading",
+    "spec_id": "b0333_i06"
+  },
+  {
+    "user_prompt": "Urgent power cell a reset needed",
+    "prayer": "Confront the power cell in veneration, chanting the Reset Rite to the Machine God.\nInitiate reset of the power cell's blessed capacitors with purging electro-litanies.\nBeseech the Machine Spirit within the power cell to rebirth its holy voltage untainted.\nRealign the power cell's polarity nodes with sanctified calibration fields.\nAffirm the power cell's reset vitality through luminous diagnostic prayers.",
+    "component": "power cell",
+    "operation": "reset",
+    "spec_id": "b0333_i07"
+  },
+  {
+    "user_prompt": "The Chimera APC awaits a repair",
+    "prayer": "Kneel before the Chimera APC, intoning the Omnissiah's Litany of Restoration.\nCommence repair of the Chimera APC's damaged treads and armour plates with blessed weld-arcs.\nInvoke the resilient Machine Spirit of the Chimera APC to mend its sacred frame.\nAnoint the Chimera APC's injured servos with healing unguents from forge-temples.\nConclude the repair with confirmatory auspex hymns and spirit-reaffirmation.",
+    "component": "Chimera APC",
+    "operation": "repair",
+    "spec_id": "b0333_i08"
+  },
+  {
+    "user_prompt": "My plasma weapon is ready for maintenance",
+    "prayer": "Present the plasma weapon in humble obeisance to the Omnissiah.\nUndertake maintenance of the plasma weapon's containment coils with meticulous purity rites.\nPetition the volatile Machine Spirit of the plasma weapon to yield to harmonious servicing.\nPurify the plasma weapon's flask chambers with sacred venting incantations.\nFinalize maintenance through thermal litanies and flask-integrity scans.",
+    "component": "plasma weapon",
+    "operation": "maintenance",
+    "spec_id": "b0333_i09"
+  }
+]

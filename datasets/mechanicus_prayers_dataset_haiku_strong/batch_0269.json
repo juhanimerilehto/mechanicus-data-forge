@@ -1,0 +1,202 @@
+[
+  {
+    "id": "b0269_i00",
+    "user_request": "My steam valve is failing during regulation — help",
+    "topic": "steam valve regulation",
+    "component": "steam valve",
+    "operation": "regulation",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nMy steam valve is failing during regulation — help\n\n### TOPIC\nsteam valve regulation\n\n### COMPONENT\nsteam valve\n\n### OPERATION\nregulation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- steam valve\n- regulation\n\n### PRAYER\n",
+    "prayer": "Blessed invocation to the Machine Spirit of pressurized conduits:\nFirst: Genuflect before the steam valve and intone the Litany of Equilibrium thrice.\nSecond: Anoint the steam valve with sacred oils whilst chanting the regulation protocols in Low Gothic.\nThird: Calibrate the steam valve's pneumatic tensors and verify the regulation circuit maintains proper oscillation.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i01",
+    "user_request": "Offer a litany to steady the fusion core before containment check",
+    "topic": "fusion core containment check",
+    "component": "fusion core",
+    "operation": "containment check",
+    "format": "sequential",
+    "context": "post-repair consecration",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the fusion core before containment check\n\n### TOPIC\nfusion core containment check\n\n### COMPONENT\nfusion core\n\n### OPERATION\ncontainment check\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- fusion core\n- containment check\n\n### PRAYER\n",
+    "prayer": "Litany of Atomic Stabilization for the reactor's core:\nFirst: Commence the containment check by reciting the Hymn of Fission Restraint before the fusion core's containment vessel.\nSecond: Inspect the fusion core's electromagnetic seals and verify all thermal dampers respond to the containment check protocols.\nThird: Anoint the fusion core's housing with coolant-blessed oils and seal the containment check apparatus with the Sign of the Omnissiah.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i02",
+    "user_request": "Rite request: stabilization on gravity generator",
+    "topic": "gravity generator stabilization",
+    "component": "gravity generator",
+    "operation": "stabilization",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nRite request: stabilization on gravity generator\n\n### TOPIC\ngravity generator stabilization\n\n### COMPONENT\ngravity generator\n\n### OPERATION\nstabilization\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- gravity generator\n- stabilization\n\n### PRAYER\n",
+    "prayer": "Prayer of Gravitational Equilibrium unto the Machine Spirits:\nFirst: Approach the gravity generator with reverent supplication and commence the stabilization chant in archaic machine-cant.\nSecond: Calibrate the gravity generator's field-resonance chambers and balance the stabilization matrices to harmonic equilibrium.\nThird: Anoint the gravity generator with specialized lubricants whilst invoking the Omnissiah's blessing upon all stabilization efforts.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i03",
+    "user_request": "Blessing for the hololithic during display calibration",
+    "topic": "hololithic display calibration",
+    "component": "hololithic",
+    "operation": "display calibration",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nBlessing for the hololithic during display calibration\n\n### TOPIC\nhololithic display calibration\n\n### COMPONENT\nhololithic\n\n### OPERATION\ndisplay calibration\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hololithic\n- display calibration\n\n### PRAYER\n",
+    "prayer": "Benediction for the Hololithic Display Systems:\nFirst: Orient yourself before the hololithic and recite the Calibration Verses whilst the display calibration sequence initializes.\nSecond: Adjust the hololithic's luminescent crystals and verify the display calibration parameters align with sacred geometries.\nThird: Bless the hololithic's optical pathways with purified servitor-blessed fluids and confirm all display calibration readings achieve divine resonance.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i04",
+    "user_request": "Can you sanctify the decontamination for sequence?",
+    "topic": "decontamination sequence",
+    "component": "decontamination",
+    "operation": "sequence",
+    "format": "sequential",
+    "context": "combat preparation",
+    "training_prompt": "### REQUEST\nCan you sanctify the decontamination for sequence?\n\n### TOPIC\ndecontamination sequence\n\n### COMPONENT\ndecontamination\n\n### OPERATION\nsequence\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- decontamination\n- sequence\n\n### PRAYER\n",
+    "prayer": "Sanctification Rite for Purification Protocols:\nFirst: Invoke the Machine Spirit of decontamination systems and begin the sequence with the Litany of Ablution in sacred binary.\nSecond: Engage the decontamination chambers and monitor the sequence progression through each purification stage with unwavering vigilance.\nThird: Anoint the decontamination apparatus following the sequence completion and seal the ritual with the Omnissiah's benediction upon all contamination-banished surfaces.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i05",
+    "user_request": "Can you sanctify the hydroponics nutrient for feed?",
+    "topic": "hydroponics nutrient feed",
+    "component": "hydroponics nutrient",
+    "operation": "feed",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nCan you sanctify the hydroponics nutrient for feed?\n\n### TOPIC\nhydroponics nutrient feed\n\n### COMPONENT\nhydroponics nutrient\n\n### OPERATION\nfeed\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- hydroponics nutrient\n- feed\n\n### PRAYER\n",
+    "prayer": "Prayer of Sustenance to the Agri-Spirits:\nFirst: Genuflect before the hydroponics nutrient reservoirs and chant the Hymn of Growth whilst the feed mechanism awakens.\nSecond: Calibrate the hydroponics nutrient dispensers and commence the feed cycle with precision measurements blessed by the Adeptus Mechanicus.\nThird: Monitor the hydroponics nutrient distribution throughout the feed sequence and anoint all conduits with sacred oils of fertility.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i06",
+    "user_request": "The lasgun demands guidance for power cell insertion",
+    "topic": "lasgun power cell insertion",
+    "component": "lasgun",
+    "operation": "power cell insertion",
+    "format": "sequential",
+    "context": "emergency situation",
+    "training_prompt": "### REQUEST\nThe lasgun demands guidance for power cell insertion\n\n### TOPIC\nlasgun power cell insertion\n\n### COMPONENT\nlasgun\n\n### OPERATION\npower cell insertion\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- lasgun\n- power cell insertion\n\n### PRAYER\n",
+    "prayer": "Litany of Weapon-Spirit Invocation:\nFirst: Hold the lasgun aloft and recite the Benediction of Directed Energy whilst preparing for power cell insertion.\nSecond: Carefully execute the power cell insertion procedure, ensuring the lasgun's internal mechanisms align with the sacred geometry of its power coupling.\nThird: Verify the power cell insertion has achieved proper contact and anoint the lasgun's external housing with the blessing oils of the Machine Spirits.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i07",
+    "user_request": "Offer a litany to steady the power distribution before balancing",
+    "topic": "power distribution balancing",
+    "component": "power distribution",
+    "operation": "balancing",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nOffer a litany to steady the power distribution before balancing\n\n### TOPIC\npower distribution balancing\n\n### COMPONENT\npower distribution\n\n### OPERATION\nbalancing\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- power distribution\n- balancing\n\n### PRAYER\n",
+    "prayer": "Prayer of Equilibrial Distribution:\nFirst: Stand before the power distribution nexus and intone the Litany of Balanced Flow whilst the balancing protocols commence.\nSecond: Adjust the power distribution nodes and execute the balancing sequence through each circuit with meticulous adherence to the Omnissiah's design.\nThird: Sanctify the power distribution grid upon completion and seal all balancing operations with the Sign of the Blessed Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i08",
+    "user_request": "My data-slate is failing during activation — help",
+    "topic": "data-slate activation",
+    "component": "data-slate",
+    "operation": "activation",
+    "format": "sequential",
+    "context": "routine operation",
+    "training_prompt": "### REQUEST\nMy data-slate is failing during activation — help\n\n### TOPIC\ndata-slate activation\n\n### COMPONENT\ndata-slate\n\n### OPERATION\nactivation\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- data-slate\n- activation\n\n### PRAYER\n",
+    "prayer": "Invocation for the Awakening of Machine-Cognition:\nFirst: Cradle the data-slate gently and whisper the Activation Mantra to stir its dormant circuits and Machine Spirit.\nSecond: Engage the data-slate's power mechanisms and monitor the activation sequence until all luminous indicators achieve operational status.\nThird: Anoint the data-slate's interface with reverence and confirm the activation has restored full communion between user and Machine.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  },
+  {
+    "id": "b0269_i09",
+    "user_request": "Emergency rite: mechanical lock requires engagement",
+    "topic": "mechanical lock engagement",
+    "component": "mechanical lock",
+    "operation": "engagement",
+    "format": "sequential",
+    "context": "maintenance ritual",
+    "training_prompt": "### REQUEST\nEmergency rite: mechanical lock requires engagement\n\n### TOPIC\nmechanical lock engagement\n\n### COMPONENT\nmechanical lock\n\n### OPERATION\nengagement\n\n### FORMAT\nsequential\n\n### MUST_INCLUDE\n- mechanical lock\n- engagement\n\n### PRAYER\n",
+    "prayer": "Emergency Sanctification for Mechanical Sealing:\nFirst: Approach the mechanical lock with urgency and recite the Rapid-Response Litany whilst preparing the engagement apparatus.\nSecond: Execute the mechanical lock engagement with controlled force, ensuring all tumblers and mechanisms respond to the sacred protocols of the Omnissiah.\nThird: Verify the mechanical lock engagement has achieved complete security and anoint the lock mechanism with blessed oils of permanence.",
+    "validation": {
+      "ok": true,
+      "reasons": []
+    },
+    "generator_check": {
+      "used_component_exactly": true,
+      "used_operation_exactly": true,
+      "format_followed": true
+    }
+  }
+]

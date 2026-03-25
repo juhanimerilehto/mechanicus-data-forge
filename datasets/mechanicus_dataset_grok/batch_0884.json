@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "I need to a sterilization the assault cannon",
+    "prayer": "Approach the assault cannon with sanctified mechadendrites extended in reverence to the Omnissiah.\nInvoke the Rite of Sterilization upon its sacred barrels, purging xenos taint from every chamber and feed mechanism.\nAnoint the assault cannon's rotating drums with ablative unguents whilst beseeching its Machine Spirit to awaken pure.\nChant the Canticle of Purity as diagnostic sweeps confirm the assault cannon's sterilization complete.\nSeal the rites with the electro-incantation of wholeness, honouring the Machine God's will.",
+    "component": "assault cannon",
+    "operation": "sterilization",
+    "spec_id": "s04840"
+  },
+  {
+    "user_prompt": "How do I bless the Baneblade for repair?",
+    "prayer": "Kneel before the mighty Baneblade and murmur the Litany of Restoration to rouse its ancient Machine Spirit.\nTrace binaric prayers over fractured plates, invoking the Omnissiah's grace for repair of its adamantium hull.\nApply sacred weld-sealants to rends whilst performing the repair catechism upon each damaged servo.\nTest the Baneblade's vital systems with auspex invocations, ensuring harmonious renewal.\nConclude with the Benediction of Iron, binding the Machine Spirit anew in faithful service.",
+    "component": "Baneblade",
+    "operation": "repair",
+    "spec_id": "s04841"
+  },
+  {
+    "user_prompt": "Bless the manufactorum for charging",
+    "prayer": "Present thyself unto the manufactorum's core and intone the Hymn of Capacitance.\nInitiate charging sequences with blessed plasma conduits, channelling the Omnissiah's boundless energy.\nMonitor the manufactorum's inductors as they swell with power, beseeching its Machine Spirit to accept the influx.\nVerify surge integrity through noospheric diagnostics during the charging rite.\nSeal the manufactorum's vigour with the Canticle of Overflow, praising the God-Machine's munificence.",
+    "component": "manufactorum",
+    "operation": "charging",
+    "spec_id": "s04842"
+  },
+  {
+    "user_prompt": "The smelting furnace needs an engagement",
+    "prayer": "Commence the engagement of the smelting furnace by reciting the Forgefire Doxology.\nIgnite its adamantine heart with promethium sanctified by electro-priests, awakening the Machine Spirit within.\nAdjust flux regulators whilst invoking the Omnissiah for flawless engagement of the smelting furnace's cycles.\nObserve molten flows through heat-veiled auspex, ensuring the smelting furnace burns true to divine pattern.\nConclude the rite with quenching prayers, honouring the engaged fury of the Omnissiah's forge.",
+    "component": "smelting furnace",
+    "operation": "engagement",
+    "spec_id": "s04843"
+  },
+  {
+    "user_prompt": "Ready the carapace armour for synchronization",
+    "prayer": "Encircle the carapace armour with incense of circuit-myrrh and whisper the Sync-Rite preamble.\nAlign neural interfaces upon the carapace armour, beseeching its Machine Spirit for synchronization.\nPulse binaric harmonies through fibre-bundles to harmonize the carapace armour's servos with the flesh.\nConduct noospheric linkage tests, invoking Omnissiah's precision for perfect synchronization.\nAffix the rite's seal with a lash of sanctified current, binding man and machine in unity.",
+    "component": "carapace armour",
+    "operation": "synchronization",
+    "spec_id": "s04844"
+  },
+  {
+    "user_prompt": "Guide me through heat sink a blessing",
+    "prayer": "Bow low before the heat sink and commence the Blessing of Thermic Equilibrium.\nAnoint its finned lattices with cryo-oblations, calling upon the Machine Spirit to embrace the blessing.\nRecite the Canticle of Venting over the heat sink, directing excess calorics to void-purgation.\nInvoke the Omnissiah's cooling gaze as thermal runes stabilize within the heat sink.\nFinalize with the Incantation of Stability, ensuring the blessed heat sink endures all infernos.",
+    "component": "heat sink",
+    "operation": "blessing",
+    "spec_id": "s04845"
+  },
+  {
+    "user_prompt": "I need to a recalibration the las-cutter",
+    "prayer": "Grasp the las-cutter in mechadendrite prayer-clasps and intone the Recalibration Doxology.\nScan emitter crystals for dissonance, purging impurities whilst beseeching the Machine Spirit's recalibration.\nAdjust phase coils with precision canticles, aligning the las-cutter to the Omnissiah's lethal spectrum.\nTest fire micro-bursts under auspex vigilance, confirming the las-cutter's recalibrated purity.\nSeal with the Binary Benediction, arming the las-cutter for righteous excision.",
+    "component": "las-cutter",
+    "operation": "recalibration",
+    "spec_id": "s04846"
+  },
+  {
+    "user_prompt": "Assist with pteraxii sterylizor a cycling",
+    "prayer": "Approach the pteraxii sterylizor with wings folded in supplication to the Omnissiah.\nInitiate cycling protocols by chanting the Rhythm of Renewal, rousing its avian Machine Spirit.\nCycle purity filters and toxin reservoirs, invoking flawless engagement for the pteraxii sterylizor.\nMonitor noospheric vitals as the pteraxii sterylizor hums in harmonious cycling.\nConclude with the Winged Litany, blessing the pteraxii sterylizor's lethal vigil.",
+    "component": "pteraxii sterylizor",
+    "operation": "cycling",
+    "spec_id": "s04847"
+  },
+  {
+    "user_prompt": "Assist with Archaeopter Fusilave a preparation",
+    "prayer": "Assemble before the Archaeopter Fusilave and proclaim the Rite of Preparation.\nAnoint its fusillade bays with sacred lubricants, awakening the Machine Spirit for preparation.\nCalibrate grav-impellers and weapon servos whilst beseeching Omnissiah's aerial wrath.\nRun pre-flight binaric audits on the Archaeopter Fusilave, ensuring ritual preparation's sanctity.\nInvoke the Skyfather's Canticle to launch the prepared Archaeopter Fusilave into battle-praise.",
+    "component": "Archaeopter Fusilave",
+    "operation": "preparation",
+    "spec_id": "s04848"
+  },
+  {
+    "user_prompt": "How do I bless the meltagun for preparation?",
+    "prayer": "Take up the meltagun in reverent grasp and begin the Preparation Benediction.\nBless its melta coils with inferno-incense, calling the Machine Spirit to readiness.\nPrime flux capacitors through incantatory chants, preparing the meltagun for atomic fury.\nVerify thermal buildup with sanctified gauges, honouring the Omnissiah's melting gaze.\nFinalize preparation with the Pyre-Seal, arming the meltagun in the God-Machine's name.",
+    "component": "meltagun",
+    "operation": "preparation",
+    "spec_id": "s04849"
+  }
+]

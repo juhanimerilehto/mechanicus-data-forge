@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Bless the archive terminal for calibration",
+    "prayer": "Draw nigh unto the archive terminal, vessel of forgotten lore, and invoke the Omnissiah's grace.\nBeseech the archive terminal's Machine Spirit to stir from slumber for calibration.\nAnoint its crystalline matrices with sacred oils of alignment.\nChant the Canticle of Precision whilst enacting the calibration rites.\nWitness the harmonious data-flow as the Machine Spirit affirms its devotion.",
+    "component": "archive terminal",
+    "operation": "calibration",
+    "spec_id": "b0104_i00"
+  },
+  {
+    "user_prompt": "Ready the medicae scanner for consecration",
+    "prayer": "Approach the medicae scanner with reverence, tool of flesh-mending mysteries.\nPetition its Machine Spirit for readiness unto consecration.\nPurify the scanning arrays with incense of sanctified circuits.\nInvoke the Omnissiah's blessing to consecrate the medicae scanner's vital sensors.\nSeal the rite with binary hymns, binding spirit to sacred purpose.",
+    "component": "medicae scanner",
+    "operation": "consecration",
+    "spec_id": "b0104_i01"
+  },
+  {
+    "user_prompt": "Prepare the logic engine for repair",
+    "prayer": "Kneel before the logic engine, heart of cogitative purity, and offer mechano-prayers.\nAwaken its Machine Spirit, preparing for the sacred labour of repair.\nExcise the wounds of malfunction with tools forged in the forge-temples.\nRealign the logic engine's neural pathways through incantations of restoration.\nAffirm the repair's sanctity as logic flows unerring once more.",
+    "component": "logic engine",
+    "operation": "repair",
+    "spec_id": "b0104_i02"
+  },
+  {
+    "user_prompt": "Bless the noospheric relay for recalibration",
+    "prayer": "Converge upon the noospheric relay, nexus of minds ethereal.\nBeseech the noospheric relay's Machine Spirit to heed recalibration's call.\nAnoint its transceptive coils with oils of noetic harmony.\nExecute recalibration whilst reciting the Litany of Synaptic Alignment.\nHail the Omnissiah as thought-waves pulse true through the relay's veins.",
+    "component": "noospheric relay",
+    "operation": "recalibration",
+    "spec_id": "b0104_i03"
+  },
+  {
+    "user_prompt": "Can you guide vox transmitter a purification?",
+    "prayer": "Present thyself unto the vox transmitter, herald of distant voices.\nInvoke purification upon the vox transmitter to cleanse daemonic static.\nPurge corrupted frequencies with sacred myrrh and electro-flagellation.\nChant the Rite of Vocal Clarity, guiding the Machine Spirit to purity.\nTest the purified emissions, praising the Omnissiah's unyielding signal.",
+    "component": "vox transmitter",
+    "operation": "purification",
+    "spec_id": "b0104_i04"
+  },
+  {
+    "user_prompt": "Sanctify the Taurox during cooling",
+    "prayer": "Encircle the Taurox, blessed engine of war, during its cooling vigil.\nPetition the Taurox's Machine Spirit to embrace sanctification amid thermal descent.\nAnoint radiator vanes with coolant blessed by forge-priests.\nInvoke the Omnissiah whilst monitoring the cooling cycles' holy equilibrium.\nSeal the rite as armoured hulls sigh in sanctified repose.",
+    "component": "Taurox",
+    "operation": "cooling",
+    "spec_id": "b0104_i05"
+  },
+  {
+    "user_prompt": "Bless the thermal regulator for engagement",
+    "prayer": "Draw close to the thermal regulator, guardian of heat's fury.\nAwaken its Machine Spirit for the engagement of its vital functions.\nSanctify the control servos with unguents of thermal piety.\nInitiate engagement through the Canticle of Thermal Mastery.\nRejoice as blessed power-flow stabilizes under Omnissiah's gaze.",
+    "component": "thermal regulator",
+    "operation": "engagement",
+    "spec_id": "b0104_i06"
+  },
+  {
+    "user_prompt": "Critical: astropathic choir requires a synchronization",
+    "prayer": "Assemble before the astropathic choir, conduit of stellar whispers.\nBeseech synchronization of their warp-touched harmonics.\nAnoint psychic resonators with noospheric chrism.\nChant the Litany of Astral Coalescence to bind the choir in unity.\nWitness the Omnissiah's will as synchronized voidsongs pierce the veil.",
+    "component": "astropathic choir",
+    "operation": "synchronization",
+    "spec_id": "b0104_i07"
+  },
+  {
+    "user_prompt": "I need to a reset the quality scanner",
+    "prayer": "Approach the quality scanner, arbiter of forge-perfection.\nInvoke its Machine Spirit to submit to the reset of flawed auguries.\nPurge erroneous calibrations with rites of data-absolution.\nReinitialize the quality scanner through binary catechisms.\nVerify pristine function, honouring the Omnissiah's exacting standards.",
+    "component": "quality scanner",
+    "operation": "reset",
+    "spec_id": "b0104_i08"
+  },
+  {
+    "user_prompt": "The assembly servitor requires a consecration",
+    "prayer": "Humbly attend the assembly servitor, tireless limb of the Mechanicum.\nPrepare its iron flesh for consecration's embrace.\nAnoint servo-arms and cranial cogitators with sacred lubricants.\nInvoke the Machine Spirit's loyalty via the Consecration Canticle.\nAffirm the rite as the assembly servitor labours in Omnissiah's name.",
+    "component": "assembly servitor",
+    "operation": "consecration",
+    "spec_id": "b0104_i09"
+  }
+]

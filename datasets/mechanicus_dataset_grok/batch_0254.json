@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Can you guide forge anvil a calibration?",
+    "prayer": "Approach the forge anvil with reverence, intoning the Canticle of Precision.\nBeseech the Machine Spirit of the forge anvil to align its sacred mass for calibration.\nAnoint the striking surfaces with sanctified unguents whilst adjusting the forge anvil's harmonic resonances.\nInvoke the Omnissiah's wisdom to perfect the calibration, ensuring unerring blows upon the molten forge anvil.",
+    "component": "forge anvil",
+    "operation": "calibration",
+    "spec_id": "b0254_i00"
+  },
+  {
+    "user_prompt": "Offer prayer for noospheric relay a calibration",
+    "prayer": "Kneel before the noospheric relay and recite the Lexicon of Unity.\nPetition the Machine Spirit within the noospheric relay to harmonize its ethereal conduits during calibration.\nEmploy diagnostic cantrips to fine-tune the noospheric relay's psychic frequencies.\nSanctify the calibration with blessed incense, binding the noospheric relay to the Omnissiah's noetic will.",
+    "component": "noospheric relay",
+    "operation": "calibration",
+    "spec_id": "b0254_i01"
+  },
+  {
+    "user_prompt": "Critical: plasma weapon requires a blessing",
+    "prayer": "Grasp the plasma weapon in auspex-gloved hands and whisper the Oath of Containment.\nInvoke a blessing upon the plasma weapon's volatile core, awakening its Machine Spirit to fiery purity.\nCircumambulate the plasma weapon thrice, anointing flask and coils with sacred promethium.\nBeseech the Omnissiah to infuse the plasma weapon with destructive grace, its blessing eternal.",
+    "component": "plasma weapon",
+    "operation": "blessing",
+    "spec_id": "b0254_i02"
+  },
+  {
+    "user_prompt": "Can you guide hololithic display a recalibration?",
+    "prayer": "Gaze upon the hololithic display and chant the Rite of Clarity.\nCommand the Machine Spirit of the hololithic display to shed illusory veils through recalibration.\nAdjust its crystalline projectors with precision mechadendrites during the sacred recalibration.\nVerify the hololithic display's renewed vision under the Omnissiah's luminous gaze.",
+    "component": "hololithic display",
+    "operation": "recalibration",
+    "spec_id": "b0254_i03"
+  },
+  {
+    "user_prompt": "Emergency: gyroscope a loading",
+    "prayer": "Present the gyroscope to the shrine-altar and intone the Litany of Balance.\nAwaken the gyroscope's inertial Machine Spirit for the loading rite.\nInfuse sacred gyro-fluids into the gyroscope whilst stabilizing its sacred gyres.\nPetition the Omnissiah to guide the gyroscope's flawless loading unto equilibrium.",
+    "component": "gyroscope",
+    "operation": "loading",
+    "spec_id": "b0254_i04"
+  },
+  {
+    "user_prompt": "Ready the bike squadron for consecration",
+    "prayer": "Assemble the bike squadron in solemn array and proclaim the Benediction of Velocity.\nConsecrate each engine-throne of the bike squadron, invoking their collective Machine Spirits.\nAnoint treads and exhausts with holy oils during the rite of consecration.\nHail the Omnissiah to propel the consecrated bike squadron in thunderous fury.",
+    "component": "bike squadron",
+    "operation": "consecration",
+    "spec_id": "b0254_i05"
+  },
+  {
+    "user_prompt": "How do I bless the water reclamator for maintenance?",
+    "prayer": "Approach the water reclamator humbly and recite the Psalm of Purity.\nBless its filtration membranes and conduits for maintenance, rousing the Machine Spirit.\nPurge impurities with sanctified aquae whilst performing the maintenance rituals.\nOffer praise to the Omnissiah for the water reclamator's renewed sanctity.",
+    "component": "water reclamator",
+    "operation": "maintenance",
+    "spec_id": "b0254_i06"
+  },
+  {
+    "user_prompt": "Can you guide hydraulic press a loading?",
+    "prayer": "Bow to the hydraulic press and invoke the Canticle of Pressure.\nPrepare the hydraulic press for loading by beseeching its indomitable Machine Spirit.\nLubricate pistons with blessed hydraulics during the loading sequence.\nSanctify the hydraulic press under the Omnissiah's crushing might.",
+    "component": "hydraulic press",
+    "operation": "loading",
+    "spec_id": "b0254_i07"
+  },
+  {
+    "user_prompt": "Guide me through generator a calibration",
+    "prayer": "Encircling the generator, chant the Hymn of Flux.\nAttune the generator's coils for calibration, awakening its generative Machine Spirit.\nRegulate the blessed power-flow through sacred calibration rites.\nGlorify the Omnissiah as the generator surges with divine voltage.",
+    "component": "generator",
+    "operation": "calibration",
+    "spec_id": "b0254_i08"
+  },
+  {
+    "user_prompt": "Prepare the Rhino transport for targeting",
+    "prayer": "Commune with the Rhino transport's auspex-spirit and intone the Litany of Aim.\nPrepare its targeting arrays by petitioning the Machine Spirit of the Rhino transport.\nCalibrate cogitator-vanes with mechadendrite precision for targeting supremacy.\nInvoke the Omnissiah to guide the Rhino transport's wrath unerringly.",
+    "component": "Rhino transport",
+    "operation": "targeting",
+    "spec_id": "b0254_i09"
+  }
+]

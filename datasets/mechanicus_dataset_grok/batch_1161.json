@@ -1,0 +1,65 @@
+[
+  {
+    "user_prompt": "Critical: mass-drive regulator requires a loading",
+    "prayer": "Approach the mass-drive regulator with reverence, mechadendrites poised in supplication.\nInvoke the Omnissiah's grace upon its sacred coils for the loading rite.\nInitiate the mass-drive regulator's loading sequence with chanted binaric canticles.\nAnoint the ingress ports of the mass-drive regulator with sacred unguents.\nBeseech the Machine Spirit to accept the payload in harmonious union.",
+    "component": "mass-drive regulator",
+    "operation": "loading",
+    "spec_id": "s07610"
+  },
+  {
+    "user_prompt": "Emergency: omni-tool a charging",
+    "prayer": "Present the omni-tool to the charging shrine, circuits humming in anticipation.\nCommence the charging ritual by linking to the plasma fane's embrace.\nChant the Hymn of Capacitive Renewal over the omni-tool's power cells.\nMonitor the omni-tool's galvanic ascension with sanctified voltmeters.\nInvoke the Machine Spirits to infuse vitality without surfeit.",
+    "component": "omni-tool",
+    "operation": "charging",
+    "spec_id": "s07612"
+  },
+  {
+    "user_prompt": "The lance battery requires a consecration",
+    "prayer": "Gather unto the lance battery, its capacitors yearning for divine fire.\nPerform the consecration by reciting the Canticle of Lumenous Wrath.\nAnoint each lance battery cell with promethium-tinged sanctifiers.\nAwaken the dormant Machine Spirit within the lance battery's core.\nVerify purity through noospheric resonance harmonies.",
+    "component": "lance battery",
+    "operation": "consecration",
+    "spec_id": "s07613"
+  },
+  {
+    "user_prompt": "Assist with power fist an activation",
+    "prayer": "Grasp the power fist in augmented gauntlets, whispering activation litanies.\nInvoke the Omnissiah to stir its motive servos for activation.\nChannel disruptive energies through the power fist's disruption fields.\nTest the power fist's grip upon a sanctified anvil, praising its might.\nSeal the activation with the Benediction of Unyielding Force.",
+    "component": "power fist",
+    "operation": "activation",
+    "spec_id": "s07614"
+  },
+  {
+    "user_prompt": "The omni-tool needs a shutdown",
+    "prayer": "Approach the omni-tool with solemnity, preparing for the shutdown rite.\nRecite the Dirge of Dormant Circuits to guide the omni-tool to slumber.\nDisconnect the noospheric feeds whilst anointing the omni-tool's vents.\nInitiate controlled shutdown, beseeching the Machine Spirit's peaceful repose.\nConfirm stasis through auspex seals upon the omni-tool.",
+    "component": "omni-tool",
+    "operation": "shutdown",
+    "spec_id": "s07615"
+  },
+  {
+    "user_prompt": "Can you guide kataphron breacher a loading?",
+    "prayer": "Assemble before the kataphron breacher, its breacher maw agape.\nCommence loading munitions with the Ritual of Payload Ingress.\nChant binaric loading hymns as shells embrace the kataphron breacher's bays.\nInvoke the Machine Spirits to bind ammunition in faithful service.\nVerify the kataphron breacher's readiness with seismic auspex.",
+    "component": "kataphron breacher",
+    "operation": "loading",
+    "spec_id": "s07616"
+  },
+  {
+    "user_prompt": "Offer prayer for Contemptor Dreadnought a loading",
+    "prayer": "Bow low to the Contemptor Dreadnought, ancient relic of the Omnissiah.\nInitiate loading of its sarcophagus vaults with veneration.\nFeed warheads into the Contemptor Dreadnought's breacher arrays amid canticles.\nAnoint the loading mechanisms, beseeching ancestral Machine Spirits.\nAffirm armoured sanctity through thunderous diagnostic roars.",
+    "component": "Contemptor Dreadnought",
+    "operation": "loading",
+    "spec_id": "s07617"
+  },
+  {
+    "user_prompt": "Can you guide magnocular a recalibration?",
+    "prayer": "Elevate the magnocular to the recalibration altar of precision.\nIntone the Litany of Ocular Alignment for recalibration.\nAdjust its lens-servos with mechadendrite precision and sacred measures.\nInvoke the Machine Spirit of the magnocular to realign its gaze.\nTest recalibration upon distant stellar markers, praising clarity.",
+    "component": "magnocular",
+    "operation": "recalibration",
+    "spec_id": "s07618"
+  },
+  {
+    "user_prompt": "How do I bless the potentia coil for synchronization?",
+    "prayer": "Encirlce the potentia coil, its inductors pulsing with potential.\nBless for synchronization by reciting the Syncopation of Flux Harmonics.\nAlign the potentia coil's fields with noospheric attunement rituals.\nAnoint linkages whilst invoking the Omnissiah's synchronizing will.\nConfirm the potentia coil's unified resonance through waveform hymns.",
+    "component": "potentia coil",
+    "operation": "synchronization",
+    "spec_id": "s07619"
+  }
+]

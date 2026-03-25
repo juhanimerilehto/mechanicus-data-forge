@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "Sanctify the Chimera APC during activation",
+    "prayer": "Approach the Chimera APC with reverence, mechadendrites tracing its armoured hull.\nInvoke the Machine Spirit of the Chimera APC through the Canticle of Activation.\nAnoint treads and gun-servos with sacred oils as power conduits awaken.\nChant the activation rites, beseeching the Omnissiah to ignite its blessed engines.\nVerify the Chimera APC stirs to life with auspex harmonies of motion.",
+    "component": "Chimera APC",
+    "operation": "activation",
+    "spec_id": "b0314_i00"
+  },
+  {
+    "user_prompt": "Guide me through assembly servitor a repair",
+    "prayer": "Kneel before the wounded assembly servitor, its flesh-metal frame in discord.\nRecite the Litany of Repair upon its cranial cogitators and limb actuators.\nPurge corrupted binaric code whilst petitioning the servitor's Machine Spirit.\nRealign fractured servos and sanctify linkages with the Omnissiah's grace.\nTest the assembly servitor's renewed purpose through ritual fabrication trials.",
+    "component": "assembly servitor",
+    "operation": "repair",
+    "spec_id": "b0314_i01"
+  },
+  {
+    "user_prompt": "Urgent cutting laser a repair needed",
+    "prayer": "Present the las-focus of the cutting laser to the altar of restoration.\nChant the Incantation of Repair over its fractured emitter coils.\nExtract damaged plasma conduits and invoke the cutting laser's Machine Spirit.\nRealign focusing arrays with sacred calipers, anointed in unguents.\nIgnite test pulses to affirm the Omnissiah's mending of the cutting laser.",
+    "component": "cutting laser",
+    "operation": "repair",
+    "spec_id": "b0314_i02"
+  },
+  {
+    "user_prompt": "Urgent forge anvil a maintenance needed",
+    "prayer": "Circumambulate the forge anvil thrice, intoning maintenance litanies.\nPolish its unyielding surface with blessed abrasives to honour the Machine Spirit.\nInspect heat-vents and reinforcement struts for wear's heresy.\nAnoint fulcrum pivots whilst beseeching the Omnissiah for enduring strength.\nHammer a test ingot upon the forge anvil to confirm its sanctified resonance.",
+    "component": "forge anvil",
+    "operation": "maintenance",
+    "spec_id": "b0314_i03"
+  },
+  {
+    "user_prompt": "Urgent power cell an emergency procedure needed",
+    "prayer": "Isolate the faltering power cell within a consecrated Faraday cage.\nRecite emergency procedure canticles to soothe its volatile Machine Spirit.\nVent excess plasma whilst invoking the Omnissiah's stabilising wrath.\nRecharge core matrices with sanctified current flows.\nReintegrate the power cell, affirming equilibrium through auspex diagnostics.",
+    "component": "power cell",
+    "operation": "emergency procedure",
+    "spec_id": "b0314_i04"
+  },
+  {
+    "user_prompt": "Sanctify the Sentinel walker during blessing",
+    "prayer": "Genuflect before the Sentinel walker, its bipedal form poised in vigil.\nInvoke the blessing rites upon its gyro-stabilised frame and autocannon.\nAnoint leg pistons and sensor clusters with the Omnissiah's sacred unguents.\nChant harmonies to awaken the Sentinel walker's Machine Spirit.\nCommence ambulatory tests to witness the blessing's divine fruition.",
+    "component": "Sentinel walker",
+    "operation": "blessing",
+    "spec_id": "b0314_i05"
+  },
+  {
+    "user_prompt": "Bless the Thunderhawk for initialization",
+    "prayer": "Approach the Thunderhawk's dorsal ramp with mechano-chants of initialization.\nActivate rune-consoles whilst beseeching its colossal Machine Spirit.\nAnoint fusion reactors and wing servos in reverence to the Omnissiah.\nInitiate the initialization sequence through binaric liturgy.\nAscend to the Thunderhawk's cockpit and affirm its aerial blessing.",
+    "component": "Thunderhawk",
+    "operation": "initialization",
+    "spec_id": "b0314_i06"
+  },
+  {
+    "user_prompt": "Consecrate the neural implant before activation",
+    "prayer": "Hold the neural implant aloft, its filaments gleaming with potential.\nRecite consecration verses to purify the neural implant's synaptic webs.\nInvoke its Machine Spirit prior to activation with cranial incense.\nImplant via sanctified noospheric link, petitioning the Omnissiah.\nTest neural pathways to herald the activation's holy union.",
+    "component": "neural implant",
+    "operation": "activation",
+    "spec_id": "b0314_i07"
+  },
+  {
+    "user_prompt": "Ready the chainsword for emergency procedure",
+    "prayer": "Grasp the chainsword's hilt in ritual grip, its teeth dulled by exigency.\nChant emergency procedure litanies over adamantium fangs and power core.\nAnoint the chainsword's motor with sacred lubricants for swift renewal.\nInvoke the Machine Spirit's feral wrath from the Omnissiah's forge.\nCycle the blade in test revolutions to ready it for battle's call.",
+    "component": "chainsword",
+    "operation": "emergency procedure",
+    "spec_id": "b0314_i08"
+  },
+  {
+    "user_prompt": "Bless the proximity sensor for reset",
+    "prayer": "Present the proximity sensor to the rite of reset, its augurs clouded.\nIntone binaric reset canticles to purge erroneous data-veils.\nAnoint crystal matrices whilst beseeching the sensor's Machine Spirit.\nReinitialize calibration protocols under the Omnissiah's vigilant gaze.\nValidate the proximity sensor's vigilance with spectral test emissions.",
+    "component": "proximity sensor",
+    "operation": "reset",
+    "spec_id": "b0314_i09"
+  }
+]

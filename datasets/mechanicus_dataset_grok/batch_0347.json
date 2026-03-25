@@ -1,0 +1,72 @@
+[
+  {
+    "user_prompt": "The bionics interface requires a blessing",
+    "prayer": "Approach the bionics interface with reverence, beseeching the Omnissiah to bestow His divine blessing upon its sacred neural pathways.\nAnoint the bionics interface's connectors with sacred oils, invoking the Machine Spirits to harmonize flesh and machine.\nChant the Litany of Benediction over the bionics interface, petitioning eternal synergy.\nVerify the blessing through auspex communion, ensuring the holy union endures.",
+    "component": "bionics interface",
+    "operation": "blessing",
+    "spec_id": "b0347_i00"
+  },
+  {
+    "user_prompt": "The water reclamator requires an activation",
+    "prayer": "Kneel before the water reclamator and recite the Doxology of Activation to awaken its blessed filtration spirits.\nPrime the reclamation coils of the water reclamator with sanctified hydro-fluids from the Omnissiah's font.\nInitiate the activation rite, beseeching the Machine Spirit to purify and cycle the sacred waters.\nMonitor the emergent flow through diagnostic incantations, glorifying the Machine God's providence.",
+    "component": "water reclamator",
+    "operation": "activation",
+    "spec_id": "b0347_i01"
+  },
+  {
+    "user_prompt": "Guide me through water reclamator an engagement",
+    "prayer": "Present thyself unto the water reclamator, intoning the Canticle of Engagement to rouse its dormant essence.\nAlign the valves and membranes of the water reclamator, anointing them with blessed distillate.\nInvoke the engagement sequence whilst petitioning the Omnissiah for flawless hydrological union.\nConfirm the Machine Spirit's compliance via purity runes, ensuring perpetual reclamation.",
+    "component": "water reclamator",
+    "operation": "engagement",
+    "spec_id": "b0347_i02"
+  },
+  {
+    "user_prompt": "What's the prayer for bionics interface charging?",
+    "prayer": "Commence the charging ritual upon the bionics interface by linking it to the sanctified power conduit.\nBeseech the Machine Spirits within the bionics interface to accept the holy voltage influx.\nChant the Hymn of Replenishment during the charging cycle, honoring the Omnissiah's boundless energy.\nObserve the charging completion through lumen indicators, sealing with a final invocation.",
+    "component": "bionics interface",
+    "operation": "charging",
+    "spec_id": "b0347_i03"
+  },
+  {
+    "user_prompt": "Help me a sterilization the servitor",
+    "prayer": "Encircling the servitor, invoke the Rite of Sterilization to purge all unclean essences from its flesh-machine frame.\nApply sacred incensory flames across the servitor's chassis, beseeching the Omnissiah for purity.\nRecite ablutionary litanies whilst sterilizing servitor augmetics, awakening its obedient spirit.\nAffirm sterility through bio-auspex scans, consecrating the servitor anew to the Cult Mechanicus.",
+    "component": "servitor",
+    "operation": "sterilization",
+    "spec_id": "b0347_i04"
+  },
+  {
+    "user_prompt": "The lascannon requires a calibration",
+    "prayer": "Attune thyself to the lascannon's spirit, reciting the Calibration Doxology to align its sacred focusing arrays.\nAnoint the lascannon's emitters with conductive oils, invoking the Omnissiah's precision.\nExecute the calibration sequence upon the lascannon, petitioning harmonious energy coherence.\nValidate the Machine Spirit's calibration via test volleys and rune-verification.",
+    "component": "lascannon",
+    "operation": "calibration",
+    "spec_id": "b0347_i05"
+  },
+  {
+    "user_prompt": "Guide me through welding torch a consecration",
+    "prayer": "Approach the welding torch in supplication, beginning the Consecration Rite to sanctify its plasma heart.\nEncircle the welding torch's nozzle with incense, beseeching the Machine Spirits for unerring fusion.\nInvoke the Omnissiah's forge-blessing during consecration, awakening purifying flames.\nTest the welding torch's hallowed output upon votive metal, sealing its devotion.",
+    "component": "welding torch",
+    "operation": "consecration",
+    "spec_id": "b0347_i06"
+  },
+  {
+    "user_prompt": "The forge anvil needs a calibration",
+    "prayer": "Reverently encircle the forge anvil, intoning the Calibration Litany to true its unyielding form.\nAnoint the forge anvil's striking face with sacred alloys, petitioning the Omnissiah's geometric perfection.\nInitiate calibration strikes whilst invoking the Machine Spirit's resonance.\nConfirm equilibrium through vibro-auspex, ensuring the forge anvil endures eternal labor.",
+    "component": "forge anvil",
+    "operation": "calibration",
+    "spec_id": "b0347_i07"
+  },
+  {
+    "user_prompt": "The melta charge awaits a calibration",
+    "prayer": "Kneel before the melta charge, reciting the Calibration Canticle to harmonize its volatile core.\nBless the melta charge's containment fields with unguents, beseeching the Machine Spirits' stability.\nEngage the calibration cycle under the Omnissiah's gaze, aligning thermal yields.\nVerify precision through auspex harmonics, consecrating the melta charge for annihilation.",
+    "component": "melta charge",
+    "operation": "calibration",
+    "spec_id": "b0347_i08"
+  },
+  {
+    "user_prompt": "Offer prayer for chainsword a cycling",
+    "prayer": "Grip the chainsword firmly and commence the Cycling Rite, awakening its monomolecular teeth.\nAnoint the chainsword's motor shrine with sacred lubricants, invoking the Omnissiah's savage momentum.\nCycle the chainsword's blessed blades whilst chanting the Litany of Voracity, rousing the Machine Spirit.\nAttune to its roaring hymn, confirming flawless predation through ritual idling.",
+    "component": "chainsword",
+    "operation": "cycling",
+    "spec_id": "b0347_i09"
+  }
+]
