@@ -1,10 +1,36 @@
 #!/usr/bin/env python3
+"""
+rating.py
+
+Reads JSONL generation files (one per checkpoint) and produces an Excel
+spreadsheet for manual or automated scoring.
+
+Usage:
+  python rating.py                          # defaults: --gen-dir generations3 --out ratings3.xlsx
+  python rating.py --gen-dir my_gens --out my_ratings.xlsx
+
+Input JSONL schema (one object per line):
+  {"user_prompt": "...", "completion_only": "..."}
+
+Output Excel columns:
+  Prompt | checkpoint1 | rating1 | checkpoint2 | rating2 | ... | checkpoint5 | rating5
+"""
+import argparse
 import json
 from pathlib import Path
 
 import pandas as pd
 
-GEN_DIR = Path("generations3")
+
+def parse_args() -> argparse.Namespace:
+    ap = argparse.ArgumentParser(description="Build rating spreadsheet from generation JSONL files")
+    ap.add_argument("--gen-dir", default="generations3", help="Directory containing JSONL files (default: generations3)")
+    ap.add_argument("--out", default="ratings3.xlsx", help="Output Excel file (default: ratings3.xlsx)")
+    return ap.parse_args()
+
+
+args = parse_args()
+GEN_DIR = Path(args.gen_dir)
 
 FILES = {
     "checkpoint1": GEN_DIR / "checkpoints_checkpoint_best_100.jsonl",
@@ -14,7 +40,7 @@ FILES = {
     "checkpoint5": GEN_DIR / "checkpoints_grok_data_checkpoint_best_100.jsonl",
 }
 
-OUT_XLSX = Path("ratings3.xlsx")
+OUT_XLSX = Path(args.out)
 
 
 def read_jsonl(path: Path) -> list[dict]:
@@ -70,7 +96,7 @@ def main():
         "checkpoint4": [maps["checkpoint4"].get(p, "") for p in prompts_sorted],
         "rating4": [""] * len(prompts_sorted),
         "checkpoint5": [maps["checkpoint5"].get(p, "") for p in prompts_sorted],
-        "rating4": [""] * len(prompts_sorted),
+        "rating5": [""] * len(prompts_sorted),
     })
 
     # Write Excel

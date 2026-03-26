@@ -47,9 +47,18 @@ python strip_dataset.py # normalize to clean prompt+prayer format
 ### Rate Output Quality
 
 ```bash
-python rating.py            # generate Excel rating sheet from model outputs
-python rating-automation.py # automated scoring (object consistency, format)
+# Step 1 — build rating spreadsheet from JSONL generation files
+python rating.py --gen-dir generations3 --out ratings3.xlsx
+
+# Step 2 — auto-score all 5 checkpoints via Grok (reads Step 1 output)
+python rating-automation.py --in ratings3.xlsx --out ratings_scored.xlsx
 ```
+
+`rating.py` reads JSONL files (one per checkpoint) from `--gen-dir` and writes
+an Excel sheet with columns `Prompt | checkpoint1 | rating1 | ... | checkpoint5 | rating5`.
+
+`rating-automation.py` reads that sheet, calls Grok to score each (prompt, output)
+pair, and writes numeric scores + full JSON back to `--out`.
 
 ---
 
@@ -106,8 +115,8 @@ MODEL           = "grok-4-1-fast-reasoning"
 | `generate_dataset.py` | Main generator — reads Excel, calls Grok, writes batches |
 | `merge_data.py` | Combine batch JSON files into one dataset file |
 | `strip_dataset.py` | Normalize dataset to clean prompt+prayer format |
-| `rating.py` | Generate Excel rating sheet from model outputs |
-| `rating-automation.py` | Automated quality scoring |
+| `rating.py` | Build Excel rating sheet from JSONL generation files (`--gen-dir`, `--out`) |
+| `rating-automation.py` | Auto-score all 5 checkpoints via Grok (`--in`, `--out`) |
 | `mechanicus_components.xlsx` | Master component/operation config |
 | `datasets/mechanicus_dataset_grok/` | Final training dataset |
 | `.env.example` | API key template |

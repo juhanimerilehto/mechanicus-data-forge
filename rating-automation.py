@@ -2,29 +2,35 @@
 """
 rating-automation.py
 
-Reads an Excel sheet that contains:
+Reads an Excel sheet produced by rating.py and scores each checkpoint output
+using xAI Grok as an automated evaluator.
+
+Input Excel columns (as produced by rating.py):
   Prompt,
   checkpoint1, rating1,
   checkpoint2, rating2,
-  checkpoint3, rating3
+  checkpoint3, rating3,
+  checkpoint4, rating4,
+  checkpoint5, rating5
 
 For each row, sends (Prompt, checkpointX) to xAI Grok (grok-4-1-fast-reasoning)
-to evaluate alignment of output to prompt, and writes results back to Excel.
+and writes numeric scores + full JSON back to the sheet.
 
 Robustness features:
-- Keeps rating1/2/3 as NUMERIC overall scores (easy to sort/filter)
-- Stores full JSON in rating_json1/2/3 (text columns)
+- Keeps rating1-5 as NUMERIC overall scores (easy to sort/filter)
+- Stores full JSON in rating_json1-5 (text columns)
 - Works even if rating columns are empty and inferred as float
+- Skips already-scored rows unless --overwrite-existing is set
 - API key read from .env (XAI_API_KEY=...)
 
 Usage:
   pip install pandas openpyxl python-dotenv requests
-  python rating-automation.py --in ratings.xlsx --out ratings_scored.xlsx
+  python rating-automation.py --in ratings3.xlsx --out ratings_scored.xlsx
 
 Optional:
   --overwrite-existing        # re-score even if rating exists
   --max-rows 100              # only first N rows
-  --sleep 0.2                 # delay between calls
+  --sleep 0.2                 # delay between API calls (default: 0.2s)
 """
 
 from __future__ import annotations
@@ -137,19 +143,26 @@ def ensure_columns(df: pd.DataFrame) -> pd.DataFrame:
       rating_json1/2/3 as object dtype (strings)
       rating1/2/3 left as-is (numeric-friendly); we write numeric scores into them.
     """
-    required = ["Prompt", "checkpoint1", "rating1", "checkpoint2", "rating2", "checkpoint3", "rating3"]
+    required = [
+        "Prompt",
+        "checkpoint1", "rating1",
+        "checkpoint2", "rating2",
+        "checkpoint3", "rating3",
+        "checkpoint4", "rating4",
+        "checkpoint5", "rating5",
+    ]
     missing = [c for c in required if c not in df.columns]
     if missing:
         raise ValueError(f"Missing required columns: {missing}. Found columns: {list(df.columns)}")
 
     # Add JSON columns if absent
-    for k in (1, 2, 3):
+    for k in (1, 2, 3, 4, 5):
         jcol = f"rating_json{k}"
         if jcol not in df.columns:
             df[jcol] = ""
 
     # Force JSON columns to object dtype (strings)
-    for col in ["rating_json1", "rating_json2", "rating_json3"]:
+    for col in ["rating_json1", "rating_json2", "rating_json3", "rating_json4", "rating_json5"]:
         df[col] = df[col].astype("object")
 
     return df
@@ -182,7 +195,7 @@ def main() -> None:
         prompt_val = df.at[i, "Prompt"]
         prompt = "" if is_empty_cell(prompt_val) else str(prompt_val)
 
-        for k in (1, 2, 3):
+        for k in (1, 2, 3, 4, 5):
             out_col = f"checkpoint{k}"
             score_col = f"rating{k}"         # numeric score
             json_col = f"rating_json{k}"     # full JSON text
