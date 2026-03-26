@@ -46,19 +46,31 @@ python strip_dataset.py # normalize to clean prompt+prayer format
 
 ### Rate Output Quality
 
-```bash
-# Step 1 — build rating spreadsheet from JSONL generation files
-python rating.py --gen-dir generations3 --out ratings3.xlsx
+These tools are for comparing outputs across multiple model checkpoints —
+useful when you have run generation on several checkpoints and want to
+evaluate which performs best.
 
-# Step 2 — auto-score all 5 checkpoints via Grok (reads Step 1 output)
-python rating-automation.py --in ratings3.xlsx --out ratings_scored.xlsx
+```bash
+# Step 1 — build side-by-side spreadsheet from a folder of JSONL files
+#   (one JSONL per checkpoint; column names come from the filenames)
+python rating.py --gen-dir path/to/generations --out ratings.xlsx
+
+# Step 2 — auto-score via Grok (reads the sheet from Step 1)
+python rating-automation.py --in ratings.xlsx --out ratings_scored.xlsx
 ```
 
-`rating.py` reads JSONL files (one per checkpoint) from `--gen-dir` and writes
-an Excel sheet with columns `Prompt | checkpoint1 | rating1 | ... | checkpoint5 | rating5`.
+`rating.py` scans `--gen-dir` for all `*.jsonl` files and builds an Excel
+sheet with alternating output/rating columns — one pair per file found.
+No filenames are hardcoded; the script works with any number of checkpoints.
 
-`rating-automation.py` reads that sheet, calls Grok to score each (prompt, output)
-pair, and writes numeric scores + full JSON back to `--out`.
+`rating-automation.py` reads that sheet, discovers checkpoint columns
+automatically, and calls Grok to score each (prompt, output) pair.
+Numeric scores and full JSON diagnostics are written back to `--out`.
+
+**Input JSONL format** (one object per line):
+```json
+{"user_prompt": "Prayer for activating a plasma reactor.", "completion_only": "Approach the plasma reactor..."}
+```
 
 ---
 
@@ -115,8 +127,8 @@ MODEL           = "grok-4-1-fast-reasoning"
 | `generate_dataset.py` | Main generator — reads Excel, calls Grok, writes batches |
 | `merge_data.py` | Combine batch JSON files into one dataset file |
 | `strip_dataset.py` | Normalize dataset to clean prompt+prayer format |
-| `rating.py` | Build Excel rating sheet from JSONL generation files (`--gen-dir`, `--out`) |
-| `rating-automation.py` | Auto-score all 5 checkpoints via Grok (`--in`, `--out`) |
+| `rating.py` | Build side-by-side Excel sheet from any number of JSONL files (`--gen-dir`, `--out`) |
+| `rating-automation.py` | Auto-score discovered checkpoint columns via Grok (`--in`, `--out`) |
 | `mechanicus_components.xlsx` | Master component/operation config |
 | `datasets/mechanicus_dataset_grok/` | Final training dataset |
 | `.env.example` | API key template |

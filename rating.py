@@ -2,50 +2,40 @@
 """
 rating.py
 
-Reads JSONL generation files (one per checkpoint) and produces an Excel
-spreadsheet for manual or automated scoring.
+Scans a directory for JSONL generation files and produces a side-by-side
+Excel spreadsheet for manual or automated scoring.
+
+Each JSONL file represents one checkpoint/model run. The script discovers
+all *.jsonl files in the directory automatically — no hardcoded filenames.
+Column names are derived from the JSONL filenames.
 
 Usage:
-  python rating.py                          # defaults: --gen-dir generations3 --out ratings3.xlsx
-  python rating.py --gen-dir my_gens --out my_ratings.xlsx
+  python rating.py --gen-dir path/to/generations --out ratings.xlsx
 
 Input JSONL schema (one object per line):
   {"user_prompt": "...", "completion_only": "..."}
 
 Output Excel columns:
-  Prompt | checkpoint1 | rating1 | checkpoint2 | rating2 | ... | checkpoint5 | rating5
+  Prompt | <name1> | rating_<name1> | <name2> | rating_<name2> | ...
+
+where <name> is the stem of each discovered JSONL file.
 """
 import argparse
 import json
+import string
 from pathlib import Path
 
 import pandas as pd
 
 
 def parse_args() -> argparse.Namespace:
-    ap = argparse.ArgumentParser(description="Build rating spreadsheet from generation JSONL files")
-    ap.add_argument("--gen-dir", default="generations3", help="Directory containing JSONL files (default: generations3)")
-    ap.add_argument("--out", default="ratings3.xlsx", help="Output Excel file (default: ratings3.xlsx)")
+    ap = argparse.ArgumentParser(description="Build rating spreadsheet from JSONL generation files")
+    ap.add_argument("--gen-dir", required=True, help="Directory containing *.jsonl generation files")
+    ap.add_argument("--out", required=True, help="Output Excel file (e.g. ratings.xlsx)")
     return ap.parse_args()
 
 
-args = parse_args()
-GEN_DIR = Path(args.gen_dir)
-
-FILES = {
-    "checkpoint1": GEN_DIR / "checkpoints_checkpoint_best_100.jsonl",
-    "checkpoint2": GEN_DIR / "checkpoints2_checkpoint_best_100.jsonl",
-    "checkpoint3": GEN_DIR / "checkpoints3_checkpoint_best_100.jsonl",
-    "checkpoint4": GEN_DIR / "checkpoints_strong1_checkpoint_best_100.jsonl",
-    "checkpoint5": GEN_DIR / "checkpoints_grok_data_checkpoint_best_100.jsonl",
-}
-
-OUT_XLSX = Path(args.out)
-
-
 def read_jsonl(path: Path) -> list[dict]:
-    if not path.exists():
-        raise FileNotFoundError(f"Missing file: {path}")
     rows = []
     with path.open("r", encoding="utf-8") as f:
         for line_no, line in enumerate(f, 1):
@@ -60,7 +50,7 @@ def read_jsonl(path: Path) -> list[dict]:
 
 
 def build_map(rows: list[dict]) -> dict[str, str]:
-    """Map user_prompt -> completion_only"""
+    """Map user_prompt -> completion_only."""
     out = {}
     for item in rows:
         if "user_prompt" not in item:
@@ -73,59 +63,81 @@ def build_map(rows: list[dict]) -> dict[str, str]:
     return out
 
 
-def main():
-    maps = {}
-    all_prompts = set()
+def col_letter(index: int) -> str:
+    """Return Excel column letter for zero-based column index (A, B, ..., Z, AA, ...)."""
+    result = ""
+    index += 1
+    while index > 0:
+        index, remainder = divmod(index - 1, 26)
+        result = string.ascii_uppercase[remainder] + result
+    return result
 
-    for label, path in FILES.items():
+
+def main():
+    args = parse_args()
+    gen_dir = Path(args.gen_dir)
+
+    if not gen_dir.is_dir():
+        raise SystemExit(f"[!] Directory not found: {gen_dir}")
+
+    jsonl_files = sorted(gen_dir.glob("*.jsonl"))
+    if not jsonl_files:
+        raise SystemExit(f"[!] No *.jsonl files found in: {gen_dir}")
+
+    print(f"[+] Found {len(jsonl_files)} JSONL file(s) in '{gen_dir}':")
+    for f in jsonl_files:
+        print(f"    {f.name}")
+
+    # Load all files; column name = filename stem
+    maps = {}
+    all_prompts: set[str] = set()
+    for path in jsonl_files:
+        name = path.stem
         rows = read_jsonl(path)
         m = build_map(rows)
-        maps[label] = m
+        maps[name] = m
         all_prompts.update(m.keys())
+        print(f"    [{name}] {len(rows)} rows loaded")
 
     prompts_sorted = sorted(all_prompts)
+    names = list(maps.keys())  # preserves sorted file order
 
-    df = pd.DataFrame({
-        "Prompt": prompts_sorted,
-        "checkpoint1": [maps["checkpoint1"].get(p, "") for p in prompts_sorted],
-        "rating1": [""] * len(prompts_sorted),
-        "checkpoint2": [maps["checkpoint2"].get(p, "") for p in prompts_sorted],
-        "rating2": [""] * len(prompts_sorted),
-        "checkpoint3": [maps["checkpoint3"].get(p, "") for p in prompts_sorted],
-        "rating3": [""] * len(prompts_sorted),
-        "checkpoint4": [maps["checkpoint4"].get(p, "") for p in prompts_sorted],
-        "rating4": [""] * len(prompts_sorted),
-        "checkpoint5": [maps["checkpoint5"].get(p, "") for p in prompts_sorted],
-        "rating5": [""] * len(prompts_sorted),
-    })
+    # Build DataFrame dynamically
+    data: dict[str, list] = {"Prompt": prompts_sorted}
+    for name in names:
+        data[name] = [maps[name].get(p, "") for p in prompts_sorted]
+        data[f"rating_{name}"] = [""] * len(prompts_sorted)
+
+    df = pd.DataFrame(data)
 
     # Write Excel
-    with pd.ExcelWriter(OUT_XLSX, engine="openpyxl") as writer:
+    out_path = Path(args.out)
+    with pd.ExcelWriter(out_path, engine="openpyxl") as writer:
         df.to_excel(writer, index=False, sheet_name="ratings")
 
-        # Basic formatting
         ws = writer.sheets["ratings"]
-        ws.freeze_panes = "B2"  # freeze header + Prompt column
-        ws.column_dimensions["A"].width = 45
-        ws.column_dimensions["B"].width = 65
-        ws.column_dimensions["C"].width = 10
-        ws.column_dimensions["D"].width = 65
-        ws.column_dimensions["E"].width = 10
-        ws.column_dimensions["F"].width = 65
-        ws.column_dimensions["G"].width = 10
-        ws.column_dimensions["H"].width = 65
-        ws.column_dimensions["I"].width = 10
-        ws.column_dimensions["J"].width = 65
-        ws.column_dimensions["K"].width = 10
+        ws.freeze_panes = "B2"
 
-        # Wrap text in response columns
+        # Column layout: A=Prompt, then alternating output/rating pairs
         from openpyxl.styles import Alignment
         wrap = Alignment(wrap_text=True, vertical="top")
-        for col in ["A", "B", "D", "F", "H", "J"]:
+
+        ws.column_dimensions["A"].width = 45
+        wrap_cols = ["A"]
+
+        for i, name in enumerate(names):
+            out_col = col_letter(1 + i * 2)       # B, D, F, ...
+            rating_col = col_letter(1 + i * 2 + 1) # C, E, G, ...
+            ws.column_dimensions[out_col].width = 65
+            ws.column_dimensions[rating_col].width = 12
+            wrap_cols.append(out_col)
+
+        for col in wrap_cols:
             for row in range(2, 2 + len(df)):
                 ws[f"{col}{row}"].alignment = wrap
 
-    print(f"[ok] wrote: {OUT_XLSX.resolve()}")
+    print(f"[ok] Wrote: {out_path.resolve()}")
+    print(f"     {len(prompts_sorted)} prompts × {len(names)} checkpoints")
 
 
 if __name__ == "__main__":

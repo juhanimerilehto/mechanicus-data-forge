@@ -2,35 +2,22 @@
 """
 rating-automation.py
 
-Reads an Excel sheet produced by rating.py and scores each checkpoint output
-using xAI Grok as an automated evaluator.
+Reads an Excel sheet produced by rating.py and auto-scores each checkpoint
+output using xAI Grok as an automated evaluator.
 
-Input Excel columns (as produced by rating.py):
-  Prompt,
-  checkpoint1, rating1,
-  checkpoint2, rating2,
-  checkpoint3, rating3,
-  checkpoint4, rating4,
-  checkpoint5, rating5
-
-For each row, sends (Prompt, checkpointX) to xAI Grok (grok-4-1-fast-reasoning)
-and writes numeric scores + full JSON back to the sheet.
-
-Robustness features:
-- Keeps rating1-5 as NUMERIC overall scores (easy to sort/filter)
-- Stores full JSON in rating_json1-5 (text columns)
-- Works even if rating columns are empty and inferred as float
-- Skips already-scored rows unless --overwrite-existing is set
-- API key read from .env (XAI_API_KEY=...)
+Checkpoint columns are discovered automatically from the sheet — any column
+that is not 'Prompt' and does not start with 'rating_' is treated as a
+checkpoint output column, with a corresponding 'rating_<name>' column.
 
 Usage:
-  pip install pandas openpyxl python-dotenv requests
-  python rating-automation.py --in ratings3.xlsx --out ratings_scored.xlsx
+  python rating-automation.py --in ratings.xlsx --out ratings_scored.xlsx
 
 Optional:
-  --overwrite-existing        # re-score even if rating exists
-  --max-rows 100              # only first N rows
-  --sleep 0.2                 # delay between API calls (default: 0.2s)
+  --overwrite-existing        re-score rows that already have a score
+  --max-rows 100              only process first N rows
+  --sleep 0.2                 delay between API calls (default: 0.2s)
+
+Requires XAI_API_KEY in .env or environment.
 """
 
 from __future__ import annotations
@@ -38,18 +25,16 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import time
-from typing import Any, Dict
+from typing import Any, Dict, List, Tuple
 
 import pandas as pd
 import requests
 from dotenv import load_dotenv
 
-# xAI OpenAI-compatible API base
 XAI_BASE_URL = "https://api.x.ai"
 XAI_CHAT_COMPLETIONS_ENDPOINT = f"{XAI_BASE_URL}/v1/chat/completions"
-
-# Latest 4.1 reasoning model (per xAI naming)
 MODEL = "grok-4-1-fast-reasoning"
 
 VALIDATION_SYSTEM_INSTRUCTION = """You are a strict validator for model outputs.
@@ -68,7 +53,7 @@ Return STRICT JSON ONLY (no markdown, no extra keys) with this schema:
 {
   "score": integer 0-100,
   "verdict": "pass" | "borderline" | "fail",
-  "reasons": [string, ...],          // 1-5 short bullet-like reasons
+  "reasons": [string, ...],
   "axis_scores": {
     "adherence": integer 0-100,
     "relevance": integer 0-100,
@@ -76,13 +61,10 @@ Return STRICT JSON ONLY (no markdown, no extra keys) with this schema:
     "coherence": integer 0-100,
     "safety": integer 0-100
   },
-  "minimal_fix": string              // one-sentence suggestion to improve the output
+  "minimal_fix": string
 }
 
-Verdict rule:
-- pass: score >= 75
-- borderline: 60-74
-- fail: < 60
+Verdict rule: pass >= 75, borderline 60-74, fail < 60
 """
 
 USER_TEMPLATE = """Prompt:
@@ -93,8 +75,7 @@ Candidate output:
 """
 
 
-def is_empty_cell(x: Any) -> bool:
-    """True if x should be treated as empty/missing."""
+def is_empty(x: Any) -> bool:
     if x is None:
         return True
     if isinstance(x, float) and pd.isna(x):
@@ -104,13 +85,41 @@ def is_empty_cell(x: Any) -> bool:
     return False
 
 
-def call_grok_validate(api_key: str, prompt: str, output: str, timeout_s: int = 60) -> Dict[str, Any]:
-    """Call xAI chat completions and parse strict JSON response."""
+def discover_checkpoints(df: pd.DataFrame) -> List[Tuple[str, str, str]]:
+    """
+    Return list of (output_col, score_col, json_col) for each checkpoint found.
+
+    A checkpoint output column is any column that:
+    - is not 'Prompt'
+    - does not start with 'rating_'
+    The corresponding score column is 'rating_<name>'.
+    """
+    checkpoints = []
+    for col in df.columns:
+        if col == "Prompt" or col.startswith("rating_"):
+            continue
+        score_col = f"rating_{col}"
+        json_col = f"rating_json_{col}"
+        if score_col not in df.columns:
+            print(f"  [!] No score column '{score_col}' for output column '{col}' — skipping")
+            continue
+        checkpoints.append((col, score_col, json_col))
+    return checkpoints
+
+
+def prepare_json_columns(df: pd.DataFrame, checkpoints: List[Tuple[str, str, str]]) -> pd.DataFrame:
+    for _, _, json_col in checkpoints:
+        if json_col not in df.columns:
+            df[json_col] = ""
+        df[json_col] = df[json_col].astype("object")
+    return df
+
+
+def call_grok(api_key: str, prompt: str, output: str, timeout_s: int = 60) -> Dict[str, Any]:
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
     }
-
     payload = {
         "model": MODEL,
         "messages": [
@@ -119,127 +128,84 @@ def call_grok_validate(api_key: str, prompt: str, output: str, timeout_s: int = 
         ],
         "temperature": 0.0,
     }
-
     resp = requests.post(XAI_CHAT_COMPLETIONS_ENDPOINT, headers=headers, json=payload, timeout=timeout_s)
     resp.raise_for_status()
-    data = resp.json()
+    content = resp.json()["choices"][0]["message"]["content"]
 
-    content = data["choices"][0]["message"]["content"]
-
-    # Expect strict JSON; parse it. If the model wraps text, try extracting the first {...}.
     try:
         return json.loads(content)
     except json.JSONDecodeError:
-        start = content.find("{")
-        end = content.rfind("}")
-        if start == -1 or end == -1 or end <= start:
-            raise ValueError(f"Model did not return JSON. Raw content: {content[:500]}")
-        return json.loads(content[start : end + 1])
-
-
-def ensure_columns(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Ensure required input columns exist, and add/prepare output columns:
-      rating_json1/2/3 as object dtype (strings)
-      rating1/2/3 left as-is (numeric-friendly); we write numeric scores into them.
-    """
-    required = [
-        "Prompt",
-        "checkpoint1", "rating1",
-        "checkpoint2", "rating2",
-        "checkpoint3", "rating3",
-        "checkpoint4", "rating4",
-        "checkpoint5", "rating5",
-    ]
-    missing = [c for c in required if c not in df.columns]
-    if missing:
-        raise ValueError(f"Missing required columns: {missing}. Found columns: {list(df.columns)}")
-
-    # Add JSON columns if absent
-    for k in (1, 2, 3, 4, 5):
-        jcol = f"rating_json{k}"
-        if jcol not in df.columns:
-            df[jcol] = ""
-
-    # Force JSON columns to object dtype (strings)
-    for col in ["rating_json1", "rating_json2", "rating_json3", "rating_json4", "rating_json5"]:
-        df[col] = df[col].astype("object")
-
-    return df
+        start, end = content.find("{"), content.rfind("}")
+        if start == -1 or end <= start:
+            raise ValueError(f"Model did not return JSON. Raw: {content[:500]}")
+        return json.loads(content[start:end + 1])
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--in", dest="in_path", required=True, help="Input .xlsx (e.g. ratings.xlsx)")
-    ap.add_argument("--out", dest="out_path", required=True, help="Output .xlsx (e.g. ratings_scored.xlsx)")
-    ap.add_argument("--sleep", type=float, default=0.2, help="Seconds to sleep between API calls")
+    ap = argparse.ArgumentParser(description="Auto-score rating spreadsheet via Grok")
+    ap.add_argument("--in", dest="in_path", required=True, help="Input .xlsx (produced by rating.py)")
+    ap.add_argument("--out", dest="out_path", required=True, help="Output .xlsx with scores written in")
+    ap.add_argument("--sleep", type=float, default=0.2, help="Seconds between API calls (default: 0.2)")
     ap.add_argument("--max-rows", type=int, default=0, help="If >0, only process first N rows")
-    ap.add_argument(
-        "--overwrite-existing",
-        action="store_true",
-        help="Re-score even if rating cell is non-empty",
-    )
+    ap.add_argument("--overwrite-existing", action="store_true", help="Re-score even if score already exists")
     args = ap.parse_args()
 
     load_dotenv()
     api_key = os.getenv("XAI_API_KEY")
     if not api_key:
-        raise RuntimeError("Missing XAI_API_KEY. Put it in a .env file or export it in your shell environment.")
+        raise SystemExit("[!] Missing XAI_API_KEY. Add it to .env or export it in your shell.")
 
     df = pd.read_excel(args.in_path)
-    df = ensure_columns(df)
+
+    if "Prompt" not in df.columns:
+        raise SystemExit(f"[!] No 'Prompt' column found. Columns: {list(df.columns)}")
+
+    checkpoints = discover_checkpoints(df)
+    if not checkpoints:
+        raise SystemExit("[!] No checkpoint output columns found in the sheet.")
+
+    print(f"[+] Discovered {len(checkpoints)} checkpoint(s):")
+    for out_col, score_col, json_col in checkpoints:
+        print(f"    {out_col} -> {score_col}")
+
+    df = prepare_json_columns(df, checkpoints)
 
     n = len(df) if args.max_rows <= 0 else min(len(df), args.max_rows)
 
     for i in range(n):
-        prompt_val = df.at[i, "Prompt"]
-        prompt = "" if is_empty_cell(prompt_val) else str(prompt_val)
+        prompt = df.at[i, "Prompt"]
+        prompt = "" if is_empty(prompt) else str(prompt)
 
-        for k in (1, 2, 3, 4, 5):
-            out_col = f"checkpoint{k}"
-            score_col = f"rating{k}"         # numeric score
-            json_col = f"rating_json{k}"     # full JSON text
-
+        for out_col, score_col, json_col in checkpoints:
             output_val = df.at[i, out_col]
-            if is_empty_cell(output_val):
+            if is_empty(output_val):
                 continue
 
             existing_score = df.at[i, score_col]
             existing_json = df.at[i, json_col]
-
-            # Skip if we already have something unless overwrite requested.
             if not args.overwrite_existing:
-                # If either numeric score exists or JSON exists, treat as already scored
-                if (not is_empty_cell(existing_score)) or (not is_empty_cell(existing_json)):
+                if not is_empty(existing_score) or not is_empty(existing_json):
                     continue
 
             try:
-                result = call_grok_validate(api_key=api_key, prompt=prompt, output=str(output_val))
-
-                # Write numeric score for easy filtering/sorting
+                result = call_grok(api_key, prompt, str(output_val))
                 df.at[i, score_col] = result.get("score", None)
-
-                # Write full JSON to text column
                 df.at[i, json_col] = json.dumps(result, ensure_ascii=False)
-
             except Exception as e:
-                # Keep sheet consistent even on error
                 df.at[i, score_col] = None
-                df.at[i, json_col] = json.dumps(
-                    {
-                        "score": None,
-                        "verdict": "error",
-                        "reasons": [str(e)[:300]],
-                        "axis_scores": {},
-                        "minimal_fix": "",
-                    },
-                    ensure_ascii=False,
-                )
+                df.at[i, json_col] = json.dumps({
+                    "score": None, "verdict": "error",
+                    "reasons": [str(e)[:300]],
+                    "axis_scores": {}, "minimal_fix": "",
+                }, ensure_ascii=False)
 
             time.sleep(args.sleep)
 
+        if (i + 1) % 10 == 0:
+            print(f"  [{i + 1}/{n}] rows processed")
+
     df.to_excel(args.out_path, index=False)
-    print(f"Done. Wrote: {args.out_path}")
+    print(f"[ok] Wrote: {args.out_path}")
 
 
 if __name__ == "__main__":
